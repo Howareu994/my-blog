@@ -3,22 +3,23 @@ layout: page
 title: About
 permalink: /about/
 ---
-Wer bin ich?
+Wer bin ich?  🤓
 
 Ich heiße Howyou, aus China in 1994 geboren. Ich bin einer Student an einer Technischer Hoschule, Wirtschaftsinfomartiker.
 
 
-Was macht ich in Berlin? 
+Was macht ich in Berlin?  🤓
 
 Im Jahr 2018 habe ich mich entschieden, von Henan nach Berlin umzuziehen. Erste Sprachschule war 'Die Deutschule' in Neukölln fast anderthalb Jahren, Dann habe ich 'DSH Training' in Dortmund über Sechs Monat besucht.
 
 
-Warum baue ich diese Webseite? 
+Warum baue ich diese Webseite? 🤓
 
 Um die praktische Informations zu teilen.
 Welche Aufgabeliste brache ich zu schaffen, damit ich in Deutschland erleben und unabhängig von Englischer Kultur sein werde?
 Welche Freiheit oder Recht bekomme ich hier, wenn ich eine Arbeit suche oder Party feiere?
 
+
 
 我是谁？🤓
 
