@@ -5,19 +5,21 @@ permalink: /about/
 ---
 🤓 Wer bin ich?  
 
-Ich heiße Howyou, aus China in 1994 geboren. Ich bin einer Student an einer Technischer Hoschule, Wirtschaftsinfomartiker.
+Ich heiße Howyou, aus China in 1994 geboren. Ich bin einer Student an einer Technischer Hochschule, Wirtschaftsinformatiker.
 
 
 🥸Was macht ich in Berlin?  
 
-Im Jahr 2018 habe ich mich entschieden, von Henan nach Berlin umzuziehen. Erste Sprachschule war 'Die Deutschule' in Neukölln fast anderthalb Jahren, Dann habe ich 'DSH Training' in Dortmund über Sechs Monat besucht.
+Im Jahr 2018 habe ich mich entschieden, von Henan(河南) nach Berlin umzuziehen. Erste Sprachschule war 'Die Deutschule' in Neukölln seit fast anderthalb Jahren, Dann habe ich 'DSH Training' in Dortmund über vier Monat besucht.
 
 
 🤔Warum baue ich diese Webseite? 
 
 Um die praktische Informations zu teilen.
 Welche Aufgabeliste brache ich zu schaffen, damit ich in Deutschland erleben und unabhängig von Englischer Kultur sein werde?
-Welche Freiheit oder Recht bekomme ich hier, wenn ich eine Arbeit suche oder Party feiere?
+Welche Freiheit oder Recht hätte ich, wenn ich eine Arbeit entgelassen würde? ...
+
+ich mache sehr gerne Brainstorming und kenne manche interessante Trends. 
 
 
 
