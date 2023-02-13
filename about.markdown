@@ -19,7 +19,7 @@ Um die praktische Informations zu teilen.
 Welche Aufgabeliste brache ich zu schaffen, damit ich in Deutschland erleben und unabhängig von Englischer Kultur sein werde?
 Welche Freiheit oder Recht bekomme ich hier, wenn ich eine Arbeit suche oder Party feiere?
 
-
+
 
 🤓我是谁？
 
