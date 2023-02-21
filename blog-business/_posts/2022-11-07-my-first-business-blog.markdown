@@ -12,7 +12,10 @@ category: Business
 川菜，湘菜，鲁菜，粤菜，浙菜，苏菜，徽菜，闽菜。
 2. 常饮顺序：
 湘菜，川菜，浙菜，鲁菜，粤菜，微菜，苏菜，闽菜。
-
+3. 八大菜系顺序：
+川菜，湘菜，粤菜，闽菜，苏菜，浙菜，徽菜，鲁菜。
+Sichuan Cuisine, Hunan Cuisine, Guangdong Cuisine, Fujian Cuisine,Jiangsu Cuisine, 
+Zhejiang Cuisine, Anhui Cuisine, Shandong Cuisine.
 
 🔥Berlin:
 China Restaurant Holly 辣子鸡，烤串和烧仙草。
