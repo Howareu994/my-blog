@@ -7,7 +7,7 @@ category: Business
 
 
 ## ☺️拯救过我味蕾名单 
-## ☺️Authentisch chinesische Restaurant in Deutschland
+## ☺️Chinesische authentisch Restaurant in Deutschland
 1. 喜爱顺序：
 川菜，湘菜，鲁菜，粤菜，浙菜，苏菜，徽菜，闽菜。
 2. 常饮顺序：
