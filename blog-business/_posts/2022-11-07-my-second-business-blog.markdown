@@ -17,3 +17,5 @@ Green Flavor是一家Kantstraße我喜欢的中餐厅，老板和老板娘会做
 只是路过的人都很松弛，给人一种很自由的感受，并且貌似都来自不同阶级的缘故，每个人风格迥异。可惜周一老板不开门，说是攒够钱了可以休息一下。很羡慕他们🧚🏻
 -HY
 
+地址：
+https://maps.app.goo.gl/7qiLnyg6wx3DogLu6?g_st=com.google.maps.preview.copy
