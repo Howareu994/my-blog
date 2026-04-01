@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>柏林美食情报台</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <style>
+        /* 页面基础设置：暮空蓝主题 */
+        body { margin: 0; padding: 0; display: flex; height: 100vh; font-family: 'Helvetica Neue', Arial, sans-serif; background-color: #0b2e4a; color: #e0e0e0; }
+        
+        /* 左侧：文字博客区 */
+        #sidebar { width: 35%; padding: 30px; overflow-y: auto; box-sizing: border-box; border-right: 1px solid #1a5b8a; background: linear-gradient(135deg, #0e305a 0%, #1e5a8c 100%); z-index: 10; box-shadow: 2px 0 15px rgba(0,0,0,0.5); }
+        h1 { font-size: 24px; border-bottom: 2px solid #4a8bbd; padding-bottom: 10px; margin-bottom: 20px; color: #ffffff; }
+        
+        /* 餐厅卡片设计 */
+        .restaurant-item { padding: 15px; margin-bottom: 15px; background-color: rgba(255, 255, 255, 0.08); border-radius: 8px; cursor: pointer; transition: all 0.3s ease; border-left: 4px solid transparent; }
+        .restaurant-item:hover { background-color: rgba(255, 255, 255, 0.15); border-left: 4px solid #FFB800; transform: translateX(5px); }
+        .restaurant-name { font-weight: bold; font-size: 18px; color: #fff; margin-bottom: 5px; }
+        .restaurant-desc { font-size: 14px; color: #b3d4ec; line-height: 1.5; }
+        
+        /* 右侧：地图区 */
+        #map { width: 65%; height: 100vh; }
+
+        /* 自定义地图标记：赛博琥珀金节点（带深色边框适配浅色地图） */
+        .obsidian-node { background-color: #FFB800; border-radius: 50%; border: 2px solid #0b2e4a; box-shadow: 0 0 10px #FFB800, 0 0 20px #FFB800; animation: pulse 2s infinite; }
+        @keyframes pulse { 0% { box-shadow: 0 0 0 0 rgba(255, 184, 0, 0.8); } 70% { box-shadow: 0 0 0 12px rgba(255, 184, 0, 0); } 100% { box-shadow: 0 0 0 0 rgba(255, 184, 0, 0); } }
+    </style>
+</head>
+<body>
+
+    <div id="sidebar">
+        <h1>📍 德国最爱餐厅情报</h1>
+        <p style="color: #b3d4ec; font-size: 12px; margin-bottom: 30px;">将鼠标悬停在餐厅卡片上，右侧地图将自动定位并点亮节点。</p>
+
+        <div class="restaurant-item" data-lat="52.5065" data-lng="13.3328" data-title="China Restaurant Holly">
+            <div class="restaurant-name">China Restaurant Holly</div>
+            <div class="restaurant-desc">特色菜：辣子鸡，烤串，烧仙草<br>Spezialitäten: Knuspriges Chili-Hähnchen, Grillspieße, Grasgelee-Dessert</div>
+        </div>
+
+        <div class="restaurant-item" data-lat="52.5218" data-lng="13.4074" data-title="Asia Restaurant Sonne">
+            <div class="restaurant-name">Asia Restaurant Sonne</div>
+            <div class="restaurant-desc">特色菜：夫妻肺片，酸菜肥牛<br>Spezialitäten: Fuqi Feipian, Suancai Feiniu</div>
+        </div>
+
+        <div class="restaurant-item" data-lat="52.5055" data-lng="13.3150" data-title="Liu Nudelhaus">
+            <div class="restaurant-name">Liu Nudelhaus</div>
+            <div class="restaurant-desc">特色菜：重庆小面，小份前菜<br>Spezialitäten: Chongqing-Nudeln, kleine Vorspeisen</div>
+        </div>
+
+        <div class="restaurant-item" data-lat="52.5385" data-lng="13.4071" data-title="Wok show">
+            <div class="restaurant-name">Wok show</div>
+            <div class="restaurant-desc">特色菜：地三鲜水饺<br>Spezialitäten: Di San Xian, Teigtaschen (Jiaozi)</div>
+        </div>
+
+        <div class="restaurant-item" data-lat="52.5015" data-lng="13.3080" data-title="Tulong">
+            <div class="restaurant-name">Tulong</div>
+            <div class="restaurant-desc">特色菜：羊腩煲，炸酱面（香港菜）<br>Spezialitäten: Lammbauch-Eintopf, Nudeln nach Hongkong-Art</div>
+        </div>
+
+        <div class="restaurant-item" data-lat="52.5098" data-lng="13.3742" data-title="Le moon China Restaurant">
+            <div class="restaurant-name">Le moon China Restaurant</div>
+            <div class="restaurant-desc">特色菜：地锅鸡<br>Spezialitäten: Hähnchen-Eintopf mit Teigfladen (Diguo Ji)</div>
+        </div>
+
+        <div class="restaurant-item" data-lat="52.5102" data-lng="13.3833" data-title="Golden Tea Garten">
+            <div class="restaurant-name">Golden Tea Garten</div>
+            <div class="restaurant-desc">特色菜：饮品<br>Spezialitäten: Getränke</div>
+        </div>
+
+        <div class="restaurant-item" data-lat="52.5032" data-lng="13.3308" data-title="xiaolongkan">
+            <div class="restaurant-name">xiaolongkan</div>
+            <div class="restaurant-desc">特色菜：四川火锅（黄瓜，牛肚，菌菇）<br>Spezialitäten: Sichuan-Feuertopf</div>
+        </div>
+
+        <div class="restaurant-item" data-lat="52.5245" data-lng="13.3878" data-title="SIIO Bubble Tea und Teigtaschen">
+            <div class="restaurant-name">SIIO Bubble Tea und Teigtaschen</div>
+            <div class="restaurant-desc">特色菜：早茶<br>Spezialitäten: Dim Sum (Morgentee)</div>
+        </div>
+
+        <div class="restaurant-item" data-lat="52.5226" data-lng="13.3887" data-title="Meet you">
+            <div class="restaurant-name">Meet you</div>
+            <div class="restaurant-desc">特色菜：咖喱牛肉粉，牛蛙煲，早茶<br>Spezialitäten: Curry-Rindfleisch-Reisnudeln, Ochsenfrosch-Eintopf</div>
+        </div>
+
+        <div class="restaurant-item" data-lat="52.5204" data-lng="13.3888" data-title="Deli House">
+            <div class="restaurant-name">Deli House</div>
+            <div class="restaurant-desc">特色菜：猪肚鸡，川北凉粉，野山椒牛肉<br>Spezialitäten: Hühnersuppe mit Schweinemagen, kalte Mungbohnennudeln</div>
+        </div>
+
+        <div class="restaurant-item" data-lat="52.4842" data-lng="13.4326" data-title="Baba Sultan Köfteci">
+            <div class="restaurant-name">Baba Sultan Köfteci</div>
+            <div class="restaurant-desc">特色菜：土耳其羊肉汤，6欧羊头汤<br>Spezialitäten: Türkische Lammsuppe, Schafskopfsuppe</div>
+        </div>
+
+        <div class="restaurant-item" data-lat="52.5116" data-lng="13.3898" data-title="Cafe Bar Restaurant Shanshan">
+            <div class="restaurant-name">Cafe Bar Restaurant Shanshan</div>
+            <div class="restaurant-desc">特色菜：水煮牛肉，预定煲汤和松鼠鱼<br>Spezialitäten: Rindfleisch in Chili-Öl, Süß-saurer Fisch</div>
+        </div>
+
+        <div class="restaurant-item" data-lat="52.5052" data-lng="13.3245" data-title="Wencheng biangbiang nudeln">
+            <div class="restaurant-name">Wencheng biangbiang nudeln</div>
+            <div class="restaurant-desc">特色菜：山西面馆，Biangbiang面<br>Spezialitäten: Shanxi-Nudelhaus, Biangbiang-Nudeln</div>
+        </div>
+
+        <div class="restaurant-item" data-lat="52.5121" data-lng="13.3897" data-title="Fu Li Lai">
+            <div class="restaurant-name">Fu Li Lai</div>
+            <div class="restaurant-desc">特色菜：东北大拉皮，锅包肉，大肉包，羊肉泡馍<br>Spezialitäten: Dongbei Dalapi, Guobaorou, Lammsuppe</div>
+        </div>
+
+        <div class="restaurant-item" data-lat="52.5232" data-lng="13.4069" data-title="cozymazu">
+            <div class="restaurant-name">cozymazu</div>
+            <div class="restaurant-desc">特色菜：茶水很棒，闽菜分量小<br>Spezialitäten: Toller Tee, Fujian-Küche</div>
+        </div>
+
+        <div class="restaurant-item" data-lat="52.5255" data-lng="13.4035" data-title="Aroma">
+            <div class="restaurant-name">Aroma</div>
+            <div class="restaurant-desc">特色菜：肠粉，豆豉蒸肉<br>Spezialitäten: Reisnudelrollen (Changfen), Schweinefleisch mit schwarzen Bohnen</div>
+        </div>
+
+        <div class="restaurant-item" data-lat="52.5074" data-lng="13.3934" data-title="Duo De Li">
+            <div class="restaurant-name">Duo De Li</div>
+            <div class="restaurant-desc">特色菜：火辣过桥米线<br>Spezialitäten: Scharfe Reisnudeln "Über die Brücke"</div>
+        </div>
+
+        <div class="restaurant-item" data-lat="52.5048" data-lng="13.3219" data-title="leis Küche">
+            <div class="restaurant-name">leis Küche</div>
+            <div class="restaurant-desc">特色菜：蚂蚁上树<br>Spezialitäten: Mayi Shangshu (Glasnudeln mit Hackfleisch)</div>
+        </div>
+
+        <div class="restaurant-item" data-lat="52.5303" data-lng="13.4116" data-title="Da jia le">
+            <div class="restaurant-name">Da jia le</div>
+            <div class="restaurant-desc">特色菜：酸辣土豆丝<br>Spezialitäten: Scharf-saure Kartoffelstreifen</div>
+        </div>
+
+        <div class="restaurant-item" data-lat="52.5218" data-lng="13.4074" data-title="Ming Dynastie West">
+            <div class="restaurant-name">Ming Dynastie West</div>
+            <div class="restaurant-desc">特色菜：分量足的川菜<br>Spezialitäten: Großzügige Portionen der Sichuan-Küche</div>
+        </div>
+
+        <div class="restaurant-item" data-lat="52.5305" data-lng="13.4115" data-title="MingTastie">
+            <div class="restaurant-name">MingTastie</div>
+            <div class="restaurant-desc">特色菜：面条和生煎<br>Spezialitäten: Nudeln und gebratene Teigtaschen (Shengjian)</div>
+        </div>
+
+        <div class="restaurant-item" data-lat="52.5055" data-lng="13.3210" data-title="Chens Wok">
+            <div class="restaurant-name">Chens Wok</div>
+            <div class="restaurant-desc">特色菜：卤猪蹄<br>Spezialitäten: Geschmorte Schweinefüße</div>
+        </div>
+
+        <div class="restaurant-item" data-lat="51.4287" data-lng="6.8732" data-title="Bruder Grill">
+            <div class="restaurant-name">Bruder Grill</div>
+            <div class="restaurant-desc">特色菜：自助烧烤，温馨环境<br>Spezialitäten: Chinesisches BBQ-Buffet</div>
+        </div>
+
+        <div class="restaurant-item" data-lat="48.1368" data-lng="11.5606" data-title="Taklamakan">
+            <div class="restaurant-name">Taklamakan</div>
+            <div class="restaurant-desc">特色菜：拉条子，大盘鸡面<br>Spezialitäten: Laghman, Dapanji</div>
+        </div>
+    </div> <div id="map"></div>
+
+    <script>
+        // 初始化地图
+        const map = L.map('map').setView([52.5200, 13.4050], 12);
+
+        // 引入浅灰色高级底图
+        L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+            attribution: '&copy; OpenStreetMap &copy; CartoDB',
+            subdomains: 'abcd',
+            maxZoom: 19
+        }).addTo(map);
+
+        // 自定义发光琥珀金节点
+        const glowingIcon = L.divIcon({
+            className: 'obsidian-node',
+            iconSize: [12, 12],
+            iconAnchor: [6, 6]
+        });
+
+        const markers = {};
+
+        // 绑定卡片与地图的交互
+        document.querySelectorAll('.restaurant-item').forEach(item => {
+            const lat = parseFloat(item.getAttribute('data-lat'));
+            const lng = parseFloat(item.getAttribute('data-lng'));
+            const title = item.getAttribute('data-title');
+
+            const marker = L.marker([lat, lng], {icon: glowingIcon}).addTo(map);
+            marker.bindPopup(`<b>${title}</b>`);
+            markers[title] = marker;
+
+            item.addEventListener('mouseenter', () => {
+                map.flyTo([lat, lng], 15, { animate: true, duration: 1.5 });
+                markers[title].openPopup();
+            });
+        });
+    </script>
+</body>
+</html>
