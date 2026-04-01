@@ -205,20 +205,31 @@
 
         const markers = {};
 
-        // 绑定卡片与地图的交互
+        // --- 核心交互逻辑：统一处理“飞行动画” ---
+        const triggerFlight = (lat, lng, title) => {
+            map.flyTo([lat, lng], 15, { 
+                animate: true, 
+                duration: 1.5 
+            });
+            markers[title].openPopup();
+        };
+
+        // 遍历所有餐厅卡片，绑定标记和点击/悬停事件
         document.querySelectorAll('.restaurant-item').forEach(item => {
             const lat = parseFloat(item.getAttribute('data-lat'));
             const lng = parseFloat(item.getAttribute('data-lng'));
             const title = item.getAttribute('data-title');
 
+            // 1. 在地图上放一个发光点
             const marker = L.marker([lat, lng], {icon: glowingIcon}).addTo(map);
             marker.bindPopup(`<b>${title}</b>`);
             markers[title] = marker;
 
-            item.addEventListener('mouseenter', () => {
-                map.flyTo([lat, lng], 15, { animate: true, duration: 1.5 });
-                markers[title].openPopup();
-            });
+            // 2. 电脑端：鼠标移上去就飞过去
+            item.addEventListener('mouseenter', () => triggerFlight(lat, lng, title));
+            
+            // 3. 手机/iPad端：手指点一下就飞过去 (这是新增的修复)
+            item.addEventListener('click', () => triggerFlight(lat, lng, title));
         });
     </script>
 </body>
