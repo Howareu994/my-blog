@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <style>
+        
         /* 页面基础设置：暮空蓝主题 */
         body { margin: 0; padding: 0; display: flex; height: 100vh; font-family: 'Helvetica Neue', Arial, sans-serif; background-color: #0b2e4a; color: #e0e0e0; }
         
@@ -26,7 +27,31 @@
         /* 自定义地图标记：赛博琥珀金节点（带深色边框适配浅色地图） */
         .obsidian-node { background-color: #FFB800; border-radius: 50%; border: 2px solid #0b2e4a; box-shadow: 0 0 10px #FFB800, 0 0 20px #FFB800; animation: pulse 2s infinite; }
         @keyframes pulse { 0% { box-shadow: 0 0 0 0 rgba(255, 184, 0, 0.8); } 70% { box-shadow: 0 0 0 12px rgba(255, 184, 0, 0); } 100% { box-shadow: 0 0 0 0 rgba(255, 184, 0, 0); } }
-    </style>
+    /* --- 移动端手机适配补丁 --- */
+@media (max-width: 768px) {
+    body {
+        flex-direction: column; /* 将左右并排改为上下堆叠 */
+    }
+
+    #sidebar {
+        width: 100%;       /* 宽度占满屏幕 */
+        height: 60vh;      /* 列表占屏幕 60% 的高度 */
+        order: 2;          /* 将列表排在下面 */
+        border-right: none;
+        border-top: 1px solid #1a5b8a;
+    }
+
+    #map {
+        width: 100%;       /* 宽度占满屏幕 */
+        height: 40vh;      /* 地图占屏幕 40% 的高度 */
+        order: 1;          /* 将地图排在上面 */
+    }
+
+    h1 {
+        font-size: 20px;   /* 手机上标题稍微调小一点 */
+        margin-bottom: 10px;
+    }
+}</style>
 </head>
 <body>
 
