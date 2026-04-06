@@ -1,0 +1,1402 @@
+[
+    {
+        "name": "大明酒家/Ming Dynastie (West)",
+        "lat": 52.5039078,
+        "lon": 13.3385657,
+        "address": "Tauentzienstraße 9-12, 10789 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "优米/You Mi",
+        "lat": 52.5001786,
+        "lon": 13.3358384,
+        "address": "Nürnberger Str. 28, 10789 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "零零八六/0086",
+        "lat": 52.5052737,
+        "lon": 13.3192386,
+        "address": "Bleibtreustraße 7, 10623 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "财神饭店/Aroma",
+        "lat": 52.5063437,
+        "lon": 13.3155769,
+        "address": "Kantstraße 35, 10625 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "老友记/Good Friends",
+        "lat": 52.5062361,
+        "lon": 13.3178317,
+        "address": "Kantstraße 30, 10623 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "多得利/Do De Li",
+        "lat": 52.5063428,
+        "lon": 13.3100409,
+        "address": "Kantstraße 120, 10625 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "璐/Lulu's",
+        "lat": 52.5077772,
+        "lon": 13.3223994,
+        "address": "Knesebeckstraße 18-19, 10623 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "绿食膳/Green Flavor",
+        "lat": 52.5060639,
+        "lon": 13.3209744,
+        "address": "Kantstraße 22, 10623 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "老陈一品香/Chen's Wok",
+        "lat": 52.5133371,
+        "lon": 13.3185871,
+        "address": "Otto-Suhr-Allee 11-13, 10585 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "新阳光/Sonne",
+        "lat": 52.5066568,
+        "lon": 13.2845552,
+        "address": "Neue Kantstraße 16, 14057 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "恩李菜/En Lee Cai",
+        "lat": 52.5027787,
+        "lon": 13.32812,
+        "address": "Kurfürstendamm 218, 10719 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "Ming Jia",
+        "lat": 52.5119442,
+        "lon": 13.2974907,
+        "address": "Schloßstraße 32, 14059 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "德记/Tak Kee",
+        "lat": 52.5024206,
+        "lon": 13.3077065,
+        "address": "Wilmersdorfer Str. 79, 10629 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "红豆中餐馆/Rotbohnen (Charlottenburg)",
+        "lat": 52.5157017,
+        "lon": 13.3045265,
+        "address": "Wilmersdorfer Str. 17, 10585 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "土龙/Tu Long",
+        "lat": 52.5139803,
+        "lon": 13.3163265,
+        "address": "Otto-Suhr-Allee 25, 10585 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "Lu Kitchen (Bikini)",
+        "lat": 52.5059999,
+        "lon": 13.3348895,
+        "address": "Budapester Str. 38-50, 10787 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "Wen Cheng (Charlottenburg)",
+        "lat": 52.503445,
+        "lon": 13.3308958,
+        "address": "Joachimsthaler Str. 10, 10719 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "兰州拉面/Lanzhou Beef Noodles (Charlottenburg)",
+        "lat": 52.5068198,
+        "lon": 13.3072424,
+        "address": "Kantstraße 56, 10627 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "桃园面馆/Tao Yuan Noodlehouse",
+        "lat": 52.5139572,
+        "lon": 13.3046684,
+        "address": "Wilmersdorfer Str. 26, 10585 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "Rong's Noodlehouse",
+        "lat": 52.5128915,
+        "lon": 13.3146441,
+        "address": "Leibnizstraße 101, 10625 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "玉面阁/Jade Palast (Charlottenburg)",
+        "lat": 52.5063587,
+        "lon": 13.308974,
+        "address": "Kantstraße 117A, 10627 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "龙门牛肉面大王/Lon Men's Noodle House",
+        "lat": 52.5063185,
+        "lon": 13.3164489,
+        "address": "Kantstraße 33, 10625 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "伴面/Ban Noodle",
+        "lat": 52.5070857,
+        "lon": 13.3043306,
+        "address": "Kantstraße 62, 10627 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "Little Little Restaurant",
+        "lat": 52.5052377,
+        "lon": 13.3011347,
+        "address": "Stuttgarter Pl. 16, 10627 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "Biang Biang Ming (Bikini)",
+        "lat": 52.5059999,
+        "lon": 13.3348895,
+        "address": "Budapester Str. 38-50, 10787 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "Han Bites KTV",
+        "lat": 52.5063428,
+        "lon": 13.3100409,
+        "address": "Kantstraße 120, 10625 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "You Mi 串烧",
+        "lat": 52.5068419,
+        "lon": 13.3075018,
+        "address": "Kantstraße 56, 10627 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "帽牌冒菜/Mao Master",
+        "lat": 52.5066569,
+        "lon": 13.3100082,
+        "address": "Kantstr. 50, 10625 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "大碗麻辣烫/Mala House",
+        "lat": 52.5159595,
+        "lon": 13.3044984,
+        "address": "Wilmersdorfer Str. 15, 10585 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "小龙坎/ShooLoongKan Hotpot",
+        "lat": 52.5016324,
+        "lon": 13.3292458,
+        "address": "Meinekestraße 22, 10719 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "您好饭店/Ni Hao",
+        "lat": 52.5123034,
+        "lon": 13.31237,
+        "address": "Bismarckstraße 24, 10625 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "大明酒家/Ming Dynastie (Jannowitzbrücke)",
+        "lat": 52.5135789,
+        "lon": 13.418481,
+        "address": "Brückenstraße 6, 10179 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "嘉/Jolly",
+        "lat": 52.5206683,
+        "lon": 13.3947157,
+        "address": "Am Kupfergraben 4, 10117 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "川园/Chuan Garden",
+        "lat": 52.5284483,
+        "lon": 13.3926767,
+        "address": "Torstraße 189, 10115 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "中国城大酒楼/China City",
+        "lat": 52.5105336,
+        "lon": 13.3974598,
+        "address": "Leipziger Str. 46, 10117 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "倪记/Ni's Restaurant",
+        "lat": 52.5227272,
+        "lon": 13.400342,
+        "address": "Kleine Präsidentenstraße 3, 10178 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "太子/Prince",
+        "lat": 52.5090237,
+        "lon": 13.4020769,
+        "address": "Kommandantenstraße 75, 10117 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "太和饭殿/Peking Ente",
+        "lat": 52.5114767,
+        "lon": 13.3828541,
+        "address": "Voßstraße 1, 10117 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "全家福/Lucky Star",
+        "lat": 52.5254711,
+        "lon": 13.3871193,
+        "address": "Friedrichstraße 127, 10117 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "米吧/MIBAP",
+        "lat": 52.5277637,
+        "lon": 13.413011,
+        "address": "Torstraße 22, 10119 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "饮茶英雄/Yumcha Heroes",
+        "lat": 52.5311999,
+        "lon": 13.4027793,
+        "address": "Weinbergsweg 8, 10119 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "Toca Rouge",
+        "lat": 52.5282871,
+        "lon": 13.3919758,
+        "address": "Torstraße 195, 10115 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "Dump Ling",
+        "lat": 52.5264365,
+        "lon": 13.4077671,
+        "address": "Alte Schönhauser Str. 44, 10119 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "初伍/CHUWUO",
+        "lat": 52.5124788,
+        "lon": 13.4117007,
+        "address": "Inselstraße 8a, 10179 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "Liu成都味道面馆/Liu Nudelhaus",
+        "lat": 52.5112178,
+        "lon": 13.3874544,
+        "address": "Kronenstraße 72, 10117 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "The Tree Noodle House",
+        "lat": 52.533803,
+        "lon": 13.398157,
+        "address": "Brunnenstraße 167, 10119 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "喜面/Xi Mian Hand-Pulled Noodles (Mitte)",
+        "lat": 52.5323926,
+        "lon": 13.3974558,
+        "address": "Invalidenstraße 159, 10115 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "The Noodle Town (Mitte)",
+        "lat": 52.5239329,
+        "lon": 13.3996615,
+        "address": "Große Hamburger Str. 24, 10115 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "宾临城下/Noodle Plus",
+        "lat": 52.5136262,
+        "lon": 13.3813749,
+        "address": "Hannah-Arendt-Straße 1, 10117 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "Bang Bang Noodles (Mitte)",
+        "lat": 52.5288957,
+        "lon": 13.4020773,
+        "address": "Rosenthaler Str. 69, 10119 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "三顾冒菜/Sanku Maots'ai (Mitte)",
+        "lat": 52.5264159,
+        "lon": 13.3869841,
+        "address": "Friedrichstraße 121, 10117 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "杨国福/Yangguofu (Mitte)",
+        "lat": 52.5307267,
+        "lon": 13.4023299,
+        "address": "Weinbergsweg 5, 10119 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "老乡/Lao Xiang",
+        "lat": 52.5460665,
+        "lon": 13.4273602,
+        "address": "Wichertstraße 43, 10439 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "姗姗小屋/Shanshan",
+        "lat": 52.5473563,
+        "lon": 13.4113049,
+        "address": "Gleimstraße 24, 10437 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "味道佳/Wei Dao Jia",
+        "lat": 52.5401182,
+        "lon": 13.4061034,
+        "address": "Oderberger Str. 27, 10435 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "五月花/Mayflower",
+        "lat": 52.5510364,
+        "lon": 13.4183928,
+        "address": "Greifenhagener Str. 27, 10437 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "北方水饺/Wok Show",
+        "lat": 52.5519591,
+        "lon": 13.4192116,
+        "address": "Greifenhagener Str. 31, 10437 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "东海楼/Donghailou Restaurant",
+        "lat": 52.5480965,
+        "lon": 13.4389385,
+        "address": "Ostseestraße 79, 10409 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "凤凰酒楼/Phönix Buffet",
+        "lat": 52.5434771,
+        "lon": 13.4425543,
+        "address": "Greifswalder Str. 90, 10409 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "一点茶寮/Dot Tea Bar",
+        "lat": 52.5474349,
+        "lon": 13.411889,
+        "address": "Gleimstraße 27, 10437 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "包饺会/Bao Gao Club (PBerg)",
+        "lat": 52.5529498,
+        "lon": 13.4139291,
+        "address": "Schönhauser Allee 103, 10439 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "马路边/Marubi",
+        "lat": 52.5292383,
+        "lon": 13.4095955,
+        "address": "Schönhauser Allee 187, 10119 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "海椒/Hi! Chili",
+        "lat": 52.5310471,
+        "lon": 13.4101305,
+        "address": "Fehrbelliner Str. 5, 10119 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "Lecker Song",
+        "lat": 52.5441097,
+        "lon": 13.4203317,
+        "address": "Schliemannstraße 19, 10437 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "Yummy Dumpling",
+        "lat": 52.5481127,
+        "lon": 13.4130983,
+        "address": "Schönhauser Allee 122, 10437 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "Wen Cheng (PBerg 1)",
+        "lat": 52.5462139,
+        "lon": 13.4134258,
+        "address": "Schönhauser Allee 65, 10437 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "Wen Cheng (PBerg 2)",
+        "lat": 52.5306822,
+        "lon": 13.4117225,
+        "address": "Schönhauser Allee 10, 10119 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "功夫辣椒/Kongfu Chili",
+        "lat": 52.54405,
+        "lon": 13.41987,
+        "address": "Schliemannstraße 31, 10437 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "空/Kong Chinese Noodle Restaurant",
+        "lat": 52.5328867,
+        "lon": 13.4209191,
+        "address": "Prenzlauer Allee 27A, 10405 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "喜面/Xi Mian Hand-Pulled Noodles (PBerg)",
+        "lat": 52.5406523,
+        "lon": 13.4140012,
+        "address": "Danziger Str. 10, 10435 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "素素/Susu Vegan Food",
+        "lat": 52.5413244,
+        "lon": 13.4105468,
+        "address": "Eberswalder Str. 29, 10437 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "The Butterfly Lovers",
+        "lat": 52.533101,
+        "lon": 13.401557,
+        "address": "Veteranenstraße 10, 10119 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "寻鲜记/Chuan House",
+        "lat": 52.5231148,
+        "lon": 13.4348443,
+        "address": "Landsberger Allee 6, 10249 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "玉面阁/Jade Palast (Fhain)",
+        "lat": 52.5096443,
+        "lon": 13.4577523,
+        "address": "Wühlischstraße 30, 10245 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "华亭饭店/HuaTing",
+        "lat": 52.517794,
+        "lon": 13.428828,
+        "address": "Strausberger Pl. 13, 10243 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "上海饭店/Shanghai",
+        "lat": 52.5137829,
+        "lon": 13.4712037,
+        "address": "Frankfurter Allee 90, 10247 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "红豆中餐馆/Rotbohnen (Fhain)",
+        "lat": 52.5075952,
+        "lon": 13.467407,
+        "address": "Boxhagener Str. 55, 10245 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "Lu Kitchen (Fhain)",
+        "lat": 52.5088722,
+        "lon": 13.4559091,
+        "address": "Simon-Dach-Straße 30, 10245 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "茶点屋/Teegebäck-Haus",
+        "lat": 52.5145873,
+        "lon": 13.4710438,
+        "address": "Waldeyerstraße 12, 10247 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "熊猫师傅/Panda Meister (Ostbahnhof)",
+        "lat": 52.5119357,
+        "lon": 13.4338503,
+        "address": "Hermann-Stöhr-Platz 9-11, 10243 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "山西面馆/Shanxi Nudelhaus",
+        "lat": 52.5185096,
+        "lon": 13.4659365,
+        "address": "Samariterstraße 28, 10247 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "陈记牛肉面/Mr. Noodle Chen (Fhain)",
+        "lat": 52.5144407,
+        "lon": 13.4590749,
+        "address": "Niederbarnimstraße 4, 10247 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "兰州拉面/Lanzhou Beef Noodles (Fhain)",
+        "lat": 52.5107836,
+        "lon": 13.4576377,
+        "address": "Krossener Str. 12, 10245 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "傻妞面馆/Shaniu's House of Noodles (Fhain)",
+        "lat": 52.5132988,
+        "lon": 13.4580361,
+        "address": "Niederbarnimstraße 12, 10247 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "见一面/Meet Noodles",
+        "lat": 52.5126623,
+        "lon": 13.4591284,
+        "address": "Boxhagener Str. 104, 10245 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "Wen Cheng (Fhain)",
+        "lat": 52.5084957,
+        "lon": 13.4552757,
+        "address": "Simon-Dach-Straße 22, 10245 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "麦/May Noodles",
+        "lat": 52.5082134,
+        "lon": 13.4665734,
+        "address": "Boxhagener Str. 50, 10245 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "如意轩火锅/Ruyixuan Hotpot",
+        "lat": 52.5151612,
+        "lon": 13.4687928,
+        "address": "Frankfurter Allee 73C, 10247 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "三顾冒菜/Sanku Maots'ai (Fhain)",
+        "lat": 52.5138835,
+        "lon": 13.4536171,
+        "address": "Warschauer Str. 81a, 10241 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "大清面馆/Hotpot & Nudeln",
+        "lat": 52.5071676,
+        "lon": 13.4574607,
+        "address": "Revaler Str. 17, 10245 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "莲花阁/Kamala Vegan",
+        "lat": 52.5093526,
+        "lon": 13.465542,
+        "address": "Boxhagener Str. 85, 10245 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "长征餐厅/Long March Canteen",
+        "lat": 52.502969,
+        "lon": 13.4309782,
+        "address": "Wrangelstraße 20, 10997 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "蜀味坊/Shu Wei Fang",
+        "lat": 52.4964833,
+        "lon": 13.4203413,
+        "address": "Paul-Lincke-Ufer 45, 10999 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "唐记/Tangs Kantine",
+        "lat": 52.4924683,
+        "lon": 13.4163888,
+        "address": "Dieffenbachstraße 18, 10967 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "中华饭店/Zhong Hua",
+        "lat": 52.5048782,
+        "lon": 13.3970187,
+        "address": "Lindenstraße 29A, 10969 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "包饺会/Bao Gao Club (Xberg)",
+        "lat": 52.5021661,
+        "lon": 13.4314886,
+        "address": "Eisenbahnstraße 42-43, 10997 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "年三十饺子/Dumplings Nian",
+        "lat": 52.5017527,
+        "lon": 13.4321224,
+        "address": "Eisenbahnstraße 4, 10997 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "一家小院/Yijian",
+        "lat": 52.5011458,
+        "lon": 13.4432839,
+        "address": "Oberbaumstraße 5, 10997 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "Cha for Tee",
+        "lat": 52.4869029,
+        "lon": 13.3946515,
+        "address": "Friesenstraße 18, 10965 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "陈记牛肉面/Chen's Noodle House (Xberg)",
+        "lat": 52.5005116,
+        "lon": 13.4189483,
+        "address": "Adalbertstraße 7, 10999 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "Chunking Noodles",
+        "lat": 52.4972686,
+        "lon": 13.4232581,
+        "address": "Reichenberger Str. 35, 10999 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "Wen Cheng (Xberg)",
+        "lat": 52.4986531,
+        "lon": 13.4316113,
+        "address": "Spreewaldpl. 5, 10999 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "Bang Bang Noodles (Xberg)",
+        "lat": 52.4916312,
+        "lon": 13.387538,
+        "address": "Mehringdamm 51, 10961 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "遇见拉面馆/Yila Nudel",
+        "lat": 52.493873,
+        "lon": 13.4352644,
+        "address": "Liegnitzer Str. 30, 10999 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "N Noodles & Tea",
+        "lat": 52.4911868,
+        "lon": 13.394829,
+        "address": "Gneisenaustraße 24, 10961 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "The Noodle Town (Xberg)",
+        "lat": 52.4896657,
+        "lon": 13.3889289,
+        "address": "Bergmannstraße 5, 10965 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "张亮麻辣烫/Zhangliang mini hotpot",
+        "lat": 52.5054395,
+        "lon": 13.3900111,
+        "address": "Friedrichstraße 217, 10969 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "宴遇/Meet You",
+        "lat": 52.4980351,
+        "lon": 13.3265985,
+        "address": "Fasanenstraße 41, 10719 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "王家一号/Feast",
+        "lat": 52.4978784,
+        "lon": 13.3276609,
+        "address": "Meierottostraße 1, 10719 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "天府酒家/Tianfu",
+        "lat": 52.4950657,
+        "lon": 13.3241123,
+        "address": "Uhlandstraße 142, 10719 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "Mr. Liu",
+        "lat": 52.485921,
+        "lon": 13.3305666,
+        "address": "Bundesallee 45, 10715 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "威玲/Wiling",
+        "lat": 52.4783285,
+        "lon": 13.3289401,
+        "address": "Bundespl. 12, 10715 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "恩典之家/Wunderbau",
+        "lat": 52.4783439,
+        "lon": 13.3301547,
+        "address": "Bernhardstraße 12, 10715 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "烈焰红/Hot Spot",
+        "lat": 52.4992174,
+        "lon": 13.3056796,
+        "address": "Eisenzahnstraße 66, 10709 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "Lychee",
+        "lat": 52.4969271,
+        "lon": 13.3135486,
+        "address": "Bayerische Str. 9, 10707 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "龙门/Lon-Min",
+        "lat": 52.4884172,
+        "lon": 13.3366971,
+        "address": "Bamberger Str. 30, 10779 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "陈氏茶楼/Chen's Teehaus",
+        "lat": 52.4971948,
+        "lon": 13.3245015,
+        "address": "Uhlandstraße 150, 10719 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "傻妞面馆/Shaniu's House of Noodles",
+        "lat": 52.4961319,
+        "lon": 13.3279906,
+        "address": "Pariser Str. 58, 10719 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "想见面/Noodle Point",
+        "lat": 52.4950657,
+        "lon": 13.3241123,
+        "address": "Uhlandstraße 142, 10719 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "后堂火锅/Hou Tang Hotpot",
+        "lat": 52.500016,
+        "lon": 13.3100384,
+        "address": "Kurfürstendamm 175, 10707 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "听松/Ting Song Hotpot",
+        "lat": 52.4952282,
+        "lon": 13.304781,
+        "address": "Eisenzahnstraße 14, 10709 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "农家乐/Asia Farmhouse",
+        "lat": 52.4877026,
+        "lon": 13.4315386,
+        "address": "Pannierstraße 54, 12047 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "牛排庄/Beef House",
+        "lat": 52.4938329,
+        "lon": 13.4218581,
+        "address": "Kottbusser Damm 94, 10967 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "HanWest (Neukölln)",
+        "lat": 52.4784374,
+        "lon": 13.419898,
+        "address": "Selchower Str. 20, 12049 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "陈记牛肉面/Chen's Noodle House 1",
+        "lat": 52.4815525,
+        "lon": 13.433958,
+        "address": "Karl-Marx-Straße 78, 12043 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "陈记牛肉面/Chen's Noodle House 2",
+        "lat": 52.4795197,
+        "lon": 13.4375275,
+        "address": "Karl-Marx-Straße 101, 12043 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "南吉/Gaststätte Südpol",
+        "lat": 52.4777269,
+        "lon": 13.4602867,
+        "address": "Dieselstraße 20, 12057 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "富隆酒楼/Fu-Long",
+        "lat": 52.4614966,
+        "lon": 13.4346352,
+        "address": "Britzer Damm 18, 12347 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "五湖四海/All seasons",
+        "lat": 52.537777,
+        "lon": 13.2162095,
+        "address": "Am Juliusturm 53, 13599 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "长青酒楼/Evergreen",
+        "lat": 52.5233629,
+        "lon": 13.1614738,
+        "address": "Magistratsweg 31, 13593 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "澳门酒楼/Macao",
+        "lat": 52.5383362,
+        "lon": 13.2072197,
+        "address": "Breite Str. 37, 13597 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "万花酒楼/Man-Far",
+        "lat": 52.5333397,
+        "lon": 13.1581957,
+        "address": "Brunsbütteler Damm 260, 13581 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "King-Men",
+        "lat": 52.5498748,
+        "lon": 13.1706172,
+        "address": "Falkenseer Chaussee 217, 13583 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "Regent",
+        "lat": 52.4515702,
+        "lon": 13.1473763,
+        "address": "Imchenallee 44, 14089 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "Peking Perle",
+        "lat": 52.5428833,
+        "lon": 13.1978458,
+        "address": "Falkenseer Damm 17, 13585 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "UUU",
+        "lat": 52.5421195,
+        "lon": 13.3545852,
+        "address": "Sprengelstraße 15, 13353 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "雷小姐湘菜馆/Lei's Küche",
+        "lat": 52.5496636,
+        "lon": 13.3512456,
+        "address": "Seestraße 41, 13353 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "椒点私厨/SzeChuan Küche",
+        "lat": 52.5496318,
+        "lon": 13.3489126,
+        "address": "Seestraße 101, 13353 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "美食家/Asia Deli",
+        "lat": 52.5497017,
+        "lon": 13.3513439,
+        "address": "Seestraße 41, 13353 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "Han West (Wedding)",
+        "lat": 52.5420499,
+        "lon": 13.3612815,
+        "address": "Burgsdorfstraße 7, 13353 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "陈香贵/Mr. Noodle Chen",
+        "lat": 52.5441258,
+        "lon": 13.3602492,
+        "address": "Willdenowstraße 12, 13353 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "吃吃看/Chichikan",
+        "lat": 52.4900583,
+        "lon": 13.3529397,
+        "address": "Goltzstraße 52, 10781 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "文记/Mankee",
+        "lat": 52.488578,
+        "lon": 13.3419955,
+        "address": "Grunewaldstraße 60, 10825 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "Bingery",
+        "lat": 52.4868467,
+        "lon": 13.3549946,
+        "address": "Akazienstraße 27, 10823 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "永记/Goji",
+        "lat": 52.4952654,
+        "lon": 13.3399405,
+        "address": "Motzstraße 58, 10777 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "7 Dumpling",
+        "lat": 52.5008242,
+        "lon": 13.3417692,
+        "address": "Ansbacher Str. 29, 10789 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "天府君/Tianfuzius",
+        "lat": 52.4959209,
+        "lon": 13.3404775,
+        "address": "Regensburger Str. 1, 10777 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "四川饭店/Sichuan",
+        "lat": 52.4522392,
+        "lon": 13.333892,
+        "address": "Albrechtstr. 92, 12167 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "福利来/Fu Li Lai",
+        "lat": 52.4505535,
+        "lon": 13.3215278,
+        "address": "Erlenstraße 19, 12167 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "新景阳/Jing Yang",
+        "lat": 52.4559343,
+        "lon": 13.3247142,
+        "address": "Albrechtstr. 125, 12165 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "喜临门/Hee Lam Mun",
+        "lat": 52.4600362,
+        "lon": 13.3122763,
+        "address": "Grunewaldstraße 23, 12165 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "杨国福/Yangguofu (Steglitz)",
+        "lat": 52.4571935,
+        "lon": 13.321873,
+        "address": "Albrechtstr. 131, 12165 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "煎饼堂/Jian Bing Town",
+        "lat": 52.5097141,
+        "lon": 13.3725831,
+        "address": "Potsdamer Str. 4, 10785 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "陈记牛肉面/Chen's Noodle House",
+        "lat": 52.5074122,
+        "lon": 13.3741147,
+        "address": "Alte Potsdamer Str. 7, 10785 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "Mao Zeit",
+        "lat": 52.5074122,
+        "lon": 13.3741147,
+        "address": "Alte Potsdamer Str. 7, 10785 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "竹园酒楼/Bambus",
+        "lat": 52.4657624,
+        "lon": 13.3296578,
+        "address": "Rheinstraße 43, 12161 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "佳家/Jia Jia",
+        "lat": 52.4664074,
+        "lon": 13.3276587,
+        "address": "Lefèvrestraße 1, 12161 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "Biang Biang Ming",
+        "lat": 52.4654624,
+        "lon": 13.3276653,
+        "address": "Walther-Schreiber-Platz 1, 12161 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "新会城/Xin Hui City",
+        "lat": 52.5253262,
+        "lon": 13.342,
+        "address": "Alt-Moabit 86B, 10555 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "熊猫师傅/Panda Meister (Moabit)",
+        "lat": 52.5236239,
+        "lon": 13.3326428,
+        "address": "Alt-Moabit 73A, 10555 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "JuJu's Dumplings",
+        "lat": 52.5278334,
+        "lon": 13.3386209,
+        "address": "Arminiusstraße 2-4, 10551 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "金色花园/Golden Garden",
+        "lat": 52.4171906,
+        "lon": 13.324489,
+        "address": "Heinersdorfer Str. 19A, 12209 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "帝苑/Royal Garden",
+        "lat": 52.416193,
+        "lon": 13.3152407,
+        "address": "Osdorfer Str. 26, 12207 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "一面之缘/LaLa Noodle",
+        "lat": 52.4484397,
+        "lon": 13.3052539,
+        "address": "Enzianstraße 2, 12203 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "Happy Panda",
+        "lat": 52.4322129,
+        "lon": 13.4615989,
+        "address": "Johannisthaler Ch 261, 12351 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "云涞/Wan-Loi",
+        "lat": 52.4217805,
+        "lon": 13.4873207,
+        "address": "Neuköllner Str. 302, 12357 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "熊猫酒楼/Panda II",
+        "lat": 52.432191,
+        "lon": 13.4746299,
+        "address": "Rudower Str. 173, 12351 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "新华/Sun Wah",
+        "lat": 52.5897292,
+        "lon": 13.2821161,
+        "address": "Alt-Tegel 4, 13507 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "福仁/Lucky",
+        "lat": 52.5882734,
+        "lon": 13.2785483,
+        "address": "Alt-Tegel 29, 13507 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "Pong's China Restaurant",
+        "lat": 52.5730102,
+        "lon": 13.2267982,
+        "address": "Jörsstr. 14, 13505 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "锅香香/Guoguoxiang",
+        "lat": 52.4673234,
+        "lon": 13.3083345,
+        "address": "Breitenbachpl. 8, 14195 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "Miss Wu",
+        "lat": 52.4590597,
+        "lon": 13.2831459,
+        "address": "Königin-Luise-Straße 71, 14195 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "帆船酒楼/Dschunke",
+        "lat": 52.4746439,
+        "lon": 13.2936273,
+        "address": "Breite Str. 15, 14199 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "玫瑰苑/Rosengarten",
+        "lat": 52.4774348,
+        "lon": 13.2824743,
+        "address": "Hohenzollerndamm 110A, 14199 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "大明见面/MingTastic",
+        "lat": 52.5142478,
+        "lon": 13.4767379,
+        "address": "Frankfurter Allee 113, 10365 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "Zhou's Five",
+        "lat": 52.504154,
+        "lon": 13.4729988,
+        "address": "Marktstraße 6, 10317 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "熊猫园/Panda Garden",
+        "lat": 52.6182835,
+        "lon": 13.3059918,
+        "address": "Heinsestraße 42, 13467 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "China Garden",
+        "lat": 52.6147326,
+        "lon": 13.2998131,
+        "address": "Hermsdorfer Damm 134, 13467 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "龙利阁/Long Li House",
+        "lat": 52.5688295,
+        "lon": 13.3620268,
+        "address": "Residenzstraße 130, 13409 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "周家/Zhou's Fine",
+        "lat": 52.5886238,
+        "lon": 13.3247817,
+        "address": "Eichborndamm 215, 13437 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "华丽都/Hua Li Du",
+        "lat": 52.5807745,
+        "lon": 13.4036592,
+        "address": "Dietzgenstraße 11A, 13156 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "China Town",
+        "lat": 52.5596402,
+        "lon": 13.4124566,
+        "address": "Mühlenstraße 46, 13187 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "中国大酒楼/Reuter",
+        "lat": 52.444795,
+        "lon": 13.4548302,
+        "address": "Buschkrugallee 226, 12359 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "Royal Gourmet",
+        "lat": 52.4429449,
+        "lon": 13.426795,
+        "address": "Mohriner Allee 50, 12347 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "佛笑楼/Happy Buddha",
+        "lat": 52.4137071,
+        "lon": 13.3637958,
+        "address": "Marienfelder Allee 145, 12279 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "大利/Tai Lee",
+        "lat": 52.413165,
+        "lon": 13.3530162,
+        "address": "Hildburghauser Str. 29, 12279 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "旺角花园/Hongkong Canteen",
+        "lat": 52.4400068,
+        "lon": 13.3426792,
+        "address": "Leonorenstraße 60, 12247 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "丰源饭店/Feng Yuan",
+        "lat": 52.4304432,
+        "lon": 13.3344393,
+        "address": "Kaiser-Wilhelm-Straße 8, 12247 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "宴火/Yan Huo BBQ",
+        "lat": 52.509738,
+        "lon": 13.2812349,
+        "address": "Kaiserdamm 89, 14057 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "文厨房/Wen's Küche",
+        "lat": 52.4361418,
+        "lon": 13.3893692,
+        "address": "Mariendorfer Damm 175, 12107 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "福多酒家/Fu Duo",
+        "lat": 52.6127499,
+        "lon": 13.4306594,
+        "address": "Triftstraße 33, 13127 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "熊猫师傅/Panda Meister",
+        "lat": 52.4968388,
+        "lon": 13.2923924,
+        "address": "Westfälische Str. 46, 10711 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "好好酒楼/HowHow",
+        "lat": 52.6009151,
+        "lon": 13.3305922,
+        "address": "Oranienburger Str. 168, 13437 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "新五洲饭店/Neu Wuzhou",
+        "lat": 52.5433124,
+        "lon": 13.5498638,
+        "address": "Marzahner Promenade 13, 12679 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "汇丰酒家/Hui Feng",
+        "lat": 52.5414869,
+        "lon": 13.6067014,
+        "address": "Hellersdorfer Promenade 24, 12627 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "Kaiser Drachen",
+        "lat": 52.4354153,
+        "lon": 13.5017092,
+        "address": "Stubenrauchstraße 78, 12487 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "Good Aroma",
+        "lat": 52.4563698,
+        "lon": 13.383603,
+        "address": "Tempelhofer Damm 220, 12099 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "兄弟城/China-Town",
+        "lat": 52.415203,
+        "lon": 13.4003474,
+        "address": "Mariendorfer Damm 442, 12107 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "傻妞面馆/Shaniu's House of Noodles",
+        "lat": 52.51354,
+        "lon": 13.45423,
+        "address": "Wühlischstraße 43, 10245 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    },
+    {
+        "name": "好利私房菜/Holly",
+        "lat": 52.48398,
+        "lon": 13.32832,
+        "address": "Mainzer Str. 19, 10715 Berlin",
+        "quelle": "berlin_slowtour(rednote)"
+    }
+]
