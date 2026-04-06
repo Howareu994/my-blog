@@ -58,6 +58,15 @@
     <div id="sidebar">
         <h1>📍 德国最爱餐厅情报</h1>
         <p style="color: #b3d4ec; font-size: 12px; margin-bottom: 30px;">将鼠标悬停在餐厅卡片上，右侧地图将自动定位并点亮节点。</p>
+        
+        <div class="sort-container" style="margin-bottom: 15px;">
+            <span style="color: #FFB800; font-size: 14px; margin-right: 5px;">Sortieren:</span>
+            <select id="sort-restaurants" style="background: #0d2b45; color: white; border: 1px solid #FFB800; border-radius: 4px; padding: 4px 8px; font-size: 14px; cursor: pointer;">
+                <option value="original">Standard (默认顺序)</option>
+                <option value="az">A bis Z (正序)</option>
+                <option value="za">Z bis A (倒序)</option>
+            </select>
+        </div>
 
         <div class="restaurant-item" data-lat="52.517" data-lng="13.3052" data-title="China Restaurant Holly">
             <div class="restaurant-name">China Restaurant Holly</div>
