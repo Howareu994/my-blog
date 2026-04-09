@@ -1,0 +1,54 @@
+<style>
+    .dashboard-container { display: flex; flex-direction: column; gap: 20px; font-family: 'Helvetica Neue', sans-serif; }
+    .weather-hero { background: linear-gradient(135deg, #e0f2fe 0%, #bae6fd 100%) !important; color: #475569 !important; padding: 15px 20px; border-radius: 15px; display: flex; justify-content: space-between; align-items: center; box-shadow: 0 4px 10px rgba(186,230,253,0.4); border: 1px solid rgba(255,255,255,0.5); }
+    .weather-temp { font-size: 2.5rem; font-weight: bold; }
+    
+    /* --- 幸存者手册：星星闪烁与右侧胖箭头 --- */
+    
+    @keyframes starGlow {
+        0%, 100% { text-shadow: 0 0 3px rgba(255, 77, 148, 0.2); opacity: 1; }
+        50% { text-shadow: 0 0 10px rgba(255, 77, 148, 0.6); opacity: 0.8; }
+    }
+    
+    @keyframes fatArrowBounce {
+        0%, 100% { transform: translateY(0); opacity: 0.7; }
+        50% { transform: translateY(3px); opacity: 1; }
+    }
+
+    .survival-accordion { margin-bottom: 5px; }
+    .survival-accordion details { background: rgba(255, 255, 255, 0.8); border: 2px solid #ff85b9; border-radius: 12px; padding: 12px; transition: all 0.3s ease; }
+    
+    /* 改回水平排列，让标题和箭头在同一行 */
+    .survival-accordion summary { 
+        font-weight: bold; color: #ff4d94; cursor: pointer; outline: none; list-style: none; 
+        display: flex; flex-direction: row; align-items: center; justify-content: flex-start; 
+    }
+    .survival-accordion summary::-webkit-details-marker { display: none; }
+
+    .star-title { 
+        font-size: 16px; 
+        display: flex; align-items: center;
+        animation: starGlow 4s infinite ease-in-out; 
+    }
+    .star-title::before { content: "📕"; margin-right: 10px; }
+
+    /* 胖箭头现在靠在文字右边 */
+    .fat-arrow { 
+        font-size: 14px; color: #ff85b9; 
+        margin-left: 12px; /* 和文字保持一点呼吸感距离 */
+        letter-spacing: 2px;
+        animation: fatArrowBounce 2s infinite ease-in-out; 
+        display: inline-block; /* 保证 translate 动画生效 */
+    }
+
+    /* --- 其他排版样式 --- */
+    .search-box input { width: 100%; height: 38px; padding: 0 20px; border-radius: 19px; border: 1px solid #bae6fd !important; background: rgba(255,255,255,0.6) !important; color: #475569 !important; font-size: 14px; outline: none; box-sizing: border-box; }
+    .news-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; }
+    .news-card { background: rgba(255,255,255,0.4); border: 1px solid rgba(186, 230, 253, 0.5); border-radius: 12px; padding: 18px; display: flex; flex-direction: column; }
+    .news-card h4 { margin: 0 0 12px 0; font-size: 16px; display: flex; width: 100%; align-items: center; }
+    .news-card ul { padding-left: 15px; margin: 0; font-size: 13px; color: #64748b; list-style: none; }
+    .news-card li { margin-bottom: 10px; line-height: 1.4; border-bottom: 1px dashed rgba(0,0,0,0.05); padding-bottom: 5px; }
+    .tag-vbb { color: #ef4444; } .tag-safe { color: #f59e0b; } .tag-life { color: #10b981; } .tag-club { color: #cc00ff; }
+    .refresh-btn { cursor:pointer; font-size:11px; margin-left:auto; opacity:0.5; font-weight:normal; }
+    .site-footer-custom { margin-top: 30px; padding: 20px; text-align: center; border-top: 1px dashed #ff85b9; }
+</style>

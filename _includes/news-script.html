@@ -1,0 +1,98 @@
+<script>
+// --- 1. 数据仓库 ---
+let cache = { news: {}, events_db: [] };
+
+// --- 2. 天气功能 ---
+async function updateWeather() {
+    const W_URL = "https://api.open-meteo.com/v1/forecast?latitude=52.52&longitude=13.41&current=temperature_2m,relative_humidity_2m,weather_code,wind_speed_10m&timezone=Europe%2FBerlin";
+    try {
+        const res = await fetch(W_URL);
+        const data = await res.json();
+        const cur = data.current;
+        document.getElementById('w-temp').innerText = Math.round(cur.temperature_2m) + '°C';
+        document.getElementById('w-hum').innerText = `💧 湿度: ${cur.relative_humidity_2m}%`;
+        document.getElementById('w-wind').innerText = `💨 风速: ${cur.wind_speed_10m} km/h`;
+        const weatherCodes = { 0: "晴朗", 1: "大部晴朗", 2: "多云", 3: "阴天", 45: "雾", 61: "小雨" };
+        document.getElementById('w-desc').innerText = `柏林 · ${weatherCodes[cur.weather_code] || "信号连接"}`;
+        const now = new Date();
+        document.getElementById('w-time').innerText = `更新于 ${now.getHours()}:${now.getMinutes().toString().padStart(2, '0')}`;
+    } catch (e) { console.error("Weather Error", e); }
+}
+
+// --- 3. 情报读取与渲染调度 ---
+async function fetchIntelligence() {
+    try {
+        const newsRes = await fetch("{{ '/data/news.json' | relative_url }}");
+        if (newsRes.ok) cache.news = await newsRes.json();
+
+        const dbRes = await fetch("{{ '/data/events.json' | relative_url }}");
+        if (dbRes.ok) cache.events_db = await dbRes.json();
+
+        renderAll();
+    } catch (e) { console.error("Data Load Error", e); renderAll(); }
+}
+
+function renderAll() {
+    displayTraffic();
+    displayPolice();
+    displayFree();
+    displayCulture();
+    displayJobFairs(); 
+}
+
+// --- 4. 专项渲染函数 ---
+
+function displayTraffic() {
+    const list = document.getElementById('vbb-list');
+    const data = cache.news.traffic || [];
+    if (!list || !data.length) return;
+    const items = [...data].sort(() => 0.5 - Math.random()).slice(0, 3);
+    list.innerHTML = items.map(i => `<li><a href="${i.link}" target="_blank" style="color:inherit;text-decoration:none;"><strong>${i.title}</strong></a></li>`).join('');
+}
+
+function displayPolice() {
+    const list = document.getElementById('police-list');
+    const data = cache.news.police || [];
+    if (!list || !data.length) return;
+    const items = [...data].sort(() => 0.5 - Math.random()).slice(0, 3);
+    list.innerHTML = items.map(i => `<li><a href="${i.link}" target="_blank" style="color:inherit;text-decoration:none;">${i.title}</a></li>`).join('');
+}
+
+function displayFree() {
+    const list = document.getElementById('free-list');
+    if (!list) return;
+    const today = new Date().setHours(0,0,0,0);
+    const allPicks = (cache.events_db || []).map(i => ({ ...i, dObj: new Date(i.date) })).filter(i => i.dObj >= today).sort((a, b) => a.dObj - b.dObj);
+    const dynamic = (cache.news.free_events || []);
+    const items = [...allPicks, ...dynamic].sort(() => 0.5 - Math.random()).slice(0, 3);
+    list.innerHTML = items.map(i => `<li><a href="${i.link}" target="_blank" style="color:inherit;text-decoration:none;">${i.date ? `<small style="opacity:0.5;">[${i.date.split('-').slice(1).join('.')}]</small> ` : ''}<strong>${i.title}</strong></a></li>`).join('');
+}
+
+function displayCulture() {
+    const list = document.getElementById('club-list');
+    if (!list) return;
+    const staples = [
+        { title: "📍 RA Guide: 本周柏林 Club 全表", link: "https://ra.co/events/de/berlin" },
+        { title: "💅 Siegessäule: 柏林 Queer 文化日历", link: "https://www.siegessaeule.de/termine/" }
+    ];
+    const allCulture = [...staples, ...(cache.news.music_nightlife || []), ...(cache.news.ra_thursday || [])];
+    const items = allCulture.sort(() => 0.5 - Math.random()).slice(0, 3);
+    list.innerHTML = items.map(i => `<li><a href="${i.link}" target="_blank" style="color:inherit;text-decoration:none;"><strong>${i.title}</strong></a></li>`).join('');
+}
+
+function displayJobFairs() {
+    const list = document.getElementById('job-fair-list');
+    if (!list) return;
+    const staples = [
+        { title: "🏢 Connecticum 2026 (学生展)", link: "https://www.connecticum.de/" },
+        { title: "🚀 Karrieretag Berlin (全职必备)", link: "https://www.karrieretag.org/berlin/" }
+    ];
+    list.innerHTML = staples.map(i => `<li style="margin-bottom:8px;"><a href="${i.link}" target="_blank" style="color:inherit;text-decoration:none;"><strong>${i.title}</strong></a><div style="font-size:10px; color:#ff4d94; opacity:0.8;"># 找工作求生必备</div></li>`).join('');
+}
+
+// --- 5. 启动 ---
+document.addEventListener('DOMContentLoaded', () => {
+    updateWeather();
+    fetchIntelligence();
+});
+</script>

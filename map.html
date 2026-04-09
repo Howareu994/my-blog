@@ -6,52 +6,122 @@
     <title>柏林美食情报台</title>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-    <style>
-        body { margin: 0; padding: 0; display: flex; height: 100vh; font-family: 'Helvetica Neue', Arial, sans-serif; background-color: #0b2e4a; color: #e0e0e0; }
-        #sidebar { width: 35%; padding: 30px; overflow-y: auto; box-sizing: border-box; border-right: 1px solid #1a5b8a; background: linear-gradient(135deg, #0e305a 0%, #1e5a8c 100%); z-index: 10; box-shadow: 2px 0 15px rgba(0,0,0,0.5); display: flex; flex-direction: column; }
-        h1 { font-size: 24px; border-bottom: 2px solid #4a8bbd; padding-bottom: 10px; margin-bottom: 20px; color: #ffffff; flex-shrink: 0; }
-        
-        /* 列表滚动区 */
-        #restaurant-list { flex-grow: 1; overflow-y: auto; margin-bottom: 20px; }
+<style>
+    body { margin: 0; padding: 0; display: flex; height: 100vh; font-family: 'Helvetica Neue', Arial, sans-serif; background-color: #0b2e4a; color: #e0e0e0; overflow: hidden; }
+    
+    /* 1. 默认布局：垂直堆叠 (适配你的 study.md 载体) */
+    body { flex-direction: column; }
+    
+    /* 地图占据 65% 的高度，视野更广 */
+    #map { width: 100%; height: 65vh; order: 1; }
 
-        .restaurant-item { padding: 15px; margin-bottom: 15px; background-color: rgba(255, 255, 255, 0.08); border-radius: 8px; cursor: pointer; transition: all 0.3s ease; border-left: 4px solid transparent; }
-        .restaurant-item:hover { background-color: rgba(255, 255, 255, 0.15); border-left: 4px solid #FFB800; transform: translateX(5px); }
-        .restaurant-name { font-weight: bold; font-size: 18px; color: #fff; margin-bottom: 5px; }
-        .restaurant-desc { font-size: 14px; color: #b3d4ec; line-height: 1.5; }
-        
-        #map { width: 65%; height: 100vh; }
-        .obsidian-node { background-color: #FFB800; border-radius: 50%; border: 2px solid #0b2e4a; box-shadow: 0 0 10px #FFB800, 0 0 20px #FFB800; animation: pulse 2s infinite; }
-        @keyframes pulse { 0% { box-shadow: 0 0 0 0 rgba(255, 184, 0, 0.8); } 70% { box-shadow: 0 0 0 12px rgba(255, 184, 0, 0); } 100% { box-shadow: 0 0 0 0 rgba(255, 184, 0, 0); } }
+    /* 列表区域占据 35% 的高度 */
+    #sidebar { 
+        width: 100%; 
+        height: 35vh; 
+        order: 2; 
+        padding: 12px 15px; 
+        box-sizing: border-box; 
+        background: linear-gradient(180deg, #0e305a 0%, #0b2e4a 100%); 
+        border-top: 1px solid #1a5b8a;
+        display: flex; 
+        flex-direction: column; 
+    }
 
-        footer { margin-top: auto; padding-top: 15px; border-top: 1px solid rgba(255, 255, 255, 0.1); font-size: 11px; color: #888; text-align: center; line-height: 1.4; flex-shrink: 0; }
+    /* 2. 工具栏：搜索与排序并排，比例优化 */
+    .controls-row {
+        display: flex;
+        gap: 8px;
+        margin-bottom: 10px;
+        flex-shrink: 0; /* 防止工具栏被压缩 */
+    }
+    
+    #search-input, #sort-restaurants { 
+        background: rgba(255,255,255,0.1); 
+        border: 1px solid #4a8bbd; 
+        color: white; 
+        border-radius: 4px; 
+        font-size: 14px; 
+        padding: 8px 10px;
+        height: 36px;
+        box-sizing: border-box;
+    }
 
-        @media (max-width: 768px) {
-            body { flex-direction: column; }
-            #sidebar { width: 100%; height: 60vh; order: 2; border-right: none; border-top: 1px solid #1a5b8a; }
-            #map { width: 100%; height: 40vh; order: 1; }
-        }
-    </style>
+    #search-input { flex: 2; }
+    #sort-restaurants { 
+        flex: 1; 
+        min-width: 80px; /* 确保“排序”两个字完整显示 */
+        cursor: pointer;
+    }
+
+    /* 3. 餐厅列表：回归上下滑动，垂直排列 */
+    #restaurant-list { 
+        flex-grow: 1; 
+        overflow-y: auto; 
+        padding-right: 5px; 
+    }
+
+    /* 4. 列表卡片：不再限制高度，让名字完整显示 */
+    .restaurant-item { 
+        padding: 12px; 
+        margin-bottom: 10px; 
+        background-color: rgba(255, 255, 255, 0.08); 
+        border-radius: 8px; 
+        border-left: 4px solid transparent;
+        transition: background 0.2s;
+    }
+    .restaurant-item:hover { background-color: rgba(255, 255, 255, 0.15); border-left: 4px solid #FFB800; }
+
+    .restaurant-name { 
+        font-weight: bold; 
+        font-size: 15px; 
+        color: #fff; 
+        margin-bottom: 4px;
+        line-height: 1.4; /* 允许名字折行显示完整 */
+    }
+    .restaurant-desc { 
+        font-size: 12px; 
+        color: #b3d4ec; 
+        line-height: 1.4;
+    }
+
+    /* 5. 页脚：极简处理，避免占用列表空间 */
+    footer { 
+        margin-top: 8px;
+        font-size: 10px; 
+        color: #666; 
+        text-align: center; 
+        flex-shrink: 0; 
+    }
+
+    /* 电脑大屏模式下的自动适配（如果宽度足够，恢复左右布局） */
+    @media (min-width: 1024px) {
+        body { flex-direction: row; }
+        #map { width: 75%; height: 100vh; order: 2; }
+        #sidebar { width: 25%; height: 100vh; order: 1; border-top: none; border-right: 1px solid #1a5b8a; }
+    }
+
+    /* 标记点样式 */
+    .obsidian-node { background-color: #FFB800; border-radius: 50%; border: 2px solid #0b2e4a; box-shadow: 0 0 10px #FFB800; animation: pulse 2s infinite; }
+    @keyframes pulse { 0% { box-shadow: 0 0 0 0 rgba(255, 184, 0, 0.8); } 70% { box-shadow: 0 0 0 8px rgba(255, 184, 0, 0); } 100% { box-shadow: 0 0 0 0 rgba(255, 184, 0, 0); } }
+</style>
+
 </head>
 <body>
 
     <div id="sidebar">
-        <h1>📍 德国最爱餐厅情报</h1>
+
         <p style="color: #b3d4ec; font-size: 12px; margin-bottom: 20px;">悬停或点击卡片，点亮柏林美食节点。</p>
         
-        <div class="search-container" style="margin-bottom: 15px;">
-             <input type="text" id="search-input" placeholder="输入餐厅名搜索..." 
-             style="width: 100%; background: #0d2b45; color: white; border: 1px solid #4a8bbd; border-radius: 4px; padding: 8px; box-sizing: border-box;">
+        <div class="controls-row">
+            <input type="text" id="search-input" placeholder="搜索餐厅...">
+            <select id="sort-restaurants">
+                <option value="default">排序</option>
+                <option value="az">A-Z</option>
+                <option value="za">Z-A</option>
+            </select> 
         </div>
-
-        <div class="sort-container" style="margin-bottom: 15px;">
-            <span style="color: #FFB800; font-size: 14px; margin-right: 5px;">Sortieren:</span>
-            <select id="sort-restaurants" style="background: #0d2b45; color: white; border: 1px solid #FFB800; border-radius: 4px; padding: 4px 8px; font-size: 14px; cursor: pointer;">
-                <option value="original">Standard (默认顺序)</option>
-                <option value="az">A bis Z (正序)</option>
-                <option value="za">Z bis A (倒序)</option>
-            </select>
-        </div>
-
+        
         <div id="restaurant-list"></div>
 
         <footer>
