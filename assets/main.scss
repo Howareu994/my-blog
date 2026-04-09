@@ -1,59 +1,53 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
+# 只要保留这两行虚线，Jekyll 就会自动编译它
 ---
 
 @import "minima";
 
-// --- 以下是你的“粉色像素”大改造 ---
+/* --- 幸存者：粉色像素大改造 --- */
 
 body {
-    // 1. 设置浅粉色背景
     background-color: #ffdae9 !important; 
-
-    // 2. 制造“极度粗糙马赛克”感
-    // 我们利用 CSS 的渐变功能，生成一个 8px 见方的像素格子纹路
+    
+    /* 像素格纹纹理 */
     background-image: 
         linear-gradient(45deg, rgba(255, 255, 255, 0.2) 25%, transparent 25%), 
         linear-gradient(-45deg, rgba(255, 255, 255, 0.2) 25%, transparent 25%), 
         linear-gradient(45deg, transparent 75%, rgba(255, 255, 255, 0.2) 75%), 
         linear-gradient(-45deg, transparent 75%, rgba(255, 255, 255, 0.2) 75%);
-    background-size: 8px 8px; // 这里的数字越大，马赛克格子越粗糙
-    background-attachment: fixed; // 让背景固定，滚动时很有像素游戏的质感
+    background-size: 8px 8px; 
+    background-attachment: fixed; 
 
-    // 3. 让文字容器也带一点透明粉色，增加层次感
-    .wrapper {
-        background: rgba(255, 255, 255, 0.7);
-        backdrop-filter: blur(2px); // 稍微带点毛玻璃感，中和粗糙度
-        border: 4px double #ff85b9; // 这种双线边框非常有 Hello Kitty 复古感
-        padding: 20px;
-        border-radius: 0px; // 像素风不需要圆角
-    }
-
-    // 4. 让导航栏和页脚也变粉
-    .site-header, .site-footer {
-        background-color: rgba(255, 133, 185, 0.1) !important;
-        border-bottom: 2px dashed #ff85b9;
-    }
-
-    // 5. 修改文字颜色，让它不那么死黑
-    color: #8c4a63 !important;
+    color: #8c4a63 !important; /* 调整全局文字颜色 */
 }
 
-// assets/main.scss 底部
+/* 独立出来的内容容器 */
+.wrapper {
+    background: rgba(255, 255, 255, 0.8) !important; /* 稍微调高一点不透明度，保护眼睛 */
+    backdrop-filter: blur(2px);
+    border: 4px double #ff85b9 !important;
+    padding: 25px;
+    border-radius: 0px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
 
-// ... body 样式保持不变 ...
+/* 导航栏和页脚 */
+.site-header, .site-footer {
+    background-color: rgba(255, 255, 255, 0.5) !important;
+    border-bottom: 2px dashed #ff85b9 !important;
+}
 
-// 移除默认下划线，改用精致的“像素虚线”边框纹理
+/* 链接：像素虚线风格 */
 a {
     color: #ff4d94 !important;
-    text-decoration: none !important; // 移除默认波浪/下划线
-    
-    // 我们用精致的虚线（dashed）或点线（dotted）作为纹理
-    border-bottom: 1px dashed #ff85b9; // 你也可以试着改成 dotted
+    text-decoration: none !important;
+    border-bottom: 1px dashed #ff85b9;
+    transition: all 0.2s;
 }
 
 a:hover {
     color: #ff1a75 !important;
-    border-bottom-color: #ff1a75; // 悬停时边框颜色加深
-    background-color: rgba(255, 133, 185, 0.1); // 加个淡淡的背景色，很有像素游戏的交互感
+    border-bottom-color: #ff1a75;
+    background-color: rgba(255, 133, 185, 0.1);
 }
