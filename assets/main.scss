@@ -51,3 +51,27 @@ a:hover {
     border-bottom-color: #ff1a75;
     background-color: rgba(255, 133, 185, 0.1);
 }
+
+
+/* 针对手机端的终极优化 */
+@media screen and (max-width: 600px) {
+    /* 1. 强制显示顶部菜单项 */
+    .site-nav {
+        background-color: rgba(255, 255, 255, 0.95) !important;
+        border: 2px solid #ff85b9;
+    }
+
+    /* 2. 增加导航栏的高度，防止遮挡 */
+    .site-header {
+        min-height: 70px;
+    }
+
+    /* 3. 语言切换链接在手机上变大，方便手指点按 */
+    .language-switch a {
+        display: inline-block;
+        padding: 8px 15px;
+        background: #fff;
+        border: 1px solid #ff85b9;
+        margin: 5px;
+    }
+}

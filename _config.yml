@@ -64,3 +64,10 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
+header_pages:
+  - index.markdown  # 首页
+  - news.md         # 城市动态
+  - gallery.md      # 生活图鉴
+  - about.md        # 关于 (确保你文件夹里有这个文件)

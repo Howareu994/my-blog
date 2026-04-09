@@ -2,7 +2,6 @@
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
 
   <div class="wrapper">
-
     <h2 class="footer-heading">{{ site.title | escape }}</h2>
 
     <div class="footer-col-wrapper">
@@ -14,16 +13,10 @@
             {%- else -%}
               {{ site.title | escape }}
             {%- endif -%}
-            </li>
-            {%- if site.email -%}
+          </li>
+          {%- if site.email -%}
             <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {%- endif -%}
-
-            {%- if site.copyright -%}
-            <li>&copy;  {{site.copyright}} {{ 'now' | date: "%Y" }}</li>
-            {%- endif -%}
-
-
+          {%- endif -%}
         </ul>
       </div>
 
@@ -36,6 +29,16 @@
       </div>
     </div>
 
-  </div>
+    <div class="footer-bottom" style="border-top: 1px dashed #ff85b9; margin-top: 20px; padding-top: 20px; text-align: center;">
+      <div class="language-switch" style="margin-bottom: 10px;">
+        <a href="{{ '/' | relative_url }}" style="font-weight: bold;">CN 中文</a>
+        <span style="margin: 0 10px; color: #ff85b9;">|</span>
+        <a href="{{ '/de/' | relative_url }}">DE Deutsch</a>
+      </div>
+      <p style="font-size: 0.8em; opacity: 0.8;">
+        &copy; {{ 'now' | date: "%Y" }} {{ site.title | escape }}. 柏林幸存者手册.
+      </p>
+    </div>
 
+  </div>
 </footer>
