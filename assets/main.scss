@@ -75,3 +75,60 @@ a:hover {
         margin: 5px;
     }
 }
+
+/* ==========================================================================
+   幸存者：移动端响应式布局终极优化补丁 (强制修正)
+   ========================================================================== */
+
+/* 针对手机和平板端的样式 (断点设为 768px，涵盖大多数现代手机) */
+@media screen and (max-width: 768px) {
+
+    /* --- 1. 彻底解决导航遮挡问题 --- */
+    
+    /* 强制主内容区域向下移动，为展开的汉堡菜单预留空间 */
+    /* 我们把 margin-top 调高，强制给导航栏留出 120px 的空间 */
+    .site-content, main.page-content, main[role="main"] {
+        margin-top: 120px !important; /* 强制下移，暴露出被遮挡的内容 */
+    }
+
+    /* 增强导航栏的层级，确保它始终在最前面 */
+    .site-nav {
+        background-color: rgba(255, 255, 255, 0.98) !important; /* 几乎不透明的白 */
+        border: 2px solid #ff85b9 !important; /* 加强粉色边框 */
+        z-index: 9999 !important; /* 强制它高于主内容框 */
+    }
+
+    /* 优化汉堡菜单展开后的位置 */
+    .site-nav .trigger {
+        top: 60px !important; /* 调整它展开的位置，确保在 site-header 下方 */
+        z-index: 10000 !important; /* 强制它高于 .site-nav */
+    }
+
+    /* --- 2. 解决粉色框框过大问题 --- */
+    
+    /* 针对主体内容的 wrapper：强制减少 padding 和 margin */
+    .wrapper {
+        padding: 10px !important; /* 内部 padding 强制减少，之前电脑端可能是 25px */
+        margin: 8px !important;    /* 外部 margin 强制减少，给背景留出空间 */
+        border-width: 2px !important; /* 边框变薄，显得更轻盈 */
+    }
+
+    /* --- 3. 其他移动端微调 --- */
+    
+    /* 导航链接文字进一步缩小，防止挤占空间 */
+    .site-nav .page-link {
+        font-size: 13px !important;
+        margin-left: 5px !important;
+    }
+
+    /* 页脚语言切换链接在手机上变小，防止换行 */
+    .language-switch {
+        font-size: 13px !important;
+        margin-top: 10px !important;
+    }
+
+    .language-switch a {
+        padding: 4px 8px !important;
+        margin: 2px !important;
+    }
+}

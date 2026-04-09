@@ -66,8 +66,10 @@ plugins:
 #   - vendor/ruby/
 
 
+# 只有在这里的文件，才会被允许出现在顶部导航栏
 header_pages:
   - index.markdown  # 首页
   - news.md         # 城市动态
+  - study.md        # 漫游进程 (补上了！)
   - gallery.md      # 生活图鉴
-  - about.md        # 关于 (确保你文件夹里有这个文件)
+  - about.md        # 关于
