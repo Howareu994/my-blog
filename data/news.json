@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Schnellstraße Tangentiale Ost in Berlin: Zweifel an Finanzierung",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/04/berlin-tangentiale-ost-schnellstrasse-finanzierung-wirtschaftsvervwaltung-zweifel.html",
+      "date": "Fri, 10 Apr 2026 06:06:48 +0200"
+    },
+    {
       "title": "Feuer in Berlin-Charlottenburg - Brand greift auf Nachbarhäuser über",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-charlottenburg-feuerwehr-brand.html",
       "date": "Thu, 09 Apr 2026 22:11:38 +0200"
@@ -44,11 +49,6 @@
       "title": "Pyrotechnik: Union Berlin muss 340.000 Euro Strafe zahlen",
       "link": "https://www.rbb24.de/sport/beitrag/2026/04/berlin-fussball-union-pyro-eintracht-frankfurt-strafe-bundesliga.html",
       "date": "Thu, 09 Apr 2026 18:49:06 +0200"
-    },
-    {
-      "title": "Berliner Zwayer als einziger deutscher WM-Schiedsrichter nominiert",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/04/berlin-fussball-zwayer-schiedsrichter-wm-usa-mexiko-kanada-nominierung.html",
-      "date": "Thu, 09 Apr 2026 18:35:00 +0200"
     }
   ],
   "police": [
