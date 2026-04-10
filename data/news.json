@@ -1,6 +1,31 @@
 {
   "traffic": [
     {
+      "title": "Salmonellen festgestellt: Rückruf für Nudossi-Creme",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/salmonellen-nudossi-lebensmittelwarnung.html",
+      "date": "Fri, 10 Apr 2026 15:56:34 +0200"
+    },
+    {
+      "title": "Neue Rekordzahl an CSDs in Brandenburg 2026",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/csd-brandenburg-rekord-angermuende-pride-berlin.html",
+      "date": "Fri, 10 Apr 2026 15:38:25 +0200"
+    },
+    {
+      "title": "Syrer: Brandenburg setzt weiter auf Bleibemöglichkeiten",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/04/syrer-sollen-in-brandenburg-bleiben.html",
+      "date": "Fri, 10 Apr 2026 15:31:12 +0200"
+    },
+    {
+      "title": "Lehramts-Studiengang Sorbisch/Wendisch startet in Cottbus",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/studiengang-lehramt-sorbisch-wendisch-cottbus.html",
+      "date": "Fri, 10 Apr 2026 15:22:07 +0200"
+    },
+    {
+      "title": "Razzia gegen Autovermieter – Luxusautos sichergestellt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/durchsuchungen-illegale-autovermietung-autos-sichergestellt.html",
+      "date": "Fri, 10 Apr 2026 15:18:17 +0200"
+    },
+    {
       "title": "Bundeswehr muss Auslandsreisen nicht mehr genehmigen",
       "link": "https://www.rbb24.de/politik/beitrag/2026/04/bundeswehr-auslandsreisen-genehmigung.html",
       "date": "Fri, 10 Apr 2026 13:51:40 +0200"
@@ -24,31 +49,6 @@
       "title": "Möglicher Bundesliga-Aufstieg: Das spricht für Herthas Hoffnungen",
       "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-zweite-bundesliga-hertha-bsc-aufstieg-chancen-gegner-historie.html",
       "date": "Fri, 10 Apr 2026 12:39:00 +0200"
-    },
-    {
-      "title": "DDR-Marke Wartburg: Knapp jeder Fünfte in Berlin und Brandenburg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/tausende-ddr-autos-wartburg-unterwegs.html",
-      "date": "Fri, 10 Apr 2026 12:18:39 +0200"
-    },
-    {
-      "title": "Aktivisten kleben sich vor Rheinmetall-Fabrik in Berlin fest",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/demonstration-rheinmetall-berlin-gesundbrunnen-festgeklebt.html",
-      "date": "Fri, 10 Apr 2026 11:33:02 +0200"
-    },
-    {
-      "title": "Lufthansa-Streik: Diese Rechte haben Fluggäste bei einem Streik",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/rechte-fluggast-lufthansa-streik-ber-fragen-antworten.html",
-      "date": "Fri, 10 Apr 2026 11:05:52 +0200"
-    },
-    {
-      "title": "Berliner Club Schwuz kommt nach Insolvenz als Partyreihe zurück",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/04/schwuz-partyreihe-rebranding-wechselnde-locations-queer.html",
-      "date": "Fri, 10 Apr 2026 10:52:33 +0200"
-    },
-    {
-      "title": "Konzertkritik: \"Agatha Is Dead\" spielt im Lido Berlin",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/04/band-agatha-is-dead-konzert-lido-berlin.html",
-      "date": "Fri, 10 Apr 2026 10:13:56 +0200"
     }
   ],
   "police": [
