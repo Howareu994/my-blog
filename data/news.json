@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Aktivisten kleben sich vor Rheinmetall-Fabrik in Berlin fest",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/demonstration-rheinmetall-berlin-gesundbrunnen-festgeklebt.html",
+      "date": "Fri, 10 Apr 2026 11:33:02 +0200"
+    },
+    {
+      "title": "Lufthansa-Streik: Diese Rechte haben Fluggäste bei einem Streik",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/rechte-fluggast-lufthansa-streik-ber-fragen-antworten.html",
+      "date": "Fri, 10 Apr 2026 11:05:52 +0200"
+    },
+    {
+      "title": "Berliner Club Schwuz kommt nach Insolvenz als Partyreihe zurück",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/04/schwuz-partyreihe-rebranding-wechselnde-locations-queer.html",
+      "date": "Fri, 10 Apr 2026 10:52:33 +0200"
+    },
+    {
       "title": "Feuer in Berlin-Charlottenburg gelöscht",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-charlottenburg-feuerwehr-brand.html",
       "date": "Fri, 10 Apr 2026 08:39:12 +0200"
@@ -14,11 +29,6 @@
       "title": "Lufthansa-Warnstreik: Viele Flüge am BER am Freitag gestrichen",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/lufthansa-kabinenpersonal-ufo-streik-freitag.html",
       "date": "Fri, 10 Apr 2026 07:31:23 +0200"
-    },
-    {
-      "title": "Nach Insolvenz im November: Das Berliner Schwuz kommt als Partyreihe zurück",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/04/schwuz-partyreihe-rebranding-wechselnde-locations-queer.html",
-      "date": "Thu, 09 Apr 2026 21:10:56 +0200"
     },
     {
       "title": "\"Warum bezahlen Fahrschüler 19 Prozent Mehrwertsteuer?\"",
@@ -39,16 +49,6 @@
       "title": "Tiergartentunnel wird in der Woche auf unbestimmte Zeit nachts gesperrt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/tiergartentunnel-berlin-nachts-gesperrt-personalmangel-busse.html",
       "date": "Thu, 09 Apr 2026 18:58:49 +0200"
-    },
-    {
-      "title": "Pyrotechnik: Union Berlin muss 340.000 Euro Strafe zahlen",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/04/berlin-fussball-union-pyro-eintracht-frankfurt-strafe-bundesliga.html",
-      "date": "Thu, 09 Apr 2026 18:49:06 +0200"
-    },
-    {
-      "title": "Berliner Zwayer als einziger deutscher WM-Schiedsrichter nominiert",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/04/berlin-fussball-zwayer-schiedsrichter-wm-usa-mexiko-kanada-nominierung.html",
-      "date": "Thu, 09 Apr 2026 18:35:00 +0200"
     }
   ],
   "police": [
