@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Regionalliga Nordost: Altglienicke siegt in Halle",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-regionalliga-nordost-hallescher-fc-vsg-altglienicke.html",
+      "date": "Fri, 10 Apr 2026 21:33:00 +0200"
+    },
+    {
+      "title": "Pergamonalter soll ab Frühjahr 2027 wieder zu sehen sein",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/04/pergamon-altar-museum-bauarbeiten.html",
+      "date": "Fri, 10 Apr 2026 21:32:33 +0200"
+    },
+    {
+      "title": "Basketball: Alba-Frauen im ersten Halbfinal-Spiel in Keltern chancenlos",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/04/basketball-dbbl-keltern-alba-erstes-halbfinalspiel.html",
+      "date": "Fri, 10 Apr 2026 21:09:47 +0200"
+    },
+    {
       "title": "Fußball: Unions fast unerklärlicher Angstgegner Heidenheim",
       "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-bundesliga-heidenheim-angstgegner-union.html",
       "date": "Fri, 10 Apr 2026 19:25:37 +0200"
@@ -34,75 +49,9 @@
       "title": "Neue Rekordzahl an CSDs in Brandenburg 2026",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/csd-brandenburg-rekord-angermuende-pride-berlin.html",
       "date": "Fri, 10 Apr 2026 15:38:25 +0200"
-    },
-    {
-      "title": "Syrer: Brandenburg setzt weiter auf Bleibemöglichkeiten",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/04/syrer-sollen-in-brandenburg-bleiben.html",
-      "date": "Fri, 10 Apr 2026 15:31:12 +0200"
-    },
-    {
-      "title": "Lehramts-Studiengang Sorbisch/Wendisch startet in Cottbus",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/studiengang-lehramt-sorbisch-wendisch-cottbus.html",
-      "date": "Fri, 10 Apr 2026 15:22:07 +0200"
-    },
-    {
-      "title": "Boginski: Ex-Bürgermeister von Eberswalde freigesprochen",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/04/friedhelm-bogingski-freigesprochen-amtsgericht-eberswalde.html",
-      "date": "Fri, 10 Apr 2026 13:48:25 +0200"
     }
   ],
-  "police": [
-    {
-      "title": "Allgemeinverfügungen erlassen – Einschränkungen im Bezirk Charlottenburg-Wilmersdorf",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660122.php",
-      "date": "Fri, 10 Apr 2026 13:57:10 +0200"
-    },
-    {
-      "title": "Durchsuchungen wegen illegaler Autovermietungen – Vermögenswerte sichergestellt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660112.php",
-      "date": "Fri, 10 Apr 2026 13:51:35 +0200"
-    },
-    {
-      "title": "Schüsse im Mehrfamilienhaus",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660091.php",
-      "date": "Fri, 10 Apr 2026 13:28:17 +0200"
-    },
-    {
-      "title": "Fußgänger bei Verkehrsunfall verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660089.php",
-      "date": "Fri, 10 Apr 2026 13:22:13 +0200"
-    },
-    {
-      "title": "Zwei Verletzte nach körperlicher Auseinandersetzung",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1659689.php",
-      "date": "Thu, 09 Apr 2026 10:00:35 +0200"
-    },
-    {
-      "title": "Verkehrsunfallflucht – Radfahrerin verletzt im Krankenhaus",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1659674.php",
-      "date": "Thu, 09 Apr 2026 09:11:00 +0200"
-    },
-    {
-      "title": "Kind im Bus angegriffen und beleidigt – Öffentlichkeitsfahndung erfolgreich",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1651737.php",
-      "date": "Wed, 08 Apr 2026 15:11:00 +0200"
-    },
-    {
-      "title": "Bundeskanzleramt beschmiert",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1659502.php",
-      "date": "Wed, 08 Apr 2026 11:52:02 +0200"
-    },
-    {
-      "title": "Mann mit Stichverletzungen aufgefunden",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1659484.php",
-      "date": "Wed, 08 Apr 2026 11:18:54 +0200"
-    },
-    {
-      "title": "Verdacht der Körperverletzung und Bedrohung - Polizeilicher Staatsschutz ermittelt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1659481.php",
-      "date": "Wed, 08 Apr 2026 11:15:31 +0200"
-    }
-  ],
+  "police": [],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
