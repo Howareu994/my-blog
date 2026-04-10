@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Bundeswehr muss Auslandsreisen nicht mehr genehmigen",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/04/bundeswehr-auslandsreisen-genehmigung.html",
+      "date": "Fri, 10 Apr 2026 13:51:40 +0200"
+    },
+    {
+      "title": "Boginski: Ex-Bürgermeister von Eberswalde freigesprochen",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/04/friedhelm-bogingski-freigesprochen-amtsgericht-eberswalde.html",
+      "date": "Fri, 10 Apr 2026 13:48:25 +0200"
+    },
+    {
       "title": "Regionalstrecken um Cottbus mehrere Wochen gesperrt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/brandenburg-cottbus-forst-ruhland-zugausfaelle-sperrung.html",
       "date": "Fri, 10 Apr 2026 13:22:47 +0200"
@@ -8,12 +18,12 @@
     {
       "title": "Viadrina richtet Studienangebot neu aus – Fokus auf Osteuropa",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/viadrina-universitaet-frankfurt-oder-studienangebot-osteuropa.html",
-      "date": "Fri, 10 Apr 2026 12:43:31 +0200"
+      "date": "Fri, 10 Apr 2026 12:43:00 +0200"
     },
     {
       "title": "Möglicher Bundesliga-Aufstieg: Das spricht für Herthas Hoffnungen",
       "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-zweite-bundesliga-hertha-bsc-aufstieg-chancen-gegner-historie.html",
-      "date": "Fri, 10 Apr 2026 12:39:22 +0200"
+      "date": "Fri, 10 Apr 2026 12:39:00 +0200"
     },
     {
       "title": "DDR-Marke Wartburg: Knapp jeder Fünfte in Berlin und Brandenburg",
@@ -39,19 +49,19 @@
       "title": "Konzertkritik: \"Agatha Is Dead\" spielt im Lido Berlin",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/04/band-agatha-is-dead-konzert-lido-berlin.html",
       "date": "Fri, 10 Apr 2026 10:13:56 +0200"
-    },
-    {
-      "title": "Feuer in Berlin-Charlottenburg gelöscht",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-charlottenburg-feuerwehr-brand.html",
-      "date": "Fri, 10 Apr 2026 08:39:12 +0200"
-    },
-    {
-      "title": "Schnellstraße Tangentiale Ost in Berlin: Zweifel an Finanzierung",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/04/berlin-tangentiale-ost-schnellstrasse-finanzierung-wirtschaftsvervwaltung-zweifel.html",
-      "date": "Fri, 10 Apr 2026 08:27:31 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Allgemeinverfügungen erlassen – Einschränkungen im Bezirk Charlottenburg-Wilmersdorf",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660122.php",
+      "date": "Fri, 10 Apr 2026 13:57:10 +0200"
+    },
+    {
+      "title": "Durchsuchungen wegen illegaler Autovermietungen – Vermögenswerte sichergestellt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660112.php",
+      "date": "Fri, 10 Apr 2026 13:51:35 +0200"
+    },
     {
       "title": "Schüsse im Mehrfamilienhaus",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660091.php",
@@ -91,16 +101,6 @@
       "title": "Verdacht der Körperverletzung und Bedrohung - Polizeilicher Staatsschutz ermittelt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1659481.php",
       "date": "Wed, 08 Apr 2026 11:15:31 +0200"
-    },
-    {
-      "title": "Mann nach Auseinandersetzung im Krankenhaus – Mordkommission ermittelt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1659477.php",
-      "date": "Wed, 08 Apr 2026 10:58:47 +0200"
-    },
-    {
-      "title": "Mit Reizgas und Machete angegriffen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1659202.php",
-      "date": "Tue, 07 Apr 2026 13:26:00 +0200"
     }
   ],
   "free_events": [],
