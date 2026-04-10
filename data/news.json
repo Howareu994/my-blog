@@ -1,6 +1,26 @@
 {
   "traffic": [
     {
+      "title": "Regionalstrecken um Cottbus mehrere Wochen gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/brandenburg-cottbus-forst-ruhland-zugausfaelle-sperrung.html",
+      "date": "Fri, 10 Apr 2026 13:22:47 +0200"
+    },
+    {
+      "title": "Viadrina richtet Studienangebot neu aus – Fokus auf Osteuropa",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/viadrina-universitaet-frankfurt-oder-studienangebot-osteuropa.html",
+      "date": "Fri, 10 Apr 2026 12:43:31 +0200"
+    },
+    {
+      "title": "Möglicher Bundesliga-Aufstieg: Das spricht für Herthas Hoffnungen",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-zweite-bundesliga-hertha-bsc-aufstieg-chancen-gegner-historie.html",
+      "date": "Fri, 10 Apr 2026 12:39:22 +0200"
+    },
+    {
+      "title": "DDR-Marke Wartburg: Knapp jeder Fünfte in Berlin und Brandenburg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/tausende-ddr-autos-wartburg-unterwegs.html",
+      "date": "Fri, 10 Apr 2026 12:18:39 +0200"
+    },
+    {
       "title": "Aktivisten kleben sich vor Rheinmetall-Fabrik in Berlin fest",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/demonstration-rheinmetall-berlin-gesundbrunnen-festgeklebt.html",
       "date": "Fri, 10 Apr 2026 11:33:02 +0200"
@@ -16,6 +36,11 @@
       "date": "Fri, 10 Apr 2026 10:52:33 +0200"
     },
     {
+      "title": "Konzertkritik: \"Agatha Is Dead\" spielt im Lido Berlin",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/04/band-agatha-is-dead-konzert-lido-berlin.html",
+      "date": "Fri, 10 Apr 2026 10:13:56 +0200"
+    },
+    {
       "title": "Feuer in Berlin-Charlottenburg gelöscht",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-charlottenburg-feuerwehr-brand.html",
       "date": "Fri, 10 Apr 2026 08:39:12 +0200"
@@ -24,34 +49,19 @@
       "title": "Schnellstraße Tangentiale Ost in Berlin: Zweifel an Finanzierung",
       "link": "https://www.rbb24.de/politik/beitrag/2026/04/berlin-tangentiale-ost-schnellstrasse-finanzierung-wirtschaftsvervwaltung-zweifel.html",
       "date": "Fri, 10 Apr 2026 08:27:31 +0200"
-    },
-    {
-      "title": "Lufthansa-Warnstreik: Viele Flüge am BER am Freitag gestrichen",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/lufthansa-kabinenpersonal-ufo-streik-freitag.html",
-      "date": "Fri, 10 Apr 2026 07:31:23 +0200"
-    },
-    {
-      "title": "\"Warum bezahlen Fahrschüler 19 Prozent Mehrwertsteuer?\"",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/fahrschulen-fahrlehrerin-reform-fuehrerschein-preise-berlin.html",
-      "date": "Thu, 09 Apr 2026 19:21:27 +0200"
-    },
-    {
-      "title": "Von 24 Trockentoiletten in Berliner Parks bleiben acht im Betrieb",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/park-toilette-klimafreundlich.html",
-      "date": "Thu, 09 Apr 2026 19:16:51 +0200"
-    },
-    {
-      "title": "Kein Einzelfall: Ehepaar wird beim Verkauf ihrer Büchersammlung betrogen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/betrug-buch-verkauf-warnung-polizei.html",
-      "date": "Thu, 09 Apr 2026 19:02:00 +0200"
-    },
-    {
-      "title": "Tiergartentunnel wird in der Woche auf unbestimmte Zeit nachts gesperrt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/tiergartentunnel-berlin-nachts-gesperrt-personalmangel-busse.html",
-      "date": "Thu, 09 Apr 2026 18:58:49 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Schüsse im Mehrfamilienhaus",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660091.php",
+      "date": "Fri, 10 Apr 2026 13:28:17 +0200"
+    },
+    {
+      "title": "Fußgänger bei Verkehrsunfall verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660089.php",
+      "date": "Fri, 10 Apr 2026 13:22:13 +0200"
+    },
     {
       "title": "Zwei Verletzte nach körperlicher Auseinandersetzung",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1659689.php",
@@ -91,16 +101,6 @@
       "title": "Mit Reizgas und Machete angegriffen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1659202.php",
       "date": "Tue, 07 Apr 2026 13:26:00 +0200"
-    },
-    {
-      "title": "Versuchter Geldautomateneinbruch",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1659181.php",
-      "date": "Tue, 07 Apr 2026 12:18:00 +0200"
-    },
-    {
-      "title": "Mann nach Auseinandersetzung im Krankenhaus",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1659177.php",
-      "date": "Tue, 07 Apr 2026 12:14:00 +0200"
     }
   ],
   "free_events": [],
