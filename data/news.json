@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Fußball: Unions fast unerklärlicher Angstgegner Heidenheim",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-bundesliga-heidenheim-angstgegner-union.html",
+      "date": "Fri, 10 Apr 2026 18:30:50 +0200"
+    },
+    {
       "title": "Razzia gegen Autovermieter – Luxusautos sichergestellt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/durchsuchungen-illegale-autovermietung-autos-sichergestellt.html",
       "date": "Fri, 10 Apr 2026 16:50:47 +0200"
@@ -44,11 +49,6 @@
       "title": "Regionalstrecken um Cottbus mehrere Wochen gesperrt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/brandenburg-cottbus-forst-ruhland-zugausfaelle-sperrung.html",
       "date": "Fri, 10 Apr 2026 13:22:47 +0200"
-    },
-    {
-      "title": "Viadrina richtet Studienangebot neu aus – Fokus auf Osteuropa",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/viadrina-universitaet-frankfurt-oder-studienangebot-osteuropa.html",
-      "date": "Fri, 10 Apr 2026 12:43:00 +0200"
     }
   ],
   "police": [
