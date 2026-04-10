@@ -1,14 +1,19 @@
 {
   "traffic": [
     {
+      "title": "Bücher-Box in Lichtenberg zerstört - Bezirk spricht von Brandanschlag",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/buecherbox-obersee-brandanschlag.html",
+      "date": "Fri, 10 Apr 2026 22:01:40 +0200"
+    },
+    {
       "title": "Regionalliga Nordost: Altglienicke siegt in Halle",
       "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-regionalliga-nordost-hallescher-fc-vsg-altglienicke.html",
       "date": "Fri, 10 Apr 2026 21:33:00 +0200"
     },
     {
-      "title": "Pergamonalter soll ab Frühjahr 2027 wieder zu sehen sein",
+      "title": "Pergamonaltar soll ab Frühjahr 2027 wieder zu sehen sein",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/04/pergamon-altar-museum-bauarbeiten.html",
-      "date": "Fri, 10 Apr 2026 21:32:33 +0200"
+      "date": "Fri, 10 Apr 2026 21:32:00 +0200"
     },
     {
       "title": "Basketball: Alba-Frauen im ersten Halbfinal-Spiel in Keltern chancenlos",
@@ -44,14 +49,60 @@
       "title": "Salmonellen festgestellt: Rückruf für Nudossi-Creme",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/salmonellen-nudossi-lebensmittelwarnung.html",
       "date": "Fri, 10 Apr 2026 15:56:34 +0200"
-    },
-    {
-      "title": "Neue Rekordzahl an CSDs in Brandenburg 2026",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/csd-brandenburg-rekord-angermuende-pride-berlin.html",
-      "date": "Fri, 10 Apr 2026 15:38:25 +0200"
     }
   ],
-  "police": [],
+  "police": [
+    {
+      "title": "Allgemeinverfügungen erlassen – Einschränkungen im Bezirk Charlottenburg-Wilmersdorf",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660122.php",
+      "date": "Fri, 10 Apr 2026 13:57:10 +0200"
+    },
+    {
+      "title": "Durchsuchungen wegen illegaler Autovermietungen – Vermögenswerte sichergestellt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660112.php",
+      "date": "Fri, 10 Apr 2026 13:51:35 +0200"
+    },
+    {
+      "title": "Schüsse im Mehrfamilienhaus",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660091.php",
+      "date": "Fri, 10 Apr 2026 13:28:17 +0200"
+    },
+    {
+      "title": "Fußgänger bei Verkehrsunfall verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660089.php",
+      "date": "Fri, 10 Apr 2026 13:22:13 +0200"
+    },
+    {
+      "title": "Zwei Verletzte nach körperlicher Auseinandersetzung",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1659689.php",
+      "date": "Thu, 09 Apr 2026 10:00:35 +0200"
+    },
+    {
+      "title": "Verkehrsunfallflucht – Radfahrerin verletzt im Krankenhaus",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1659674.php",
+      "date": "Thu, 09 Apr 2026 09:11:00 +0200"
+    },
+    {
+      "title": "Kind im Bus angegriffen und beleidigt – Öffentlichkeitsfahndung erfolgreich",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1651737.php",
+      "date": "Wed, 08 Apr 2026 15:11:00 +0200"
+    },
+    {
+      "title": "Bundeskanzleramt beschmiert",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1659502.php",
+      "date": "Wed, 08 Apr 2026 11:52:02 +0200"
+    },
+    {
+      "title": "Mann mit Stichverletzungen aufgefunden",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1659484.php",
+      "date": "Wed, 08 Apr 2026 11:18:54 +0200"
+    },
+    {
+      "title": "Verdacht der Körperverletzung und Bedrohung - Polizeilicher Staatsschutz ermittelt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1659481.php",
+      "date": "Wed, 08 Apr 2026 11:15:31 +0200"
+    }
+  ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
