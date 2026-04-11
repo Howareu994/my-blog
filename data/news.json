@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Bauarbeiten: Regionalverkehr zum BER am Wochenende stark eingeschränkt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/flughafen-ber-regionalverkehr-eingeschraenkt-fex-re20-rb22-rb24-rb32.html",
+      "date": "Sat, 11 Apr 2026 09:38:38 +0200"
+    },
+    {
+      "title": "Zahl der Messerangriffe in Berlin Anfang des Jahres zurückgegangen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-messerangriffe-polizei-statistik.html",
+      "date": "Sat, 11 Apr 2026 09:21:13 +0200"
+    },
+    {
+      "title": "Wolfram Weimer will's nicht wissen - Diskussion an der Volksbühne",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/04/berlin-kultur-volksbuehne-kritik-zensur-zynismus-kulturkampf-weimer.html",
+      "date": "Sat, 11 Apr 2026 09:00:35 +0200"
+    },
+    {
       "title": "Feuerwehreinsatz: Brand in Mehrfamilienhaus in Guben (Lausitz)",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/brandenburg-lausitz-guben-brand-mehrfamilienhaus.html",
       "date": "Sat, 11 Apr 2026 08:36:56 +0200"
@@ -34,21 +49,6 @@
       "title": "Regionalliga Nordost: Altglienicke siegt in Halle",
       "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-regionalliga-nordost-hallescher-fc-vsg-altglienicke.html",
       "date": "Fri, 10 Apr 2026 21:33:00 +0200"
-    },
-    {
-      "title": "Pergamonaltar soll ab Frühjahr 2027 wieder zu sehen sein",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/04/pergamon-altar-museum-bauarbeiten.html",
-      "date": "Fri, 10 Apr 2026 21:32:00 +0200"
-    },
-    {
-      "title": "Fußball: Unions fast unerklärlicher Angstgegner Heidenheim",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-bundesliga-heidenheim-angstgegner-union.html",
-      "date": "Fri, 10 Apr 2026 19:25:37 +0200"
-    },
-    {
-      "title": "Missbrauch im Maßregelvollzug: Kündigung von Ärzten gestoppt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/missbrauch-massregelvollzug-kuendigun-aerzte-gestoppt-brandenburg-havel.html",
-      "date": "Fri, 10 Apr 2026 19:21:15 +0200"
     }
   ],
   "police": [
