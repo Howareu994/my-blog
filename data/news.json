@@ -1,14 +1,24 @@
 {
   "traffic": [
     {
-      "title": "Zwei Verletzte in ICE: Oberleitung reißt und zerschlägt Fenster",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-ice-zug-oberleitungsschaden.html",
-      "date": "Sat, 11 Apr 2026 16:23:42 +0200"
+      "title": "Piloten der Lufthansa für Montag und Dienstag zu Streik aufgerufen",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/streik-lufthansa-cockpitpersonal.html",
+      "date": "Sat, 11 Apr 2026 17:21:15 +0200"
+    },
+    {
+      "title": "Regionalliga-Nordost: Sieg für BFC Dynamo, Babelsberg 03 verliert",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-berlin-brandenburg-regionalliga-nordost-babelsberg-bfc-dynamo-hertha-zehlendorf-luckenwalde.html",
+      "date": "Sat, 11 Apr 2026 17:06:07 +0200"
     },
     {
       "title": "CSD Angermünde: Dutzende Menschen auf der Straße",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/csd-angermuende-brandenburg-christopher-street-day-pride.html",
-      "date": "Sat, 11 Apr 2026 15:46:05 +0200"
+      "date": "Sat, 11 Apr 2026 16:38:02 +0200"
+    },
+    {
+      "title": "Zwei Verletzte in ICE: Oberleitung reißt und zerschlägt Fenster",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-ice-zug-oberleitungsschaden.html",
+      "date": "Sat, 11 Apr 2026 16:23:42 +0200"
     },
     {
       "title": "Aufstiegs-Dämpfer: Herthas Serie reißt gegen Kaiserslautern",
@@ -39,19 +49,14 @@
       "title": "Berliner Weltraumwirtschaft: Per Anhalter ins All",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/berlin-raketenstart-weltraum-start-up-exolaunch-tu-berlin.html",
       "date": "Sat, 11 Apr 2026 11:39:57 +0200"
-    },
-    {
-      "title": "Wolfram Weimer will's nicht wissen - Diskussion an der Volksbühne",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/04/berlin-kultur-volksbuehne-kritik-zensur-zynismus-kulturkampf-weimer.html",
-      "date": "Sat, 11 Apr 2026 10:51:13 +0200"
-    },
-    {
-      "title": "Lachgas-Verkauf ab Sonntag verboten - Fragen und Antworten",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-brandenburg-lachgas-verkaufsverbot-minderjaehrige-faq-gesundheit-umwelt-bsr.html",
-      "date": "Sat, 11 Apr 2026 10:39:05 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Mann ausgeraubt und Polizei angegriffen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660232.php",
+      "date": "Sat, 11 Apr 2026 16:52:35 +0200"
+    },
     {
       "title": "Diebstahl und Beschädigung einer Staatsflagge",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660228.php",
@@ -96,11 +101,6 @@
       "title": "Kind im Bus angegriffen und beleidigt – Öffentlichkeitsfahndung erfolgreich",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1651737.php",
       "date": "Wed, 08 Apr 2026 15:11:00 +0200"
-    },
-    {
-      "title": "Bundeskanzleramt beschmiert",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1659502.php",
-      "date": "Wed, 08 Apr 2026 11:52:02 +0200"
     }
   ],
   "free_events": [],
