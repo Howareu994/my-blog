@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Zwei Verletzte in ICE: Oberleitung reißt und zerschlägt Fenster",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-ice-zug-oberleitungsschaden.html",
+      "date": "Sat, 11 Apr 2026 21:48:24 +0200"
+    },
+    {
+      "title": "Piloten der Lufthansa für Montag und Dienstag zu Streik aufgerufen",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/streik-lufthansa-cockpitpersonal.html",
+      "date": "Sat, 11 Apr 2026 21:38:44 +0200"
+    },
+    {
       "title": "Hinrichtungs-Darstellungen bei Demos in Berlin ab sofort verboten",
       "link": "https://www.rbb24.de/politik/beitrag/2026/04/verbot-darstellung-hinrichtung-demonstration.html",
       "date": "Sat, 11 Apr 2026 21:15:43 +0200"
@@ -21,11 +31,6 @@
       "date": "Sat, 11 Apr 2026 20:05:41 +0200"
     },
     {
-      "title": "Zwei Verletzte in ICE: Oberleitung reißt und zerschlägt Fenster",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-ice-zug-oberleitungsschaden.html",
-      "date": "Sat, 11 Apr 2026 19:33:41 +0200"
-    },
-    {
       "title": "Union Berlin II verpasst Sieg bei Tabellenschlusslicht Rostock",
       "link": "https://www.rbb24.de/sport/beitrag/2026/04/berlin-brandenburg-fussball-frauen-union-hertha-turbine-potsdam.html",
       "date": "Sat, 11 Apr 2026 18:42:07 +0200"
@@ -44,11 +49,6 @@
       "title": "Mindestens 1.800 Menschen bei \"Prüf\"-Demos in Berlin und Potsdam",
       "link": "https://www.rbb24.de/politik/beitrag/2026/04/pruef-demonstration-berlin-potsdam.html",
       "date": "Sat, 11 Apr 2026 18:20:58 +0200"
-    },
-    {
-      "title": "CSD Angermünde: Dutzende Menschen auf der Straße",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/csd-angermuende-brandenburg-christopher-street-day-pride.html",
-      "date": "Sat, 11 Apr 2026 17:52:48 +0200"
     }
   ],
   "police": [
