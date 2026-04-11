@@ -1,9 +1,39 @@
 {
   "traffic": [
     {
+      "title": "AfD-Gegner protestieren vor Tagungshotel in Cottbus",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/04/afd-gegner-protest.html",
+      "date": "Sat, 11 Apr 2026 18:22:57 +0200"
+    },
+    {
+      "title": "Mindestens 1.800 Menschen bei \"Prüf\"-Demos in Berlin und Potsdam",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/04/pruef-demonstration-berlin-potsdam.html",
+      "date": "Sat, 11 Apr 2026 18:20:58 +0200"
+    },
+    {
+      "title": "Union kassiert nächste Niederlage bei Angstgegner Heidenheim",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-bundesliga-heidenheim-union-berlin-live-audiostream.html",
+      "date": "Sat, 11 Apr 2026 17:52:51 +0200"
+    },
+    {
+      "title": "CSD Angermünde: Dutzende Menschen auf der Straße",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/csd-angermuende-brandenburg-christopher-street-day-pride.html",
+      "date": "Sat, 11 Apr 2026 17:52:48 +0200"
+    },
+    {
+      "title": "Zwei Verletzte in ICE: Oberleitung reißt und zerschlägt Fenster",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-ice-zug-oberleitungsschaden.html",
+      "date": "Sat, 11 Apr 2026 17:48:14 +0200"
+    },
+    {
+      "title": "Brand in Wohnblock in Guben - ein Mensch verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/brandenburg-lausitz-guben-brand-mehrfamilienhaus.html",
+      "date": "Sat, 11 Apr 2026 17:46:55 +0200"
+    },
+    {
       "title": "Piloten der Lufthansa für Montag und Dienstag zu Streik aufgerufen",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/streik-lufthansa-cockpitpersonal.html",
-      "date": "Sat, 11 Apr 2026 17:21:15 +0200"
+      "date": "Sat, 11 Apr 2026 17:46:46 +0200"
     },
     {
       "title": "Regionalliga-Nordost: Sieg für BFC Dynamo, Babelsberg 03 verliert",
@@ -11,44 +41,14 @@
       "date": "Sat, 11 Apr 2026 17:06:07 +0200"
     },
     {
-      "title": "CSD Angermünde: Dutzende Menschen auf der Straße",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/csd-angermuende-brandenburg-christopher-street-day-pride.html",
-      "date": "Sat, 11 Apr 2026 16:38:02 +0200"
-    },
-    {
-      "title": "Zwei Verletzte in ICE: Oberleitung reißt und zerschlägt Fenster",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-ice-zug-oberleitungsschaden.html",
-      "date": "Sat, 11 Apr 2026 16:23:42 +0200"
-    },
-    {
       "title": "Aufstiegs-Dämpfer: Herthas Serie reißt gegen Kaiserslautern",
       "link": "https://www.rbb24.de/sport/beitrag/2026/04/2-bundesliga-hertha-bsc-1-fc-kaiserslautern-live-audiostream.html",
       "date": "Sat, 11 Apr 2026 15:41:00 +0200"
     },
     {
-      "title": "Jetzt live: Bricht Union Berlin heute den Heidenheim-Fluch?",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-bundesliga-heidenheim-union-berlin-live-audiostream.html",
-      "date": "Sat, 11 Apr 2026 15:25:01 +0200"
-    },
-    {
       "title": "Wetteraussichten: \"Flächendeckende Regenfälle sind nicht in Sicht\"",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/wetter-waldbrandgefahr-regen-trockenheit-saharastaub.html",
       "date": "Sat, 11 Apr 2026 15:06:11 +0200"
-    },
-    {
-      "title": "Syrische Arbeitskräfte: Unternehmer warnen vor Rückkehr",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/unternehmen-verband-gefluechtete-syrien-rueckkehr.html",
-      "date": "Sat, 11 Apr 2026 14:09:28 +0200"
-    },
-    {
-      "title": "Feuerwehreinsatz: Brand in Mehrfamilienhaus in Guben (Lausitz)",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/brandenburg-lausitz-guben-brand-mehrfamilienhaus.html",
-      "date": "Sat, 11 Apr 2026 11:57:49 +0200"
-    },
-    {
-      "title": "Berliner Weltraumwirtschaft: Per Anhalter ins All",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/berlin-raketenstart-weltraum-start-up-exolaunch-tu-berlin.html",
-      "date": "Sat, 11 Apr 2026 11:39:57 +0200"
     }
   ],
   "police": [
