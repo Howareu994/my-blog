@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Zwischen Berlin und Leipzig: Oberleitung fällt auf ICE",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-ice-zug-oberleitungsschaden.html",
+      "date": "Sat, 11 Apr 2026 14:21:23 +0200"
+    },
+    {
+      "title": "Syrische Arbeitskräfte: Unternehmer warnen vor Rückkehr",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/unternehmen-verband-gefluechtete-syrien-rueckkehr.html",
+      "date": "Sat, 11 Apr 2026 14:09:28 +0200"
+    },
+    {
       "title": "Jetzt live: Setzt Hertha die Aufholjagd gegen Kaiserslautern fort?",
       "link": "https://www.rbb24.de/sport/beitrag/2026/04/2-bundesliga-hertha-bsc-1-fc-kaiserslautern-live-audiostream.html",
       "date": "Sat, 11 Apr 2026 12:56:10 +0200"
@@ -36,24 +46,14 @@
       "date": "Sat, 11 Apr 2026 10:17:22 +0200"
     },
     {
-      "title": "Debatte über Geflüchtete: Unternehmensverbände warnen vor Rückkehr syrischer Arbeitskräfte",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/unternehmen-verband-gefluechtete-syrien-rueckkehr.html",
-      "date": "Sat, 11 Apr 2026 09:52:25 +0200"
-    },
-    {
       "title": "Bauarbeiten: Regionalverkehr zum BER am Wochenende stark eingeschränkt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/flughafen-ber-regionalverkehr-eingeschraenkt-fex-re20-rb22-rb24-rb32.html",
       "date": "Sat, 11 Apr 2026 09:38:38 +0200"
-    },
-    {
-      "title": "Bürgermeisterwahl in Fürstenwalde: Sieben Kandidaten treten an",
-      "link": "https://www.rbb24.de/politik/wahl/brandenburg-buergermeisterwahlen/2026/fuerstenwalde-oder-spree-kandidaten-wahl.html",
-      "date": "Sat, 11 Apr 2026 07:20:11 +0200"
     }
   ],
   "police": [
     {
-      "title": "Diebstahl und Verletzung einer Staatsflagge",
+      "title": "Diebstahl und Beschädigung einer Staatsflagge",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660228.php",
       "date": "Sat, 11 Apr 2026 12:56:46 +0200"
     },
