@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Feuerwehreinsatz: Brand in Mehrfamilienhaus in Guben (Lausitz)",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/brandenburg-lausitz-guben-brand-mehrfamilienhaus.html",
+      "date": "Sat, 11 Apr 2026 11:57:49 +0200"
+    },
+    {
+      "title": "Berliner Weltraumwirtschaft: Per Anhalter ins All",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/berlin-raketenstart-weltraum-start-up-exolaunch-tu-berlin.html",
+      "date": "Sat, 11 Apr 2026 11:39:57 +0200"
+    },
+    {
       "title": "Wolfram Weimer will's nicht wissen - Diskussion an der Volksbühne",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/04/berlin-kultur-volksbuehne-kritik-zensur-zynismus-kulturkampf-weimer.html",
       "date": "Sat, 11 Apr 2026 10:51:13 +0200"
@@ -14,11 +24,6 @@
       "title": "Zahl der Messerangriffe in Berlin im ersten Quartal zurückgegangen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-messerangriffe-polizei-statistik.html",
       "date": "Sat, 11 Apr 2026 10:34:50 +0200"
-    },
-    {
-      "title": "Feuerwehreinsatz: Brand in Mehrfamilienhaus in Guben (Lausitz)",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/brandenburg-lausitz-guben-brand-mehrfamilienhaus.html",
-      "date": "Sat, 11 Apr 2026 10:29:41 +0200"
     },
     {
       "title": "Wassersportsaison startet: Wasserschutzpolizei verstärkt Kontrollen",
@@ -41,17 +46,17 @@
       "date": "Sat, 11 Apr 2026 07:20:11 +0200"
     },
     {
-      "title": "Berliner Weltraumwirtschaft: Per Anhalter ins All",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/berlin-raketenstart-weltraum-start-up-exolaunch-tu-berlin.html",
-      "date": "Sat, 11 Apr 2026 07:12:55 +0200"
-    },
-    {
       "title": "Basketball: Alba-Frauen im ersten Halbfinal-Spiel in Keltern chancenlos",
       "link": "https://www.rbb24.de/sport/beitrag/2026/04/basketball-dbbl-keltern-alba-erstes-halbfinalspiel.html",
       "date": "Fri, 10 Apr 2026 22:27:20 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Schusswaffe abgefeuert",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660225.php",
+      "date": "Sat, 11 Apr 2026 11:36:46 +0200"
+    },
     {
       "title": "Allgemeinverfügungen erlassen – Einschränkungen im Bezirk Charlottenburg-Wilmersdorf",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660122.php",
@@ -96,11 +101,6 @@
       "title": "Mann mit Stichverletzungen aufgefunden",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1659484.php",
       "date": "Wed, 08 Apr 2026 11:18:54 +0200"
-    },
-    {
-      "title": "Verdacht der Körperverletzung und Bedrohung - Polizeilicher Staatsschutz ermittelt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1659481.php",
-      "date": "Wed, 08 Apr 2026 11:15:31 +0200"
     }
   ],
   "free_events": [],
