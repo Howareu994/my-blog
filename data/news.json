@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Union Berlin II verpasst Sieg bei Tabellenschlusslicht Rostock",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/04/berlin-brandenburg-fussball-frauen-union-hertha-turbine-potsdam.html",
+      "date": "Sat, 11 Apr 2026 18:42:07 +0200"
+    },
+    {
+      "title": "Union kassiert nächste Niederlage bei Angstgegner Heidenheim",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-bundesliga-heidenheim-union-berlin-live-audiostream.html",
+      "date": "Sat, 11 Apr 2026 18:37:00 +0200"
+    },
+    {
+      "title": "Zwei Verletzte in ICE: Oberleitung reißt und zerschlägt Fenster",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-ice-zug-oberleitungsschaden.html",
+      "date": "Sat, 11 Apr 2026 18:35:17 +0200"
+    },
+    {
       "title": "AfD-Gegner protestieren vor Tagungshotel in Cottbus",
       "link": "https://www.rbb24.de/politik/beitrag/2026/04/afd-gegner-protest.html",
       "date": "Sat, 11 Apr 2026 18:22:57 +0200"
@@ -11,19 +26,9 @@
       "date": "Sat, 11 Apr 2026 18:20:58 +0200"
     },
     {
-      "title": "Union kassiert nächste Niederlage bei Angstgegner Heidenheim",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-bundesliga-heidenheim-union-berlin-live-audiostream.html",
-      "date": "Sat, 11 Apr 2026 17:52:51 +0200"
-    },
-    {
       "title": "CSD Angermünde: Dutzende Menschen auf der Straße",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/csd-angermuende-brandenburg-christopher-street-day-pride.html",
       "date": "Sat, 11 Apr 2026 17:52:48 +0200"
-    },
-    {
-      "title": "Zwei Verletzte in ICE: Oberleitung reißt und zerschlägt Fenster",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-ice-zug-oberleitungsschaden.html",
-      "date": "Sat, 11 Apr 2026 17:48:14 +0200"
     },
     {
       "title": "Brand in Wohnblock in Guben - ein Mensch verletzt",
@@ -44,11 +49,6 @@
       "title": "Aufstiegs-Dämpfer: Herthas Serie reißt gegen Kaiserslautern",
       "link": "https://www.rbb24.de/sport/beitrag/2026/04/2-bundesliga-hertha-bsc-1-fc-kaiserslautern-live-audiostream.html",
       "date": "Sat, 11 Apr 2026 15:41:00 +0200"
-    },
-    {
-      "title": "Wetteraussichten: \"Flächendeckende Regenfälle sind nicht in Sicht\"",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/wetter-waldbrandgefahr-regen-trockenheit-saharastaub.html",
-      "date": "Sat, 11 Apr 2026 15:06:11 +0200"
     }
   ],
   "police": [
