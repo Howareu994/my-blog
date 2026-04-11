@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Zwei Verletzte in ICE: Oberleitung reißt und zerschlägt Fenster",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-ice-zug-oberleitungsschaden.html",
+      "date": "Sat, 11 Apr 2026 16:23:42 +0200"
+    },
+    {
       "title": "CSD Angermünde: Dutzende Menschen auf der Straße",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/csd-angermuende-brandenburg-christopher-street-day-pride.html",
       "date": "Sat, 11 Apr 2026 15:46:05 +0200"
@@ -8,17 +13,17 @@
     {
       "title": "Aufstiegs-Dämpfer: Herthas Serie reißt gegen Kaiserslautern",
       "link": "https://www.rbb24.de/sport/beitrag/2026/04/2-bundesliga-hertha-bsc-1-fc-kaiserslautern-live-audiostream.html",
-      "date": "Sat, 11 Apr 2026 15:41:07 +0200"
+      "date": "Sat, 11 Apr 2026 15:41:00 +0200"
+    },
+    {
+      "title": "Jetzt live: Bricht Union Berlin heute den Heidenheim-Fluch?",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-bundesliga-heidenheim-union-berlin-live-audiostream.html",
+      "date": "Sat, 11 Apr 2026 15:25:01 +0200"
     },
     {
       "title": "Wetteraussichten: \"Flächendeckende Regenfälle sind nicht in Sicht\"",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/wetter-waldbrandgefahr-regen-trockenheit-saharastaub.html",
       "date": "Sat, 11 Apr 2026 15:06:11 +0200"
-    },
-    {
-      "title": "Zwischen Berlin und Leipzig: Oberleitung fällt auf ICE",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-ice-zug-oberleitungsschaden.html",
-      "date": "Sat, 11 Apr 2026 14:42:59 +0200"
     },
     {
       "title": "Syrische Arbeitskräfte: Unternehmer warnen vor Rückkehr",
@@ -44,11 +49,6 @@
       "title": "Lachgas-Verkauf ab Sonntag verboten - Fragen und Antworten",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-brandenburg-lachgas-verkaufsverbot-minderjaehrige-faq-gesundheit-umwelt-bsr.html",
       "date": "Sat, 11 Apr 2026 10:39:05 +0200"
-    },
-    {
-      "title": "Zahl der Messerangriffe in Berlin im ersten Quartal zurückgegangen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-messerangriffe-polizei-statistik.html",
-      "date": "Sat, 11 Apr 2026 10:34:50 +0200"
     }
   ],
   "police": [
