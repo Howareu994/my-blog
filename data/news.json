@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Feuerwehreinsatz: Brand in Mehrfamilienhaus in Guben (Lausitz)",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/brandenburg-lausitz-guben-brand-mehrfamilienhaus.html",
+      "date": "Sat, 11 Apr 2026 08:36:56 +0200"
+    },
+    {
       "title": "Bürgermeisterwahl in Fürstenwalde: Sieben Kandidaten treten an",
       "link": "https://www.rbb24.de/politik/wahl/brandenburg-buergermeisterwahlen/2026/fuerstenwalde-oder-spree-kandidaten-wahl.html",
       "date": "Sat, 11 Apr 2026 07:20:11 +0200"
@@ -44,11 +49,6 @@
       "title": "Missbrauch im Maßregelvollzug: Kündigung von Ärzten gestoppt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/missbrauch-massregelvollzug-kuendigun-aerzte-gestoppt-brandenburg-havel.html",
       "date": "Fri, 10 Apr 2026 19:21:15 +0200"
-    },
-    {
-      "title": "Frauen-Bundesliga: Union Berlin holt Verteidigerin Jill Janssens",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-bundesliga-union-berlin-frauen-neuzugang-jill-janssens-tsg-hoffenheim.html",
-      "date": "Fri, 10 Apr 2026 18:48:07 +0200"
     }
   ],
   "police": [
