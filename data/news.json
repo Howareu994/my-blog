@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Jetzt live: Setzt Hertha die Aufholjagd gegen Kaiserslautern fort?",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/04/2-bundesliga-hertha-bsc-1-fc-kaiserslautern-live-audiostream.html",
+      "date": "Sat, 11 Apr 2026 12:56:10 +0200"
+    },
+    {
       "title": "Feuerwehreinsatz: Brand in Mehrfamilienhaus in Guben (Lausitz)",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/brandenburg-lausitz-guben-brand-mehrfamilienhaus.html",
       "date": "Sat, 11 Apr 2026 11:57:49 +0200"
@@ -44,14 +49,14 @@
       "title": "Bürgermeisterwahl in Fürstenwalde: Sieben Kandidaten treten an",
       "link": "https://www.rbb24.de/politik/wahl/brandenburg-buergermeisterwahlen/2026/fuerstenwalde-oder-spree-kandidaten-wahl.html",
       "date": "Sat, 11 Apr 2026 07:20:11 +0200"
-    },
-    {
-      "title": "Basketball: Alba-Frauen im ersten Halbfinal-Spiel in Keltern chancenlos",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/04/basketball-dbbl-keltern-alba-erstes-halbfinalspiel.html",
-      "date": "Fri, 10 Apr 2026 22:27:20 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Diebstahl und Verletzung einer Staatsflagge",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660228.php",
+      "date": "Sat, 11 Apr 2026 12:56:46 +0200"
+    },
     {
       "title": "Schusswaffe abgefeuert",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660225.php",
@@ -96,11 +101,6 @@
       "title": "Bundeskanzleramt beschmiert",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1659502.php",
       "date": "Wed, 08 Apr 2026 11:52:02 +0200"
-    },
-    {
-      "title": "Mann mit Stichverletzungen aufgefunden",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1659484.php",
-      "date": "Wed, 08 Apr 2026 11:18:54 +0200"
     }
   ],
   "free_events": [],
