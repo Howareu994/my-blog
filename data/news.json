@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Wetteraussichten: \"Flächendeckende Regenfälle sind nicht in Sicht\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/wetter-waldbrandgefahr-regen-trockenheit-saharastaub.html",
+      "date": "Sun, 12 Apr 2026 11:14:24 +0200"
+    },
+    {
+      "title": "Zwei Verletzte in ICE: Oberleitung reißt und zerschlägt Fenster",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-ice-zug-oberleitungsschaden.html",
+      "date": "Sun, 12 Apr 2026 10:57:12 +0200"
+    },
+    {
       "title": "Bildung: Mehr Brandenburger Schüler beenden Schule ohne Abschluss",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/brandenburg-schueler-schulabschluss.html",
       "date": "Sun, 12 Apr 2026 09:07:14 +0200"
@@ -9,11 +19,6 @@
       "title": "Kaufkraft in der Region: Berliner können sich im Ländervergleich am wenigsten leisten",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/kaufkraft-berlin-brandenburg-gering-niedrige-einkommen-hohe-preise.html",
       "date": "Sun, 12 Apr 2026 09:06:54 +0200"
-    },
-    {
-      "title": "Zwei Verletzte in ICE: Oberleitung reißt und zerschlägt Fenster",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-ice-zug-oberleitungsschaden.html",
-      "date": "Sun, 12 Apr 2026 08:17:12 +0200"
     },
     {
       "title": "Königliche Porzellan-Manufaktur Berlin: \"Kauf war eine Herzensverpflichtung\"",
@@ -44,11 +49,6 @@
       "title": "Alba zurück in der Erfolgsspur: Deutlicher Sieg gegen Ludwigsburg",
       "link": "https://www.rbb24.de/sport/beitrag/2026/04/berlin-basketball-bundesliga-alba-ludwigshafen-spielbericht.html",
       "date": "Sat, 11 Apr 2026 20:55:05 +0200"
-    },
-    {
-      "title": "Volleys sichern sich mit Sieg gegen Friedrichshafen ersten Final-Matchball",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/04/berlin-volleyball-br-volleys-friedrichshafen-playoffs-halbfinale.html",
-      "date": "Sat, 11 Apr 2026 20:40:52 +0200"
     }
   ],
   "police": [
