@@ -1,9 +1,19 @@
 {
   "traffic": [
     {
-      "title": "Zwei Verletzte in ICE: Oberleitung reißt und zerschlägt Fenster",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-ice-zug-oberleitungsschaden.html",
-      "date": "Sun, 12 Apr 2026 12:08:55 +0200"
+      "title": "Kaufkraft in der Region: Berliner können sich im Ländervergleich am wenigsten leisten",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/kaufkraft-berlin-brandenburg-gering-niedrige-einkommen-hohe-preise.html",
+      "date": "Sun, 12 Apr 2026 14:34:35 +0200"
+    },
+    {
+      "title": "Diebstahl und Gewalt: Polizei löst eskalierte Party von 18-Jähriger auf",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/polizei-loest-party-von-18-jaehriger-auf-brandenburg-petershagen.html",
+      "date": "Sun, 12 Apr 2026 13:52:08 +0200"
+    },
+    {
+      "title": "3. Liga live: Energie Cottbus im Spitzenspiel beim VfL Osnabrück",
+      "link": "https://www.rbb24.de/sport/hintergrund/livestream/livestream-fussball-dritte-liga-vfl-osnabrueck-energie-cottbus.html",
+      "date": "Sun, 12 Apr 2026 13:29:49 +0200"
     },
     {
       "title": "Union Berlin trennt sich von Trainer Baumgart - Eta übernimmt bis Saisonende",
@@ -16,14 +26,14 @@
       "date": "Sun, 12 Apr 2026 11:14:24 +0200"
     },
     {
+      "title": "Baumgart bei Union Berlin entlassen: Das nur fast perfekte Match",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-berlin-union-entlassung-trainer-steffen-baumgart-kommentar.html",
+      "date": "Sun, 12 Apr 2026 10:33:00 +0200"
+    },
+    {
       "title": "Bildung: Mehr Brandenburger Schüler beenden Schule ohne Abschluss",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/brandenburg-schueler-schulabschluss.html",
       "date": "Sun, 12 Apr 2026 09:07:14 +0200"
-    },
-    {
-      "title": "Kaufkraft in der Region: Berliner können sich im Ländervergleich am wenigsten leisten",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/kaufkraft-berlin-brandenburg-gering-niedrige-einkommen-hohe-preise.html",
-      "date": "Sun, 12 Apr 2026 09:06:54 +0200"
     },
     {
       "title": "Königliche Porzellan-Manufaktur Berlin: \"Kauf war eine Herzensverpflichtung\"",
@@ -39,19 +49,14 @@
       "title": "Brandenburger Sparpläne: Landesbeauftragte auf dem Prüfstand",
       "link": "https://www.rbb24.de/politik/beitrag/2026/04/brandenburg-landesbeauftragte-koalition-sparplaene.html",
       "date": "Sun, 12 Apr 2026 07:21:33 +0200"
-    },
-    {
-      "title": "Bundesliga: Union verliert beim Tabellenletzten in Heidenheim",
-      "link": "https://www.inforadio.de/rubriken/sport/beitraege/2026/04/fussball-bundesliga-heidenheim-union-berlin.html",
-      "date": "Sun, 12 Apr 2026 06:15:00 +0200"
-    },
-    {
-      "title": "Piloten der Lufthansa für Montag und Dienstag zu Streik aufgerufen",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/streik-lufthansa-cockpitpersonal.html",
-      "date": "Sat, 11 Apr 2026 21:38:44 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Mann mit Glasflasche angegriffen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660233.php",
+      "date": "Sun, 12 Apr 2026 14:23:32 +0200"
+    },
     {
       "title": "Mann ausgeraubt und Polizei angegriffen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660232.php",
@@ -96,11 +101,6 @@
       "title": "Verkehrsunfallflucht – Radfahrerin verletzt im Krankenhaus",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1659674.php",
       "date": "Thu, 09 Apr 2026 09:11:00 +0200"
-    },
-    {
-      "title": "Kind im Bus angegriffen und beleidigt – Öffentlichkeitsfahndung erfolgreich",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1651737.php",
-      "date": "Wed, 08 Apr 2026 15:11:00 +0200"
     }
   ],
   "free_events": [],
