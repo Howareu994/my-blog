@@ -1,19 +1,24 @@
 {
   "traffic": [
     {
+      "title": "Piloten der Lufthansa für Montag und Dienstag zu Streik aufgerufen",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/streik-lufthansa-cockpitpersonal.html",
+      "date": "Sun, 12 Apr 2026 15:51:08 +0200"
+    },
+    {
+      "title": "3. Liga: Energie Cottbus verliert ärgerlich bei Tabellenführer Osnabrück",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-3-liga-tabelle-vfl-osnabrueck-energie-cottbus-engelhardt.html",
+      "date": "Sun, 12 Apr 2026 15:41:37 +0200"
+    },
+    {
       "title": "Kaufkraft in der Region: Berliner können sich im Ländervergleich am wenigsten leisten",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/kaufkraft-berlin-brandenburg-gering-niedrige-einkommen-hohe-preise.html",
-      "date": "Sun, 12 Apr 2026 14:34:35 +0200"
+      "date": "Sun, 12 Apr 2026 15:05:49 +0200"
     },
     {
       "title": "Diebstahl und Gewalt: Polizei löst eskalierte Party von 18-Jähriger auf",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/polizei-loest-party-von-18-jaehriger-auf-brandenburg-petershagen.html",
       "date": "Sun, 12 Apr 2026 13:52:08 +0200"
-    },
-    {
-      "title": "3. Liga live: Energie Cottbus im Spitzenspiel beim VfL Osnabrück",
-      "link": "https://www.rbb24.de/sport/hintergrund/livestream/livestream-fussball-dritte-liga-vfl-osnabrueck-energie-cottbus.html",
-      "date": "Sun, 12 Apr 2026 13:29:49 +0200"
     },
     {
       "title": "Union Berlin trennt sich von Trainer Baumgart - Eta übernimmt bis Saisonende",
@@ -44,14 +49,34 @@
       "title": "Herbert Grönemeyer wird 70 - Bilder einer außergewöhnlichen Karriere",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/04/herbert-groenemeyer-musiker-berlin-bochum.html",
       "date": "Sun, 12 Apr 2026 07:22:01 +0200"
-    },
-    {
-      "title": "Brandenburger Sparpläne: Landesbeauftragte auf dem Prüfstand",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/04/brandenburg-landesbeauftragte-koalition-sparplaene.html",
-      "date": "Sun, 12 Apr 2026 07:21:33 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Nach Widerstand – DEIG eingesetzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660238.php",
+      "date": "Sun, 12 Apr 2026 15:38:51 +0200"
+    },
+    {
+      "title": "E-Scooter-Fahrer nach Verkehrsunfall verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660237.php",
+      "date": "Sun, 12 Apr 2026 15:30:31 +0200"
+    },
+    {
+      "title": "Polizist mit Pfefferspray angegriffen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660236.php",
+      "date": "Sun, 12 Apr 2026 15:27:16 +0200"
+    },
+    {
+      "title": "Schüsse im Mehrfamilienhaus",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660235.php",
+      "date": "Sun, 12 Apr 2026 15:20:55 +0200"
+    },
+    {
+      "title": "Nach Widerstand – DEIG eingesetzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660234.php",
+      "date": "Sun, 12 Apr 2026 15:18:16 +0200"
+    },
     {
       "title": "Mann mit Glasflasche angegriffen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660233.php",
@@ -76,31 +101,6 @@
       "title": "Allgemeinverfügungen erlassen – Einschränkungen im Bezirk Charlottenburg-Wilmersdorf",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660122.php",
       "date": "Fri, 10 Apr 2026 13:57:10 +0200"
-    },
-    {
-      "title": "Durchsuchungen wegen illegaler Autovermietungen – Vermögenswerte sichergestellt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660112.php",
-      "date": "Fri, 10 Apr 2026 13:51:35 +0200"
-    },
-    {
-      "title": "Schüsse im Mehrfamilienhaus",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660091.php",
-      "date": "Fri, 10 Apr 2026 13:28:17 +0200"
-    },
-    {
-      "title": "Fußgänger bei Verkehrsunfall verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660089.php",
-      "date": "Fri, 10 Apr 2026 13:22:13 +0200"
-    },
-    {
-      "title": "Zwei Verletzte nach körperlicher Auseinandersetzung",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1659689.php",
-      "date": "Thu, 09 Apr 2026 10:00:35 +0200"
-    },
-    {
-      "title": "Verkehrsunfallflucht – Radfahrerin verletzt im Krankenhaus",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1659674.php",
-      "date": "Thu, 09 Apr 2026 09:11:00 +0200"
     }
   ],
   "free_events": [],
