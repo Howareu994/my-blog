@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Autofahrer ohne Führerschein rast durch Tempo-30-Zone in Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/autofahrer-ohne-fuehrerschein-tempo-30-zone-berlin-tempelhof.html",
+      "date": "Sun, 12 Apr 2026 16:28:15 +0200"
+    },
+    {
+      "title": "AfD-Gegner protestieren vor Tagungshotel in Cottbus",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/04/afd-gegner-protest.html",
+      "date": "Sun, 12 Apr 2026 16:24:31 +0200"
+    },
+    {
       "title": "Piloten der Lufthansa für Montag und Dienstag zu Streik aufgerufen",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/streik-lufthansa-cockpitpersonal.html",
       "date": "Sun, 12 Apr 2026 15:51:08 +0200"
@@ -39,19 +49,14 @@
       "title": "Bildung: Mehr Brandenburger Schüler beenden Schule ohne Abschluss",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/brandenburg-schueler-schulabschluss.html",
       "date": "Sun, 12 Apr 2026 09:07:14 +0200"
-    },
-    {
-      "title": "Königliche Porzellan-Manufaktur Berlin: \"Kauf war eine Herzensverpflichtung\"",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/berlin-tiergarten-koenigliche-porzellan-manufaktur-kpm-joerg-woltmann-kurland-interview.html",
-      "date": "Sun, 12 Apr 2026 07:22:31 +0200"
-    },
-    {
-      "title": "Herbert Grönemeyer wird 70 - Bilder einer außergewöhnlichen Karriere",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/04/herbert-groenemeyer-musiker-berlin-bochum.html",
-      "date": "Sun, 12 Apr 2026 07:22:01 +0200"
     }
   ],
   "police": [
+    {
+      "title": "E-Scooter-Fahrer nach Zusammenstoß verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660239.php",
+      "date": "Sun, 12 Apr 2026 15:54:21 +0200"
+    },
     {
       "title": "Nach Widerstand – DEIG eingesetzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660238.php",
@@ -96,11 +101,6 @@
       "title": "Schusswaffe abgefeuert",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660225.php",
       "date": "Sat, 11 Apr 2026 11:36:46 +0200"
-    },
-    {
-      "title": "Allgemeinverfügungen erlassen – Einschränkungen im Bezirk Charlottenburg-Wilmersdorf",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660122.php",
-      "date": "Fri, 10 Apr 2026 13:57:10 +0200"
     }
   ],
   "free_events": [],
