@@ -1,19 +1,34 @@
 {
   "traffic": [
     {
+      "title": "Bildung: Mehr Brandenburger und Berliner Schüler beenden Schule ohne Abschluss",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/brandenburg-schueler-schulabschluss.html",
+      "date": "Mon, 13 Apr 2026 12:45:02 +0200"
+    },
+    {
+      "title": "Blitzermarathon und Speedweek: Polizei kontrolliert diese Woche",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-brandenburg-speedweek-verkehr-kontrollen-polizei.html",
+      "date": "Mon, 13 Apr 2026 11:37:44 +0200"
+    },
+    {
+      "title": "Krisen-Handballklub: Ex-Meister Frankfurter HC vor Schicksalsspiel",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/04/handball-frauen-frankfurter-handball-club-fhc-abstieg-ddr.html",
+      "date": "Mon, 13 Apr 2026 11:35:07 +0200"
+    },
+    {
       "title": "SPD-Bezirksbürgermeister-Kandidatin in Mitte zieht Kandidatur zurück",
       "link": "https://www.rbb24.de/politik/beitrag/2026/04/rueckzug-spd-bezirksbuergermeister-kandidatin-berlin-mitte-.html",
       "date": "Mon, 13 Apr 2026 11:19:27 +0200"
     },
     {
+      "title": "Bauarbeiten auf der A24 bis 2027",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/bauarbeiten-a24-bis-2027.html",
+      "date": "Mon, 13 Apr 2026 11:02:00 +0200"
+    },
+    {
       "title": "Zwei Verletzte in ICE: Oberleitung reißt und zerschlägt Fenster",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-ice-zug-oberleitungsschaden.html",
       "date": "Mon, 13 Apr 2026 09:14:29 +0200"
-    },
-    {
-      "title": "Blitzermarathon und Speedweek: Polizei kontrolliert diese Woche",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-brandenburg-speedweek-verkehr-kontrollen-polizei.html",
-      "date": "Mon, 13 Apr 2026 08:09:51 +0200"
     },
     {
       "title": "Volker Heise im Interview: \"Tschernobyl war ein Wendepunkt in meinem Leben\"",
@@ -34,24 +49,19 @@
       "title": "Fürstenwalde muss in Stichwahl über neuen Bürgermeister entscheiden",
       "link": "https://www.rbb24.de/politik/beitrag/2026/04/buergermeister-wahl-fuerstenwalde-ergebnis.html",
       "date": "Sun, 12 Apr 2026 20:27:00 +0200"
-    },
-    {
-      "title": "Eishockey: Starke Eisbären siegen verdient, aber knapp gegen Köln",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/04/eishockey-del-playoffs-halbfinale-eisbaeren-berlin-koelner-haie.html",
-      "date": "Sun, 12 Apr 2026 20:16:31 +0200"
-    },
-    {
-      "title": "Füchse Berlin gewinnen Handball-Krimi in Lemgo",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/04/handball-bundesliga-lemgo-fuechse-berlin.html",
-      "date": "Sun, 12 Apr 2026 20:14:00 +0200"
-    },
-    {
-      "title": "DBBL-Playoffs: Alba Berlin steht vor Halbfinal-Aus gegen Keltern",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/04/damen-basketball-bundesliga-dbbl-playoffs-stars-keltern-alba-berlin.html",
-      "date": "Sun, 12 Apr 2026 18:16:21 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Angriff auf Fan-Bus",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660370.php",
+      "date": "Mon, 13 Apr 2026 12:13:04 +0200"
+    },
+    {
+      "title": "Fahrradfahrer bei Verkehrsunfall verletzt – Zeuginnen und Zeugen gesucht",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660359.php",
+      "date": "Mon, 13 Apr 2026 12:05:19 +0200"
+    },
     {
       "title": "Brandstiftung in Friseursalon",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660295.php",
@@ -91,16 +101,6 @@
       "title": "Mann ausgeraubt und Polizei angegriffen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660232.php",
       "date": "Sat, 11 Apr 2026 16:52:35 +0200"
-    },
-    {
-      "title": "Diebstahl und Beschädigung einer Staatsflagge",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660228.php",
-      "date": "Sat, 11 Apr 2026 12:56:46 +0200"
-    },
-    {
-      "title": "Schusswaffe abgefeuert",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660225.php",
-      "date": "Sat, 11 Apr 2026 11:36:46 +0200"
     }
   ],
   "free_events": [],
