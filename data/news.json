@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Lufthansa: Nach Piloten wollen auch Flugbegleiter streiken",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/streik-lufthansa-cockpitpersonal.html",
+      "date": "Mon, 13 Apr 2026 19:21:44 +0200"
+    },
+    {
+      "title": "Serie: \"Bau fällig\": Was aus Märkischem Museum und Marinehaus werden soll",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/maerkisches-museum-stadtmuseum-marinehaus-baustelle-sanierung.html",
+      "date": "Mon, 13 Apr 2026 19:14:06 +0200"
+    },
+    {
       "title": "Eishockey: Mehrere Vermummte überfallen Fan-Bus der Kölner Haie",
       "link": "https://www.rbb24.de/sport/beitrag/2026/04/eishockey-berlin-angriff-reisebus-koelner-haie.html",
       "date": "Mon, 13 Apr 2026 18:30:57 +0200"
@@ -9,11 +19,6 @@
       "title": "Wahlabend in Ungarn: \"Die Leute haben angefangen zu weinen\"",
       "link": "https://www.rbb24.de/politik/beitrag/2026/04/wahlsieg-peter-magyar-ungarn-interview.html",
       "date": "Mon, 13 Apr 2026 18:30:55 +0200"
-    },
-    {
-      "title": "Serie: \"Bau fällig\": Was aus Märkischem Museum und Marinehaus werden soll",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/maerkisches-museum-stadtmuseum-marinehaus-baustelle-sanierung.html",
-      "date": "Mon, 13 Apr 2026 18:18:01 +0200"
     },
     {
       "title": "Steuersenkung und Krisen-Bonus: Geplantes Entlastungspaket des Bundes stößt auf Kritik",
@@ -44,11 +49,6 @@
       "title": "Angriff auf jüdischen Studenten Lahav Shapira: Zweieinhalb Jahre Haft",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/zwei-jahre-haft-im-shapira-prozess.html",
       "date": "Mon, 13 Apr 2026 16:36:04 +0200"
-    },
-    {
-      "title": "Blitzermarathon und Speedweek: Polizei kontrolliert diese Woche",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-brandenburg-speedweek-verkehr-kontrollen-polizei.html",
-      "date": "Mon, 13 Apr 2026 14:32:23 +0200"
     }
   ],
   "police": [
