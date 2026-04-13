@@ -1,9 +1,34 @@
 {
   "traffic": [
     {
+      "title": "Koalition einigt sich auf Entlastungen für Autofahrer und Arbeitnehmer",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/bundesregierung-entlastung-sprit-preise-arbeitgeber-bonus-merz.html",
+      "date": "Mon, 13 Apr 2026 16:56:26 +0200"
+    },
+    {
+      "title": "Maskierte verschleppen, fesseln und berauben Mann in Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-maskierte-verschleppen-mann-raub-transporter.html",
+      "date": "Mon, 13 Apr 2026 16:52:35 +0200"
+    },
+    {
+      "title": "Union-Manager Heldt über Eta-Zukunft: \"Nichts ausschließen\"",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-bundesliga-union-berlin-horst-heldt-marie-louise-eta-trainerin-baumgart.html",
+      "date": "Mon, 13 Apr 2026 16:51:32 +0200"
+    },
+    {
+      "title": "KZ-Gedenkstätten planen 81. Jahrestag der Befreiung",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/kz-gedenkstaetten-planen-81--jahrestag-der-befreiung.html",
+      "date": "Mon, 13 Apr 2026 16:37:40 +0200"
+    },
+    {
+      "title": "Wahlabend in Ungarn: \"Die Leute haben angefangen zu weinen\"",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/04/wahlsieg-peter-magyar-ungarn-interview.html",
+      "date": "Mon, 13 Apr 2026 16:36:08 +0200"
+    },
+    {
       "title": "Angriff auf jüdischen Studenten Lahav Shapira: Zweieinhalb Jahre Haft",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/zwei-jahre-haft-im-shapira-prozess.html",
-      "date": "Mon, 13 Apr 2026 14:43:33 +0200"
+      "date": "Mon, 13 Apr 2026 16:36:04 +0200"
     },
     {
       "title": "Blitzermarathon und Speedweek: Polizei kontrolliert diese Woche",
@@ -11,17 +36,12 @@
       "date": "Mon, 13 Apr 2026 14:32:23 +0200"
     },
     {
-      "title": "Koalition einigt sich auf Entlastungen für Autofahrer und Arbeitnehmer",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/bundesregierung-entlastung-sprit-preise-arbeitgeber-bonus-merz.html",
-      "date": "Mon, 13 Apr 2026 14:32:02 +0200"
-    },
-    {
       "title": "Berlins langsamste Buslinien: Bäderbus 312 und 147 zum Hauptbahnhof",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-bvg-bus-linie-langsam-schnell.html",
       "date": "Mon, 13 Apr 2026 14:24:13 +0200"
     },
     {
-      "title": "Fans der Kölner Haie nach Spiel bei Eisbären Berlin attackiert",
+      "title": "Eishockey: Mehrere Vermummte überfallen Fan-Bus der Kölner Haie",
       "link": "https://www.rbb24.de/sport/beitrag/2026/04/eishockey-berlin-angriff-reisebus-koelner-haie.html",
       "date": "Mon, 13 Apr 2026 13:59:00 +0200"
     },
@@ -29,29 +49,19 @@
       "title": "Bildung: Mehr Brandenburger und Berliner Schüler beenden Schule ohne Abschluss",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/brandenburg-schueler-schulabschluss.html",
       "date": "Mon, 13 Apr 2026 12:45:02 +0200"
-    },
-    {
-      "title": "Krisen-Handballklub: Ex-Meister Frankfurter HC vor Schicksalsspiel",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/04/handball-frauen-frankfurter-handball-club-fhc-abstieg-ddr.html",
-      "date": "Mon, 13 Apr 2026 11:35:07 +0200"
-    },
-    {
-      "title": "SPD-Bezirksbürgermeister-Kandidatin in Mitte zieht Kandidatur zurück",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/04/rueckzug-spd-bezirksbuergermeister-kandidatin-berlin-mitte-.html",
-      "date": "Mon, 13 Apr 2026 11:19:27 +0200"
-    },
-    {
-      "title": "Horst Heldt: Baumgart-Aus erhöht Druck auf Union-Manager",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-bundesliga-union-berlin-heldt-entlassung-baumgart-eta.html",
-      "date": "Mon, 13 Apr 2026 11:07:00 +0200"
-    },
-    {
-      "title": "Bauarbeiten auf der A24 bis 2027",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/bauarbeiten-a24-bis-2027.html",
-      "date": "Mon, 13 Apr 2026 11:02:00 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Flucht endete mit Unfall",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660540.php",
+      "date": "Mon, 13 Apr 2026 16:46:04 +0200"
+    },
+    {
+      "title": "Mann überfallen und verschleppt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660537.php",
+      "date": "Mon, 13 Apr 2026 14:35:00 +0200"
+    },
     {
       "title": "Zwei Männer festgenommen und Falschgeld beschlagnahmt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660428.php",
@@ -91,16 +101,6 @@
       "title": "Polizist mit Pfefferspray angegriffen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660236.php",
       "date": "Sun, 12 Apr 2026 15:27:16 +0200"
-    },
-    {
-      "title": "Schüsse im Mehrfamilienhaus",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660235.php",
-      "date": "Sun, 12 Apr 2026 15:20:55 +0200"
-    },
-    {
-      "title": "Nach Widerstand – DEIG eingesetzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660234.php",
-      "date": "Sun, 12 Apr 2026 15:18:16 +0200"
     }
   ],
   "free_events": [],
