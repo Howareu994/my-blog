@@ -51,7 +51,58 @@
       "date": "Sun, 12 Apr 2026 16:28:15 +0200"
     }
   ],
-  "police": [],
+  "police": [
+    {
+      "title": "E-Scooter-Fahrer nach Zusammenstoß verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660239.php",
+      "date": "Sun, 12 Apr 2026 15:54:21 +0200"
+    },
+    {
+      "title": "Nach Widerstand – DEIG eingesetzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660238.php",
+      "date": "Sun, 12 Apr 2026 15:38:51 +0200"
+    },
+    {
+      "title": "E-Scooter-Fahrer nach Verkehrsunfall verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660237.php",
+      "date": "Sun, 12 Apr 2026 15:30:31 +0200"
+    },
+    {
+      "title": "Polizist mit Pfefferspray angegriffen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660236.php",
+      "date": "Sun, 12 Apr 2026 15:27:16 +0200"
+    },
+    {
+      "title": "Schüsse im Mehrfamilienhaus",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660235.php",
+      "date": "Sun, 12 Apr 2026 15:20:55 +0200"
+    },
+    {
+      "title": "Nach Widerstand – DEIG eingesetzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660234.php",
+      "date": "Sun, 12 Apr 2026 15:18:16 +0200"
+    },
+    {
+      "title": "Mann mit Glasflasche angegriffen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660233.php",
+      "date": "Sun, 12 Apr 2026 14:23:32 +0200"
+    },
+    {
+      "title": "Mann ausgeraubt und Polizei angegriffen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660232.php",
+      "date": "Sat, 11 Apr 2026 16:52:35 +0200"
+    },
+    {
+      "title": "Diebstahl und Beschädigung einer Staatsflagge",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660228.php",
+      "date": "Sat, 11 Apr 2026 12:56:46 +0200"
+    },
+    {
+      "title": "Schusswaffe abgefeuert",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660225.php",
+      "date": "Sat, 11 Apr 2026 11:36:46 +0200"
+    }
+  ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
