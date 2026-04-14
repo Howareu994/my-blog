@@ -1,6 +1,31 @@
 {
   "traffic": [
     {
+      "title": "Polizeieinsatz: 20-Jähriger in Fürstenwalde durch Schüsse verletzt - Verdächtige in Berlin gefasst",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/oder-spree-fuerstenwalde-mann-mit-schussverletzung-flucht-festnahme-in-berlin.html",
+      "date": "Tue, 14 Apr 2026 13:42:23 +0200"
+    },
+    {
+      "title": "Großer Schaden: Packstation in Cottbus gesprengt - Polizei ermittelt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/brandenburg-cottbus-packstation-gesprengt-polizei.html",
+      "date": "Tue, 14 Apr 2026 13:41:19 +0200"
+    },
+    {
+      "title": "Berlin-Touristen sollen bald fürs Müllsammeln belohnt werden",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-pay-besucher-belohnung-muell-sammeln.html",
+      "date": "Tue, 14 Apr 2026 13:27:24 +0200"
+    },
+    {
+      "title": "Berlin-Wahl 2026: Wie Sie Wahlhelfer werden können",
+      "link": "https://www.rbb24.de/politik/wahl/abgeordnetenhaus/agh-2026/beitraege/berlin-wahlhelfer-suche-anmeldung-aufgaben-geld-urlaub.html",
+      "date": "Tue, 14 Apr 2026 12:35:41 +0200"
+    },
+    {
+      "title": "Lufthansa: Nach Piloten sollen auch Flugbegleiter streiken",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/streik-lufthansa-cockpitpersonal.html",
+      "date": "Tue, 14 Apr 2026 12:34:16 +0200"
+    },
+    {
       "title": "Ukrainischer Präsident Selenskyj überraschend in Berlin",
       "link": "https://www.rbb24.de/politik/beitrag/2026/04/selenskyj-kommt-nach-berlin.html",
       "date": "Tue, 14 Apr 2026 12:06:32 +0200"
@@ -24,34 +49,14 @@
       "title": "Schock in Playoffs: Eisbären-Stürmer Bergmann fehlt monatelang",
       "link": "https://www.rbb24.de/sport/beitrag/2026/04/eishockey-eisbaeren-berlin-schwere-beinverletzung-lean-bergmann-ausfall.html",
       "date": "Tue, 14 Apr 2026 11:26:20 +0200"
-    },
-    {
-      "title": "Auto auf nördlichem Berliner Ring in Brand geraten - A10 zeitweise voll gesperrt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/autobahn-a10-gesperrt-auto-brennt-muehlenbeck-birkenwerder.html",
-      "date": "Tue, 14 Apr 2026 09:53:52 +0200"
-    },
-    {
-      "title": "Neues Demokratiefest in Bad Freienwalde angekündigt - ein Jahr nach Angriff",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/04/bad-freienwalde-ist-bunt-demokratiefest-ein-jahr-nach-angriff.html",
-      "date": "Tue, 14 Apr 2026 09:07:12 +0200"
-    },
-    {
-      "title": "Am Freitag bis zu 20 Grad in Berlin und Brandenburg möglich",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/wetter-berlin-brandenburg-20-grad-sonne.html",
-      "date": "Tue, 14 Apr 2026 08:12:10 +0200"
-    },
-    {
-      "title": "Illegale Abfallentsorgung in Brandenburgs Wäldern",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/brandenburg-wald-illegal-muell-entsorgen-bauschutt-abfall-umwelt.html",
-      "date": "Tue, 14 Apr 2026 08:02:11 +0200"
-    },
-    {
-      "title": "Juniorenfußball-Experte: \"Unions U19 ist stärker als Herthas\"",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-nachwuchs-u19-union-berlin-hertha-bsc-interview-zeljko-ristic.html",
-      "date": "Tue, 14 Apr 2026 06:10:00 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Verkehrsunfall mit mehreren beschädigten Fahrzeugen – Fahrer verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660780.php",
+      "date": "Tue, 14 Apr 2026 12:19:00 +0200"
+    },
     {
       "title": "Flucht endete mit Unfall",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660540.php",
@@ -96,11 +101,6 @@
       "title": "E-Scooter-Fahrer nach Verkehrsunfall verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660237.php",
       "date": "Sun, 12 Apr 2026 15:30:31 +0200"
-    },
-    {
-      "title": "Polizist mit Pfefferspray angegriffen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660236.php",
-      "date": "Sun, 12 Apr 2026 15:27:16 +0200"
     }
   ],
   "free_events": [],
