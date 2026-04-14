@@ -1,14 +1,34 @@
 {
   "traffic": [
     {
+      "title": "Ukrainischer Präsident Selenskyj überraschend in Berlin",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/04/selenskyj-kommt-nach-berlin.html",
+      "date": "Tue, 14 Apr 2026 12:06:32 +0200"
+    },
+    {
+      "title": "Schockanruf: Rentnerin aus Potsdam um rund 25.000 Euro betrogen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/schockanruf-betrug-potsdam-unfall-sohn-seniorin-geld-schmuck.html",
+      "date": "Tue, 14 Apr 2026 12:03:28 +0200"
+    },
+    {
+      "title": "Georg Heil wird Chefredakteur des rbb - Führungspositionen neu besetzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/rbb-chefredakteur-georg-heil.html",
+      "date": "Tue, 14 Apr 2026 11:59:34 +0200"
+    },
+    {
+      "title": "Trompeter Till Brönner im Interview zu seinem Album \"Italia\"",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/04/berlin-till-broenner-trompete-house-of-jazz-musik-konzert-italia-album-kochbuch.html",
+      "date": "Tue, 14 Apr 2026 11:39:35 +0200"
+    },
+    {
+      "title": "Schock in Playoffs: Eisbären-Stürmer Bergmann fehlt monatelang",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/04/eishockey-eisbaeren-berlin-schwere-beinverletzung-lean-bergmann-ausfall.html",
+      "date": "Tue, 14 Apr 2026 11:26:20 +0200"
+    },
+    {
       "title": "Auto auf nördlichem Berliner Ring in Brand geraten - A10 zeitweise voll gesperrt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/autobahn-a10-gesperrt-auto-brennt-muehlenbeck-birkenwerder.html",
       "date": "Tue, 14 Apr 2026 09:53:52 +0200"
-    },
-    {
-      "title": "Ukrainischer Präsident Wolodymyr Selenskyj überraschend nach Berlin gekommen",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/04/selenskyj-kommt-nach-berlin.html",
-      "date": "Tue, 14 Apr 2026 09:35:15 +0200"
     },
     {
       "title": "Neues Demokratiefest in Bad Freienwalde angekündigt - ein Jahr nach Angriff",
@@ -29,26 +49,6 @@
       "title": "Juniorenfußball-Experte: \"Unions U19 ist stärker als Herthas\"",
       "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-nachwuchs-u19-union-berlin-hertha-bsc-interview-zeljko-ristic.html",
       "date": "Tue, 14 Apr 2026 06:10:00 +0200"
-    },
-    {
-      "title": "Lufthansa: Nach Piloten sollen auch Flugbegleiter streiken",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/streik-lufthansa-cockpitpersonal.html",
-      "date": "Mon, 13 Apr 2026 19:21:00 +0200"
-    },
-    {
-      "title": "Eishockey: Mehrere Vermummte überfallen Fan-Bus der Kölner Haie",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/04/eishockey-berlin-angriff-reisebus-koelner-haie.html",
-      "date": "Mon, 13 Apr 2026 18:30:57 +0200"
-    },
-    {
-      "title": "Steuersenkung und Krisen-Bonus: Geplantes Entlastungspaket des Bundes stößt auf Kritik",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/bundesregierung-entlastung-sprit-preise-arbeitgeber-bonus-merz.html",
-      "date": "Mon, 13 Apr 2026 17:50:16 +0200"
-    },
-    {
-      "title": "Mutmaßliche Vergewaltigung in Jugendclub: Neuköllner Jugendstadträtin wirft Bildungssenatorin Falschbehauptung vor",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/04/neukoelln-jugendstadtraetin-bildungssenatorin-falschbehauptung.html",
-      "date": "Mon, 13 Apr 2026 17:34:36 +0200"
     }
   ],
   "police": [
