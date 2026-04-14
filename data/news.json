@@ -1,6 +1,26 @@
 {
   "traffic": [
     {
+      "title": "Brand mit Toten in Marzahn: Mann zu lebenslanger Haft verurteilt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/lebenslange-haft-brandstiftung-berlin-marzahn-zwei-tote.html",
+      "date": "Tue, 14 Apr 2026 16:37:51 +0200"
+    },
+    {
+      "title": "Berliner Tiergartunnel bleibt bis Sommer nachts gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-tiergartentunnel-sperrung-nachts-bis-sommer-personal-fehlt.html",
+      "date": "Tue, 14 Apr 2026 16:31:57 +0200"
+    },
+    {
+      "title": "Verdi ruft zu Warnstreik bei Vivantes-Töchtern auf",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/verdi-vivantes-toechter-warnstreik-berlin.html",
+      "date": "Tue, 14 Apr 2026 15:59:15 +0200"
+    },
+    {
+      "title": "Staatsanwaltschaft Potsdam übernimmt Ermittlungen im Fall Collien Fernandes",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/staatsanwaltschaft-potsdam-uebernimmt-ermittlungen-collien-ferna.html",
+      "date": "Tue, 14 Apr 2026 15:56:16 +0200"
+    },
+    {
       "title": "Straßenschild-Panne: Philosoph Leibniz in Berlin mit falschem \"t\"",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/leibnizstrasse-berlin-panne-strassenschilder.html",
       "date": "Tue, 14 Apr 2026 14:34:20 +0200"
@@ -26,32 +46,17 @@
       "date": "Tue, 14 Apr 2026 13:41:19 +0200"
     },
     {
-      "title": "Berlin-Touristen sollen bald fürs Müllsammeln belohnt werden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-pay-besucher-belohnung-muell-sammeln.html",
-      "date": "Tue, 14 Apr 2026 13:27:24 +0200"
-    },
-    {
       "title": "Berlin-Wahl 2026: Wie Sie Wahlhelfer werden können",
       "link": "https://www.rbb24.de/politik/wahl/abgeordnetenhaus/agh-2026/beitraege/berlin-wahlhelfer-suche-anmeldung-aufgaben-geld-urlaub.html",
       "date": "Tue, 14 Apr 2026 12:35:41 +0200"
-    },
-    {
-      "title": "Lufthansa: Nach Piloten sollen auch Flugbegleiter streiken",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/streik-lufthansa-cockpitpersonal.html",
-      "date": "Tue, 14 Apr 2026 12:34:16 +0200"
-    },
-    {
-      "title": "Schockanruf: Rentnerin aus Potsdam um rund 25.000 Euro betrogen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/schockanruf-betrug-potsdam-unfall-sohn-seniorin-geld-schmuck.html",
-      "date": "Tue, 14 Apr 2026 12:03:28 +0200"
-    },
-    {
-      "title": "Georg Heil wird Chefredakteur des rbb - Führungspositionen neu besetzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/rbb-chefredakteur-georg-heil.html",
-      "date": "Tue, 14 Apr 2026 11:59:34 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Verkehrsunfall nach Fahrerflucht",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660930.php",
+      "date": "Tue, 14 Apr 2026 15:10:00 +0200"
+    },
     {
       "title": "Verkehrsunfall mit mehreren beschädigten Fahrzeugen – Fahrer verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660780.php",
@@ -96,11 +101,6 @@
       "title": "E-Scooter-Fahrer nach Zusammenstoß verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660239.php",
       "date": "Sun, 12 Apr 2026 15:54:21 +0200"
-    },
-    {
-      "title": "E-Scooter-Fahrer nach Verkehrsunfall verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660237.php",
-      "date": "Sun, 12 Apr 2026 15:30:31 +0200"
     }
   ],
   "free_events": [],
