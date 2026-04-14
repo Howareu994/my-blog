@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Straßenschild-Panne: Philosoph Leibniz in Berlin mit falschem \"t\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/leibnizstrasse-berlin-panne-strassenschilder.html",
+      "date": "Tue, 14 Apr 2026 14:34:20 +0200"
+    },
+    {
+      "title": "Deutlich weniger Blitze in Brandenburg und Berlin registriert",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/brandenburg-havel-uckermark-blitz-einschlag-statistik.html",
+      "date": "Tue, 14 Apr 2026 14:33:18 +0200"
+    },
+    {
+      "title": "Ukrainischer Präsident Selenskyj überraschend in Berlin",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/04/selenskyj-kommt-nach-berlin.html",
+      "date": "Tue, 14 Apr 2026 14:02:59 +0200"
+    },
+    {
       "title": "Polizeieinsatz: 20-Jähriger in Fürstenwalde durch Schüsse verletzt - Verdächtige in Berlin gefasst",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/oder-spree-fuerstenwalde-mann-mit-schussverletzung-flucht-festnahme-in-berlin.html",
       "date": "Tue, 14 Apr 2026 13:42:23 +0200"
@@ -26,11 +41,6 @@
       "date": "Tue, 14 Apr 2026 12:34:16 +0200"
     },
     {
-      "title": "Ukrainischer Präsident Selenskyj überraschend in Berlin",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/04/selenskyj-kommt-nach-berlin.html",
-      "date": "Tue, 14 Apr 2026 12:06:32 +0200"
-    },
-    {
       "title": "Schockanruf: Rentnerin aus Potsdam um rund 25.000 Euro betrogen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/schockanruf-betrug-potsdam-unfall-sohn-seniorin-geld-schmuck.html",
       "date": "Tue, 14 Apr 2026 12:03:28 +0200"
@@ -39,16 +49,6 @@
       "title": "Georg Heil wird Chefredakteur des rbb - Führungspositionen neu besetzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/rbb-chefredakteur-georg-heil.html",
       "date": "Tue, 14 Apr 2026 11:59:34 +0200"
-    },
-    {
-      "title": "Trompeter Till Brönner im Interview zu seinem Album \"Italia\"",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/04/berlin-till-broenner-trompete-house-of-jazz-musik-konzert-italia-album-kochbuch.html",
-      "date": "Tue, 14 Apr 2026 11:39:35 +0200"
-    },
-    {
-      "title": "Schock in Playoffs: Eisbären-Stürmer Bergmann fehlt monatelang",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/04/eishockey-eisbaeren-berlin-schwere-beinverletzung-lean-bergmann-ausfall.html",
-      "date": "Tue, 14 Apr 2026 11:26:20 +0200"
     }
   ],
   "police": [
