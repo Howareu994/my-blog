@@ -1,6 +1,36 @@
 {
   "traffic": [
     {
+      "title": "SPD: Francisco dos Santos zieht weitere Kandidatur zurück",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/04/berlin-spd-uta-francisco-dos-santos-kandidatur-zurueckgezogen.html",
+      "date": "Wed, 15 Apr 2026 10:08:07 +0200"
+    },
+    {
+      "title": "Fördermittel-Streit in Berlin: SPD-Abgeordneter fordert Entlassung von CDU-Staatssekretär",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/04/foerdermittel-streit-spd-forderung-entlassung-cdu-staatssekretaer.html",
+      "date": "Wed, 15 Apr 2026 09:23:58 +0200"
+    },
+    {
+      "title": "Neues Hospizprojekt für junge Erwachsene: \"Ich sollte keine Angst haben müssen, älter zu werden\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-startet-hospizprojekt-fuer-junge-erwachsene.html",
+      "date": "Wed, 15 Apr 2026 09:10:05 +0200"
+    },
+    {
+      "title": "Brand in ehemaligem Supermarkt in Berlin-Buckow gelöscht - Warnung wegen Rauch",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-buckow-brand-ehemaliger-supermarkt.html",
+      "date": "Wed, 15 Apr 2026 08:57:09 +0200"
+    },
+    {
+      "title": "Wohnungsbrand in Berlin-Wedding: ein Schwerverletzter, drei Leichtverletzte",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-wedding-wohnungsbrand-feuerwehr.html",
+      "date": "Wed, 15 Apr 2026 08:42:57 +0200"
+    },
+    {
+      "title": "Dritter Streiktag in Folge: Vierzig Lufthansa-Verbindungen am BER abgesagt",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/streik-lufthansa-cockpitpersonal.html",
+      "date": "Wed, 15 Apr 2026 08:41:42 +0200"
+    },
+    {
       "title": "80 Jahre Kunsthochschule in Berlin Weißensee",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/04/kunsthochschule-weissensee-berlin-weltzeituhr-angelika-richter.html",
       "date": "Wed, 15 Apr 2026 07:47:45 +0200"
@@ -11,44 +41,14 @@
       "date": "Wed, 15 Apr 2026 06:05:20 +0200"
     },
     {
-      "title": "Fördermittel-Streit in Berlin: SPD-Abgeordneter fordert Entlassung von CDU-Staatssekretär",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/04/foerdermittel-streit-spd-forderung-entlassung-cdu-staatssekretaer.html",
-      "date": "Wed, 15 Apr 2026 06:04:45 +0200"
-    },
-    {
-      "title": "Lufthansa: Nach Piloten sollen auch Flugbegleiter streiken",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/streik-lufthansa-cockpitpersonal.html",
-      "date": "Tue, 14 Apr 2026 20:58:47 +0200"
-    },
-    {
       "title": "Playoffs im Profisport: Beste Zeit oder bitte abschaffen?",
       "link": "https://www.rbb24.de/sport/beitrag/2026/04/meinung-playoffs-pro-und-contra-lieben-oder-abschaffen.html",
       "date": "Tue, 14 Apr 2026 20:44:19 +0200"
     },
     {
-      "title": "Neues Hospizprojekt für junge Erwachsene: \"Ich sollte keine Angst haben müssen, älter zu werden\"",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-startet-hospizprojekt-fuer-junge-erwachsene.html",
-      "date": "Tue, 14 Apr 2026 20:40:09 +0200"
-    },
-    {
-      "title": "Brand in ehemaligem Supermarkt in Berlin-Buckow ausgebrochen - Warnung wegen Rauch",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-buckow-brand-ehemaliger-supermarkt.html",
-      "date": "Tue, 14 Apr 2026 19:00:57 +0200"
-    },
-    {
-      "title": "Mutmaßliche Vergewaltigung in Jugendclub: Neuköllner Jugendstadträtin wirft Bildungssenatorin Falschbehauptung vor",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/04/neukoelln-jugendstadtraetin-bildungssenatorin-falschbehauptung.html",
-      "date": "Tue, 14 Apr 2026 18:54:48 +0200"
-    },
-    {
-      "title": "Brand mit Toten in Marzahn: Mann zu lebenslanger Haft verurteilt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/lebenslange-haft-brandstiftung-berlin-marzahn-zwei-tote.html",
-      "date": "Tue, 14 Apr 2026 18:32:14 +0200"
-    },
-    {
-      "title": "Finanzen: Brandenburgs Landesregierung will 700 Stellen einsparen",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/04/brandenburg-landesregierung-einsparung-700-stellen.html",
-      "date": "Tue, 14 Apr 2026 18:30:34 +0200"
+      "title": "\"Transpiz\": Berlin startet Hospizdienst für junge Erwachsene",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-start-hospiz-dienst-junge-erwachsene.html",
+      "date": "Tue, 14 Apr 2026 20:38:47 +0200"
     }
   ],
   "police": [
