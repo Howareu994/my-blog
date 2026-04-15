@@ -1,9 +1,14 @@
 {
   "traffic": [
     {
+      "title": "A-Junioren: Union Berlin zerlegt Hertha und steht im Pokalfinale",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-landespokal-berlin-a-junioren-union-berlin-hertha-bsc-halbfinale-spielbericht.html",
+      "date": "Wed, 15 Apr 2026 21:46:32 +0200"
+    },
+    {
       "title": "Basketball: Saison der Alba-Frauen endet im Halbfinale gegen Keltern",
       "link": "https://www.rbb24.de/sport/beitrag/2026/04/frauen-basketball-dbbl-playoffs-alba-berlin-stars-keltern-soemmeringhalle.html",
-      "date": "Wed, 15 Apr 2026 21:21:31 +0200"
+      "date": "Wed, 15 Apr 2026 21:45:00 +0200"
     },
     {
       "title": "Psychotherapeuten demonstrieren in Berlin gegen Honorarkürzungen",
@@ -44,11 +49,6 @@
       "title": "Fördermittel-Streit in Berlin: SPD-Abgeordneter fordert Entlassung von CDU-Staatssekretär",
       "link": "https://www.rbb24.de/politik/beitrag/2026/04/foerdermittel-streit-spd-forderung-entlassung-cdu-staatssekretaer.html",
       "date": "Wed, 15 Apr 2026 15:12:32 +0200"
-    },
-    {
-      "title": "Berliner Kulturpolitiker wollen mehr Musikschullehrer anstellen",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/04/berlin-musikschulen-lehrer-festanstellung.html",
-      "date": "Wed, 15 Apr 2026 14:54:41 +0200"
     }
   ],
   "police": [
