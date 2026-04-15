@@ -1,14 +1,14 @@
 {
   "traffic": [
     {
+      "title": "Basketball: Saison der Alba-Frauen endet im Halbfinale gegen Keltern",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/04/frauen-basketball-dbbl-playoffs-alba-berlin-stars-keltern-soemmeringhalle.html",
+      "date": "Wed, 15 Apr 2026 21:21:31 +0200"
+    },
+    {
       "title": "Psychotherapeuten demonstrieren in Berlin gegen Honorarkürzungen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/psychotherapeuten-demonstrieren-in-berlin.html",
       "date": "Wed, 15 Apr 2026 18:44:49 +0200"
-    },
-    {
-      "title": "Pokal-Derby im Livestream: 1. FC Union - Hertha BSC (A-Junioren)",
-      "link": "https://www.rbb24.de/sport/hintergrund/livestream/livestream-fussball-a-junioren-union-berlin-hertha-bsc-berlin-pokal-halbfinale.html",
-      "date": "Wed, 15 Apr 2026 18:32:30 +0200"
     },
     {
       "title": "Kunststoff-Unternehmen Orafol weitet Investionen in Oranienburg aus",
@@ -18,7 +18,7 @@
     {
       "title": "Neue Förderung für E-Auto-Ladestationen an Mehrfamilienhäusern beschlossen",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/brandenburg-foerderung-auto-ladestationen-mehrfamilienhaeuser.html",
-      "date": "Wed, 15 Apr 2026 16:54:52 +0200"
+      "date": "Wed, 15 Apr 2026 16:54:00 +0200"
     },
     {
       "title": "In Märkisch-Oderland berät der Kreistag über die neuen Rettungsdienst-Gebühren",
@@ -51,7 +51,58 @@
       "date": "Wed, 15 Apr 2026 14:54:41 +0200"
     }
   ],
-  "police": [],
+  "police": [
+    {
+      "title": "Schwerer Raub auf ein Pfandleihhaus – Zeuginnen und Zeugen gesucht",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1661243.php",
+      "date": "Wed, 15 Apr 2026 12:10:00 +0200"
+    },
+    {
+      "title": "Verkehrsunfall nach Fahrerflucht",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660930.php",
+      "date": "Tue, 14 Apr 2026 15:10:00 +0200"
+    },
+    {
+      "title": "Verkehrsunfall mit mehreren beschädigten Fahrzeugen – Fahrer verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660780.php",
+      "date": "Tue, 14 Apr 2026 12:19:00 +0200"
+    },
+    {
+      "title": "Flucht endete mit Unfall",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660540.php",
+      "date": "Mon, 13 Apr 2026 16:46:04 +0200"
+    },
+    {
+      "title": "Mann überfallen und verschleppt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660537.php",
+      "date": "Mon, 13 Apr 2026 14:35:00 +0200"
+    },
+    {
+      "title": "Zwei Männer festgenommen und Falschgeld beschlagnahmt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660428.php",
+      "date": "Mon, 13 Apr 2026 13:37:10 +0200"
+    },
+    {
+      "title": "In der Straßenbahn sexuell belästigt – Helfer verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660413.php",
+      "date": "Mon, 13 Apr 2026 13:17:25 +0200"
+    },
+    {
+      "title": "Angriff auf Fan-Bus",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660370.php",
+      "date": "Mon, 13 Apr 2026 12:13:04 +0200"
+    },
+    {
+      "title": "Fahrradfahrer bei Verkehrsunfall verletzt – Zeuginnen und Zeugen gesucht",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660359.php",
+      "date": "Mon, 13 Apr 2026 12:05:19 +0200"
+    },
+    {
+      "title": "Brandstiftung in Friseursalon",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660295.php",
+      "date": "Mon, 13 Apr 2026 10:54:07 +0200"
+    }
+  ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
