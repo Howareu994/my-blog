@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Berliner Kulturpolitiker wollen mehr Musikschullehrer anstellen",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/04/berlin-musikschulen-lehrer-festanstellung.html",
+      "date": "Wed, 15 Apr 2026 14:54:41 +0200"
+    },
+    {
       "title": "Berliner Jobmarkt: Ersetzt KI bald alle Programmierer?",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/programmierer-jobs-arbeit-ki-berlin.html",
       "date": "Wed, 15 Apr 2026 13:23:53 +0200"
@@ -8,7 +13,7 @@
     {
       "title": "Warum es so viele italienische Musiker nach Berlin treibt",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/04/berlin-italien-wegzug-musiker.html",
-      "date": "Wed, 15 Apr 2026 13:09:16 +0200"
+      "date": "Wed, 15 Apr 2026 13:09:00 +0200"
     },
     {
       "title": "Vorbestraftes Ehepaar legt mehrere Brände - Prozess startet",
@@ -44,14 +49,14 @@
       "title": "Berlin-Mitte nimmt 400.000 Euro durch falsch abgestellte E-Scooter ein",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-mitte-einnahmen-e-scooter-bussgeld.html",
       "date": "Wed, 15 Apr 2026 11:31:11 +0200"
-    },
-    {
-      "title": "Melody's Echo Chamber im Lido: Mit Vollgas durchs Land der Träume",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/04/konzert-berlin-melodys-echo-chamber-lido-musik-franzoesischer-dream-pop.html",
-      "date": "Wed, 15 Apr 2026 11:13:19 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Schwerer Raub auf ein Pfandleihhaus – Zeuginnen und Zeugen gesucht",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1661243.php",
+      "date": "Wed, 15 Apr 2026 12:10:00 +0200"
+    },
     {
       "title": "Verkehrsunfall nach Fahrerflucht",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660930.php",
@@ -96,11 +101,6 @@
       "title": "Brandstiftung in Friseursalon",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660295.php",
       "date": "Mon, 13 Apr 2026 10:54:07 +0200"
-    },
-    {
-      "title": "E-Scooter-Fahrer nach Zusammenstoß verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660239.php",
-      "date": "Sun, 12 Apr 2026 15:54:21 +0200"
     }
   ],
   "free_events": [],
