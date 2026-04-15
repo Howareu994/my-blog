@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "80 Jahre Kunsthochschule in Berlin Weißensee",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/04/kunsthochschule-weissensee-berlin-weltzeituhr-angelika-richter.html",
+      "date": "Wed, 15 Apr 2026 06:06:18 +0200"
+    },
+    {
+      "title": "Rüstung: Drohnen-Abfangsysteme made in Brandenburg (Havel)",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/brandenburg-heidelberger-druckmaschinen-produktion-drohnen-abfangsysteme-joint-venture.html",
+      "date": "Wed, 15 Apr 2026 06:05:20 +0200"
+    },
+    {
+      "title": "Fördermittel-Streit in Berlin: SPD-Abgeordneter fordert Entlassung von CDU-Staatssekretär",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/04/foerdermittel-streit-spd-forderung-entlassung-cdu-staatssekretaer.html",
+      "date": "Wed, 15 Apr 2026 06:04:45 +0200"
+    },
+    {
       "title": "Lufthansa: Nach Piloten sollen auch Flugbegleiter streiken",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/streik-lufthansa-cockpitpersonal.html",
       "date": "Tue, 14 Apr 2026 20:58:47 +0200"
@@ -34,75 +49,9 @@
       "title": "Brand mit Toten in Marzahn: Mann zu lebenslanger Haft verurteilt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/lebenslange-haft-brandstiftung-berlin-marzahn-zwei-tote.html",
       "date": "Tue, 14 Apr 2026 18:32:14 +0200"
-    },
-    {
-      "title": "Finanzen: Brandenburgs Landesregierung will 700 Stellen einsparen",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/04/brandenburg-landesregierung-einsparung-700-stellen.html",
-      "date": "Tue, 14 Apr 2026 18:30:34 +0200"
-    },
-    {
-      "title": "Reserve-Soldat aus Berlin klagt erfolglos gegen Bundeswehr",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-verwaltungsgericht-entscheidung-rechtsanwalt-reservesoldat-bundeswehr.html",
-      "date": "Tue, 14 Apr 2026 18:20:12 +0200"
-    },
-    {
-      "title": "Ukraine und Deutschland schließen strategische Partnerschaft",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/04/selenskyj-kommt-nach-berlin.html",
-      "date": "Tue, 14 Apr 2026 18:02:40 +0200"
     }
   ],
-  "police": [
-    {
-      "title": "Verkehrsunfall nach Fahrerflucht",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660930.php",
-      "date": "Tue, 14 Apr 2026 15:10:00 +0200"
-    },
-    {
-      "title": "Verkehrsunfall mit mehreren beschädigten Fahrzeugen – Fahrer verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660780.php",
-      "date": "Tue, 14 Apr 2026 12:19:00 +0200"
-    },
-    {
-      "title": "Flucht endete mit Unfall",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660540.php",
-      "date": "Mon, 13 Apr 2026 16:46:04 +0200"
-    },
-    {
-      "title": "Mann überfallen und verschleppt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660537.php",
-      "date": "Mon, 13 Apr 2026 14:35:00 +0200"
-    },
-    {
-      "title": "Zwei Männer festgenommen und Falschgeld beschlagnahmt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660428.php",
-      "date": "Mon, 13 Apr 2026 13:37:10 +0200"
-    },
-    {
-      "title": "In der Straßenbahn sexuell belästigt – Helfer verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660413.php",
-      "date": "Mon, 13 Apr 2026 13:17:25 +0200"
-    },
-    {
-      "title": "Angriff auf Fan-Bus",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660370.php",
-      "date": "Mon, 13 Apr 2026 12:13:04 +0200"
-    },
-    {
-      "title": "Fahrradfahrer bei Verkehrsunfall verletzt – Zeuginnen und Zeugen gesucht",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660359.php",
-      "date": "Mon, 13 Apr 2026 12:05:19 +0200"
-    },
-    {
-      "title": "Brandstiftung in Friseursalon",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660295.php",
-      "date": "Mon, 13 Apr 2026 10:54:07 +0200"
-    },
-    {
-      "title": "E-Scooter-Fahrer nach Zusammenstoß verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660239.php",
-      "date": "Sun, 12 Apr 2026 15:54:21 +0200"
-    }
-  ],
+  "police": [],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
