@@ -1,9 +1,44 @@
 {
   "traffic": [
     {
+      "title": "Polizei vollstreckt Haftbefehl bei Razzia gegen Geldwäsche-Netzwerk",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/geldwaesche-netzwerk-zerschlagen-durchsuchungen-berlin-brandenburg.html",
+      "date": "Thu, 16 Apr 2026 16:55:39 +0200"
+    },
+    {
+      "title": "Immobilien mit Abou-Chaker: Bushido erstreitet vor Gericht 3,8 Millionen Euro",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/kleinmachnow-villen-arafat-bushido-gericht.html",
+      "date": "Thu, 16 Apr 2026 16:46:00 +0200"
+    },
+    {
+      "title": "Reportage: So geht die Community in Berlin mit dem Krieg im Libanon um",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/libanon-berlin-community-israel-hisbollah-krieg-flucht.html",
+      "date": "Thu, 16 Apr 2026 16:24:00 +0200"
+    },
+    {
+      "title": "Berliner Palliativarzt spricht laut Zeuge am Telefon von Tötungen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-palliativarzt-mordprozess-telefonueberwachung-haft.html",
+      "date": "Thu, 16 Apr 2026 15:56:45 +0200"
+    },
+    {
+      "title": "Millionendefizit: Landkreis Oberhavel verhängt partielle Haushaltssperre",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/04/oberhavel-finanzen-ausgaben-haushalt-defizit-partielle-haushaltssperre.html",
+      "date": "Thu, 16 Apr 2026 15:53:46 +0200"
+    },
+    {
+      "title": "Brandenburgs erste Kinderschutzambulanz in Potsdam eröffnet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/brandenburgs-erste-kinderschutzambulanz-potsdam.html",
+      "date": "Thu, 16 Apr 2026 15:53:45 +0200"
+    },
+    {
+      "title": "Neue Union-Trainerin Eta: \"Schön, wenn es nur noch um Fußball geht\"",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-bundesliga-union-berlin-wolfsburg-trainerin-marie-louise-eta.html",
+      "date": "Thu, 16 Apr 2026 15:43:37 +0200"
+    },
+    {
       "title": "Vier Kandidaten wollen Bürgermeister von Panketal werden",
       "link": "https://www.rbb24.de/politik/wahl/brandenburg-buergermeisterwahlen/2026/panketal-barnim-kandidaten-haushalt-finanzen-gewerbe.html",
-      "date": "Thu, 16 Apr 2026 14:53:27 +0200"
+      "date": "Thu, 16 Apr 2026 15:20:08 +0200"
     },
     {
       "title": "Gesundheit: Facharztzentrum soll in Wittstock/Dosse medizinische Versorgungslücke schließen",
@@ -13,45 +48,20 @@
     {
       "title": "Wie Sorbisch wieder im Alltag ankommen soll",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/sorbische-sprache-kultur-lausitz-brandenburg-sorben.html",
-      "date": "Thu, 16 Apr 2026 14:42:33 +0200"
-    },
-    {
-      "title": "Bildergalerie: 40 Jahre Ernst-Thälmann-Park",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/bilder-galerie-ernst-thaelmann-park-40-jahre-prenzlauer-berg-berlin-ddr-brd-geschichte-jubilaeum-panorama.html",
-      "date": "Thu, 16 Apr 2026 14:05:45 +0200"
-    },
-    {
-      "title": "Haftbefehl gegen vier Verdächtige nach Schüssen in Fürstenwalde",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/schuesse-fuerstenwalde-angriff-verdaechtige-haftbefehl.html",
-      "date": "Thu, 16 Apr 2026 12:53:00 +0200"
-    },
-    {
-      "title": "Wetter in Berlin und Brandenburg: Erst warm, dann kühler",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/wetter-vorhersage-berlin-brandenburg-wochenende-warm.html",
-      "date": "Thu, 16 Apr 2026 11:57:55 +0200"
-    },
-    {
-      "title": "Berlin: Polizei ordnet in sechs Fällen Fußfessel für Gefährder an",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-polizei-fussfessel-gefaehrder-gewalt-gegen-frauen.html",
-      "date": "Thu, 16 Apr 2026 11:56:00 +0200"
-    },
-    {
-      "title": "Rechtsextreme Gewalt in Brandenburg nimmt zu",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/04/brandenburg-rechtsextreme-gewalt-nimmt-zu-rechtsextremismus.html",
-      "date": "Thu, 16 Apr 2026 11:43:00 +0200"
-    },
-    {
-      "title": "Landratswahl in der Uckermark: Alle gegen die AfD",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/04/uckermark-landratswahl-karina-doerk-cdu-felix-teichner-afd.html",
-      "date": "Thu, 16 Apr 2026 11:18:00 +0200"
-    },
-    {
-      "title": "Mehr Tradition als Trinkgelage: 30 Höfe und Gärten öffnen zum Werderaner Baumblütenfest ihre Pforten",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/werder-baumbluetenfest-programm-obstwein-tradition-trinkgelage.html",
-      "date": "Thu, 16 Apr 2026 11:16:19 +0200"
+      "date": "Thu, 16 Apr 2026 14:42:00 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Nach EC-Karten-Betrug - Festnahme",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1661787.php",
+      "date": "Thu, 16 Apr 2026 16:53:25 +0200"
+    },
+    {
+      "title": "Mehrere Brandstiftungen in einer Schule",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1661756.php",
+      "date": "Thu, 16 Apr 2026 15:42:50 +0200"
+    },
     {
       "title": "Alkoholisiert mit E-Scooter Unfall gebaut – Vater und Tochter verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1661639.php",
@@ -91,16 +101,6 @@
       "title": "Verkehrsunfall mit mehreren beschädigten Fahrzeugen – Fahrer verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660780.php",
       "date": "Tue, 14 Apr 2026 12:19:00 +0200"
-    },
-    {
-      "title": "Flucht endete mit Unfall",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660540.php",
-      "date": "Mon, 13 Apr 2026 16:46:04 +0200"
-    },
-    {
-      "title": "Mann überfallen und verschleppt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660537.php",
-      "date": "Mon, 13 Apr 2026 14:35:00 +0200"
     }
   ],
   "free_events": [],
