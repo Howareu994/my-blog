@@ -1,9 +1,24 @@
 {
   "traffic": [
     {
+      "title": "Märkisch-Oderland: Kreistag beschließt neue Rettungsdienst-Gebühren",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/brandenburg-gebuehren-rettungswagen.html",
+      "date": "Thu, 16 Apr 2026 08:32:14 +0200"
+    },
+    {
+      "title": "Konzert von Paul Simon in Berlin",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/04/konzert-paul-simon-uber-eats-music-hall-berlin.html",
+      "date": "Thu, 16 Apr 2026 08:29:00 +0200"
+    },
+    {
+      "title": "Musikschulen in Berlin: Konkurrenz um Festanstellungen",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/04/berlin-musikschulen-lehrkraefte-honorarkraefte-feste-stellen.html",
+      "date": "Thu, 16 Apr 2026 08:06:53 +0200"
+    },
+    {
       "title": "Kabeldiebstahl: Kriminelle nehmen E-Ladestationen ins Visier",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/schnellladesaeulen-e-mobilitaet-kabeldiebstahl.html",
-      "date": "Thu, 16 Apr 2026 07:32:11 +0200"
+      "date": "Thu, 16 Apr 2026 07:32:00 +0200"
     },
     {
       "title": "Bildergalerie: 40 Jahre Ernst-Thälmann-Park",
@@ -34,24 +49,14 @@
       "title": "A-Junioren: Union Berlin zerlegt Hertha und steht im Pokalfinale",
       "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-landespokal-berlin-a-junioren-union-berlin-hertha-bsc-halbfinale-spielbericht.html",
       "date": "Wed, 15 Apr 2026 21:46:32 +0200"
-    },
-    {
-      "title": "Psychotherapeuten demonstrieren in Berlin gegen Honorarkürzungen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/psychotherapeuten-demonstrieren-in-berlin.html",
-      "date": "Wed, 15 Apr 2026 18:44:49 +0200"
-    },
-    {
-      "title": "Kunststoff-Unternehmen Orafol weitet Investionen in Oranienburg aus",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/oranienburg-orafol-investitionen-235-millionen-euro.html",
-      "date": "Wed, 15 Apr 2026 17:58:57 +0200"
-    },
-    {
-      "title": "Neue Förderung für E-Auto-Ladestationen an Mehrfamilienhäusern beschlossen",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/brandenburg-foerderung-auto-ladestationen-mehrfamilienhaeuser.html",
-      "date": "Wed, 15 Apr 2026 16:54:00 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Geraubte Wertgegenstände zum Kauf angeboten - Festnahme",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1661474.php",
+      "date": "Thu, 16 Apr 2026 09:50:58 +0200"
+    },
     {
       "title": "Schwerer Raub auf ein Pfandleihhaus – Zeuginnen und Zeugen gesucht",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1661243.php",
@@ -96,11 +101,6 @@
       "title": "Fahrradfahrer bei Verkehrsunfall verletzt – Zeuginnen und Zeugen gesucht",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660359.php",
       "date": "Mon, 13 Apr 2026 12:05:19 +0200"
-    },
-    {
-      "title": "Brandstiftung in Friseursalon",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660295.php",
-      "date": "Mon, 13 Apr 2026 10:54:07 +0200"
     }
   ],
   "free_events": [],
