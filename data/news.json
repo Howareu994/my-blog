@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Kabeldiebstahl: Kriminelle nehmen E-Ladestationen ins Visier",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/schnellladesaeulen-e-mobilitaet-kabeldiebstahl.html",
+      "date": "Thu, 16 Apr 2026 07:32:11 +0200"
+    },
+    {
+      "title": "Bildergalerie: 40 Jahre Ernst-Thälmann-Park",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/bilder-galerie-ernst-thaelmann-park-40-jahre-prenzlauer-berg-berlin-ddr-brd-geschichte-jubilaeum-panorama.html",
+      "date": "Thu, 16 Apr 2026 07:22:33 +0200"
+    },
+    {
       "title": "Vierter Streiktag: Lufthansa-Verbindungen am BER abgesagt",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/streik-lufthansa-cockpitpersonal.html",
       "date": "Thu, 16 Apr 2026 06:35:14 +0200"
@@ -11,24 +21,9 @@
       "date": "Thu, 16 Apr 2026 06:15:00 +0200"
     },
     {
-      "title": "Bildergalerie | 40 Jahre Ernst-Thälmann-Park: Innentoilette und Schwimmbad statt Gaswerk und Gestank",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/bilder-galerie-ernst-thaelmann-park-40-jahre-prenzlauer-berg-berlin-ddr-brd-geschichte-jubilaeum.html",
-      "date": "Thu, 16 Apr 2026 06:14:34 +0200"
-    },
-    {
-      "title": "Kabeldiebstahl: Wie Ladestationen zum Ziel von Kriminellen geworden sind",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/schnellladesaeulen-e-mobilitaet-kabeldiebstahl.html",
-      "date": "Thu, 16 Apr 2026 06:10:47 +0200"
-    },
-    {
       "title": "Erfahrungsbericht: So nervig ist E-Autoladen in Berlin",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/e-auto-fahren-bericht-kabel-diebstahl-falschparker-verbrenner.html",
       "date": "Thu, 16 Apr 2026 06:08:59 +0200"
-    },
-    {
-      "title": "Regionalliga Nordost: BFC Dynamo holt Big Points im Abstiegskampf",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-regionalliga-nordost-meuselwitz-bfc-dynamo-altglienicke-hertha-zehlendorf.html",
-      "date": "Wed, 15 Apr 2026 23:13:36 +0200"
     },
     {
       "title": "DEL-Playoffs: Eisbären verlieren Krimi in Köln und ihren Goalie",
@@ -41,14 +36,19 @@
       "date": "Wed, 15 Apr 2026 21:46:32 +0200"
     },
     {
-      "title": "Basketball: Saison der Alba-Frauen endet im Halbfinale gegen Keltern",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/04/frauen-basketball-dbbl-playoffs-alba-berlin-stars-keltern-soemmeringhalle.html",
-      "date": "Wed, 15 Apr 2026 21:45:00 +0200"
-    },
-    {
       "title": "Psychotherapeuten demonstrieren in Berlin gegen Honorarkürzungen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/psychotherapeuten-demonstrieren-in-berlin.html",
       "date": "Wed, 15 Apr 2026 18:44:49 +0200"
+    },
+    {
+      "title": "Kunststoff-Unternehmen Orafol weitet Investionen in Oranienburg aus",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/oranienburg-orafol-investitionen-235-millionen-euro.html",
+      "date": "Wed, 15 Apr 2026 17:58:57 +0200"
+    },
+    {
+      "title": "Neue Förderung für E-Auto-Ladestationen an Mehrfamilienhäusern beschlossen",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/brandenburg-foerderung-auto-ladestationen-mehrfamilienhaeuser.html",
+      "date": "Wed, 15 Apr 2026 16:54:00 +0200"
     }
   ],
   "police": [
