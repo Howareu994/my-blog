@@ -6,14 +6,19 @@
       "date": "Thu, 16 Apr 2026 11:57:55 +0200"
     },
     {
+      "title": "Berlin: Polizei ordnet in sechs Fällen Fußfessel für Gefährder an",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-polizei-fussfessel-gefaehrder-gewalt-gegen-frauen.html",
+      "date": "Thu, 16 Apr 2026 11:56:00 +0200"
+    },
+    {
       "title": "Rechtsextreme Gewalt in Brandenburg nimmt zu",
       "link": "https://www.rbb24.de/politik/beitrag/2026/04/brandenburg-rechtsextreme-gewalt-nimmt-zu-rechtsextremismus.html",
       "date": "Thu, 16 Apr 2026 11:43:00 +0200"
     },
     {
-      "title": "Alle gegen die AfD: Showdown in der Uckermark",
+      "title": "Landratswahl in der Uckermark: Alle gegen die AfD",
       "link": "https://www.rbb24.de/politik/beitrag/2026/04/uckermark-landratswahl-karina-doerk-cdu-felix-teichner-afd.html",
-      "date": "Thu, 16 Apr 2026 11:18:50 +0200"
+      "date": "Thu, 16 Apr 2026 11:18:00 +0200"
     },
     {
       "title": "Mehr Tradition als Trinkgelage: 30 Höfe und Gärten öffnen zum Werderaner Baumblütenfest ihre Pforten",
@@ -24,6 +29,11 @@
       "title": "Museum für Fotografie zeigt die vergessenen Bauhaus-Fotografinnen",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/04/ausstellung-bauhaus-fotografinnen-berlin-museum-fuer-fotografie.html",
       "date": "Thu, 16 Apr 2026 11:10:01 +0200"
+    },
+    {
+      "title": "Livestream: Pressekonferenz mit Union-Trainerin Marie-Louise Eta",
+      "link": "https://www.rbb24.de/sport/hintergrund/livestream/livestream-fussball-1-fc-union-berlin-marie-louise-eta-pressekonferenz.html",
+      "date": "Thu, 16 Apr 2026 10:28:14 +0200"
     },
     {
       "title": "Märkisch-Oderland: Kreistag beschließt neue Rettungsdienst-Gebühren",
@@ -39,19 +49,19 @@
       "title": "Musikschulen in Berlin: Konkurrenz um Festanstellungen",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/04/berlin-musikschulen-lehrkraefte-honorarkraefte-feste-stellen.html",
       "date": "Thu, 16 Apr 2026 08:06:53 +0200"
-    },
-    {
-      "title": "Kabeldiebstahl: Kriminelle nehmen E-Ladestationen ins Visier",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/schnellladesaeulen-e-mobilitaet-kabeldiebstahl.html",
-      "date": "Thu, 16 Apr 2026 07:32:00 +0200"
-    },
-    {
-      "title": "Bildergalerie: 40 Jahre Ernst-Thälmann-Park",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/bilder-galerie-ernst-thaelmann-park-40-jahre-prenzlauer-berg-berlin-ddr-brd-geschichte-jubilaeum-panorama.html",
-      "date": "Thu, 16 Apr 2026 07:22:33 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Alkoholisiert mit E-Scooter Unfall gebaut – Vater und Tochter verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1661639.php",
+      "date": "Thu, 16 Apr 2026 13:36:24 +0200"
+    },
+    {
+      "title": "Nach Streit im Straßenverkehr – Radfahrer verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1661627.php",
+      "date": "Thu, 16 Apr 2026 13:06:29 +0200"
+    },
     {
       "title": "Feuer vor Supermarkt gelegt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1661550.php",
@@ -91,16 +101,6 @@
       "title": "Mann überfallen und verschleppt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660537.php",
       "date": "Mon, 13 Apr 2026 14:35:00 +0200"
-    },
-    {
-      "title": "Zwei Männer festgenommen und Falschgeld beschlagnahmt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660428.php",
-      "date": "Mon, 13 Apr 2026 13:37:10 +0200"
-    },
-    {
-      "title": "In der Straßenbahn sexuell belästigt – Helfer verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660413.php",
-      "date": "Mon, 13 Apr 2026 13:17:25 +0200"
     }
   ],
   "free_events": [],
