@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Beschlagnahmte Remmo-Immobilien gehen ans Land Berlin über",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-immobilien-beschlagnahmt-grossfamilie-organisierte-kriminalitaet.html",
+      "date": "Thu, 16 Apr 2026 21:49:06 +0200"
+    },
+    {
+      "title": "EU genehmigt Subventionen: Woidke begrüßt Preisdeckel für Industriestrom",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/brandenburg-eu-kommission-subvention-industrie-strom-woidke.html",
+      "date": "Thu, 16 Apr 2026 21:10:31 +0200"
+    },
+    {
       "title": "Autokonvoi als Protest gegen gestiegene Spritpreise geplant",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/ostfriesland-berlin-protest-hohe-spritpreise-auto-konvoi-bundestag.html",
       "date": "Thu, 16 Apr 2026 20:46:00 +0200"
@@ -13,7 +23,7 @@
     {
       "title": "Zeuge im Mordprozess: Palliativarzt spricht am Telefon von Tötungen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-palliativarzt-mordprozess-telefonueberwachung-haft.html",
-      "date": "Thu, 16 Apr 2026 18:48:19 +0200"
+      "date": "Thu, 16 Apr 2026 18:48:00 +0200"
     },
     {
       "title": "Landkreis verschickt vorerst keine Gebührenbescheide nach Rettungsfahrten",
@@ -39,16 +49,6 @@
       "title": "Berlin-Reinickendorf: Hund nach Fuchsbiss gestorben - Bezirk warnt vor Einzeltier",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/agressiver-fuchs-reinickendorf.html",
       "date": "Thu, 16 Apr 2026 17:21:07 +0200"
-    },
-    {
-      "title": "Polizei vollstreckt Haftbefehl bei Razzia gegen Geldwäsche-Netzwerk",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/geldwaesche-netzwerk-zerschlagen-durchsuchungen-berlin-brandenburg.html",
-      "date": "Thu, 16 Apr 2026 16:55:39 +0200"
-    },
-    {
-      "title": "Reportage: So geht die Community in Berlin mit dem Krieg im Libanon um",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/libanon-berlin-community-israel-hisbollah-krieg-flucht.html",
-      "date": "Thu, 16 Apr 2026 16:24:00 +0200"
     }
   ],
   "police": [
