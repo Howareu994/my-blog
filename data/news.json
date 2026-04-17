@@ -1,19 +1,14 @@
 {
   "traffic": [
     {
-      "title": "Berlin-Reinickendorf: Bezirk warnt vor aggressivem Fuchs",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/agressiver-fuchs-reinickendorf.html",
-      "date": "Fri, 17 Apr 2026 08:50:18 +0200"
+      "title": "Mann stirbt nach Messerangriff in Berlin-Gesundbrunnen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/mann-gesundbrunnen-messer-streit-gestorben.html",
+      "date": "Fri, 17 Apr 2026 10:01:08 +0200"
     },
     {
       "title": "Quartier 206 in der Friedrichstraße wird zwangsversteigert",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/ehemaliges-luxus-kaufhaus-versteigerung-hammer-immobilie-friedrichstrasse-quartier-206-berlin-amtsgericht-mitte.html",
-      "date": "Fri, 17 Apr 2026 08:22:10 +0200"
-    },
-    {
-      "title": "Mann stirbt nach Messerangriff in Berlin-Gesundbrunnen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/mann-gesundbrunnen-messer-streit-gestorben.html",
-      "date": "Fri, 17 Apr 2026 08:08:34 +0200"
+      "date": "Fri, 17 Apr 2026 08:22:00 +0200"
     },
     {
       "title": "DHB-Pokal: Füchse und Trainer Krickau wollen \"all in\" gehen",
@@ -26,9 +21,9 @@
       "date": "Fri, 17 Apr 2026 07:47:00 +0200"
     },
     {
-      "title": "Bahnhof Greifswalder Straße: Bezirk will neues Wohngebiet im Turbo-Verfahren genehmigen",
+      "title": "Bezirk will neues Wohngebiet im Turbo-Verfahren genehmigen",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/berlin-pankow-prenzlauer-berg-ernst-thaelmann-park-wohnprojekt.html",
-      "date": "Fri, 17 Apr 2026 06:51:12 +0200"
+      "date": "Fri, 17 Apr 2026 06:51:00 +0200"
     },
     {
       "title": "Kinderschutzambulanz für Hilfe bei Gewalt gegen Kinder",
@@ -49,6 +44,11 @@
       "title": "Autokonvoi als Protest gegen gestiegene Spritpreise geplant",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/ostfriesland-berlin-protest-hohe-spritpreise-auto-konvoi-bundestag.html",
       "date": "Thu, 16 Apr 2026 20:46:00 +0200"
+    },
+    {
+      "title": "Union-Trainerin Eta: \"Natürlich ist es schön, zu inspirieren\"",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-bundesliga-union-berlin-marie-louise-eta-vorstellung-interview.html",
+      "date": "Thu, 16 Apr 2026 19:34:52 +0200"
     }
   ],
   "police": [
