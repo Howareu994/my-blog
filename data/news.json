@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Gericht untersagt Bürgermeister Schwochow Äußerungen",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/04/rheinsberg-buergermeister-schwochow-aeusserungen-untersagt-urteil-ueble-nachrede.html",
+      "date": "Fri, 17 Apr 2026 18:28:45 +0200"
+    },
+    {
+      "title": "Kunstmesse in Berlin bietet bezahlbare Werke für die breitere Masse an",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/04/berlin-affordable-art-fair-bezahlbare-kunst-messe.html",
+      "date": "Fri, 17 Apr 2026 18:21:03 +0200"
+    },
+    {
       "title": "Berlin-Neukölln: Per Haftbefehl gesuchter Serienbrandstifter in Britz festgenommen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/polizei-berlin-neukoelln-mutmasslicher-brandstifter-festgenommen.html",
       "date": "Fri, 17 Apr 2026 16:21:59 +0200"
@@ -14,11 +24,6 @@
       "title": "Bezirke müssen befristetes Wohnen in Milieuschutzgebieten künftig genehmigen",
       "link": "https://www.rbb24.de/politik/beitrag/2026/04/senat-beschraenkungen-genehmigung-befristetes-wohnen-milieuschutzgebiete-berlin.html",
       "date": "Fri, 17 Apr 2026 15:19:42 +0200"
-    },
-    {
-      "title": "Erstes queeres Eishockey-Team: \"Frost Ibex\" will Lücke schließen",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/04/eishockey-frostibex-berlin-queerer-eishockey-verein.html",
-      "date": "Fri, 17 Apr 2026 15:04:00 +0200"
     },
     {
       "title": "Fördermittel-Vergabe: Untersuchungsausschuss befragt Zeugen",
@@ -44,11 +49,6 @@
       "title": "Mann stirbt nach Messerangriff in Berlin-Gesundbrunnen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/mann-gesundbrunnen-messer-streit-gestorben.html",
       "date": "Fri, 17 Apr 2026 14:08:46 +0200"
-    },
-    {
-      "title": "Menschliche Überreste auf einem Feld in der Uckermark gefunden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/uckermark-menschliche-ueberreste-gefunden-ermittlungen.html",
-      "date": "Fri, 17 Apr 2026 13:59:53 +0200"
     }
   ],
   "police": [
