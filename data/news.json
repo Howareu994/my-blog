@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Landratswahl am Sonntag im Barnim: Vier Kandidaten bewerben sich",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/04/landratswahl-barnim-kandidaten-kurth-sauer-mikolaszek-bergener.html",
+      "date": "Fri, 17 Apr 2026 11:45:53 +0200"
+    },
+    {
+      "title": "Tourismus in der Hauptstadt: Berlin soll mehr als 100 neue Hotels bekommen",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/berlin-senat-hotel-hostel-bauprojekte-betten-auslastung.html",
+      "date": "Fri, 17 Apr 2026 10:59:19 +0200"
+    },
+    {
+      "title": "Hertha BSC: Leitl und Weber bekommen Jobgarantie für neue Saison",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-zweite-liga-hertha-bsc-geschaeftsfuehrer-peter-goerlich-leitl-weber-bleiben-neue-saison.html",
+      "date": "Fri, 17 Apr 2026 10:31:17 +0200"
+    },
+    {
       "title": "Mann stirbt nach Messerangriff in Berlin-Gesundbrunnen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/mann-gesundbrunnen-messer-streit-gestorben.html",
       "date": "Fri, 17 Apr 2026 10:01:08 +0200"
@@ -34,21 +49,6 @@
       "title": "Beschlagnahmte Remmo-Immobilien gehen ans Land Berlin über",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-immobilien-beschlagnahmt-grossfamilie-organisierte-kriminalitaet.html",
       "date": "Thu, 16 Apr 2026 21:49:06 +0200"
-    },
-    {
-      "title": "EU genehmigt Subventionen: Woidke begrüßt Preisdeckel für Industriestrom",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/brandenburg-eu-kommission-subvention-industrie-strom-woidke.html",
-      "date": "Thu, 16 Apr 2026 21:10:31 +0200"
-    },
-    {
-      "title": "Autokonvoi als Protest gegen gestiegene Spritpreise geplant",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/ostfriesland-berlin-protest-hohe-spritpreise-auto-konvoi-bundestag.html",
-      "date": "Thu, 16 Apr 2026 20:46:00 +0200"
-    },
-    {
-      "title": "Union-Trainerin Eta: \"Natürlich ist es schön, zu inspirieren\"",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-bundesliga-union-berlin-marie-louise-eta-vorstellung-interview.html",
-      "date": "Thu, 16 Apr 2026 19:34:52 +0200"
     }
   ],
   "police": [
