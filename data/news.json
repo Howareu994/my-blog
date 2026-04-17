@@ -1,9 +1,34 @@
 {
   "traffic": [
     {
+      "title": "Fördermittel-Vergabe: Untersuchungsausschuss befragt Zeugen",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/04/berlin-foerdergeld-untersuchungsausschuss-abgeordnetenhaus-kulturverwaltung.html",
+      "date": "Fri, 17 Apr 2026 14:36:28 +0200"
+    },
+    {
       "title": "Berlin lässt längere Übertragungen im Freien bei Fußball-WM zu",
       "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-wm-2026-usa-berlin-gastronomie-uebertragung-zeiten-public-viewing-verordnung.html",
-      "date": "Fri, 17 Apr 2026 13:34:08 +0200"
+      "date": "Fri, 17 Apr 2026 14:34:00 +0200"
+    },
+    {
+      "title": "Landratswahl am Sonntag im Barnim: Vier Kandidaten bewerben sich",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/04/landratswahl-barnim-kandidaten-kurth-sauer-mikolaszek-bergener.html",
+      "date": "Fri, 17 Apr 2026 14:32:04 +0200"
+    },
+    {
+      "title": "Früherem Brandenburger Wirtschaftsminister wird Beraterjob verboten",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/04/brandenburg-oberverwaltungsgericht-steinbach-berater-taetigkeit-verboten.html",
+      "date": "Fri, 17 Apr 2026 14:16:03 +0200"
+    },
+    {
+      "title": "Mann stirbt nach Messerangriff in Berlin-Gesundbrunnen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/mann-gesundbrunnen-messer-streit-gestorben.html",
+      "date": "Fri, 17 Apr 2026 14:08:46 +0200"
+    },
+    {
+      "title": "Menschliche Überreste auf einem Feld in der Uckermark gefunden",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/uckermark-menschliche-ueberreste-gefunden-ermittlungen.html",
+      "date": "Fri, 17 Apr 2026 13:59:53 +0200"
     },
     {
       "title": "Autokonvoi gegen hohe Spritpreise rollt Richtung Berlin",
@@ -24,34 +49,14 @@
       "title": "Mehr Berliner Senioren sind erwerbstätig",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/senioren-berlin-erwerbstaetig-arbeiten-niedrige-rente.html",
       "date": "Fri, 17 Apr 2026 12:29:21 +0200"
-    },
-    {
-      "title": "Bezirke müssen befristetes Wohnen in Milieuschutzgebieten künftig genehmigen",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/04/senat-beschraenkungen-genehmigung-befristetes-wohnen-milieuschutzgebiete-berlin.html",
-      "date": "Fri, 17 Apr 2026 12:27:19 +0200"
-    },
-    {
-      "title": "Landratswahl am Sonntag im Barnim: Vier Kandidaten bewerben sich",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/04/landratswahl-barnim-kandidaten-kurth-sauer-mikolaszek-bergener.html",
-      "date": "Fri, 17 Apr 2026 11:45:53 +0200"
-    },
-    {
-      "title": "Tourismus in der Hauptstadt: Berlin soll mehr als 100 neue Hotels bekommen",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/berlin-senat-hotel-hostel-bauprojekte-betten-auslastung.html",
-      "date": "Fri, 17 Apr 2026 10:59:19 +0200"
-    },
-    {
-      "title": "Hertha BSC: Leitl und Weber bekommen Jobgarantie für neue Saison",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-zweite-liga-hertha-bsc-geschaeftsfuehrer-peter-goerlich-leitl-weber-bleiben-neue-saison.html",
-      "date": "Fri, 17 Apr 2026 10:31:17 +0200"
-    },
-    {
-      "title": "Mann stirbt nach Messerangriff in Berlin-Gesundbrunnen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/mann-gesundbrunnen-messer-streit-gestorben.html",
-      "date": "Fri, 17 Apr 2026 10:01:08 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Verkehrsunfall – Fahrradfahrer auf Intensivstation",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662044.php",
+      "date": "Fri, 17 Apr 2026 13:46:56 +0200"
+    },
     {
       "title": "Tödliche Auseinandersetzung – Mordkommission und Staatsanwaltschaft ermitteln",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662035.php",
@@ -96,11 +101,6 @@
       "title": "Geraubte Wertgegenstände zum Kauf angeboten - Festnahme",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1661474.php",
       "date": "Thu, 16 Apr 2026 09:50:58 +0200"
-    },
-    {
-      "title": "Schwerer Raub auf ein Pfandleihhaus – Zeuginnen und Zeugen gesucht",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1661243.php",
-      "date": "Wed, 15 Apr 2026 12:10:00 +0200"
     }
   ],
   "free_events": [],
