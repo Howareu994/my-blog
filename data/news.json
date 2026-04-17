@@ -1,6 +1,36 @@
 {
   "traffic": [
     {
+      "title": "Berlin lässt längere Übertragungen im Freien bei Fußball-WM zu",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-wm-2026-usa-berlin-gastronomie-uebertragung-zeiten-public-viewing-verordnung.html",
+      "date": "Fri, 17 Apr 2026 13:34:08 +0200"
+    },
+    {
+      "title": "Autokonvoi gegen hohe Spritpreise rollt Richtung Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/ostfriesland-berlin-protest-hohe-spritpreise-auto-konvoi-bundestag.html",
+      "date": "Fri, 17 Apr 2026 13:23:46 +0200"
+    },
+    {
+      "title": "Die Uckermark wählt zwischen CDU-Landrätin und AfD-Herausförderer",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/04/uckermark-landratswahl-cdu-karina-doerf-afd-felix-teichner.html",
+      "date": "Fri, 17 Apr 2026 13:05:07 +0200"
+    },
+    {
+      "title": "Zwangsversteigerung einer Millionen-Immobilie in der Friedrichstraße verschoben",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/ehemaliges-luxus-kaufhaus-versteigerung-hammer-immobilie-friedrichstrasse-quartier-206-berlin-amtsgericht-mitte.html",
+      "date": "Fri, 17 Apr 2026 12:51:29 +0200"
+    },
+    {
+      "title": "Mehr Berliner Senioren sind erwerbstätig",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/senioren-berlin-erwerbstaetig-arbeiten-niedrige-rente.html",
+      "date": "Fri, 17 Apr 2026 12:29:21 +0200"
+    },
+    {
+      "title": "Bezirke müssen befristetes Wohnen in Milieuschutzgebieten künftig genehmigen",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/04/senat-beschraenkungen-genehmigung-befristetes-wohnen-milieuschutzgebiete-berlin.html",
+      "date": "Fri, 17 Apr 2026 12:27:19 +0200"
+    },
+    {
       "title": "Landratswahl am Sonntag im Barnim: Vier Kandidaten bewerben sich",
       "link": "https://www.rbb24.de/politik/beitrag/2026/04/landratswahl-barnim-kandidaten-kurth-sauer-mikolaszek-bergener.html",
       "date": "Fri, 17 Apr 2026 11:45:53 +0200"
@@ -19,39 +49,19 @@
       "title": "Mann stirbt nach Messerangriff in Berlin-Gesundbrunnen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/mann-gesundbrunnen-messer-streit-gestorben.html",
       "date": "Fri, 17 Apr 2026 10:01:08 +0200"
-    },
-    {
-      "title": "Quartier 206 in der Friedrichstraße wird zwangsversteigert",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/ehemaliges-luxus-kaufhaus-versteigerung-hammer-immobilie-friedrichstrasse-quartier-206-berlin-amtsgericht-mitte.html",
-      "date": "Fri, 17 Apr 2026 08:22:00 +0200"
-    },
-    {
-      "title": "DHB-Pokal: Füchse und Trainer Krickau wollen \"all in\" gehen",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/04/handball-dhb-pokal-final-four-fuechse-berlin-halbfinale-tbv-lemgo-lippe-krickau-titel.html",
-      "date": "Fri, 17 Apr 2026 07:48:24 +0200"
-    },
-    {
-      "title": "Fördermittel-Vergabe: Untersuchungsausschuss befragt Zeugen",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/04/berlin-foerdergeld-untersuchungsausschuss-abgeordnetenhaus-kulturverwaltung.html",
-      "date": "Fri, 17 Apr 2026 07:47:00 +0200"
-    },
-    {
-      "title": "Bezirk will neues Wohngebiet im Turbo-Verfahren genehmigen",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/berlin-pankow-prenzlauer-berg-ernst-thaelmann-park-wohnprojekt.html",
-      "date": "Fri, 17 Apr 2026 06:51:00 +0200"
-    },
-    {
-      "title": "Kinderschutzambulanz für Hilfe bei Gewalt gegen Kinder",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/potsdam-kinderschutzambulanz-ernst-von-bergmann-klinikum-interview-aerztin.html",
-      "date": "Fri, 17 Apr 2026 06:31:37 +0200"
-    },
-    {
-      "title": "Beschlagnahmte Remmo-Immobilien gehen ans Land Berlin über",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-immobilien-beschlagnahmt-grossfamilie-organisierte-kriminalitaet.html",
-      "date": "Thu, 16 Apr 2026 21:49:06 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Tödliche Auseinandersetzung – Mordkommission und Staatsanwaltschaft ermitteln",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662035.php",
+      "date": "Fri, 17 Apr 2026 13:19:28 +0200"
+    },
+    {
+      "title": "Mutmaßlicher Brandstifter festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662030.php",
+      "date": "Fri, 17 Apr 2026 13:03:05 +0200"
+    },
     {
       "title": "Nach EC-Karten-Betrug - Festnahme",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1661787.php",
@@ -91,16 +101,6 @@
       "title": "Schwerer Raub auf ein Pfandleihhaus – Zeuginnen und Zeugen gesucht",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1661243.php",
       "date": "Wed, 15 Apr 2026 12:10:00 +0200"
-    },
-    {
-      "title": "Verkehrsunfall nach Fahrerflucht",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660930.php",
-      "date": "Tue, 14 Apr 2026 15:10:00 +0200"
-    },
-    {
-      "title": "Verkehrsunfall mit mehreren beschädigten Fahrzeugen – Fahrer verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660780.php",
-      "date": "Tue, 14 Apr 2026 12:19:00 +0200"
     }
   ],
   "free_events": [],
