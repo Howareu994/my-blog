@@ -1,6 +1,26 @@
 {
   "traffic": [
     {
+      "title": "Berlin-Neukölln: Per Haftbefehl gesuchter Serienbrandstifter in Britz festgenommen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/polizei-berlin-neukoelln-mutmasslicher-brandstifter-festgenommen.html",
+      "date": "Fri, 17 Apr 2026 16:18:36 +0200"
+    },
+    {
+      "title": "Krankenhaus in Beelitz-Heilstätten wird für 100 Millionen Euro erweitert",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/beelitz-heilstaetten-recura-kliniken-erweiterung-bauarbeiten-schlaganfall-parkinson.html",
+      "date": "Fri, 17 Apr 2026 16:10:44 +0200"
+    },
+    {
+      "title": "Bezirke müssen befristetes Wohnen in Milieuschutzgebieten künftig genehmigen",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/04/senat-beschraenkungen-genehmigung-befristetes-wohnen-milieuschutzgebiete-berlin.html",
+      "date": "Fri, 17 Apr 2026 15:19:42 +0200"
+    },
+    {
+      "title": "Erstes queeres Eishockey-Team: \"Frost Ibex\" will Lücke schließen",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/04/eishockey-frostibex-berlin-queerer-eishockey-verein.html",
+      "date": "Fri, 17 Apr 2026 15:04:00 +0200"
+    },
+    {
       "title": "Fördermittel-Vergabe: Untersuchungsausschuss befragt Zeugen",
       "link": "https://www.rbb24.de/politik/beitrag/2026/04/berlin-foerdergeld-untersuchungsausschuss-abgeordnetenhaus-kulturverwaltung.html",
       "date": "Fri, 17 Apr 2026 14:36:28 +0200"
@@ -29,29 +49,14 @@
       "title": "Menschliche Überreste auf einem Feld in der Uckermark gefunden",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/uckermark-menschliche-ueberreste-gefunden-ermittlungen.html",
       "date": "Fri, 17 Apr 2026 13:59:53 +0200"
-    },
-    {
-      "title": "Autokonvoi gegen hohe Spritpreise rollt Richtung Berlin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/ostfriesland-berlin-protest-hohe-spritpreise-auto-konvoi-bundestag.html",
-      "date": "Fri, 17 Apr 2026 13:23:46 +0200"
-    },
-    {
-      "title": "Die Uckermark wählt zwischen CDU-Landrätin und AfD-Herausförderer",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/04/uckermark-landratswahl-cdu-karina-doerf-afd-felix-teichner.html",
-      "date": "Fri, 17 Apr 2026 13:05:07 +0200"
-    },
-    {
-      "title": "Zwangsversteigerung einer Millionen-Immobilie in der Friedrichstraße verschoben",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/ehemaliges-luxus-kaufhaus-versteigerung-hammer-immobilie-friedrichstrasse-quartier-206-berlin-amtsgericht-mitte.html",
-      "date": "Fri, 17 Apr 2026 12:51:29 +0200"
-    },
-    {
-      "title": "Mehr Berliner Senioren sind erwerbstätig",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/senioren-berlin-erwerbstaetig-arbeiten-niedrige-rente.html",
-      "date": "Fri, 17 Apr 2026 12:29:21 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Senior vermisst – Polizei bittet um Mithilfe",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662158.php",
+      "date": "Fri, 17 Apr 2026 15:47:06 +0200"
+    },
     {
       "title": "Verkehrsunfall – Fahrradfahrer auf Intensivstation",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662044.php",
@@ -96,11 +101,6 @@
       "title": "Steinwürfe auf U-Bahn",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1661536.php",
       "date": "Thu, 16 Apr 2026 10:55:47 +0200"
-    },
-    {
-      "title": "Geraubte Wertgegenstände zum Kauf angeboten - Festnahme",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1661474.php",
-      "date": "Thu, 16 Apr 2026 09:50:58 +0200"
     }
   ],
   "free_events": [],
