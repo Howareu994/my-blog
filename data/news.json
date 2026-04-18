@@ -1,14 +1,24 @@
 {
   "traffic": [
     {
+      "title": "Union Berlin verliert bei historischem Eta-Debüt gegen Wolfsburg",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-bundesliga-1-fc-union-berlin-vfl-wolfsburg-audio-stream-liveticker-spielbericht.html",
+      "date": "Sat, 18 Apr 2026 18:29:01 +0200"
+    },
+    {
+      "title": "Berlin-Wahl: Grüne Listenaufstellung mit Schönheitsfehlern",
+      "link": "https://www.rbb24.de/politik/wahl/abgeordnetenhaus/agh-2026/beitraege/berlin-gruene-graf-jarasch-landesliste-spitzenplatz.html",
+      "date": "Sat, 18 Apr 2026 18:07:12 +0200"
+    },
+    {
+      "title": "DHB-Pokal: Füchse ringen Lemgo nieder und ziehen ins Finale ein",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/04/handball-pokal-final-four-lemgo-lippe-fuechse-berlin-halbfinale-.html",
+      "date": "Sat, 18 Apr 2026 17:42:00 +0200"
+    },
+    {
       "title": "81-Jährige stirbt nach Verkehrsunfall in Berlin-Wannsee",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/81-jaehrige-unfall-wannsee-gestorben.html",
       "date": "Sat, 18 Apr 2026 17:30:11 +0200"
-    },
-    {
-      "title": "Union Berlin verliert bei historischem Eta-Debüt gegen Wolfsburg",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-bundesliga-1-fc-union-berlin-vfl-wolfsburg-audio-stream-liveticker-spielbericht.html",
-      "date": "Sat, 18 Apr 2026 17:26:31 +0200"
     },
     {
       "title": "Waldbrand-Übung: Einsatzkräfte proben in Oberhavel den Ernstfall",
@@ -39,19 +49,14 @@
       "title": "14-Jährige auf E-Scooter von Auto in Berlin erfasst - tot",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-verkehr-unfall-buckow-escooter-maedchen-tot.html",
       "date": "Sat, 18 Apr 2026 14:15:11 +0200"
-    },
-    {
-      "title": "Schüsse vor Einfamilienhaus in Berlin-Rudow abgegeben",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/schuesse-einfamilienhaus-berlin-rudow-neukoelln.html",
-      "date": "Sat, 18 Apr 2026 13:12:13 +0200"
-    },
-    {
-      "title": "Berlin-Wahl: Grüne wollen Jarasch und Graf an Spitze der Landesliste",
-      "link": "https://www.rbb24.de/politik/wahl/abgeordnetenhaus/agh-2026/beitraege/berlin-gruene-graf-jarasch-landesliste-spitzenplatz.html",
-      "date": "Sat, 18 Apr 2026 13:03:59 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Streit eskaliert – rassistische Beleidigung und wechselseitige Körperverletzungen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662244.php",
+      "date": "Sat, 18 Apr 2026 17:36:48 +0200"
+    },
     {
       "title": "Seniorin nach Verkehrsunfall im Krankenhaus verstorben",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662229.php",
@@ -96,11 +101,6 @@
       "title": "Nach EC-Karten-Betrug - Festnahme",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1661787.php",
       "date": "Thu, 16 Apr 2026 16:53:25 +0200"
-    },
-    {
-      "title": "Mehrere Brandstiftungen in einer Schule",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1661756.php",
-      "date": "Thu, 16 Apr 2026 15:42:50 +0200"
     }
   ],
   "free_events": [],
