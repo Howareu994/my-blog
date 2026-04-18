@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Nach Stromausfall in Berlin-Nikolassee: Haushalte wieder am Netz",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-stromausfall-nikolassee-behoben.html",
+      "date": "Sat, 18 Apr 2026 23:50:00 +0200"
+    },
+    {
       "title": "Trotz Debüt von Trainerin Eta: Union bleibt Union",
       "link": "https://www.rbb24.de/sport/beitrag/2026/04/bundesliga-union-berlin-trainerin-marie-louise-eta-niederlage-wo.html",
       "date": "Sat, 18 Apr 2026 22:29:30 +0200"
@@ -44,11 +49,6 @@
       "title": "Energiewende-Demonstration in Berlin: Tausende Teilnehmer",
       "link": "https://www.rbb24.de/politik/beitrag/2026/04/demonstration-energiewende-berlin-tausende-menschen.html",
       "date": "Sat, 18 Apr 2026 15:39:36 +0200"
-    },
-    {
-      "title": "Brandenburger FDP hofft auf Neuanfang mit neuer Bundesspitze",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/04/fdp-brandenburg-landeschef-braun-hoene-landesverband.html",
-      "date": "Sat, 18 Apr 2026 15:18:50 +0200"
     }
   ],
   "police": [
