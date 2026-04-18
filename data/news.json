@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Waldbrand-Übung: Einsatzkräfte proben in Oberhavel den Ernstfall",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/waldbrand-uebung-ruethnicker-heide-oberhavel-feuerwehr-thw.html",
+      "date": "Sat, 18 Apr 2026 16:11:00 +0200"
+    },
+    {
       "title": "Energiewende-Demonstration in Berlin: Tausende Teilnehmer",
       "link": "https://www.rbb24.de/politik/beitrag/2026/04/demonstration-energiewende-berlin-tausende-menschen.html",
       "date": "Sat, 18 Apr 2026 15:39:36 +0200"
@@ -44,11 +49,6 @@
       "title": "Brandenburgs hohe Öko-Stromproduktion soll für günstigere Energiepreise sorgen",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/brandenburg-windraeder-oeko-strom-produktion-preis-vergleich-bayern.html",
       "date": "Sat, 18 Apr 2026 11:27:44 +0200"
-    },
-    {
-      "title": "Post-Filialnetz hat in Brandenburg und Berlin Lücken",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/berlin-brandenburg-post-filialluecken-bundesnetzagentur.html",
-      "date": "Sat, 18 Apr 2026 10:48:38 +0200"
     }
   ],
   "police": [
