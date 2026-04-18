@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "14-Jährige auf E-Scooter von Auto in Berlin erfasst - tot",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-verkehr-unfall-buckow-escooter-maedchen-tot.html",
+      "date": "Sat, 18 Apr 2026 12:30:10 +0200"
+    },
+    {
       "title": "Brandenburgs hohe Öko-Stromproduktion soll für günstigere Energiepreise sorgen",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/brandenburg-windraeder-oeko-strom-produktion-preis-vergleich-bayern.html",
       "date": "Sat, 18 Apr 2026 11:27:44 +0200"
@@ -44,14 +49,14 @@
       "title": "Gericht untersagt Bürgermeister Schwochow Äußerungen",
       "link": "https://www.rbb24.de/politik/beitrag/2026/04/rheinsberg-buergermeister-schwochow-aeusserungen-untersagt-urteil-ueble-nachrede.html",
       "date": "Fri, 17 Apr 2026 18:28:45 +0200"
-    },
-    {
-      "title": "Kunstmesse in Berlin bietet bezahlbare Werke für die breitere Masse an",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/04/berlin-affordable-art-fair-bezahlbare-kunst-messe.html",
-      "date": "Fri, 17 Apr 2026 18:21:03 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Tödlicher Verkehrsunfall",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662225.php",
+      "date": "Sat, 18 Apr 2026 12:12:38 +0200"
+    },
     {
       "title": "Senior vermisst – Polizei bittet um Mithilfe",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662158.php",
@@ -96,11 +101,6 @@
       "title": "Feuer vor Supermarkt gelegt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1661550.php",
       "date": "Thu, 16 Apr 2026 11:17:28 +0200"
-    },
-    {
-      "title": "Steinwürfe auf U-Bahn",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1661536.php",
-      "date": "Thu, 16 Apr 2026 10:55:47 +0200"
     }
   ],
   "free_events": [],
