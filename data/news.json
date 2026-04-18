@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "DHB-Pokal: Füchse ringen Lemgo nieder und ziehen ins Finale ein",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/04/handball-pokal-final-four-lemgo-lippe-fuechse-berlin-halbfinale-.html",
+      "date": "Sat, 18 Apr 2026 19:11:53 +0200"
+    },
+    {
+      "title": "Fußball-Regionalliga Nordost: Altglienicke furios gegen Magdeburg II",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-berlin-regionalliga-nordost-hertha-bsc-vsg-altglienicke-magdeburg-chemie-leipzig.html",
+      "date": "Sat, 18 Apr 2026 19:00:06 +0200"
+    },
+    {
       "title": "Union Berlin verliert bei historischem Eta-Debüt gegen Wolfsburg",
       "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-bundesliga-1-fc-union-berlin-vfl-wolfsburg-audio-stream-liveticker-spielbericht.html",
       "date": "Sat, 18 Apr 2026 18:29:01 +0200"
@@ -9,11 +19,6 @@
       "title": "Berlin-Wahl: Grüne Listenaufstellung mit Schönheitsfehlern",
       "link": "https://www.rbb24.de/politik/wahl/abgeordnetenhaus/agh-2026/beitraege/berlin-gruene-graf-jarasch-landesliste-spitzenplatz.html",
       "date": "Sat, 18 Apr 2026 18:07:12 +0200"
-    },
-    {
-      "title": "DHB-Pokal: Füchse ringen Lemgo nieder und ziehen ins Finale ein",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/04/handball-pokal-final-four-lemgo-lippe-fuechse-berlin-halbfinale-.html",
-      "date": "Sat, 18 Apr 2026 17:42:00 +0200"
     },
     {
       "title": "81-Jährige stirbt nach Verkehrsunfall in Berlin-Wannsee",
@@ -44,11 +49,6 @@
       "title": "Berlin: Mann verletzt Ehefrau mit Messer schwer",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-staaken-polizei-mann-sticht-auf-frau.html",
       "date": "Sat, 18 Apr 2026 14:21:53 +0200"
-    },
-    {
-      "title": "14-Jährige auf E-Scooter von Auto in Berlin erfasst - tot",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-verkehr-unfall-buckow-escooter-maedchen-tot.html",
-      "date": "Sat, 18 Apr 2026 14:15:11 +0200"
     }
   ],
   "police": [
