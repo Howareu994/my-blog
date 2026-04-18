@@ -1,9 +1,19 @@
 {
   "traffic": [
     {
+      "title": "Brandenburgs hohe Öko-Stromproduktion soll für günstigere Energiepreise sorgen",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/brandenburg-windraeder-oeko-strom-produktion-preis-vergleich-bayern.html",
+      "date": "Sat, 18 Apr 2026 07:15:00 +0200"
+    },
+    {
       "title": "Autokonvoi gegen hohe Spritpreise am Abend in Berlin angekommen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/ostfriesland-berlin-protest-hohe-spritpreise-auto-konvoi-bundestag.html",
       "date": "Fri, 17 Apr 2026 22:26:44 +0200"
+    },
+    {
+      "title": "Nach Erfolg gegen Köln: Eisbären noch einen Sieg vom Finale entfernt",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/04/eishockey-del-halbfinale-spiel-fuenf-eisbaeren-koelner-haie.html",
+      "date": "Fri, 17 Apr 2026 22:14:00 +0200"
     },
     {
       "title": "Zeugenaussagen in Berliner Fördergeldaffäre",
@@ -19,11 +29,6 @@
       "title": "Trichinellenfunde bei Wildschweinen in Brandenburg nachgewiesen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/wildschweine-trichinellen-brandenburg.html",
       "date": "Fri, 17 Apr 2026 21:28:22 +0200"
-    },
-    {
-      "title": "Fördermittel-Vergabe: Untersuchungsausschuss befragt Zeugen",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/04/berlin-foerdergeld-untersuchungsausschuss-abgeordnetenhaus-kulturverwaltung.html",
-      "date": "Fri, 17 Apr 2026 20:26:47 +0200"
     },
     {
       "title": "Chancen und Hürden für den Zweitliga-Aufstieg von Energie Cottbus",
@@ -44,65 +49,9 @@
       "title": "Kunstmesse in Berlin bietet bezahlbare Werke für die breitere Masse an",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/04/berlin-affordable-art-fair-bezahlbare-kunst-messe.html",
       "date": "Fri, 17 Apr 2026 18:21:03 +0200"
-    },
-    {
-      "title": "3. Fußball-Liga: Cottbus gegen Essen unter großem Druck",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-dritte-liga-energie-cottbus-rot-weiss-essen-vorbericht-wollitz.html",
-      "date": "Fri, 17 Apr 2026 17:36:30 +0200"
     }
   ],
-  "police": [
-    {
-      "title": "Senior vermisst – Polizei bittet um Mithilfe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662158.php",
-      "date": "Fri, 17 Apr 2026 15:47:06 +0200"
-    },
-    {
-      "title": "Verkehrsunfall – Fahrradfahrer auf Intensivstation",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662044.php",
-      "date": "Fri, 17 Apr 2026 13:46:56 +0200"
-    },
-    {
-      "title": "Tödliche Auseinandersetzung – Mordkommission und Staatsanwaltschaft ermitteln",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662035.php",
-      "date": "Fri, 17 Apr 2026 13:19:28 +0200"
-    },
-    {
-      "title": "Mutmaßlicher Brandstifter festgenommen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662030.php",
-      "date": "Fri, 17 Apr 2026 13:03:05 +0200"
-    },
-    {
-      "title": "Nach EC-Karten-Betrug - Festnahme",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1661787.php",
-      "date": "Thu, 16 Apr 2026 16:53:25 +0200"
-    },
-    {
-      "title": "Mehrere Brandstiftungen in einer Schule",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1661756.php",
-      "date": "Thu, 16 Apr 2026 15:42:50 +0200"
-    },
-    {
-      "title": "Alkoholisiert mit E-Scooter Unfall gebaut – Vater und Tochter verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1661639.php",
-      "date": "Thu, 16 Apr 2026 13:36:24 +0200"
-    },
-    {
-      "title": "Nach Streit im Straßenverkehr – Radfahrer verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1661627.php",
-      "date": "Thu, 16 Apr 2026 13:06:29 +0200"
-    },
-    {
-      "title": "Feuer vor Supermarkt gelegt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1661550.php",
-      "date": "Thu, 16 Apr 2026 11:17:28 +0200"
-    },
-    {
-      "title": "Steinwürfe auf U-Bahn",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1661536.php",
-      "date": "Thu, 16 Apr 2026 10:55:47 +0200"
-    }
-  ],
+  "police": [],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
