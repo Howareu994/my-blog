@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Angeln in Brandenburg: So gelingt der Start in die Hechtsaison",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/04/angeln-saison-start-brandenburg-raubfisch-hecht.html",
+      "date": "Sat, 18 Apr 2026 08:45:00 +0200"
+    },
+    {
       "title": "Brandenburgs hohe Öko-Stromproduktion soll für günstigere Energiepreise sorgen",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/brandenburg-windraeder-oeko-strom-produktion-preis-vergleich-bayern.html",
       "date": "Sat, 18 Apr 2026 07:15:00 +0200"
@@ -44,14 +49,60 @@
       "title": "Gericht untersagt Bürgermeister Schwochow Äußerungen",
       "link": "https://www.rbb24.de/politik/beitrag/2026/04/rheinsberg-buergermeister-schwochow-aeusserungen-untersagt-urteil-ueble-nachrede.html",
       "date": "Fri, 17 Apr 2026 18:28:45 +0200"
-    },
-    {
-      "title": "Kunstmesse in Berlin bietet bezahlbare Werke für die breitere Masse an",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/04/berlin-affordable-art-fair-bezahlbare-kunst-messe.html",
-      "date": "Fri, 17 Apr 2026 18:21:03 +0200"
     }
   ],
-  "police": [],
+  "police": [
+    {
+      "title": "Senior vermisst – Polizei bittet um Mithilfe",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662158.php",
+      "date": "Fri, 17 Apr 2026 15:47:06 +0200"
+    },
+    {
+      "title": "Verkehrsunfall – Fahrradfahrer auf Intensivstation",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662044.php",
+      "date": "Fri, 17 Apr 2026 13:46:56 +0200"
+    },
+    {
+      "title": "Tödliche Auseinandersetzung – Mordkommission und Staatsanwaltschaft ermitteln",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662035.php",
+      "date": "Fri, 17 Apr 2026 13:19:28 +0200"
+    },
+    {
+      "title": "Mutmaßlicher Brandstifter festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662030.php",
+      "date": "Fri, 17 Apr 2026 13:03:05 +0200"
+    },
+    {
+      "title": "Nach EC-Karten-Betrug - Festnahme",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1661787.php",
+      "date": "Thu, 16 Apr 2026 16:53:25 +0200"
+    },
+    {
+      "title": "Mehrere Brandstiftungen in einer Schule",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1661756.php",
+      "date": "Thu, 16 Apr 2026 15:42:50 +0200"
+    },
+    {
+      "title": "Alkoholisiert mit E-Scooter Unfall gebaut – Vater und Tochter verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1661639.php",
+      "date": "Thu, 16 Apr 2026 13:36:24 +0200"
+    },
+    {
+      "title": "Nach Streit im Straßenverkehr – Radfahrer verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1661627.php",
+      "date": "Thu, 16 Apr 2026 13:06:29 +0200"
+    },
+    {
+      "title": "Feuer vor Supermarkt gelegt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1661550.php",
+      "date": "Thu, 16 Apr 2026 11:17:28 +0200"
+    },
+    {
+      "title": "Steinwürfe auf U-Bahn",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1661536.php",
+      "date": "Thu, 16 Apr 2026 10:55:47 +0200"
+    }
+  ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
