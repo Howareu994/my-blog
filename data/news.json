@@ -1,14 +1,24 @@
 {
   "traffic": [
     {
+      "title": "Energiewende-Demonstration in Berlin: Tausende Teilnehmer",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/04/demonstration-energiewende-berlin-tausende-menschen.html",
+      "date": "Sat, 18 Apr 2026 15:39:36 +0200"
+    },
+    {
+      "title": "Jetzt live: Union-Trainerin Eta gibt Premiere gegen Wolfsburg",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-bundesliga-1-fc-union-berlin-vfl-wolfsburg-audio-stream-liveticker-spielbericht.html",
+      "date": "Sat, 18 Apr 2026 15:25:46 +0200"
+    },
+    {
+      "title": "Brandenburger FDP hofft auf Neuanfang mit neuer Bundesspitze",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/04/fdp-brandenburg-landeschef-braun-hoene-landesverband.html",
+      "date": "Sat, 18 Apr 2026 15:18:50 +0200"
+    },
+    {
       "title": "Nutria-Fleisch: Brandenburger Fleischer stellt Wurst her",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/brandenburg-wusterwitz-potsdam-mittelmark-nutria-fleisch-salami-wurst.html",
       "date": "Sat, 18 Apr 2026 14:33:27 +0200"
-    },
-    {
-      "title": "Video: Jäger macht Wurst aus Nutria",
-      "link": "https://www.rbb24.de/panorama/av/av24/video-brandenburg-nutria-jagd-wurst-fleisch-invasive-art.html",
-      "date": "Sat, 18 Apr 2026 14:32:55 +0200"
     },
     {
       "title": "Berlin: Mann verletzt Ehefrau mit Messer schwer",
@@ -39,19 +49,14 @@
       "title": "Post-Filialnetz hat in Brandenburg und Berlin Lücken",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/berlin-brandenburg-post-filialluecken-bundesnetzagentur.html",
       "date": "Sat, 18 Apr 2026 10:48:38 +0200"
-    },
-    {
-      "title": "Autokonvoi gegen hohe Spritpreise endet in Berlin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/ostfriesland-berlin-protest-hohe-spritpreise-auto-konvoi-bundestag.html",
-      "date": "Sat, 18 Apr 2026 10:22:00 +0200"
-    },
-    {
-      "title": "Wo sich in Berlin und Brandenburg die Zecken verstecken",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/zecken-berlin-brandenburg-saison-fsme-borreliose-menschen-tiere.html",
-      "date": "Sat, 18 Apr 2026 10:08:21 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Seniorin nach Verkehrsunfall im Krankenhaus verstorben",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662229.php",
+      "date": "Sat, 18 Apr 2026 15:24:24 +0200"
+    },
     {
       "title": "Autofahrerin fährt Kind auf Fahrrad an",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662227.php",
@@ -96,11 +101,6 @@
       "title": "Mehrere Brandstiftungen in einer Schule",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1661756.php",
       "date": "Thu, 16 Apr 2026 15:42:50 +0200"
-    },
-    {
-      "title": "Alkoholisiert mit E-Scooter Unfall gebaut – Vater und Tochter verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1661639.php",
-      "date": "Thu, 16 Apr 2026 13:36:24 +0200"
     }
   ],
   "free_events": [],
