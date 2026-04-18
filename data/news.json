@@ -1,9 +1,19 @@
 {
   "traffic": [
     {
+      "title": "Schüsse vor Einfamilienhaus in Berlin-Rudow abgegeben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/schuesse-einfamilienhaus-berlin-rudow-neukoelln.html",
+      "date": "Sat, 18 Apr 2026 13:12:13 +0200"
+    },
+    {
+      "title": "Berlin-Wahl: Grüne wollen Jarasch und Graf an Spitze der Landesliste",
+      "link": "https://www.rbb24.de/politik/wahl/abgeordnetenhaus/agh-2026/beitraege/berlin-gruene-graf-jarasch-landesliste-spitzenplatz.html",
+      "date": "Sat, 18 Apr 2026 13:03:59 +0200"
+    },
+    {
       "title": "14-Jährige auf E-Scooter von Auto in Berlin erfasst - tot",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-verkehr-unfall-buckow-escooter-maedchen-tot.html",
-      "date": "Sat, 18 Apr 2026 12:30:10 +0200"
+      "date": "Sat, 18 Apr 2026 12:30:56 +0200"
     },
     {
       "title": "Brandenburgs hohe Öko-Stromproduktion soll für günstigere Energiepreise sorgen",
@@ -16,9 +26,9 @@
       "date": "Sat, 18 Apr 2026 10:48:38 +0200"
     },
     {
-      "title": "Autokonvoi gegen hohe Spritpreise am Abend in Berlin angekommen",
+      "title": "Autokonvoi gegen hohe Spritpreise endet in Berlin",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/ostfriesland-berlin-protest-hohe-spritpreise-auto-konvoi-bundestag.html",
-      "date": "Sat, 18 Apr 2026 10:22:52 +0200"
+      "date": "Sat, 18 Apr 2026 10:22:00 +0200"
     },
     {
       "title": "Wo sich in Berlin und Brandenburg die Zecken verstecken",
@@ -39,19 +49,14 @@
       "title": "Trichinellenfunde bei Wildschweinen in Brandenburg nachgewiesen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/wildschweine-trichinellen-brandenburg.html",
       "date": "Fri, 17 Apr 2026 21:28:22 +0200"
-    },
-    {
-      "title": "Chancen und Hürden für den Zweitliga-Aufstieg von Energie Cottbus",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-dritte-liga-energie-cottbus-aufstiegsrennen-restprogramm-konkurrenz.html",
-      "date": "Fri, 17 Apr 2026 19:27:44 +0200"
-    },
-    {
-      "title": "Gericht untersagt Bürgermeister Schwochow Äußerungen",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/04/rheinsberg-buergermeister-schwochow-aeusserungen-untersagt-urteil-ueble-nachrede.html",
-      "date": "Fri, 17 Apr 2026 18:28:45 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Schussabgaben von Unbekannten",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662226.php",
+      "date": "Sat, 18 Apr 2026 13:20:53 +0200"
+    },
     {
       "title": "Tödlicher Verkehrsunfall",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662225.php",
@@ -96,11 +101,6 @@
       "title": "Nach Streit im Straßenverkehr – Radfahrer verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1661627.php",
       "date": "Thu, 16 Apr 2026 13:06:29 +0200"
-    },
-    {
-      "title": "Feuer vor Supermarkt gelegt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1661550.php",
-      "date": "Thu, 16 Apr 2026 11:17:28 +0200"
     }
   ],
   "free_events": [],
