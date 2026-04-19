@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Was war das denn? | Uni-Abschluss und dann Job-Center?",
+      "link": "https://www.rbb24.de/panorama/thema/was-war-das-denn/berufsstart-akademiker-studierende-arbeitslos.html",
+      "date": "Sun, 19 Apr 2026 14:36:44 +0200"
+    },
+    {
       "title": "Fußball: Wahrt Hertha in Braunschweig Restchance auf Aufstieg?",
       "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-2-liga-eintracht-braunschweig-hertha-bsc-audio-stream-liveticker-spielbericht.html",
       "date": "Sun, 19 Apr 2026 13:25:21 +0200"
@@ -44,14 +49,29 @@
       "title": "Playoffs: Volleys verlieren in Friedrichshafen, müssen nachsitzen",
       "link": "https://www.rbb24.de/sport/beitrag/2026/04/volleyball-vbl-playoffs-br-volleys-friedrichshafen-spiel-2.html",
       "date": "Sun, 19 Apr 2026 09:55:17 +0200"
-    },
-    {
-      "title": "Vier Kandidaten wollen Bürgermeister von Panketal werden",
-      "link": "https://www.rbb24.de/politik/wahl/brandenburg-buergermeisterwahlen/2026/panketal-barnim-kandidaten-haushalt-finanzen-gewerbe.html",
-      "date": "Sun, 19 Apr 2026 09:54:22 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Anwohner beraubt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662252.php",
+      "date": "Sun, 19 Apr 2026 14:33:16 +0200"
+    },
+    {
+      "title": "Info-Stand einer Partei attackiert",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662250.php",
+      "date": "Sun, 19 Apr 2026 14:13:15 +0200"
+    },
+    {
+      "title": "Mehrere Verletzte nach körperlicher Auseinandersetzung",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662249.php",
+      "date": "Sun, 19 Apr 2026 13:57:44 +0200"
+    },
+    {
+      "title": "Verdacht der versuchten gefährlichen Körperverletzung vor einem Parteibüro",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662248.php",
+      "date": "Sun, 19 Apr 2026 13:56:18 +0200"
+    },
     {
       "title": "Streit eskaliert – rassistische Beleidigung und wechselseitige Körperverletzungen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662244.php",
@@ -81,26 +101,6 @@
       "title": "Senior vermisst – Polizei bittet um Mithilfe",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662158.php",
       "date": "Fri, 17 Apr 2026 15:47:06 +0200"
-    },
-    {
-      "title": "Verkehrsunfall – Fahrradfahrer auf Intensivstation",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662044.php",
-      "date": "Fri, 17 Apr 2026 13:46:56 +0200"
-    },
-    {
-      "title": "Tödliche Auseinandersetzung – Mordkommission und Staatsanwaltschaft ermitteln",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662035.php",
-      "date": "Fri, 17 Apr 2026 13:19:28 +0200"
-    },
-    {
-      "title": "Mutmaßlicher Brandstifter festgenommen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662030.php",
-      "date": "Fri, 17 Apr 2026 13:03:05 +0200"
-    },
-    {
-      "title": "Nach EC-Karten-Betrug - Festnahme",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1661787.php",
-      "date": "Thu, 16 Apr 2026 16:53:25 +0200"
     }
   ],
   "free_events": [],
