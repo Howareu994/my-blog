@@ -1,19 +1,29 @@
 {
   "traffic": [
     {
+      "title": "Wahnsinn in Cottbus: Cigerci dreht für Energie Spiel gegen Essen",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-brandenburg-energie-cottbus-dritte-liga-rot-weiss-essen.html",
+      "date": "Sun, 19 Apr 2026 15:52:20 +0200"
+    },
+    {
+      "title": "Wetter: Dauerregen und Gewitter in Berlin und Brandenburg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/regen-gewitter-wetter-berlin-brandenburg-starkregen.html",
+      "date": "Sun, 19 Apr 2026 15:44:43 +0200"
+    },
+    {
+      "title": "Elf Menschen nach Brandstiftung in Kyritz im Krankenhaus",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/kyritz-brandstiftung-wohnhaus-elf-menschen-krankenhaus.html",
+      "date": "Sun, 19 Apr 2026 15:35:35 +0200"
+    },
+    {
+      "title": "Fußball-Bundesliga: Hertha spielt unentschieden in Braunschweig",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-2-liga-eintracht-braunschweig-hertha-bsc-audio-stream-liveticker-spielbericht.html",
+      "date": "Sun, 19 Apr 2026 15:31:10 +0200"
+    },
+    {
       "title": "Was war das denn? | Uni-Abschluss und dann Job-Center?",
       "link": "https://www.rbb24.de/panorama/thema/was-war-das-denn/berufsstart-akademiker-studierende-arbeitslos.html",
       "date": "Sun, 19 Apr 2026 14:36:44 +0200"
-    },
-    {
-      "title": "Fußball: Wahrt Hertha in Braunschweig Restchance auf Aufstieg?",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-2-liga-eintracht-braunschweig-hertha-bsc-audio-stream-liveticker-spielbericht.html",
-      "date": "Sun, 19 Apr 2026 13:25:21 +0200"
-    },
-    {
-      "title": "3. Liga: Cottbus empfängt Rot-Weiss Essen zum Topspiel",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-brandenburg-energie-cottbus-dritte-liga-rot-weiss-essen.html",
-      "date": "Sun, 19 Apr 2026 12:54:00 +0200"
     },
     {
       "title": "Erster Berlin-Marathon-Sieger Günter Hallas gestorben",
@@ -39,16 +49,6 @@
       "title": "Die Uckermark wählt zwischen CDU-Landrätin und AfD-Herausförderer",
       "link": "https://www.rbb24.de/politik/beitrag/2026/04/uckermark-landratswahl-cdu-karina-doerk-afd-felix-teichner.html",
       "date": "Sun, 19 Apr 2026 11:02:41 +0200"
-    },
-    {
-      "title": "Gasleck in Oberhavel: Feuerwehr gibt in Leegebruch Entwarnung",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/gasaustritt-leegebruch-oberhavel-feuerwehr.html",
-      "date": "Sun, 19 Apr 2026 09:56:25 +0200"
-    },
-    {
-      "title": "Playoffs: Volleys verlieren in Friedrichshafen, müssen nachsitzen",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/04/volleyball-vbl-playoffs-br-volleys-friedrichshafen-spiel-2.html",
-      "date": "Sun, 19 Apr 2026 09:55:17 +0200"
     }
   ],
   "police": [
