@@ -1,9 +1,29 @@
 {
   "traffic": [
     {
+      "title": "Buch \"Arm aber sexy\": Interview mit Autor Stefan Wolle",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/04/interview-stefan-wolle-buch-berlin-wende-ddr-nachwendezeit.html",
+      "date": "Sun, 19 Apr 2026 11:35:28 +0200"
+    },
+    {
+      "title": "Nach Stromausfall in Berlin-Nikolassee: Haushalte wieder am Netz",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-stromausfall-nikolassee-behoben.html",
+      "date": "Sun, 19 Apr 2026 11:09:48 +0200"
+    },
+    {
+      "title": "Die Uckermark wählt zwischen CDU-Landrätin und AfD-Herausförderer",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/04/uckermark-landratswahl-cdu-karina-doerk-afd-felix-teichner.html",
+      "date": "Sun, 19 Apr 2026 11:02:41 +0200"
+    },
+    {
       "title": "Gasleck in Oberhavel: Feuerwehr gibt in Leegebruch Entwarnung",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/gasaustritt-leegebruch-oberhavel-feuerwehr.html",
       "date": "Sun, 19 Apr 2026 09:56:25 +0200"
+    },
+    {
+      "title": "Playoffs: Volleys verlieren in Friedrichshafen, müssen nachsitzen",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/04/volleyball-vbl-playoffs-br-volleys-friedrichshafen-spiel-2.html",
+      "date": "Sun, 19 Apr 2026 09:55:17 +0200"
     },
     {
       "title": "Vier Kandidaten wollen Bürgermeister von Panketal werden",
@@ -21,34 +41,14 @@
       "date": "Sun, 19 Apr 2026 09:28:22 +0200"
     },
     {
-      "title": "Die Uckermark wählt zwischen CDU-Landrätin und AfD-Herausförderer",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/04/uckermark-landratswahl-cdu-karina-doerf-afd-felix-teichner.html",
-      "date": "Sun, 19 Apr 2026 08:00:00 +0200"
-    },
-    {
-      "title": "Nach Stromausfall in Berlin-Nikolassee: Haushalte wieder am Netz",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-stromausfall-nikolassee-behoben.html",
-      "date": "Sun, 19 Apr 2026 07:40:00 +0200"
-    },
-    {
-      "title": "LSD-Derivate: Das scheinbar endlose Verbotswettrennen",
+      "title": "LSD-Derivate: Das endlose Verbotswettrennen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/lsd-derivate-bicycle-day-neue-psychoaktive-stoffe-gesetz.html",
-      "date": "Sun, 19 Apr 2026 07:20:45 +0200"
+      "date": "Sun, 19 Apr 2026 07:20:00 +0200"
     },
     {
       "title": "Trotz Debüt von Trainerin Eta: Union bleibt Union",
       "link": "https://www.rbb24.de/sport/beitrag/2026/04/bundesliga-union-berlin-trainerin-marie-louise-eta-niederlage-wo.html",
       "date": "Sat, 18 Apr 2026 22:29:30 +0200"
-    },
-    {
-      "title": "DHB-Pokal: Füchse ringen Lemgo nieder und ziehen ins Finale ein",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/04/handball-pokal-final-four-lemgo-lippe-fuechse-berlin-halbfinale-.html",
-      "date": "Sat, 18 Apr 2026 21:18:00 +0200"
-    },
-    {
-      "title": "Fußball-Regionalliga Nordost: Altglienicke furios gegen Magdeburg II",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-berlin-regionalliga-nordost-hertha-bsc-vsg-altglienicke-magdeburg-chemie-leipzig.html",
-      "date": "Sat, 18 Apr 2026 19:00:06 +0200"
     }
   ],
   "police": [
