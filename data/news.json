@@ -1,14 +1,19 @@
 {
   "traffic": [
     {
-      "title": "Fußball-Bundesliga: Hertha spielt unentschieden in Braunschweig",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-2-liga-eintracht-braunschweig-hertha-bsc-audio-stream-liveticker-spielbericht.html",
-      "date": "Sun, 19 Apr 2026 16:34:38 +0200"
+      "title": "Gedenkstätte erinnert an Befreiung des KZ Sachsenhausen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/sachsenhausen-kz-befreiung-oranienburg.html",
+      "date": "Sun, 19 Apr 2026 17:23:26 +0200"
     },
     {
       "title": "Wahnsinn in Cottbus: Cigerci dreht für Energie Spiel gegen Essen",
       "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-brandenburg-energie-cottbus-dritte-liga-rot-weiss-essen.html",
-      "date": "Sun, 19 Apr 2026 15:52:20 +0200"
+      "date": "Sun, 19 Apr 2026 16:38:15 +0200"
+    },
+    {
+      "title": "Fußball-Bundesliga: Hertha spielt unentschieden in Braunschweig",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-2-liga-eintracht-braunschweig-hertha-bsc-audio-stream-liveticker-spielbericht.html",
+      "date": "Sun, 19 Apr 2026 16:34:38 +0200"
     },
     {
       "title": "Wetter: Dauerregen und Gewitter in Berlin und Brandenburg",
@@ -44,14 +49,14 @@
       "title": "Nach Stromausfall in Berlin-Nikolassee: Haushalte wieder am Netz",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-stromausfall-nikolassee-behoben.html",
       "date": "Sun, 19 Apr 2026 11:09:48 +0200"
-    },
-    {
-      "title": "Die Uckermark wählt zwischen CDU-Landrätin und AfD-Herausförderer",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/04/uckermark-landratswahl-cdu-karina-doerk-afd-felix-teichner.html",
-      "date": "Sun, 19 Apr 2026 11:02:41 +0200"
     }
   ],
   "police": [
+    {
+      "title": "In den Rücken gestochen und ausgeraubt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662256.php",
+      "date": "Sun, 19 Apr 2026 16:33:33 +0200"
+    },
     {
       "title": "Scharfe Schusswaffe gefunden",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662255.php",
@@ -96,11 +101,6 @@
       "title": "Schussabgaben von Unbekannten",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662226.php",
       "date": "Sat, 18 Apr 2026 13:20:53 +0200"
-    },
-    {
-      "title": "Tödlicher Verkehrsunfall",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662225.php",
-      "date": "Sat, 18 Apr 2026 12:12:38 +0200"
     }
   ],
   "free_events": [],
