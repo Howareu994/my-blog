@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Diesel-Diebstahl in Brandenburg: Firmen melden hohe Schäden",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/spritpreis-diebstahl-diesel-kraftstoff-polizei-brandenburg-lkw-baustellen-rastplaetze.html",
+      "date": "Sun, 19 Apr 2026 12:20:53 +0200"
+    },
+    {
       "title": "Buch \"Arm aber sexy\": Interview mit Autor Stefan Wolle",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/04/interview-stefan-wolle-buch-berlin-wende-ddr-nachwendezeit.html",
       "date": "Sun, 19 Apr 2026 11:35:28 +0200"
@@ -44,11 +49,6 @@
       "title": "LSD-Derivate: Das endlose Verbotswettrennen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/lsd-derivate-bicycle-day-neue-psychoaktive-stoffe-gesetz.html",
       "date": "Sun, 19 Apr 2026 07:20:00 +0200"
-    },
-    {
-      "title": "Trotz Debüt von Trainerin Eta: Union bleibt Union",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/04/bundesliga-union-berlin-trainerin-marie-louise-eta-niederlage-wo.html",
-      "date": "Sat, 18 Apr 2026 22:29:30 +0200"
     }
   ],
   "police": [
