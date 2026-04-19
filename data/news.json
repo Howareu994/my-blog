@@ -1,6 +1,26 @@
 {
   "traffic": [
     {
+      "title": "Handball: Füchse Berlin schlagen Bergischen HC und sind Pokalsieger",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/04/handball-dhb-pokal-finale-fuechse-berlin-bergischer-hc-pokalsieger-spielbericht.html",
+      "date": "Sun, 19 Apr 2026 18:12:21 +0200"
+    },
+    {
+      "title": "Punkt in Braunschweig: Herthas Wunsch nach Kontinuität ist gefährlich",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/04/berlin-fussball-hertha-bsc-eintracht-braunschweig-analyse-leitl-goerlich-aufstieg.html",
+      "date": "Sun, 19 Apr 2026 18:05:38 +0200"
+    },
+    {
+      "title": "S25-Lauf in Berlin: Mehr als 14.000 Läuferinnen und Läufer dabei",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/04/laufen-laufsport-s25-berlin-teilnehmer-sperrungen-wetter-olympiastadion.html",
+      "date": "Sun, 19 Apr 2026 17:45:28 +0200"
+    },
+    {
+      "title": "Fußball-Bundesliga: Hertha spielt unentschieden in Braunschweig",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-2-liga-eintracht-braunschweig-hertha-bsc-audio-stream-liveticker-spielbericht.html",
+      "date": "Sun, 19 Apr 2026 17:40:57 +0200"
+    },
+    {
       "title": "Gedenkstätte erinnert an Befreiung des KZ Sachsenhausen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/sachsenhausen-kz-befreiung-oranienburg.html",
       "date": "Sun, 19 Apr 2026 17:23:26 +0200"
@@ -9,11 +29,6 @@
       "title": "Wahnsinn in Cottbus: Cigerci dreht für Energie Spiel gegen Essen",
       "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-brandenburg-energie-cottbus-dritte-liga-rot-weiss-essen.html",
       "date": "Sun, 19 Apr 2026 16:38:15 +0200"
-    },
-    {
-      "title": "Fußball-Bundesliga: Hertha spielt unentschieden in Braunschweig",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-2-liga-eintracht-braunschweig-hertha-bsc-audio-stream-liveticker-spielbericht.html",
-      "date": "Sun, 19 Apr 2026 16:34:38 +0200"
     },
     {
       "title": "Wetter: Dauerregen und Gewitter in Berlin und Brandenburg",
@@ -34,21 +49,6 @@
       "title": "Erster Berlin-Marathon-Sieger Günter Hallas gestorben",
       "link": "https://www.rbb24.de/sport/beitrag/2026/04/berlin-guenter-hallas-gestorben-marathon-sieger-tot.html",
       "date": "Sun, 19 Apr 2026 12:32:00 +0200"
-    },
-    {
-      "title": "Diesel-Diebstahl in Brandenburg: Firmen melden hohe Schäden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/spritpreis-diebstahl-diesel-kraftstoff-polizei-brandenburg-lkw-baustellen-rastplaetze.html",
-      "date": "Sun, 19 Apr 2026 12:20:53 +0200"
-    },
-    {
-      "title": "Buch \"Arm aber sexy\": Interview mit Autor Stefan Wolle",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/04/interview-stefan-wolle-buch-berlin-wende-ddr-nachwendezeit.html",
-      "date": "Sun, 19 Apr 2026 11:35:28 +0200"
-    },
-    {
-      "title": "Nach Stromausfall in Berlin-Nikolassee: Haushalte wieder am Netz",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-stromausfall-nikolassee-behoben.html",
-      "date": "Sun, 19 Apr 2026 11:09:48 +0200"
     }
   ],
   "police": [
