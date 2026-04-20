@@ -1,14 +1,34 @@
 {
   "traffic": [
     {
-      "title": "Berlin: Tausende Erbschafts- und Schenkungssteuerfälle unbearbeitet",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/04/berlin-finanzaemter-erbschaftssteuer-bearbeitung-stau.html",
-      "date": "Mon, 20 Apr 2026 06:36:35 +0200"
+      "title": "Dauerregen in Berlin und Brandenburg - stellenweise bis 50 Liter",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-brandenburg-regen-dauerregen-wetter.html",
+      "date": "Mon, 20 Apr 2026 09:05:35 +0200"
+    },
+    {
+      "title": "Berlin-Neukölln: Per Haftbefehl gesuchter Serienbrandstifter in Britz festgenommen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/polizei-berlin-neukoelln-mutmasslicher-brandstifter-festgenommen.html",
+      "date": "Mon, 20 Apr 2026 09:03:30 +0200"
+    },
+    {
+      "title": "\"Festival für Internationale Neue Dramatik\" an der Schaubühne",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/04/find-schaubuehne-berlin-theater-festival-inernationale-neue-dramatik.html",
+      "date": "Mon, 20 Apr 2026 09:00:55 +0200"
+    },
+    {
+      "title": "Konzertkritik: Kim Gordon im Huxleys Berlin",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/04/berlin-konzert-kim-gordon-huxleys-kritik.html",
+      "date": "Mon, 20 Apr 2026 08:43:55 +0200"
     },
     {
       "title": "Was CDU und SPD in Berlin bis zur Wahl noch schaffen wollen",
       "link": "https://www.rbb24.de/politik/beitrag/2026/04/cdu-spd-koalition-berlin-klausur-wahl.html",
-      "date": "Mon, 20 Apr 2026 06:24:23 +0200"
+      "date": "Mon, 20 Apr 2026 07:54:14 +0200"
+    },
+    {
+      "title": "Berlin: Tausende Erbschafts- und Schenkungssteuerfälle unbearbeitet",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/04/berlin-finanzaemter-erbschaftssteuer-bearbeitung-stau.html",
+      "date": "Mon, 20 Apr 2026 06:36:00 +0200"
     },
     {
       "title": "Berlin-Alt-Hohenschönhausen: Hauptstraße gesperrt",
@@ -29,26 +49,6 @@
       "title": "Nordwestuckermark: Stichwahl zwischen Ramm und Ryl muss entscheiden",
       "link": "https://www.rbb24.de/politik/wahl/brandenburg-buergermeisterwahlen/2026/uckermark-nordwestuckermark-gemeinde-kandidierende.html",
       "date": "Sun, 19 Apr 2026 21:11:05 +0200"
-    },
-    {
-      "title": "Landratswahl in Barnim: Amtsinhaber Kurth und AfD-Kandidat Mikolaszek gehen in die Stichwahl",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/04/landrat-wahl-barnim-stichwahl-kurth-mikolaszek.html",
-      "date": "Sun, 19 Apr 2026 20:57:28 +0200"
-    },
-    {
-      "title": "Panketaler SPD-Amtsinhaber und AfD-Kandidat müssen in die Stichwahl",
-      "link": "https://www.rbb24.de/politik/wahl/brandenburg-buergermeisterwahlen/2026/panketal-barnim-kandidaten-haushalt-finanzen-gewerbe.html",
-      "date": "Sun, 19 Apr 2026 20:43:54 +0200"
-    },
-    {
-      "title": "Panketaler SPD-Amtsinhaber und AfD-Kandidat müssen in die Stichwahl",
-      "link": "https://www.rbb24.de/politik/wahl/brandenburg-buergermeisterwahlen/2026/panketal-barnim-kandidaten-haushalt-finanzen-gewerbe.html",
-      "date": "Sun, 19 Apr 2026 20:43:54 +0200"
-    },
-    {
-      "title": "Fußball-Regionalliga Nordost: BFC nur unentschieden, Altglienicke furios",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-berlin-regionalliga-nordost-hertha-bsc-vsg-altglienicke-magdeburg-chemie-leipzig.html",
-      "date": "Sun, 19 Apr 2026 19:19:26 +0200"
     }
   ],
   "police": [
