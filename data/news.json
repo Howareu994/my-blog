@@ -1,9 +1,34 @@
 {
   "traffic": [
     {
-      "title": "Analyse Brandenburger Landratswahlen - kein Erfolg für AfD",
+      "title": "Basketball-Ligachefin Amojo: \"In den USA wird nicht pauschal besserer Basketball gespielt\"",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/04/ireti-amojo-interview-dbb-frauen-basketball-ligachefin-wm-2026.html",
+      "date": "Mon, 20 Apr 2026 14:56:30 +0200"
+    },
+    {
+      "title": "Forschungsprojekt in Märkisch-Oderland: Mit Raben gegen die Schweinepest",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/oder-kolkraben-afrikanische-schweinepest-seuche-wilschwein-leibniz-institut-.html",
+      "date": "Mon, 20 Apr 2026 14:37:39 +0200"
+    },
+    {
+      "title": "Radfahrer in Köpenick gestorben - 27-Jähriger Autofahrer angeklagt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-koepenick-mueggelheim-autofahrer-angeklagt-radfahrer-gestorben.html",
+      "date": "Mon, 20 Apr 2026 14:12:27 +0200"
+    },
+    {
+      "title": "Dauerregen in Berlin und Brandenburg - örtlich fallen mehr als 80 Liter",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-brandenburg-regen-dauerregen-wetter.html",
+      "date": "Mon, 20 Apr 2026 14:12:00 +0200"
+    },
+    {
+      "title": "Analyse der Brandenburger Landratswahlen - kein Erfolg für AfD",
       "link": "https://www.rbb24.de/politik/beitrag/2026/04/brandenburg-analyse-landratswahlen-afd-erfolglos.html",
-      "date": "Mon, 20 Apr 2026 12:58:34 +0200"
+      "date": "Mon, 20 Apr 2026 14:00:05 +0200"
+    },
+    {
+      "title": "Gastronomen stemmen sich gegen Verpackungsteuer in Potsdam",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/potsdam-steuer-einwegverpackung-gastronomie-kritik-handel.html",
+      "date": "Mon, 20 Apr 2026 13:26:59 +0200"
     },
     {
       "title": "Berlin-Weißensee: Fußgängerin bei Unfall mit Tram schwer verletzt",
@@ -24,34 +49,19 @@
       "title": "Berlin-Neukölln: Per Haftbefehl gesuchter Serienbrandstifter in Britz festgenommen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/polizei-berlin-neukoelln-mutmasslicher-brandstifter-festgenommen.html",
       "date": "Mon, 20 Apr 2026 09:03:30 +0200"
-    },
-    {
-      "title": "\"Festival für Internationale Neue Dramatik\" an der Schaubühne",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/04/find-schaubuehne-berlin-theater-festival-inernationale-neue-dramatik.html",
-      "date": "Mon, 20 Apr 2026 09:00:55 +0200"
-    },
-    {
-      "title": "Konzertkritik: Kim Gordon im Huxleys Berlin",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/04/berlin-konzert-kim-gordon-huxleys-kritik.html",
-      "date": "Mon, 20 Apr 2026 08:43:55 +0200"
-    },
-    {
-      "title": "Was CDU und SPD in Berlin bis zur Wahl noch schaffen wollen",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/04/cdu-spd-koalition-berlin-klausur-wahl.html",
-      "date": "Mon, 20 Apr 2026 07:54:00 +0200"
-    },
-    {
-      "title": "Berlin: Tausende Erbschafts- und Schenkungssteuerfälle unbearbeitet",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/04/berlin-finanzaemter-erbschaftssteuer-bearbeitung-stau.html",
-      "date": "Mon, 20 Apr 2026 06:36:00 +0200"
-    },
-    {
-      "title": "Berlin-Alt-Hohenschönhausen: Hauptstraße gesperrt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-lichtenberg-alt-hohenschoenhausen-sperrung-hauptstrasse-rhinstrasse.html",
-      "date": "Mon, 20 Apr 2026 06:09:38 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Auseinandersetzung nach Fußballspiel",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662588.php",
+      "date": "Mon, 20 Apr 2026 13:59:10 +0200"
+    },
+    {
+      "title": "Fußballspiel nach mutmaßlich antisemitischer Volksverhetzung abgebrochen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662584.php",
+      "date": "Mon, 20 Apr 2026 13:52:30 +0200"
+    },
     {
       "title": "Mit dem Auto überschlagen – Fahrer verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662471.php",
@@ -91,16 +101,6 @@
       "title": "Verdacht der versuchten gefährlichen Körperverletzung vor einem Parteibüro",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662248.php",
       "date": "Sun, 19 Apr 2026 13:56:18 +0200"
-    },
-    {
-      "title": "Streit eskaliert – rassistische Beleidigung und wechselseitige Körperverletzungen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662244.php",
-      "date": "Sat, 18 Apr 2026 17:36:48 +0200"
-    },
-    {
-      "title": "Seniorin nach Verkehrsunfall im Krankenhaus verstorben",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662229.php",
-      "date": "Sat, 18 Apr 2026 15:24:24 +0200"
     }
   ],
   "free_events": [],
