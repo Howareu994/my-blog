@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Berlin: Tausende Erbschafts- und Schenkungssteuerfälle unbearbeitet",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/04/berlin-finanzaemter-erbschaftssteuer-bearbeitung-stau.html",
+      "date": "Mon, 20 Apr 2026 06:36:35 +0200"
+    },
+    {
+      "title": "Was CDU und SPD in Berlin bis zur Wahl noch schaffen wollen",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/04/cdu-spd-koalition-berlin-klausur-wahl.html",
+      "date": "Mon, 20 Apr 2026 06:24:23 +0200"
+    },
+    {
+      "title": "Berlin-Alt-Hohenschönhausen: Hauptstraße gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-lichtenberg-alt-hohenschoenhausen-sperrung-hauptstrasse-rhinstrasse.html",
+      "date": "Mon, 20 Apr 2026 06:09:38 +0200"
+    },
+    {
       "title": "Uckermark: Karina Dörk als Landrätin wiedergewählt",
       "link": "https://www.rbb24.de/politik/beitrag/2026/04/landrat-wahl-uckermark-ergebnis-karina-doerk.html",
       "date": "Sun, 19 Apr 2026 21:24:23 +0200"
@@ -34,21 +49,6 @@
       "title": "Fußball-Regionalliga Nordost: BFC nur unentschieden, Altglienicke furios",
       "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-berlin-regionalliga-nordost-hertha-bsc-vsg-altglienicke-magdeburg-chemie-leipzig.html",
       "date": "Sun, 19 Apr 2026 19:19:26 +0200"
-    },
-    {
-      "title": "Handball: Füchse Berlin schlagen Bergischen HC und sind Pokalsieger",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/04/handball-dhb-pokal-finale-fuechse-berlin-bergischer-hc-pokalsieger-spielbericht.html",
-      "date": "Sun, 19 Apr 2026 18:12:21 +0200"
-    },
-    {
-      "title": "Punkt in Braunschweig: Herthas Wunsch nach Kontinuität ist gefährlich",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/04/berlin-fussball-hertha-bsc-eintracht-braunschweig-analyse-leitl-goerlich-aufstieg.html",
-      "date": "Sun, 19 Apr 2026 18:05:38 +0200"
-    },
-    {
-      "title": "S25-Lauf in Berlin: Mehr als 14.000 Läuferinnen und Läufer dabei",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/04/laufen-laufsport-s25-berlin-teilnehmer-sperrungen-wetter-olympiastadion.html",
-      "date": "Sun, 19 Apr 2026 17:45:28 +0200"
     }
   ],
   "police": [
