@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Schriftsteller Thomas Melle erhält Kleist-Preis 2026",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/04/thomas-melle-heinrich-von-kleist-preis-heinrich-von-berenberg.html",
+      "date": "Mon, 20 Apr 2026 18:54:05 +0200"
+    },
+    {
+      "title": "Gastronomen stemmen sich gegen Verpackungsteuer in Potsdam",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/potsdam-steuer-einwegverpackung-gastronomie-kritik-handel.html",
+      "date": "Mon, 20 Apr 2026 17:42:06 +0200"
+    },
+    {
+      "title": "Nach Platzverweis: Hertha-Jungstar Eichhorn für zwei Spiele gesperrt",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-hertha-bsc-kennet-eichhorn-zwei-spiele-sperre.html",
+      "date": "Mon, 20 Apr 2026 17:12:17 +0200"
+    },
+    {
       "title": "Nach Angriff auf Fanbus: Eisbären sprechen Stadionverbote aus",
       "link": "https://www.rbb24.de/sport/beitrag/2026/04/eishockey-del-eisbaeren-sprechen-stadionverbot-aus-nach-angriff-auf-koelner-fanbus.html",
       "date": "Mon, 20 Apr 2026 16:16:05 +0200"
@@ -34,21 +49,6 @@
       "title": "Basketball-Ligachefin Amojo: \"In den USA wird nicht pauschal besserer Basketball gespielt\"",
       "link": "https://www.rbb24.de/sport/beitrag/2026/04/ireti-amojo-interview-dbb-frauen-basketball-ligachefin-wm-2026.html",
       "date": "Mon, 20 Apr 2026 14:56:30 +0200"
-    },
-    {
-      "title": "Forschungsprojekt in Märkisch-Oderland: Mit Raben gegen die Schweinepest",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/oder-kolkraben-afrikanische-schweinepest-seuche-wilschwein-leibniz-institut-.html",
-      "date": "Mon, 20 Apr 2026 14:37:39 +0200"
-    },
-    {
-      "title": "Radfahrer in Köpenick gestorben - 27-Jähriger Autofahrer angeklagt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-koepenick-mueggelheim-autofahrer-angeklagt-radfahrer-gestorben.html",
-      "date": "Mon, 20 Apr 2026 14:12:27 +0200"
-    },
-    {
-      "title": "Dauerregen in Berlin und Brandenburg - örtlich fallen mehr als 80 Liter",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-brandenburg-regen-dauerregen-wetter.html",
-      "date": "Mon, 20 Apr 2026 14:12:00 +0200"
     }
   ],
   "police": [
