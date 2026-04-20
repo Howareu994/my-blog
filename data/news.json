@@ -1,9 +1,24 @@
 {
   "traffic": [
     {
-      "title": "Dauerregen in Berlin und Brandenburg - stellenweise bis 50 Liter",
+      "title": "Berlin-Weißensee: Fußgängerin bei Unfall mit Tram schwer verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-weissensee-unfall-fussgaengerin-tram-schwer-verletzt.html",
+      "date": "Mon, 20 Apr 2026 11:44:39 +0200"
+    },
+    {
+      "title": "Dauerregen in Berlin und Brandenburg - örtlich fallen mehr als 80 Liter",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-brandenburg-regen-dauerregen-wetter.html",
-      "date": "Mon, 20 Apr 2026 09:05:35 +0200"
+      "date": "Mon, 20 Apr 2026 11:40:00 +0200"
+    },
+    {
+      "title": "Landratswahl in Barnim: Amtsinhaber Kurth und AfD-Kandidat Mikolaszek gehen in die Stichwahl",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/04/landrat-wahl-barnim-stichwahl-kurth-mikolaszek.html",
+      "date": "Mon, 20 Apr 2026 11:29:18 +0200"
+    },
+    {
+      "title": "Potsdam: Fünf Weltkriegsbomben werden in dieser Woche unschädlich gemacht",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/potsdam-weltkrieg-bomben-gefunden-wildpark-wald-munitionssuche-entschaerfung.html",
+      "date": "Mon, 20 Apr 2026 10:46:16 +0200"
     },
     {
       "title": "Berlin-Neukölln: Per Haftbefehl gesuchter Serienbrandstifter in Britz festgenommen",
@@ -23,7 +38,7 @@
     {
       "title": "Was CDU und SPD in Berlin bis zur Wahl noch schaffen wollen",
       "link": "https://www.rbb24.de/politik/beitrag/2026/04/cdu-spd-koalition-berlin-klausur-wahl.html",
-      "date": "Mon, 20 Apr 2026 07:54:14 +0200"
+      "date": "Mon, 20 Apr 2026 07:54:00 +0200"
     },
     {
       "title": "Berlin: Tausende Erbschafts- und Schenkungssteuerfälle unbearbeitet",
@@ -34,24 +49,19 @@
       "title": "Berlin-Alt-Hohenschönhausen: Hauptstraße gesperrt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-lichtenberg-alt-hohenschoenhausen-sperrung-hauptstrasse-rhinstrasse.html",
       "date": "Mon, 20 Apr 2026 06:09:38 +0200"
-    },
-    {
-      "title": "Uckermark: Karina Dörk als Landrätin wiedergewählt",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/04/landrat-wahl-uckermark-ergebnis-karina-doerk.html",
-      "date": "Sun, 19 Apr 2026 21:24:23 +0200"
-    },
-    {
-      "title": "Nordwestuckermark: Stichwahl zwischen Ramm und Ryl muss entscheiden",
-      "link": "https://www.rbb24.de/politik/wahl/brandenburg-buergermeisterwahlen/2026/uckermark-nordwestuckermark-gemeinde-kandidierende.html",
-      "date": "Sun, 19 Apr 2026 21:11:05 +0200"
-    },
-    {
-      "title": "Nordwestuckermark: Stichwahl zwischen Ramm und Ryl muss entscheiden",
-      "link": "https://www.rbb24.de/politik/wahl/brandenburg-buergermeisterwahlen/2026/uckermark-nordwestuckermark-gemeinde-kandidierende.html",
-      "date": "Sun, 19 Apr 2026 21:11:05 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Mit dem Auto überschlagen – Fahrer verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662471.php",
+      "date": "Mon, 20 Apr 2026 11:35:31 +0200"
+    },
+    {
+      "title": "Auseinandersetzung mit Reizgas, Messer und Machete",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662469.php",
+      "date": "Mon, 20 Apr 2026 11:32:07 +0200"
+    },
     {
       "title": "In den Rücken gestochen und ausgeraubt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662256.php",
@@ -91,16 +101,6 @@
       "title": "Seniorin nach Verkehrsunfall im Krankenhaus verstorben",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662229.php",
       "date": "Sat, 18 Apr 2026 15:24:24 +0200"
-    },
-    {
-      "title": "Autofahrerin fährt Kind auf Fahrrad an",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662227.php",
-      "date": "Sat, 18 Apr 2026 13:45:00 +0200"
-    },
-    {
-      "title": "Schussabgaben von Unbekannten",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662226.php",
-      "date": "Sat, 18 Apr 2026 13:20:53 +0200"
     }
   ],
   "free_events": [],
