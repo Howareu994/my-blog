@@ -1,6 +1,26 @@
 {
   "traffic": [
     {
+      "title": "Förderung von Biogas-Anlagen in Brandenburg läuft aus",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/biogas-brandenburg-anlagen-eeg-foederung-laeuft-aus-erneuerbare-energien.html",
+      "date": "Tue, 21 Apr 2026 09:59:36 +0200"
+    },
+    {
+      "title": "Kaufhauskette Galeria zahlt offenbar April-Mieten nicht",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-galeria-kaufhauskette-kaufhaeuser-zahlungsschwierigkeiten-miete.html",
+      "date": "Tue, 21 Apr 2026 09:55:51 +0200"
+    },
+    {
+      "title": "Wie sich ein Leag-Reparaturwerk auf den Kohleausstieg vorbereitet",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/spremberg-instandhaltung-radsaetze-mcr-lausitz.html",
+      "date": "Tue, 21 Apr 2026 09:40:55 +0200"
+    },
+    {
+      "title": "Warum unser Sommerurlaub nicht ausfällt, sich aber trotzdem verändert",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/reisen-krisenzeiten-sommerurlaub-stornierungen-tourismus.html",
+      "date": "Tue, 21 Apr 2026 09:24:57 +0200"
+    },
+    {
       "title": "Mann stirbt bei Unfall auf A10 bei Ahrensfelde",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/brandenburg-ahrensfelde-unfall-a10-mann-gestorben.html",
       "date": "Tue, 21 Apr 2026 07:49:00 +0200"
@@ -8,17 +28,12 @@
     {
       "title": "\"Die 12 - rbb-Bürgerrat\": 12 Bürger diskutieren ein Thema",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/rbb-buergerrat-sendung-interview-nina-siegers.html",
-      "date": "Tue, 21 Apr 2026 06:11:01 +0200"
+      "date": "Tue, 21 Apr 2026 06:11:00 +0200"
     },
     {
       "title": "New York vor der WM: \"Da rasen gerade zwei Züge aufeinander zu\"",
       "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-weltmeisterschaft-new-york-new-jersey-zug-150-dollar-vergleich-berlin-probleme.html",
       "date": "Tue, 21 Apr 2026 06:10:40 +0200"
-    },
-    {
-      "title": "Förderung von Biogas-Anlagen in Brandenburg läuft aus",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/biogas-brandenburg-anlagen-eeg-foederung-laeuft-aus-erneuerbare-energien.html",
-      "date": "Tue, 21 Apr 2026 06:08:19 +0200"
     },
     {
       "title": "Basketball: Alba besiegt Bonn und sichert sich die Playoffs",
@@ -34,21 +49,6 @@
       "title": "Gericht prüft Eilantrag zu AfD-Werbung mit Heino",
       "link": "https://www.rbb24.de/politik/beitrag/2026/04/eilantrag-werbung-afd-heino-landratswahl-uckermark-neuruppin.html",
       "date": "Mon, 20 Apr 2026 19:18:43 +0200"
-    },
-    {
-      "title": "Schriftsteller Thomas Melle erhält Kleist-Preis 2026",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/04/thomas-melle-heinrich-von-kleist-preis-heinrich-von-berenberg.html",
-      "date": "Mon, 20 Apr 2026 18:54:05 +0200"
-    },
-    {
-      "title": "Gastronomen stemmen sich gegen Verpackungsteuer in Potsdam",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/potsdam-steuer-einwegverpackung-gastronomie-kritik-handel.html",
-      "date": "Mon, 20 Apr 2026 17:42:06 +0200"
-    },
-    {
-      "title": "Nach Platzverweis: Hertha-Jungstar Eichhorn für zwei Spiele gesperrt",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-hertha-bsc-kennet-eichhorn-zwei-spiele-sperre.html",
-      "date": "Mon, 20 Apr 2026 17:12:17 +0200"
     }
   ],
   "police": [
