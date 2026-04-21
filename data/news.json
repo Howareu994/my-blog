@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Bahn prüft weitere Direktverbindung zwischen Berlin und Paris",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/bahn-prueft-weitere-direktverbindung-berlin-paris-ice.html",
+      "date": "Tue, 21 Apr 2026 14:14:22 +0200"
+    },
+    {
+      "title": "Fördergeld-Affäre: Berliner Staatssekretär Friederici entlassen",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/04/berlin-kulturverwaltung-entlassung-staatssekretaer-oliver-friederici-affaere-foerdermittel.html",
+      "date": "Tue, 21 Apr 2026 13:57:52 +0200"
+    },
+    {
       "title": "Tennis: Weltranglistendritte Coco Gauff schlägt bei WTA-Turnier in Berlin auf",
       "link": "https://www.rbb24.de/sport/beitrag/2026/04/tennis-wta-turnier-berlin-coco-gauff-andrea-petkovic.html",
       "date": "Tue, 21 Apr 2026 13:53:19 +0200"
@@ -26,11 +36,6 @@
       "date": "Tue, 21 Apr 2026 12:18:12 +0200"
     },
     {
-      "title": "Fördergeld-Affäre: Berliner Staatssekretär Friederici entlassen",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/04/berlin-kulturverwaltung-entlassung-staatssekretaer-oliver-friederici-affaere-foerdermittel.html",
-      "date": "Tue, 21 Apr 2026 12:00:28 +0200"
-    },
-    {
       "title": "Mehrfachkarte für Berliner Sommerbäder im Vorverkauf",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-baeder-betriebe-vorverkauf-mehrfachkarte-sommer-baeder.html",
       "date": "Tue, 21 Apr 2026 11:56:11 +0200"
@@ -44,14 +49,14 @@
       "title": "Interview: Schwimmer Ole Braunschweig über ADHS und Olympia",
       "link": "https://www.rbb24.de/sport/beitrag/2026/04/schwimmen-berlin-ole-braunschweig-interview-deutsche-meisterschaft-olympia.html",
       "date": "Tue, 21 Apr 2026 10:45:00 +0200"
-    },
-    {
-      "title": "Förderung von Biogas-Anlagen in Brandenburg läuft aus",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/biogas-brandenburg-anlagen-eeg-foederung-laeuft-aus-erneuerbare-energien.html",
-      "date": "Tue, 21 Apr 2026 09:59:36 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Frau bei Wohnungsbrand verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1663011.php",
+      "date": "Tue, 21 Apr 2026 14:02:00 +0200"
+    },
     {
       "title": "Nach Verkehrsunfall – Fahrradfahrer verstorben",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662044.php",
@@ -96,11 +101,6 @@
       "title": "Info-Stand einer Partei attackiert",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662250.php",
       "date": "Sun, 19 Apr 2026 14:13:15 +0200"
-    },
-    {
-      "title": "Mehrere Verletzte nach körperlicher Auseinandersetzung",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662249.php",
-      "date": "Sun, 19 Apr 2026 13:57:44 +0200"
     }
   ],
   "free_events": [],
