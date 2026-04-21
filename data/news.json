@@ -1,6 +1,31 @@
 {
   "traffic": [
     {
+      "title": "Tennis: Weltranglistendritte Coco Gauff schlägt bei WTA-Turnier in Berlin auf",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/04/tennis-wta-turnier-berlin-coco-gauff-andrea-petkovic.html",
+      "date": "Tue, 21 Apr 2026 13:53:19 +0200"
+    },
+    {
+      "title": "An der A10: Altlandsberg soll neues Gewerbegebiet bekommen",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/maerkisch-oderland-altlandsberg-gewerbepark-autobahn-toepfer.html",
+      "date": "Tue, 21 Apr 2026 13:50:57 +0200"
+    },
+    {
+      "title": "Staatsschutz ermittelt nach zwei Fällen mutmaßlich rechter Gewalt in Cottbus",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/cottbus-angriff-pfarrerswohnung-staatsschutz-ermittelt.html",
+      "date": "Tue, 21 Apr 2026 13:39:17 +0200"
+    },
+    {
+      "title": "Mehr rechtsextrem-motivierte Angriffe in Berlin registriert",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/04/berlin-mehr-rassistische-rechtsextreme-angriffe-beratungsstelle-reach-out.html",
+      "date": "Tue, 21 Apr 2026 13:35:32 +0200"
+    },
+    {
+      "title": "Drei Weltkriegsbomben in Potsdam unschädlich gemacht - weitere Entschärfungen am Donnerstag",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/potsdam-weltkrieg-bomben-gefunden-wildpark-wald-munitionssuche-entschaerfung.html",
+      "date": "Tue, 21 Apr 2026 12:18:12 +0200"
+    },
+    {
       "title": "Fördergeld-Affäre: Berliner Staatssekretär Friederici entlassen",
       "link": "https://www.rbb24.de/politik/beitrag/2026/04/berlin-kulturverwaltung-entlassung-staatssekretaer-oliver-friederici-affaere-foerdermittel.html",
       "date": "Tue, 21 Apr 2026 12:00:28 +0200"
@@ -11,11 +36,6 @@
       "date": "Tue, 21 Apr 2026 11:56:11 +0200"
     },
     {
-      "title": "Mobilfunk: Preisnachlass bei schlechtem Handynetz?",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/mobilfunk-funkloch-potsdam-neu-fahrland-handy-preisminderung-bundesnetzagentur.html",
-      "date": "Tue, 21 Apr 2026 11:49:31 +0200"
-    },
-    {
       "title": "Radfahrer nach Unfall im Krankenhaus gestorben",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-friedrichshain-radfahrer-unfall-gestorben.html",
       "date": "Tue, 21 Apr 2026 10:58:25 +0200"
@@ -23,35 +43,20 @@
     {
       "title": "Interview: Schwimmer Ole Braunschweig über ADHS und Olympia",
       "link": "https://www.rbb24.de/sport/beitrag/2026/04/schwimmen-berlin-ole-braunschweig-interview-deutsche-meisterschaft-olympia.html",
-      "date": "Tue, 21 Apr 2026 10:45:35 +0200"
+      "date": "Tue, 21 Apr 2026 10:45:00 +0200"
     },
     {
       "title": "Förderung von Biogas-Anlagen in Brandenburg läuft aus",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/biogas-brandenburg-anlagen-eeg-foederung-laeuft-aus-erneuerbare-energien.html",
       "date": "Tue, 21 Apr 2026 09:59:36 +0200"
-    },
-    {
-      "title": "Kaufhauskette Galeria zahlt offenbar April-Mieten nicht",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-galeria-kaufhauskette-kaufhaeuser-zahlungsschwierigkeiten-miete.html",
-      "date": "Tue, 21 Apr 2026 09:55:51 +0200"
-    },
-    {
-      "title": "Wie sich ein Leag-Reparaturwerk auf den Kohleausstieg vorbereitet",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/spremberg-instandhaltung-radsaetze-mcr-lausitz.html",
-      "date": "Tue, 21 Apr 2026 09:40:55 +0200"
-    },
-    {
-      "title": "Warum unser Sommerurlaub nicht ausfällt, sich aber trotzdem verändert",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/reisen-krisenzeiten-sommerurlaub-stornierungen-tourismus.html",
-      "date": "Tue, 21 Apr 2026 09:24:57 +0200"
-    },
-    {
-      "title": "Mann stirbt bei Unfall auf A10 bei Ahrensfelde",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/brandenburg-ahrensfelde-unfall-a10-mann-gestorben.html",
-      "date": "Tue, 21 Apr 2026 07:49:00 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Nach Verkehrsunfall – Fahrradfahrer verstorben",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662044.php",
+      "date": "Tue, 21 Apr 2026 11:45:00 +0200"
+    },
     {
       "title": "Auseinandersetzung nach Fußballspiel",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662588.php",
@@ -96,11 +101,6 @@
       "title": "Mehrere Verletzte nach körperlicher Auseinandersetzung",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662249.php",
       "date": "Sun, 19 Apr 2026 13:57:44 +0200"
-    },
-    {
-      "title": "Verdacht der versuchten gefährlichen Körperverletzung vor einem Parteibüro",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662248.php",
-      "date": "Sun, 19 Apr 2026 13:56:18 +0200"
     }
   ],
   "free_events": [],
