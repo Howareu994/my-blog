@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Deutsche Basketballerinnen mit Losglück vor der Heim-WM in Berlin",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/04/basketball-frauen-wm-berlin-2026-auslosung-deutsche-nationalmannschaft-dbb-team-usa.html",
+      "date": "Tue, 21 Apr 2026 19:33:42 +0200"
+    },
+    {
+      "title": "BVG: Tram-Linien M1 und 12 ab August monatelang unterbrochen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-bvg-tram-linien-bauarbeiten-m1-12-ersatzverkehr-busse-vier-monate.html",
+      "date": "Tue, 21 Apr 2026 19:18:52 +0200"
+    },
+    {
+      "title": "Angriffe auf Lehrer: Beleidungen und Bedrohung sind Problem",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/polizeistatistik-schulen-gewalt-gegen-lehrer-.html",
+      "date": "Tue, 21 Apr 2026 18:57:00 +0200"
+    },
+    {
       "title": "Fördergeld-Affäre: Berliner Staatssekretär Friederici entlassen",
       "link": "https://www.rbb24.de/politik/beitrag/2026/04/berlin-kulturverwaltung-entlassung-staatssekretaer-oliver-friederici-affaere-foerdermittel.html",
       "date": "Tue, 21 Apr 2026 18:49:20 +0200"
@@ -34,21 +49,6 @@
       "title": "Syrer wegen Anschlagsplanung in Berlin angeklagt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/generalstaatsanwaltschaft-berlin-anklage-syrer-anschlag-terrrorverdacht.html",
       "date": "Tue, 21 Apr 2026 17:05:00 +0200"
-    },
-    {
-      "title": "70 Rinder von Weide in Südbrandenburg gestohlen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/uebigau-wahrenbrueck-70-rinder-gestohlen.html",
-      "date": "Tue, 21 Apr 2026 15:07:49 +0200"
-    },
-    {
-      "title": "Bahn prüft weitere Direktverbindung zwischen Berlin und Paris",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/bahn-prueft-weitere-direktverbindung-berlin-paris-ice.html",
-      "date": "Tue, 21 Apr 2026 14:14:22 +0200"
-    },
-    {
-      "title": "Tennis: Weltranglistendritte Coco Gauff schlägt bei WTA-Turnier in Berlin auf",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/04/tennis-wta-turnier-berlin-coco-gauff-andrea-petkovic.html",
-      "date": "Tue, 21 Apr 2026 13:53:19 +0200"
     }
   ],
   "police": [
