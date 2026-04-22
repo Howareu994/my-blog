@@ -1,14 +1,29 @@
 {
   "traffic": [
     {
-      "title": "Rinderdiebstahl in Elbe-Elster: \"Haben die Tiere aufgeladen und sogar noch sortiert\"",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/uebigau-wahrenbrueck-70-rinder-gestohlen.html",
-      "date": "Wed, 22 Apr 2026 13:41:19 +0200"
+      "title": "Tödliche Attacke am Humboldt-Forum: Elf Männer angeklagt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/anklage-schlaegerei-humboldt-forum-humboldt-forum.html",
+      "date": "Wed, 22 Apr 2026 14:59:17 +0200"
     },
     {
       "title": "Keine Regional- und Fernzüge zwischen Charlottenburg und Ostbahnhof",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-bahn-regionalbahn-fernzuege-unterbrochen-charlottenburg-ostbahnhof-stadtbahn.html",
-      "date": "Wed, 22 Apr 2026 13:32:00 +0200"
+      "date": "Wed, 22 Apr 2026 14:55:00 +0200"
+    },
+    {
+      "title": "Öl-Lieferstopp zur PCK: Versorgungssicherheit wohl gegeben",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/brandenburg-pck-oel-lieferstopp-russland-pipeline-druschba-kasachstan.html",
+      "date": "Wed, 22 Apr 2026 14:42:00 +0200"
+    },
+    {
+      "title": "Am Bahnhof in Werder (Havel) wird Abstellanlage für 351 Fahrräder gebaut",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/brandenburg-werder-havel-bahnhof-verkehr-fahrrad-abstellanlage.html",
+      "date": "Wed, 22 Apr 2026 14:36:49 +0200"
+    },
+    {
+      "title": "70 Rinder aus Stall einer Agrargenossenschaft gestohlen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/uebigau-wahrenbrueck-70-rinder-gestohlen.html",
+      "date": "Wed, 22 Apr 2026 14:29:31 +0200"
     },
     {
       "title": "VSG Altglienicke spielt auch kommende Saison in Brandenburg",
@@ -31,27 +46,17 @@
       "date": "Wed, 22 Apr 2026 12:09:25 +0200"
     },
     {
-      "title": "Potsdams Ex-Oberbürgermeister Schubert: Verfahren eingestellt",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/04/disziplinarverfahren-eingestellt-frueherer-potsdam-ob-oberbuergermeister-mike-schubert-spd-brandenburg.html",
-      "date": "Wed, 22 Apr 2026 11:18:03 +0200"
-    },
-    {
       "title": "Kaufhauskette in Finanznot: Galeria erhält Millionen-Kredit",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/berlin-galeria-kaufhauskette-kaufhaeuser-kredit-zahlungsschwierigkeiten.html",
       "date": "Wed, 22 Apr 2026 11:04:48 +0200"
-    },
-    {
-      "title": "Etatlücke droht: Brandenburg muss hunderte Millionen Euro mehr an seine Beamten bezahlen",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/04/haushaltsluecke-brandenburg-millionen-beamte-urteil-bundesverfassungsgericht-brandenburg.html",
-      "date": "Wed, 22 Apr 2026 10:27:34 +0200"
-    },
-    {
-      "title": "Jobmesse in Neuhardenberg am Samstag erwartet rund 100 Arbeitgeber",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/brandenburg-flugplatz-neuhardenberg-jobmesse-maerkisch-oderland.html",
-      "date": "Wed, 22 Apr 2026 10:14:42 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Geschwindigkeitskontrollen im Rahmen der ROADPOL-Aktionswoche „Speedweek“ – Polizei Berlin zieht Bilanz",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1663534.php",
+      "date": "Wed, 22 Apr 2026 14:44:00 +0200"
+    },
     {
       "title": "Junge Frau vermisst – Polizei bittet um Mithilfe",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1663350.php",
@@ -96,11 +101,6 @@
       "title": "Scharfe Schusswaffe gefunden",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662255.php",
       "date": "Sun, 19 Apr 2026 16:16:02 +0200"
-    },
-    {
-      "title": "Anwohner beraubt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662252.php",
-      "date": "Sun, 19 Apr 2026 14:33:16 +0200"
     }
   ],
   "free_events": [],
