@@ -1,6 +1,26 @@
 {
   "traffic": [
     {
+      "title": "Berlin: Staatsanwaltschaft klagt Polizisten wegen Korruption an",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/anklage-polizist-berlin-kriminelle.html",
+      "date": "Wed, 22 Apr 2026 12:09:25 +0200"
+    },
+    {
+      "title": "Potsdams Ex-Oberbürgermeister Schubert: Verfahren eingestellt",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/04/disziplinarverfahren-eingestellt-frueherer-potsdam-ob-oberbuergermeister-mike-schubert-spd-brandenburg.html",
+      "date": "Wed, 22 Apr 2026 11:18:03 +0200"
+    },
+    {
+      "title": "Kaufhauskette in Finanznot: Galeria erhält Millionen-Kredit",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/berlin-galeria-kaufhauskette-kaufhaeuser-kredit-zahlungsschwierigkeiten.html",
+      "date": "Wed, 22 Apr 2026 11:04:48 +0200"
+    },
+    {
+      "title": "Etatlücke droht: Brandenburg muss hunderte Millionen Euro mehr an seine Beamten bezahlen",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/04/haushaltsluecke-brandenburg-millionen-beamte-urteil-bundesverfassungsgericht-brandenburg.html",
+      "date": "Wed, 22 Apr 2026 10:27:34 +0200"
+    },
+    {
       "title": "Jobmesse in Neuhardenberg am Samstag erwartet rund 100 Arbeitgeber",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/brandenburg-flugplatz-neuhardenberg-jobmesse-maerkisch-oderland.html",
       "date": "Wed, 22 Apr 2026 10:14:42 +0200"
@@ -16,11 +36,6 @@
       "date": "Wed, 22 Apr 2026 08:24:50 +0200"
     },
     {
-      "title": "Etatlücke droht: Brandenburg muss hunderte Millionen Euro mehr an seine Beamten bezahlen",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/04/haushaltsluecke-brandenburg-millionen-beamte-urteil-bundesverfassungsgericht-brandenburg.html",
-      "date": "Wed, 22 Apr 2026 08:21:00 +0200"
-    },
-    {
       "title": "Die Lyriden kommen: Sternschnuppen-Sichtungen sind möglich",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/interview-lyriden-sternschnuppen-feuerkugeln-berlin-brandenburg.html",
       "date": "Wed, 22 Apr 2026 06:37:22 +0200"
@@ -28,30 +43,20 @@
     {
       "title": "Mieten, Vergaberecht, Verkehr: Diese Projekte will Schwarz-Rot in Berlin noch umsetzen",
       "link": "https://www.rbb24.de/politik/beitrag/2026/04/koalitionsklausur-berlin-senat-cdu-spd-saleh-stettner-mieten.html",
-      "date": "Tue, 21 Apr 2026 22:55:42 +0200"
+      "date": "Tue, 21 Apr 2026 22:55:00 +0200"
     },
     {
       "title": "Der legendäre Wegbereiter: Dirk Nowitzki in Hall of Fame aufgenommen",
       "link": "https://www.rbb24.de/sport/beitrag/2026/04/basketball-fiba-hall-of-fame-dirk-nowitzki-dallas-mavericks-nba-alba-berlin.html",
       "date": "Tue, 21 Apr 2026 22:01:57 +0200"
-    },
-    {
-      "title": "Deutsche Basketballerinnen mit Losglück vor der Heim-WM in Berlin",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/04/basketball-frauen-wm-berlin-2026-auslosung-deutsche-nationalmannschaft-dbb-team-usa.html",
-      "date": "Tue, 21 Apr 2026 19:33:42 +0200"
-    },
-    {
-      "title": "BVG: Tram-Linien M1 und 12 ab August monatelang unterbrochen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-bvg-tram-linien-bauarbeiten-m1-12-ersatzverkehr-busse-vier-monate.html",
-      "date": "Tue, 21 Apr 2026 19:18:52 +0200"
-    },
-    {
-      "title": "Angriffe auf Lehrer: Beleidungen und Bedrohung sind Problem",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/polizeistatistik-schulen-gewalt-gegen-lehrer-.html",
-      "date": "Tue, 21 Apr 2026 18:57:00 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Junge Frau vermisst – Polizei bittet um Mithilfe",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1663350.php",
+      "date": "Wed, 22 Apr 2026 11:13:24 +0200"
+    },
     {
       "title": "Frau bei Wohnungsbrand verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1663011.php",
@@ -96,11 +101,6 @@
       "title": "Anwohner beraubt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662252.php",
       "date": "Sun, 19 Apr 2026 14:33:16 +0200"
-    },
-    {
-      "title": "Info-Stand einer Partei attackiert",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662250.php",
-      "date": "Sun, 19 Apr 2026 14:13:15 +0200"
     }
   ],
   "free_events": [],
