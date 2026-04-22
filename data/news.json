@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Frauen-Bundesliga: FC Bayern erkämpft sich bei Union die Meisterschaft",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-frauen-bundesliga-fc-union-berlin-fc-bayern-muenchen-meisterschaft.html",
+      "date": "Wed, 22 Apr 2026 20:15:51 +0200"
+    },
+    {
       "title": "Feuer am Kraftwerk Lichterfelde führt zu Geruchsbelästigung",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-kraftwerk-lichterfelde-brand-feuerwehr-rauch.html",
       "date": "Wed, 22 Apr 2026 19:25:28 +0200"
@@ -44,11 +49,6 @@
       "title": "PCK-Raffinerie: Moskau stoppt Öl-Lieferung aus Kasachstan",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/brandenburg-pck-oel-lieferstopp-russland-pipeline-druschba-kasachstan.html",
       "date": "Wed, 22 Apr 2026 16:13:02 +0200"
-    },
-    {
-      "title": "Hertha-Zeugwart Herzog wehrt sich gerichtlich gegen Kündigung",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-hertha-bsc-hendrik-herzog-kuendigung-klage-gericht.html",
-      "date": "Wed, 22 Apr 2026 15:58:06 +0200"
     }
   ],
   "police": [
