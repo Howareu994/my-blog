@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Feuer am Kraftwerk Lichterfelde führt zu Geruchsbelästigung",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-kraftwerk-lichterfelde-brand-feuerwehr-rauch.html",
+      "date": "Wed, 22 Apr 2026 19:25:28 +0200"
+    },
+    {
+      "title": "Blücherplatz am Halleschen Tor soll zum Eva-Mamlok-Platz werden",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-kreuzberg-bluecherplatz-umbenennung-eva-mamlok-platz-bezirk.html",
+      "date": "Wed, 22 Apr 2026 19:04:13 +0200"
+    },
+    {
       "title": "Lebenslange Haftstrafe nach tödlichem Messerangriff in Neukölln",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-neukoelln-mord-lebenslange-haftstrafe.html",
       "date": "Wed, 22 Apr 2026 18:36:12 +0200"
@@ -9,11 +19,6 @@
       "title": "Berliner Stiftung will 600 Schädel aus Kolonialzeit rückführen",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/04/stiftung-preussischer-kulturbesitz-museum-berlin-schaedel-rueckgabe-kolonialismus.html",
       "date": "Wed, 22 Apr 2026 18:14:50 +0200"
-    },
-    {
-      "title": "Feuer am Kraftwerk Lichterfelde führt zu Geruchsbelästigung",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-kraftwerk-lichterfelde-brand-feuerwehr-rauch.html",
-      "date": "Wed, 22 Apr 2026 18:06:05 +0200"
     },
     {
       "title": "Berlin bekommt vom Bund 16 Millionen Euro für Sportstätten-Sanierung",
@@ -44,11 +49,6 @@
       "title": "Hertha-Zeugwart Herzog wehrt sich gerichtlich gegen Kündigung",
       "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-hertha-bsc-hendrik-herzog-kuendigung-klage-gericht.html",
       "date": "Wed, 22 Apr 2026 15:58:06 +0200"
-    },
-    {
-      "title": "Mieten, Vergaberecht, Verkehr: Diese Projekte will Schwarz-Rot in Berlin noch umsetzen",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/04/koalitionsklausur-berlin-senat-cdu-spd-saleh-stettner-mieten.html",
-      "date": "Wed, 22 Apr 2026 15:57:36 +0200"
     }
   ],
   "police": [
