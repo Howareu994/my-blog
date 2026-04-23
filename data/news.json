@@ -1,6 +1,26 @@
 {
   "traffic": [
     {
+      "title": "Potsdam: Studierenden-Filmfestival \"Sehsüchte\" eröffnet",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/04/potsdam-aubel-filmfestival-studierende-sehsuechte-waschhaus-hans-otto-theater.html",
+      "date": "Thu, 23 Apr 2026 10:33:06 +0200"
+    },
+    {
+      "title": "Ostprignitz-Ruppin: 61-Jähriger stirbt bei Unfall auf Landstraße",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/unfall-landstrasse-neuruppin-ostprignitz-ruppin-feuerwehr-polizei.html",
+      "date": "Thu, 23 Apr 2026 10:15:08 +0200"
+    },
+    {
+      "title": "Weiter Rolltreppenprobleme am Bahnhof Südkreuz",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/weiter-rolltreppenprobleme-bahnhof-suedkreuz.html",
+      "date": "Thu, 23 Apr 2026 09:13:08 +0200"
+    },
+    {
+      "title": "Fördergeld-Affäre: Berliner Rechnungshof sieht \"evident rechtswidriges\" Handeln",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/04/foerdergeld-affaere-berlin-landesrechnungshofkulturverwaltung-schwere-fehler.html",
+      "date": "Thu, 23 Apr 2026 09:03:32 +0200"
+    },
+    {
       "title": "RE3 soll nicht mehr in Schwedt halten: Kommunalpolitiker protestiern",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/schwedt-uckermark-protest-regionalexpress-re3-deutsche-bahn.html",
       "date": "Thu, 23 Apr 2026 08:47:10 +0200"
@@ -9,11 +29,6 @@
       "title": "Eröffnung des Museums Berlin Modern verschiebt sich erneut",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/04/eroeffnung-museum-berlin-modern-verschiebung-mitte-2030-feuchteschaeden.html",
       "date": "Thu, 23 Apr 2026 06:41:53 +0200"
-    },
-    {
-      "title": "Fördergeld-Affäre: Berliner Rechnungshof sieht \"evident rechtswidriges\" Handeln",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/04/foerdergeld-affaere-berlin-landesrechnungshofkulturverwaltung-schwere-fehler.html",
-      "date": "Thu, 23 Apr 2026 06:27:00 +0200"
     },
     {
       "title": "Regionalliga Nordost: Hertha 03 Zehlendorf verliert auch gegen Preussen",
@@ -34,21 +49,6 @@
       "title": "Feuer am Kraftwerk Lichterfelde führt zu Geruchsbelästigung",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-kraftwerk-lichterfelde-brand-feuerwehr-rauch.html",
       "date": "Wed, 22 Apr 2026 19:25:28 +0200"
-    },
-    {
-      "title": "Blücherplatz am Halleschen Tor soll zum Eva-Mamlok-Platz werden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-kreuzberg-bluecherplatz-umbenennung-eva-mamlok-platz-bezirk.html",
-      "date": "Wed, 22 Apr 2026 19:04:13 +0200"
-    },
-    {
-      "title": "Lebenslange Haftstrafe nach tödlichem Messerangriff in Neukölln",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-neukoelln-mord-lebenslange-haftstrafe.html",
-      "date": "Wed, 22 Apr 2026 18:36:12 +0200"
-    },
-    {
-      "title": "Berliner Stiftung will 600 Schädel aus Kolonialzeit rückführen",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/04/stiftung-preussischer-kulturbesitz-museum-berlin-schaedel-rueckgabe-kolonialismus.html",
-      "date": "Wed, 22 Apr 2026 18:14:50 +0200"
     }
   ],
   "police": [
