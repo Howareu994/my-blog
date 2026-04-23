@@ -1,6 +1,41 @@
 {
   "traffic": [
     {
+      "title": "Schah-Sohn Reza Pahlavi besucht Berlin - Demos laufen",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/04/iran-schah-sohn-reza-pahlavi-besucht-berlin.html",
+      "date": "Thu, 23 Apr 2026 13:27:46 +0200"
+    },
+    {
+      "title": "Chorin: 59-Jährige bei Auffahrunfall tödlich verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/unfall-verkehr-barnim-59-jaehrige-gestorben.html",
+      "date": "Thu, 23 Apr 2026 13:24:58 +0200"
+    },
+    {
+      "title": "Kampfmittelbeseitigung: Fünf Weltkriegsbomben in Potsdam unschädlich gemacht",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/potsdam-weltkrieg-bomben-gefunden-wildpark-wald-munitionssuche-entschaerfung.html",
+      "date": "Thu, 23 Apr 2026 13:16:36 +0200"
+    },
+    {
+      "title": "Rettungsdienst in Berlin soll entlastet werden",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/04/berlin-agh-novelle-rettungsdienstgesetz-beschlossen.html",
+      "date": "Thu, 23 Apr 2026 13:12:00 +0200"
+    },
+    {
+      "title": "RE3 soll nicht mehr in Schwedt halten: Kommunalpolitiker protestiern",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/schwedt-uckermark-protest-regionalexpress-re3-deutsche-bahn.html",
+      "date": "Thu, 23 Apr 2026 13:05:47 +0200"
+    },
+    {
+      "title": "Staatsschutz ermittelt nach zwei Fällen mutmaßlich rechter Gewalt in Cottbus",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/cottbus-angriff-pfarrerswohnung-staatsschutz-ermittelt.html",
+      "date": "Thu, 23 Apr 2026 13:02:55 +0200"
+    },
+    {
+      "title": "Fördergeld-Affäre: Linke fordert Entlassung von Kultursenatorin",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/04/berlin-reaktionen-kultursenatorin-wedl-wilson-foerdergeld-affaere-rechnungshof.html",
+      "date": "Thu, 23 Apr 2026 12:17:11 +0200"
+    },
+    {
       "title": "Flughafen BER: Notrutsche bei Rangelei vor Abschiebeflug ausgelöst",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/ber-abschiebung-abschiebeflug-randaliert-notrutsche-a320.html",
       "date": "Thu, 23 Apr 2026 11:58:28 +0200"
@@ -11,47 +46,17 @@
       "date": "Thu, 23 Apr 2026 11:51:06 +0200"
     },
     {
-      "title": "Schah-Sohn Reza Pahlavi besucht Berlin - Demos angekündigt",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/04/iran-schah-sohn-reza-pahlavi-besucht-berlin.html",
-      "date": "Thu, 23 Apr 2026 11:45:06 +0200"
-    },
-    {
       "title": "Grünheide: Tesla will 1.000 neue Arbeitsplätze schaffen",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/tesla-gruenheide-ausbau-produktion-1000-arbeitsplaetze.html",
       "date": "Thu, 23 Apr 2026 11:27:41 +0200"
-    },
-    {
-      "title": "Potsdam: Studierenden-Filmfestival \"Sehsüchte\" eröffnet",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/04/potsdam-aubel-filmfestival-studierende-sehsuechte-waschhaus-hans-otto-theater.html",
-      "date": "Thu, 23 Apr 2026 10:33:06 +0200"
-    },
-    {
-      "title": "Ostprignitz-Ruppin: 61-Jähriger stirbt bei Unfall auf Landstraße",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/unfall-landstrasse-neuruppin-ostprignitz-ruppin-feuerwehr-polizei.html",
-      "date": "Thu, 23 Apr 2026 10:15:08 +0200"
-    },
-    {
-      "title": "Weiter Rolltreppenprobleme am Bahnhof Südkreuz",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/weiter-rolltreppenprobleme-bahnhof-suedkreuz.html",
-      "date": "Thu, 23 Apr 2026 09:13:08 +0200"
-    },
-    {
-      "title": "Fördergeld-Affäre: Berliner Rechnungshof sieht \"evident rechtswidriges\" Handeln",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/04/foerdergeld-affaere-berlin-landesrechnungshofkulturverwaltung-schwere-fehler.html",
-      "date": "Thu, 23 Apr 2026 09:03:32 +0200"
-    },
-    {
-      "title": "RE3 soll nicht mehr in Schwedt halten: Kommunalpolitiker protestiern",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/schwedt-uckermark-protest-regionalexpress-re3-deutsche-bahn.html",
-      "date": "Thu, 23 Apr 2026 08:47:10 +0200"
-    },
-    {
-      "title": "Eröffnung des Museums Berlin Modern verschiebt sich erneut",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/04/eroeffnung-museum-berlin-modern-verschiebung-mitte-2030-feuchteschaeden.html",
-      "date": "Thu, 23 Apr 2026 06:41:53 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Mutter und Kind bei Verkehrsunfall verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1663971.php",
+      "date": "Thu, 23 Apr 2026 12:17:00 +0200"
+    },
     {
       "title": "Durchsuchungsbeschlüsse wegen Raubtaten vollstreckt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1663882.php",
@@ -96,11 +101,6 @@
       "title": "Auseinandersetzung mit Reizgas, Messer und Machete",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662469.php",
       "date": "Mon, 20 Apr 2026 11:32:07 +0200"
-    },
-    {
-      "title": "In den Rücken gestochen und ausgeraubt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662256.php",
-      "date": "Sun, 19 Apr 2026 16:33:33 +0200"
     }
   ],
   "free_events": [],
