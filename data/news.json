@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Museum Berlin Modern: Eröffnung verschiebt sich wohl auf 2030",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/04/eroeffnung-museum-berlin-modern-verschiebung-mitte-2030-feuchteschaeden.html",
+      "date": "Thu, 23 Apr 2026 17:58:07 +0200"
+    },
+    {
       "title": "2. Fußball-Bundesliga: Hertha BSC empfängt am Samstag Kiel",
       "link": "https://www.rbb24.de/sport/beitrag/2026/04/berlin-fussball-hertha-bsc-holstein-kiel-vorbericht-leitl.html",
       "date": "Thu, 23 Apr 2026 17:25:33 +0200"
@@ -44,11 +49,6 @@
       "title": "Fördergeld-Affäre: Chialo und Wedl-Wilson konnten laut Rechnungshof Vorwürfe nicht entkräften",
       "link": "https://www.rbb24.de/politik/beitrag/2026/04/berlin-reaktionen-kultursenatorin-wedl-wilson-foerdergeld-affaere-rechnungshof.html",
       "date": "Thu, 23 Apr 2026 15:35:09 +0200"
-    },
-    {
-      "title": "RE3 soll nicht mehr in Schwedt halten: Kommunalpolitiker protestiern",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/schwedt-uckermark-protest-regionalexpress-re3-deutsche-bahn.html",
-      "date": "Thu, 23 Apr 2026 15:10:43 +0200"
     }
   ],
   "police": [
