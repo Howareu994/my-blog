@@ -1,24 +1,44 @@
 {
   "traffic": [
     {
-      "title": "Bund fördert Sanierung von zwölf Brandenburger Sportstätten mit Millionenbetrag",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/04/bund-mittel-fuer-sanierung-sportstaetten-brandenburg.html",
-      "date": "Fri, 24 Apr 2026 13:55:15 +0200"
+      "title": "40 Jahre Tschernobyl-Katastrophe: Radioaktive Wolke über Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/tschernobyl-atom-reaktor-supergau-berlin-ddr-radioaktiv-akw.html",
+      "date": "Fri, 24 Apr 2026 14:54:36 +0200"
+    },
+    {
+      "title": "Görlitzer Park am 1. Mai auch nachts geöffnet - Grillen verboten",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-1-mai-goerlitzer-park-nachts-offen.html",
+      "date": "Fri, 24 Apr 2026 14:54:00 +0200"
+    },
+    {
+      "title": "Hisbollah-Anhänger in Berlin zu fast vier Jahren Haft verurteilt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-urteil-mann-hisbollah-libanon-terrorismusverdacht-radikalisierung.html",
+      "date": "Fri, 24 Apr 2026 14:49:28 +0200"
+    },
+    {
+      "title": "Schüsse in Neuköllner Hermannstraße gefallen - 27-Jähriger verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-hermannstrasse-polizeieinsatz-mutmasslich-schuss.html",
+      "date": "Fri, 24 Apr 2026 14:41:26 +0200"
+    },
+    {
+      "title": "Sedlitzer See im Lausitzer Seenland freigegeben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/brandenburg-lausitz-seenland-sedlitzer-see-freigegeben.html",
+      "date": "Fri, 24 Apr 2026 14:34:38 +0200"
     },
     {
       "title": "Flughafen BER: Ryanair kündigt Rückzug vom BER an",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/flughafen-ber-ryanair-rueckzug-weniger-fluege-schliessung-basis.html",
-      "date": "Fri, 24 Apr 2026 13:20:36 +0200"
+      "date": "Fri, 24 Apr 2026 14:21:48 +0200"
     },
     {
       "title": "DHL setzt zweites Solarboot in Berlin ein",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-dhl-zweites-solarboot-pakete-koepenick-osthafen.html",
-      "date": "Fri, 24 Apr 2026 13:00:28 +0200"
+      "date": "Fri, 24 Apr 2026 14:11:10 +0200"
     },
     {
-      "title": "40 Jahre Tschernobyl-Katastrophe: Radioaktive Wolke über Berlin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/tschernobyl-atom-reaktor-supergau-berlin-ddr-radioaktiv-akw.html",
-      "date": "Fri, 24 Apr 2026 12:51:06 +0200"
+      "title": "Bund fördert Sanierung von zwölf Brandenburger Sportstätten mit Millionenbetrag",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/04/bund-mittel-fuer-sanierung-sportstaetten-brandenburg.html",
+      "date": "Fri, 24 Apr 2026 13:55:15 +0200"
     },
     {
       "title": "Tschernobyl-Katastrophe: Ex-Umweltsenator Starnick im Interview",
@@ -29,29 +49,19 @@
       "title": "Insulinmangel: Berliner Mutter nach Tod ihres Kindes angeklagt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berliner-mutter-nach-tod-kind-sohn-insulinmangel-angeklagt.html",
       "date": "Fri, 24 Apr 2026 12:17:05 +0200"
-    },
-    {
-      "title": "Brandenburg plant mehr Schutz für Ordnungsamt-Beschäftigte",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/04/brandenburg-schutz-mitarbeitende-ordnungsamt-taser-schlagstoecke-bodycams.html",
-      "date": "Fri, 24 Apr 2026 11:52:29 +0200"
-    },
-    {
-      "title": "Theaterpremiere: \"Drei Schwestern\" am Berliner Ensemble",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/04/theater-drei-schwestern-berliner-ensemble-berlin.html",
-      "date": "Fri, 24 Apr 2026 11:44:50 +0200"
-    },
-    {
-      "title": "Fördergeld-Affäre: Berliner Kultursenatorin Wedl-Wilson zurückgetreten",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/04/berlin-kultursenatorin-wedl-wilson-ruecktritt-foerdergeld-affaere.html",
-      "date": "Fri, 24 Apr 2026 11:40:40 +0200"
-    },
-    {
-      "title": "Baumblütenfest in Werder (Havel) startet am Samstag",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/werder-baumbluetenfest-obstwein-tradition-havel-obst-bluete-fest.html",
-      "date": "Fri, 24 Apr 2026 11:19:40 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Junge Frau wieder da",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1663350.php",
+      "date": "Fri, 24 Apr 2026 14:32:00 +0200"
+    },
+    {
+      "title": "Unbekannter schießt auf 27-Jährigen – BAO Ferrum und Ermittlungsgruppe Telum ermitteln",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1664571.php",
+      "date": "Fri, 24 Apr 2026 14:01:00 +0200"
+    },
     {
       "title": "Geld geraubt und mehrere Personen mit Pfefferspray verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1664553.php",
@@ -91,16 +101,6 @@
       "title": "Mutter und Kind bei Verkehrsunfall verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1663971.php",
       "date": "Thu, 23 Apr 2026 12:17:00 +0200"
-    },
-    {
-      "title": "Durchsuchungsbeschlüsse wegen Raubtaten vollstreckt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1663882.php",
-      "date": "Thu, 23 Apr 2026 10:41:51 +0200"
-    },
-    {
-      "title": "Geschwindigkeitskontrollen im Rahmen der ROADPOL-Aktionswoche „Speedweek“ – Polizei Berlin zieht Bilanz",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1663534.php",
-      "date": "Wed, 22 Apr 2026 14:44:00 +0200"
     }
   ],
   "free_events": [],
