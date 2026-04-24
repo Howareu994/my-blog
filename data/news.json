@@ -1,9 +1,34 @@
 {
   "traffic": [
     {
-      "title": "Fördergeld-Affäre: Berliner Kultursenatorin Wedl-Wilson offenbar vor Rücktritt",
+      "title": "Berliner Jugendliche sollen mutmaßliche Pädophile überfallen haben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berliner-jugendliche-berauben-mutmasslich-paedophile-maenner.html",
+      "date": "Fri, 24 Apr 2026 10:56:28 +0200"
+    },
+    {
+      "title": "Fördergeld-Affäre: Berliner Kultursenatorin Wedl-Wilson zurückgetreten",
       "link": "https://www.rbb24.de/politik/beitrag/2026/04/berlin-kultursenatorin-wedl-wilson-ruecktritt-foerdergeld-affaere.html",
-      "date": "Fri, 24 Apr 2026 08:31:34 +0200"
+      "date": "Fri, 24 Apr 2026 10:54:18 +0200"
+    },
+    {
+      "title": "Kiki-Rockwell-Konzert in Berlin: Robina Hood in Ritterrüstung",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/04/konzert-kiki-rockwell-columbiatheater-berlin.html",
+      "date": "Fri, 24 Apr 2026 10:49:13 +0200"
+    },
+    {
+      "title": "Brandenburger AfD-Abgeordneter Gnauck: Immunität aufgehoben",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/04/brandenburg-bundestag-afd-abgeordneter-hannes-gnauck-immunitaet-aufgehoben.html",
+      "date": "Fri, 24 Apr 2026 10:45:24 +0200"
+    },
+    {
+      "title": "64 Jahre alter Autofahrer stirbt bei schwerem Unfall in Oberhavel",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/brandenburg-oberhavel-oranienburg-summt-unfall-verkehr-gestorben-polizei.html",
+      "date": "Fri, 24 Apr 2026 10:03:41 +0200"
+    },
+    {
+      "title": "Rivalität zwischen Eisbären und Adler: \"Es kracht immer ganz schön\"",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/04/eishockey-del-playoffs-finale-eisbaeren-berlin-adler-mannheim-rivalitaet-fans-interview.html",
+      "date": "Fri, 24 Apr 2026 08:45:20 +0200"
     },
     {
       "title": "Lausitz: Müllentsorger Alba und Verdi einigen sich auf neuen Tarifvertrag",
@@ -24,34 +49,14 @@
       "title": "Dank Bestwert von Keeper Milosavljev: Füchse schlagen Gummersbach",
       "link": "https://www.rbb24.de/sport/beitrag/2026/04/handball-bundesliga-fuechse-berlin-vfl-gummersbach-spielbericht.html",
       "date": "Thu, 23 Apr 2026 22:31:23 +0200"
-    },
-    {
-      "title": "Schüsse in Neuköllner Hermannstraße gefallen - ein Mann verletzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-hermannstrasse-polizeieinsatz-mutmasslich-schuss.html",
-      "date": "Thu, 23 Apr 2026 22:11:56 +0200"
-    },
-    {
-      "title": "Museum Berlin Modern: Eröffnung verschiebt sich wohl auf 2030",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/04/eroeffnung-museum-berlin-modern-verschiebung-mitte-2030-feuchteschaeden.html",
-      "date": "Thu, 23 Apr 2026 17:58:00 +0200"
-    },
-    {
-      "title": "2. Fußball-Bundesliga: Hertha BSC empfängt am Samstag Kiel",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/04/berlin-fussball-hertha-bsc-holstein-kiel-vorbericht-leitl.html",
-      "date": "Thu, 23 Apr 2026 17:25:33 +0200"
-    },
-    {
-      "title": "Berliner Hallenbäder heizen Becken wieder auf 27 Grad",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berliner-baeder-hallen-heizen-auf-27-grad.html",
-      "date": "Thu, 23 Apr 2026 17:24:53 +0200"
-    },
-    {
-      "title": "Schah-Sohn Reza Pahlavi besucht Berlin - Tausende demonstrieren",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/04/iran-schah-sohn-reza-pahlavi-besucht-berlin.html",
-      "date": "Thu, 23 Apr 2026 17:18:38 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Seniorin nach Verkehrsunfall verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1664313.php",
+      "date": "Fri, 24 Apr 2026 09:49:00 +0200"
+    },
     {
       "title": "Drei verletzte Beamte – Polizeihubschrauber im Einsatz",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1664172.php",
@@ -96,11 +101,6 @@
       "title": "Nach Verkehrsunfall – Fahrradfahrer verstorben",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662044.php",
       "date": "Tue, 21 Apr 2026 11:45:00 +0200"
-    },
-    {
-      "title": "Auseinandersetzung nach Fußballspiel",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662588.php",
-      "date": "Mon, 20 Apr 2026 13:59:10 +0200"
     }
   ],
   "free_events": [],
