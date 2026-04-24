@@ -1,14 +1,19 @@
 {
   "traffic": [
     {
+      "title": "Görlitzer Park am 1. Mai auch nachts geöffnet - Grillen verboten",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-1-mai-goerlitzer-park-nachts-offen.html",
+      "date": "Fri, 24 Apr 2026 15:56:47 +0200"
+    },
+    {
+      "title": "\"Quartier 206\" in Berlin-Mitte: Versteigerung vorerst gescheitert",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/berlin-amtsgericht-versteigerung-luxus-kaufhaus-immobilie-friedrichstrasse-quartier-206.html",
+      "date": "Fri, 24 Apr 2026 15:49:02 +0200"
+    },
+    {
       "title": "40 Jahre Tschernobyl-Katastrophe: Radioaktive Wolke über Berlin",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/tschernobyl-atom-reaktor-supergau-berlin-ddr-radioaktiv-akw.html",
       "date": "Fri, 24 Apr 2026 14:54:36 +0200"
-    },
-    {
-      "title": "Görlitzer Park am 1. Mai auch nachts geöffnet - Grillen verboten",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-1-mai-goerlitzer-park-nachts-offen.html",
-      "date": "Fri, 24 Apr 2026 14:54:00 +0200"
     },
     {
       "title": "Hisbollah-Anhänger in Berlin zu fast vier Jahren Haft verurteilt",
@@ -44,11 +49,6 @@
       "title": "Tschernobyl-Katastrophe: Ex-Umweltsenator Starnick im Interview",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/atom-reaktor-tschernobyl-berlin-radioaktiv-akw-supergau-starnick.html",
       "date": "Fri, 24 Apr 2026 12:50:28 +0200"
-    },
-    {
-      "title": "Insulinmangel: Berliner Mutter nach Tod ihres Kindes angeklagt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berliner-mutter-nach-tod-kind-sohn-insulinmangel-angeklagt.html",
-      "date": "Fri, 24 Apr 2026 12:17:05 +0200"
     }
   ],
   "police": [
