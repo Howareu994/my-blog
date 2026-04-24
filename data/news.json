@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Fußball-Bundesliga: Union Berlin bei RB Leipzig",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-bundesliga-rb-leipzig-union-berlin-spielbericht-audiostream-liveticker.html",
+      "date": "Fri, 24 Apr 2026 20:35:36 +0200"
+    },
+    {
+      "title": "Fördergeld-Affäre: Berliner Kultursenatorin Wedl-Wilson zurückgetreten",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/04/berlin-kultursenatorin-wedl-wilson-ruecktritt-foerdergeld-affaere.html",
+      "date": "Fri, 24 Apr 2026 20:26:09 +0200"
+    },
+    {
       "title": "Flughafen BER: Ryanair kündigt Rückzug vom BER an",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/flughafen-ber-ryanair-rueckzug-weniger-fluege-schliessung-basis.html",
       "date": "Fri, 24 Apr 2026 18:59:19 +0200"
@@ -39,16 +49,6 @@
       "title": "Görlitzer Park am 1. Mai auch nachts geöffnet - Grillen verboten",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-1-mai-goerlitzer-park-nachts-offen.html",
       "date": "Fri, 24 Apr 2026 15:56:00 +0200"
-    },
-    {
-      "title": "\"Quartier 206\" in Berlin-Mitte: Versteigerung vorerst gescheitert",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/berlin-amtsgericht-versteigerung-luxus-kaufhaus-immobilie-friedrichstrasse-quartier-206.html",
-      "date": "Fri, 24 Apr 2026 15:49:02 +0200"
-    },
-    {
-      "title": "40 Jahre Tschernobyl-Katastrophe: Radioaktive Wolke über Berlin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/tschernobyl-atom-reaktor-supergau-berlin-ddr-radioaktiv-akw.html",
-      "date": "Fri, 24 Apr 2026 14:54:36 +0200"
     }
   ],
   "police": [
