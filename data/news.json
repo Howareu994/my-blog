@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Bund fördert Sanierung von zwölf Brandenburger Sportstätten mit Millionenbetrag",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/04/bund-mittel-fuer-sanierung-sportstaetten-brandenburg.html",
+      "date": "Fri, 24 Apr 2026 13:55:15 +0200"
+    },
+    {
+      "title": "Flughafen BER: Ryanair kündigt Rückzug vom BER an",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/flughafen-ber-ryanair-rueckzug-weniger-fluege-schliessung-basis.html",
+      "date": "Fri, 24 Apr 2026 13:20:36 +0200"
+    },
+    {
+      "title": "DHL setzt zweites Solarboot in Berlin ein",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-dhl-zweites-solarboot-pakete-koepenick-osthafen.html",
+      "date": "Fri, 24 Apr 2026 13:00:28 +0200"
+    },
+    {
       "title": "40 Jahre Tschernobyl-Katastrophe: Radioaktive Wolke über Berlin",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/tschernobyl-atom-reaktor-supergau-berlin-ddr-radioaktiv-akw.html",
       "date": "Fri, 24 Apr 2026 12:51:06 +0200"
@@ -9,11 +24,6 @@
       "title": "Tschernobyl-Katastrophe: Ex-Umweltsenator Starnick im Interview",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/atom-reaktor-tschernobyl-berlin-radioaktiv-akw-supergau-starnick.html",
       "date": "Fri, 24 Apr 2026 12:50:28 +0200"
-    },
-    {
-      "title": "Flughafen BER: Ryanair kündigt Rückzug vom BER an",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/flughafen-ber-ryanair-rueckzug-weniger-fluege-schliessung-basis.html",
-      "date": "Fri, 24 Apr 2026 12:45:56 +0200"
     },
     {
       "title": "Insulinmangel: Berliner Mutter nach Tod ihres Kindes angeklagt",
@@ -39,19 +49,19 @@
       "title": "Baumblütenfest in Werder (Havel) startet am Samstag",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/werder-baumbluetenfest-obstwein-tradition-havel-obst-bluete-fest.html",
       "date": "Fri, 24 Apr 2026 11:19:40 +0200"
-    },
-    {
-      "title": "Entlassung von Wedl-Wilson: Fördergeld-Affäre bringt Kultursenatorin zu Fall",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/04/berlin-kultursenatorin-wedl-wilson-ruecktritt-foerdergeld-affaere-bilanz.html",
-      "date": "Fri, 24 Apr 2026 11:18:00 +0200"
-    },
-    {
-      "title": "Berliner Jugendliche sollen mutmaßliche Pädophile überfallen haben",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berliner-jugendliche-berauben-mutmasslich-paedophile-maenner.html",
-      "date": "Fri, 24 Apr 2026 10:56:28 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Geld geraubt und mehrere Personen mit Pfefferspray verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1664553.php",
+      "date": "Fri, 24 Apr 2026 13:30:00 +0200"
+    },
+    {
+      "title": "Festnahmen nach Raubüberfällen auf Spätverkaufsstellen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1664549.php",
+      "date": "Fri, 24 Apr 2026 13:27:00 +0200"
+    },
     {
       "title": "Allgemeinverfügung zum 1. Mai 2026 – Einschränkungen im Bereich Treptower Park",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1664400.php",
@@ -91,16 +101,6 @@
       "title": "Geschwindigkeitskontrollen im Rahmen der ROADPOL-Aktionswoche „Speedweek“ – Polizei Berlin zieht Bilanz",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1663534.php",
       "date": "Wed, 22 Apr 2026 14:44:00 +0200"
-    },
-    {
-      "title": "Junge Frau vermisst – Polizei bittet um Mithilfe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1663350.php",
-      "date": "Wed, 22 Apr 2026 11:13:24 +0200"
-    },
-    {
-      "title": "Frau bei Wohnungsbrand verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1663011.php",
-      "date": "Tue, 21 Apr 2026 14:02:00 +0200"
     }
   ],
   "free_events": [],
