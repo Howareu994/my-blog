@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Schwimm-DM: Brandenburger Imoudu mit neuem deutschen Rekord",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/04/schwimmen-dm-melvin-imoudu-deutscher-rekord-50-meter-brust.html",
+      "date": "Sat, 25 Apr 2026 20:02:24 +0200"
+    },
+    {
       "title": "Parteitag vor AGH-Wahl: Berliner Linke will mit Miet-Themen punkten",
       "link": "https://www.rbb24.de/politik/beitrag/2026/04/berlin-linke-landesparteitag-vorbereitung-wahlkampf.html",
       "date": "Sat, 25 Apr 2026 19:12:34 +0200"
@@ -44,11 +49,6 @@
       "title": "Fördergeld-Affäre: Verbände sehen Kulturförderung in Gefahr",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/04/berlin-ruecktritt-wedl-wilson-kulturfoerderung-gefahr.html",
       "date": "Sat, 25 Apr 2026 13:23:00 +0200"
-    },
-    {
-      "title": "Rigaer Straße: Angriff auf Polizisten",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/rigaer-strasse-polizisten-angriff.html",
-      "date": "Sat, 25 Apr 2026 12:06:10 +0200"
     }
   ],
   "police": [
