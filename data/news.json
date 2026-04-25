@@ -1,9 +1,24 @@
 {
   "traffic": [
     {
+      "title": "Stichwahl: Fürstenwalde wählt ein neues Stadtoberhaupt",
+      "link": "https://www.rbb24.de/politik/wahl/brandenburg-buergermeisterwahlen/2026/stiwchwahl-buergermeister-fuerstenwalde-rudolph-papendieck.html",
+      "date": "Sat, 25 Apr 2026 11:21:38 +0200"
+    },
+    {
+      "title": "Flughafen BER: Ryanair kündigt Rückzug vom BER an",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/flughafen-ber-ryanair-rueckzug-weniger-fluege-schliessung-basis.html",
+      "date": "Sat, 25 Apr 2026 10:32:17 +0200"
+    },
+    {
       "title": "Union Berlin: Etas Ideen scheitern in Leipzig an der Mannschaft",
       "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-bundesliga-union-berlin-leipzig-eta-taktik.html",
-      "date": "Sat, 25 Apr 2026 08:54:00 +0200"
+      "date": "Sat, 25 Apr 2026 10:27:20 +0200"
+    },
+    {
+      "title": "Medizinstudium in Cottbus: Landarztquote soll Mangel beheben",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/04/brandenburg-medizin-studienplatz-vergabe-landarzt-mangel.html",
+      "date": "Sat, 25 Apr 2026 10:19:55 +0200"
     },
     {
       "title": "Wetter: Sonniges Frühlingswochenende in Berlin und Brandenburg",
@@ -21,19 +36,9 @@
       "date": "Sat, 25 Apr 2026 07:15:01 +0200"
     },
     {
-      "title": "Medizinstudium in Cottbus: Landarztquote soll Mangel beheben",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/04/brandenburg-medizin-studienplatz-vergabe-landarzt-mangel.html",
-      "date": "Sat, 25 Apr 2026 07:14:59 +0200"
-    },
-    {
       "title": "Bundesliga: Fehlerhaftes Union verliert klar bei RB Leipzig",
       "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-bundesliga-rb-leipzig-union-berlin-spielbericht-audiostream-liveticker.html",
       "date": "Fri, 24 Apr 2026 23:06:08 +0200"
-    },
-    {
-      "title": "7:3 in Mannheim: Effektive Eisbären machen ersten Schritt zum Titel",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/04/eishockey-del-playoffs-finale-adler-mannheim-eisbaeren-berlin.html",
-      "date": "Fri, 24 Apr 2026 22:32:00 +0200"
     },
     {
       "title": "Fußball: Altglienicke verliert in Greifswald, Dynamo gegen Lok",
@@ -44,14 +49,19 @@
       "title": "Fördergeld-Affäre: Berliner Kultursenatorin Wedl-Wilson zurückgetreten",
       "link": "https://www.rbb24.de/politik/beitrag/2026/04/berlin-kultursenatorin-wedl-wilson-ruecktritt-foerdergeld-affaere.html",
       "date": "Fri, 24 Apr 2026 20:38:23 +0200"
-    },
-    {
-      "title": "Flughafen BER: Ryanair kündigt Rückzug vom BER an",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/flughafen-ber-ryanair-rueckzug-weniger-fluege-schliessung-basis.html",
-      "date": "Fri, 24 Apr 2026 18:59:19 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Polizist nach Steinwürfen verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1664735.php",
+      "date": "Sat, 25 Apr 2026 11:21:23 +0200"
+    },
+    {
+      "title": "Mann mit Böller beworfen und verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1664734.php",
+      "date": "Sat, 25 Apr 2026 11:05:10 +0200"
+    },
     {
       "title": "Junge Frau wieder da",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1663350.php",
@@ -91,16 +101,6 @@
       "title": "Mutmaßlicher Wohnungseinbrecher festgenommen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1664097.php",
       "date": "Thu, 23 Apr 2026 15:32:39 +0200"
-    },
-    {
-      "title": "Autofahrer fährt gegen geparkten Pkw",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1664040.php",
-      "date": "Thu, 23 Apr 2026 13:04:00 +0200"
-    },
-    {
-      "title": "Mutter und Kind bei Verkehrsunfall verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1663971.php",
-      "date": "Thu, 23 Apr 2026 12:17:00 +0200"
     }
   ],
   "free_events": [],
