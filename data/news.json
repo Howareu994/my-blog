@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Parteitag vor AGH-Wahl: Berliner Linke will mit Miet-Themen punkten",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/04/berlin-linke-landesparteitag-vorbereitung-wahlkampf.html",
+      "date": "Sat, 25 Apr 2026 19:12:34 +0200"
+    },
+    {
+      "title": "Eisbären Berlin: Ticketfrust wegen digitaler Dauerkarte",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/04/eisbaeren-eishockey-del-tickets-elektronisch-dauerkarte-axs-app.html",
+      "date": "Sat, 25 Apr 2026 18:45:22 +0200"
+    },
+    {
       "title": "Berliner BSW beschließt Programm für Abgeordnetenhauswahl",
       "link": "https://www.rbb24.de/politik/wahl/abgeordnetenhaus/agh-2026/beitraege/berlin-bsw-parteitag-programm-beschluss-agh-wahl.html",
       "date": "Sat, 25 Apr 2026 17:32:30 +0200"
@@ -39,16 +49,6 @@
       "title": "Rigaer Straße: Angriff auf Polizisten",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/rigaer-strasse-polizisten-angriff.html",
       "date": "Sat, 25 Apr 2026 12:06:10 +0200"
-    },
-    {
-      "title": "Berlin-Lichtenberg: Mann wirft Böller auf Supermarkt-Security",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-lichtenberg-supermarkt-angriff-boeller.html",
-      "date": "Sat, 25 Apr 2026 11:59:30 +0200"
-    },
-    {
-      "title": "Union Berlin: Etas Ideen scheitern in Leipzig an der Mannschaft",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-bundesliga-union-berlin-leipzig-eta-taktik.html",
-      "date": "Sat, 25 Apr 2026 10:27:20 +0200"
     }
   ],
   "police": [
