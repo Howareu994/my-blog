@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Rigaer Straße: Angriff auf Polizisten",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/rigaer-strasse-polizisten-angriff.html",
+      "date": "Sat, 25 Apr 2026 12:06:10 +0200"
+    },
+    {
+      "title": "Berlin-Lichtenberg: Mann wirft Böller auf Supermarkt-Security",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-lichtenberg-supermarkt-angriff-boeller.html",
+      "date": "Sat, 25 Apr 2026 11:59:30 +0200"
+    },
+    {
       "title": "Stichwahl: Fürstenwalde wählt ein neues Stadtoberhaupt",
       "link": "https://www.rbb24.de/politik/wahl/brandenburg-buergermeisterwahlen/2026/stiwchwahl-buergermeister-fuerstenwalde-rudolph-papendieck.html",
       "date": "Sat, 25 Apr 2026 11:21:38 +0200"
@@ -39,16 +49,6 @@
       "title": "Bundesliga: Fehlerhaftes Union verliert klar bei RB Leipzig",
       "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-bundesliga-rb-leipzig-union-berlin-spielbericht-audiostream-liveticker.html",
       "date": "Fri, 24 Apr 2026 23:06:08 +0200"
-    },
-    {
-      "title": "Fußball: Altglienicke verliert in Greifswald, Dynamo gegen Lok",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-regionalliga-nordost-greifswald-altglienicke-bfc-dynamo-lok-leipzig.html",
-      "date": "Fri, 24 Apr 2026 21:33:07 +0200"
-    },
-    {
-      "title": "Fördergeld-Affäre: Berliner Kultursenatorin Wedl-Wilson zurückgetreten",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/04/berlin-kultursenatorin-wedl-wilson-ruecktritt-foerdergeld-affaere.html",
-      "date": "Fri, 24 Apr 2026 20:38:23 +0200"
     }
   ],
   "police": [
