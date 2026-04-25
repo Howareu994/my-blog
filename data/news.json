@@ -1,6 +1,26 @@
 {
   "traffic": [
     {
+      "title": "Berliner BSW beschließt Programm für Abgeordnetenhauswahl",
+      "link": "https://www.rbb24.de/politik/wahl/abgeordnetenhaus/agh-2026/beitraege/berlin-bsw-parteitag-programm-beschluss-agh-wahl.html",
+      "date": "Sat, 25 Apr 2026 17:32:30 +0200"
+    },
+    {
+      "title": "Hertha 03 taumelt nach 2:4 in Leipzig weiter Richtung Abstieg",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-regionalliga-nordost-chemie-leipzig-hertha-03-zehlendorf.html",
+      "date": "Sat, 25 Apr 2026 17:24:04 +0200"
+    },
+    {
+      "title": "Flughafen BER: Ryanair kündigt Rückzug vom BER an",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/flughafen-ber-ryanair-rueckzug-weniger-fluege-schliessung-basis.html",
+      "date": "Sat, 25 Apr 2026 16:55:12 +0200"
+    },
+    {
+      "title": "Jugendclub in Marzahn: 15 Verletzte nach Reizgas-Attacke",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-polizei-marzahn-reizgas-attacke-jugendclub.html",
+      "date": "Sat, 25 Apr 2026 16:52:24 +0200"
+    },
+    {
       "title": "Starke Hertha geht leer aus gegen Holstein Kiel",
       "link": "https://www.rbb24.de/sport/beitrag/2026/04/2-liga-hertha-bsc-holstein-kiel-live-audiostream-aufstiegskampf-.html",
       "date": "Sat, 25 Apr 2026 16:33:48 +0200"
@@ -26,29 +46,9 @@
       "date": "Sat, 25 Apr 2026 11:59:30 +0200"
     },
     {
-      "title": "Flughafen BER: Ryanair kündigt Rückzug vom BER an",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/flughafen-ber-ryanair-rueckzug-weniger-fluege-schliessung-basis.html",
-      "date": "Sat, 25 Apr 2026 10:32:17 +0200"
-    },
-    {
       "title": "Union Berlin: Etas Ideen scheitern in Leipzig an der Mannschaft",
       "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-bundesliga-union-berlin-leipzig-eta-taktik.html",
       "date": "Sat, 25 Apr 2026 10:27:20 +0200"
-    },
-    {
-      "title": "Medizinstudium in Cottbus: Landarztquote soll Mangel beheben",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/04/brandenburg-medizin-studienplatz-vergabe-landarzt-mangel.html",
-      "date": "Sat, 25 Apr 2026 10:19:55 +0200"
-    },
-    {
-      "title": "Wetter: Sonniges Frühlingswochenende in Berlin und Brandenburg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/wetter-temperaturen-fruehling-sonne-berlin-brandenburg.html",
-      "date": "Sat, 25 Apr 2026 08:47:41 +0200"
-    },
-    {
-      "title": "Landesparteitag: Berliner Linke stimmt sich auf den Wahlkampf ein",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/04/berlin-linke-landesparteitag-vorbereitung-wahlkampf.html",
-      "date": "Sat, 25 Apr 2026 07:15:04 +0200"
     }
   ],
   "police": [
