@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Starke Hertha geht leer aus gegen Holstein Kiel",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/04/2-liga-hertha-bsc-holstein-kiel-live-audiostream-aufstiegskampf-.html",
+      "date": "Sat, 25 Apr 2026 15:43:17 +0200"
+    },
+    {
       "title": "Stichwahl: Fürstenwalde wählt ein neues Stadtoberhaupt",
       "link": "https://www.rbb24.de/politik/wahl/brandenburg-buergermeisterwahlen/2026/stiwchwahl-buergermeister-fuerstenwalde-rudolph-papendieck.html",
       "date": "Sat, 25 Apr 2026 13:49:09 +0200"
@@ -9,11 +14,6 @@
       "title": "Fördergeld-Affäre: Verbände sehen Kulturförderung in Gefahr",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/04/berlin-ruecktritt-wedl-wilson-kulturfoerderung-gefahr.html",
       "date": "Sat, 25 Apr 2026 13:23:00 +0200"
-    },
-    {
-      "title": "2. Fußball-Bundesliga: Hertha BSC empfängt Holstein Kiel",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/04/2-liga-hertha-bsc-holstein-kiel-live-audiostream-aufstiegskampf-.html",
-      "date": "Sat, 25 Apr 2026 12:55:00 +0200"
     },
     {
       "title": "Rigaer Straße: Angriff auf Polizisten",
@@ -52,6 +52,11 @@
     }
   ],
   "police": [
+    {
+      "title": "Kind von Autofahrer angefahren",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1664738.php",
+      "date": "Sat, 25 Apr 2026 15:05:13 +0200"
+    },
     {
       "title": "Reizgas in Jugendclub versprüht",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1664737.php",
@@ -96,11 +101,6 @@
       "title": "Allgemeinverfügung zum 1. Mai 2026 – Einschränkungen im Bereich Treptower Park",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1664400.php",
       "date": "Fri, 24 Apr 2026 11:16:40 +0200"
-    },
-    {
-      "title": "Seniorin nach Verkehrsunfall verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1664313.php",
-      "date": "Fri, 24 Apr 2026 09:49:00 +0200"
     }
   ],
   "free_events": [],
