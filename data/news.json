@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Landesparteitag: Berliner Linke stimmt sich auf den Wahlkampf ein",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/04/berlin-linke-landesparteitag-vorbereitung-wahlkampf.html",
+      "date": "Sat, 25 Apr 2026 07:15:04 +0200"
+    },
+    {
+      "title": "Filmteam dreht in Senftenberg zweiten Teil des \"Krimi aus Brandenburg\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/brandenburg-krimi-dreharbeiten-senftenberg-sorben.html",
+      "date": "Sat, 25 Apr 2026 07:15:01 +0200"
+    },
+    {
+      "title": "Medizinstudium in Cottbus: Landarztquote soll Mangel beheben",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/04/brandenburg-medizin-studienplatz-vergabe-landarzt-mangel.html",
+      "date": "Sat, 25 Apr 2026 07:14:59 +0200"
+    },
+    {
       "title": "Bundesliga: Fehlerhaftes Union verliert klar bei RB Leipzig",
       "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-bundesliga-rb-leipzig-union-berlin-spielbericht-audiostream-liveticker.html",
       "date": "Fri, 24 Apr 2026 23:06:08 +0200"
@@ -8,7 +23,7 @@
     {
       "title": "7:3 in Mannheim: Effektive Eisbären machen ersten Schritt zum Titel",
       "link": "https://www.rbb24.de/sport/beitrag/2026/04/eishockey-del-playoffs-finale-adler-mannheim-eisbaeren-berlin.html",
-      "date": "Fri, 24 Apr 2026 22:32:11 +0200"
+      "date": "Fri, 24 Apr 2026 22:32:00 +0200"
     },
     {
       "title": "Fußball: Altglienicke verliert in Greifswald, Dynamo gegen Lok",
@@ -34,21 +49,6 @@
       "title": "Fahrschulen in Berlin plötzlich zu: Fahrschüler bangen um Geld",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/fahrschulen-berlin-schueler-pakete-buchungen-geld.html",
       "date": "Fri, 24 Apr 2026 17:52:00 +0200"
-    },
-    {
-      "title": "Cottbus vor dem Spiel in Köln: Gibt es wieder ein Torspektakel?",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-3-liga-energie-cottbus-vorbericht-viktoria-koeln-wollitz.html",
-      "date": "Fri, 24 Apr 2026 17:33:42 +0200"
-    },
-    {
-      "title": "Strausberg: Nachsorgeklinik am Straussee eröffnet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/nachsorgeklinik-strausberg-kinder-familien-straussee-eroeffnet.html",
-      "date": "Fri, 24 Apr 2026 17:31:21 +0200"
-    },
-    {
-      "title": "\"Fridays for Future\": Hunderte protestieren gegen Klima-Politik",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-demonstration-fridays-for-future-parteizentralen-cdu-spd-klima.html",
-      "date": "Fri, 24 Apr 2026 17:18:51 +0200"
     }
   ],
   "police": [
