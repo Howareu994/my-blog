@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Fördergeld-Affäre: Verbände sehen Kulturförderung in Gefahr",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/04/berlin-ruecktritt-wedl-wilson-kulturfoerderung-gefahr.html",
+      "date": "Sat, 25 Apr 2026 13:23:00 +0200"
+    },
+    {
+      "title": "2. Fußball-Bundesliga: Hertha BSC empfängt Holstein Kiel",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/04/2-liga-hertha-bsc-holstein-kiel-live-audiostream-aufstiegskampf-.html",
+      "date": "Sat, 25 Apr 2026 12:55:58 +0200"
+    },
+    {
       "title": "Rigaer Straße: Angriff auf Polizisten",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/rigaer-strasse-polizisten-angriff.html",
       "date": "Sat, 25 Apr 2026 12:06:10 +0200"
@@ -39,19 +49,14 @@
       "title": "Landesparteitag: Berliner Linke stimmt sich auf den Wahlkampf ein",
       "link": "https://www.rbb24.de/politik/beitrag/2026/04/berlin-linke-landesparteitag-vorbereitung-wahlkampf.html",
       "date": "Sat, 25 Apr 2026 07:15:04 +0200"
-    },
-    {
-      "title": "Filmteam dreht in Senftenberg zweiten Teil des \"Krimi aus Brandenburg\"",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/brandenburg-krimi-dreharbeiten-senftenberg-sorben.html",
-      "date": "Sat, 25 Apr 2026 07:15:01 +0200"
-    },
-    {
-      "title": "Bundesliga: Fehlerhaftes Union verliert klar bei RB Leipzig",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-bundesliga-rb-leipzig-union-berlin-spielbericht-audiostream-liveticker.html",
-      "date": "Fri, 24 Apr 2026 23:06:08 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Gegen Baum gefahren",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1664736.php",
+      "date": "Sat, 25 Apr 2026 13:21:34 +0200"
+    },
     {
       "title": "Polizist nach Steinwürfen verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1664735.php",
@@ -96,11 +101,6 @@
       "title": "Drei verletzte Beamte – Polizeihubschrauber im Einsatz",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1664172.php",
       "date": "Thu, 23 Apr 2026 17:00:04 +0200"
-    },
-    {
-      "title": "Mutmaßlicher Wohnungseinbrecher festgenommen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1664097.php",
-      "date": "Thu, 23 Apr 2026 15:32:39 +0200"
     }
   ],
   "free_events": [],
