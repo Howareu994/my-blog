@@ -1,9 +1,24 @@
 {
   "traffic": [
     {
+      "title": "BBL: Alba Berlin dominiert Frankfurt und festigt Platz zwei",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/04/basketball-bundesliga-bbl-skyliners-frankfurt-alba-berlin-spielbericht.html",
+      "date": "Sun, 26 Apr 2026 20:19:21 +0200"
+    },
+    {
+      "title": "Nach Stichwahl: Amtsinhaber Rudolph bleibt Bürgermeister von Fürstenwalde",
+      "link": "https://www.rbb24.de/politik/wahl/brandenburg-buergermeisterwahlen/2026/stiwchwahl-buergermeister-fuerstenwalde-rudolph-papendieck.html",
+      "date": "Sun, 26 Apr 2026 20:11:15 +0200"
+    },
+    {
       "title": "Paul Köhne setzt sich bei Bürgermeisterwahl durch",
       "link": "https://www.rbb24.de/politik/wahl/brandenburg-buergermeisterwahlen/2026/spree-neisse-drebkau-buergermeister-kandidaten-koehne-serb.html",
-      "date": "Sun, 26 Apr 2026 19:29:44 +0200"
+      "date": "Sun, 26 Apr 2026 19:55:00 +0200"
+    },
+    {
+      "title": "VBL-Playoffs: BR Volleys folgen Lüneburg ins Finale",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/04/volleyball-vbl-playoffs-halbfinale-spiel-drei-br-volleys-vfb-friedrichshafen-finale-spielbericht.html",
+      "date": "Sun, 26 Apr 2026 19:34:32 +0200"
     },
     {
       "title": "DEL-Finale: Hellwache Eisbären lassen Mannheim erneut verzweifeln",
@@ -34,21 +49,6 @@
       "title": "2. Fußball-Bundesliga: Turbine gewinnt gegen Tabellenletzten",
       "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-zweite-bundesliga-frauen-viktoria-berlin-eintracht-frankfurt-ii-turbine-potsdam-vfr-warbeyen-spielbericht.html",
       "date": "Sun, 26 Apr 2026 17:18:09 +0200"
-    },
-    {
-      "title": "Regionalliga: Babelsberg gewinnt Spektakel beim BFC Preussen",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-regionalliga-nordost-hallescher-fc-hertha-bsc-u23-bfc-preussen-sv-babelsberg-03-fsv-luckenwalde-zwickau-spielbericht.html",
-      "date": "Sun, 26 Apr 2026 17:16:51 +0200"
-    },
-    {
-      "title": "Berliner Senat führt Gespräche über Nachfolge für Wedl-Wilson",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/04/berlin-senat-kultur-nachfolge-debatte-wesl-wilson-richter-kotowski.html",
-      "date": "Sun, 26 Apr 2026 15:55:15 +0200"
-    },
-    {
-      "title": "Nach Sanierung: St.-Marien-Andreas-Kirche in Rathenow wiedereröffnet",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/04/sankt-marien-andreas-kirche-rathenow-einweihung-sanierung-wiederaufbau-staeblein.html",
-      "date": "Sun, 26 Apr 2026 15:23:56 +0200"
     }
   ],
   "police": [
