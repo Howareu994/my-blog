@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Bürgermeisterwahl in Strausberg für ungültig erklärt - Neuwahl",
+      "link": "https://www.rbb24.de/politik/wahl/brandenburg-buergermeisterwahlen/2026/strausberg-stadtverordnete-buergermeisterwahl-ungueltig-neuwahl.html",
+      "date": "Mon, 27 Apr 2026 21:35:37 +0200"
+    },
+    {
+      "title": "Umfrage: Brandenburger und Berliner wollen Rentenversicherung auch für Beamte",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/04/umfrage-rente-eintrittsalter-niveau-beamte-selbstaendige.html",
+      "date": "Mon, 27 Apr 2026 20:54:24 +0200"
+    },
+    {
       "title": "Mutmaßlich rechtsextreme Angriffe in Cottbus beschäftigen Staatsschutz",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/brandenburg-cottbus-angriffe-alternatives-wohnprojekt-synagoge-pfarrer-polizei.html",
       "date": "Mon, 27 Apr 2026 17:36:00 +0200"
@@ -9,11 +19,6 @@
       "title": "800 Jahre Tradition: Fischerei Köllnitz vor Insolvenzverfahren",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/brandenburg-fischerei-naturgut-koellnitz-gross-schauen-see-insolvenz.html",
       "date": "Mon, 27 Apr 2026 17:34:37 +0200"
-    },
-    {
-      "title": "Zum 100. Geburtstag: Günter-de-Bruyn-Haus in Beeskow eröffnet",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/04/brandenburg-beeskow-schriftsteller-guenter-de-bruyn-haus-stiftung-eroeffnung.html",
-      "date": "Mon, 27 Apr 2026 16:49:10 +0200"
     },
     {
       "title": "Berlin: Bezirk und Vereine streiten über Mommsenstadion-Sperrung",
@@ -44,65 +49,9 @@
       "title": "Anschlag in Berlin geplant: 23 Jahre alter Syrer gesteht vor Gericht",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/prozess-landgericht-berlin-anschlag-geplant-terrormiliz-is.html",
       "date": "Mon, 27 Apr 2026 14:47:51 +0200"
-    },
-    {
-      "title": "Erneut rechtsextreme Schmiererei an Cottbuser Synagoge",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/synagoge-cottbus-rechtsextreme-schmierereien-staatsschutz-ermittelt.html",
-      "date": "Mon, 27 Apr 2026 14:38:56 +0200"
     }
   ],
-  "police": [
-    {
-      "title": "Schüsse auf Fahrschule",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1665281.php",
-      "date": "Mon, 27 Apr 2026 17:33:39 +0200"
-    },
-    {
-      "title": "Vielzahl an Straftaten bei Flucht vor Polizei",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1665265.php",
-      "date": "Mon, 27 Apr 2026 17:12:30 +0200"
-    },
-    {
-      "title": "Vormals Gesuchter gilt nicht mehr als vermisst",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2025/pressemitteilung.1584373.php",
-      "date": "Mon, 27 Apr 2026 16:21:00 +0200"
-    },
-    {
-      "title": "Ermittlungen wegen des Verdachts des versuchten Mordes - Mordkommission sucht Zeugen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1664741.php",
-      "date": "Mon, 27 Apr 2026 16:10:00 +0200"
-    },
-    {
-      "title": "Handyortung überführt mutmaßlichen Räuber",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1665087.php",
-      "date": "Mon, 27 Apr 2026 14:45:55 +0200"
-    },
-    {
-      "title": "E-Roller-Unfall mit zwei verletzten Kindern",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1664893.php",
-      "date": "Mon, 27 Apr 2026 11:05:55 +0200"
-    },
-    {
-      "title": "Fahrzeug geraubt und Unfall verursacht",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1664837.php",
-      "date": "Mon, 27 Apr 2026 10:25:54 +0200"
-    },
-    {
-      "title": "Unbekannte Person fährt mit Auto Fußgänger an und flüchtet",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1664744.php",
-      "date": "Sun, 26 Apr 2026 13:42:59 +0200"
-    },
-    {
-      "title": "Zaunelement am Görlitzer Park beschädigt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1664743.php",
-      "date": "Sun, 26 Apr 2026 13:25:18 +0200"
-    },
-    {
-      "title": "Mehrere Verletzte nach Auseinandersetzung mit Machete",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1664742.php",
-      "date": "Sun, 26 Apr 2026 13:08:17 +0200"
-    }
-  ],
+  "police": [],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
