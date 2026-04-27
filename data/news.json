@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Mutmaßlich rechtsextreme Angriffe in Cottbus beschäftigen Staatsschutz",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/brandenburg-cottbus-angriffe-alternatives-wohnprojekt-synagoge-pfarrer-polizei.html",
+      "date": "Mon, 27 Apr 2026 17:36:00 +0200"
+    },
+    {
+      "title": "800 Jahre Tradition: Fischerei Köllnitz vor Insolvenzverfahren",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/brandenburg-fischerei-naturgut-koellnitz-gross-schauen-see-insolvenz.html",
+      "date": "Mon, 27 Apr 2026 17:34:37 +0200"
+    },
+    {
       "title": "Zum 100. Geburtstag: Günter-de-Bruyn-Haus in Beeskow eröffnet",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/04/brandenburg-beeskow-schriftsteller-guenter-de-bruyn-haus-stiftung-eroeffnung.html",
       "date": "Mon, 27 Apr 2026 16:49:10 +0200"
@@ -39,19 +49,19 @@
       "title": "Erneut rechtsextreme Schmiererei an Cottbuser Synagoge",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/synagoge-cottbus-rechtsextreme-schmierereien-staatsschutz-ermittelt.html",
       "date": "Mon, 27 Apr 2026 14:38:56 +0200"
-    },
-    {
-      "title": "\"Steinwüste\": Berliner Gendarmenmarkt bekommt keine neuen Bäume",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-gendarmenmarkt-gruen-baeume-umbau.html",
-      "date": "Mon, 27 Apr 2026 14:17:10 +0200"
-    },
-    {
-      "title": "Pianistin Julia Hülsmann erhält Jazzpreis Berlin 2026",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/04/jazzpreis-berlin-2026-pianistin-komponistin-julia-huelsmann.html",
-      "date": "Mon, 27 Apr 2026 14:12:35 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Schüsse auf Fahrschule",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1665281.php",
+      "date": "Mon, 27 Apr 2026 17:33:39 +0200"
+    },
+    {
+      "title": "Vielzahl an Straftaten bei Flucht vor Polizei",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1665265.php",
+      "date": "Mon, 27 Apr 2026 17:12:30 +0200"
+    },
     {
       "title": "Vormals Gesuchter gilt nicht mehr als vermisst",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2025/pressemitteilung.1584373.php",
@@ -91,16 +101,6 @@
       "title": "Mehrere Verletzte nach Auseinandersetzung mit Machete",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1664742.php",
       "date": "Sun, 26 Apr 2026 13:08:17 +0200"
-    },
-    {
-      "title": "Radfahrer nach medizinischem Notfall verstorben",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1664740.php",
-      "date": "Sun, 26 Apr 2026 11:59:00 +0200"
-    },
-    {
-      "title": "Kind von Autofahrer angefahren",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1664738.php",
-      "date": "Sat, 25 Apr 2026 15:05:13 +0200"
     }
   ],
   "free_events": [],
