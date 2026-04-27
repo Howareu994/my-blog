@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Umfrage: Mehrheit findet Wohlstandsverteilung ungerecht",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/04/wohlstand-sozialsysteme-steuer-mehr-arbeiten-berlin-brandenburg.html",
+      "date": "Mon, 27 Apr 2026 07:18:50 +0200"
+    },
+    {
+      "title": "Nach Stichwahl: Amtsinhaber Rudolph bleibt Bürgermeister von Fürstenwalde",
+      "link": "https://www.rbb24.de/politik/wahl/brandenburg-buergermeisterwahlen/2026/stiwchwahl-buergermeister-fuerstenwalde-rudolph-papendieck.html",
+      "date": "Mon, 27 Apr 2026 06:55:49 +0200"
+    },
+    {
+      "title": "Prozess wegen Anschlagsvorbereitung am Landgericht Berlin beginnt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/prozess-landgericht-berlin-anschlag-geplant-terrormiliz-is.html",
+      "date": "Mon, 27 Apr 2026 06:21:45 +0200"
+    },
+    {
       "title": "Hertha-MV: Frust, Qualitätsverlust und Führungswechsel",
       "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-2-liga-hertha-bsc-mitgliederversammlung-aufsichtsrat-wahl-reese.html",
       "date": "Sun, 26 Apr 2026 21:29:08 +0200"
@@ -14,11 +29,6 @@
       "title": "BBL: Alba Berlin dominiert Frankfurt und festigt Platz zwei",
       "link": "https://www.rbb24.de/sport/beitrag/2026/04/basketball-bundesliga-bbl-skyliners-frankfurt-alba-berlin-spielbericht.html",
       "date": "Sun, 26 Apr 2026 20:19:21 +0200"
-    },
-    {
-      "title": "Nach Stichwahl: Amtsinhaber Rudolph bleibt Bürgermeister von Fürstenwalde",
-      "link": "https://www.rbb24.de/politik/wahl/brandenburg-buergermeisterwahlen/2026/stiwchwahl-buergermeister-fuerstenwalde-rudolph-papendieck.html",
-      "date": "Sun, 26 Apr 2026 20:11:15 +0200"
     },
     {
       "title": "Paul Köhne setzt sich bei Bürgermeisterwahl durch",
@@ -39,16 +49,6 @@
       "title": "Liveticker zur Mitgliederversammlung bei Hertha BSC",
       "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-berlin-liveticker-hertha-bsc-mitgliederversammlung.html",
       "date": "Sun, 26 Apr 2026 18:24:34 +0200"
-    },
-    {
-      "title": "RapK über den Kreuzberg-Film \"Scherbenland\"",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/04/rapk-berlin-kreuzberg-scherbenland-rio-reiser-rap.html",
-      "date": "Sun, 26 Apr 2026 17:39:00 +0200"
-    },
-    {
-      "title": "2. Fußball-Bundesliga: Turbine gewinnt gegen Tabellenletzten",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-zweite-bundesliga-frauen-viktoria-berlin-eintracht-frankfurt-ii-turbine-potsdam-vfr-warbeyen-spielbericht.html",
-      "date": "Sun, 26 Apr 2026 17:18:09 +0200"
     }
   ],
   "police": [
