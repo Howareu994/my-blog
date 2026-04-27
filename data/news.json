@@ -51,7 +51,58 @@
       "date": "Mon, 27 Apr 2026 14:47:51 +0200"
     }
   ],
-  "police": [],
+  "police": [
+    {
+      "title": "Schüsse auf Fahrschule",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1665281.php",
+      "date": "Mon, 27 Apr 2026 17:33:39 +0200"
+    },
+    {
+      "title": "Vielzahl an Straftaten bei Flucht vor Polizei",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1665265.php",
+      "date": "Mon, 27 Apr 2026 17:12:30 +0200"
+    },
+    {
+      "title": "Vormals Gesuchter gilt nicht mehr als vermisst",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2025/pressemitteilung.1584373.php",
+      "date": "Mon, 27 Apr 2026 16:21:00 +0200"
+    },
+    {
+      "title": "Ermittlungen wegen des Verdachts des versuchten Mordes - Mordkommission sucht Zeugen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1664741.php",
+      "date": "Mon, 27 Apr 2026 16:10:00 +0200"
+    },
+    {
+      "title": "Handyortung überführt mutmaßlichen Räuber",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1665087.php",
+      "date": "Mon, 27 Apr 2026 14:45:55 +0200"
+    },
+    {
+      "title": "E-Roller-Unfall mit zwei verletzten Kindern",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1664893.php",
+      "date": "Mon, 27 Apr 2026 11:05:55 +0200"
+    },
+    {
+      "title": "Fahrzeug geraubt und Unfall verursacht",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1664837.php",
+      "date": "Mon, 27 Apr 2026 10:25:54 +0200"
+    },
+    {
+      "title": "Unbekannte Person fährt mit Auto Fußgänger an und flüchtet",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1664744.php",
+      "date": "Sun, 26 Apr 2026 13:42:59 +0200"
+    },
+    {
+      "title": "Zaunelement am Görlitzer Park beschädigt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1664743.php",
+      "date": "Sun, 26 Apr 2026 13:25:18 +0200"
+    },
+    {
+      "title": "Mehrere Verletzte nach Auseinandersetzung mit Machete",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1664742.php",
+      "date": "Sun, 26 Apr 2026 13:08:17 +0200"
+    }
+  ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
