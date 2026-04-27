@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Pianistin Julia Hülsmann erhält Jazzpreis Berlin 2026",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/04/jazzpreis-berlin-2026-pianistin-komponistin-julia-huelsmann.html",
+      "date": "Mon, 27 Apr 2026 14:12:35 +0200"
+    },
+    {
       "title": "Zwei 13-Jährige stürzen mit E-Scooter in Berlin – einer schwer verletzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-charlottenburg-unfall-elektro-roller-scooter-jugendliche-sturz.html",
       "date": "Mon, 27 Apr 2026 12:49:18 +0200"
@@ -44,11 +49,6 @@
       "title": "1. Mai: Diese Demos und Veranstaltungen gibt es in Berlin",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-1-mai-demonstrationen-veranstaltungen-maidemo.html",
       "date": "Mon, 27 Apr 2026 09:43:51 +0200"
-    },
-    {
-      "title": "\"Steinwüste\": Berliner Gendarmenmarkt bekommt keine neuen Bäume",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-gendarmenmarkt-gruen-baeume-umbau.html",
-      "date": "Mon, 27 Apr 2026 08:57:08 +0200"
     }
   ],
   "police": [
