@@ -3,7 +3,7 @@
     {
       "title": "1. Mai: Diese Demos und Veranstaltungen gibt es in Berlin",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-1-mai-demonstrationen-veranstaltungen-maidemo.html",
-      "date": "Tue, 28 Apr 2026 12:10:53 +0200"
+      "date": "Tue, 28 Apr 2026 13:03:19 +0200"
     },
     {
       "title": "Ex-Senator Heilmann gilt als Favorit für Wedl-Wilson-Nachfolge",
@@ -53,6 +53,21 @@
   ],
   "police": [
     {
+      "title": "Verkehrsunfall zwischen Fußgänger und Straßenbahn",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1665703.php",
+      "date": "Tue, 28 Apr 2026 13:27:32 +0200"
+    },
+    {
+      "title": "Autofahrerin fährt Fußgänger an",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1665698.php",
+      "date": "Tue, 28 Apr 2026 13:23:59 +0200"
+    },
+    {
+      "title": "Tätergruppen schlugen und traten auf Mann ein",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1665665.php",
+      "date": "Tue, 28 Apr 2026 13:00:30 +0200"
+    },
+    {
       "title": "Sachbeschädigungen mit antisemitischem Hintergrund – Wer hat etwas gesehen?",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1665513.php",
       "date": "Tue, 28 Apr 2026 10:47:11 +0200"
@@ -86,21 +101,6 @@
       "title": "Ermittlungen wegen des Verdachts des versuchten Mordes - Mordkommission sucht Zeugen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1664741.php",
       "date": "Mon, 27 Apr 2026 16:10:00 +0200"
-    },
-    {
-      "title": "Handyortung überführt mutmaßlichen Räuber",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1665087.php",
-      "date": "Mon, 27 Apr 2026 14:45:55 +0200"
-    },
-    {
-      "title": "E-Roller-Unfall mit zwei verletzten Kindern",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1664893.php",
-      "date": "Mon, 27 Apr 2026 11:05:55 +0200"
-    },
-    {
-      "title": "Fahrzeug geraubt und Unfall verursacht",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1664837.php",
-      "date": "Mon, 27 Apr 2026 10:25:54 +0200"
     }
   ],
   "free_events": [],
