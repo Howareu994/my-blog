@@ -1,6 +1,36 @@
 {
   "traffic": [
     {
+      "title": "Arbeitsschutzbericht: Mehr Kontrollen in Brandenburg - weniger schwere Verstöße",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/brandenburg-arbeitsschutz-jahresbericht-kontrollen-inspektionen-betriebe.html",
+      "date": "Tue, 28 Apr 2026 21:05:35 +0200"
+    },
+    {
+      "title": "Tödlicher Unfall auf A13-Baustelle bei Staakow - Bauarbeiter angefahren",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/toedlicher-unfall-a13-dahme-spreewald-baruth-staakow.html",
+      "date": "Tue, 28 Apr 2026 20:54:52 +0200"
+    },
+    {
+      "title": "Bürgermeisterwahl in Strausberg für ungültig erklärt - Neuwahl nötig",
+      "link": "https://www.rbb24.de/politik/wahl/brandenburg-buergermeisterwahlen/2026/strausberg-stadtverordnete-buergermeisterwahl-ungueltig-neuwahl.html",
+      "date": "Tue, 28 Apr 2026 20:24:12 +0200"
+    },
+    {
+      "title": "Strafe für \"ACAB\"-Banner: SV Babelsberg kritisiert Verband",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-regionalliga-nordost-sv-babelsberg-03-fans-banner-acab-urteil-strafe-nofv-kritik.html",
+      "date": "Tue, 28 Apr 2026 20:20:16 +0200"
+    },
+    {
+      "title": "Union Berlin: Saisonaus für Stammkeeper Rönnow",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-bundesliga-union-berlin-torhueter-frederik-roennow-verletzt-saison-aus.html",
+      "date": "Tue, 28 Apr 2026 19:53:12 +0200"
+    },
+    {
+      "title": "Feuerwehreinsatz: Kind in Neukölln in Betonschacht gefallen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-neukoelln-grundschule-kind-beton-schacht-feuerwehr.html",
+      "date": "Tue, 28 Apr 2026 19:43:17 +0200"
+    },
+    {
       "title": "Berliner Bildungssenatorin entschuldigt sich bei gemobbtem Lehrer Inácio-Stech",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-bildungssenatorin-guenther-wuensch-entschuldigung-lehrer-mobbing.html",
       "date": "Tue, 28 Apr 2026 19:37:42 +0200"
@@ -16,39 +46,9 @@
       "date": "Tue, 28 Apr 2026 18:15:02 +0200"
     },
     {
-      "title": "Tödlicher Unfall auf A13-Baustelle bei Staakow - Bauarbeiter angefahren",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/toedlicher-unfall-a13-dahme-spreewald-baruth-staakow.html",
-      "date": "Tue, 28 Apr 2026 17:36:51 +0200"
-    },
-    {
       "title": "Cottbuser Oberbürgermeister für mehr Polizeipräsenz und Kameraüberwachung",
       "link": "https://www.rbb24.de/politik/beitrag/2026/04/brandenburg-cottbus-reaktionen-rechtsextreme-angriffe-schick-polizei.html",
       "date": "Tue, 28 Apr 2026 17:32:09 +0200"
-    },
-    {
-      "title": "Feuerwehreinsatz: Kind in Neukölln in Betonschacht gefallen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-neukoelln-grundschule-kind-beton-schacht-feuerwehr.html",
-      "date": "Tue, 28 Apr 2026 16:43:54 +0200"
-    },
-    {
-      "title": "Verwaltungsreform in Berlin: Senat bringt wichtigen Baustein auf den Weg",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/04/berlin-senat-verwaltungsreform-aufgabenkatalog-behoerden.html",
-      "date": "Tue, 28 Apr 2026 16:35:50 +0200"
-    },
-    {
-      "title": "Frankfurter Football-Spieler Paul Rubelt schafft Sprung in die NFL",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/04/american-football-nfl-paul-rubelt-frankfurt-oder-free-agent-tampa-bay.html",
-      "date": "Tue, 28 Apr 2026 16:27:07 +0200"
-    },
-    {
-      "title": "Antiziganismus ist in Berlin auf Rekordhoch",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/antiziganismus-sinti-roma-rassismus-bericht-rechtsruck-berlin.html",
-      "date": "Tue, 28 Apr 2026 16:17:02 +0200"
-    },
-    {
-      "title": "Schwere Raubtaten gegen homosexuelle Männer: Junge Männer verurteilt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/justiz-homosexuell-raub-jugendliche-maenner-datingapp-urteil.html",
-      "date": "Tue, 28 Apr 2026 15:42:19 +0200"
     }
   ],
   "police": [
