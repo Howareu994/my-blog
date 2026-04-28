@@ -1,14 +1,24 @@
 {
   "traffic": [
     {
-      "title": "\"Steinwüste\": Berliner Gendarmenmarkt bekommt keine neuen Bäume",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-gendarmenmarkt-gruen-baeume-umbau.html",
-      "date": "Tue, 28 Apr 2026 09:53:48 +0200"
+      "title": "1. Mai: Diese Demos und Veranstaltungen gibt es in Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-1-mai-demonstrationen-veranstaltungen-maidemo.html",
+      "date": "Tue, 28 Apr 2026 12:10:53 +0200"
     },
     {
       "title": "Ex-Senator Heilmann gilt als Favorit für Wedl-Wilson-Nachfolge",
       "link": "https://www.rbb24.de/politik/beitrag/2026/04/ex-senator-heilmann-favorit-nachfolger-wedl-wilson.html",
-      "date": "Tue, 28 Apr 2026 09:37:52 +0200"
+      "date": "Tue, 28 Apr 2026 11:39:09 +0200"
+    },
+    {
+      "title": "Kleinkind stürzt von Balkon und verletzt sich schwer",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/kind-balkon-sturz-schwer-verletzt-berlin-altglienicke.html",
+      "date": "Tue, 28 Apr 2026 11:09:52 +0200"
+    },
+    {
+      "title": "\"Steinwüste\": Berliner Gendarmenmarkt bekommt keine neuen Bäume",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-gendarmenmarkt-gruen-baeume-umbau.html",
+      "date": "Tue, 28 Apr 2026 09:53:48 +0200"
     },
     {
       "title": "Zu wenige Ärzte und lange Wartezeiten in Brandenburg",
@@ -21,14 +31,14 @@
       "date": "Tue, 28 Apr 2026 08:27:00 +0200"
     },
     {
+      "title": "Paket-Lieferung: Amazon will Verteilzentren in Cottbus und Dahlewitz eröffnen",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/brandenburg-cottbus-dahlewitz-amazon-eroeffnung-neues-verteilzentrum.html",
+      "date": "Tue, 28 Apr 2026 08:21:00 +0200"
+    },
+    {
       "title": "Warnstreiks bei Deutscher Telekom in Berlin und Brandenburg",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/berlin-brandenburg-warnstreik-tarifkonflikt-tarifvertrag-deutsche-telekom.html",
       "date": "Tue, 28 Apr 2026 08:07:07 +0200"
-    },
-    {
-      "title": "1. Mai: Diese Demos und Veranstaltungen gibt es in Berlin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-1-mai-demonstrationen-veranstaltungen-maidemo.html",
-      "date": "Tue, 28 Apr 2026 08:03:14 +0200"
     },
     {
       "title": "Neue Regeln und Gesetze: Das ändert sich im Mai",
@@ -39,19 +49,24 @@
       "title": "Bürgermeisterwahl in Strausberg für ungültig erklärt - Neuwahl",
       "link": "https://www.rbb24.de/politik/wahl/brandenburg-buergermeisterwahlen/2026/strausberg-stadtverordnete-buergermeisterwahl-ungueltig-neuwahl.html",
       "date": "Mon, 27 Apr 2026 21:35:37 +0200"
-    },
-    {
-      "title": "Umfrage: Brandenburger und Berliner wollen Rentenversicherung auch für Beamte",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/04/umfrage-rente-eintrittsalter-niveau-beamte-selbstaendige.html",
-      "date": "Mon, 27 Apr 2026 20:54:24 +0200"
-    },
-    {
-      "title": "Mutmaßlich rechtsextreme Angriffe in Cottbus beschäftigen Staatsschutz",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/brandenburg-cottbus-angriffe-alternatives-wohnprojekt-synagoge-pfarrer-polizei.html",
-      "date": "Mon, 27 Apr 2026 17:36:00 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Sachbeschädigungen mit antisemitischem Hintergrund – Wer hat etwas gesehen?",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1665513.php",
+      "date": "Tue, 28 Apr 2026 10:47:11 +0200"
+    },
+    {
+      "title": "Schüsse auf Autoteilehandel",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1665505.php",
+      "date": "Tue, 28 Apr 2026 10:39:53 +0200"
+    },
+    {
+      "title": "Nationalsozialistische Parole gerufen - Festnahmen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1665487.php",
+      "date": "Tue, 28 Apr 2026 10:26:29 +0200"
+    },
     {
       "title": "Schüsse auf Fahrschule",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1665281.php",
@@ -86,21 +101,6 @@
       "title": "Fahrzeug geraubt und Unfall verursacht",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1664837.php",
       "date": "Mon, 27 Apr 2026 10:25:54 +0200"
-    },
-    {
-      "title": "Unbekannte Person fährt mit Auto Fußgänger an und flüchtet",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1664744.php",
-      "date": "Sun, 26 Apr 2026 13:42:59 +0200"
-    },
-    {
-      "title": "Zaunelement am Görlitzer Park beschädigt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1664743.php",
-      "date": "Sun, 26 Apr 2026 13:25:18 +0200"
-    },
-    {
-      "title": "Mehrere Verletzte nach Auseinandersetzung mit Machete",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1664742.php",
-      "date": "Sun, 26 Apr 2026 13:08:17 +0200"
     }
   ],
   "free_events": [],
