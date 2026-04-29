@@ -1,9 +1,14 @@
 {
   "traffic": [
     {
+      "title": "Abramović-Ausstellung im Gropius-Bau öffnet abends länger",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/04/berlin-gropiusbau-ausstellung-performancekuenstlerin-abramovic-laenger-auf.html",
+      "date": "Wed, 29 Apr 2026 21:06:42 +0200"
+    },
+    {
       "title": "FC Union feiert Richtfest des neuen Trainingszentrums",
       "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-bundesliga-fc-union-trainingszentrum-alte-foersterei-richtfest-dirk-zingler-reportage.html",
-      "date": "Wed, 29 Apr 2026 19:05:59 +0200"
+      "date": "Wed, 29 Apr 2026 19:50:58 +0200"
     },
     {
       "title": "Berliner Finanzsenator Evers übernimmt zusätzlich Kulturressort",
@@ -44,11 +49,6 @@
       "title": "Neue Fälle der Newcastle-Krankheit in zwei Landkreisen festgestellt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/tierseuche-newcastle-oder-spree-maerkisch-oderland.html",
       "date": "Wed, 29 Apr 2026 16:35:36 +0200"
-    },
-    {
-      "title": "Krankenstand bei US-Elektroautobauer Tesla in Grünheide nach Maßnahmen gesunken",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/tesla-krankenstand-gruenheide-gesunken-arbeit.html",
-      "date": "Wed, 29 Apr 2026 16:29:53 +0200"
     }
   ],
   "police": [
