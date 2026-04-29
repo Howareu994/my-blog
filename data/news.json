@@ -1,29 +1,44 @@
 {
   "traffic": [
     {
-      "title": "Mehr als 100 Kräfte im Einsatz: Polizei durchsucht fünf Objekte in Berlin",
+      "title": "Tödlicher Unfall auf A13-Baustelle - Fahrer war offenbar zu schnell",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/toedlicher-unfall-a13-dahme-spreewald-baruth-staakow.html",
+      "date": "Wed, 29 Apr 2026 14:10:32 +0200"
+    },
+    {
+      "title": "Berliner Finanzsenator Evers übernimmt zusätzlich Kulturressort",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/04/stefan-evers-finanzsenator-kultursenator-kulturressort-berlin-Wedl-Wilson.html",
+      "date": "Wed, 29 Apr 2026 13:58:49 +0200"
+    },
+    {
+      "title": "Verdacht des schweren Bandendiebstahls: Polizei durchsucht fünf Objekte in Berlin",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/spreizer-feuerwehr-durchsuchungen-berlin.html",
-      "date": "Wed, 29 Apr 2026 12:13:21 +0200"
+      "date": "Wed, 29 Apr 2026 13:29:27 +0200"
+    },
+    {
+      "title": "Zugverkehr in Richtung Ruhrgebiet wegen beschädigter Weiche beeinträchtigt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/deutsche-bahn-verspaetung-schienen-beschaedigt.html",
+      "date": "Wed, 29 Apr 2026 13:14:41 +0200"
+    },
+    {
+      "title": "Nach  Abstieg: Berlin will im Hockey zurück nach oben",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/04/hockey-bundesliga-bhc-sportdirektor-rein-van-eijk-aufstieg-dhb-pro-league-berlin.html",
+      "date": "Wed, 29 Apr 2026 13:12:00 +0200"
+    },
+    {
+      "title": "Öl für PCK Raffinerie könnte ab Mai über Danziger Hafen geliefert werden",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/pck-schwedt-versorgung-sicherheit-oel-taskforce-woidke-druschba.html",
+      "date": "Wed, 29 Apr 2026 12:52:53 +0200"
     },
     {
       "title": "Ryanair droht mit Rückzug – was der Streit am BER wirklich bedeutet",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/ryanair-rueckzug-ber-fluege-gebuehren-streit.html",
-      "date": "Wed, 29 Apr 2026 12:04:46 +0200"
-    },
-    {
-      "title": "Zugverkehr wegen beschädigter Weiche in Richtung Ruhrgebiet beeinträchtigt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/deutsche-bahn-verspaetung-schienen-beschaedigt.html",
-      "date": "Wed, 29 Apr 2026 11:56:40 +0200"
+      "date": "Wed, 29 Apr 2026 12:04:00 +0200"
     },
     {
       "title": "Bahn plant Sperrung der vier Görlitzer Brücken ab Ende Juni",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/goerlitzer-bahnbruecken-treptow-kreuzberg-sperrung-schaeden.html",
       "date": "Wed, 29 Apr 2026 11:43:00 +0200"
-    },
-    {
-      "title": "Berlins Finanzsenator Evers übernimmt das Kulturressort",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/04/stefan-evers-finanzsenator-kultursenator-kulturressort-berlin-Wedl-Wilson.html",
-      "date": "Wed, 29 Apr 2026 11:24:00 +0200"
     },
     {
       "title": "Spreewald: Einzige Kahnpostfrau Deutschlands startet in Lehde in neue Saison",
@@ -34,21 +49,6 @@
       "title": "Uniklinik Cottbus: MRT für Kuscheltiere und Puppen soll Kindern Angst vor der Röhre nehmen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/brandenburg-cottbus-uniklinik-mul-ct-mini-mrt-kuscheltiere-kinder-krebs.html",
       "date": "Wed, 29 Apr 2026 10:49:49 +0200"
-    },
-    {
-      "title": "\"Mietenpolizei\": SPD-Spitzenkandidat Krach will gegen Wuchermieten vorgehen",
-      "link": "https://www.rbb24.de/politik/wahl/abgeordnetenhaus/agh-2026/beitraege/berlin-spd-krach-wucher-mieten-senken-polizei.html",
-      "date": "Wed, 29 Apr 2026 10:23:40 +0200"
-    },
-    {
-      "title": "Holzbau: So weit sind Berlin und Brandenburg damit gekommen",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/holzbau-berlin-brandenburg-gipfel-nachhaltiges-bauen.html",
-      "date": "Wed, 29 Apr 2026 09:51:35 +0200"
-    },
-    {
-      "title": "Berlin: Columbiadamm bleibt nach Wasserrohrbruch für vier Wochen gesperrt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/sperrung-wasserrohrbruch-columbiadamm-tempelhof-neukoelln-verkehr.html",
-      "date": "Wed, 29 Apr 2026 09:00:58 +0200"
     }
   ],
   "police": [
