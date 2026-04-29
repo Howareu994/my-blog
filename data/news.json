@@ -1,14 +1,29 @@
 {
   "traffic": [
     {
+      "title": "Holzbau: So weit sind Berlin und Brandenburg damit gekommen",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/holzbau-berlin-brandenburg-gipfel-nachhaltiges-bauen.html",
+      "date": "Wed, 29 Apr 2026 09:51:35 +0200"
+    },
+    {
+      "title": "Berlin: Columbiadamm bleibt nach Wasserrohrbruch für vier Wochen gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/sperrung-wasserrohrbruch-columbiadamm-tempelhof-neukoelln-verkehr.html",
+      "date": "Wed, 29 Apr 2026 09:00:58 +0200"
+    },
+    {
+      "title": "Wetter: Mai startet in Berlin und Brandenburg warm und sonnenklar",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-brandenburg-wetter-1-mai-wochenende-winfried-hoch-sonne.html",
+      "date": "Wed, 29 Apr 2026 08:54:00 +0200"
+    },
+    {
+      "title": "Schienen beschädigt: Zugverkehr in Richtung Westen behindert",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/deutsche-bahn-verspaetung-schienen-beschaedigt.html",
+      "date": "Wed, 29 Apr 2026 08:12:46 +0200"
+    },
+    {
       "title": "Reformpläne im Gesundheitswesen: \"Die Patienten werden es merken\"",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/sparplaene-gesundheitswesen-pflege-waldkrankenhaus-berlin-spandau.html",
       "date": "Wed, 29 Apr 2026 06:16:21 +0200"
-    },
-    {
-      "title": "Holzbau: So weit sind Berlin und Brandenburg damit gekommen",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/holzbau-berlin-brandenburg-gipfel-nachhaltiges-bauen.html",
-      "date": "Wed, 29 Apr 2026 06:15:00 +0200"
     },
     {
       "title": "Ryanair droht mit Rückzug – was der Streit am BER wirklich bedeutet",
@@ -18,7 +33,7 @@
     {
       "title": "DEL: Eisbären gewinnen auch drittes Finalspiel gegen Mannheim",
       "link": "https://www.rbb24.de/sport/beitrag/2026/04/eishockey-del-playoffs-finale-spiel-3-eisbaeren-berlin-adler-mannheim-spielbericht.html",
-      "date": "Tue, 28 Apr 2026 22:07:33 +0200"
+      "date": "Tue, 28 Apr 2026 22:07:00 +0200"
     },
     {
       "title": "Warnstreiks bei Deutscher Telekom in Berlin und Brandenburg",
@@ -34,24 +49,14 @@
       "title": "Tödlicher Unfall auf A13-Baustelle bei Staakow - Bauarbeiter angefahren",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/toedlicher-unfall-a13-dahme-spreewald-baruth-staakow.html",
       "date": "Tue, 28 Apr 2026 20:54:52 +0200"
-    },
-    {
-      "title": "Bürgermeisterwahl in Strausberg für ungültig erklärt - Neuwahl nötig",
-      "link": "https://www.rbb24.de/politik/wahl/brandenburg-buergermeisterwahlen/2026/strausberg-stadtverordnete-buergermeisterwahl-ungueltig-neuwahl.html",
-      "date": "Tue, 28 Apr 2026 20:24:12 +0200"
-    },
-    {
-      "title": "Strafe für \"ACAB\"-Banner: SV Babelsberg kritisiert Verband",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-regionalliga-nordost-sv-babelsberg-03-fans-banner-acab-urteil-strafe-nofv-kritik.html",
-      "date": "Tue, 28 Apr 2026 20:20:16 +0200"
-    },
-    {
-      "title": "Union Berlin: Saisonaus für Stammkeeper Rönnow",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-bundesliga-union-berlin-torhueter-frederik-roennow-verletzt-saison-aus.html",
-      "date": "Tue, 28 Apr 2026 19:53:12 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Zwölfjähriger Radfahrer bei Unfall verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1665994.php",
+      "date": "Wed, 29 Apr 2026 09:53:19 +0200"
+    },
     {
       "title": "Verkehrsunfall zwischen Fußgänger und Straßenbahn",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1665703.php",
@@ -96,11 +101,6 @@
       "title": "Vormals Gesuchter gilt nicht mehr als vermisst",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2025/pressemitteilung.1584373.php",
       "date": "Mon, 27 Apr 2026 16:21:00 +0200"
-    },
-    {
-      "title": "Ermittlungen wegen des Verdachts des versuchten Mordes - Mordkommission sucht Zeugen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1664741.php",
-      "date": "Mon, 27 Apr 2026 16:10:00 +0200"
     }
   ],
   "free_events": [],
