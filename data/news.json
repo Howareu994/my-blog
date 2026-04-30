@@ -1,24 +1,39 @@
 {
   "traffic": [
     {
+      "title": "Berlin-Köpenick: Polizei schießt auf flüchtenden Autofahrer",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-koepenick-polizei-schuss.html",
+      "date": "Thu, 30 Apr 2026 13:28:30 +0200"
+    },
+    {
+      "title": "Zustimmung der Mitglieder: Tarifeinigung für BER-Beschäftigte besiegelt",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/tarifkonflikt-einigung-ber-flughafen-berlin-brandenburg-gewerkschaft.html",
+      "date": "Thu, 30 Apr 2026 13:20:45 +0200"
+    },
+    {
+      "title": "Brandenburgs Pflegeheimbewohner haben Anspruch auf Einzelzimmer",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/brandenburg-pflegeheim-bewohner-anspruch-einzelzimmer.html",
+      "date": "Thu, 30 Apr 2026 13:08:46 +0200"
+    },
+    {
+      "title": "Pflegerin wollte Chef vergiften - Anklage erhoben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-pflegerin-vergiftet-chef-anklage.html",
+      "date": "Thu, 30 Apr 2026 13:07:47 +0200"
+    },
+    {
+      "title": "Gericht: Weimers Äußerung über Berliner Buchladen untersagt",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/04/wolfram-weimer-berlin-buchladen-zur-schwankenden-weltkugel-urteil-buchhandlungspreis.html",
+      "date": "Thu, 30 Apr 2026 12:59:37 +0200"
+    },
+    {
       "title": "Berliner Landesbeschäftigte bekommen wohl keinen Krisenbonus",
       "link": "https://www.rbb24.de/politik/beitrag/2026/04/berlin-landesbeschaeftigte-kein-krisenbonus-entlastungspraemie.html",
       "date": "Thu, 30 Apr 2026 12:38:15 +0200"
     },
     {
-      "title": "Gericht: Weimers Äußerung über Berliner Buchladen untersagt",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/04/wolfram-weimer-berlin-buchladen-zur-schwankenden-weltkugel-urteil-buchhandlungspreis.html",
-      "date": "Thu, 30 Apr 2026 12:34:40 +0200"
-    },
-    {
       "title": "Rechtsextreme Angriffe in Cottbus: Neue Ermittlungsgruppe eingerichtet",
       "link": "https://www.rbb24.de/politik/beitrag/2026/04/brandenburg-cottbus-rechtsextreme-straftaten-redmann-schick-polizei-ermittlung.html",
       "date": "Thu, 30 Apr 2026 12:22:07 +0200"
-    },
-    {
-      "title": "Berlin-Köpenick: Polizei schießt auf flüchtenden Autofahrer",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-koepenick-polizei-schuss.html",
-      "date": "Thu, 30 Apr 2026 12:00:45 +0200"
     },
     {
       "title": "Radfahrer in Berlin-Neukölln von Lkw erfasst und gestorben",
@@ -34,24 +49,14 @@
       "title": "Demos und Raves: Verkehrseinschränkungen in Berlin am 1. Mai",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/1-mai-veranstaltungen-verkehr-berlin-2026.html",
       "date": "Thu, 30 Apr 2026 10:37:34 +0200"
-    },
-    {
-      "title": "Berliner Finanzsenator Evers übernimmt zusätzlich Kulturressort",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/04/stefan-evers-finanzsenator-kultursenator-kulturressort-berlin-Wedl-Wilson.html",
-      "date": "Thu, 30 Apr 2026 09:32:52 +0200"
-    },
-    {
-      "title": "\"The Darkest Files\" ist bestes deutsches Computerspiel 2026",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/computerspiel-preis-games-the-darkest-files-berlin.html",
-      "date": "Thu, 30 Apr 2026 09:12:33 +0200"
-    },
-    {
-      "title": "Krankenstand bei US-Elektroautobauer Tesla in Grünheide nach Maßnahmen gesunken",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/tesla-krankenstand-gruenheide-gesunken-arbeit.html",
-      "date": "Thu, 30 Apr 2026 08:45:56 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Jugendlicher vermisst – Polizei bittet um Mithilfe",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1666711.php",
+      "date": "Thu, 30 Apr 2026 12:56:26 +0200"
+    },
     {
       "title": "Festnahme nach Fahrzeugdiebstahl, verbotenem Kraftfahrzeugrennen und mehreren Verkehrsdelikten",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1666631.php",
@@ -96,11 +101,6 @@
       "title": "Schüsse auf Autoteilehandel",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1665505.php",
       "date": "Tue, 28 Apr 2026 10:39:53 +0200"
-    },
-    {
-      "title": "Nationalsozialistische Parole gerufen - Festnahmen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1665487.php",
-      "date": "Tue, 28 Apr 2026 10:26:29 +0200"
     }
   ],
   "free_events": [],
