@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Demos und Raves: Verkehrseinschränkungen in Berlin am 1. Mai",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/1-mai-veranstaltungen-verkehr-berlin-2026.html",
+      "date": "Thu, 30 Apr 2026 06:28:23 +0200"
+    },
+    {
       "title": "Babelsberg 03 schlägt Halle und macht großen Schritt zum Klassenerhalt",
       "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-regionalliga-nordost-babelsberg-03-hallescher-fc-hfc-spielbericht.html",
       "date": "Wed, 29 Apr 2026 22:43:10 +0200"
@@ -11,6 +16,11 @@
       "date": "Wed, 29 Apr 2026 22:08:33 +0200"
     },
     {
+      "title": "BerlinTrend: CDU verliert - Grüne, Linke und AfD gleichauf",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-trend-april-cdu-spd-gruene-linke-afd.html",
+      "date": "Wed, 29 Apr 2026 21:12:58 +0200"
+    },
+    {
       "title": "Abramović-Ausstellung im Gropius-Bau öffnet abends länger",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/04/berlin-gropiusbau-ausstellung-performancekuenstlerin-abramovic-laenger-auf.html",
       "date": "Wed, 29 Apr 2026 21:06:42 +0200"
@@ -19,6 +29,11 @@
       "title": "FC Union feiert Richtfest des neuen Trainingszentrums",
       "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-bundesliga-fc-union-trainingszentrum-alte-foersterei-richtfest-dirk-zingler-reportage.html",
       "date": "Wed, 29 Apr 2026 19:50:58 +0200"
+    },
+    {
+      "title": "Analyse zum BerlinTrend: Der CDU-Vorsprung ist fast weg",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-trend-april-cdu-wegner-analyse.html",
+      "date": "Wed, 29 Apr 2026 19:43:58 +0200"
     },
     {
       "title": "Berliner Finanzsenator Evers übernimmt zusätzlich Kulturressort",
@@ -34,21 +49,6 @@
       "title": "Patienten in Cottbus von Gebühren für Rettungsdienstfahrten befreit",
       "link": "https://www.rbb24.de/politik/beitrag/2026/04/brandenburg-rettungsdiesnst-cottbus-gebuehrenstreit-krankenkasse.html",
       "date": "Wed, 29 Apr 2026 18:51:45 +0200"
-    },
-    {
-      "title": "Eisbären vor 12. Meisterschaft: Vereinslegende Felski im Interview",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/04/eishockey-del-eisbaeren-berlin-sven-felski-adler-mannheim-finalserie-interview.html",
-      "date": "Wed, 29 Apr 2026 17:25:34 +0200"
-    },
-    {
-      "title": "Getöteter Polizist in Lauchhammer: Staatsanwaltschaft fordert Lebenslang",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/landgericht-staatsanwaltschaft-lauchhammer-prozess-polizist-getoetet.html",
-      "date": "Wed, 29 Apr 2026 17:04:23 +0200"
-    },
-    {
-      "title": "Ex-Füchse-Profi Reichmann: \"Kein Selbstläufer gegen Veszprem\"",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/04/handball-champions-league-fuechse-berlin-veszprem-tobias-reichmann-interview.html",
-      "date": "Wed, 29 Apr 2026 16:57:00 +0200"
     }
   ],
   "police": [
