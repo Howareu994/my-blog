@@ -1,9 +1,24 @@
 {
   "traffic": [
     {
-      "title": "Walpurgis-Protest startet in Kreuzberg",
+      "title": "Walpurgisnacht: Protest \"Take back the Night\" in Kreuzberg",
       "link": "https://www.rbb24.de/politik/beitrag/2026/04/take-back-the-night-walpurgis-protest-kreuzberg-mitte-demo.html",
-      "date": "Thu, 30 Apr 2026 20:59:53 +0200"
+      "date": "Thu, 30 Apr 2026 22:30:00 +0200"
+    },
+    {
+      "title": "Berlin-Lichterfelde: 15 Verletzte bei Brand in Obdachlosenheim",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-brand-obdachlosenheim-lichterfelde-15-verletzte.html",
+      "date": "Thu, 30 Apr 2026 22:28:25 +0200"
+    },
+    {
+      "title": "Gallery Weekend: 57 Berliner Galerien zeigen Höhepunkte",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/05/berlin-gallery-weekend-ausstellungen-2026-mehr-als-50-gallerien.html",
+      "date": "Thu, 30 Apr 2026 22:08:08 +0200"
+    },
+    {
+      "title": "Brandenburger Innenministerium will Signal der Abschreckung senden",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/04/brandenburg-cottbus-rechtsextreme-straftaten-redmann-schick-polizei-ermittlung.html",
+      "date": "Thu, 30 Apr 2026 21:58:33 +0200"
     },
     {
       "title": "Schule in Brandenburg: Eltern beklagen Unterrichtsausfall",
@@ -21,11 +36,6 @@
       "date": "Thu, 30 Apr 2026 18:48:38 +0200"
     },
     {
-      "title": "Brandenburger Innenministerium will Signal der Abschreckung senden",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/04/brandenburg-cottbus-rechtsextreme-straftaten-redmann-schick-polizei-ermittlung.html",
-      "date": "Thu, 30 Apr 2026 18:30:34 +0200"
-    },
-    {
       "title": "Vor Duisburg-Spiel: Cottbus-Trainer Wollitz lässt Zukunft offen",
       "link": "https://www.rbb24.de/sport/beitrag/2026/04/3-liga-energie-cottbus-msv-duisburg-aufstieg-wollitz-karriereend.html",
       "date": "Thu, 30 Apr 2026 18:21:20 +0200"
@@ -39,70 +49,9 @@
       "title": "\"Blechtrommel\"-Fragment von Grass aufgetaucht",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/05/berlin-akademie-der-kuenste-blechtrommel-fragment-aufgetaucht.html",
       "date": "Thu, 30 Apr 2026 17:55:35 +0200"
-    },
-    {
-      "title": "Union-Keeper Klaus: \"Etwas Historisches für mich geschafft\"",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/04/berlin-fussball-union-interview-carl-klaus-torwart-roennow-koeln-debuet.html",
-      "date": "Thu, 30 Apr 2026 17:41:44 +0200"
-    },
-    {
-      "title": "1. Mai: Diese Demos und Veranstaltungen gibt es in Berlin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-1-mai-demonstrationen-veranstaltungen-maidemo.html",
-      "date": "Thu, 30 Apr 2026 17:31:53 +0200"
     }
   ],
-  "police": [
-    {
-      "title": "Vermisster Jugendlicher wieder im Kreis seiner Familie",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1666711.php",
-      "date": "Thu, 30 Apr 2026 17:07:00 +0200"
-    },
-    {
-      "title": "Festnahmen und Durchsuchungen nach Drogenhandel",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1666900.php",
-      "date": "Thu, 30 Apr 2026 15:52:07 +0200"
-    },
-    {
-      "title": "Festnahme nach Fahrzeugdiebstahl, verbotenem Kraftfahrzeugrennen und mehreren Verkehrsdelikten",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1666631.php",
-      "date": "Thu, 30 Apr 2026 11:28:44 +0200"
-    },
-    {
-      "title": "Sachbeschädigungen an Zaunanlage des Görlitzer Parks",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1666557.php",
-      "date": "Thu, 30 Apr 2026 10:27:35 +0200"
-    },
-    {
-      "title": "Gefährliche Körperverletzung mit Teppichmesser - Festnahme",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1666111.php",
-      "date": "Wed, 29 Apr 2026 11:52:00 +0200"
-    },
-    {
-      "title": "Zwölfjähriger Radfahrer bei Unfall verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1665994.php",
-      "date": "Wed, 29 Apr 2026 09:53:19 +0200"
-    },
-    {
-      "title": "Verkehrsunfall zwischen Fußgänger und Straßenbahn",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1665703.php",
-      "date": "Tue, 28 Apr 2026 13:27:32 +0200"
-    },
-    {
-      "title": "Autofahrerin fährt Fußgänger an",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1665698.php",
-      "date": "Tue, 28 Apr 2026 13:23:59 +0200"
-    },
-    {
-      "title": "Tätergruppen schlugen und traten auf Mann ein",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1665665.php",
-      "date": "Tue, 28 Apr 2026 13:00:30 +0200"
-    },
-    {
-      "title": "Sachbeschädigungen mit antisemitischem Hintergrund – Wer hat etwas gesehen?",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1665513.php",
-      "date": "Tue, 28 Apr 2026 10:47:11 +0200"
-    }
-  ],
+  "police": [],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
