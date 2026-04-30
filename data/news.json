@@ -1,6 +1,41 @@
 {
   "traffic": [
     {
+      "title": "Berliner Landesbeschäftigte bekommen wohl keinen Krisenbonus",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/04/berlin-landesbeschaeftigte-kein-krisenbonus-entlastungspraemie.html",
+      "date": "Thu, 30 Apr 2026 12:38:15 +0200"
+    },
+    {
+      "title": "Gericht: Weimers Äußerung über Berliner Buchladen untersagt",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/04/wolfram-weimer-berlin-buchladen-zur-schwankenden-weltkugel-urteil-buchhandlungspreis.html",
+      "date": "Thu, 30 Apr 2026 12:34:40 +0200"
+    },
+    {
+      "title": "Rechtsextreme Angriffe in Cottbus: Neue Ermittlungsgruppe eingerichtet",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/04/brandenburg-cottbus-rechtsextreme-straftaten-redmann-schick-polizei-ermittlung.html",
+      "date": "Thu, 30 Apr 2026 12:22:07 +0200"
+    },
+    {
+      "title": "Berlin-Köpenick: Polizei schießt auf flüchtenden Autofahrer",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-koepenick-polizei-schuss.html",
+      "date": "Thu, 30 Apr 2026 12:00:45 +0200"
+    },
+    {
+      "title": "Radfahrer in Berlin-Neukölln von Lkw erfasst und gestorben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-neukoelln-radfahrer-gestorben-lkw-abbiege-unfall.html",
+      "date": "Thu, 30 Apr 2026 11:39:01 +0200"
+    },
+    {
+      "title": "Lkw-Fahrer rammt in Cottbus Straßenbahn - und fährt weiter",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/cottbus-unfall-lkw-tram-fahrer-flucht-polizei.html",
+      "date": "Thu, 30 Apr 2026 10:48:36 +0200"
+    },
+    {
+      "title": "Demos und Raves: Verkehrseinschränkungen in Berlin am 1. Mai",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/1-mai-veranstaltungen-verkehr-berlin-2026.html",
+      "date": "Thu, 30 Apr 2026 10:37:34 +0200"
+    },
+    {
       "title": "Berliner Finanzsenator Evers übernimmt zusätzlich Kulturressort",
       "link": "https://www.rbb24.de/politik/beitrag/2026/04/stefan-evers-finanzsenator-kultursenator-kulturressort-berlin-Wedl-Wilson.html",
       "date": "Thu, 30 Apr 2026 09:32:52 +0200"
@@ -14,44 +49,19 @@
       "title": "Krankenstand bei US-Elektroautobauer Tesla in Grünheide nach Maßnahmen gesunken",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/tesla-krankenstand-gruenheide-gesunken-arbeit.html",
       "date": "Thu, 30 Apr 2026 08:45:56 +0200"
-    },
-    {
-      "title": "Alba Berlin vor Gipfeltreffen in München",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/04/basketball-bundesliga-bbl-alba-berlin-bayern-muenchen-topspiel-livestream-vorbericht-rataj.html",
-      "date": "Thu, 30 Apr 2026 08:28:38 +0200"
-    },
-    {
-      "title": "40 Jahre Linie 1: \"Die Wilmersdorfer Witwen wirken schon ein bisschen bedrohlicher gerade\"",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/04/grips-theater-berlin-40-jahre-linie-1-interview.html",
-      "date": "Thu, 30 Apr 2026 07:56:00 +0200"
-    },
-    {
-      "title": "Demos und Raves: Verkehrseinschränkungen in Berlin am 1. Mai",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/1-mai-veranstaltungen-verkehr-berlin-2026.html",
-      "date": "Thu, 30 Apr 2026 06:28:00 +0200"
-    },
-    {
-      "title": "Babelsberg 03 schlägt Halle und macht großen Schritt zum Klassenerhalt",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/04/fussball-regionalliga-nordost-babelsberg-03-hallescher-fc-hfc-spielbericht.html",
-      "date": "Wed, 29 Apr 2026 22:43:10 +0200"
-    },
-    {
-      "title": "BR Volleys gewinnen erstes Final-Spiel in Lüneburg und erobern Heimvorteil",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/04/volleyball-bundesliga-vbl-finale-spiel-eins-svg-lueneburg-br-volleys-spielbericht.html",
-      "date": "Wed, 29 Apr 2026 22:08:33 +0200"
-    },
-    {
-      "title": "BerlinTrend: CDU verliert - Grüne, Linke und AfD gleichauf",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-trend-april-cdu-spd-gruene-linke-afd.html",
-      "date": "Wed, 29 Apr 2026 21:12:58 +0200"
-    },
-    {
-      "title": "Abramović-Ausstellung im Gropius-Bau öffnet abends länger",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/04/berlin-gropiusbau-ausstellung-performancekuenstlerin-abramovic-laenger-auf.html",
-      "date": "Wed, 29 Apr 2026 21:06:42 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Festnahme nach Fahrzeugdiebstahl, verbotenem Kraftfahrzeugrennen und mehreren Verkehrsdelikten",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1666631.php",
+      "date": "Thu, 30 Apr 2026 11:28:44 +0200"
+    },
+    {
+      "title": "Sachbeschädigungen an Zaunanlage des Görlitzer Parks",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1666557.php",
+      "date": "Thu, 30 Apr 2026 10:27:35 +0200"
+    },
     {
       "title": "Gefährliche Körperverletzung mit Teppichmesser - Festnahme",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1666111.php",
@@ -91,16 +101,6 @@
       "title": "Nationalsozialistische Parole gerufen - Festnahmen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1665487.php",
       "date": "Tue, 28 Apr 2026 10:26:29 +0200"
-    },
-    {
-      "title": "Schüsse auf Fahrschule",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1665281.php",
-      "date": "Mon, 27 Apr 2026 17:33:39 +0200"
-    },
-    {
-      "title": "Vielzahl an Straftaten bei Flucht vor Polizei",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1665265.php",
-      "date": "Mon, 27 Apr 2026 17:12:30 +0200"
     }
   ],
   "free_events": [],
