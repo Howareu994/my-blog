@@ -1,9 +1,14 @@
 {
   "traffic": [
     {
+      "title": "Später Overtime-K.O.: Eisbären verlieren Krimi gegen Adler",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/04/eishockey-spiel-vier-playoffs-finale-eisbaeren-adler-mannheim.html",
+      "date": "Thu, 30 Apr 2026 23:47:26 +0200"
+    },
+    {
       "title": "Walpurgisnacht: Protest \"Take back the Night\" in Kreuzberg",
       "link": "https://www.rbb24.de/politik/beitrag/2026/04/take-back-the-night-walpurgis-protest-kreuzberg-mitte-demo.html",
-      "date": "Thu, 30 Apr 2026 22:30:00 +0200"
+      "date": "Thu, 30 Apr 2026 23:28:52 +0200"
     },
     {
       "title": "Berlin-Lichterfelde: 15 Verletzte bei Brand in Obdachlosenheim",
@@ -44,14 +49,60 @@
       "title": "Brandenburg will Haltung gefährlicher Tiere begrenzen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/brandenburg-landesregierung-haltung-gefaehrlicher-tiere-begrenzen.html",
       "date": "Thu, 30 Apr 2026 18:08:12 +0200"
-    },
-    {
-      "title": "\"Blechtrommel\"-Fragment von Grass aufgetaucht",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/05/berlin-akademie-der-kuenste-blechtrommel-fragment-aufgetaucht.html",
-      "date": "Thu, 30 Apr 2026 17:55:35 +0200"
     }
   ],
-  "police": [],
+  "police": [
+    {
+      "title": "Vermisster Jugendlicher wieder im Kreis seiner Familie",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1666711.php",
+      "date": "Thu, 30 Apr 2026 17:07:00 +0200"
+    },
+    {
+      "title": "Festnahmen und Durchsuchungen nach Drogenhandel",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1666900.php",
+      "date": "Thu, 30 Apr 2026 15:52:07 +0200"
+    },
+    {
+      "title": "Festnahme nach Fahrzeugdiebstahl, verbotenem Kraftfahrzeugrennen und mehreren Verkehrsdelikten",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1666631.php",
+      "date": "Thu, 30 Apr 2026 11:28:44 +0200"
+    },
+    {
+      "title": "Sachbeschädigungen an Zaunanlage des Görlitzer Parks",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1666557.php",
+      "date": "Thu, 30 Apr 2026 10:27:35 +0200"
+    },
+    {
+      "title": "Gefährliche Körperverletzung mit Teppichmesser - Festnahme",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1666111.php",
+      "date": "Wed, 29 Apr 2026 11:52:00 +0200"
+    },
+    {
+      "title": "Zwölfjähriger Radfahrer bei Unfall verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1665994.php",
+      "date": "Wed, 29 Apr 2026 09:53:19 +0200"
+    },
+    {
+      "title": "Verkehrsunfall zwischen Fußgänger und Straßenbahn",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1665703.php",
+      "date": "Tue, 28 Apr 2026 13:27:32 +0200"
+    },
+    {
+      "title": "Autofahrerin fährt Fußgänger an",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1665698.php",
+      "date": "Tue, 28 Apr 2026 13:23:59 +0200"
+    },
+    {
+      "title": "Tätergruppen schlugen und traten auf Mann ein",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1665665.php",
+      "date": "Tue, 28 Apr 2026 13:00:30 +0200"
+    },
+    {
+      "title": "Sachbeschädigungen mit antisemitischem Hintergrund – Wer hat etwas gesehen?",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1665513.php",
+      "date": "Tue, 28 Apr 2026 10:47:11 +0200"
+    }
+  ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
