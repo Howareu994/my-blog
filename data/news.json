@@ -1,6 +1,41 @@
 {
   "traffic": [
     {
+      "title": "S-Bahn Berlin: Zahlreiche Unterbrechungen im Mai",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-sbahn-bauarbeiten-unterbrechungen.html",
+      "date": "Thu, 30 Apr 2026 16:06:45 +0200"
+    },
+    {
+      "title": "Radfahrer in Berlin-Neukölln von Lkw erfasst und gestorben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-neukoelln-radfahrer-gestorben-lkw-abbiege-unfall.html",
+      "date": "Thu, 30 Apr 2026 15:39:19 +0200"
+    },
+    {
+      "title": "BVG verzeichnet größere Zuverlässigkeit im Betrieb",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/berlin-bvg-jahresbilanz-2025-mehr-zuverlaessigkeit.html",
+      "date": "Thu, 30 Apr 2026 15:29:08 +0200"
+    },
+    {
+      "title": "BVG setzt neue Züge jetzt auf der Linie U5 ein",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/bvg-ubahn-berlin-verkehrsbetriebe-neue-zuege-u5.html",
+      "date": "Thu, 30 Apr 2026 15:20:21 +0200"
+    },
+    {
+      "title": "1. Mai: Diese Demos und Veranstaltungen gibt es in Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-1-mai-demonstrationen-veranstaltungen-maidemo.html",
+      "date": "Thu, 30 Apr 2026 15:14:45 +0200"
+    },
+    {
+      "title": "Einspruch der AfD: Landratswahl in Spree-Neiße gültig",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/04/brandenburg-spree-neisse-landrat-wahl-gueltig-einspruch-afd-heusler.html",
+      "date": "Thu, 30 Apr 2026 14:45:09 +0200"
+    },
+    {
+      "title": "Berliner Landesbeschäftigte bekommen wohl keinen Krisenbonus",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/04/berlin-landesbeschaeftigte-kein-krisenbonus-entlastungspraemie.html",
+      "date": "Thu, 30 Apr 2026 14:38:58 +0200"
+    },
+    {
       "title": "Berlin-Köpenick: Polizei schießt auf flüchtenden Autofahrer",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-koepenick-polizei-schuss.html",
       "date": "Thu, 30 Apr 2026 13:28:30 +0200"
@@ -14,44 +49,14 @@
       "title": "Brandenburgs Pflegeheimbewohner haben Anspruch auf Einzelzimmer",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/brandenburg-pflegeheim-bewohner-anspruch-einzelzimmer.html",
       "date": "Thu, 30 Apr 2026 13:08:46 +0200"
-    },
-    {
-      "title": "Pflegerin wollte Chef vergiften - Anklage erhoben",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-pflegerin-vergiftet-chef-anklage.html",
-      "date": "Thu, 30 Apr 2026 13:07:47 +0200"
-    },
-    {
-      "title": "Gericht: Weimers Äußerung über Berliner Buchladen untersagt",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/04/wolfram-weimer-berlin-buchladen-zur-schwankenden-weltkugel-urteil-buchhandlungspreis.html",
-      "date": "Thu, 30 Apr 2026 12:59:37 +0200"
-    },
-    {
-      "title": "Berliner Landesbeschäftigte bekommen wohl keinen Krisenbonus",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/04/berlin-landesbeschaeftigte-kein-krisenbonus-entlastungspraemie.html",
-      "date": "Thu, 30 Apr 2026 12:38:15 +0200"
-    },
-    {
-      "title": "Rechtsextreme Angriffe in Cottbus: Neue Ermittlungsgruppe eingerichtet",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/04/brandenburg-cottbus-rechtsextreme-straftaten-redmann-schick-polizei-ermittlung.html",
-      "date": "Thu, 30 Apr 2026 12:22:07 +0200"
-    },
-    {
-      "title": "Radfahrer in Berlin-Neukölln von Lkw erfasst und gestorben",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-neukoelln-radfahrer-gestorben-lkw-abbiege-unfall.html",
-      "date": "Thu, 30 Apr 2026 11:39:01 +0200"
-    },
-    {
-      "title": "Lkw-Fahrer rammt in Cottbus Straßenbahn - und fährt weiter",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/cottbus-unfall-lkw-tram-fahrer-flucht-polizei.html",
-      "date": "Thu, 30 Apr 2026 10:48:36 +0200"
-    },
-    {
-      "title": "Demos und Raves: Verkehrseinschränkungen in Berlin am 1. Mai",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/1-mai-veranstaltungen-verkehr-berlin-2026.html",
-      "date": "Thu, 30 Apr 2026 10:37:34 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Festnahmen und Durchsuchungen nach Drogenhandel",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1666900.php",
+      "date": "Thu, 30 Apr 2026 15:52:07 +0200"
+    },
     {
       "title": "Jugendlicher vermisst – Polizei bittet um Mithilfe",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1666711.php",
@@ -96,11 +101,6 @@
       "title": "Sachbeschädigungen mit antisemitischem Hintergrund – Wer hat etwas gesehen?",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1665513.php",
       "date": "Tue, 28 Apr 2026 10:47:11 +0200"
-    },
-    {
-      "title": "Schüsse auf Autoteilehandel",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1665505.php",
-      "date": "Tue, 28 Apr 2026 10:39:53 +0200"
     }
   ],
   "free_events": [],
