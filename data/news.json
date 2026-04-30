@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Walpurgis-Protest startet in Kreuzberg",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/04/take-back-the-night-walpurgis-protest-kreuzberg-mitte-demo.html",
+      "date": "Thu, 30 Apr 2026 20:59:53 +0200"
+    },
+    {
+      "title": "Schule in Brandenburg: Eltern beklagen Unterrichtsausfall",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/04/brandenburg-bildung-schule-eltern-klage-ueber-schulausfall.html",
+      "date": "Thu, 30 Apr 2026 20:44:49 +0200"
+    },
+    {
+      "title": "Tierschutzkonferenz: Mähroboter verletzten immer mehr Igel",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/04/brandenburg-tierschutzkonferenz-maehroboter-viele-verletzte-igel.html",
+      "date": "Thu, 30 Apr 2026 19:23:47 +0200"
+    },
+    {
       "title": "Maler und Bildhauer Georg Baselitz gestorben",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/04/berlin-maler-bildhauer-georg-baselitz-gestorben.html",
       "date": "Thu, 30 Apr 2026 18:48:38 +0200"
@@ -9,11 +24,6 @@
       "title": "Brandenburger Innenministerium will Signal der Abschreckung senden",
       "link": "https://www.rbb24.de/politik/beitrag/2026/04/brandenburg-cottbus-rechtsextreme-straftaten-redmann-schick-polizei-ermittlung.html",
       "date": "Thu, 30 Apr 2026 18:30:34 +0200"
-    },
-    {
-      "title": "Walpurgis-Demo will von Kreuzberg nach Mitte ziehen",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/04/take-back-the-night-walpurgis-protest-kreuzberg-mitte-demo.html",
-      "date": "Thu, 30 Apr 2026 18:24:18 +0200"
     },
     {
       "title": "Vor Duisburg-Spiel: Cottbus-Trainer Wollitz lässt Zukunft offen",
@@ -39,16 +49,6 @@
       "title": "1. Mai: Diese Demos und Veranstaltungen gibt es in Berlin",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-1-mai-demonstrationen-veranstaltungen-maidemo.html",
       "date": "Thu, 30 Apr 2026 17:31:53 +0200"
-    },
-    {
-      "title": "Neue Bühne Senftenberg: Jubiläums- und Abschiedsjahr",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/04/brandenburg-senftenberg-neue-buehne-jubilaeum-80-jahre-programm-daniel-ris.html",
-      "date": "Thu, 30 Apr 2026 17:15:15 +0200"
-    },
-    {
-      "title": "S-Bahn Berlin: Zahlreiche Unterbrechungen im Mai",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-sbahn-bauarbeiten-unterbrechungen.html",
-      "date": "Thu, 30 Apr 2026 16:06:45 +0200"
     }
   ],
   "police": [
