@@ -1,14 +1,29 @@
 {
   "traffic": [
     {
-      "title": "1. Mai im Liveticker: Görlitzer Bahnhof gesperrt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/ticker-1-mai-feiertag-arbeit-demo-berlin-brandenburg.html",
-      "date": "Fri, 01 May 2026 17:38:34 +0200"
-    },
-    {
       "title": "Umstrittenes Tor, glücklicher Sieg für Unions Frauen in Hamburg",
       "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-bundesliga-frauen-hamburger-sv-union-berlin-spielbericht.html",
-      "date": "Fri, 01 May 2026 17:37:12 +0200"
+      "date": "Fri, 01 May 2026 18:28:49 +0200"
+    },
+    {
+      "title": "Formel E zum 12. Mal auf dem Tempelhofer Feld in Berlin",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/motorsport-rennen-formel-e-berlin-tempelhofer-feld-porsche.html",
+      "date": "Fri, 01 May 2026 18:28:47 +0200"
+    },
+    {
+      "title": "1. Mai im Liveticker: Görlitzer Bahnhof gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/ticker-1-mai-feiertag-arbeit-demo-berlin-brandenburg.html",
+      "date": "Fri, 01 May 2026 18:26:34 +0200"
+    },
+    {
+      "title": "1. Mai in Berlin und Brandenburg: Gewerkschaften demonstrieren",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-brandenburg-1-mai-demonstration-gewerkschaften.html",
+      "date": "Fri, 01 May 2026 18:04:40 +0200"
+    },
+    {
+      "title": "Wetteraussichten: Der Mai beginnt sonnig bei bis zu 28 Grad",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-brandenburg-wetteraussichten-trockenheit-waldbrandgefahr.html",
+      "date": "Fri, 01 May 2026 18:03:54 +0200"
     },
     {
       "title": "Schüsse auf Haus in Spandau und Fahrschule in Tempelhof",
@@ -18,7 +33,7 @@
     {
       "title": "Bildergalerie: So feiert Berlin den 1. Mai",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/bilder-1-mai-2026-berlin-brandenburg-demo0.html",
-      "date": "Fri, 01 May 2026 16:41:18 +0200"
+      "date": "Fri, 01 May 2026 16:41:00 +0200"
     },
     {
       "title": "Rheinsberg: Katze lockt Betrunkenen offenbar in fremde Wohnung",
@@ -31,24 +46,9 @@
       "date": "Fri, 01 May 2026 15:10:30 +0200"
     },
     {
-      "title": "1. Mai in Berlin und Brandenburg: Gewerkschaften demonstrieren",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-brandenburg-1-mai-demonstration-gewerkschaften.html",
-      "date": "Fri, 01 May 2026 15:00:22 +0200"
-    },
-    {
-      "title": "Ex-Herthaner Preetz formt Duisburg zum Zweitliga-Anwärter",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/berlin-brandenburg-fussball-energie-cottbus-msv-duisburg-michael-preetz-hertha-aufstieg.html",
-      "date": "Fri, 01 May 2026 14:39:47 +0200"
-    },
-    {
       "title": "Tödlicher Unfall in Neukölln: Lkw-Fahrer erfasst Radfahrer",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-neukoelln-radfahrer-gestorben-lkw-abbiege-unfall.html",
       "date": "Fri, 01 May 2026 12:45:12 +0200"
-    },
-    {
-      "title": "Tierschutzkonferenz: Mähroboter verletzten immer mehr Igel",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/04/brandenburg-tierschutzkonferenz-maehroboter-viele-verletzte-igel.html",
-      "date": "Fri, 01 May 2026 11:12:29 +0200"
     }
   ],
   "police": [
