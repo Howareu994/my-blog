@@ -1,19 +1,24 @@
 {
   "traffic": [
     {
+      "title": "1. Mai im Liveticker: +++ \"Revolutionäre 1.-Mai\"-Demo gestartet +++",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/ticker-1-mai-feiertag-arbeit-demo-berlin-brandenburg.html",
+      "date": "Fri, 01 May 2026 19:50:16 +0200"
+    },
+    {
       "title": "Umstrittenes Tor, glücklicher Sieg für Unions Frauen in Hamburg",
       "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-bundesliga-frauen-hamburger-sv-union-berlin-spielbericht.html",
-      "date": "Fri, 01 May 2026 18:28:49 +0200"
+      "date": "Fri, 01 May 2026 19:00:15 +0200"
+    },
+    {
+      "title": "Waldbrand bei ehemaligem Truppenübungsplatz \"Altes Lager\" in Jügerbog",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/waldbrand-ehemaliger-truppenuebungsplatz-jueterbog-altes-lager.html",
+      "date": "Fri, 01 May 2026 18:45:26 +0200"
     },
     {
       "title": "Formel E zum 12. Mal auf dem Tempelhofer Feld in Berlin",
       "link": "https://www.rbb24.de/sport/beitrag/2026/05/motorsport-rennen-formel-e-berlin-tempelhofer-feld-porsche.html",
       "date": "Fri, 01 May 2026 18:28:47 +0200"
-    },
-    {
-      "title": "1. Mai im Liveticker: Görlitzer Bahnhof gesperrt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/ticker-1-mai-feiertag-arbeit-demo-berlin-brandenburg.html",
-      "date": "Fri, 01 May 2026 18:26:34 +0200"
     },
     {
       "title": "1. Mai in Berlin und Brandenburg: Gewerkschaften demonstrieren",
@@ -44,11 +49,6 @@
       "title": "Zu Gast in Magdeburg: Wird Hertha BSC zum Abstiegsentscheider?",
       "link": "https://www.rbb24.de/sport/beitrag/2026/05/berlin-fussball-hertha-bsc-magdeburg-vorbericht-leitl-reese.html",
       "date": "Fri, 01 May 2026 15:10:30 +0200"
-    },
-    {
-      "title": "Tödlicher Unfall in Neukölln: Lkw-Fahrer erfasst Radfahrer",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-neukoelln-radfahrer-gestorben-lkw-abbiege-unfall.html",
-      "date": "Fri, 01 May 2026 12:45:12 +0200"
     }
   ],
   "police": [
