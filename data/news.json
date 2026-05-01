@@ -1,9 +1,29 @@
 {
   "traffic": [
     {
-      "title": "1. Mai im Liveticker: Tausende bei \"MyGruni\"-Protest im Grunewald",
+      "title": "1. Mai im Liveticker: Görlitzer Bahnhof gesperrt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/ticker-1-mai-feiertag-arbeit-demo-berlin-brandenburg.html",
-      "date": "Fri, 01 May 2026 14:54:05 +0200"
+      "date": "Fri, 01 May 2026 16:12:00 +0200"
+    },
+    {
+      "title": "Rheinsberg: Katze lockt Betrunkenen offenbar in fremde Wohnung",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/rheinsberg-brandenburg-ostprignitz-ruppin-betrunkener-katze.html",
+      "date": "Fri, 01 May 2026 15:36:29 +0200"
+    },
+    {
+      "title": "Zu Gast in Magdeburg: Wird Hertha BSC zum Abstiegsentscheider?",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/berlin-fussball-hertha-bsc-magdeburg-vorbericht-leitl-reese.html",
+      "date": "Fri, 01 May 2026 15:10:30 +0200"
+    },
+    {
+      "title": "1. Mai in Berlin und Brandenburg: Gewerkschaften demonstrieren",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-brandenburg-1-mai-demonstration-gewerkschaften.html",
+      "date": "Fri, 01 May 2026 15:00:22 +0200"
+    },
+    {
+      "title": "Ex-Herthaner Preetz formt Duisburg zum Zweitliga-Anwärter",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/berlin-brandenburg-fussball-energie-cottbus-msv-duisburg-michael-preetz-hertha-aufstieg.html",
+      "date": "Fri, 01 May 2026 14:39:47 +0200"
     },
     {
       "title": "Tödlicher Unfall in Neukölln: Lkw-Fahrer erfasst Radfahrer",
@@ -29,29 +49,19 @@
       "title": "Wetteraussichten: Der Mai beginnt sonnig bei bis zu 28 Grad",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-brandenburg-wetteraussichten-trockenheit-waldbrandgefahr.html",
       "date": "Fri, 01 May 2026 10:15:24 +0200"
-    },
-    {
-      "title": "1. Mai: Diese Demos und Veranstaltungen gibt es in Berlin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-1-mai-demonstrationen-veranstaltungen-maidemo.html",
-      "date": "Fri, 01 May 2026 09:56:00 +0200"
-    },
-    {
-      "title": "Luckenwalde macht mit Sieg gegen Hertha den Klassenerhalt fix",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/regionalliga-nordost-hertha-bsc-ii-fsv-luckenwalde.html",
-      "date": "Fri, 01 May 2026 09:06:59 +0200"
-    },
-    {
-      "title": "Hamburger Bahnhof: 400.000 Holzklötze und die Kunst, gemeinsam zu bauen",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/05/hamburger-bahnhof-berlin-ausstellung-lina-lapelyt-we-make-years-out-of-hours.html",
-      "date": "Fri, 01 May 2026 07:18:00 +0200"
-    },
-    {
-      "title": "Später Overtime-K.o.: Eisbären verlieren Krimi gegen Adler",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/04/eishockey-spiel-vier-playoffs-finale-eisbaeren-adler-mannheim.html",
-      "date": "Thu, 30 Apr 2026 23:55:00 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Brennende Pkw",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1666993.php",
+      "date": "Fri, 01 May 2026 15:28:49 +0200"
+    },
+    {
+      "title": "Schüsse auf Haus und Fahrschule",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1666992.php",
+      "date": "Fri, 01 May 2026 15:12:19 +0200"
+    },
     {
       "title": "Motorradfahrer wurde bei einem Verkehrsunfall verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1666991.php",
@@ -91,16 +101,6 @@
       "title": "Gefährliche Körperverletzung mit Teppichmesser - Festnahme",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1666111.php",
       "date": "Wed, 29 Apr 2026 11:52:00 +0200"
-    },
-    {
-      "title": "Zwölfjähriger Radfahrer bei Unfall verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1665994.php",
-      "date": "Wed, 29 Apr 2026 09:53:19 +0200"
-    },
-    {
-      "title": "Verkehrsunfall zwischen Fußgänger und Straßenbahn",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1665703.php",
-      "date": "Tue, 28 Apr 2026 13:27:32 +0200"
     }
   ],
   "free_events": [],
