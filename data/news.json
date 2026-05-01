@@ -3,7 +3,12 @@
     {
       "title": "1. Mai im Liveticker: ++ DGB-Demo startet verspätet ++",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/ticker-1-mai-feiertag-arbeit-demo-berlin-brandenburg.html",
-      "date": "Fri, 01 May 2026 12:03:22 +0200"
+      "date": "Fri, 01 May 2026 13:02:18 +0200"
+    },
+    {
+      "title": "Tödlicher Unfall in Neukölln: Lkw-Fahrer erfasst Radfahrer",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-neukoelln-radfahrer-gestorben-lkw-abbiege-unfall.html",
+      "date": "Fri, 01 May 2026 12:45:12 +0200"
     },
     {
       "title": "Tierschutzkonferenz: Mähroboter verletzten immer mehr Igel",
@@ -44,14 +49,14 @@
       "title": "Später Overtime-K.o.: Eisbären verlieren Krimi gegen Adler",
       "link": "https://www.rbb24.de/sport/beitrag/2026/04/eishockey-spiel-vier-playoffs-finale-eisbaeren-adler-mannheim.html",
       "date": "Thu, 30 Apr 2026 23:55:00 +0200"
-    },
-    {
-      "title": "Walpurgisnacht: Protest \"Take back the Night\" in Kreuzberg",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/04/take-back-the-night-walpurgis-protest-kreuzberg-mitte-demo.html",
-      "date": "Thu, 30 Apr 2026 23:28:52 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Parkscheinautomat gesprengt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1666990.php",
+      "date": "Fri, 01 May 2026 13:14:47 +0200"
+    },
     {
       "title": "Fahrradfahrer nach Verkehrsunfall verstorben",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1666989.php",
@@ -96,11 +101,6 @@
       "title": "Autofahrerin fährt Fußgänger an",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1665698.php",
       "date": "Tue, 28 Apr 2026 13:23:59 +0200"
-    },
-    {
-      "title": "Tätergruppen schlugen und traten auf Mann ein",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1665665.php",
-      "date": "Tue, 28 Apr 2026 13:00:30 +0200"
     }
   ],
   "free_events": [],
