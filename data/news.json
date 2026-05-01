@@ -1,9 +1,9 @@
 {
   "traffic": [
     {
-      "title": "1. Mai im Liveticker: ++ DGB-Demo startet verspätet ++",
+      "title": "1. Mai im Liveticker: Tausende bei \"MyGruni\"-Protest im Grunewald",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/ticker-1-mai-feiertag-arbeit-demo-berlin-brandenburg.html",
-      "date": "Fri, 01 May 2026 13:02:18 +0200"
+      "date": "Fri, 01 May 2026 14:54:05 +0200"
     },
     {
       "title": "Tödlicher Unfall in Neukölln: Lkw-Fahrer erfasst Radfahrer",
@@ -53,6 +53,11 @@
   ],
   "police": [
     {
+      "title": "Motorradfahrer wurde bei einem Verkehrsunfall verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1666991.php",
+      "date": "Fri, 01 May 2026 13:58:29 +0200"
+    },
+    {
       "title": "Parkscheinautomat gesprengt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1666990.php",
       "date": "Fri, 01 May 2026 13:14:47 +0200"
@@ -96,11 +101,6 @@
       "title": "Verkehrsunfall zwischen Fußgänger und Straßenbahn",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1665703.php",
       "date": "Tue, 28 Apr 2026 13:27:32 +0200"
-    },
-    {
-      "title": "Autofahrerin fährt Fußgänger an",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1665698.php",
-      "date": "Tue, 28 Apr 2026 13:23:59 +0200"
     }
   ],
   "free_events": [],
