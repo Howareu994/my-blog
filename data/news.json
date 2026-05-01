@@ -1,9 +1,29 @@
 {
   "traffic": [
     {
-      "title": "1. Mai im Liveticker: +++ \"Revolutionäre 1.-Mai\"-Demo gestartet +++",
+      "title": "Bildergalerie: So feiert Berlin den 1. Mai",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/bilder-1-mai-2026-berlin-brandenburg-demo0.html",
+      "date": "Fri, 01 May 2026 20:50:22 +0200"
+    },
+    {
+      "title": "Wohnhausbrand in Guben: Ein Mensch tot, zwei im Krankenhaus",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/guben-brand-wohnhaus-eine-person-tot.html",
+      "date": "Fri, 01 May 2026 20:45:28 +0200"
+    },
+    {
+      "title": "1. Mai im Liveticker: +++ \"Revolutionäre 1.-Mai\"-Demo zieht durch Kreuzberg +++",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/ticker-1-mai-feiertag-arbeit-demo-berlin-brandenburg.html",
-      "date": "Fri, 01 May 2026 19:50:16 +0200"
+      "date": "Fri, 01 May 2026 20:43:52 +0200"
+    },
+    {
+      "title": "Basketball: Alba verliert bei den Bayern, verkauft sich aber teuer",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/basketball-bbl-bayern-muenchen-alba-berlin-spielbericht.html",
+      "date": "Fri, 01 May 2026 20:17:12 +0200"
+    },
+    {
+      "title": "Oberleitung gerissen - ICE muss auf der Strecke Berlin-Hamburg notbremsen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/einschraenkung-oberleitung-strecke-hamburg-berlin.html",
+      "date": "Fri, 01 May 2026 19:53:58 +0200"
     },
     {
       "title": "Umstrittenes Tor, glücklicher Sieg für Unions Frauen in Hamburg",
@@ -29,26 +49,6 @@
       "title": "Wetteraussichten: Der Mai beginnt sonnig bei bis zu 28 Grad",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-brandenburg-wetteraussichten-trockenheit-waldbrandgefahr.html",
       "date": "Fri, 01 May 2026 18:03:54 +0200"
-    },
-    {
-      "title": "Schüsse auf Haus in Spandau und Fahrschule in Tempelhof",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-schuesse-spandau-staaken-und-tempelhofer-damm.html",
-      "date": "Fri, 01 May 2026 16:59:21 +0200"
-    },
-    {
-      "title": "Bildergalerie: So feiert Berlin den 1. Mai",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/bilder-1-mai-2026-berlin-brandenburg-demo0.html",
-      "date": "Fri, 01 May 2026 16:41:00 +0200"
-    },
-    {
-      "title": "Rheinsberg: Katze lockt Betrunkenen offenbar in fremde Wohnung",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/rheinsberg-brandenburg-ostprignitz-ruppin-betrunkener-katze.html",
-      "date": "Fri, 01 May 2026 15:36:29 +0200"
-    },
-    {
-      "title": "Zu Gast in Magdeburg: Wird Hertha BSC zum Abstiegsentscheider?",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/berlin-fussball-hertha-bsc-magdeburg-vorbericht-leitl-reese.html",
-      "date": "Fri, 01 May 2026 15:10:30 +0200"
     }
   ],
   "police": [
