@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "1. Mai im Liveticker: ++ DGB-Demo startet verspätet ++",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/ticker-1-mai-feiertag-arbeit-demo-berlin-brandenburg.html",
+      "date": "Fri, 01 May 2026 12:03:22 +0200"
+    },
+    {
+      "title": "Tierschutzkonferenz: Mähroboter verletzten immer mehr Igel",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/04/brandenburg-tierschutzkonferenz-maehroboter-viele-verletzte-igel.html",
+      "date": "Fri, 01 May 2026 11:12:29 +0200"
+    },
+    {
       "title": "Herthas Luca Schuler: \"War Stürmer Nummer drei in deren Köpfen\"",
       "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-hertha-bsc-luca-schuler-magdeburg-handwerk-interview.html",
       "date": "Fri, 01 May 2026 10:53:18 +0200"
@@ -9,11 +19,6 @@
       "title": "Freibadsaison in Berlin startet am Freitag",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-freibad-saison-startet-baeder-betriebe-sommer-baeder.html",
       "date": "Fri, 01 May 2026 10:46:22 +0200"
-    },
-    {
-      "title": "1. Mai im Liveticker: ++ Zahlreiche Demonstrationen angekündigt ++",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/ticker-1-mai-feiertag-arbeit-demo-berlin-brandenburg.html",
-      "date": "Fri, 01 May 2026 10:42:57 +0200"
     },
     {
       "title": "Wetteraussichten: Der Mai beginnt sonnig bei bis zu 28 Grad",
@@ -44,14 +49,14 @@
       "title": "Walpurgisnacht: Protest \"Take back the Night\" in Kreuzberg",
       "link": "https://www.rbb24.de/politik/beitrag/2026/04/take-back-the-night-walpurgis-protest-kreuzberg-mitte-demo.html",
       "date": "Thu, 30 Apr 2026 23:28:52 +0200"
-    },
-    {
-      "title": "Berlin-Lichterfelde: 15 Verletzte bei Brand in Obdachlosenheim",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/04/berlin-brand-obdachlosenheim-lichterfelde-15-verletzte.html",
-      "date": "Thu, 30 Apr 2026 22:28:25 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Fahrradfahrer nach Verkehrsunfall verstorben",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1666989.php",
+      "date": "Fri, 01 May 2026 11:56:23 +0200"
+    },
     {
       "title": "Vermisster Jugendlicher wieder im Kreis seiner Familie",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1666711.php",
@@ -96,11 +101,6 @@
       "title": "Tätergruppen schlugen und traten auf Mann ein",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1665665.php",
       "date": "Tue, 28 Apr 2026 13:00:30 +0200"
-    },
-    {
-      "title": "Sachbeschädigungen mit antisemitischem Hintergrund – Wer hat etwas gesehen?",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1665513.php",
-      "date": "Tue, 28 Apr 2026 10:47:11 +0200"
     }
   ],
   "free_events": [],
