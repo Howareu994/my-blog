@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Theatertreffen-Eröffnung: Gut geölte Opulenz - aber sonst?",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/05/theatertreffen-berlin-eroeffnung-gattopardo-leopard-zuerich-karabulut.html",
+      "date": "Sat, 02 May 2026 12:38:00 +0200"
+    },
+    {
+      "title": "Formel-1-Fahrer und paralympischer Sieger: Ex-Rennfahrer Alessandro Zanardi im Alter von 59 Jahren gestorben",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/alessandro-zanardi-rennfahrer-gestorben-ralf-schumacher-lausitzr.html",
+      "date": "Sat, 02 May 2026 12:04:26 +0200"
+    },
+    {
       "title": "Aufräumen nach Demos und Partys: BSR macht Sonderschichten nach 1. Mai",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-1-mai-bilanz-aufraeumarbeiten-demonstrationen-bsr-sonderschichten-polizei.html",
       "date": "Sat, 02 May 2026 11:16:57 +0200"
@@ -9,11 +19,6 @@
       "title": "Munitionsbelastetes Gelände: Waldbrand auf ehemaligem Truppenübungsplatz bei Jüterbog breitet sich aus",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/waldbrand-ehemaliger-truppenuebungsplatz-jueterbog-altes-lager.html",
       "date": "Sat, 02 May 2026 10:45:03 +0200"
-    },
-    {
-      "title": "Theatertreffen-Eröffnung: Gut geölte Opulenz - aber sonst?",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/05/theatertreffen-berlin-eroeffnung-gattopardo-leopard-zuerich-karabulut.html",
-      "date": "Sat, 02 May 2026 10:34:26 +0200"
     },
     {
       "title": "Rosalia glänzt in der Uber Arena mit Flamenco, Techno und Oper in einem Konzert",
@@ -44,11 +49,6 @@
       "title": "Oberleitung gerissen - ICE muss auf der Strecke Berlin-Hamburg notbremsen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/einschraenkung-oberleitung-strecke-hamburg-berlin.html",
       "date": "Fri, 01 May 2026 19:53:58 +0200"
-    },
-    {
-      "title": "Umstrittenes Tor, glücklicher Sieg für Unions Frauen in Hamburg",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-bundesliga-frauen-hamburger-sv-union-berlin-spielbericht.html",
-      "date": "Fri, 01 May 2026 19:00:15 +0200"
     }
   ],
   "police": [
