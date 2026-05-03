@@ -1,9 +1,19 @@
 {
   "traffic": [
     {
+      "title": "Waldbrand bei Jüterbog: Mehr als Hundert Hektar in Flammen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/waldbrand-ehemaliger-truppenuebungsplatz-jueterbog-altes-lager.html",
+      "date": "Sun, 03 May 2026 17:36:53 +0200"
+    },
+    {
+      "title": "BBL: Albas Basketballer verlieren Krimi gegen Niners Chemnitz",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/basketball-bundesliga-bbl-alba-berlin-chemnitz-hauptrunde-spielbericht.html",
+      "date": "Sun, 03 May 2026 17:32:59 +0200"
+    },
+    {
       "title": "Energie Cottbus verliert Aufstiegskracher mit 1:2 in Duisburg",
       "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-dritte-liga-3-tabelle-aufstiegsrennen-msv-dbuisburg-energie-cottbus.html",
-      "date": "Sun, 03 May 2026 16:02:56 +0200"
+      "date": "Sun, 03 May 2026 17:02:34 +0200"
     },
     {
       "title": "Fußball-Regionalliga: Union Berlin II nimmt nur einen Punkt aus Dresden mit",
@@ -31,11 +41,6 @@
       "date": "Sun, 03 May 2026 13:39:28 +0200"
     },
     {
-      "title": "Waldbrand bei Jüterbog: Mehr als Hundert Hektar in Flammen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/waldbrand-ehemaliger-truppenuebungsplatz-jueterbog-altes-lager.html",
-      "date": "Sun, 03 May 2026 12:47:43 +0200"
-    },
-    {
       "title": "Überlebende erinnern an Befreiung des KZ Ravensbrück",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/kz-ravensbrueck-befreiung-frauen-gedenken.html",
       "date": "Sun, 03 May 2026 12:39:25 +0200"
@@ -44,18 +49,23 @@
       "title": "Robotik-Spezialist: \"Noch nicht so weit, dass uns ein Roboter im Alter pflegt\"",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/robotik-roboter-humanoide-oliver-brock-tu-berlin.html",
       "date": "Sun, 03 May 2026 12:28:15 +0200"
-    },
-    {
-      "title": "Dieter Krein gestorben - langjähriger Präsident von Energie Cottbus",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-dritte-liga-energie-cottbus-dieter-krein-gestorben.html",
-      "date": "Sun, 03 May 2026 11:53:05 +0200"
     }
   ],
   "police": [
     {
+      "title": "Unbekannte attackieren Mann und verletzen ihn",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667027.php",
+      "date": "Sun, 03 May 2026 16:34:04 +0200"
+    },
+    {
       "title": "Schüsse auf ein Café",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667023.php",
       "date": "Sun, 03 May 2026 14:46:40 +0200"
+    },
+    {
+      "title": "Radfahrerin bei Verkehrsunfall verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667026.php",
+      "date": "Sun, 03 May 2026 14:05:00 +0200"
     },
     {
       "title": "E-Scooter-Fahrerin nach Verkehrsunfall im Krankenhaus",
@@ -91,16 +101,6 @@
       "title": "Verkehrsunfall mit mehreren Verletzten und Schaulustigen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667006.php",
       "date": "Sat, 02 May 2026 14:28:56 +0200"
-    },
-    {
-      "title": "Polizei Berlin zieht Bilanz zur Versammlungslage am 1. Mai 2026",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667005.php",
-      "date": "Sat, 02 May 2026 14:25:44 +0200"
-    },
-    {
-      "title": "Mann bei Auseinandersetzung verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667004.php",
-      "date": "Sat, 02 May 2026 14:10:53 +0200"
     }
   ],
   "free_events": [],
