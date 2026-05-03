@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Jetzt live hören: Hertha will Magdeburgs Abstiegssorgen vergrößern",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-zweite-bundesliga-fc-magdeburg-hertha-bsc-berlin-spielbericht-liveticker-stream.html",
+      "date": "Sun, 03 May 2026 13:25:15 +0200"
+    },
+    {
+      "title": "Jetzt im Liveticker: Energie Cottbus' Aufstiegskracher in Duisburg",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-dritte-liga-3-tabelle-aufstiegsrennen-msv-dbuisburg-energie-cottbus.html",
+      "date": "Sun, 03 May 2026 13:25:15 +0200"
+    },
+    {
+      "title": "Waldbrand bei Jüterbog: Mehr als Hundert Hektar in Flammen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/waldbrand-ehemaliger-truppenuebungsplatz-jueterbog-altes-lager.html",
+      "date": "Sun, 03 May 2026 12:47:43 +0200"
+    },
+    {
       "title": "Jugendlicher und Mann in Neukölln durch Schüsse verletzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/schuesse-berlin-nuekoelln-hermannstrasse.html",
       "date": "Sun, 03 May 2026 12:42:14 +0200"
@@ -14,11 +29,6 @@
       "title": "Robotik-Spezialist: \"Noch nicht so weit, dass uns ein Roboter im Alter pflegt\"",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/robotik-roboter-humanoide-oliver-brock-tu-berlin.html",
       "date": "Sun, 03 May 2026 12:28:15 +0200"
-    },
-    {
-      "title": "Waldbrand bei Jüterbog: Mehr als Hundert Hektar in Flammen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/waldbrand-ehemaliger-truppenuebungsplatz-jueterbog-altes-lager.html",
-      "date": "Sun, 03 May 2026 12:23:05 +0200"
     },
     {
       "title": "Ikkimel-Konzert am 1. Mai: Besucher berichten von Überfüllung und Gedränge",
@@ -39,19 +49,19 @@
       "title": "Was war das denn? | Was mich das Glück der Anderen kostet",
       "link": "https://www.rbb24.de/panorama/thema/was-war-das-denn/glueck-der-anderen-romantische-meilensteine-teure-feste.html",
       "date": "Sun, 03 May 2026 11:30:34 +0200"
-    },
-    {
-      "title": "Berliner Fintech-Träume: \"Wir können das London des europäischen Kontinents werden\"",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/05/berlin-fintechs-london-investoren-giffey-ibb-house-of-finance-and-tech.html",
-      "date": "Sun, 03 May 2026 10:42:00 +0200"
-    },
-    {
-      "title": "Analyse zum Remis gegen Köln: Burcus Tanz macht Union Hoffnung",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-bundesliga-fc-union-berlin-koeln-analyse-stats-spielhighlights.html",
-      "date": "Sun, 03 May 2026 09:52:00 +0200"
     }
   ],
   "police": [
+    {
+      "title": "E-Scooter-Fahrerin nach Verkehrsunfall im Krankenhaus",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667022.php",
+      "date": "Sun, 03 May 2026 13:08:00 +0200"
+    },
+    {
+      "title": "Homophober und fremdenfeindlicher Angriff in der U-Bahn",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667021.php",
+      "date": "Sun, 03 May 2026 12:44:00 +0200"
+    },
     {
       "title": "Verkehrsunfall mit Tram – Fußgängerin verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667020.php",
@@ -91,16 +101,6 @@
       "title": "Tödlicher Unfall im U-Bahnhof",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667003.php",
       "date": "Sat, 02 May 2026 13:42:32 +0200"
-    },
-    {
-      "title": "Brennende Pkw",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1666993.php",
-      "date": "Fri, 01 May 2026 15:28:49 +0200"
-    },
-    {
-      "title": "Schüsse auf Haus und Fahrschule",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1666992.php",
-      "date": "Fri, 01 May 2026 15:12:19 +0200"
     }
   ],
   "free_events": [],
