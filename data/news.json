@@ -1,29 +1,39 @@
 {
   "traffic": [
     {
+      "title": "Energie Cottbus verliert Aufstiegskracher mit 1:2 in Duisburg",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-dritte-liga-3-tabelle-aufstiegsrennen-msv-dbuisburg-energie-cottbus.html",
+      "date": "Sun, 03 May 2026 16:02:56 +0200"
+    },
+    {
+      "title": "Fußball-Regionalliga: Union Berlin II nimmt nur einen Punkt aus Dresden mit",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-regionalliga-nordost-frauen-fortuna-dresden-fc-union-berlin-ii-spielbericht.html",
+      "date": "Sun, 03 May 2026 15:59:44 +0200"
+    },
+    {
+      "title": "Hertha BSC enttäuscht mit 0:1 auch in Magdeburg",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-zweite-bundesliga-fc-magdeburg-hertha-bsc-berlin-spielbericht-liveticker-stream.html",
+      "date": "Sun, 03 May 2026 15:47:02 +0200"
+    },
+    {
+      "title": "Wieder Schüsse in Berlin: Zwei Verletzte in Neukölln",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/schuesse-berlin-nuekoelln-hermannstrasse.html",
+      "date": "Sun, 03 May 2026 15:31:48 +0200"
+    },
+    {
+      "title": "Ikkimel-Konzert am 1. Mai: Besucher berichten von Überfüllung und Gedränge",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/1-mai-ikkimel-konzert-kreuzberg-linke-ueberfuellt.html",
+      "date": "Sun, 03 May 2026 14:55:51 +0200"
+    },
+    {
       "title": "Fünf Verletzte bei Unfall mit BVG-Bus in Berlin-Köpenick",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/unfall-bus-bvg-berlin-koepenick.html",
       "date": "Sun, 03 May 2026 13:39:28 +0200"
     },
     {
-      "title": "Jetzt live hören: Hertha will Magdeburgs Abstiegssorgen vergrößern",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-zweite-bundesliga-fc-magdeburg-hertha-bsc-berlin-spielbericht-liveticker-stream.html",
-      "date": "Sun, 03 May 2026 13:25:15 +0200"
-    },
-    {
-      "title": "Jetzt im Liveticker: Energie Cottbus' Aufstiegskracher in Duisburg",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-dritte-liga-3-tabelle-aufstiegsrennen-msv-dbuisburg-energie-cottbus.html",
-      "date": "Sun, 03 May 2026 13:25:15 +0200"
-    },
-    {
       "title": "Waldbrand bei Jüterbog: Mehr als Hundert Hektar in Flammen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/waldbrand-ehemaliger-truppenuebungsplatz-jueterbog-altes-lager.html",
       "date": "Sun, 03 May 2026 12:47:43 +0200"
-    },
-    {
-      "title": "Jugendlicher und Mann in Neukölln durch Schüsse verletzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/schuesse-berlin-nuekoelln-hermannstrasse.html",
-      "date": "Sun, 03 May 2026 12:42:14 +0200"
     },
     {
       "title": "Überlebende erinnern an Befreiung des KZ Ravensbrück",
@@ -36,22 +46,17 @@
       "date": "Sun, 03 May 2026 12:28:15 +0200"
     },
     {
-      "title": "Ikkimel-Konzert am 1. Mai: Besucher berichten von Überfüllung und Gedränge",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/1-mai-ikkimel-konzert-kreuzberg-linke-ueberfuellt.html",
-      "date": "Sun, 03 May 2026 11:55:59 +0200"
-    },
-    {
       "title": "Dieter Krein gestorben - langjähriger Präsident von Energie Cottbus",
       "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-dritte-liga-energie-cottbus-dieter-krein-gestorben.html",
       "date": "Sun, 03 May 2026 11:53:05 +0200"
-    },
-    {
-      "title": "Autorin Alice Hasters über Buch zum Thema \"Opfer\"",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/05/anti-opfer-autorin-alice-hasters-buch-interview-berlin.html",
-      "date": "Sun, 03 May 2026 11:40:10 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Schüsse auf ein Café",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667023.php",
+      "date": "Sun, 03 May 2026 14:46:40 +0200"
+    },
     {
       "title": "E-Scooter-Fahrerin nach Verkehrsunfall im Krankenhaus",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667022.php",
@@ -96,11 +101,6 @@
       "title": "Mann bei Auseinandersetzung verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667004.php",
       "date": "Sat, 02 May 2026 14:10:53 +0200"
-    },
-    {
-      "title": "Tödlicher Unfall im U-Bahnhof",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667003.php",
-      "date": "Sat, 02 May 2026 13:42:32 +0200"
     }
   ],
   "free_events": [],
