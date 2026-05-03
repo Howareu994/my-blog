@@ -1,19 +1,44 @@
 {
   "traffic": [
     {
-      "title": "Zwei Männer in Neukölln durch Schüsse verletzt",
+      "title": "Jugendlicher und Mann in Neukölln durch Schüsse verletzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/schuesse-berlin-nuekoelln-hermannstrasse.html",
-      "date": "Sun, 03 May 2026 11:05:46 +0200"
+      "date": "Sun, 03 May 2026 12:42:14 +0200"
+    },
+    {
+      "title": "Überlebende erinnern an Befreiung des KZ Ravensbrück",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/kz-ravensbrueck-befreiung-frauen-gedenken.html",
+      "date": "Sun, 03 May 2026 12:39:25 +0200"
     },
     {
       "title": "Robotik-Spezialist: \"Noch nicht so weit, dass uns ein Roboter im Alter pflegt\"",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/robotik-roboter-humanoide-oliver-brock-tu-berlin.html",
-      "date": "Sun, 03 May 2026 11:03:28 +0200"
+      "date": "Sun, 03 May 2026 12:28:15 +0200"
     },
     {
-      "title": "Munitionsbelastetes Gelände: Waldbrand auf ehemaligem Truppenübungsplatz bei Jüterbog breitet sich aus",
+      "title": "Waldbrand bei Jüterbog: Mehr als Hundert Hektar in Flammen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/waldbrand-ehemaliger-truppenuebungsplatz-jueterbog-altes-lager.html",
-      "date": "Sun, 03 May 2026 10:52:26 +0200"
+      "date": "Sun, 03 May 2026 12:23:05 +0200"
+    },
+    {
+      "title": "Ikkimel-Konzert am 1. Mai: Besucher berichten von Überfüllung und Gedränge",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/1-mai-ikkimel-konzert-kreuzberg-linke-ueberfuellt.html",
+      "date": "Sun, 03 May 2026 11:55:59 +0200"
+    },
+    {
+      "title": "Dieter Krein gestorben - langjähriger Präsident von Energie Cottbus",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-dritte-liga-energie-cottbus-dieter-krein-gestorben.html",
+      "date": "Sun, 03 May 2026 11:53:05 +0200"
+    },
+    {
+      "title": "Autorin Alice Hasters über Buch zum Thema \"Opfer\"",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/05/anti-opfer-autorin-alice-hasters-buch-interview-berlin.html",
+      "date": "Sun, 03 May 2026 11:40:10 +0200"
+    },
+    {
+      "title": "Was war das denn? | Was mich das Glück der Anderen kostet",
+      "link": "https://www.rbb24.de/panorama/thema/was-war-das-denn/glueck-der-anderen-romantische-meilensteine-teure-feste.html",
+      "date": "Sun, 03 May 2026 11:30:34 +0200"
     },
     {
       "title": "Berliner Fintech-Träume: \"Wir können das London des europäischen Kontinents werden\"",
@@ -21,37 +46,22 @@
       "date": "Sun, 03 May 2026 10:42:00 +0200"
     },
     {
-      "title": "Burcus Tanz macht Union Hoffnung",
+      "title": "Analyse zum Remis gegen Köln: Burcus Tanz macht Union Hoffnung",
       "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-bundesliga-fc-union-berlin-koeln-analyse-stats-spielhighlights.html",
       "date": "Sun, 03 May 2026 09:52:00 +0200"
-    },
-    {
-      "title": "Alice Hasters im Interview über ihr neues Buch \"Anti Opfer\"",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/05/anti-opfer-autorin-alice-hasters-buch-interview-berlin.html",
-      "date": "Sun, 03 May 2026 07:32:00 +0200"
-    },
-    {
-      "title": "Berliner Stadtmission fordert mehr Hilfsangebote für Obdachlose",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berliner-stadtmission-fordert-mehr-tagesaufenthalte-obdachlose.html",
-      "date": "Sat, 02 May 2026 21:43:02 +0200"
-    },
-    {
-      "title": "BSR: Demos und Feiern zum 1. Mai sorgen für doppelt so viel Müll wie im Vorjahr",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/1-mai-aufraeumarbeiten-bsr-muell-350-kubikmeter.html",
-      "date": "Sat, 02 May 2026 19:21:38 +0200"
-    },
-    {
-      "title": "Formel E: Pascal Wehrlein verliert Gesamtführung bei Heim-E-Prix",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/motorsport-berlin-formel-e-hankook-eprix-flughafen-tempelhof.html",
-      "date": "Sat, 02 May 2026 18:54:58 +0200"
-    },
-    {
-      "title": "Nach dem 1. Mai: BSR macht Sonderschichten - Innensenatorin zieht positive Bilanz",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-1-mai-bilanz-aufraeumarbeiten-demonstrationen-bsr-sonderschichten-polizei.html",
-      "date": "Sat, 02 May 2026 18:10:12 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Verkehrsunfall mit Tram – Fußgängerin verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667020.php",
+      "date": "Sun, 03 May 2026 11:57:37 +0200"
+    },
+    {
+      "title": "Jugendlicher und Mann nach erlittenen Schussverletzungen in Krankenhäusern",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667019.php",
+      "date": "Sun, 03 May 2026 11:46:00 +0200"
+    },
     {
       "title": "Polizeibeamter von Personengruppe angegriffen und verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667008.php",
@@ -91,16 +101,6 @@
       "title": "Schüsse auf Haus und Fahrschule",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1666992.php",
       "date": "Fri, 01 May 2026 15:12:19 +0200"
-    },
-    {
-      "title": "Motorradfahrer wurde bei einem Verkehrsunfall verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1666991.php",
-      "date": "Fri, 01 May 2026 13:58:29 +0200"
-    },
-    {
-      "title": "Parkscheinautomat gesprengt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1666990.php",
-      "date": "Fri, 01 May 2026 13:14:47 +0200"
     }
   ],
   "free_events": [],
