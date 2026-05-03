@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Alice Hasters im Interview über ihr neues Buch \"Anti Opfer\"",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/05/anti-opfer-autorin-alice-hasters-buch-interview-berlin.html",
+      "date": "Sun, 03 May 2026 07:32:17 +0200"
+    },
+    {
+      "title": "Berliner Fintech-Träume: \"Wir können das London des europäischen Kontinents werden\"",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/05/berlin-fintechs-london-investoren-giffey-ibb-house-of-finance-and-tech.html",
+      "date": "Sun, 03 May 2026 07:15:42 +0200"
+    },
+    {
       "title": "BR Volleys gewinnen zweites Finalspiel gegen Lüneburg",
       "link": "https://www.rbb24.de/sport/beitrag/2026/05/volleyball-bundesliga-vbl-br-volleys-berlin-svg-lueneburg-playoffs-finale-spiel-zwei.html",
       "date": "Sat, 02 May 2026 22:36:20 +0200"
@@ -39,16 +49,6 @@
       "title": "25 Jahre nach Unfall am Lausitzring: Ex-Rennfahrer Zanardi gestorben",
       "link": "https://www.rbb24.de/sport/beitrag/2026/05/alessandro-zanardi-rennfahrer-gestorben-ralf-schumacher-lausitzr.html",
       "date": "Sat, 02 May 2026 16:22:00 +0200"
-    },
-    {
-      "title": "Munitionsbelastetes Gelände: Waldbrand auf ehemaligem Truppenübungsplatz bei Jüterbog breitet sich aus",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/waldbrand-ehemaliger-truppenuebungsplatz-jueterbog-altes-lager.html",
-      "date": "Sat, 02 May 2026 16:04:00 +0200"
-    },
-    {
-      "title": "Tödlicher Unfall im U-Bahnhof Gleisdreieck: Mann von Zug mitgeschleift",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-kreuzberg-u-bahn-unfall-mann-tot.html",
-      "date": "Sat, 02 May 2026 15:30:20 +0200"
     }
   ],
   "police": [
