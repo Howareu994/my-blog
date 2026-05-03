@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Fünf Verletzte bei Unfall mit BVG-Bus in Berlin-Köpenick",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/unfall-bus-bvg-berlin-koepenick.html",
+      "date": "Sun, 03 May 2026 13:39:28 +0200"
+    },
+    {
       "title": "Jetzt live hören: Hertha will Magdeburgs Abstiegssorgen vergrößern",
       "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-zweite-bundesliga-fc-magdeburg-hertha-bsc-berlin-spielbericht-liveticker-stream.html",
       "date": "Sun, 03 May 2026 13:25:15 +0200"
@@ -44,11 +49,6 @@
       "title": "Autorin Alice Hasters über Buch zum Thema \"Opfer\"",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/05/anti-opfer-autorin-alice-hasters-buch-interview-berlin.html",
       "date": "Sun, 03 May 2026 11:40:10 +0200"
-    },
-    {
-      "title": "Was war das denn? | Was mich das Glück der Anderen kostet",
-      "link": "https://www.rbb24.de/panorama/thema/was-war-das-denn/glueck-der-anderen-romantische-meilensteine-teure-feste.html",
-      "date": "Sun, 03 May 2026 11:30:34 +0200"
     }
   ],
   "police": [
