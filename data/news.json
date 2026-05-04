@@ -1,6 +1,31 @@
 {
   "traffic": [
     {
+      "title": "SPD-Fraktion lehnt Verschärfung von Versammlungsrecht vor Wahl ab",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/05/berlin-keine-verschaerfung-versammlungsrecht-spd-cdu.html",
+      "date": "Mon, 04 May 2026 16:53:21 +0200"
+    },
+    {
+      "title": "Verkehrsverwaltung will erstmals Radweg in Berlin zurückbauen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-radweg-unter-den-eichen-rueckbau-verkehrsverwaltung.html",
+      "date": "Mon, 04 May 2026 16:46:58 +0200"
+    },
+    {
+      "title": "Güterzug in Senftenberg entgleist - Regionalverkehr läuft wieder",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brandenburg-senftenberg-gueterzug-entgleist.html",
+      "date": "Mon, 04 May 2026 16:41:57 +0200"
+    },
+    {
+      "title": "Videoüberwachung: Mehr Datenschutzbeschwerden in Brandenburg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brandenburg-datenschutz-bericht-beschwerden-video-kameras.html",
+      "date": "Mon, 04 May 2026 16:16:30 +0200"
+    },
+    {
+      "title": "Eisbären Berlin verlieren Meistertrainer Aubin, auch Noebels geht",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/eishockey-del-eisbaeren-berlin-meisterschaft-abschied-marcel-noebels-trainer-serge-aubin.html",
+      "date": "Mon, 04 May 2026 15:38:45 +0200"
+    },
+    {
       "title": "Baumblütenfest in Werder (Havel): Erneut positive Bilanz",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/werder-baumbluetenfest-obstwein-tradition-havel-obst-fest-abschluss.html",
       "date": "Mon, 04 May 2026 14:13:49 +0200"
@@ -8,12 +33,12 @@
     {
       "title": "Waldbrand bei Jüterbog eingedämmt - 152 Hektar betroffen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/waldbrand-ehemaliger-truppenuebungsplatz-jueterbog-altes-lager.html",
-      "date": "Mon, 04 May 2026 13:32:21 +0200"
+      "date": "Mon, 04 May 2026 13:32:00 +0200"
     },
     {
       "title": "Projekt \"Jobadoo\" will Büro-Arbeitskräfte aufs Land bringen",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/05/brandenburg-projekt-jobadoo-zweitjob-land-stadt-maerkisch-oderland.html",
-      "date": "Mon, 04 May 2026 12:57:24 +0200"
+      "date": "Mon, 04 May 2026 12:57:00 +0200"
     },
     {
       "title": "A12-Bauarbeiten: Briesener fürchten Belastung durch Lkw",
@@ -21,34 +46,9 @@
       "date": "Mon, 04 May 2026 11:42:00 +0200"
     },
     {
-      "title": "Nach Meistertitel: Noebels verlässt Eisbären, Abschied von Trainer Aubin droht",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/eishockey-del-eisbaeren-berlin-meisterschaft-abschied-marcel-noebels-trainer-serge-aubin.html",
-      "date": "Mon, 04 May 2026 10:35:08 +0200"
-    },
-    {
       "title": "Polizei sperrt Hasenheide nach mutmaßlichen Schussgeräuschen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/schuesse-hasenheide-hubschrauber.html",
       "date": "Mon, 04 May 2026 10:33:09 +0200"
-    },
-    {
-      "title": "Überlebende erinnern an Befreiung des KZ Ravensbrück",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/kz-ravensbrueck-befreiung-frauen-gedenken.html",
-      "date": "Mon, 04 May 2026 10:23:14 +0200"
-    },
-    {
-      "title": "Berliner Olympia-Konzept sieht Eröffnungsfeier auf Tempelhofer Feld vor",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/berlin-olympia-bewerbung-konzept-eroeffnung-tempelhofer-feld.html",
-      "date": "Mon, 04 May 2026 09:48:31 +0200"
-    },
-    {
-      "title": "Ikkimel-Konzert am 1. Mai: Besucher berichten von Überfüllung und Gedränge",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/1-mai-ikkimel-konzert-kreuzberg-linke-ueberfuellt.html",
-      "date": "Mon, 04 May 2026 08:57:08 +0200"
-    },
-    {
-      "title": "Schriftsteller Robert Seethaler: \"Vor der Tür beginnt das Abenteuer\"",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/05/robert-seethaler-autor-buch-die-strasse.html",
-      "date": "Mon, 04 May 2026 08:22:13 +0200"
     }
   ],
   "police": [
