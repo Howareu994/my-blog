@@ -1,9 +1,19 @@
 {
   "traffic": [
     {
+      "title": "Chemikalienaustritt in Brieselang: Feuerwehr richtet Gefahrenbereich ein",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brieselang-havelland-feuerwehr-gefahrguteinsatz.html",
+      "date": "Mon, 04 May 2026 22:55:45 +0200"
+    },
+    {
+      "title": "Hackerangriff: Datenschutzbeauftragte verwarnt die BVG",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/hackerangriff-bvg-datenschutzbeauftragte-verwarnt.html",
+      "date": "Mon, 04 May 2026 21:15:56 +0200"
+    },
+    {
       "title": "Mattuschka zu Union: \"Das hätte man anders moderieren können\"",
       "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-bundesliga-dritte-liga-union-berlin-energie-cottbus-interview-torsten-mattuschka.html",
-      "date": "Mon, 04 May 2026 21:09:44 +0200"
+      "date": "Mon, 04 May 2026 21:09:00 +0200"
     },
     {
       "title": "Nur wenige ausländische Fachkräfte entscheiden sich für Brandenburg",
@@ -14,11 +24,6 @@
       "title": "Sommer in Berlin und Brandenburg: \"Mittlerweile haben wir mehr stehende Wetterlagen\"",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-brandenburg-prognose-sommer-2026-hitze-mai-sonne.html",
       "date": "Mon, 04 May 2026 20:18:40 +0200"
-    },
-    {
-      "title": "Hackerangriff: Datenschutzbeauftragte verwarnt die BVG",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/hackerangriff-bvg-datenschutzbeauftragte-verwarnt.html",
-      "date": "Mon, 04 May 2026 18:41:16 +0200"
     },
     {
       "title": "Stromnetz Berlin investiert zweistelligen Millionenbetrag in Sicherheit",
@@ -44,11 +49,6 @@
       "title": "Videoüberwachung: Mehr Datenschutzbeschwerden in Brandenburg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brandenburg-datenschutz-bericht-beschwerden-video-kameras.html",
       "date": "Mon, 04 May 2026 16:16:30 +0200"
-    },
-    {
-      "title": "Eisbären Berlin verlieren Meistertrainer Aubin, auch Noebels geht",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/eishockey-del-eisbaeren-berlin-meisterschaft-abschied-marcel-noebels-trainer-serge-aubin.html",
-      "date": "Mon, 04 May 2026 15:38:45 +0200"
     }
   ],
   "police": [
