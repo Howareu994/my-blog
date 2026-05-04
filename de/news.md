@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "📢 城市动态"
-permalink: /news/
+title: "📢 Stadtpuls"
+permalink: /de/news/
 ---
 
 {% include news-style.html %}
@@ -11,24 +11,24 @@ permalink: /news/
     <div class="weather-hero">
         <div>
             <div class="weather-temp" id="w-temp">--°C</div>
-            <div id="w-desc">打捞信号中...</div>
+            <div id="w-desc">Suche nach Signalen...</div>
         </div>
         <div class="weather-info" style="text-align: right; font-size: 13px;">
-            <div id="w-wind">💨 风速: -- km/h</div>
-            <div id="w-hum">💧 湿度: --%</div>
-            <div id="w-time" style="opacity: 0.7; margin-top: 5px;">更新于 --:--</div>
+            <div id="w-wind">💨 Wind: -- km/h</div>
+            <div id="w-hum">💧 Feuchte: --%</div>
+            <div id="w-time" style="opacity: 0.7; margin-top: 5px;">Update: --:--</div>
         </div>
     </div>
 
     <div class="survival-accordion">
         <details>
             <summary>
-                <div class="star-title">柏林幸存者手册 (Survival Vademecum)</div>
+                <div class="star-title">Berlin Survival-Guide (Überlebenshandbuch)</div>
                 <div class="fat-arrow">↓↓↓</div>
             </summary>
             <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 20px; margin-top: 15px; cursor: default;">
                 <div style="font-size: 13px;">
-                    <strong style="color: #ff4d94;">🥗 生活补给：超高性价比菜市场</strong>
+                    <strong style="color: #ff4d94;">🥗 Rationen: Lokale Wochenmärkte</strong>
                     <ul style="padding-left: 0; list-style: none; margin-top: 8px;">
                         <li style="margin-bottom: 5px;">📍 <a href="https://www.google.com/maps/search/?api=1&query=Genter+Markt+Berlin" target="_blank">Genter Markt (Wedding) ↗</a></li>
                         <li style="margin-bottom: 5px;">📍 <a href="https://www.google.com/maps/search/?api=1&query=Maybachufer+12047+Berlin" target="_blank">Maybachufer (Neukölln) ↗</a></li>
@@ -36,16 +36,16 @@ permalink: /news/
                     </ul>
                 </div>
                 <div style="font-size: 13px;">
-                    <strong style="color: #ff4d94;">📦 街道旧物盒子会写有：Zu Verschenken</strong>
+                    <strong style="color: #ff4d94;">📦 Straßenkodex: Zu Verschenken</strong>
                     <p style="font-size: 11px; margin-top: 8px; line-height: 1.5; color: #64748b;">
-                        - <strong>警报：</strong> 严禁搬运布艺家具（床垫/沙发）。柏林 <b>Bettwanzen (床虫)</b> 泛滥，一旦入室倾家荡产。<br>
-                        - <strong>规则：</strong> 纸箱占道严禁超过 24h。请勿从慈善捐赠处拿走留给流浪汉食物和物品。
+                        - <strong>WARNUNG:</strong> Keine Polstermöbel (Matratzen/Sofas) mitnehmen. <b>Bettwanzen</b> sind eine Plage in Berlin. Einmal drin, wird's richtig teuer.<br>
+                        - <strong>REGELN:</strong> Kartons max. 24h auf dem Gehweg. Nichts aus Kleiderspenden-Containern klauen.
                     </p>
                 </div>
                 <div style="font-size: 13px;">
-                    <strong style="color: #ff4d94;">💼 2026 求职招聘会</strong>
+                    <strong style="color: #ff4d94;">💼 Job-Radar 2026</strong>
                     <ul id="job-fair-list" style="padding-left: 0; list-style: none; margin-top: 8px;">
-                        <li>正在加载招聘会信息...</li>
+                        <li>Suche nach Jobmessen...</li>
                     </ul>
                 </div>
             </div>
@@ -53,81 +53,62 @@ permalink: /news/
     </div>
 
     <div class="search-box">
-        <input type="text" id="berlin-search" placeholder="在柏林寻找答案 (Google / VBB / Police)...">
+        <input type="text" id="berlin-search" placeholder="Suche Antworten in Berlin (Google / BVG / Polizei)...">
     </div>
 
     <div class="news-grid">
         <div class="news-card">
-            <h4 class="tag-vbb"><span>🚆 交通 & 罢工</span> <span class="refresh-btn" onclick="displayTraffic()">🔄</span></h4>
-            <ul id="vbb-list"><li>等待打捞...</li></ul>
+            <h4 class="tag-vbb"><span>🚆 BVG & Streiks</span> <span class="refresh-btn" onclick="displayTraffic()">🔄</span></h4>
+            <ul id="vbb-list"><li>Warte auf Signale...</li></ul>
         </div>
 
         <div class="news-card">
-            <h4 class="tag-safe"><span>🛡️ 安全快讯</span> <span class="refresh-btn" onclick="displayPolice()">🔄</span></h4>
-            <ul id="police-list"><li>信号同步中...</li></ul>
+            <h4 class="tag-safe"><span>🛡️ Polizei-Ticker</span> <span class="refresh-btn" onclick="displayPolice()">🔄</span></h4>
+            <ul id="police-list"><li>Synchronisiere Daten...</li></ul>
         </div>
 
         <div class="news-card">
-            <h4 class="tag-life"><span>🎡 免费活动</span> <span class="refresh-btn" onclick="displayFree()">🔄</span></h4>
-            <ul id="free-list"><li>打捞中...</li></ul>
+            <h4 class="tag-life"><span>🎡 For Free</span> <span class="refresh-btn" onclick="displayFree()">🔄</span></h4>
+            <ul id="free-list"><li>Lade Feeds...</li></ul>
         </div>
 
         <div class="news-card" style="border-color: rgba(204, 0, 255, 0.2);">
-            <h4 class="tag-club"><span>💃 柏林脉搏</span> <span class="refresh-btn" onclick="displayCulture()">🔄</span></h4>
-            <ul id="club-list"><li>同步中...</li></ul>
+            <h4 class="tag-club"><span>🪩 Szene & Clubs</span> <span class="refresh-btn" onclick="displayCulture()">🔄</span></h4>
+            <ul id="club-list"><li>Synchronisiere...</li></ul>
         </div>
     </div>
 
     <footer class="site-footer-custom">
         <p style="color: #94a3b8; font-size: 11px;">
-            数据基于本地情报库同步 · 祝你在柏林幸存
+            Live-Daten aus Berliner Quellen · Viel Glück beim Überleben.
         </p>
     </footer>
 </div>
-<!-- 1. 给生存手册增加展开时的 Q 弹动画 (CSS) -->
+
+<!-- 复用你之前的自动展开脚本 -->
 <style>
-    /* 当 details 被打开时，内部容器的进入动画 */
     .survival-accordion details[open] > div {
         animation: elasticDrop 0.8s cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards;
         transform-origin: top center;
     }
-
     @keyframes elasticDrop {
-        from { 
-            opacity: 0; 
-            transform: translateY(-20px) scale(0.95); 
-        }
-        to { 
-            opacity: 1; 
-            transform: translateY(0) scale(1); 
-        }
+        from { opacity: 0; transform: translateY(-20px) scale(0.95); }
+        to { opacity: 1; transform: translateY(0) scale(1); }
     }
-
-    /* 优化：自动打开前，让那个“↓↓↓”小箭头跳动，暗示它即将发生什么 */
     .survival-accordion details:not([open]) .fat-arrow {
         animation: hintJump 1s infinite alternate;
     }
-
     @keyframes hintJump {
         from { transform: translateY(0); }
         to { transform: translateY(5px); color: #ff1493; }
     }
 </style>
 
-<!-- 2. 控制 3 秒后自动打开的逻辑 (JavaScript) -->
 <script>
-    // 确保在页面 DOM 加载完成后执行
     document.addEventListener('DOMContentLoaded', function() {
-        // 设置 3000 毫秒（3秒）的定时器
         setTimeout(function() {
             const survivalDetails = document.querySelector('.survival-accordion details');
-            if (survivalDetails) {
-                // 核心逻辑：给 details 元素添加 open 属性
-                survivalDetails.setAttribute('open', '');
-                
-                // 可选：展开后自动滚动到视口中心，防止被遮挡
-                // survivalDetails.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
-            }
+            if (survivalDetails) { survivalDetails.setAttribute('open', ''); }
         }, 3000); 
     });
 </script>

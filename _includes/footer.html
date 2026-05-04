@@ -2,43 +2,134 @@
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
 
   <div class="wrapper">
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+    <h2 class="footer-heading">
+      {% if page.url contains '/de/' %}Berliner Gegenstrom{% else %}{{ site.title | escape }}{% endif %}
+    </h2>
 
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
+    <div class="footer-col-wrapper" style="display: flex; justify-content: flex-start; align-items: flex-start; flex-wrap: nowrap;">
+      <!-- 第一列：联系方式 -->
+      <div class="footer-col footer-col-1" style="width: 25%; min-width: 150px;">
         <ul class="contact-list">
-          <li class="p-name">
-            {%- if site.author -%}
-              {{ site.author | escape }}
-            {%- else -%}
-              {{ site.title | escape }}
-            {%- endif -%}
-          </li>
+          <li class="p-name">{%- if site.author -%}{{ site.author | escape }}{%- endif -%}</li>
           {%- if site.email -%}
             <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
           {%- endif -%}
+          <li>&copy; {{ site.author }} 2026</li>
         </ul>
       </div>
 
-      <div class="footer-col footer-col-2">
+      <!-- 第二列：社交图标 -->
+      <div class="footer-col footer-col-2" style="width: 30%; padding-left: 20px;">
         {%- include social.html -%}
       </div>
 
-      <div class="footer-col footer-col-3">
-        <p>{{- site.description | escape -}}</p>
+      <!-- 第三列：描述文字 -->
+      <div class="footer-col footer-col-3" style="width: 45%;">
+        <p style="line-height: 1.6; font-size: 13px; color: #64748b; margin: 0;">
+          {% if page.url contains '/de/' %}
+            Hypes vergehen, Individualität bleibt. <br>Mein Berliner Logbuch.
+          {% else %}
+            欢迎来访我的信息收集地。潮流和风口不同，每个人都是一股潮流。
+          {% endif %}
+        </p>
       </div>
     </div>
 
+    <!-- 底部：语言切换 -->
     <div class="footer-bottom" style="border-top: 1px dashed #ff85b9; margin-top: 20px; padding-top: 20px; text-align: center;">
-      <div class="language-switch" style="margin-bottom: 10px;">
-        <a href="{{ '/' | relative_url }}" style="font-weight: bold;">CN 中文</a>
-        <span style="margin: 0 10px; color: #ff85b9;">|</span>
-        <a href="{{ '/de/' | relative_url }}">DE Deutsch</a>
+      <div class="language-switch" style="margin-bottom: 10px; display: flex; justify-content: center; align-items: center; white-space: nowrap;">
+        <a href="{{ page.url | replace: '/de/', '/' | relative_url }}" 
+           class="lang-link"
+           style="font-weight: {% if page.url contains '/de/' %}normal{% else %}bold{% endif %}; text-decoration: none;">CN 中文</a>
+        
+        <span style="margin: 0 15px; color: #ff85b9;">|</span>
+        
+        <a href="{{ page.url | prepend: '/de' | replace: '//', '/' | relative_url }}" 
+           class="lang-link"
+           style="font-weight: {% if page.url contains '/de/' %}bold{% else %}normal{% endif %}; text-decoration: none; white-space: nowrap;">DE Deutsch</a>
       </div>
-      <p style="font-size: 0.8em; opacity: 0.8;">
-        &copy; {{ 'now' | date: "%Y" }} {{ site.title | escape }}. 柏林幸存者手册.
+      
+      <p style="font-size: 0.8em; opacity: 0.8; margin-top: 10px;">
+        &copy; 2026 {% if page.url contains '/de/' %}Berliner Gegenstrom{% else %}{{ site.title | escape }}{% endif %}. 
+        {% if page.url contains '/de/' %}Berliner Survival-Guide.{% else %}柏林幸存者手册.{% endif %}
       </p>
     </div>
-
   </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.9.3/dist/confetti.browser.min.js"></script>
+  <script>
+  (function() {
+    // --- 1. 滚动位置还原逻辑 ---
+    const scrollPos = sessionStorage.getItem('prev_scroll_pos');
+    if (scrollPos) {
+      window.scrollTo(0, parseInt(scrollPos));
+      sessionStorage.removeItem('prev_scroll_pos');
+    }
+
+    // --- 2. 语言切换点击监听 ---
+    document.querySelectorAll('.lang-link').forEach(link => {
+      link.addEventListener('click', function() {
+        sessionStorage.setItem('prev_scroll_pos', window.scrollY);
+      });
+    });
+
+    // --- 3. 原有的状态保存与撒花逻辑 ---
+    const input = document.getElementById('status-input');
+    const btn = document.getElementById('save-status-btn');
+    const saved = localStorage.getItem('my_daily_status');
+    if (saved && input) input.value = saved;
+    if (btn) {
+      btn.addEventListener('click', function(e) {
+        e.preventDefault(); e.stopPropagation(); 
+        if (input) localStorage.setItem('my_daily_status', input.value);
+        if (typeof confetti !== 'undefined') {
+          const rect = btn.getBoundingClientRect();
+          const x = (rect.left + rect.width / 2) / window.innerWidth;
+          const y = (rect.top + rect.height / 2) / window.innerHeight;
+          confetti({ particleCount: 100, spread: 70, origin: { x: x, y: y }, colors: ['#ff4d94', '#00ff41', '#87CEFA', '#ffffff'], shapes: ['square'], scalar: 1.2 });
+        }
+        const oldText = btn.innerText;
+        btn.innerText = "DONE!"; btn.style.background = "#00ff41"; 
+        setTimeout(() => { btn.innerText = oldText; btn.style.background = "#00008B"; }, 1200);
+      });
+    }
+  })();
+  </script>
+
+  <!-- 移动端底部导航栏：修复路径并改用 Emoji -->
+<nav class="mobile-bottom-nav">
+  <a href="{{ '/' | relative_url }}" class="nav-item">
+    <span class="nav-emoji">🏠</span>
+    <span>首页</span>
+  </a>
+  <a href="{{ '/news/' | relative_url }}" class="nav-item">
+    <span class="nav-emoji">📢</span>
+    <span>城市动态</span>
+  </a>
+  <a href="{{ '/wiki/' | relative_url }}" class="nav-item">
+    <span class="nav-emoji">📚</span>
+    <span>漫游进程</span>
+  </a>
+  <a href="{{ '/map/' | relative_url }}" class="nav-item">
+    <span class="nav-emoji">🗺️</span>
+    <span>生活图鉴</span>
+  </a>
+  <a href="{{ '/about/' | relative_url }}" class="nav-item">
+    <span class="nav-emoji">☕</span>
+    <span>关于</span>
+  </a>
+  <!-- DE 按钮：逻辑保持不变 -->
+  <a href="{{ page.url | prepend: '/de' | replace: '//', '/' | relative_url }}" class="nav-item">
+    <span class="nav-emoji">🇩🇪</span>
+    <span>DE</span>
+  </a>
+</nav>
+
+<style>
+/* 针对 Emoji 的微调样式 */
+.nav-emoji {
+    font-size: 20px;
+    margin-bottom: 4px;
+}
+</style>
 </footer>

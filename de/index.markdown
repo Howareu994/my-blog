@@ -1,17 +1,18 @@
 ---
 layout: page
-title: 🎨创作角落 / CREATIVE NOOK
+title: 🏠 Start
+permalink: /de/
 ---
 
 <div class="creative-layout">
 
   <div class="status-module">
     <div class="status-header">
-      <span class="status-prefix">🌱 当前状态 </span>
+      <span class="status-prefix">🌱 STATUS-LOG</span>
     </div>
 
     <div class="input-group">
-      <input type="text" id="status-input" autocomplete="off" placeholder="正在试图在柏林的春天里打捞一点有趣的信息..." />
+      <input type="text" id="status-input" autocomplete="off" placeholder="Berliner Sommer-Perlen fischen..." />
       <button id="save-status-btn" class="pixel-save-btn">SAVE</button>
     </div>
 
@@ -42,7 +43,7 @@ title: 🎨创作角落 / CREATIVE NOOK
 
   <div class="nook-module">
     <div class="soundcloud-wrapper">
-      <iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" 
+      <iframe width="100%" height="250" scrolling="no" frameborder="no" allow="autoplay" 
         src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/ellen-allien&color=%230000ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true">
       </iframe>
     </div>

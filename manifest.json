@@ -1,0 +1,15 @@
+{
+  "name": "Berliner Gegenstrom",
+  "short_name": "Gegenstrom",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fcfcfc",
+  "theme_color": "#ff85b9",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2583/2583158.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

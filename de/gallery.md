@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "🗺️ 生活图鉴"
-permalink: /gallery/
+title: "🗺️ Skizzen"
+permalink: /de/gallery/
 ---
 
 <style>
-    /* 专属的排版样式 */
+    /* 继承并微调排版样式 */
     .gallery-container { max-width: 800px; margin: 0 auto; padding: 10px 0; font-family: 'Helvetica Neue', sans-serif; }
     
     /* 日记列表样式 */
@@ -14,8 +14,8 @@ permalink: /gallery/
     .post-item:hover { transform: translateX(5px); }
     
     /* 文章标题 */
-    .post-title { font-size: 20px; font-weight: bold; color: #333; text-decoration: none; display: block; margin-bottom: 8px; transition: color 0.2s; }
-    .post-title:hover { color: #ff4d94; }
+    .post-title { font-size: 20px; font-weight: bold; color: #d35e7e; text-decoration: none; display: block; margin-bottom: 8px; transition: color 0.2s; }
+    .post-title:hover { color: #ff4d94; border-bottom: 2px wavy #ff4d94; }
     
     /* 日期和摘要 */
     .post-meta { font-size: 12px; color: #94a3b8; font-family: monospace; }
@@ -23,15 +23,15 @@ permalink: /gallery/
 </style>
 
 <div class="gallery-container">
-    <h3 style="color: #ff4d94; border-bottom: 2px solid rgba(255, 133, 185, 0.2); padding-bottom: 10px; margin-bottom: 20px;">
-        🖋️ 幸存者日志
+    <h3 style="color: #d35e7e; border-bottom: 2px solid rgba(255, 133, 185, 0.2); padding-bottom: 10px; margin-bottom: 20px;">
+        🖋️ Überlebens-Logs
     </h3>
 
     <ul class="post-list">
         {% for post in site.posts %}
         <li class="post-item">
             <a class="post-title" href="{{ post.url | relative_url }}">{{ post.title }}</a>
-            <div class="post-meta">🕒 {{ post.date | date: "%Y年 %m月 %d日" }}</div>
+            <div class="post-meta">🕒 {{ post.date | date: "%d.%m.%Y" }}</div>
             <div class="post-excerpt">
                 {{ post.excerpt | strip_html }}
             </div>

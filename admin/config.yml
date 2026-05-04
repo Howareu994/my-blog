@@ -1,0 +1,22 @@
+backend:
+  name: github
+  repo: Howareu994/my-blog # ⚠️ 替换成你的 GitHub 用户名/仓库名
+  branch: main # 确认你的分支是 main 还是 master
+
+media_folder: "assets/images/posts" # 图片上传后存放的路径
+public_folder: "/assets/images/posts"
+
+collections:
+  - name: "blog" # 集合名称
+    label: "生活图鉴 / Momentaufnahmen" # 后台显示的名称
+    folder: "_posts" # 文件存放的文件夹
+    create: true # 允许在网页上创建新文章
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # 文件命名规则
+    fields: # 每一篇日记包含的字段
+      - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
+      - { label: "标题 / Title", name: "title", widget: "string" }
+      - { label: "日期 / Date", name: "date", widget: "datetime" }
+      - { label: "摘要 / Excerpt", name: "excerpt", widget: "text" }
+      - { label: "内容 / Body", name: "body", widget: "markdown" }
+
+local_backend: true

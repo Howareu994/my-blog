@@ -3,36 +3,14 @@ layout: page
 title: About
 permalink: /about/
 ---
-🤓 Wer bin ich?  
+🤓 我是谁？
 
-Ich heiße Howyou, aus China in 1994 geboren. Ich bin einer Student an einer Technischer Hochschule, Wirtschaftsinformatiker.
+小逗，94年出生。经济信息学硕士 (M.Sc. Wirtschaftsinformatik)，毕业于德国某应用科学大学 (Fachhochschule)。目前已深耕柏林生活 8 年，从初出茅庐的留学生成长为一名专业的经济信息学专家。
 
+🥸 我在做什么？
 
-🥸Was macht ich in Berlin?  
+在这个频道，我会分享柏林及德国的实时信息、活动干货。为了保证信息的准确性，我会进行深度翻译与整理，并在文末标明出处。
 
-Im Jahr 2018 habe ich mich entschieden, von Henan(河南) nach Berlin umzuziehen. Erste Sprachschule war 'Die Deutschule' in Neukölln seit fast anderthalb Jahren, Dann habe ich 'DSH Training' in Dortmund über vier Monat besucht.
+🤔 为什么搭建这里？
 
-
-🤔Warum baue ich diese Webseite? 
-
-Um die praktische Informations zu teilen.
-Welche Aufgabeliste brache ich zu schaffen, damit ich in Deutschland erleben und unabhängig von Englischer Kultur sein werde?
-Welche Freiheit oder Recht hätte ich, wenn ich eine Arbeit entgelassen würde? ...
-
-ich mache sehr gerne Brainstorming und kenne manche interessante Trends. 
-
-
-
-🤓我是谁？
-
-小逗，94年出生，德国留学生，柏林生活4年，攻读研究生经济信息学专业研究生，勃兰登堡州某大学注册第六学期在读。
-
-
-🥸我在做？
-
-分享柏林以及德国的实时信息、活动干货，信息翻译的来源我会在放在文章末尾。
-
-
-🤔为什么？
-
-搭建一个可以交流生活信息的平台，抵抗信息壁垒带来的问题。每个人都是凡人，每个人都要看到自己的价值。德国的生活可能是枯燥无味的，也或是疯狂有趣到人无法想象。
+我想搭建一个可以交流生活信息的平台，通过信息共享来对抗现实中的“信息壁垒”。在异国他乡，每个人都会面临未知的挑战。德国的生活或许枯燥，也可能疯狂有趣到超乎想象。我想记录下这些价值，让每一个凡人都能看到自己的光芒。
