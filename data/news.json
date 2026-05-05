@@ -1,14 +1,29 @@
 {
   "traffic": [
     {
+      "title": "Großbrand in Entsorgungsbetrieb in Rüdersdorf",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brandenburg-ruedersdorf-herzfelde-grossbrand-entsorgungsbetrieb-rauch.html",
+      "date": "Tue, 05 May 2026 11:34:34 +0200"
+    },
+    {
+      "title": "Mann in Schöneberg angeschossen und lebensgefährlich verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-schoeneberg-schuesse-mann-nacht-polizei-einsatz.html",
+      "date": "Tue, 05 May 2026 11:32:29 +0200"
+    },
+    {
+      "title": "Potsdam: Montage der Turmhaube für Garnisonkirche startet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/garnisonkirche-potdam-turmhaube-montage-start-wiederaufbau.html",
+      "date": "Tue, 05 May 2026 10:39:40 +0200"
+    },
+    {
+      "title": "Tödlicher Arbeitsunfall löst Gefahrguteinsatz in Brieselang aus",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brieselang-havelland-feuerwehr-gefahrguteinsatz.html",
+      "date": "Tue, 05 May 2026 10:14:01 +0200"
+    },
+    {
       "title": "78-Jährige stirbt bei Verkehrsunfall bei Bad Saarow",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brandenburg-verkehrsunfall-autofahrerin-gestorben-bad-saarow.html",
       "date": "Tue, 05 May 2026 09:45:51 +0200"
-    },
-    {
-      "title": "Großbrand in Entsorgungsbetrieb in Rüdersdorf",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brandenburg-ruedersdorf-herzfelde-grossbrand-entsorgungsbetrieb-rauch.html",
-      "date": "Tue, 05 May 2026 09:43:26 +0200"
     },
     {
       "title": "E-Scooter-Unfälle: Fast die Hälfte aller Opfer in Berlin jünger als 25",
@@ -26,16 +41,6 @@
       "date": "Tue, 05 May 2026 07:43:49 +0200"
     },
     {
-      "title": "Unfall in Fabrik in Brieselang: Chemische Stoffe ausgetreten",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brieselang-havelland-feuerwehr-gefahrguteinsatz.html",
-      "date": "Tue, 05 May 2026 07:11:28 +0200"
-    },
-    {
-      "title": "Mann in Schöneberg angeschossen und lebensgefährlich verletzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-schoeneberg-schuesse-mann-nacht-polizei-einsatz.html",
-      "date": "Tue, 05 May 2026 07:05:17 +0200"
-    },
-    {
       "title": "Hackerangriff: Datenschutzbeauftragte verwarnt die BVG",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/hackerangriff-bvg-datenschutzbeauftragte-verwarnt.html",
       "date": "Tue, 05 May 2026 06:23:54 +0200"
@@ -44,11 +49,6 @@
       "title": "Mattuschka zu Union: \"Das hätte man anders moderieren können\"",
       "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-bundesliga-dritte-liga-union-berlin-energie-cottbus-interview-torsten-mattuschka.html",
       "date": "Mon, 04 May 2026 21:09:00 +0200"
-    },
-    {
-      "title": "Nur wenige ausländische Fachkräfte entscheiden sich für Brandenburg",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/05/brandenburg-auslaendische-fachkraefte-bundesagentur-fuer-arbeit.html",
-      "date": "Mon, 04 May 2026 20:36:45 +0200"
     }
   ],
   "police": [
