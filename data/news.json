@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Geburtenzahl in Berlin erreicht neuen Tiefstand",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-geburten-rueckgang-tiefstand-statistik-amt-zahlen.html",
+      "date": "Tue, 05 May 2026 12:58:00 +0200"
+    },
+    {
+      "title": "Newcastle-Virus: Weitere Landkreise verbieten Vogelschauen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/newcastle-krankheit-schutz-virus-ausstellung-gefluegel-verbot.html",
+      "date": "Tue, 05 May 2026 12:50:01 +0200"
+    },
+    {
       "title": "Großbrand in Entsorgungsbetrieb in Rüdersdorf",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brandenburg-ruedersdorf-herzfelde-grossbrand-entsorgungsbetrieb-rauch.html",
       "date": "Tue, 05 May 2026 11:34:34 +0200"
@@ -39,19 +49,29 @@
       "title": "Rechte von behinderten Menschen: \"Viele zahlen lieber eine Abgabe\"",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/behinderte-menschen-inklusion-arbeitsmarkt-interview.html",
       "date": "Tue, 05 May 2026 07:43:49 +0200"
-    },
-    {
-      "title": "Hackerangriff: Datenschutzbeauftragte verwarnt die BVG",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/hackerangriff-bvg-datenschutzbeauftragte-verwarnt.html",
-      "date": "Tue, 05 May 2026 06:23:54 +0200"
-    },
-    {
-      "title": "Mattuschka zu Union: \"Das hätte man anders moderieren können\"",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-bundesliga-dritte-liga-union-berlin-energie-cottbus-interview-torsten-mattuschka.html",
-      "date": "Mon, 04 May 2026 21:09:00 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Schüsse auf 44-Jährigen – Staatsanwaltschaft Berlin und 6. Mordkommission ermitteln",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667855.php",
+      "date": "Tue, 05 May 2026 13:00:00 +0200"
+    },
+    {
+      "title": "Fünfköpfige Personengruppe angegriffen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667845.php",
+      "date": "Tue, 05 May 2026 12:23:00 +0200"
+    },
+    {
+      "title": "Körperliche Auseinandersetzung mit Verletzten",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667842.php",
+      "date": "Tue, 05 May 2026 12:20:00 +0200"
+    },
+    {
+      "title": "E-Scooter-Fahrerin nach Verkehrsunfall verstorben",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667022.php",
+      "date": "Tue, 05 May 2026 11:49:00 +0200"
+    },
     {
       "title": "Alkoholisierter Mann nach wiederholten Straftaten im Unterbindungsgewahrsam",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667313.php",
@@ -81,26 +101,6 @@
       "title": "Radfahrerin bei Verkehrsunfall verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667026.php",
       "date": "Sun, 03 May 2026 14:05:00 +0200"
-    },
-    {
-      "title": "E-Scooter-Fahrerin nach Verkehrsunfall im Krankenhaus",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667022.php",
-      "date": "Sun, 03 May 2026 13:08:00 +0200"
-    },
-    {
-      "title": "Homophober und fremdenfeindlicher Angriff in der U-Bahn",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667021.php",
-      "date": "Sun, 03 May 2026 12:44:00 +0200"
-    },
-    {
-      "title": "Verkehrsunfall mit Tram – Fußgängerin verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667020.php",
-      "date": "Sun, 03 May 2026 11:57:37 +0200"
-    },
-    {
-      "title": "Jugendlicher und Mann nach erlittenen Schussverletzungen in Krankenhäusern",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667019.php",
-      "date": "Sun, 03 May 2026 11:46:00 +0200"
     }
   ],
   "free_events": [],
