@@ -1,14 +1,44 @@
 {
   "traffic": [
     {
-      "title": "Geburtenzahl in Berlin erreicht neuen Tiefstand",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-geburten-rueckgang-tiefstand-statistik-amt-zahlen.html",
-      "date": "Tue, 05 May 2026 12:58:00 +0200"
+      "title": "Prozess nach tödlichem Messerangriff am Humboldt-Forum beginnt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/humboldtforum-messerangriff-prozess.html",
+      "date": "Tue, 05 May 2026 15:03:59 +0200"
     },
     {
       "title": "Newcastle-Virus: Weitere Landkreise verbieten Vogelschauen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/newcastle-krankheit-schutz-virus-ausstellung-gefluegel-verbot.html",
-      "date": "Tue, 05 May 2026 12:50:01 +0200"
+      "date": "Tue, 05 May 2026 14:23:56 +0200"
+    },
+    {
+      "title": "Berliner Olympia-Konzept sieht Eröffnungsfeier auf Tempelhofer Feld vor",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/berlin-olympia-bewerbung-konzept-eroeffnung-tempelhofer-feld.html",
+      "date": "Tue, 05 May 2026 14:23:30 +0200"
+    },
+    {
+      "title": "Mann in Schöneberg angeschossen und lebensgefährlich verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-schoeneberg-schuesse-mann-nacht-polizei-einsatz.html",
+      "date": "Tue, 05 May 2026 14:12:42 +0200"
+    },
+    {
+      "title": "Ahrensfelde (Barnim): Sieben Menschen bei Unfall zwischen Bus und Transporter verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/unfall-linienbus-barnim-ahrensfelde-polizei-zusammenstoss-verletzte-bergung-brandenburg-feuerwehr.html",
+      "date": "Tue, 05 May 2026 14:09:00 +0200"
+    },
+    {
+      "title": "Allergologin: \"Pollen werden in der Stadt sogar aggressiver\"",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/breitensport-allergien-interview-allergologin-charite-margitta-worm.html",
+      "date": "Tue, 05 May 2026 14:01:23 +0200"
+    },
+    {
+      "title": "59-Jährige nach E-Scooter-Unfall in Berlin-Mitte gestorben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-mitte-escooter-unfall-tot.html",
+      "date": "Tue, 05 May 2026 13:30:47 +0200"
+    },
+    {
+      "title": "Geburtenzahl in Berlin erreicht neuen Tiefstand",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-geburten-rueckgang-tiefstand-statistik-amt-zahlen.html",
+      "date": "Tue, 05 May 2026 12:58:00 +0200"
     },
     {
       "title": "Großbrand in Entsorgungsbetrieb in Rüdersdorf",
@@ -16,42 +46,17 @@
       "date": "Tue, 05 May 2026 11:34:34 +0200"
     },
     {
-      "title": "Mann in Schöneberg angeschossen und lebensgefährlich verletzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-schoeneberg-schuesse-mann-nacht-polizei-einsatz.html",
-      "date": "Tue, 05 May 2026 11:32:29 +0200"
-    },
-    {
       "title": "Potsdam: Montage der Turmhaube für Garnisonkirche startet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/garnisonkirche-potdam-turmhaube-montage-start-wiederaufbau.html",
       "date": "Tue, 05 May 2026 10:39:40 +0200"
-    },
-    {
-      "title": "Tödlicher Arbeitsunfall löst Gefahrguteinsatz in Brieselang aus",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brieselang-havelland-feuerwehr-gefahrguteinsatz.html",
-      "date": "Tue, 05 May 2026 10:14:01 +0200"
-    },
-    {
-      "title": "78-Jährige stirbt bei Verkehrsunfall bei Bad Saarow",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brandenburg-verkehrsunfall-autofahrerin-gestorben-bad-saarow.html",
-      "date": "Tue, 05 May 2026 09:45:51 +0200"
-    },
-    {
-      "title": "E-Scooter-Unfälle: Fast die Hälfte aller Opfer in Berlin jünger als 25",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-escooter-unfaelle-jugendliche-kontrollen-polizei.html",
-      "date": "Tue, 05 May 2026 08:49:48 +0200"
-    },
-    {
-      "title": "Maeckes-Konzert im Berliner Kulturhaus Insel",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/05/kritik-maeckes-stuttgart-die-orsons-hip-hop-berlin-kulturhaus-insel.html",
-      "date": "Tue, 05 May 2026 08:26:04 +0200"
-    },
-    {
-      "title": "Rechte von behinderten Menschen: \"Viele zahlen lieber eine Abgabe\"",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/behinderte-menschen-inklusion-arbeitsmarkt-interview.html",
-      "date": "Tue, 05 May 2026 07:43:49 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Sachbeschädigung durch Schüsse auf Friseursalon",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667989.php",
+      "date": "Tue, 05 May 2026 15:05:00 +0200"
+    },
     {
       "title": "Schüsse auf 44-Jährigen – Staatsanwaltschaft Berlin und 6. Mordkommission ermitteln",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667855.php",
@@ -96,11 +101,6 @@
       "title": "Schüsse auf ein Café",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667023.php",
       "date": "Sun, 03 May 2026 14:46:40 +0200"
-    },
-    {
-      "title": "Radfahrerin bei Verkehrsunfall verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667026.php",
-      "date": "Sun, 03 May 2026 14:05:00 +0200"
     }
   ],
   "free_events": [],
