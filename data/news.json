@@ -1,6 +1,41 @@
 {
   "traffic": [
     {
+      "title": "Berliner Olympia-Konzept sieht Eröffnungsfeier auf Tempelhofer Feld vor",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/berlin-olympia-bewerbung-konzept-eroeffnung-tempelhofer-feld.html",
+      "date": "Tue, 05 May 2026 17:17:38 +0200"
+    },
+    {
+      "title": "59-Jährige nach E-Scooter-Unfall in Berlin-Mitte gestorben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-mitte-escooter-unfall-tot.html",
+      "date": "Tue, 05 May 2026 16:50:16 +0200"
+    },
+    {
+      "title": "Potsdam: Montage der Turmhaube für Garnisonkirche startet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/garnisonkirche-potdam-turmhaube-montage-start-wiederaufbau.html",
+      "date": "Tue, 05 May 2026 16:26:30 +0200"
+    },
+    {
+      "title": "Seenkette wird Ende Juni mit 5-Seen-Challenge eröffnet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brandenburg-lausitzer-seenland-freigabe-juni-2026.html",
+      "date": "Tue, 05 May 2026 16:21:47 +0200"
+    },
+    {
+      "title": "Krankenhausreform: DRK-Kliniken legen Standorte Mitte und Westend nach 2028 zusammen",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/05/berlin-drk-kliniken-mitte-westend-zusammenlegung-krankenhausreform-lauterbach-level-3-maximalversorger.html",
+      "date": "Tue, 05 May 2026 16:18:30 +0200"
+    },
+    {
+      "title": "Großbrand in Entsorgungsbetrieb in Rüdersdorf",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brandenburg-ruedersdorf-herzfelde-grossbrand-entsorgungsbetrieb-rauch.html",
+      "date": "Tue, 05 May 2026 16:01:30 +0200"
+    },
+    {
+      "title": "RE2 soll ab 2027 auch in Bestensee halten",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/regionalexpress-bahn-re2-bestensee.html",
+      "date": "Tue, 05 May 2026 15:17:53 +0200"
+    },
+    {
       "title": "Prozess nach tödlichem Messerangriff am Humboldt-Forum beginnt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/humboldtforum-messerangriff-prozess.html",
       "date": "Tue, 05 May 2026 15:03:59 +0200"
@@ -11,47 +46,17 @@
       "date": "Tue, 05 May 2026 14:23:56 +0200"
     },
     {
-      "title": "Berliner Olympia-Konzept sieht Eröffnungsfeier auf Tempelhofer Feld vor",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/berlin-olympia-bewerbung-konzept-eroeffnung-tempelhofer-feld.html",
-      "date": "Tue, 05 May 2026 14:23:30 +0200"
-    },
-    {
       "title": "Mann in Schöneberg angeschossen und lebensgefährlich verletzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-schoeneberg-schuesse-mann-nacht-polizei-einsatz.html",
       "date": "Tue, 05 May 2026 14:12:42 +0200"
-    },
-    {
-      "title": "Ahrensfelde (Barnim): Sieben Menschen bei Unfall zwischen Bus und Transporter verletzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/unfall-linienbus-barnim-ahrensfelde-polizei-zusammenstoss-verletzte-bergung-brandenburg-feuerwehr.html",
-      "date": "Tue, 05 May 2026 14:09:00 +0200"
-    },
-    {
-      "title": "Allergologin: \"Pollen werden in der Stadt sogar aggressiver\"",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/breitensport-allergien-interview-allergologin-charite-margitta-worm.html",
-      "date": "Tue, 05 May 2026 14:01:23 +0200"
-    },
-    {
-      "title": "59-Jährige nach E-Scooter-Unfall in Berlin-Mitte gestorben",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-mitte-escooter-unfall-tot.html",
-      "date": "Tue, 05 May 2026 13:30:47 +0200"
-    },
-    {
-      "title": "Geburtenzahl in Berlin erreicht neuen Tiefstand",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-geburten-rueckgang-tiefstand-statistik-amt-zahlen.html",
-      "date": "Tue, 05 May 2026 12:58:00 +0200"
-    },
-    {
-      "title": "Großbrand in Entsorgungsbetrieb in Rüdersdorf",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brandenburg-ruedersdorf-herzfelde-grossbrand-entsorgungsbetrieb-rauch.html",
-      "date": "Tue, 05 May 2026 11:34:34 +0200"
-    },
-    {
-      "title": "Potsdam: Montage der Turmhaube für Garnisonkirche startet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/garnisonkirche-potdam-turmhaube-montage-start-wiederaufbau.html",
-      "date": "Tue, 05 May 2026 10:39:40 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Seniorin bei Raub verletzt – Tatverdächtiger festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1668032.php",
+      "date": "Tue, 05 May 2026 15:32:00 +0200"
+    },
     {
       "title": "Sachbeschädigung durch Schüsse auf Friseursalon",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667989.php",
@@ -96,11 +101,6 @@
       "title": "Unbekannte attackieren Mann und verletzen ihn",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667027.php",
       "date": "Sun, 03 May 2026 16:34:04 +0200"
-    },
-    {
-      "title": "Schüsse auf ein Café",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667023.php",
-      "date": "Sun, 03 May 2026 14:46:40 +0200"
     }
   ],
   "free_events": [],
