@@ -1,9 +1,24 @@
 {
   "traffic": [
     {
+      "title": "Bundesweite Razzia gegen rechtsextreme Organisationen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/razzia-neonazi-rechtsextremist.html",
+      "date": "Wed, 06 May 2026 09:04:28 +0200"
+    },
+    {
+      "title": "Viele Feuerwehreinsätze in Südbandenburg wegen Starkregens",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/warnung-starkregen-sued-brandenburg-nacht.html",
+      "date": "Wed, 06 May 2026 08:48:50 +0200"
+    },
+    {
+      "title": "Peaches im Berliner Astra: Songs für ihre Vagina",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/05/berlin-konzert-peaches-astra-electro-rap-punk.html",
+      "date": "Wed, 06 May 2026 08:04:00 +0200"
+    },
+    {
       "title": "Berlin spekuliert spektakulär auf Olympia",
       "link": "https://www.rbb24.de/sport/beitrag/2026/05/olympia-bewerbung-berlin-einschaetzung-kosten-umsetzbarkeit.html",
-      "date": "Wed, 06 May 2026 06:29:27 +0200"
+      "date": "Wed, 06 May 2026 06:29:00 +0200"
     },
     {
       "title": "Urteil im Prozess um getöteten Polizisten in Lauchhammer erwartet",
@@ -21,11 +36,6 @@
       "date": "Tue, 05 May 2026 20:29:38 +0200"
     },
     {
-      "title": "Im südlichen Brandenburg droht in der Nacht Starkregen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/warnung-starkregen-sued-brandenburg-nacht.html",
-      "date": "Tue, 05 May 2026 19:20:41 +0200"
-    },
-    {
       "title": "Berliner Olympia-Konzept sieht Eröffnungsfeier auf Tempelhofer Feld vor",
       "link": "https://www.rbb24.de/sport/beitrag/2026/05/berlin-olympia-bewerbung-konzept-eroeffnung-tempelhofer-feld.html",
       "date": "Tue, 05 May 2026 18:59:43 +0200"
@@ -39,16 +49,6 @@
       "title": "Seenkette wird Ende Juni mit 5-Seen-Challenge eröffnet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brandenburg-lausitzer-seenland-freigabe-juni-2026.html",
       "date": "Tue, 05 May 2026 18:37:12 +0200"
-    },
-    {
-      "title": "Demonstrierende fordern mehr Inklusion für Menschen mit Behinderungen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-demonstration-inklusion-menschen-mit-behinderungen.html",
-      "date": "Tue, 05 May 2026 18:35:03 +0200"
-    },
-    {
-      "title": "Reaktionen auf Olympia-Konzept: Von \"Erlebnis für alle\" bis \"Disneyland\"",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/reaktionen-olympia-bewerbung-berlin-konzept-ringe-brandenburger-tor.html",
-      "date": "Tue, 05 May 2026 17:15:00 +0200"
     }
   ],
   "police": [
