@@ -1,9 +1,29 @@
 {
   "traffic": [
     {
+      "title": "Ausweiskontrollen in Freibädern verstoßen nicht gegen Datenschutz",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/freibad-berlin-datenschutz-ueberwachung-urteil.html",
+      "date": "Wed, 06 May 2026 13:52:43 +0200"
+    },
+    {
+      "title": "Berliner Bildungsverwaltung stellt Schulreinigungs-App vor",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/reinigungskontroll-app-schule.html",
+      "date": "Wed, 06 May 2026 13:48:40 +0200"
+    },
+    {
       "title": "Bundesweite Razzia gegen rechtsextreme Organisationen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/razzia-neonazi-rechtsextremist.html",
-      "date": "Wed, 06 May 2026 12:38:18 +0200"
+      "date": "Wed, 06 May 2026 13:22:52 +0200"
+    },
+    {
+      "title": "Baustart in Königs Wusterhausen: Trainingszentrum für Zollbeamte",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/koenigs-wusterhausen-bau-spatenstich-zollbeamte-trainingszentrum.html",
+      "date": "Wed, 06 May 2026 13:19:59 +0200"
+    },
+    {
+      "title": "Pictoplasma-Festival Berlin: Hier feiern die Autoaufkleber ein Comeback",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/05/berlin-pictoplasma-festival-grafik-animation-illustration.html",
+      "date": "Wed, 06 May 2026 12:57:38 +0200"
     },
     {
       "title": "Erinnerung an koloniale Verbrechen: Museum Neukölln will Schutztruppenstein aufnehmen",
@@ -26,32 +46,27 @@
       "date": "Wed, 06 May 2026 12:08:00 +0200"
     },
     {
-      "title": "Ausweiskontrollen in Freibädern verstoßen nicht gegen Datenschutz",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/freibad-berlin-datenschutz-ueberwachung-urteil.html",
-      "date": "Wed, 06 May 2026 12:00:31 +0200"
-    },
-    {
       "title": "Premiere: Hertha-Frauen spielen gegen Erfurt im Olympiastadion",
       "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-frauen-regionalliga-hertha-bsc-premiere-olympiastadion-erfurt-meisterschaft.html",
       "date": "Wed, 06 May 2026 11:38:04 +0200"
-    },
-    {
-      "title": "Am 20. September: Noch 2.500 Wahlhelfer für Berlin-Wahl gesucht",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/wahlhelfer-abgeordnetenhaus-berlin-aufruf.html",
-      "date": "Wed, 06 May 2026 10:50:37 +0200"
-    },
-    {
-      "title": "Demonstrierende fordern mehr Inklusion für Menschen mit Behinderungen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-demonstration-inklusion-menschen-mit-behinderungen.html",
-      "date": "Wed, 06 May 2026 10:48:00 +0200"
-    },
-    {
-      "title": "RE2 soll ab 2027 auch in Bestensee halten",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/regionalexpress-bahn-re2-bestensee.html",
-      "date": "Wed, 06 May 2026 10:43:15 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Geschäftsmann überfallen, Mitarbeiter erleidet Stichverletzung",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1668434.php",
+      "date": "Wed, 06 May 2026 13:46:00 +0200"
+    },
+    {
+      "title": "Rotlicht missachtet – Schweren Verkehrsunfall verursacht",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1668426.php",
+      "date": "Wed, 06 May 2026 13:42:00 +0200"
+    },
+    {
+      "title": "Denkmal beschmiert",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1668422.php",
+      "date": "Wed, 06 May 2026 13:34:00 +0200"
+    },
     {
       "title": "Streit eskaliert – Distanzelektroimpulsgerät eingesetzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1668310.php",
@@ -86,21 +101,6 @@
       "title": "E-Scooter-Fahrerin nach Verkehrsunfall verstorben",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667022.php",
       "date": "Tue, 05 May 2026 11:49:00 +0200"
-    },
-    {
-      "title": "Alkoholisierter Mann nach wiederholten Straftaten im Unterbindungsgewahrsam",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667313.php",
-      "date": "Mon, 04 May 2026 14:02:06 +0200"
-    },
-    {
-      "title": "Auto überschlägt sich – Autofahrerin verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667305.php",
-      "date": "Mon, 04 May 2026 13:58:27 +0200"
-    },
-    {
-      "title": "Nach Streit um Grillverbot – Mann verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667216.php",
-      "date": "Mon, 04 May 2026 12:04:44 +0200"
     }
   ],
   "free_events": [],
