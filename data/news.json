@@ -1,6 +1,41 @@
 {
   "traffic": [
     {
+      "title": "Barnim: Bombe in Eberswalde gefunden - Entschärfung für Samstag geplant",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/bombe-weltkrieg-eberswalde-sperrkreis-barnim-evakuierung-entschaerfung.html",
+      "date": "Wed, 06 May 2026 19:20:55 +0200"
+    },
+    {
+      "title": "GFL-Start: Die Potsdam Royals wollen Football-Geschichte schreiben",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/german-football-league-xeaiver-bullock-quarterback-potsdam-royals-berlin-adler-.html",
+      "date": "Wed, 06 May 2026 19:04:51 +0200"
+    },
+    {
+      "title": "Berlin-Weißensee: Kind von Tram erfasst und lebensbedrohlich verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-weissensee-tram-unfall-lebensgefaehrlich-verletzt.html",
+      "date": "Wed, 06 May 2026 19:03:51 +0200"
+    },
+    {
+      "title": "Berliner Bildungsverwaltung stellt Schulreinigungs-App vor",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/reinigungskontroll-app-schule.html",
+      "date": "Wed, 06 May 2026 19:03:14 +0200"
+    },
+    {
+      "title": "Neue Wohnungsbaupläne für Späthsfelde in Berlin-Treptow",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/05/berlin-treptow-neubaugebiet-spaethsfelde-wohnungsbau-kleingaerten.html",
+      "date": "Wed, 06 May 2026 19:01:28 +0200"
+    },
+    {
+      "title": "Pro-Palästina-Aktivistin: Verwaltungsgericht Berlin stoppt geplante Abschiebung von Irin",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/05/berliner-verwaltungsgericht-einreise-eu-buergerin-irland-pro-palaestina-protest.html",
+      "date": "Wed, 06 May 2026 18:42:25 +0200"
+    },
+    {
+      "title": "Berlin-Spandau: Tackerklammern und rassistische Sticker auf Schulspielplatz",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-spandau-evangelische-grundschule-tackerklammern-rassistische-sticker-kinder-verletzt.html",
+      "date": "Wed, 06 May 2026 18:03:12 +0200"
+    },
+    {
       "title": "Nach Ausschluss vom Schwimmkurs: Nicht-binäre Person bekommt Schmerzensgeld",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/urteil-prozess-amtsgericht-brandenburg-havel-nicht-binaere-person-oberteil.html",
       "date": "Wed, 06 May 2026 17:06:15 +0200"
@@ -14,41 +49,6 @@
       "title": "Rauchsäule weithin sichtbar: Feuerwehr löscht Brand auf Dach eines Potsdamer Möbelhauses",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/feuer-brand-potsdam-moebelhaus-rauch-feuerwehr.html",
       "date": "Wed, 06 May 2026 16:43:17 +0200"
-    },
-    {
-      "title": "Lutz Zengerling wird neuer Landestierschutzbeauftragter von Berlin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-landestierschutzbeauftragter-lutz-zengerling-tierschutz-senatsverwaltung-verbraucherschutz.html",
-      "date": "Wed, 06 May 2026 16:23:05 +0200"
-    },
-    {
-      "title": "Panketal: Bürgermeisterstichwahl zwischen Wonke (SPD) und John (AfD)",
-      "link": "https://www.rbb24.de/politik/wahl/brandenburg-buergermeisterwahlen/2026/panketal-buergermeister-stichwahl-wonke-john-afd-spd-barnim-rathaus-brandenburg.html",
-      "date": "Wed, 06 May 2026 15:46:46 +0200"
-    },
-    {
-      "title": "Berlin-Weißensee: Kind von Tram erfasst und lebensbedrohlich verletzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-weissensee-tram-unfall-lebensgefaehrlich-verletzt.html",
-      "date": "Wed, 06 May 2026 15:40:54 +0200"
-    },
-    {
-      "title": "Ausweiskontrollen in Freibädern verstoßen nicht gegen Datenschutz",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/freibad-berlin-datenschutz-ueberwachung-urteil.html",
-      "date": "Wed, 06 May 2026 13:52:43 +0200"
-    },
-    {
-      "title": "Berliner Bildungsverwaltung stellt Schulreinigungs-App vor",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/reinigungskontroll-app-schule.html",
-      "date": "Wed, 06 May 2026 13:48:40 +0200"
-    },
-    {
-      "title": "Bundesweite Razzia gegen rechtsextreme Organisationen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/razzia-neonazi-rechtsextremist.html",
-      "date": "Wed, 06 May 2026 13:22:52 +0200"
-    },
-    {
-      "title": "Baustart in Königs Wusterhausen: Trainingszentrum für Zollbeamte",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/koenigs-wusterhausen-bau-spatenstich-zollbeamte-trainingszentrum.html",
-      "date": "Wed, 06 May 2026 13:19:59 +0200"
     }
   ],
   "police": [
