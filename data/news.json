@@ -51,58 +51,7 @@
       "date": "Wed, 06 May 2026 18:42:25 +0200"
     }
   ],
-  "police": [
-    {
-      "title": "Tatverdächtiger identifiziert",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2021/pressemitteilung.1105133.php",
-      "date": "Wed, 06 May 2026 16:15:00 +0200"
-    },
-    {
-      "title": "Bedrohung im öffentlichen Nahverkehr – Tatverdächtiger ermittelt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2025/pressemitteilung.1627261.php",
-      "date": "Wed, 06 May 2026 15:07:00 +0200"
-    },
-    {
-      "title": "Geschäftsmann überfallen, Mitarbeiter erleidet Stichverletzung",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1668434.php",
-      "date": "Wed, 06 May 2026 13:46:00 +0200"
-    },
-    {
-      "title": "Rotlicht missachtet – Schweren Verkehrsunfall verursacht",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1668426.php",
-      "date": "Wed, 06 May 2026 13:42:00 +0200"
-    },
-    {
-      "title": "Denkmal beschmiert",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1668422.php",
-      "date": "Wed, 06 May 2026 13:34:00 +0200"
-    },
-    {
-      "title": "Streit eskaliert – Distanzelektroimpulsgerät eingesetzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1668310.php",
-      "date": "Wed, 06 May 2026 11:40:00 +0200"
-    },
-    {
-      "title": "Seniorin bei Raub verletzt – Tatverdächtiger festgenommen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1668032.php",
-      "date": "Tue, 05 May 2026 15:32:00 +0200"
-    },
-    {
-      "title": "Sachbeschädigung durch Schüsse auf Friseursalon",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667989.php",
-      "date": "Tue, 05 May 2026 15:05:00 +0200"
-    },
-    {
-      "title": "Schüsse auf 44-Jährigen – Staatsanwaltschaft Berlin und 6. Mordkommission ermitteln",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667855.php",
-      "date": "Tue, 05 May 2026 13:00:00 +0200"
-    },
-    {
-      "title": "Fünfköpfige Personengruppe angegriffen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667845.php",
-      "date": "Tue, 05 May 2026 12:23:00 +0200"
-    }
-  ],
+  "police": [],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
