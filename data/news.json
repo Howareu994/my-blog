@@ -1,9 +1,24 @@
 {
   "traffic": [
     {
+      "title": "Ganzer Ort geräumt: Weltkriegsbomben werden in Sachsendorf entschärft",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brandenburg-maerkisch-oderland-sachsendorf-seelow-bombe-entschaerfung.html",
+      "date": "Thu, 07 May 2026 09:58:38 +0200"
+    },
+    {
+      "title": "Neue Regel bei Academy Awards: Berlinale-Bär wird zur Oscar-Wildcard",
+      "link": "https://www.rbb24.de/kultur/berlinale/beitraege/2026/oscar-nominierung-bester-internationaler-film-gewinner-goldener-baer.html",
+      "date": "Thu, 07 May 2026 08:50:24 +0200"
+    },
+    {
+      "title": "Getöteter Polizist in Lauchhammer: Mehr als zehn Jahre Haft",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/getoeteter-polizist-brandenburg-landgericht-cottbus-urteil.html",
+      "date": "Thu, 07 May 2026 08:30:33 +0200"
+    },
+    {
       "title": "Neue Wohnungsbaupläne für Späthsfelde in Berlin-Treptow",
       "link": "https://www.rbb24.de/politik/beitrag/2026/05/berlin-treptow-neubaugebiet-spaethsfelde-wohnungsbau-kleingaerten.html",
-      "date": "Thu, 07 May 2026 07:42:48 +0200"
+      "date": "Thu, 07 May 2026 08:02:10 +0200"
     },
     {
       "title": "Wertefragen: Brandenburger Feuerwehrverband wehrt sich gegen AfD-Forderungen",
@@ -34,24 +49,14 @@
       "title": "Berliner Bildungsverwaltung stellt Schulreinigungs-App vor",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/reinigungskontroll-app-schule.html",
       "date": "Wed, 06 May 2026 19:40:31 +0200"
-    },
-    {
-      "title": "Barnim: Bombe in Eberswalde gefunden - Entschärfung für Samstag geplant",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/bombe-weltkrieg-eberswalde-sperrkreis-barnim-evakuierung-entschaerfung.html",
-      "date": "Wed, 06 May 2026 19:20:55 +0200"
-    },
-    {
-      "title": "Berlin-Weißensee: Kind von Tram erfasst und lebensbedrohlich verletzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-weissensee-tram-unfall-lebensgefaehrlich-verletzt.html",
-      "date": "Wed, 06 May 2026 19:03:51 +0200"
-    },
-    {
-      "title": "Pro-Palästina-Aktivistin: Verwaltungsgericht Berlin stoppt geplante Abschiebung von Irin",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/05/berliner-verwaltungsgericht-einreise-eu-buergerin-irland-pro-palaestina-protest.html",
-      "date": "Wed, 06 May 2026 18:42:25 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Zeugenaufruf nach mutmaßlichem Gewaltverbrechen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1668704.php",
+      "date": "Thu, 07 May 2026 10:00:00 +0200"
+    },
     {
       "title": "Tatverdächtiger identifiziert",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2021/pressemitteilung.1105133.php",
@@ -96,11 +101,6 @@
       "title": "Schüsse auf 44-Jährigen – Staatsanwaltschaft Berlin und 6. Mordkommission ermitteln",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667855.php",
       "date": "Tue, 05 May 2026 13:00:00 +0200"
-    },
-    {
-      "title": "Fünfköpfige Personengruppe angegriffen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667845.php",
-      "date": "Tue, 05 May 2026 12:23:00 +0200"
     }
   ],
   "free_events": [],
