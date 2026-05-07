@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Vermisste 91-Jährige gefunden - dementer Senior ließ Ehefrau im Auto zurück",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/senior-laesst-ehefrau-in-auto-zurueck-suche.html",
+      "date": "Thu, 07 May 2026 21:37:25 +0200"
+    },
+    {
       "title": "Bauarbeiter durch Balkonplatte in Berlin-Staaken tödlich verletzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-staaken-bauarbeiter-gestorben-balkonplatte-arbeitsunfall.html",
       "date": "Thu, 07 May 2026 21:08:24 +0200"
@@ -44,14 +49,14 @@
       "title": "Zehn neue Stolpersteine in Eberswalde verlegt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/stolpersteine-eberswalde-juedische-anwohner-erinnerung.html",
       "date": "Thu, 07 May 2026 17:59:40 +0200"
-    },
-    {
-      "title": "Senior lässt demente Ehefrau in Auto zurück und weiß nicht mehr wo",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/senior-laesst-ehefrau-in-auto-zurueck-suche.html",
-      "date": "Thu, 07 May 2026 17:37:00 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Vermisste Seniorin nach Hubschraubereinsatz gefunden",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1668803.php",
+      "date": "Thu, 07 May 2026 22:00:00 +0200"
+    },
     {
       "title": "Mutmaßlicher Raser beschädigt Polizeifahrzeug und verletzt Polizeibeamten",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669155.php",
@@ -86,11 +91,6 @@
       "title": "Verkehrsunfall mit Tram – Kind im Krankenhaus",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1668853.php",
       "date": "Thu, 07 May 2026 11:36:00 +0200"
-    },
-    {
-      "title": "Seniorin vermisst – Polizei bittet um Mithilfe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1668803.php",
-      "date": "Thu, 07 May 2026 11:06:25 +0200"
     },
     {
       "title": "Festnahme nach Schüssen in Neukölln",
