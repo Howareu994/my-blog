@@ -1,6 +1,41 @@
 {
   "traffic": [
     {
+      "title": "Zehn neue Stolpersteine in Eberswalde verlegt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/stolpersteine-eberswalde-juedische-anwohner-erinnerung.html",
+      "date": "Thu, 07 May 2026 17:59:40 +0200"
+    },
+    {
+      "title": "Jahrestag des Kriegsendes: Hier wird in Berlin demonstriert",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/demonstrationen-gedenken-jahrestag-kriegsende.html",
+      "date": "Thu, 07 May 2026 17:40:20 +0200"
+    },
+    {
+      "title": "Senior lässt demente Ehefrau in Auto zurück und weiß nicht mehr wo",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/senior-laesst-ehefrau-in-auto-zurueck-suche.html",
+      "date": "Thu, 07 May 2026 17:37:12 +0200"
+    },
+    {
+      "title": "Energie Cottbus setzt gegen Wiesbaden auf Heimsieg",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-3-liga-fc-energie-cottbus-wehen-wiesbaden-vorbericht-aufstiegskampf.html",
+      "date": "Thu, 07 May 2026 16:44:18 +0200"
+    },
+    {
+      "title": "Forscher entwickeln Ultraschallkamera für Krankenhäuser",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/forschungskonferenz-cottbus-ultraschallkamera-patienten-sturz.html",
+      "date": "Thu, 07 May 2026 16:34:09 +0200"
+    },
+    {
+      "title": "Polizei setzt Taser gegen flüchtigen Mann ein",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-adlershof-polizei-festnahme-taser-flucht-krankenhaus.html",
+      "date": "Thu, 07 May 2026 16:30:46 +0200"
+    },
+    {
+      "title": "BR Volleys gewinnen in Lüneburg zehnte Meisterschaft in Serie",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/volleyball-bundesliga-br-volleys-lueneburg-deutscher-meister-party-feier-ausblick.html",
+      "date": "Thu, 07 May 2026 15:16:00 +0200"
+    },
+    {
       "title": "Ausstellungszentrum MAFZ: Havelland verhandelt mit Interessenten",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/05/mafz-paaren-glien-havelland-zukunft-verhandlungen-interesse.html",
       "date": "Thu, 07 May 2026 15:14:00 +0200"
@@ -14,44 +49,60 @@
       "title": "Pläne für Holzkraftwerke in Berlin offenbar vom Tisch",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/05/holzkraftwerke-berlin-energiewende-fernwaerme.html",
       "date": "Thu, 07 May 2026 14:23:40 +0200"
-    },
-    {
-      "title": "Weltkriegsbomben in Sachsendorf erfolgreich entschärft",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brandenburg-maerkisch-oderland-sachsendorf-seelow-bombe-entschaerfung.html",
-      "date": "Thu, 07 May 2026 13:45:31 +0200"
-    },
-    {
-      "title": "Ungeplante Zwischenlandung bei Flug Berlin-Alicante",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-passier-fluggast-poebelei-flugzeug-zwischenlandung.html",
-      "date": "Thu, 07 May 2026 13:32:49 +0200"
-    },
-    {
-      "title": "Berlin-Reinickendorf: Mann in Transporter verschleppt - Polizei sucht Zeugen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-reinickendorf-mann-transporter-verschleppt-polizei-zeugen-suche.html",
-      "date": "Thu, 07 May 2026 13:16:04 +0200"
-    },
-    {
-      "title": "Berlin-Weißensee: Kind von Tram erfasst und lebensbedrohlich verletzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-weissensee-tram-unfall-lebensgefaehrlich-verletzt.html",
-      "date": "Thu, 07 May 2026 13:09:45 +0200"
-    },
-    {
-      "title": "20-Jähriger nach Schüssen in Berlin-Neukölln festgenommen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-neukoelln-schuesse-anita-berber-park-festnahme.html",
-      "date": "Thu, 07 May 2026 12:26:39 +0200"
-    },
-    {
-      "title": "XXL-Straßenbahn \"Urbanliner\" der BVG soll ab Sommer rollen",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/05/bvg-urbanliner-strassenbahn-sommer-betrieb.html",
-      "date": "Thu, 07 May 2026 11:57:34 +0200"
-    },
-    {
-      "title": "BVG: U5 in Berlin ab Montag mehr als drei Monate unterbrochen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/u5-berlin-unterbrochen-gleis-bauarbeiten-bvg.html",
-      "date": "Thu, 07 May 2026 11:50:17 +0200"
     }
   ],
-  "police": [],
+  "police": [
+    {
+      "title": "Mutmaßlicher Raser beschädigt Polizeifahrzeug und verletzt Polizeibeamten",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669155.php",
+      "date": "Thu, 07 May 2026 16:53:01 +0200"
+    },
+    {
+      "title": "Polizei Berlin erlässt Allgemeinverfügung zum 8. und 9. Mai 2026",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669044.php",
+      "date": "Thu, 07 May 2026 15:10:00 +0200"
+    },
+    {
+      "title": "Junge Frau bedroht",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669038.php",
+      "date": "Thu, 07 May 2026 15:04:00 +0200"
+    },
+    {
+      "title": "Festnahmen nach Wohnungseinbruch",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669030.php",
+      "date": "Thu, 07 May 2026 14:58:00 +0200"
+    },
+    {
+      "title": "Fußgängerin bei Verkehrsunfall verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669015.php",
+      "date": "Thu, 07 May 2026 14:51:00 +0200"
+    },
+    {
+      "title": "Mann leistet Widerstand bei Festnahme nach Bedrohung",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1668869.php",
+      "date": "Thu, 07 May 2026 11:47:00 +0200"
+    },
+    {
+      "title": "Verkehrsunfall mit Tram – Kind im Krankenhaus",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1668853.php",
+      "date": "Thu, 07 May 2026 11:36:00 +0200"
+    },
+    {
+      "title": "Seniorin vermisst – Polizei bittet um Mithilfe",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1668803.php",
+      "date": "Thu, 07 May 2026 11:06:25 +0200"
+    },
+    {
+      "title": "Festnahme nach Schüssen in Neukölln",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1668764.php",
+      "date": "Thu, 07 May 2026 10:31:16 +0200"
+    },
+    {
+      "title": "Zeugenaufruf nach mutmaßlichem Gewaltverbrechen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1668704.php",
+      "date": "Thu, 07 May 2026 10:00:00 +0200"
+    }
+  ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
