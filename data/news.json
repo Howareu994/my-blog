@@ -1,9 +1,39 @@
 {
   "traffic": [
     {
+      "title": "Ausstellungszentrum MAFZ: Havelland verhandelt mit Interessenten",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/05/mafz-paaren-glien-havelland-zukunft-verhandlungen-interesse.html",
+      "date": "Thu, 07 May 2026 15:14:00 +0200"
+    },
+    {
+      "title": "Weltkriegsbombe in Eberswalde gefunden - Entschärfung am Samstag",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/bombe-weltkrieg-eberswalde-sperrkreis-barnim-evakuierung-entschaerfung.html",
+      "date": "Thu, 07 May 2026 14:59:03 +0200"
+    },
+    {
+      "title": "Pläne für Holzkraftwerke in Berlin offenbar vom Tisch",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/05/holzkraftwerke-berlin-energiewende-fernwaerme.html",
+      "date": "Thu, 07 May 2026 14:23:40 +0200"
+    },
+    {
+      "title": "Weltkriegsbomben in Sachsendorf erfolgreich entschärft",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brandenburg-maerkisch-oderland-sachsendorf-seelow-bombe-entschaerfung.html",
+      "date": "Thu, 07 May 2026 13:45:31 +0200"
+    },
+    {
+      "title": "Ungeplante Zwischenlandung bei Flug Berlin-Alicante",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-passier-fluggast-poebelei-flugzeug-zwischenlandung.html",
+      "date": "Thu, 07 May 2026 13:32:49 +0200"
+    },
+    {
       "title": "Berlin-Reinickendorf: Mann in Transporter verschleppt - Polizei sucht Zeugen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-reinickendorf-mann-transporter-verschleppt-polizei-zeugen-suche.html",
-      "date": "Thu, 07 May 2026 12:35:28 +0200"
+      "date": "Thu, 07 May 2026 13:16:04 +0200"
+    },
+    {
+      "title": "Berlin-Weißensee: Kind von Tram erfasst und lebensbedrohlich verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-weissensee-tram-unfall-lebensgefaehrlich-verletzt.html",
+      "date": "Thu, 07 May 2026 13:09:45 +0200"
     },
     {
       "title": "20-Jähriger nach Schüssen in Berlin-Neukölln festgenommen",
@@ -19,90 +49,9 @@
       "title": "BVG: U5 in Berlin ab Montag mehr als drei Monate unterbrochen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/u5-berlin-unterbrochen-gleis-bauarbeiten-bvg.html",
       "date": "Thu, 07 May 2026 11:50:17 +0200"
-    },
-    {
-      "title": "Berlin hat jetzt einen Margot-Friedländer-Platz",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-margot-friedlaender-platz-abgeordnetenhaus.html",
-      "date": "Thu, 07 May 2026 11:04:47 +0200"
-    },
-    {
-      "title": "Ganzer Ort geräumt: Weltkriegsbomben werden in Sachsendorf entschärft",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brandenburg-maerkisch-oderland-sachsendorf-seelow-bombe-entschaerfung.html",
-      "date": "Thu, 07 May 2026 10:49:16 +0200"
-    },
-    {
-      "title": "PCK Schwedt: Rosneft klagt gegen unbefristete Treuhandverwaltung",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/05/pck-raffinerie-schwedt-rosneft-deutschland-klage-treuhand.html",
-      "date": "Thu, 07 May 2026 10:44:00 +0200"
-    },
-    {
-      "title": "Automobil-Dienstleister IAV streicht Hunderte Stellen in Berlin",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/05/berlin-automobilbranche-iav-streicht-1400-stellen.html",
-      "date": "Thu, 07 May 2026 10:31:35 +0200"
-    },
-    {
-      "title": "Neue Regel bei Academy Awards: Berlinale-Bär wird zur Oscar-Wildcard",
-      "link": "https://www.rbb24.de/kultur/berlinale/beitraege/2026/oscar-nominierung-bester-internationaler-film-gewinner-goldener-baer.html",
-      "date": "Thu, 07 May 2026 08:50:24 +0200"
-    },
-    {
-      "title": "Getöteter Polizist in Lauchhammer: Mehr als zehn Jahre Haft",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/getoeteter-polizist-brandenburg-landgericht-cottbus-urteil.html",
-      "date": "Thu, 07 May 2026 08:30:33 +0200"
     }
   ],
-  "police": [
-    {
-      "title": "Mann leistet Widerstand bei Festnahme nach Bedrohung",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1668869.php",
-      "date": "Thu, 07 May 2026 11:47:00 +0200"
-    },
-    {
-      "title": "Verkehrsunfall mit Tram – Kind im Krankenhaus",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1668853.php",
-      "date": "Thu, 07 May 2026 11:36:00 +0200"
-    },
-    {
-      "title": "Seniorin vermisst – Polizei bittet um Mithilfe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1668803.php",
-      "date": "Thu, 07 May 2026 11:06:25 +0200"
-    },
-    {
-      "title": "Festnahme nach Schüssen in Neukölln",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1668764.php",
-      "date": "Thu, 07 May 2026 10:31:16 +0200"
-    },
-    {
-      "title": "Zeugenaufruf nach mutmaßlichem Gewaltverbrechen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1668704.php",
-      "date": "Thu, 07 May 2026 10:00:00 +0200"
-    },
-    {
-      "title": "Tatverdächtiger identifiziert",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2021/pressemitteilung.1105133.php",
-      "date": "Wed, 06 May 2026 16:15:00 +0200"
-    },
-    {
-      "title": "Bedrohung im öffentlichen Nahverkehr – Tatverdächtiger ermittelt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2025/pressemitteilung.1627261.php",
-      "date": "Wed, 06 May 2026 15:07:00 +0200"
-    },
-    {
-      "title": "Geschäftsmann überfallen, Mitarbeiter erleidet Stichverletzung",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1668434.php",
-      "date": "Wed, 06 May 2026 13:46:00 +0200"
-    },
-    {
-      "title": "Rotlicht missachtet – Schweren Verkehrsunfall verursacht",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1668426.php",
-      "date": "Wed, 06 May 2026 13:42:00 +0200"
-    },
-    {
-      "title": "Denkmal beschmiert",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1668422.php",
-      "date": "Wed, 06 May 2026 13:34:00 +0200"
-    }
-  ],
+  "police": [],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
