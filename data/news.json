@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Neue Wohnungsbaupläne für Späthsfelde in Berlin-Treptow",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/05/berlin-treptow-neubaugebiet-spaethsfelde-wohnungsbau-kleingaerten.html",
+      "date": "Thu, 07 May 2026 07:42:48 +0200"
+    },
+    {
+      "title": "Wertefragen: Brandenburger Feuerwehrverband wehrt sich gegen AfD-Forderungen",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/05/brandenburg-feuerwehrverband-banse-afd-deutschlandlied-rechtsextremismus.html",
+      "date": "Thu, 07 May 2026 07:23:25 +0200"
+    },
+    {
+      "title": "Platz vor Abgeordnetenhaus wird Margot-Friedländer-Platz",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/05/margot-friedlaender-platz-berlin-todestag-bildergalerie.html",
+      "date": "Thu, 07 May 2026 06:45:00 +0200"
+    },
+    {
       "title": "BR Volleys sichern sich in Lüneburg zehnte Meisterschaft in Folge",
       "link": "https://www.rbb24.de/sport/beitrag/2026/05/volleyball-meisterschaft-vbl-playoffs-finale-br-volleys-svg-lueneburg.html",
       "date": "Wed, 06 May 2026 22:33:16 +0200"
@@ -11,19 +26,9 @@
       "date": "Wed, 06 May 2026 22:24:28 +0200"
     },
     {
-      "title": "Bundesweite Razzia gegen rechtsextreme Organisationen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/razzia-neonazi-rechtsextremist.html",
-      "date": "Wed, 06 May 2026 22:01:02 +0200"
-    },
-    {
       "title": "Automobil-Dienstleister IAV streicht Hunderte Stellen in Berlin",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/05/berlin-automobilbranche-iav-streicht-1400-stellen.html",
       "date": "Wed, 06 May 2026 21:13:49 +0200"
-    },
-    {
-      "title": "Neue Wohnungsbaupläne für Späthsfelde in Berlin-Treptow",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/05/berlin-treptow-neubaugebiet-spaethsfelde-wohnungsbau-kleingaerten.html",
-      "date": "Wed, 06 May 2026 19:55:57 +0200"
     },
     {
       "title": "Berliner Bildungsverwaltung stellt Schulreinigungs-App vor",
@@ -36,11 +41,6 @@
       "date": "Wed, 06 May 2026 19:20:55 +0200"
     },
     {
-      "title": "GFL-Start: Die Potsdam Royals wollen Football-Geschichte schreiben",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/german-football-league-xeaiver-bullock-quarterback-potsdam-royals-berlin-adler-.html",
-      "date": "Wed, 06 May 2026 19:04:51 +0200"
-    },
-    {
       "title": "Berlin-Weißensee: Kind von Tram erfasst und lebensbedrohlich verletzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-weissensee-tram-unfall-lebensgefaehrlich-verletzt.html",
       "date": "Wed, 06 May 2026 19:03:51 +0200"
@@ -51,7 +51,58 @@
       "date": "Wed, 06 May 2026 18:42:25 +0200"
     }
   ],
-  "police": [],
+  "police": [
+    {
+      "title": "Tatverdächtiger identifiziert",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2021/pressemitteilung.1105133.php",
+      "date": "Wed, 06 May 2026 16:15:00 +0200"
+    },
+    {
+      "title": "Bedrohung im öffentlichen Nahverkehr – Tatverdächtiger ermittelt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2025/pressemitteilung.1627261.php",
+      "date": "Wed, 06 May 2026 15:07:00 +0200"
+    },
+    {
+      "title": "Geschäftsmann überfallen, Mitarbeiter erleidet Stichverletzung",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1668434.php",
+      "date": "Wed, 06 May 2026 13:46:00 +0200"
+    },
+    {
+      "title": "Rotlicht missachtet – Schweren Verkehrsunfall verursacht",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1668426.php",
+      "date": "Wed, 06 May 2026 13:42:00 +0200"
+    },
+    {
+      "title": "Denkmal beschmiert",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1668422.php",
+      "date": "Wed, 06 May 2026 13:34:00 +0200"
+    },
+    {
+      "title": "Streit eskaliert – Distanzelektroimpulsgerät eingesetzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1668310.php",
+      "date": "Wed, 06 May 2026 11:40:00 +0200"
+    },
+    {
+      "title": "Seniorin bei Raub verletzt – Tatverdächtiger festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1668032.php",
+      "date": "Tue, 05 May 2026 15:32:00 +0200"
+    },
+    {
+      "title": "Sachbeschädigung durch Schüsse auf Friseursalon",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667989.php",
+      "date": "Tue, 05 May 2026 15:05:00 +0200"
+    },
+    {
+      "title": "Schüsse auf 44-Jährigen – Staatsanwaltschaft Berlin und 6. Mordkommission ermitteln",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667855.php",
+      "date": "Tue, 05 May 2026 13:00:00 +0200"
+    },
+    {
+      "title": "Fünfköpfige Personengruppe angegriffen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667845.php",
+      "date": "Tue, 05 May 2026 12:23:00 +0200"
+    }
+  ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
