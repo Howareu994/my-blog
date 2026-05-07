@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Frau stirbt bei Wohnungsbrand in Berlin-Weißensee",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/wohnungsbrand-berlin-weissensee-tote-frau.html",
+      "date": "Thu, 07 May 2026 23:11:23 +0200"
+    },
+    {
       "title": "Vermisste 91-Jährige gefunden - dementer Senior ließ Ehefrau im Auto zurück",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/senior-laesst-ehefrau-in-auto-zurueck-suche.html",
       "date": "Thu, 07 May 2026 21:37:25 +0200"
@@ -44,11 +49,6 @@
       "title": "Video: Vergessenes Polizei KZ: Der 8.Mai kam hier zu spät",
       "link": "https://www.rbb24.de/panorama/av/av24/video-polizei-lager-oderblick-brandenburg-kriegsende.html",
       "date": "Thu, 07 May 2026 18:18:48 +0200"
-    },
-    {
-      "title": "Zehn neue Stolpersteine in Eberswalde verlegt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/stolpersteine-eberswalde-juedische-anwohner-erinnerung.html",
-      "date": "Thu, 07 May 2026 17:59:40 +0200"
     }
   ],
   "police": [
