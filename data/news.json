@@ -1,6 +1,36 @@
 {
   "traffic": [
     {
+      "title": "Neuer Bürgermeister von Nuthetal wird am Sonntag gewählt",
+      "link": "https://www.rbb24.de/politik/wahl/brandenburg-buergermeisterwahlen/2026/nuthetal-potsdam-mittelmark-buergermeister-hotescheck-schneider-herz-wahl.html",
+      "date": "Fri, 08 May 2026 10:52:56 +0200"
+    },
+    {
+      "title": "Länderkammer sagt Nein: Bundesrat stoppt geplante 1000-Euro-Entlastungsprämie",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/05/berlin-bundesrat-1000-euro-entlastungspraemie-gestoppt.html",
+      "date": "Fri, 08 May 2026 10:47:42 +0200"
+    },
+    {
+      "title": "Charité-Mediziner zu Hantavirus auf Schiff: \"Wir haben unsere Hilfe angeboten\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-ms-hondius-kreuzfahrtschiff-hantavirus-charite-sonderisolierstation.html",
+      "date": "Fri, 08 May 2026 10:39:00 +0200"
+    },
+    {
+      "title": "Uraufführung am Berliner Ensemble: \"Von Umsturz war nie die Rede\"",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/05/theater-berliner-ensemble-sturm-auf-berlin.html",
+      "date": "Fri, 08 May 2026 10:13:00 +0200"
+    },
+    {
+      "title": "Kein Geld fürs Stadion: Das tut der Spitzensport für vergünstigte Tickets",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/berlin-brandenburg-sport-stadion-tickets-geld-hertha-union-eisbaeren-cottbus.html",
+      "date": "Fri, 08 May 2026 09:43:00 +0200"
+    },
+    {
+      "title": "Nach Abwahl des Bürgermeisters: Zehdenicker wählen erneut neues Stadtoberhaupt",
+      "link": "https://www.rbb24.de/politik/wahl/brandenburg-buergermeisterwahlen/2026/zehdenick-oberhavel-buergermeister-stadtkewitz-hundelshausen-latzke-richardt.html",
+      "date": "Fri, 08 May 2026 09:36:40 +0200"
+    },
+    {
       "title": "Berlin: Schwarz-Rot will nicht mehr Radwege an allen Hauptstraßen",
       "link": "https://www.rbb24.de/politik/beitrag/2026/05/cdu-spd-gesetz-radwege-hauptstrassen.html",
       "date": "Fri, 08 May 2026 08:16:51 +0200"
@@ -19,39 +49,14 @@
       "title": "Frau stirbt bei Wohnungsbrand in Berlin-Weißensee",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/wohnungsbrand-berlin-weissensee-tote-frau.html",
       "date": "Thu, 07 May 2026 23:11:23 +0200"
-    },
-    {
-      "title": "Vermisste 91-Jährige gefunden - dementer Senior ließ Ehefrau im Auto zurück",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/senior-laesst-ehefrau-in-auto-zurueck-suche.html",
-      "date": "Thu, 07 May 2026 21:37:25 +0200"
-    },
-    {
-      "title": "Bauarbeiter durch Balkonplatte in Berlin-Staaken tödlich verletzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-staaken-bauarbeiter-gestorben-balkonplatte-arbeitsunfall.html",
-      "date": "Thu, 07 May 2026 21:08:24 +0200"
-    },
-    {
-      "title": "Diese Hertha-Jugendspieler könnten zu den Profis aufrücken",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/berlin-fussball-hertha-bsc-talente-leitl-hildebrandt-ndi-gouram-telib-goerlich.html",
-      "date": "Thu, 07 May 2026 20:53:40 +0200"
-    },
-    {
-      "title": "Musterungzentrum der Bundeswehr in Potsdam geplant",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brandenburg-potsdam-bundeswehr-musterung-musterungszentrum-standort.html",
-      "date": "Thu, 07 May 2026 20:25:46 +0200"
-    },
-    {
-      "title": "Kürzungspläne im Sozialbereich: \"Da ist die Axt ganz unten angesetzt\"",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/05/bundesregierung-brandenburg-sozialminister-kuerzungen-sozialbereich.html",
-      "date": "Thu, 07 May 2026 20:19:20 +0200"
-    },
-    {
-      "title": "Ukraine-Tagebuch: \"Nein, man kann seiner Liebe nicht entkommen\"",
-      "link": "https://www.rbb24.de/politik/thema/Ukraine/beitraege/ukraine-tagebuch-Liebe-kind-krieg-lena-andrey.html",
-      "date": "Thu, 07 May 2026 19:49:05 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Unbekannter Toter - Polizei Berlin bittet um Mithilfe",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669301.php",
+      "date": "Fri, 08 May 2026 09:52:05 +0200"
+    },
     {
       "title": "Vermisste Seniorin nach Hubschraubereinsatz gefunden",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1668803.php",
@@ -96,11 +101,6 @@
       "title": "Festnahme nach Schüssen in Neukölln",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1668764.php",
       "date": "Thu, 07 May 2026 10:31:16 +0200"
-    },
-    {
-      "title": "Zeugenaufruf nach mutmaßlichem Gewaltverbrechen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1668704.php",
-      "date": "Thu, 07 May 2026 10:00:00 +0200"
     }
   ],
   "free_events": [],
