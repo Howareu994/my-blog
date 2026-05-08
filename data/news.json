@@ -1,9 +1,39 @@
 {
   "traffic": [
     {
+      "title": "Hauptgebäude der TU Berlin wird bis auf Weiteres geschlossen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/Berlin-tu-technische-universitaet-hauptgebaeude-schliesst-bausubstanz.html",
+      "date": "Fri, 08 May 2026 20:56:54 +0200"
+    },
+    {
+      "title": "8. Mai: Erinnern an den Holocaust, wenn Zeitzeugen fehlen",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/05/holocaust-befreiung-8-mai-gedenken-zeitzeugen-orte-theater-hologramm-friedlaender.html",
+      "date": "Fri, 08 May 2026 20:17:56 +0200"
+    },
+    {
+      "title": "Fünf Brandenburger Abgeordnete in Stasi-Bericht erwähnt",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/05/brandenburg-fuenf-abgeordnete-stasi-bericht-erwaehnt.html",
+      "date": "Fri, 08 May 2026 20:13:00 +0200"
+    },
+    {
+      "title": "Wollitz: \"Das ist einer Profimannschaft eigentlich nicht würdig\"",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-dritte-liga-energie-cottbus-interview-claus-dieter-wollitz.html",
+      "date": "Fri, 08 May 2026 19:55:42 +0200"
+    },
+    {
+      "title": "Berliner Philharmoniker rechnen mit Sanierung ab 2032",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/05/berlin-philharmonie-berliner-philharmoniker-sanierung-2032.html",
+      "date": "Fri, 08 May 2026 19:46:56 +0200"
+    },
+    {
       "title": "Stromausfall in Berliner Ortsteilen Grunewald und Westend",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/asdasdasd.html",
       "date": "Fri, 08 May 2026 18:41:31 +0200"
+    },
+    {
+      "title": "Fußball-Bundesliga: Union Berlin spielt auswärts in Mainz",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-bundesliga-mainz-05-union-berlin-vorbericht.html",
+      "date": "Fri, 08 May 2026 18:36:16 +0200"
     },
     {
       "title": "Fußball-Bundesliga: Union Berlin spielt auswärts in Mainz",
@@ -19,36 +49,6 @@
       "title": "Jugendliche in Berlin und Brandenburg protestieren gegen Wehrpflicht",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/schueler-protest-wehrpflicht.html",
       "date": "Fri, 08 May 2026 17:23:00 +0200"
-    },
-    {
-      "title": "Entwarnung in Potsdam - Sperrkreis in Innenstadt aufgehoben",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/potsdam-verdaechtiger-gegenstand-gefunden-sperrkreis-polizei.html",
-      "date": "Fri, 08 May 2026 17:13:59 +0200"
-    },
-    {
-      "title": "Revision im Verfahren um getöteten Polizisten von Lauchhammer",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/prozess-lauchhammer-getoeteter-polizist-revision.html",
-      "date": "Fri, 08 May 2026 17:10:50 +0200"
-    },
-    {
-      "title": "Hertha will Fans mit Sieg gegen abstiegsbedrohte Fürther versöhnen",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-hertha-bsc-greuther-fuerth-2-bundesliga-vorbericht-olympiastadion.html",
-      "date": "Fri, 08 May 2026 16:40:11 +0200"
-    },
-    {
-      "title": "Neuer Rinderdiebstahl in Brandenburg - diesmal 48 Tiere aus Vetschau",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brandenburg-vetschau-50-rinder-gestohlen.html",
-      "date": "Fri, 08 May 2026 16:23:37 +0200"
-    },
-    {
-      "title": "Eishockey: Acht Abgänge bei den Eisbären - sechs Profis verlängern",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/eishockey-del-eisbaeren-berlin-verabschieden-spieler-und-verlaengern-vertraege.html",
-      "date": "Fri, 08 May 2026 16:17:02 +0200"
-    },
-    {
-      "title": "Hauptgebäude der TU Berlin wird bis auf Weiteres geschlossen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/Berlin-tu-technische-universitaet-hauptgebaeude-schliesst-bausubstanz.html",
-      "date": "Fri, 08 May 2026 16:14:48 +0200"
     }
   ],
   "police": [
