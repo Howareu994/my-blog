@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Fußball-Bundesliga: Union Berlin braucht den Anti-Fischer",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-bundesliga-union-berlin-urs-fischer-schweres-erbe-identitaet.html",
+      "date": "Fri, 08 May 2026 14:01:00 +0200"
+    },
+    {
+      "title": "Steuerschätzung: Weniger Einnahmen für Berlin erwartet",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/05/berlin-steuereinnahmen-geringer-als-erwartet-steuerschaetzung.html",
+      "date": "Fri, 08 May 2026 13:57:32 +0200"
+    },
+    {
+      "title": "\"Verdächtiger Gegenstand\" in Potsdamer Wohnhaus entdeckt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/potsdam-verdaechtiger-gegenstand-gefunden-sperrkreis-polizei.html",
+      "date": "Fri, 08 May 2026 13:27:39 +0200"
+    },
+    {
       "title": "Bauarbeiten am U-Bahnhof Nollendorfplatz am Sonntag beendet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/u-bahnhof-nollendorfplatz-sanierung.html",
       "date": "Fri, 08 May 2026 12:57:00 +0200"
@@ -14,16 +29,6 @@
       "title": "Fördergeld gegen Antisemitismus in Berlin erneut nicht ausgegeben",
       "link": "https://www.rbb24.de/politik/beitrag/2026/05/antisemitismus-foerdergeld-berlin.html",
       "date": "Fri, 08 May 2026 12:22:59 +0200"
-    },
-    {
-      "title": "Nordwestuckermark wählt am Sonntag ein neues Gemeindeoberhaupt",
-      "link": "https://www.rbb24.de/politik/wahl/brandenburg-buergermeisterwahlen/2026/nordwestuckermark-stichwahl-susanne-ramm-ralph-ryl.html",
-      "date": "Fri, 08 May 2026 12:13:39 +0200"
-    },
-    {
-      "title": "Bürgermeister-Wahl am Sonntag in Baruth/Mark",
-      "link": "https://www.rbb24.de/politik/wahl/brandenburg-buergermeisterwahlen/2026/baruth-mark-buergermeister-hahn-rosenthal-schacht-wahl-ilk.html",
-      "date": "Fri, 08 May 2026 12:11:44 +0200"
     },
     {
       "title": "Berlin bekommt Helmut-Kohl-Allee im Tiergarten",
@@ -41,17 +46,17 @@
       "date": "Fri, 08 May 2026 11:54:02 +0200"
     },
     {
-      "title": "\"Verdächtiger Gegenstand\" in Potsdamer Wohnhaus entdeckt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/potsdam-verdaechtiger-gegenstand-gefunden-sperrkreis-polizei.html",
-      "date": "Fri, 08 May 2026 11:51:44 +0200"
-    },
-    {
       "title": "Architekt des Jüdischen Museums Daniel Libeskind im Interview",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/05/daniel-libeskind-interview-juedisches-museum-antisemitismus.html",
       "date": "Fri, 08 May 2026 11:45:12 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Paar homophob beleidigt und angegriffen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669522.php",
+      "date": "Fri, 08 May 2026 13:08:00 +0200"
+    },
     {
       "title": "Wohnungsbrand – Frau tot aufgefunden",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669382.php",
@@ -96,11 +101,6 @@
       "title": "Mann leistet Widerstand bei Festnahme nach Bedrohung",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1668869.php",
       "date": "Thu, 07 May 2026 11:47:00 +0200"
-    },
-    {
-      "title": "Verkehrsunfall mit Tram – Kind im Krankenhaus",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1668853.php",
-      "date": "Thu, 07 May 2026 11:36:00 +0200"
     }
   ],
   "free_events": [],
