@@ -1,14 +1,34 @@
 {
   "traffic": [
     {
+      "title": "Stromausfall in Berliner Ortsteilen Grunewald und Westend",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/asdasdasd.html",
+      "date": "Fri, 08 May 2026 18:41:31 +0200"
+    },
+    {
+      "title": "Fußball-Bundesliga: Union Berlin spielt auswärts in Mainz",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-bundesliga-mainz-05-union-berlin-vorbericht.html",
+      "date": "Fri, 08 May 2026 18:36:16 +0200"
+    },
+    {
+      "title": "Staatsanwaltschaft zieht Belohnung im Fall Büttner zurück",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/05/brandenburg-anschlag-antisemitismus-beauftragter-buettner-keine-belohnung.html",
+      "date": "Fri, 08 May 2026 18:30:00 +0200"
+    },
+    {
+      "title": "Jugendliche in Berlin und Brandenburg protestieren gegen Wehrpflicht",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/schueler-protest-wehrpflicht.html",
+      "date": "Fri, 08 May 2026 17:23:00 +0200"
+    },
+    {
+      "title": "Entwarnung in Potsdam - Sperrkreis in Innenstadt aufgehoben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/potsdam-verdaechtiger-gegenstand-gefunden-sperrkreis-polizei.html",
+      "date": "Fri, 08 May 2026 17:13:59 +0200"
+    },
+    {
       "title": "Revision im Verfahren um getöteten Polizisten von Lauchhammer",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/prozess-lauchhammer-getoeteter-polizist-revision.html",
       "date": "Fri, 08 May 2026 17:10:50 +0200"
-    },
-    {
-      "title": "Verdächtiger Gegenstand in Potsdamer Wohnhaus: Evakuierung",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/potsdam-verdaechtiger-gegenstand-gefunden-sperrkreis-polizei.html",
-      "date": "Fri, 08 May 2026 16:52:59 +0200"
     },
     {
       "title": "Hertha will Fans mit Sieg gegen abstiegsbedrohte Fürther versöhnen",
@@ -29,26 +49,6 @@
       "title": "Hauptgebäude der TU Berlin wird bis auf Weiteres geschlossen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/Berlin-tu-technische-universitaet-hauptgebaeude-schliesst-bausubstanz.html",
       "date": "Fri, 08 May 2026 16:14:48 +0200"
-    },
-    {
-      "title": "Leag-Beschäftigte protestieren für Gaskraftwerk in Schwarze Pumpe",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/05/leag-protest-gaskraftwerke-suedbonus-schwarze-pumpe.html",
-      "date": "Fri, 08 May 2026 15:57:00 +0200"
-    },
-    {
-      "title": "Volksbegehren \"Berlin autofrei\" wohl gescheitert",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/05/volksbegehren-berlin-autofrei-voraussichtlich-gescheitert-berlin.html",
-      "date": "Fri, 08 May 2026 15:44:39 +0200"
-    },
-    {
-      "title": "S-Bahnverkehr im Berliner Westen und Süden ab Montag eingeschränkt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/s-bahn-bauarbeiten-einschraenkung.html",
-      "date": "Fri, 08 May 2026 15:35:16 +0200"
-    },
-    {
-      "title": "Schwere Raubtaten gegen Schwule: Verurteilte legen Revision ein",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/prozess-homosexuelle-maenner-datting-app-raub-revision.html",
-      "date": "Fri, 08 May 2026 15:35:01 +0200"
     }
   ],
   "police": [
