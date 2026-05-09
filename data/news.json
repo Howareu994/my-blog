@@ -1,9 +1,14 @@
 {
   "traffic": [
     {
-      "title": "Eberswalde: Fliegerbombe sicher entschärft",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/bombe-weltkrieg-eberswalde-sperrkreis-barnim-evakuierung-entschaerfung.html",
-      "date": "Sat, 09 May 2026 13:36:30 +0200"
+      "title": "ME/CFS: Fehlendes Wissen erschwert die Behandlung Betroffener",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/mecfs-chronisches-fatigue-syndrom-chronische-erkrankung-long-covid-forschung.html",
+      "date": "Sat, 09 May 2026 14:20:41 +0200"
+    },
+    {
+      "title": "3. Liga live: Energie Cottbus empfängt Wehen Wiesbaden",
+      "link": "https://www.rbb24.de/sport/hintergrund/livestream/livestream-fussball-dritte-liga-energie-cottbus-wehen-wiesbaden.html",
+      "date": "Sat, 09 May 2026 13:58:03 +0200"
     },
     {
       "title": "Eberswalde: Fliegerbombe sicher entschärft",
@@ -44,14 +49,14 @@
       "title": "Direkt von und nach Norwegen: Deutsche Bahn plant Direktverbindung Berlin-Oslo",
       "link": "https://www.rbb24.de/politik/beitrag/2026/05/berlin-bahn-direktverbindung-oslo.html",
       "date": "Sat, 09 May 2026 09:25:53 +0200"
-    },
-    {
-      "title": "Deutlich weniger Asylanträge in Brandenburg",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/05/brandenburg-sozialministerium-deutlich-weniger-asylantraege.html",
-      "date": "Sat, 09 May 2026 09:00:52 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Auto angezündet",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669798.php",
+      "date": "Sat, 09 May 2026 13:52:32 +0200"
+    },
     {
       "title": "Tätlicher Angriff auf Polizeibeamte – Distanzelektroimpulsgerät eingesetzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669670.php",
@@ -96,11 +101,6 @@
       "title": "Festnahmen nach Wohnungseinbruch",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669030.php",
       "date": "Thu, 07 May 2026 14:58:00 +0200"
-    },
-    {
-      "title": "Fußgängerin bei Verkehrsunfall verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669015.php",
-      "date": "Thu, 07 May 2026 14:51:00 +0200"
     }
   ],
   "free_events": [],
