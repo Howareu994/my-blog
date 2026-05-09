@@ -1,14 +1,39 @@
 {
   "traffic": [
     {
+      "title": "1.500 Menschen demonstrieren in Potsdam gegen Rechtsextremismus",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/05/demonstration-gegen-rechtsextremismus-potsdam-brandenburg.html",
+      "date": "Sat, 09 May 2026 16:12:39 +0200"
+    },
+    {
+      "title": "Später Cigerci-Hammer: Energie Cottbus ist dem Aufstieg ganz nah",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-dritte-liga-energie-cottbus-wehen-wiesbaden-spielbericht.html",
+      "date": "Sat, 09 May 2026 16:09:49 +0200"
+    },
+    {
+      "title": "Berliner SPD wählt Führungs-Duo: Mit Krach und König und ohne große Kontroversen",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/05/berlin-spd-parteitag-krach-koenig-agh-wahl-vorbereitung.html",
+      "date": "Sat, 09 May 2026 16:05:53 +0200"
+    },
+    {
+      "title": "20-jähriger Tierfotograf aus Berlin ist Naturfotograf des Jahres",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/fotograf-luca-lorenz-berlin-preisgekroent-tiere-natur.html",
+      "date": "Sat, 09 May 2026 15:40:02 +0200"
+    },
+    {
+      "title": "Energie Cottbus erhält 1,67 Millionen Euro für Stadion-Modernisierung",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-dritte-liga-energie-cottbus-land-brandenburg-foerderbescheid-modernisierung-stadion.html",
+      "date": "Sat, 09 May 2026 15:32:51 +0200"
+    },
+    {
+      "title": "Berliner FDP wählt Meyer erneut zum Landeschef",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/05/berlin-parteien-fdp-neuer-landeschef-gewaehlt.html",
+      "date": "Sat, 09 May 2026 15:26:58 +0200"
+    },
+    {
       "title": "ME/CFS: Fehlendes Wissen erschwert die Behandlung Betroffener",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/mecfs-chronisches-fatigue-syndrom-chronische-erkrankung-long-covid-forschung.html",
       "date": "Sat, 09 May 2026 14:20:41 +0200"
-    },
-    {
-      "title": "3. Liga live: Energie Cottbus empfängt Wehen Wiesbaden",
-      "link": "https://www.rbb24.de/sport/hintergrund/livestream/livestream-fussball-dritte-liga-energie-cottbus-wehen-wiesbaden.html",
-      "date": "Sat, 09 May 2026 13:58:03 +0200"
     },
     {
       "title": "Eberswalde: Fliegerbombe sicher entschärft",
@@ -21,37 +46,17 @@
       "date": "Sat, 09 May 2026 13:26:55 +0200"
     },
     {
-      "title": "Berliner SPD wählt Führungs-Duo: Mit Krach und König und ohne große Kontroversen",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/05/berlin-spd-parteitag-krach-koenig-agh-wahl-vorbereitung.html",
-      "date": "Sat, 09 May 2026 12:32:35 +0200"
-    },
-    {
       "title": "Berlin bekommt Helmut-Kohl-Allee im Tiergarten",
       "link": "https://www.rbb24.de/politik/beitrag/2026/05/berlin-mitte-helmut-kohl-allee-festakt-umbenennung-hofjaegeralle.html",
       "date": "Sat, 09 May 2026 11:57:36 +0200"
-    },
-    {
-      "title": "Sollte Hertha unbedingt versuchen, Fabian Reese zu halten?",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-hertha-bsc-fabian-reese-verbleib-abschied-pro-contra.html",
-      "date": "Sat, 09 May 2026 10:52:12 +0200"
-    },
-    {
-      "title": "Muttertag: Zahlreiche Schnittblumen im Handel mit Pestiziden belastet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/muttertag-schnittblumen-blumen-pestizide-pflanzenschutzmittel.html",
-      "date": "Sat, 09 May 2026 10:31:11 +0200"
-    },
-    {
-      "title": "Volksbegehren \"Berlin autofrei\" ist gescheitert",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/05/volksbegehren-berlin-autofrei-voraussichtlich-gescheitert-berlin.html",
-      "date": "Sat, 09 May 2026 10:21:35 +0200"
-    },
-    {
-      "title": "Direkt von und nach Norwegen: Deutsche Bahn plant Direktverbindung Berlin-Oslo",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/05/berlin-bahn-direktverbindung-oslo.html",
-      "date": "Sat, 09 May 2026 09:25:53 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Festnahme nach mutmaßlichem Diebstahl von Autorädern",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669799.php",
+      "date": "Sat, 09 May 2026 14:53:52 +0200"
+    },
     {
       "title": "Auto angezündet",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669798.php",
@@ -96,11 +101,6 @@
       "title": "Junge Frau bedroht",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669038.php",
       "date": "Thu, 07 May 2026 15:04:00 +0200"
-    },
-    {
-      "title": "Festnahmen nach Wohnungseinbruch",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669030.php",
-      "date": "Thu, 07 May 2026 14:58:00 +0200"
     }
   ],
   "free_events": [],
