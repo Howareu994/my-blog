@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Sollte Hertha unbedingt versuchen, Fabian Reese zu halten?",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-hertha-bsc-fabian-reese-verbleib-abschied-pro-contra.html",
+      "date": "Sat, 09 May 2026 10:52:12 +0200"
+    },
+    {
+      "title": "Muttertag: Zahlreiche Schnittblumen im Handel mit Pestiziden belastet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/muttertag-schnittblumen-blumen-pestizide-pflanzenschutzmittel.html",
+      "date": "Sat, 09 May 2026 10:31:11 +0200"
+    },
+    {
+      "title": "Volksbegehren \"Berlin autofrei\" ist gescheitert",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/05/volksbegehren-berlin-autofrei-voraussichtlich-gescheitert-berlin.html",
+      "date": "Sat, 09 May 2026 10:21:35 +0200"
+    },
+    {
       "title": "Direkt von und nach Norwegen: Deutsche Bahn plant Direktverbindung Berlin-Oslo",
       "link": "https://www.rbb24.de/politik/beitrag/2026/05/berlin-bahn-direktverbindung-oslo.html",
       "date": "Sat, 09 May 2026 09:25:53 +0200"
@@ -26,11 +41,6 @@
       "date": "Sat, 09 May 2026 07:30:00 +0200"
     },
     {
-      "title": "Muttertag: Zahlreiche Blumen im Handel mit Pestiziden belastet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/muttertag-schnittblumen-blumen-pestizide-pflanzenschutzmittel.html",
-      "date": "Sat, 09 May 2026 07:15:00 +0200"
-    },
-    {
       "title": "Berlin: Krach und König sind neue SPD-Landesvorsitzende",
       "link": "https://www.rbb24.de/politik/beitrag/2026/05/krach-koenig-spd-landesvorsitzende-berlin-wahl.html",
       "date": "Fri, 08 May 2026 22:03:51 +0200"
@@ -39,16 +49,6 @@
       "title": "Mit Feldspieler im Tor: Altglienicke holt Remis bei Hertha II",
       "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-regionalliga-nordost-hertha-ii-vsg-altglienicke.html",
       "date": "Fri, 08 May 2026 21:39:50 +0200"
-    },
-    {
-      "title": "Hauptgebäude der TU Berlin wird bis auf Weiteres geschlossen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/Berlin-tu-technische-universitaet-hauptgebaeude-schliesst-bausubstanz.html",
-      "date": "Fri, 08 May 2026 20:56:54 +0200"
-    },
-    {
-      "title": "8. Mai: Erinnern an den Holocaust, wenn Zeitzeugen fehlen",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/05/holocaust-befreiung-8-mai-gedenken-zeitzeugen-orte-theater-hologramm-friedlaender.html",
-      "date": "Fri, 08 May 2026 20:17:56 +0200"
     }
   ],
   "police": [
