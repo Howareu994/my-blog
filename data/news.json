@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Ein Tag mit Erntehelfern auf den Spargelfeldern in Beelitz",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/05/spargel-ernte-beelitz-helfer-saisonarbeit-feld-rumaenien-akkordarbeit.html",
+      "date": "Sun, 10 May 2026 07:15:00 +0200"
+    },
+    {
       "title": "GFL-Auftakt: Potsdam Royals gewinnen Derby gegen Berlin Rebels",
       "link": "https://www.rbb24.de/sport/beitrag/2026/05/football-gfl-berlin-rebels-potsdam-royals-derby-saisonauftakt.html",
       "date": "Sat, 09 May 2026 20:45:09 +0200"
@@ -44,11 +49,6 @@
       "title": "20-Jähriger aus Berlin ist Naturfotograf des Jahres",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/fotograf-luca-lorenz-berlin-preisgekroent-tiere-natur.html",
       "date": "Sat, 09 May 2026 16:15:32 +0200"
-    },
-    {
-      "title": "Berliner SPD wählt Führungs-Duo: Mit Krach und König und ohne große Kontroversen",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/05/berlin-spd-parteitag-krach-koenig-agh-wahl-vorbereitung.html",
-      "date": "Sat, 09 May 2026 16:05:53 +0200"
     }
   ],
   "police": [],
