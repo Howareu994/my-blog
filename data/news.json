@@ -51,58 +51,7 @@
       "date": "Sat, 09 May 2026 16:05:53 +0200"
     }
   ],
-  "police": [
-    {
-      "title": "Festnahme nach mutmaßlichem Diebstahl von Autorädern",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669799.php",
-      "date": "Sat, 09 May 2026 14:53:52 +0200"
-    },
-    {
-      "title": "Auto angezündet",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669798.php",
-      "date": "Sat, 09 May 2026 13:52:32 +0200"
-    },
-    {
-      "title": "Tätlicher Angriff auf Polizeibeamte – Distanzelektroimpulsgerät eingesetzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669670.php",
-      "date": "Fri, 08 May 2026 15:28:00 +0200"
-    },
-    {
-      "title": "Paar homophob beleidigt und angegriffen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669522.php",
-      "date": "Fri, 08 May 2026 13:08:00 +0200"
-    },
-    {
-      "title": "Wohnungsbrand – Frau tot aufgefunden",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669382.php",
-      "date": "Fri, 08 May 2026 11:23:00 +0200"
-    },
-    {
-      "title": "Unbekannter Toter - Polizei Berlin bittet um Mithilfe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669301.php",
-      "date": "Fri, 08 May 2026 09:52:05 +0200"
-    },
-    {
-      "title": "Vermisste Seniorin nach Hubschraubereinsatz gefunden",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1668803.php",
-      "date": "Thu, 07 May 2026 22:00:00 +0200"
-    },
-    {
-      "title": "Mutmaßlicher Raser beschädigt Polizeifahrzeug und verletzt Polizeibeamten",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669155.php",
-      "date": "Thu, 07 May 2026 16:53:01 +0200"
-    },
-    {
-      "title": "Polizei Berlin erlässt Allgemeinverfügung zum 8. und 9. Mai 2026",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669044.php",
-      "date": "Thu, 07 May 2026 15:10:00 +0200"
-    },
-    {
-      "title": "Junge Frau bedroht",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669038.php",
-      "date": "Thu, 07 May 2026 15:04:00 +0200"
-    }
-  ],
+  "police": [],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
