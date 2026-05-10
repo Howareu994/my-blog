@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Live hören und im Ticker: Herthas letztes Heimspiel gegen Fürth",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-2-bundesliga-zweite-liga-olympiastadion-hertha-bsc-greuther-fuerth.html",
+      "date": "Sun, 10 May 2026 13:27:43 +0200"
+    },
+    {
+      "title": "Interview: Kleinkinder nackt in der Öffentlichkeit trotz Smartphone und KI",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/kinder-nackt-unbekleidet-oeffentlichkeit-eltern-darknet.html",
+      "date": "Sun, 10 May 2026 12:52:34 +0200"
+    },
+    {
       "title": "BR Volleys: Auf die Meisterschaft folgt der große Umbruch",
       "link": "https://www.rbb24.de/sport/beitrag/2026/05/volleyball-bundesliga-vbl-br-volleys-meisterschaft-transfers-umbruch.html",
       "date": "Sun, 10 May 2026 11:28:00 +0200"
@@ -11,9 +21,9 @@
       "date": "Sun, 10 May 2026 10:35:47 +0200"
     },
     {
-      "title": "Feuer in Neukölln - Bewohner mussten vorübergehend ihre Wohnungen verlasse",
+      "title": "Feuer in Neukölln - Bewohner mussten vorübergehend ihre Wohnungen verlassen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/feuer-berlin-neukoelln-mehrfamilienhaus.html",
-      "date": "Sun, 10 May 2026 10:26:30 +0200"
+      "date": "Sun, 10 May 2026 10:26:00 +0200"
     },
     {
       "title": "Ein Tag mit Erntehelfern auf den Spargelfeldern in Beelitz",
@@ -39,19 +49,34 @@
       "title": "Berliner Stromversorgung: Staatsschutz ermittelt zu möglichem Sabotage-Aufruf",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/anschlaege-berlin-strom-sabotage-plakat-ermittlungen.html",
       "date": "Sat, 09 May 2026 19:22:00 +0200"
-    },
-    {
-      "title": "Regionalliga: Preussen siegt spät, Hertha 03 chancenlos in Erfurt",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-regionalliga-nordost-erfurt-zehlendorf-bfc-preussen-meuselwitz.html",
-      "date": "Sat, 09 May 2026 18:28:24 +0200"
-    },
-    {
-      "title": "Mindestens 1.500 Menschen demonstrieren in Potsdam gegen Rechtsextremismus",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/05/demonstration-gegen-rechtsextremismus-potsdam-brandenburg.html",
-      "date": "Sat, 09 May 2026 18:24:21 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Wahlplakate beschädigt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669804.php",
+      "date": "Sun, 10 May 2026 13:31:00 +0200"
+    },
+    {
+      "title": "Achtjähriger bei Verkehrsunfall verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669803.php",
+      "date": "Sun, 10 May 2026 12:52:00 +0200"
+    },
+    {
+      "title": "Fußgängerin beim Rangieren angefahren und verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669802.php",
+      "date": "Sun, 10 May 2026 12:39:00 +0200"
+    },
+    {
+      "title": "Überfall auf Tankstelle",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669801.php",
+      "date": "Sun, 10 May 2026 12:28:00 +0200"
+    },
+    {
+      "title": "Randalierer leistet Widerstand und bespuckt Polizisten",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669800.php",
+      "date": "Sun, 10 May 2026 12:11:00 +0200"
+    },
     {
       "title": "Festnahme nach mutmaßlichem Diebstahl von Autorädern",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669799.php",
@@ -76,31 +101,6 @@
       "title": "Wohnungsbrand – Frau tot aufgefunden",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669382.php",
       "date": "Fri, 08 May 2026 11:23:00 +0200"
-    },
-    {
-      "title": "Unbekannter Toter - Polizei Berlin bittet um Mithilfe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669301.php",
-      "date": "Fri, 08 May 2026 09:52:05 +0200"
-    },
-    {
-      "title": "Vermisste Seniorin nach Hubschraubereinsatz gefunden",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1668803.php",
-      "date": "Thu, 07 May 2026 22:00:00 +0200"
-    },
-    {
-      "title": "Mutmaßlicher Raser beschädigt Polizeifahrzeug und verletzt Polizeibeamten",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669155.php",
-      "date": "Thu, 07 May 2026 16:53:01 +0200"
-    },
-    {
-      "title": "Polizei Berlin erlässt Allgemeinverfügung zum 8. und 9. Mai 2026",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669044.php",
-      "date": "Thu, 07 May 2026 15:10:00 +0200"
-    },
-    {
-      "title": "Junge Frau bedroht",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669038.php",
-      "date": "Thu, 07 May 2026 15:04:00 +0200"
     }
   ],
   "free_events": [],
