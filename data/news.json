@@ -18,7 +18,7 @@
     {
       "title": "Helmholtzplatz: Hohe Gewerbemieten vertreiben Läden",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/prenzlauer-berg-gentrifizierung-gewerbe-mieten.html",
-      "date": "Sun, 10 May 2026 10:35:47 +0200"
+      "date": "Sun, 10 May 2026 10:35:00 +0200"
     },
     {
       "title": "Feuer in Neukölln - Bewohner mussten vorübergehend ihre Wohnungen verlassen",
@@ -52,6 +52,11 @@
     }
   ],
   "police": [
+    {
+      "title": "Busfahrer bedroht – Reizgas eingesetzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669805.php",
+      "date": "Sun, 10 May 2026 14:46:00 +0200"
+    },
     {
       "title": "Wahlplakate beschädigt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669804.php",
@@ -96,11 +101,6 @@
       "title": "Paar homophob beleidigt und angegriffen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669522.php",
       "date": "Fri, 08 May 2026 13:08:00 +0200"
-    },
-    {
-      "title": "Wohnungsbrand – Frau tot aufgefunden",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669382.php",
-      "date": "Fri, 08 May 2026 11:23:00 +0200"
     }
   ],
   "free_events": [],
