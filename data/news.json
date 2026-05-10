@@ -1,9 +1,19 @@
 {
   "traffic": [
     {
-      "title": "Live hören und im Ticker: Herthas letztes Heimspiel gegen Fürth",
+      "title": "Zehn Herthaner feiern gegen Fürth versöhnlichen Heim-Abschluss",
       "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-2-bundesliga-zweite-liga-olympiastadion-hertha-bsc-greuther-fuerth.html",
-      "date": "Sun, 10 May 2026 13:27:43 +0200"
+      "date": "Sun, 10 May 2026 16:12:56 +0200"
+    },
+    {
+      "title": "\"Städtische Gewässer haben eine höhere Diversität an Antibiotikaresistenz-Genen\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-brandenburg-badesee-antibiotika-resistenz-bakterien-leibniz-institut-grossart.html",
+      "date": "Sun, 10 May 2026 15:53:05 +0200"
+    },
+    {
+      "title": "Volksbegehren Berlin werbefrei und autofrei gescheitert",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/05/volksbegehren-berlin-werbefrei-gescheitert.html",
+      "date": "Sun, 10 May 2026 15:01:25 +0200"
     },
     {
       "title": "Interview: Kleinkinder nackt in der Öffentlichkeit trotz Smartphone und KI",
@@ -28,7 +38,7 @@
     {
       "title": "Ein Tag mit Erntehelfern auf den Spargelfeldern in Beelitz",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/05/spargel-ernte-beelitz-helfer-saisonarbeit-feld-rumaenien-akkordarbeit.html",
-      "date": "Sun, 10 May 2026 10:13:56 +0200"
+      "date": "Sun, 10 May 2026 10:13:00 +0200"
     },
     {
       "title": "Münchner \"Wallenstein\" von Jan-Christoph Gockel beim Berliner Theatertreffen",
@@ -39,19 +49,14 @@
       "title": "GFL-Auftakt: Potsdam Royals gewinnen Derby gegen Berlin Rebels",
       "link": "https://www.rbb24.de/sport/beitrag/2026/05/football-gfl-berlin-rebels-potsdam-royals-derby-saisonauftakt.html",
       "date": "Sat, 09 May 2026 20:45:09 +0200"
-    },
-    {
-      "title": "Cottbus-Ekstase gegen Wiesbaden: Ein Cigerci für alle Fälle",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-3-liga-fc-energie-cottbus-wehen-wiesbaden-analyse-tolga-cigercy-tolcay-wollitz-siegtreffer-aufstieg.html",
-      "date": "Sat, 09 May 2026 19:48:00 +0200"
-    },
-    {
-      "title": "Berliner Stromversorgung: Staatsschutz ermittelt zu möglichem Sabotage-Aufruf",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/anschlaege-berlin-strom-sabotage-plakat-ermittlungen.html",
-      "date": "Sat, 09 May 2026 19:22:00 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Stein- und Flaschenwürfe auf Einsatzkräfte",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669806.php",
+      "date": "Sun, 10 May 2026 15:15:58 +0200"
+    },
     {
       "title": "Busfahrer bedroht – Reizgas eingesetzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669805.php",
@@ -96,11 +101,6 @@
       "title": "Tätlicher Angriff auf Polizeibeamte – Distanzelektroimpulsgerät eingesetzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669670.php",
       "date": "Fri, 08 May 2026 15:28:00 +0200"
-    },
-    {
-      "title": "Paar homophob beleidigt und angegriffen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669522.php",
-      "date": "Fri, 08 May 2026 13:08:00 +0200"
     }
   ],
   "free_events": [],
