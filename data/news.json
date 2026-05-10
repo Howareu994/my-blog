@@ -1,14 +1,44 @@
 {
   "traffic": [
     {
+      "title": "Hantavirus: Person von Kreuzfahrtschiff wird in Berliner Charité untersucht",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-charite-hantavirus-kreuzfahrtschiff-hondius-quarantaene.html",
+      "date": "Sun, 10 May 2026 17:27:45 +0200"
+    },
+    {
+      "title": "Staatsschutz ermittelt: 42 AfD-Plakate in Berlin beschädigt",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/05/berlin-baumschulenweg-afd-plakate-beschaedigt-staatsschutz.html",
+      "date": "Sun, 10 May 2026 17:23:46 +0200"
+    },
+    {
+      "title": "\"Städtische Gewässer haben eine höhere Diversität an Antibiotika-Resistenzgenen\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-brandenburg-badesee-antibiotika-resistenz-bakterien-leibniz-institut-grossart.html",
+      "date": "Sun, 10 May 2026 17:20:00 +0200"
+    },
+    {
+      "title": "Braucht Berlin eine Hyme, nur weil Bayern eine hat? - Eine Suche",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/05/hymne-land-landeshymne-berlin-song-bayern.html",
+      "date": "Sun, 10 May 2026 17:10:53 +0200"
+    },
+    {
+      "title": "Regionalliga Nordost: BFC mit knappem Sieg, Babelsberg-Spektakel",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-regionalliga-nordost-bfc-dynamo-luckenwalde-magdeburg-babelsberg.html",
+      "date": "Sun, 10 May 2026 17:02:28 +0200"
+    },
+    {
+      "title": "Handball-Bundesliga: Füchse Berlin schlagen THW Kiel mit 35:28",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/handball-bundesliga-hbl-tabelle-spitzenspiel-thw-kiel-fuechse-berlin.html",
+      "date": "Sun, 10 May 2026 16:53:58 +0200"
+    },
+    {
+      "title": "S-Bahnverkehr im Berliner Westen und Süden ab Montag eingeschränkt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/s-bahn-bauarbeiten-einschraenkung.html",
+      "date": "Sun, 10 May 2026 16:23:49 +0200"
+    },
+    {
       "title": "Zehn Herthaner feiern gegen Fürth versöhnlichen Heim-Abschluss",
       "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-2-bundesliga-zweite-liga-olympiastadion-hertha-bsc-greuther-fuerth.html",
       "date": "Sun, 10 May 2026 16:12:56 +0200"
-    },
-    {
-      "title": "\"Städtische Gewässer haben eine höhere Diversität an Antibiotikaresistenz-Genen\"",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-brandenburg-badesee-antibiotika-resistenz-bakterien-leibniz-institut-grossart.html",
-      "date": "Sun, 10 May 2026 15:53:05 +0200"
     },
     {
       "title": "Volksbegehren Berlin werbefrei und autofrei gescheitert",
@@ -19,39 +49,19 @@
       "title": "Interview: Kleinkinder nackt in der Öffentlichkeit trotz Smartphone und KI",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/kinder-nackt-unbekleidet-oeffentlichkeit-eltern-darknet.html",
       "date": "Sun, 10 May 2026 12:52:34 +0200"
-    },
-    {
-      "title": "BR Volleys: Auf die Meisterschaft folgt der große Umbruch",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/volleyball-bundesliga-vbl-br-volleys-meisterschaft-transfers-umbruch.html",
-      "date": "Sun, 10 May 2026 11:28:00 +0200"
-    },
-    {
-      "title": "Helmholtzplatz: Hohe Gewerbemieten vertreiben Läden",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/04/prenzlauer-berg-gentrifizierung-gewerbe-mieten.html",
-      "date": "Sun, 10 May 2026 10:35:00 +0200"
-    },
-    {
-      "title": "Feuer in Neukölln - Bewohner mussten vorübergehend ihre Wohnungen verlassen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/feuer-berlin-neukoelln-mehrfamilienhaus.html",
-      "date": "Sun, 10 May 2026 10:26:00 +0200"
-    },
-    {
-      "title": "Ein Tag mit Erntehelfern auf den Spargelfeldern in Beelitz",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/05/spargel-ernte-beelitz-helfer-saisonarbeit-feld-rumaenien-akkordarbeit.html",
-      "date": "Sun, 10 May 2026 10:13:00 +0200"
-    },
-    {
-      "title": "Münchner \"Wallenstein\" von Jan-Christoph Gockel beim Berliner Theatertreffen",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/05/theatertreffen-berlin-wallenstein-sieben-stunden-gockel-muenchen.html",
-      "date": "Sun, 10 May 2026 08:01:00 +0200"
-    },
-    {
-      "title": "GFL-Auftakt: Potsdam Royals gewinnen Derby gegen Berlin Rebels",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/football-gfl-berlin-rebels-potsdam-royals-derby-saisonauftakt.html",
-      "date": "Sat, 09 May 2026 20:45:09 +0200"
     }
   ],
   "police": [
+    {
+      "title": "An Tankstelle Personen angegriffen und Brand verursacht",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669808.php",
+      "date": "Sun, 10 May 2026 16:33:00 +0200"
+    },
+    {
+      "title": "Sachbeschädigung an Synagoge",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669807.php",
+      "date": "Sun, 10 May 2026 16:20:00 +0200"
+    },
     {
       "title": "Stein- und Flaschenwürfe auf Einsatzkräfte",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669806.php",
@@ -91,16 +101,6 @@
       "title": "Festnahme nach mutmaßlichem Diebstahl von Autorädern",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669799.php",
       "date": "Sat, 09 May 2026 14:53:52 +0200"
-    },
-    {
-      "title": "Auto angezündet",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669798.php",
-      "date": "Sat, 09 May 2026 13:52:32 +0200"
-    },
-    {
-      "title": "Tätlicher Angriff auf Polizeibeamte – Distanzelektroimpulsgerät eingesetzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669670.php",
-      "date": "Fri, 08 May 2026 15:28:00 +0200"
     }
   ],
   "free_events": [],
