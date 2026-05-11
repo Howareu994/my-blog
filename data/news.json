@@ -1,57 +1,62 @@
 {
   "traffic": [
     {
-      "title": "Berlins Antidiskriminierungs-Ombudsstelle zieht positive 5-Jahres-Bilanz",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlins-antidiskriminierungsastelle-registriert-4000-anfragen.html",
-      "date": "Mon, 11 May 2026 15:34:50 +0200"
+      "title": "Senatorin: Instandhaltung der TU-Gebäude wurde vernachlässigt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/tu-hauptgebaeude-bleibt-vorerst-geschlossen.html",
+      "date": "Mon, 11 May 2026 18:21:22 +0200"
+    },
+    {
+      "title": "Bedrohte Fische: Was die Maränen im Stechlinsee in Brandenburg gefährden kann",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/maraenen-brandenburg-stechlinsee-bedroht.html",
+      "date": "Mon, 11 May 2026 18:06:08 +0200"
+    },
+    {
+      "title": "Italo-Bahn will eigene Express-Verbindungen in Deutschland installieren - mit Berlin als Knotenpunkt",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/05/italienische-bahn-italo-eigener-hochgeschwindigkeitszug-berlin.html",
+      "date": "Mon, 11 May 2026 17:52:17 +0200"
+    },
+    {
+      "title": "Fragen und Antworten: Wie gefährlich ist das Hantavirus?",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/hantavirus-fragen-antworten-symptome-uebertragung-gefaehrlichkeit.html",
+      "date": "Mon, 11 May 2026 17:41:57 +0200"
+    },
+    {
+      "title": "Prozess wegen mutmaßlicher Schutzgelderpressung in Cottbus gestartet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/schutzgeld-erpressung-cottbus-prozess-landgericht.html",
+      "date": "Mon, 11 May 2026 17:22:50 +0200"
+    },
+    {
+      "title": "Eisheilige: Gefahr für Obstblüte in Brandenburg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/eisheilige-garten-pflanzen-nachtfrost-mai-obst-frost.html",
+      "date": "Mon, 11 May 2026 17:22:49 +0200"
+    },
+    {
+      "title": "Jobs für 1.200 Beschäftigte der PCK Raffinerie in Schwedt für sechs weitere Monate sicher",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/05/raffinerie-schwedt-jobs-pck.html",
+      "date": "Mon, 11 May 2026 16:25:59 +0200"
     },
     {
       "title": "Hantavirus: Eine Person soll am Montag nach Berlin zurückkehren",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-charite-hantavirus-kreuzfahrtschiff-hondius-quarantaene.html",
-      "date": "Mon, 11 May 2026 15:02:30 +0200"
+      "date": "Mon, 11 May 2026 16:25:39 +0200"
     },
     {
-      "title": "SEK Einsatz im Wedding nach Drohung mit Waffe",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/sek-einsatz-im-wedding-mann-droht-mit-waffe.html",
-      "date": "Mon, 11 May 2026 14:35:44 +0200"
+      "title": "Berliner Schiedsrichter Daniel Siebert leitet Champions-League-Finale",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-champions-league-finale-schiedsrichter-daniel-siebert.html",
+      "date": "Mon, 11 May 2026 16:10:05 +0200"
     },
     {
-      "title": "Fünftligist VfB Krieschow feiert DFB-Pokaleinzug",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/krieschow-einzug-dfb-pokal-energie-cottbus.html",
-      "date": "Mon, 11 May 2026 14:11:59 +0200"
-    },
-    {
-      "title": "Kreistagswahl Dahme-Spreewald: Wiedehrholung in einem Wahlkreis",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/05/lds-kreistag-wahl-wiederholung-wahlkreis.html",
-      "date": "Mon, 11 May 2026 13:39:41 +0200"
-    },
-    {
-      "title": "Senatorin: Instandhaltung der TU-Gebäude wurde vernachlässigt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/tu-hauptgebaeude-bleibt-vorerst-geschlossen.html",
-      "date": "Mon, 11 May 2026 12:07:27 +0200"
-    },
-    {
-      "title": "Eishockey-WM: Bundestrainer holt sechs Eisbären in Aufgebot",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/eishockey-weltmeisterschaft-deutschland-eisbaeren-berlin-harold-kreis-aufgebot.html",
-      "date": "Mon, 11 May 2026 12:03:07 +0200"
-    },
-    {
-      "title": "Eta krempelt Union Berlin um - und schreibt erneut Geschichte",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-bundesliga-union-berlin-mainz-05-eta-sieg-historisch-analyse.html",
-      "date": "Mon, 11 May 2026 10:51:00 +0200"
-    },
-    {
-      "title": "Umgekippter Lkw muss geborgen werden - Einschränkungen auf A10",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/lkw-unfall-einschraenkungen-a10-.html",
-      "date": "Mon, 11 May 2026 10:15:45 +0200"
-    },
-    {
-      "title": "Berliner Arda Saatçi läuft 600 Kilometer durch Wüste zum Santa Monica Pier",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/laeufer-arda-saatci-schafft-lauf-durch-wueste.html",
-      "date": "Mon, 11 May 2026 08:51:21 +0200"
+      "title": "Überfälle auf Hertha- und Union-Fans: \"In der aktiven Fanszene verpönt\"",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-bundesliga-hertha-bsc-union-berlin-gewalt-fanprojekt-ralf-busch.html",
+      "date": "Mon, 11 May 2026 16:10:00 +0200"
     }
   ],
   "police": [
+    {
+      "title": "56-Jähriger konnte identifiziert werden",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669301.php",
+      "date": "Mon, 11 May 2026 16:55:00 +0200"
+    },
     {
       "title": "Gestohlener Rucksack führt zu mutmaßlichem Drogenhändler",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1670097.php",
@@ -96,11 +101,6 @@
       "title": "Fußgängerin beim Rangieren angefahren und verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669802.php",
       "date": "Sun, 10 May 2026 12:39:00 +0200"
-    },
-    {
-      "title": "Überfall auf Tankstelle",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669801.php",
-      "date": "Sun, 10 May 2026 12:28:00 +0200"
     }
   ],
   "free_events": [],
