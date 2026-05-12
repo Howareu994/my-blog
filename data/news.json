@@ -1,6 +1,31 @@
 {
   "traffic": [
     {
+      "title": "Thomas D im Berliner Lido: Unspektakulär, aber gut gelaunt",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/05/thomas-d-fanta-4-lido-the-kbcs.html",
+      "date": "Tue, 12 May 2026 09:39:12 +0200"
+    },
+    {
+      "title": "B5 in der Prignitz am Dienstag wegen Granatensprengung gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/b5-prignitz-dienstag-granatensprengung-gesperrt.html",
+      "date": "Tue, 12 May 2026 08:56:48 +0200"
+    },
+    {
+      "title": "Hantavirus: Eine Person muss in Berlin in häusliche Quarantäne",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-charite-hantavirus-kreuzfahrtschiff-hondius-quarantaene.html",
+      "date": "Tue, 12 May 2026 08:44:53 +0200"
+    },
+    {
+      "title": "Braucht es die Museumsmeile Mitte als weiteres Berliner Museumsquartier?",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/05/mitte-weiteres-museumsquartier-berlin-debatte-viertel-rund-um-hauptbahnhof.html",
+      "date": "Tue, 12 May 2026 08:33:45 +0200"
+    },
+    {
+      "title": "Östliche A10 wieder befahrbar - Bergungsarbeiten abgeschlossen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/lkw-unfall-einschraenkungen-a10-.html",
+      "date": "Tue, 12 May 2026 08:13:11 +0200"
+    },
+    {
       "title": "Architekt des Jüdischen Museums Daniel Libeskind im Interview",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/05/daniel-libeskind-interview-juedisches-museum-antisemitismus.html",
       "date": "Tue, 12 May 2026 06:12:36 +0200"
@@ -8,7 +33,7 @@
     {
       "title": "23-jähriger Ron Straßburg schließt Jurastudium mit Bestnote ab und sorgt sich um Rechtsstaat",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/jura-universitaet-potsdam-bernau-staatsexamen-ron-strassburg-diplom.html",
-      "date": "Tue, 12 May 2026 06:10:38 +0200"
+      "date": "Tue, 12 May 2026 06:10:00 +0200"
     },
     {
       "title": "Kita-Kind findet Geld auf Spielplatz in Wilmersdorf",
@@ -24,31 +49,6 @@
       "title": "Wie die PCK Raffinerie in Schwedt die russischen Öllieferungen ersetzt",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/05/pck-raffinerie-schwedt-oel-reserven-versorgung-rostock-polen.html",
       "date": "Mon, 11 May 2026 20:05:52 +0200"
-    },
-    {
-      "title": "Berlins Antidiskriminierungs-Ombudsstelle zieht positive 5-Jahres-Bilanz",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlins-antidiskriminierungsastelle-registriert-4000-anfragen.html",
-      "date": "Mon, 11 May 2026 19:56:37 +0200"
-    },
-    {
-      "title": "Braucht es die Museumsmeile Mitte als weiteres Berliner Museumsquartier?",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/05/mitte-weiteres-museumsquartier-berlin-debatte-viertel-rund-um-hauptbahnhof.html",
-      "date": "Mon, 11 May 2026 19:42:00 +0200"
-    },
-    {
-      "title": "Senatorin: Instandhaltung der TU-Gebäude wurde vernachlässigt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/tu-hauptgebaeude-bleibt-vorerst-geschlossen.html",
-      "date": "Mon, 11 May 2026 19:19:59 +0200"
-    },
-    {
-      "title": "René Stadtkewitz: Das ist Brandenburgs erster AfD-Bürgermeister",
-      "link": "https://www.rbb24.de/politik/wahl/brandenburg-buergermeisterwahlen/2026/zehdenick-afd-rene-stadtkewitz-buergermeister.html",
-      "date": "Mon, 11 May 2026 19:18:06 +0200"
-    },
-    {
-      "title": "Hantavirus: Eine Person soll am Montag nach Berlin zurückkehren",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-charite-hantavirus-kreuzfahrtschiff-hondius-quarantaene.html",
-      "date": "Mon, 11 May 2026 19:07:11 +0200"
     }
   ],
   "police": [
