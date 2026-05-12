@@ -1,9 +1,44 @@
 {
   "traffic": [
     {
+      "title": "Kälte verschiebt Badesaison: Zwei Potsdamer Bäder eröffnen später",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/potsdam-strandbaeder-templin-babelsberg-oeffnen-spaeter-kaelte.html",
+      "date": "Tue, 12 May 2026 21:23:21 +0200"
+    },
+    {
+      "title": "Angriffe auf LAP Coffees in Berlin: Bekennerschreiben auf linksextremen Portalen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-angriffe-lap-coffee-rewe-staatsschutz-linksextreme-bekennerschreiben.html",
+      "date": "Tue, 12 May 2026 21:15:35 +0200"
+    },
+    {
+      "title": "Brandenburgs Werksfeuerwehren für Orts-Brandschutz zugelassen",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/05/neues-gesetz-betriebsfeuerwehren-oertlich-brandschutz-unterstuetzung-brandenburg.html",
+      "date": "Tue, 12 May 2026 21:02:00 +0200"
+    },
+    {
+      "title": "Insolvenzverwalter: Investor für Domo-Werk in Premnitz gefunden",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/05/brandenburg-premnitz-domo-kunststoff-veredler-neuer-investor-lone-star-funds.html",
+      "date": "Tue, 12 May 2026 20:54:13 +0200"
+    },
+    {
+      "title": "Berliner Senatorin Kiziltepe begrüßt Kompromiss bei Integrationskursen",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/05/berlin-integrationskurse-kompromiss-senatorin-kiziltepe.html",
+      "date": "Tue, 12 May 2026 20:46:54 +0200"
+    },
+    {
+      "title": "Immer mehr Frauen entdecken Laufsport für sich: Girls run Berlin",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/berlin-laufsport-boom-frauen-teilnehmer-marathon.html",
+      "date": "Tue, 12 May 2026 20:32:32 +0200"
+    },
+    {
+      "title": "Frauen im Laufsport: \"Schön, was sich getan hat, aber nur die Spitze des Eisbergs\"",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/berlin-brandenburg-laufsport-frauen-interview-edith-zuschmann-261-fearless.html",
+      "date": "Tue, 12 May 2026 20:24:00 +0200"
+    },
+    {
       "title": "Tesla investiert weitere 250 Millionen US-Dollar in Brandenburg",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/05/brandenburg-gruenheide-tesla-investition-batterie-zellen-musk.html",
-      "date": "Tue, 12 May 2026 18:52:11 +0200"
+      "date": "Tue, 12 May 2026 20:00:19 +0200"
     },
     {
       "title": "30 Jahre Karneval der Kulturen - Spenden sollen in diesem Jahr Finanzlücke schließen",
@@ -11,44 +46,9 @@
       "date": "Tue, 12 May 2026 18:49:04 +0200"
     },
     {
-      "title": "Verdi fordert 14 Prozent mehr durch Warnstreik am Klinikum Templin",
+      "title": "Verdi ruft zu erstem Warnstreik am Krankenhaus Templin auf",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/05/warnstreik-verdi-klinikum-templin.html",
-      "date": "Tue, 12 May 2026 18:43:50 +0200"
-    },
-    {
-      "title": "Viehdiebstähle in Südbrandenburg: \"Das sind absolute Profis mit exzellentem Tierverstand\"",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/vieh-diebstaehle-interview-bauern-verband.html",
-      "date": "Tue, 12 May 2026 18:30:15 +0200"
-    },
-    {
-      "title": "Senat beschließt Einfacher-Bauen-Gesetz",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/05/senat-beschluss-einfach-bauen-gesetz-berlin.html",
-      "date": "Tue, 12 May 2026 18:02:00 +0200"
-    },
-    {
-      "title": "Künftige Gorki-Intendantin Ilk plant Projekte mit Hüller und Ottinger",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/05/berlin-maxim-gorki-theater-intendantin-cagla-ilk-neue-spielzeit.html",
-      "date": "Tue, 12 May 2026 17:52:37 +0200"
-    },
-    {
-      "title": "Haushaltsdiscounter Mäc-Geiz beantragt Insolvenz",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/05/maec-geiz-insolvenzantrag.html",
-      "date": "Tue, 12 May 2026 17:29:08 +0200"
-    },
-    {
-      "title": "IAV-Mitarbeiter demonstrieren gegen \"Kahlschlag\" an Berliner Standort",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/05/auto-dienstleister-iav-berlin-protest-mitarbeiter-ig-metall.html",
-      "date": "Tue, 12 May 2026 17:09:09 +0200"
-    },
-    {
-      "title": "Stadion-Abrisse: \"Wenig Sensibilität für Wert der DDR-Moderne\"",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/interview-ulrich-pfeil-stadionbau-ddr-nachkriegszeit-systemwettbewerb.html",
-      "date": "Tue, 12 May 2026 16:46:54 +0200"
-    },
-    {
-      "title": "Füchse Berlin im Champions-League-Halbfinale gegen Magdeburg",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/handball-champions-league-fuechse-berlin-halbfinale-magdeburg-final-four.html",
-      "date": "Tue, 12 May 2026 16:41:57 +0200"
+      "date": "Tue, 12 May 2026 18:43:00 +0200"
     }
   ],
   "police": [
