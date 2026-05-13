@@ -1,9 +1,14 @@
 {
   "traffic": [
     {
+      "title": "Zwei rbb-Produktionen gewinnen Deutschen Podcast Award",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/05/deutsche-podcast-award-rbb-berlin-brandenburg.html",
+      "date": "Wed, 13 May 2026 22:32:47 +0200"
+    },
+    {
       "title": "Havelland: Kinderarzt wegen Kindesmissbrauchs in 130 Fällen angeklagt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/arzt-brandenburg-kindesmissbrauchs-130-faelle-anklage.html",
-      "date": "Wed, 13 May 2026 21:03:04 +0200"
+      "date": "Wed, 13 May 2026 21:48:51 +0200"
     },
     {
       "title": "Warum ein AfD-Politiker in der Uckermark auf die Energiewende setzt",
@@ -44,11 +49,6 @@
       "title": "Hunderte Rinder werden geklaut und kaum einen interessiert's",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/05/brandenburg-viehdiebstahl-rinder-polizei.html",
       "date": "Wed, 13 May 2026 17:57:57 +0200"
-    },
-    {
-      "title": "Abgeordnetenhaus drängt auf bargeldlose Bezahlung in allen Geschäften",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/05/berlin-initiative-bargeldlose-bezahlung-geschaefte-laeden.html",
-      "date": "Wed, 13 May 2026 17:35:14 +0200"
     }
   ],
   "police": [
