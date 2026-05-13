@@ -1,6 +1,41 @@
 {
   "traffic": [
     {
+      "title": "Stasi-Bericht Brandenburg: AfD-Politiker Adam im Fokus",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/05/Brandenburg-stasi-vergangenheit-bericht-landtagsabgeordnete.html",
+      "date": "Wed, 13 May 2026 18:53:36 +0200"
+    },
+    {
+      "title": "Wie ein AfD-Politiker in der Uckermark von der Energiewende profitiert",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/05/brandenburg-uckermark-windkraft-erneuerbare-energie-wende-afd-teichner.html",
+      "date": "Wed, 13 May 2026 18:38:49 +0200"
+    },
+    {
+      "title": "Analyse: Stefan Evers als Finanz- und Kultursenator",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/05/stefan-evers-cdu-politiker-zweifach-senator-finanzen-kultur-senat-landesregierung-berlin.html",
+      "date": "Wed, 13 May 2026 18:16:41 +0200"
+    },
+    {
+      "title": "Noch ein internationales Performance-Haus für Berlin - Ilk stellt Programm für Maxim Gorki Theater vor",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/05/berlin-cagla-ilk-maxim-gorki-theater-programm-neubeginn.html",
+      "date": "Wed, 13 May 2026 18:00:43 +0200"
+    },
+    {
+      "title": "Hunderte Rinder werden geklaut und kaum einen interessiert's",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/05/brandenburg-viehdiebstahl-rinder-polizei.html",
+      "date": "Wed, 13 May 2026 17:57:57 +0200"
+    },
+    {
+      "title": "Abgeordnetenhaus drängt auf bargeldlose Bezahlung in allen Geschäften",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/05/berlin-initiative-bargeldlose-bezahlung-geschaefte-laeden.html",
+      "date": "Wed, 13 May 2026 17:35:14 +0200"
+    },
+    {
+      "title": "Havelland: Kinderarzt wegen Kindesmissbrauchs in 130 Fällen angeklagt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/arzt-brandenburg-kindesmissbrauchs-130-faelle-anklage.html",
+      "date": "Wed, 13 May 2026 17:32:39 +0200"
+    },
+    {
       "title": "Neun Festnahmen bei Razzien gegen Schusswaffenkriminalität in Berlin",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-schusswaffen-kriminalitaet-ferrum.html",
       "date": "Wed, 13 May 2026 16:13:56 +0200"
@@ -11,44 +46,9 @@
       "date": "Wed, 13 May 2026 16:00:41 +0200"
     },
     {
-      "title": "Erneut Dutzende Rinder in Südbrandenburg gestohlen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/vieh-diebstahl-sued-brandenburg-schenkendoebern.html",
-      "date": "Wed, 13 May 2026 15:50:56 +0200"
-    },
-    {
       "title": "Vandalismus in Cottbus: Großteil der Fahrscheinautomaten außer Betrieb",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/cottbus-verkehr-fahrschein-automaten-ausser-betrieb-zerstoerung.html",
       "date": "Wed, 13 May 2026 15:47:10 +0200"
-    },
-    {
-      "title": "Polen verlängert Steuerrabatt auf Sprit bis Ende Mai",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/05/polen-sprit-preise-steuern-rabatt-benzin-diesel-verlaengerung.html",
-      "date": "Wed, 13 May 2026 15:20:41 +0200"
-    },
-    {
-      "title": "Angriffe auf LAP Coffees in Berlin: Bekennerschreiben auf linksextremen Portalen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-angriffe-lap-coffee-rewe-staatsschutz-linksextreme-bekennerschreiben.html",
-      "date": "Wed, 13 May 2026 15:12:10 +0200"
-    },
-    {
-      "title": "Initiative \"Männer gegen Gewalt\" ruft zu Demo in Berlin auf",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-demonstration-maenner-gegen-gewalt-himmelfahrt-herrentag.html",
-      "date": "Wed, 13 May 2026 15:05:58 +0200"
-    },
-    {
-      "title": "Wie die AfD von der Energiewende rechts überholt wird",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/05/brandenburg-uckermark-windkraft-erneuerbare-energie-wende-afd-teichner.html",
-      "date": "Wed, 13 May 2026 14:49:51 +0200"
-    },
-    {
-      "title": "Feiertag Christi Himmelfahrt: \"Vater sein ist vielfach Plag, drum leb er hoch der Vatertag\"",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/vatertag-herrentag-christi-himmelfahrt-in-berlin-brandenburg.html",
-      "date": "Wed, 13 May 2026 14:33:39 +0200"
-    },
-    {
-      "title": "Dietmar Woidke ist dienstältester Ministerpräsident",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/05/brandenburg-dietmar-woidke-dienstaeltester-ministerpraesident.html",
-      "date": "Wed, 13 May 2026 14:27:49 +0200"
     }
   ],
   "police": [
