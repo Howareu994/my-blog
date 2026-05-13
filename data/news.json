@@ -1,6 +1,41 @@
 {
   "traffic": [
     {
+      "title": "Alba Berlin: Kapitän Mattisseck verlängert um zwei Jahre",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/basketball-alba-berlin-jonas-mattisseck-vertragsverlaengerung-playoffs.html",
+      "date": "Wed, 13 May 2026 13:50:37 +0200"
+    },
+    {
+      "title": "Wie die AfD von der Energiewende rechts überholt wird",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/05/brandenburg-uckermark-windkraft-erneuerbare-energie-wende-afd-teichner.html",
+      "date": "Wed, 13 May 2026 13:20:51 +0200"
+    },
+    {
+      "title": "Spremberg warnt vor falschen Rauchmelder-Kontrollen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/warnung-betrueger-rauchmelder-kontrollen-spremberg.html",
+      "date": "Wed, 13 May 2026 12:21:20 +0200"
+    },
+    {
+      "title": "Angriffe auf LAP Coffees in Berlin: Bekennerschreiben auf linksextremen Portalen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-angriffe-lap-coffee-rewe-staatsschutz-linksextreme-bekennerschreiben.html",
+      "date": "Wed, 13 May 2026 12:13:37 +0200"
+    },
+    {
+      "title": "Potsdamer Rechenzentrum hat aktuell nur eine Zukunft auf Zeit",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/05/potsdam-rechenzentrum-garnisonkirche-abriss-nutzung-streit-aubel.html",
+      "date": "Wed, 13 May 2026 12:10:30 +0200"
+    },
+    {
+      "title": "Neun Festnahmen bei Razzien gegen Schusswaffenkriminalität in Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-schusswaffen-kriminalitaet-ferrum.html",
+      "date": "Wed, 13 May 2026 11:58:04 +0200"
+    },
+    {
+      "title": "Mercedes-Benz verkauft Autohäuser in Berlin und Brandenburg",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/05/mercedes-benz-verkauf-autohaeuser-berlin-brandenburg.html",
+      "date": "Wed, 13 May 2026 11:43:19 +0200"
+    },
+    {
       "title": "Noch ein internationales Performance-Haus für Berlin - Ilk stellt Programm für Maxim Gorki Theater vor",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/05/berlin-cagla-ilk-maxim-gorki-theater-programm-neubeginn.html",
       "date": "Wed, 13 May 2026 11:24:28 +0200"
@@ -14,46 +49,26 @@
       "title": "Marathon-Weltrekordler Sawe läuft im September erneut in Berlin",
       "link": "https://www.rbb24.de/sport/beitrag/2026/05/marathon-berlin-sebastian-sawe-weltrekord-starter.html",
       "date": "Wed, 13 May 2026 10:40:29 +0200"
-    },
-    {
-      "title": "Viehdiebstähle in Südbrandenburg: \"Das sind absolute Profis mit exzellentem Tierverstand\"",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/vieh-diebstaehle-interview-bauern-verband.html",
-      "date": "Wed, 13 May 2026 10:16:01 +0200"
-    },
-    {
-      "title": "Olivia Dean in der Uber Arena: Auf so eine haben alle gewartet",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/05/konzert-kritik-olivia-dean-uber-arena-ostbahnhof-berlin.html",
-      "date": "Wed, 13 May 2026 10:03:01 +0200"
-    },
-    {
-      "title": "Stadion-Abrisse: \"Wenig Sensibilität für Wert der DDR-Moderne\"",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/interview-ulrich-pfeil-stadionbau-ddr-nachkriegszeit-systemwettbewerb.html",
-      "date": "Wed, 13 May 2026 10:00:28 +0200"
-    },
-    {
-      "title": "Erneut dutzende Rinder in Südbrandenburg gestohlen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/vieh-diebstahl-sued-brandenburg-schenkendoebern.html",
-      "date": "Wed, 13 May 2026 10:00:09 +0200"
-    },
-    {
-      "title": "Razzien gegen Schusswaffenkriminalität in Berlin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-schusswaffen-kriminalitaet-ferrum.html",
-      "date": "Wed, 13 May 2026 09:46:05 +0200"
-    },
-    {
-      "title": "Rheinsbergs Bürgermeister Schwochow muss Geldbuße zahlen",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/05/rheinsberg-buergermeister-frank-rudi-schwochow-geldbusse-1-500-e.html",
-      "date": "Wed, 13 May 2026 09:29:26 +0200"
-    },
-    {
-      "title": "Himmelfahrt: Schauer und Gewitter über Berlin und Brandenburg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-brandenburg-wetter-regen-gewitter-himmelfahrt.html",
-      "date": "Wed, 13 May 2026 09:12:00 +0200"
     }
   ],
   "police": [
     {
-      "title": "Senorin fährt gegen geparkte Autos",
+      "title": "Durchsuchungen und Haftbefehle wegen bandenmäßigen Drogenhandels",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1670997.php",
+      "date": "Wed, 13 May 2026 13:32:13 +0200"
+    },
+    {
+      "title": "Radfahrer flüchtet vor Kontrolle und verletzt Polizeikräfte",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1670979.php",
+      "date": "Wed, 13 May 2026 13:07:08 +0200"
+    },
+    {
+      "title": "Festnahme nach mutmaßlichem Diebstahl aus Fahrzeug",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1670896.php",
+      "date": "Wed, 13 May 2026 11:34:40 +0200"
+    },
+    {
+      "title": "Seniorin fährt gegen geparkte Autos",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1670894.php",
       "date": "Wed, 13 May 2026 11:29:35 +0200"
     },
@@ -86,21 +101,6 @@
       "title": "Frau mit Waffe bedroht – SEK-Einsatz",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669999.php",
       "date": "Mon, 11 May 2026 11:39:23 +0200"
-    },
-    {
-      "title": "An Tankstelle Personen angegriffen und Brand verursacht",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669808.php",
-      "date": "Sun, 10 May 2026 16:33:00 +0200"
-    },
-    {
-      "title": "Sachbeschädigung an Synagoge",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669807.php",
-      "date": "Sun, 10 May 2026 16:20:00 +0200"
-    },
-    {
-      "title": "Stein- und Flaschenwürfe auf Einsatzkräfte",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669806.php",
-      "date": "Sun, 10 May 2026 15:15:58 +0200"
     }
   ],
   "free_events": [],
