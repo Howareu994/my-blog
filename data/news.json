@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Demonstranten gehen am Herrentag gegen Männergewalt auf die Straße",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/maenner-gegen-gewalt-demonstration-berlin-brandenburger-tor.html",
+      "date": "Thu, 14 May 2026 15:25:29 +0200"
+    },
+    {
+      "title": "Christi Himmelfahrt, Vatertag, Herrentag: Die Geschichte eines Feiertags mit Doppelleben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/vatertag-herrentag-christi-himmelfahrt-in-berlin-brandenburg.html",
+      "date": "Thu, 14 May 2026 14:42:28 +0200"
+    },
+    {
       "title": "Energie Cottbus: So gehen Wollitz & Co. das Aufstiegsfinale an",
       "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-dritte-liga-energie-cottbus-jahn-regensburg-saisonfinale-aufstieg-vorbericht.html",
       "date": "Thu, 14 May 2026 13:08:45 +0200"
@@ -31,11 +41,6 @@
       "date": "Thu, 14 May 2026 11:14:50 +0200"
     },
     {
-      "title": "Feiertag Christi Himmelfahrt: \"Vater sein ist vielfach Plag, drum leb er hoch der Vatertag\"",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/vatertag-herrentag-christi-himmelfahrt-in-berlin-brandenburg.html",
-      "date": "Thu, 14 May 2026 10:27:35 +0200"
-    },
-    {
       "title": "\"Die Peter Thiel Story\" als Podcast des Jahres ausgezeichnet",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/05/deutscher-podcast-award-2026-rbb-sendesaal.html",
       "date": "Thu, 14 May 2026 10:04:00 +0200"
@@ -43,12 +48,7 @@
     {
       "title": "Moderatorin Meira Werner: \"Union hat eine der stärksten Fankulturen\"",
       "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-frauen-interview-meira-werner-hertha-bsc-fc-union-viktoria-turbine-potsdam-fans-entwicklung.html",
-      "date": "Thu, 14 May 2026 09:53:35 +0200"
-    },
-    {
-      "title": "Benachteiligte Väter: Warum sie nicht in die Verantwortung kommen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/interview-maenner-vaeter-benachteiligung-muetter-dag-schoelper.html",
-      "date": "Thu, 14 May 2026 07:25:30 +0200"
+      "date": "Thu, 14 May 2026 09:53:00 +0200"
     }
   ],
   "police": [
