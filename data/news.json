@@ -1,9 +1,19 @@
 {
   "traffic": [
     {
+      "title": "Stark betrunkener Mann fällt ins Gleisbett - S-Bahn kann gerade noch bremsen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-s-bahnhof-friedrichstrasse-mann-betrunken-gleisbett.html",
+      "date": "Thu, 14 May 2026 17:38:21 +0200"
+    },
+    {
+      "title": "Union Berlin: Verderben hungrige Augsburger den Eta-Abschied?",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-bundesliga-union-berlin-fc-augsburg-eta-baum-vorbericht.html",
+      "date": "Thu, 14 May 2026 17:32:59 +0200"
+    },
+    {
       "title": "Demonstranten gehen am Herrentag gegen Männergewalt auf die Straße",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/maenner-gegen-gewalt-demonstration-berlin-brandenburger-tor.html",
-      "date": "Thu, 14 May 2026 15:25:29 +0200"
+      "date": "Thu, 14 May 2026 16:24:34 +0200"
     },
     {
       "title": "Christi Himmelfahrt, Vatertag, Herrentag: Die Geschichte eines Feiertags mit Doppelleben",
@@ -39,19 +49,19 @@
       "title": "QR-Code-Betrug erkennen: So schützt man sich vor Quishing",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-quishing-qr-codes-betrug-bankdaten.html",
       "date": "Thu, 14 May 2026 11:14:50 +0200"
-    },
-    {
-      "title": "\"Die Peter Thiel Story\" als Podcast des Jahres ausgezeichnet",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/05/deutscher-podcast-award-2026-rbb-sendesaal.html",
-      "date": "Thu, 14 May 2026 10:04:00 +0200"
-    },
-    {
-      "title": "Moderatorin Meira Werner: \"Union hat eine der stärksten Fankulturen\"",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-frauen-interview-meira-werner-hertha-bsc-fc-union-viktoria-turbine-potsdam-fans-entwicklung.html",
-      "date": "Thu, 14 May 2026 09:53:00 +0200"
     }
   ],
   "police": [
+    {
+      "title": "DEIG-Einsatz gegen verhaltensauffälligen Mann mit Baseballschläger",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671205.php",
+      "date": "Thu, 14 May 2026 16:40:26 +0200"
+    },
+    {
+      "title": "Festnahme nach mehreren Straftaten und Angriff auf Polizeibeamten",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671204.php",
+      "date": "Thu, 14 May 2026 15:55:08 +0200"
+    },
     {
       "title": "Umfangreicher Einsatz zur Bekämpfung der Schusswaffenkriminalität – BAO Ferrum und EG Telum vollstrecken Durchsuchungsbeschlüsse und Haftbefehle",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671040.php",
@@ -91,16 +101,6 @@
       "title": "Radfahrer bei Verkehrsunfall verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1670361.php",
       "date": "Tue, 12 May 2026 11:15:17 +0200"
-    },
-    {
-      "title": "56-Jähriger konnte identifiziert werden",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669301.php",
-      "date": "Mon, 11 May 2026 16:55:00 +0200"
-    },
-    {
-      "title": "Gestohlener Rucksack führt zu mutmaßlichem Drogenhändler",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1670097.php",
-      "date": "Mon, 11 May 2026 13:42:49 +0200"
     }
   ],
   "free_events": [],
