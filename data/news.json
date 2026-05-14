@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Basketball-Playoffs: Alba Berlins Anführer träumen vom BBL-Titel",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/basketball-bundesliga-bbl-playoffs-alba-berlin-rasta-vechta-uber-arena-mattisseck-hermannsson.html",
+      "date": "Thu, 14 May 2026 19:07:08 +0200"
+    },
+    {
       "title": "Stark betrunkener Mann fällt ins Gleisbett - S-Bahn kann gerade noch bremsen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-s-bahnhof-friedrichstrasse-mann-betrunken-gleisbett.html",
       "date": "Thu, 14 May 2026 17:38:21 +0200"
@@ -44,11 +49,6 @@
       "title": "ESC-Fans zwischen Vorfreude und Boykott-Debatte",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/05/esc-eurovision-song-contest-fans-boykott.html",
       "date": "Thu, 14 May 2026 11:30:05 +0200"
-    },
-    {
-      "title": "QR-Code-Betrug erkennen: So schützt man sich vor Quishing",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-quishing-qr-codes-betrug-bankdaten.html",
-      "date": "Thu, 14 May 2026 11:14:50 +0200"
     }
   ],
   "police": [
