@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Viehdiebstahl in Brandenburg: Mehr Kontrollen von Tansporten",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/vieh-diebstaehle-suedbrandenburg-minister-herzberg.html",
+      "date": "Fri, 15 May 2026 13:13:26 +0200"
+    },
+    {
+      "title": "Polen: Erste gleichgeschlechtliche Ehe in Warschau eingetragen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/rathaus-warschau-polen-gleichgeschlechtliche-ehe-anerkannt.html",
+      "date": "Fri, 15 May 2026 11:55:20 +0200"
+    },
+    {
       "title": "Berliner Bürgerämter erreichen erstmals 14-Tage-Ziel",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlins-buergeraemter-erreichen-erstmals-14-tage-ziel.html",
       "date": "Fri, 15 May 2026 11:03:03 +0200"
@@ -39,70 +49,9 @@
       "title": "Live im TV: So kann Energie Cottbus in die 2. Bundesliga aufsteigen",
       "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-3-liga-aufstieg-2-bundesliga-jahn-regensburg-energie-cottbus-duisburg-essen.html",
       "date": "Fri, 15 May 2026 06:13:08 +0200"
-    },
-    {
-      "title": "Historische Orgel aus Schottland in Prenzlau feierlich eingeweiht",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/prenzlau-kirche-st-marien-historische-orgel-eingeweiht.html",
-      "date": "Thu, 14 May 2026 20:39:00 +0200"
-    },
-    {
-      "title": "Stark betrunkener Mann fällt ins Gleisbett - S-Bahn kann gerade noch bremsen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-s-bahnhof-friedrichstrasse-mann-betrunken-gleisbett.html",
-      "date": "Thu, 14 May 2026 17:38:21 +0200"
     }
   ],
-  "police": [
-    {
-      "title": "DEIG-Einsatz gegen verhaltensauffälligen Mann mit Baseballschläger",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671205.php",
-      "date": "Thu, 14 May 2026 16:40:26 +0200"
-    },
-    {
-      "title": "Festnahme nach mehreren Straftaten und Angriff auf Polizeibeamten",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671204.php",
-      "date": "Thu, 14 May 2026 15:55:08 +0200"
-    },
-    {
-      "title": "Umfangreicher Einsatz zur Bekämpfung der Schusswaffenkriminalität – BAO Ferrum und EG Telum vollstrecken Durchsuchungsbeschlüsse und Haftbefehle",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671040.php",
-      "date": "Wed, 13 May 2026 14:21:24 +0200"
-    },
-    {
-      "title": "Durchsuchungen und Haftbefehle wegen bandenmäßigen Drogenhandels",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1670997.php",
-      "date": "Wed, 13 May 2026 13:32:13 +0200"
-    },
-    {
-      "title": "Radfahrer flüchtet vor Kontrolle und verletzt Polizeikräfte",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1670979.php",
-      "date": "Wed, 13 May 2026 13:07:08 +0200"
-    },
-    {
-      "title": "Festnahme nach mutmaßlichem Diebstahl aus Fahrzeug",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1670896.php",
-      "date": "Wed, 13 May 2026 11:34:40 +0200"
-    },
-    {
-      "title": "Seniorin fährt gegen geparkte Autos",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1670894.php",
-      "date": "Wed, 13 May 2026 11:29:35 +0200"
-    },
-    {
-      "title": "Sachbeschädigung - Mahnmal beschmiert",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1670892.php",
-      "date": "Wed, 13 May 2026 11:27:14 +0200"
-    },
-    {
-      "title": "Mit Messer angegriffen und verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1670363.php",
-      "date": "Tue, 12 May 2026 11:17:44 +0200"
-    },
-    {
-      "title": "Radfahrer bei Verkehrsunfall verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1670361.php",
-      "date": "Tue, 12 May 2026 11:15:17 +0200"
-    }
-  ],
+  "police": [],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
