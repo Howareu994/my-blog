@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Verdi ruft Mitarbeiter im Großhandel zu Warnstreik auf",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/05/verdi-warnstreik-berlin-brandenburg-grosshandel.html",
+      "date": "Fri, 15 May 2026 15:29:12 +0200"
+    },
+    {
+      "title": "Gratis Kunst: 100 Museen in Berlin und Brandenburg nehmen am Museumstag teil",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/100-museen-museumstag-brandenburg.html",
+      "date": "Fri, 15 May 2026 15:05:32 +0200"
+    },
+    {
       "title": "Viehdiebstahl in Brandenburg: Mehr Kontrollen von Tansporten",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/vieh-diebstaehle-suedbrandenburg-minister-herzberg.html",
       "date": "Fri, 15 May 2026 13:13:26 +0200"
@@ -36,22 +46,63 @@
       "date": "Fri, 15 May 2026 09:43:00 +0200"
     },
     {
-      "title": "Verdi ruft Mitarbeiter im Großhandel in Berlin und Brandenburg zum Warnstreik auf",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/05/verdi-warnstreik-berlin-brandenburg-grosshandel.html",
-      "date": "Fri, 15 May 2026 08:28:53 +0200"
-    },
-    {
       "title": "Bahnstrecke Berlin-Hamburg: Erster Abschnitt wieder in Betrieb",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/bahnstrecke-hamburg-berlin-wieder-in-betrieb.html",
       "date": "Fri, 15 May 2026 08:15:02 +0200"
-    },
-    {
-      "title": "Live im TV: So kann Energie Cottbus in die 2. Bundesliga aufsteigen",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-3-liga-aufstieg-2-bundesliga-jahn-regensburg-energie-cottbus-duisburg-essen.html",
-      "date": "Fri, 15 May 2026 06:13:08 +0200"
     }
   ],
-  "police": [],
+  "police": [
+    {
+      "title": "Feier unter Bewohnern eskaliert - Mann mit Stichverletzungen im Krankenhaus",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671439.php",
+      "date": "Fri, 15 May 2026 15:03:00 +0200"
+    },
+    {
+      "title": "53-Jähriger vermisst – Polizei bittet um Mithilfe",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671427.php",
+      "date": "Fri, 15 May 2026 14:39:12 +0200"
+    },
+    {
+      "title": "Schwere Körperverletzung und versuchte räuberische Erpressung – Tatverdächtiger festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671419.php",
+      "date": "Fri, 15 May 2026 14:12:58 +0200"
+    },
+    {
+      "title": "Hitlergruß gezeigt – Heranwachsender vorläufig festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671376.php",
+      "date": "Fri, 15 May 2026 12:29:15 +0200"
+    },
+    {
+      "title": "DEIG-Einsatz gegen verhaltensauffälligen Mann mit Baseballschläger",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671205.php",
+      "date": "Thu, 14 May 2026 16:40:26 +0200"
+    },
+    {
+      "title": "Festnahme nach mehreren Straftaten und Angriff auf Polizeibeamten",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671204.php",
+      "date": "Thu, 14 May 2026 15:55:08 +0200"
+    },
+    {
+      "title": "Umfangreicher Einsatz zur Bekämpfung der Schusswaffenkriminalität – BAO Ferrum und EG Telum vollstrecken Durchsuchungsbeschlüsse und Haftbefehle",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671040.php",
+      "date": "Wed, 13 May 2026 14:21:24 +0200"
+    },
+    {
+      "title": "Durchsuchungen und Haftbefehle wegen bandenmäßigen Drogenhandels",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1670997.php",
+      "date": "Wed, 13 May 2026 13:32:13 +0200"
+    },
+    {
+      "title": "Radfahrer flüchtet vor Kontrolle und verletzt Polizeikräfte",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1670979.php",
+      "date": "Wed, 13 May 2026 13:07:08 +0200"
+    },
+    {
+      "title": "Festnahme nach mutmaßlichem Diebstahl aus Fahrzeug",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1670896.php",
+      "date": "Wed, 13 May 2026 11:34:40 +0200"
+    }
+  ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
