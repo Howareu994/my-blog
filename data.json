@@ -1026,7 +1026,7 @@
         "link": ""
     },
     {
-        "name": "烈焰红/Hot Spot",
+        "name": "聚友阁/Hot Spot",
         "lat": 52.4992174,
         "lon": 13.3056796,
         "address": "Eisenzahnstraße 66, 10709 Berlin",
@@ -1548,12 +1548,12 @@
         "link": ""
     },
     {
-        "name": "锅香香/Guoguoxiang",
+        "name": "锅锅香/Guoguoxiang",
         "lat": 52.4673234,
         "lon": 13.3083345,
         "address": "Breitenbachpl. 8, 14195 Berlin",
         "quelle": "berlin_slowtour(rednote)",
-        "visited": "no",
+        "visited": "yes",
         "link": ""
     },
     {

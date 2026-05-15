@@ -1,25 +1,46 @@
 <script>
-// --- 1. 数据仓库 ---
+// --- 1. 数据仓库与配置 ---
 let cache = { news: {}, events_db: [] };
 
-// --- 2. 天气功能 ---
+// 各板块的“生存保底”工具链接 (Staples)
+const STAPLES = {
+    traffic: [
+        { title: "🗺️ VBB 官方实时延误/罢工地图", link: "https://www.vbb.de/vbb-live/" },
+        { title: "🚆 S-Bahn 实时运行状态图", link: "https://sbahn.berlin/fahren/betriebslage/" }
+    ],
+    police: [
+        { title: "🛡️ 柏林警察局官方公告推事", link: "https://www.berlin.de/polizei/polizeimeldungen/" }
+    ],
+    culture: [
+        { title: "📍 RA Guide: 本周柏林 Club 全表", link: "https://ra.co/events/de/berlin" },
+        { title: "💅 Siegessäule: 柏林 Queer 文化日历", link: "https://www.siegessaeule.de/termine/" }
+    ],
+    jobs: [
+        { title: "🏢 Connecticum 2026 (学生/新人展)", link: "https://www.connecticum.de/" },
+        { title: "🚀 Karrieretag Berlin (全职/转行必备)", link: "https://www.karrieretag.org/berlin/" }
+    ]
+};
+
+// --- 2. 天气功能 (保持高效) ---
 async function updateWeather() {
     const W_URL = "https://api.open-meteo.com/v1/forecast?latitude=52.52&longitude=13.41&current=temperature_2m,relative_humidity_2m,weather_code,wind_speed_10m&timezone=Europe%2FBerlin";
     try {
         const res = await fetch(W_URL);
         const data = await res.json();
         const cur = data.current;
-        document.getElementById('w-temp').innerText = Math.round(cur.temperature_2m) + '°C';
-        document.getElementById('w-hum').innerText = `💧 湿度: ${cur.relative_humidity_2m}%`;
-        document.getElementById('w-wind').innerText = `💨 风速: ${cur.wind_speed_10m} km/h`;
-        const weatherCodes = { 0: "晴朗", 1: "大部晴朗", 2: "多云", 3: "阴天", 45: "雾", 61: "小雨" };
-        document.getElementById('w-desc').innerText = `柏林 · ${weatherCodes[cur.weather_code] || "信号连接"}`;
-        const now = new Date();
-        document.getElementById('w-time').innerText = `更新于 ${now.getHours()}:${now.getMinutes().toString().padStart(2, '0')}`;
+        if(document.getElementById('w-temp')) {
+            document.getElementById('w-temp').innerText = Math.round(cur.temperature_2m) + '°C';
+            document.getElementById('w-hum').innerText = `💧 湿度: ${cur.relative_humidity_2m}%`;
+            document.getElementById('w-wind').innerText = `💨 风速: ${cur.wind_speed_10m} km/h`;
+            const weatherCodes = { 0: "晴朗", 1: "大部晴朗", 2: "多云", 3: "阴天", 45: "雾", 61: "小雨" };
+            document.getElementById('w-desc').innerText = `柏林 · ${weatherCodes[cur.weather_code] || "信号连接"}`;
+            const now = new Date();
+            document.getElementById('w-time').innerText = `更新于 ${now.getHours()}:${now.getMinutes().toString().padStart(2, '0')}`;
+        }
     } catch (e) { console.error("Weather Error", e); }
 }
 
-// --- 3. 情报读取与渲染调度 ---
+// --- 3. 情报读取 ---
 async function fetchIntelligence() {
     try {
         const newsRes = await fetch("{{ '/data/news.json' | relative_url }}");
@@ -32,67 +53,134 @@ async function fetchIntelligence() {
     } catch (e) { console.error("Data Load Error", e); renderAll(); }
 }
 
+// --- 4. 极致渲染逻辑 (混合 Staples + Dynamic) ---
+
 function renderAll() {
-    displayTraffic();
-    displayPolice();
+    refreshUI('traffic', 'vbb-list');
+    refreshUI('police', 'police-list');
+    refreshUI('culture', 'club-list');
     displayFree();
-    displayCulture();
-    displayJobFairs(); 
+    displayJobFairs();
 }
 
-// --- 4. 专项渲染函数 ---
+// 核心渲染函数：支持混合数据与随机抽选
+function refreshUI(category, listId, event) {
+    if (event) {
+        event.stopPropagation();
+        const icon = event.currentTarget;
+        icon.classList.add('spinning');
+        setTimeout(() => icon.classList.remove('spinning'), 800);
+    }
 
-function displayTraffic() {
-    const list = document.getElementById('vbb-list');
-    const data = cache.news.traffic || [];
-    if (!list || !data.length) return;
-    const items = [...data].sort(() => 0.5 - Math.random()).slice(0, 3);
-    list.innerHTML = items.map(i => `<li><a href="${i.link}" target="_blank" style="color:inherit;text-decoration:none;"><strong>${i.title}</strong></a></li>`).join('');
-}
+    const list = document.getElementById(listId);
+    if (!list) return;
 
-function displayPolice() {
-    const list = document.getElementById('police-list');
-    const data = cache.news.police || [];
-    if (!list || !data.length) return;
-    const items = [...data].sort(() => 0.5 - Math.random()).slice(0, 3);
-    list.innerHTML = items.map(i => `<li><a href="${i.link}" target="_blank" style="color:inherit;text-decoration:none;">${i.title}</a></li>`).join('');
+    const staples = STAPLES[category] || [];
+    const dynamic = cache.news[category] || [];
+
+    // 混合并随机抽取 3 条，确保每次刷新都有新鲜感
+    const combined = [...staples, ...dynamic].sort(() => 0.5 - Math.random()).slice(0, 3);
+
+    list.innerHTML = combined.map(i => `
+        <li data-url="${i.link}">
+            <strong>${i.title}</strong>
+        </li>`).join('');
 }
 
 function displayFree() {
     const list = document.getElementById('free-list');
     if (!list) return;
     const today = new Date().setHours(0,0,0,0);
-    const allPicks = (cache.events_db || []).map(i => ({ ...i, dObj: new Date(i.date) })).filter(i => i.dObj >= today).sort((a, b) => a.dObj - b.dObj);
+    const allPicks = (cache.events_db || []).map(i => ({ ...i, dObj: new Date(i.date) })).filter(i => i.dObj >= today);
     const dynamic = (cache.news.free_events || []);
     const items = [...allPicks, ...dynamic].sort(() => 0.5 - Math.random()).slice(0, 3);
-    list.innerHTML = items.map(i => `<li><a href="${i.link}" target="_blank" style="color:inherit;text-decoration:none;">${i.date ? `<small style="opacity:0.5;">[${i.date.split('-').slice(1).join('.')}]</small> ` : ''}<strong>${i.title}</strong></a></li>`).join('');
-}
-
-function displayCulture() {
-    const list = document.getElementById('club-list');
-    if (!list) return;
-    const staples = [
-        { title: "📍 RA Guide: 本周柏林 Club 全表", link: "https://ra.co/events/de/berlin" },
-        { title: "💅 Siegessäule: 柏林 Queer 文化日历", link: "https://www.siegessaeule.de/termine/" }
-    ];
-    const allCulture = [...staples, ...(cache.news.music_nightlife || []), ...(cache.news.ra_thursday || [])];
-    const items = allCulture.sort(() => 0.5 - Math.random()).slice(0, 3);
-    list.innerHTML = items.map(i => `<li><a href="${i.link}" target="_blank" style="color:inherit;text-decoration:none;"><strong>${i.title}</strong></a></li>`).join('');
+    list.innerHTML = items.map(i => `
+        <li data-url="${i.link}">
+            ${i.date ? `<small style="opacity:0.5;">[${i.date.split('-').slice(1).join('.')}]</small> ` : ''}
+            <strong>${i.title}</strong>
+        </li>`).join('');
 }
 
 function displayJobFairs() {
     const list = document.getElementById('job-fair-list');
     if (!list) return;
-    const staples = [
-        { title: "🏢 Connecticum 2026 (学生展)", link: "https://www.connecticum.de/" },
-        { title: "🚀 Karrieretag Berlin (全职必备)", link: "https://www.karrieretag.org/berlin/" }
-    ];
-    list.innerHTML = staples.map(i => `<li style="margin-bottom:8px;"><a href="${i.link}" target="_blank" style="color:inherit;text-decoration:none;"><strong>${i.title}</strong></a><div style="font-size:10px; color:#ff4d94; opacity:0.8;"># 找工作求生必备</div></li>`).join('');
+    const items = STAPLES.jobs;
+    list.innerHTML = items.map(i => `
+        <li style="margin-bottom:8px;">
+            <a href="${i.link}" target="_blank" style="color:inherit;text-decoration:none;"><strong>${i.title}</strong></a>
+            <div style="font-size:10px; color:#ff4d94; opacity:0.8;"># 找工作生存必备</div>
+        </li>`).join('');
 }
 
-// --- 5. 启动 ---
+// --- 5. 信号阅读器 (白框) 与 自动解调翻译 ---
+
+async function expandSignal(title, listId) {
+    const overlay = document.getElementById('browser-overlay');
+    const reader = document.getElementById('reader-content');
+    const items = document.querySelectorAll(`#${listId} li`);
+
+    if (!overlay || !reader || items.length === 0) return;
+
+    let html = `
+        <div class="super-refresh-btn" onclick="renderAll()">
+            <i class="ri-refresh-line"></i> 重新同步全量信号 (SYNC ALL)
+        </div>
+        <h2 style="color:var(--hot-pink); font-size:18px; margin-bottom:20px;">${title}</h2>
+        <ul style="list-style:none; padding:0;">`;
+
+    items.forEach((item, index) => {
+        const txt = item.innerText.trim();
+        const url = item.getAttribute('data-url') || "#";
+        html += `
+            <li style="margin-bottom:25px; border-bottom:1px dotted #eee; padding-bottom:15px;">
+                <a href="${url}" target="_blank" style="text-decoration:none; color:inherit;">
+                    <div style="font-weight:800; font-size:13px; line-height:1.4;">${txt} <span style="font-size:10px; color:var(--hot-pink);">↗传送</span></div>
+                </a>
+                <div id="trans-${listId}-${index}" style="color:var(--hot-pink); font-size:11px; margin-top:8px; font-weight:600;">正在解调信号...</div>
+            </li>`;
+    });
+
+    reader.innerHTML = html + `</ul>`;
+    overlay.style.display = 'flex';
+
+    // 自动触发信号解调 (翻译)
+    items.forEach(async (item, index) => {
+        const txt = item.innerText.trim();
+        const target = document.getElementById(`trans-${listId}-${index}`);
+        try {
+            const res = await fetch(`https://translate.googleapis.com/translate_a/single?client=gtx&sl=de&tl=zh-CN&dt=t&q=${encodeURIComponent(txt)}`);
+            const result = await res.json();
+            target.innerHTML = `🏮 解码：${result[0].map(x => x[0]).join("")}`;
+        } catch (e) { target.innerHTML = "❌ 信号受干扰"; }
+    });
+}
+
+function openManual() {
+    const reader = document.getElementById('reader-content');
+    const manual = document.getElementById('manual-content');
+    if(reader && manual) {
+        reader.innerHTML = manual.innerHTML;
+        document.getElementById('browser-overlay').style.display = 'flex';
+    }
+}
+
+function closeSource() {
+    document.getElementById('browser-overlay').style.display = 'none';
+}
+
+// --- 6. 启动控制 ---
 document.addEventListener('DOMContentLoaded', () => {
     updateWeather();
     fetchIntelligence();
+
+    // VADEMECUM 按钮黑客帝国闪烁特效
+    const vBtn = document.querySelector('.pillar-btn:first-child');
+    if (vBtn && vBtn.innerText.includes('VADEMECUM')) {
+        const text = vBtn.innerText;
+        vBtn.innerHTML = text.split('').map(char => {
+            const delay = (Math.random() * 2).toFixed(2);
+            return `<span style="animation: matrix-blink 1.2s infinite alternate ${delay}s">${char}</span>`;
+        }).join('');
+    }
 });
 </script>

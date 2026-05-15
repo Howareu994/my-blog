@@ -3,6 +3,18 @@ layout: page
 title: About
 permalink: /about/
 ---
+
+
+<style>
+  /* 强制把文字改回深灰色，防止被全局背景设定“吃掉” */
+  body, .page-content, p, li {
+    color: #2d3436 !important;
+  }
+  .post-title, .page-heading {
+    color: #ff85b9 !important;
+  }
+</style>
+
 🤓 我是谁？
 
 小逗，94年出生。经济信息学硕士 (M.Sc. Wirtschaftsinformatik)，毕业于德国某应用科学大学 (Fachhochschule)。目前已深耕柏林生活 8 年，从初出茅庐的留学生成长为一名专业的经济信息学专家。

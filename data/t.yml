@@ -1,0 +1,14 @@
+# 导航栏文字
+nav:
+  news: { cn: "📢 城市动态", de: "📢 Stadtpuls" }
+  wiki: { cn: "📚 漫游进程", de: "📚 Protokoll" }
+  about: { cn: "☕ 关于", de: "☕ Dossier" }
+
+# 核心模块文字
+modules:
+  termin:
+    title: { cn: "陪伴 Termin", de: "Begleitung & Analoge Präsenz" }
+    desc: { cn: "真实联结", de: "Analoge Präsenz" }
+  consulting:
+    title: { cn: "心理辅导", de: "Safe Space" }
+    desc: { cn: "能量急救窗", de: "Akut-Support" }

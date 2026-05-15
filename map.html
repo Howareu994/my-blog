@@ -3,241 +3,277 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>柏林美食情报台</title>
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-<style>
-    body { margin: 0; padding: 0; display: flex; height: 100vh; font-family: 'Helvetica Neue', Arial, sans-serif; background-color: #0b2e4a; color: #e0e0e0; overflow: hidden; }
-    
-    /* 1. 默认布局：垂直堆叠 (适配你的 study.md 载体) */
-    body { flex-direction: column; }
-    
-    /* 地图占据 65% 的高度，视野更广 */
-    #map { width: 100%; height: 65vh; order: 1; }
+    <style>
+        /* =========================================
+           1. 全局变量 (统一管理柏林夜色与霓虹)
+           ========================================= */
+        :root {
+            --bg-dark: #0b2e4a;
+            --bg-gradient-top: #0e305a;
+            --text-main: #e0e0e0;
+            --text-muted: #b3d4ec;
+            --accent-pink: #ff4d94;
+            --accent-gold: #FFB800;
+            --accent-green: #00FF88;
+            --card-bg: rgba(255, 255, 255, 0.05);
+            --card-hover: rgba(255, 255, 255, 0.15);
+        }
 
-    /* 列表区域占据 35% 的高度 */
-    #sidebar { 
-        width: 100%; 
-        height: 35vh; 
-        order: 2; 
-        padding: 12px 15px; 
-        box-sizing: border-box; 
-        background: linear-gradient(180deg, #0e305a 0%, #0b2e4a 100%); 
-        border-top: 1px solid #1a5b8a;
-        display: flex; 
-        flex-direction: column; 
-    }
+        /* =========================================
+           2. 基础布局与结构
+           ========================================= */
+        body {
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            background-color: var(--bg-dark);
+            color: var(--text-main);
+            overflow: hidden;
+        }
 
-    /* 2. 工具栏：搜索与排序并排，比例优化 */
-    .controls-row {
-        display: flex;
-        gap: 8px;
-        margin-bottom: 10px;
-        flex-shrink: 0; /* 防止工具栏被压缩 */
-    }
-    
-    #search-input, #sort-restaurants { 
-        background: rgba(255,255,255,0.1); 
-        border: 1px solid #4a8bbd; 
-        color: white; 
-        border-radius: 4px; 
-        font-size: 14px; 
-        padding: 8px 10px;
-        height: 36px;
-        box-sizing: border-box;
-    }
+        #map {
+            width: 100%;
+            height: 55vh;
+            flex-shrink: 0;
+        }
 
-    #search-input { flex: 2; }
-    #sort-restaurants { 
-        flex: 1; 
-        min-width: 80px; /* 确保“排序”两个字完整显示 */
-        cursor: pointer;
-    }
+        #sidebar {
+            width: 100%;
+            height: 45vh;
+            padding: 12px;
+            box-sizing: border-box;
+            background: linear-gradient(180deg, var(--bg-gradient-top) 0%, var(--bg-dark) 100%);
+            border-top: 2px solid var(--accent-pink);
+            display: flex;
+            flex-direction: column;
+        }
 
-    /* 3. 餐厅列表：回归上下滑动，垂直排列 */
-    #restaurant-list { 
-        flex-grow: 1; 
-        overflow-y: auto; 
-        padding-right: 5px; 
-    }
+        /* =========================================
+           3. 控制栏与交互组件
+           ========================================= */
+        .controls-row {
+            display: flex;
+            gap: 8px;
+            margin-bottom: 10px;
+            flex-shrink: 0;
+        }
 
-    /* 4. 列表卡片：不再限制高度，让名字完整显示 */
-    .restaurant-item { 
-        padding: 12px; 
-        margin-bottom: 10px; 
-        background-color: rgba(255, 255, 255, 0.08); 
-        border-radius: 8px; 
-        border-left: 4px solid transparent;
-        transition: background 0.2s;
-    }
-    .restaurant-item:hover { background-color: rgba(255, 255, 255, 0.15); border-left: 4px solid #FFB800; }
+        #search-input, #sort-restaurants {
+            background: rgba(255, 255, 255, 0.1);
+            border: 1px solid #4a8bbd;
+            color: white;
+            border-radius: 4px;
+            padding: 8px;
+            font-size: 13px;
+        }
 
-    .restaurant-name { 
-        font-weight: bold; 
-        font-size: 15px; 
-        color: #fff; 
-        margin-bottom: 4px;
-        line-height: 1.4; /* 允许名字折行显示完整 */
-    }
-    .restaurant-desc { 
-        font-size: 12px; 
-        color: #b3d4ec; 
-        line-height: 1.4;
-    }
+        #search-input { flex-grow: 1; }
 
-    /* 5. 页脚：极简处理，避免占用列表空间 */
-    footer { 
-        margin-top: 8px;
-        font-size: 10px; 
-        color: #666; 
-        text-align: center; 
-        flex-shrink: 0; 
-    }
+        /* =========================================
+           4. 餐厅列表与卡片样式
+           ========================================= */
+        #restaurant-list {
+            flex-grow: 1;
+            overflow-y: auto;
+            padding-bottom: 20px;
+            scroll-behavior: smooth;
+        }
 
-    /* 电脑大屏模式下的自动适配（如果宽度足够，恢复左右布局） */
-    @media (min-width: 1024px) {
-        body { flex-direction: row; }
-        #map { width: 75%; height: 100vh; order: 2; }
-        #sidebar { width: 25%; height: 100vh; order: 1; border-top: none; border-right: 1px solid #1a5b8a; }
-    }
+        .restaurant-item {
+            padding: 12px;
+            margin-bottom: 8px;
+            background: var(--card-bg);
+            border-radius: 8px;
+            border-left: 4px solid transparent;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            position: relative;
+        }
 
-    /* 标记点样式 */
-    .obsidian-node { background-color: #FFB800; border-radius: 50%; border: 2px solid #0b2e4a; box-shadow: 0 0 10px #FFB800; animation: pulse 2s infinite; }
-    @keyframes pulse { 0% { box-shadow: 0 0 0 0 rgba(255, 184, 0, 0.8); } 70% { box-shadow: 0 0 0 8px rgba(255, 184, 0, 0); } 100% { box-shadow: 0 0 0 0 rgba(255, 184, 0, 0); } }
-</style>
+        .restaurant-item:hover,
+        .restaurant-item.active {
+            background: var(--card-hover);
+            border-left-color: var(--accent-gold);
+        }
 
+        .restaurant-name {
+            font-weight: bold;
+            font-size: 14px;
+            margin-bottom: 4px;
+            color: #fff;
+        }
+
+        .visited-green { color: var(--accent-green) !important; }
+
+        .nav-link {
+            color: var(--accent-gold);
+            font-size: 11px;
+            text-decoration: none;
+            font-weight: bold;
+            margin-top: 5px;
+            display: inline-block;
+        }
+
+        /* =========================================
+           5. 地图标记 (Marker) 动画与页脚
+           ========================================= */
+        .amber-node {
+            background-color: var(--accent-gold);
+            border-radius: 50%;
+            border: 2px solid var(--bg-dark);
+            box-shadow: 0 0 10px var(--accent-gold);
+            animation: pulse 2s infinite;
+        }
+
+        .green-node {
+            background-color: var(--accent-green);
+            border-radius: 50%;
+            border: 2px solid var(--bg-dark);
+            box-shadow: 0 0 10px var(--accent-green), 0 0 20px var(--accent-green);
+        }
+
+        @keyframes pulse {
+            0% { box-shadow: 0 0 0 0 rgba(255, 184, 0, 0.8); }
+            70% { box-shadow: 0 0 0 8px rgba(255, 184, 0, 0); }
+            100% { box-shadow: 0 0 0 0 rgba(255, 184, 0, 0); }
+        }
+
+        footer {
+            font-size: 10px;
+            color: #666;
+            text-align: center;
+            padding: 10px 0;
+            border-top: 1px solid var(--card-bg);
+            flex-shrink: 0;
+        }
+    </style>
 </head>
 <body>
-
+    <div id="map"></div>
     <div id="sidebar">
-
-        <p style="color: #b3d4ec; font-size: 12px; margin-bottom: 20px;">悬停或点击卡片，点亮柏林美食节点。</p>
-        
         <div class="controls-row">
             <input type="text" id="search-input" placeholder="搜索餐厅...">
             <select id="sort-restaurants">
-                <option value="default">排序</option>
+                <option value="default">默认</option>
                 <option value="az">A-Z</option>
                 <option value="za">Z-A</option>
-            </select> 
+            </select>
         </div>
-        
         <div id="restaurant-list"></div>
-
         <footer>
-            <div style="color: #FFB800; margin-bottom: 5px; font-size: 10px;">数据来源：berlin_slowtour (小红书)</div>
-            &copy; 2026 柏林美食雷达<br>
-            <a href="#" style="color: #888; text-decoration: none;">Impressum</a> | <a href="#" style="color: #888; text-decoration: none;">Datenschutz</a><br>
-            <span style="font-size: 9px;">Kartendaten &copy; OpenStreetMap, CARTO</span>
+            <div style="color: var(--accent-gold); margin-bottom: 3px;">数据来源：berlin_slowtour (小红书)</div>
+            © 2026 柏林美食雷达 | OSM, CARTO
         </footer>
-    </div> 
-
-    <div id="map"></div>
+    </div>
 
 <script>
-    // 1. 初始化地图
+    // 1. 地图初始化与图层设置
     const map = L.map('map').setView([52.5200, 13.4050], 12);
-    L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', { maxZoom: 19 }).addTo(map);
+    L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png').addTo(map);
+    const markersLayer = L.layerGroup().addTo(map);
 
-    // 2. 定义两种发光图标
-    // 琥珀金 (未去过)
-    const amberIcon = L.divIcon({ className: 'obsidian-node', iconSize: [12, 12], iconAnchor: [6, 6] });
-    
-    // 翡翠绿 (已打卡) - 修正了 CSS 语法中的分号和 px 单位
-    const greenIcon = L.divIcon({ 
-        className: 'obsidian-node', 
-        html: '<div style="background-color: #00FF88; width: 12px; height: 12px; border-radius: 50%; box-shadow: 0 0 10px #00FF88, 0 0 20px #00FF88;"></div>',
-        iconSize: [12, 12], 
-        iconAnchor: [6, 6] 
-    });
-
-    const markersLayer = L.layerGroup().addTo(map); 
+    // 2. DOM 元素缓存
     const listContainer = document.getElementById('restaurant-list');
-    let allData = []; 
+    const searchInput = document.getElementById('search-input');
+    const sortSelect = document.getElementById('sort-restaurants');
 
-    // 3. 渲染函数
-    function renderRestaurants(dataToRender) {
-        listContainer.innerHTML = ''; 
-        markersLayer.clearLayers();  
+    let allData = [];
 
-        dataToRender.forEach(res => {
-            const lat = res.lat;
-            const lon = res.lon || res.lng;
+    // 3. 核心渲染函数
+    function render(data) {
+        listContainer.innerHTML = '';
+        markersLayer.clearLayers();
 
-            // --- 关键改进：万能匹配 Visited 状态 ---
-            // 无论 JSON 里是 Visited 还是 visited，是 Yes 还是 yes，通通兼容
-            const rawVisited = res.Visited || res.visited || "";
-            const isVisited = rawVisited.toString().toLowerCase().trim() === 'yes';
+        data.forEach(res => {
+            const lat = parseFloat(res.lat);
+            const lon = parseFloat(res.lon || res.lng || res.longitude);
+            const isVisited = (res.Visited || res.visited || "").toString().toLowerCase().trim() === 'yes';
 
-            if (lat && lon) {
-                // 修正 Google Maps 链接拼接逻辑
-                const mapLink = res.link || `https://www.google.com/maps/search/${encodeURIComponent(res.name + ' Berlin')}`;
+            if (!isNaN(lat) && !isNaN(lon)) {
+                const address = res.address || '';
+                const googleUrl = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(res.name + ' ' + (address || 'Berlin'))}`;
 
-                // B. 创建地图标记
-                const marker = L.marker([lat, lon], {icon: isVisited ? greenIcon : amberIcon});
+                // 创建地图 Marker
+                const markerClass = isVisited ? 'green-node' : 'amber-node';
+                const marker = L.marker([lat, lon], {
+                    icon: L.divIcon({ className: `obsidian-node ${markerClass}`, iconSize: [12, 12] })
+                });
+
                 marker.bindPopup(`
-                    <div style="color: #0b2e4a; min-width: 150px;">
+                    <div style="color: var(--bg-dark); min-width: 140px;">
                         <b style="font-size: 14px;">${isVisited ? '✅ ' : ''}${res.name}</b><br>
-                        <span style="font-size: 12px; color: #666;">${res.address}</span><br>
-                        <a href="${mapLink}" target="_blank" style="display: inline-block; margin-top: 8px; color: #1e5a8c; text-decoration: none; font-weight: bold; border: 1px solid #1e5a8c; padding: 2px 8px; border-radius: 4px;">在 Google Map 查看 ↗</a>
+                        <span style="font-size: 11px; color: #666;">${address}</span><br>
+                        <a href="${googleUrl}" target="_blank" style="display:inline-block; margin-top:8px; background:#1e5a8c; color:#fff; padding:4px 8px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:bold;">在 Google Map 查看 ↗</a>
                     </div>
                 `);
                 markersLayer.addLayer(marker);
 
-                // C. 创建列表卡片
+                // 创建侧边栏列表项
                 const item = document.createElement('div');
                 item.className = 'restaurant-item';
+                item.dataset.name = res.name; // 用于外部定位匹配
+
                 item.innerHTML = `
-                    <div class="restaurant-name">${isVisited ? '<span style="color: #00FF88;">✅</span> ' : ''}${res.name}</div>
-                    <div class="restaurant-desc">${res.address}</div>
-                    <div style="margin-top: 5px;"><a href="${mapLink}" target="_blank" style="color: #FFB800; font-size: 11px; text-decoration: none;">查看详情 & 导航 ↗</a></div>
+                    <div class="restaurant-name ${isVisited ? 'visited-green' : ''}">${isVisited ? '✅ ' : ''}${res.name}</div>
+                    <div style="font-size:11px; color:var(--text-muted);">${address}</div>
+                    <a href="${googleUrl}" target="_blank" class="nav-link" onclick="event.stopPropagation()">查看导航 ↗</a>
                 `;
-                
-                const trigger = () => {
-                    map.flyTo([lat, lon], 15, { animate: true, duration: 1.5 });
+
+                // 绑定点击事件：飞入动画与高亮
+                item.onclick = () => {
+                    map.flyTo([lat, lon], 16);
                     marker.openPopup();
+                    document.querySelectorAll('.restaurant-item').forEach(el => el.classList.remove('active'));
+                    item.classList.add('active');
                 };
-                item.addEventListener('mouseenter', trigger);
-                item.addEventListener('click', trigger);
-                
+
                 listContainer.appendChild(item);
             }
         });
     }
 
-    // 4. 初始化获取数据
+    // 4. 数据过滤与排序逻辑
+    function process() {
+        const query = searchInput.value.toLowerCase();
+        let filtered = allData.filter(r => r.name.toLowerCase().includes(query));
+
+        const sortMode = sortSelect.value;
+        if (sortMode === 'az') filtered.sort((a,b) => a.name.localeCompare(b.name, 'zh-CN'));
+        if (sortMode === 'za') filtered.sort((a,b) => b.name.localeCompare(a.name, 'zh-CN'));
+
+        render(filtered);
+    }
+
+    searchInput.addEventListener('input', process);
+    sortSelect.addEventListener('change', process);
+
+    // 5. 初始化拉取数据
     fetch('data.json')
-        .then(response => {
-            if (!response.ok) throw new Error('读取 data.json 失败');
-            return response.json();
+        .then(r => r.json())
+        .then(d => {
+            allData = d;
+            render(allData);
         })
-        .then(data => {
-            allData = data; 
-            renderRestaurants(allData);
-        })
-        .catch(err => {
-            console.error("加载失败:", err);
-            listContainer.innerHTML = '<p style="color:red; padding:20px;">数据加载失败，请检查 data.json</p>';
-        });
+        .catch(err => console.error("数据加载失败:", err));
 
-    // 5. 排序逻辑
-    document.getElementById('sort-restaurants').addEventListener('change', function(e) {
-        let sortedData = [...allData];
-        const mode = e.target.value;
-        if (mode === 'az') sortedData.sort((a, b) => a.name.localeCompare(b.name, 'zh-CN'));
-        else if (mode === 'za') sortedData.sort((a, b) => b.name.localeCompare(a.name, 'zh-CN'));
-        renderRestaurants(sortedData);
-        listContainer.scrollTop = 0;
-    });
+    // 6. 核心优化：联动列表锁定 (精简版)
+    window.addEventListener('message', function(e) {
+        if (e.data.type === 'FLY_TO' && e.data.name) {
+            // 抛弃循环遍历，直接利用 CSS 选择器精准定位目标 DOM
+            const targetEl = document.querySelector(`.restaurant-item[data-name="${CSS.escape(e.data.name)}"]`);
 
-    // 6. 搜索逻辑
-    document.getElementById('search-input').addEventListener('input', function(e) {
-        const term = e.target.value.toLowerCase();
-        const filteredData = allData.filter(res => 
-            res.name.toLowerCase().includes(term) || 
-            res.address.toLowerCase().includes(term)
-        );
-        renderRestaurants(filteredData);
+            if (targetEl) {
+                targetEl.click();
+                listContainer.scrollTop = targetEl.offsetTop - listContainer.offsetTop - 10;
+            }
+        }
     });
 </script>
 </body>

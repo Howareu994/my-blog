@@ -3,71 +3,121 @@ import json
 import os
 import ssl
 import socket
+import random
+import time
+from urllib.parse import urljoin
 
-# 1. 解决 SSL 验证问题（部分服务器抓取 HTTPS 必备）
+# 1. 解决 SSL 验证问题
 if hasattr(ssl, '_create_unverified_context'):
     ssl._create_default_https_context = ssl._create_unverified_context
 
-# 设置超时时间，防止某个链接卡死导致整个 Action 失败
-socket.setdefaulttimeout(15)
+# 设置超时时间（增加到 30 秒，适应柏林政府服务器的缓慢响应）
+socket.setdefaulttimeout(30)
 
-# scripts/fetch_news.py 里的 FEEDS 修改如下：
-
+# --- 2. 信号源阵列化 (Multi-Source Array) ---
 FEEDS = {
-    "traffic": "https://www.rbb24.de/aktuell/index.xml/feed=rss.xml",
-    "police": "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
-    
-    # 修改 1：使用 berlin.de 更通用的票务/活动 RSS (包含很多免费演出)
-    "free_events": "https://www.berlin.de/tickets/suche/rss/",
-    
-    # 修改 2：舍弃不稳定的 RSSHub，直接抓取 Siegessäule 的原生信号
-    "music_nightlife": "https://www.siegessaeule.de/rss.xml",
-    
-    # 修改：抓取招聘会相关信息 (利用 Berlin.de 的经济/就业 RSS)
-    "job_fairs": "https://www.berlin.de/wirtschaft/rss/",
-    
-    # 修改：抓取街道生活/社区规则相关的文章
-    "ethics": "https://www.tip-berlin.de/stadtleben/rss/"
-    
+    "traffic": [
+        "https://www.rbb24.de/aktuell/index.xml/feed=rss.xml",
+        "https://www.viz-berlin.de/aktuelles/-/rss/viz/all/",
+        "https://www.vbb.de/vbb-services/presse/pressemitteilungen/rss/"
+    ],
+    "police": [
+        "https://www.berlin.de/polizei/polizeimeldungen/index.php/rss",
+        "https://www.presseportal.de/rss/dienststelle_4943.rss2"
+    ],
+    "free_events": [
+        "https://www.berlin.de/tickets/suche/rss/",
+        "https://www.exberliner.com/events/feed/"
+    ],
+    "music_nightlife": [
+        "https://www.siegessaeule.de/rss.xml",
+        "https://www.tip-berlin.de/stadtleben/feed/"
+    ],
+    "job_fairs": [
+        "https://www.berlin.de/wirtschaft/rss/",
+        "https://www.berlin.de/sen/arbeit/presse/pressemitteilungen/index.php/rss"
+    ],
+    "ethics": [
+        "https://www.tip-berlin.de/stadtleben/rss/",
+        "https://www.rbb24.de/panorama/index.xml/feed=rss.xml"
+    ]
 }
-def fetch_feed(category, url, limit=10):
-    print(f"📡 正在打捞 {category} 信号...")
-    # 伪装成浏览器，防止被网站屏蔽
-    agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
-    
+
+def fetch_feed(category, url, limit=12):
+    """
+    增强型打捞函数：支持深度伪装与链接修复
+    """
+    print(f"📡 正在接入频率: {url} ...")
+
+    # 模拟真实浏览器请求头
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+        "Accept": "application/rss+xml, application/xml;q=0.9, */*;q=0.8",
+        "Referer": "https://www.google.com/",
+        "Accept-Language": "de-DE,de;q=0.9,en-US;q=0.8"
+    }
+
     try:
-        # 使用 feedparser 抓取
-        feed = feedparser.parse(url, agent=agent)
-        
-        # 检查是否抓取成功
-        if feed.bozo:
-            print(f"⚠️ {category} 信号解析异常，尝试强制提取...")
+        # 正确使用 request_headers 进行伪装
+        feed = feedparser.parse(url, request_headers=headers)
+
+        # 状态检查
+        status = getattr(feed, 'status', None)
+        if status and status != 200:
+            print(f"❌ 握手失败 (HTTP {status})")
+            return []
 
         items = []
         for entry in feed.entries[:limit]:
+            # 自动修复链接：将相对路径转换为绝对路径
+            raw_link = entry.link
+            clean_link = urljoin(url, raw_link)
+
             items.append({
                 "title": entry.title,
-                "link": entry.link,
+                "link": clean_link,
                 "date": entry.get('published', entry.get('updated', ''))
             })
-        print(f"✅ {category} 打捞成功: {len(items)} 条")
+
+        print(f"✅ {category} 频道子信号打捞成功: {len(items)} 条")
         return items
     except Exception as e:
-        print(f"❌ {category} 信号中断: {str(e)}")
+        print(f"💥 信号中断: {str(e)}")
         return []
 
 def main():
     news_data = {}
-    for category, url in FEEDS.items():
-        news_data[category] = fetch_feed(category, url)
-    
+
+    for category, urls in FEEDS.items():
+        all_items = []
+        # 处理单字符串或列表
+        url_list = [urls] if isinstance(urls, str) else urls
+
+        for url in url_list:
+            # 随机延迟，防止由于抓取过快被封 IP
+            time.sleep(random.uniform(1.5, 3.0))
+            items = fetch_feed(category, url)
+            all_items.extend(items)
+
+        # --- 信号去重 (基于标题) ---
+        unique_items = []
+        seen_titles = set()
+        for item in all_items:
+            if item['title'] not in seen_titles:
+                unique_items.append(item)
+                seen_titles.add(item['title'])
+
+        # 按打捞到的顺序保留前 15 条最相关的
+        news_data[category] = unique_items[:15]
+
     # 确保 data 文件夹存在
     os.makedirs('data', exist_ok=True)
-    
-    # 写入 JSON，确保中文不乱码
+
+    # 写入 JSON
     with open('data/news.json', 'w', encoding='utf-8') as f:
         json.dump(news_data, f, ensure_ascii=False, indent=2)
-    print("\n📦 所有情报已存入 data/news.json")
+
+    print(f"\n📦 [打捞任务完成] 情报已存入 data/news.json，共覆盖 {len(news_data)} 个频道。")
 
 if __name__ == "__main__":
     main()

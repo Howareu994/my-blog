@@ -1,7 +1,7 @@
 {
   "name": "Berliner Gegenstrom",
   "short_name": "Gegenstrom",
-  "start_url": "/",
+  "start_url": "/my-blog/",
   "display": "standalone",
   "background_color": "#fcfcfc",
   "theme_color": "#ff85b9",
