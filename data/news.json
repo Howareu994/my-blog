@@ -1,9 +1,19 @@
 {
   "traffic": [
     {
+      "title": "Saisonrückblick: Das Jahr, in dem Union spät das Fußballspielen wiederfand",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-bundesliga-union-berlin-saisonrueckblick-baumgart-eta.html",
+      "date": "Sat, 16 May 2026 20:30:15 +0200"
+    },
+    {
       "title": "Mehrere Festnahmen bei Palästina-Demo in Berlin",
       "link": "https://www.rbb24.de/politik/beitrag/2026/05/polizei-vereinzelte-festnahmen-palaestina-demo-berlin.html",
-      "date": "Sat, 16 May 2026 19:34:33 +0200"
+      "date": "Sat, 16 May 2026 20:04:37 +0200"
+    },
+    {
+      "title": "Energie feiert Zweitliga-Rückkehr: \"Cottbus wird brennen\"",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-dritte-liga-fc-energie-cottbus-aufstieg-zweite-bundesliga-reaktionen-stimmen-jubel-wollitz-lemke-funk-rorig.html",
+      "date": "Sat, 16 May 2026 18:40:00 +0200"
     },
     {
       "title": "Offensives Union feiert Heimsieg zur Eta-Verabschiedung",
@@ -39,16 +49,6 @@
       "title": "Vier Verletzte bei schwerem Autounfall in Berlin-Kreuzberg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-schwerer-unfall-auto-carsharing-kreuzberg-hasenheide.html",
       "date": "Sat, 16 May 2026 14:23:18 +0200"
-    },
-    {
-      "title": "Motorradfahrer gedenken toter Soldaten in Berlin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/motorradfahrer-tote-soldaten-gedenken-bundeswehr-berlin.html",
-      "date": "Sat, 16 May 2026 14:22:12 +0200"
-    },
-    {
-      "title": "Radfahrer stößt in Berlin-Friedrichshain mit Tram zusammen und wird lebensgefährlich verletzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/fahrradfahrer-strassenbahn-zusammenstoss-lebensbedrohlich-verlet.html",
-      "date": "Sat, 16 May 2026 13:09:00 +0200"
     }
   ],
   "police": [
