@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Offensives Union feiert Heimsieg zur Eta-Verabschiedung",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-bundesliga-fc-union-berlin-fc-augsburg-spielbericht-liveticker-audiostream-saisonfinale.html",
+      "date": "Sat, 16 May 2026 17:24:00 +0200"
+    },
+    {
       "title": "Wie Claus-Dieter Wollitz aus Cottbus einen Zweitligisten formte",
       "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-dritte-liga-energie-cottbus-aufstieg-pele-wollitz.html",
       "date": "Sat, 16 May 2026 16:27:58 +0200"
@@ -14,11 +19,6 @@
       "title": "Kommentar zum Aufstieg von Energie Cottbus",
       "link": "https://www.rbb24.de/sport/beitrag/2026/05/kommentar-fussball-energie-cottbus-aufstieg-zweite-bundesliga.html",
       "date": "Sat, 16 May 2026 15:57:00 +0200"
-    },
-    {
-      "title": "Verabschiedet sich Union mit Sieg gegen Augsburg in die Sommerpause?",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-bundesliga-fc-union-berlin-fc-augsburg-spielbericht-liveticker-audiostream-saisonfinale.html",
-      "date": "Sat, 16 May 2026 15:17:06 +0200"
     },
     {
       "title": "Verdacht auf Brandstiftung: Feuerwehr löscht brennende Autos auf Strausberger Firmengelände",
@@ -52,6 +52,11 @@
     }
   ],
   "police": [
+    {
+      "title": "Frau beschädigt Wahlplakat und bedroht Personen mit Holzlatte",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671523.php",
+      "date": "Sat, 16 May 2026 17:25:00 +0200"
+    },
     {
       "title": "Mann rassistisch beleidigt und angegriffen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671522.php",
@@ -96,11 +101,6 @@
       "title": "DEIG-Einsatz gegen verhaltensauffälligen Mann mit Baseballschläger",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671205.php",
       "date": "Thu, 14 May 2026 16:40:26 +0200"
-    },
-    {
-      "title": "Festnahme nach mehreren Straftaten und Angriff auf Polizeibeamten",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671204.php",
-      "date": "Thu, 14 May 2026 15:55:08 +0200"
     }
   ],
   "free_events": [],
