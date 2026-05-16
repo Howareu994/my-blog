@@ -1,9 +1,24 @@
 {
   "traffic": [
     {
-      "title": "Mit Tram zusammengestoßen: Radfahrer bei schwerem Unfall in Berlin-Friedrichshain lebensgefährlich verletzt",
+      "title": "3. Liga im Livestream: Macht Energie Cottbus in Regensburg den Aufstieg klar?",
+      "link": "https://www.rbb24.de/sport/hintergrund/livestream/livestream-fussball-dritte-liga-energie-cottbus-jahn-regensburg.html",
+      "date": "Sat, 16 May 2026 13:13:59 +0200"
+    },
+    {
+      "title": "Wer schafft den Sprung in die 2. Liga?",
+      "link": "https://www.rbb24.de/sport/hintergrund/livestream/livestream-audio-dritte-liga-energie-cottbus-msv-duisburg-rot-weiss-essen-hansa-rostock.html",
+      "date": "Sat, 16 May 2026 13:13:56 +0200"
+    },
+    {
+      "title": "Vier Verletzte bei schwerem Autounfall in Berlin-Kreuzberg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-schwerer-unfall-auto-carsharing-kreuzberg-hasenheide.html",
+      "date": "Sat, 16 May 2026 13:12:33 +0200"
+    },
+    {
+      "title": "Radfahrer stößt in Berlin-Friedrichshain mit Tram zusammen und wird lebensgefährlich verletzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/fahrradfahrer-strassenbahn-zusammenstoss-lebensbedrohlich-verlet.html",
-      "date": "Sat, 16 May 2026 12:41:00 +0200"
+      "date": "Sat, 16 May 2026 13:09:00 +0200"
     },
     {
       "title": "Campingsaison in Brandenburg startet verhalten",
@@ -34,24 +49,14 @@
       "title": "Wetter in Berlin und Brandenburg: 19 Grad und Sonne am Wochenende",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/sonniges-wochenende-wetter-berlin-brandenburg.html",
       "date": "Sat, 16 May 2026 09:12:53 +0200"
-    },
-    {
-      "title": "E-Bike-Pendeln in Berlin scheitert oft an schlechten Radwegen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-e-bike-pendeln-radverkehr-radwege-gefahr.html",
-      "date": "Sat, 16 May 2026 08:12:00 +0200"
-    },
-    {
-      "title": "Kürzungen: Wie sich der Sparzwang an Berlins Unis auswirkt",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/05/kuerzungen-hochschulen-sparzwang-berlin-unis-protest.html",
-      "date": "Sat, 16 May 2026 08:09:00 +0200"
-    },
-    {
-      "title": "Berliner Schauspielerin Angelica Domröse gestorben",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/05/schauspielerin-angelica-domroese-gestorben-paul-und-paula.html",
-      "date": "Fri, 15 May 2026 21:46:41 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Mehrere Verletzte nach Verkehrsunfall",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671518.php",
+      "date": "Sat, 16 May 2026 13:32:49 +0200"
+    },
     {
       "title": "Feier unter Bewohnern eskaliert - Mann mit Stichverletzungen im Krankenhaus",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671439.php",
@@ -96,11 +101,6 @@
       "title": "Radfahrer flüchtet vor Kontrolle und verletzt Polizeikräfte",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1670979.php",
       "date": "Wed, 13 May 2026 13:07:08 +0200"
-    },
-    {
-      "title": "Festnahme nach mutmaßlichem Diebstahl aus Fahrzeug",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1670896.php",
-      "date": "Wed, 13 May 2026 11:34:40 +0200"
     }
   ],
   "free_events": [],
