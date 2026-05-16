@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Fachkräfte werden in Namibia für Berliner Wirtschaft ausgebildet",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/05/ihk-ausbildungsprojekt-namibia-.html",
+      "date": "Sat, 16 May 2026 10:50:47 +0200"
+    },
+    {
+      "title": "Saunafloß brennt auf Berliner Müggelsee - fünf Verletzte",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brand-feuer-feuerwehr-sauna-floss-berlin-friedrichshagen.html",
+      "date": "Sat, 16 May 2026 10:19:53 +0200"
+    },
+    {
+      "title": "Verdacht auf Brandstiftung: Feuerwehr löscht brennende Autos auf Strausberger Firmengelände",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/autobraende-strausberg.html",
+      "date": "Sat, 16 May 2026 10:11:41 +0200"
+    },
+    {
       "title": "Arda Saatçi nach 600-Kilometer-Lauf in Berlin angekommen - Hunderte Fans am Flughafen BER",
       "link": "https://www.rbb24.de/sport/beitrag/2026/05/ultra-laeufer-arda-saatci-zurueckgekehrt-nach-berlin.html",
       "date": "Sat, 16 May 2026 09:38:14 +0200"
@@ -9,11 +24,6 @@
       "title": "Wetter in Berlin und Brandenburg: 19 Grad und Sonne am Wochenende",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/sonniges-wochenende-wetter-berlin-brandenburg.html",
       "date": "Sat, 16 May 2026 09:12:53 +0200"
-    },
-    {
-      "title": "Saunafloß brennt auf Berliner Müggelsee - fünf Verletzte",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brand-feuer-feuerwehr-sauna-floss-berlin-friedrichshagen.html",
-      "date": "Sat, 16 May 2026 09:04:21 +0200"
     },
     {
       "title": "E-Bike-Pendeln in Berlin scheitert oft an schlechten Radwegen",
@@ -39,16 +49,6 @@
       "title": "Cottbus-Präsident Lemke: \"Wir werden auch voll auf Sieg spielen\"",
       "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-dritte-liga-energie-cottbus-interview-praesident-sebastian-lemke.html",
       "date": "Fri, 15 May 2026 19:27:51 +0200"
-    },
-    {
-      "title": "Wenn Bus und Bahn zu früh abfahren - und das für Probleme sorgt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/bvg-verfruehung-u-bahn-tram-bus-berlin.html",
-      "date": "Fri, 15 May 2026 19:23:09 +0200"
-    },
-    {
-      "title": "Eishockey-WM: Ohne Sturm und Reichel - Auftaktpleite für Deutschland",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/eishockey-weltmeisterschaft-finnland-deutschland.html",
-      "date": "Fri, 15 May 2026 18:53:00 +0200"
     }
   ],
   "police": [
