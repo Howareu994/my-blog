@@ -1,14 +1,19 @@
 {
   "traffic": [
     {
+      "title": "Mehrere Festnahmen bei Palästina-Demo in Berlin",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/05/polizei-vereinzelte-festnahmen-palaestina-demo-berlin.html",
+      "date": "Sat, 16 May 2026 21:57:25 +0200"
+    },
+    {
+      "title": "Regionalliga Nordost: Babelsberg siegt zum Saisonabschluss, drei Elfmeter beim BFC Dynamo",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-regionalliga-nordost-bfc-dynamo-chemnitz-altglienicke-preussen-babelsberg-hertha-u23-meuselwitz-luckenwalde-zehlendorf-greifswald-spielbericht.html",
+      "date": "Sat, 16 May 2026 20:55:00 +0200"
+    },
+    {
       "title": "Saisonrückblick: Das Jahr, in dem Union spät das Fußballspielen wiederfand",
       "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-bundesliga-union-berlin-saisonrueckblick-baumgart-eta.html",
       "date": "Sat, 16 May 2026 20:30:15 +0200"
-    },
-    {
-      "title": "Mehrere Festnahmen bei Palästina-Demo in Berlin",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/05/polizei-vereinzelte-festnahmen-palaestina-demo-berlin.html",
-      "date": "Sat, 16 May 2026 20:04:37 +0200"
     },
     {
       "title": "Energie feiert Zweitliga-Rückkehr: \"Cottbus wird brennen\"",
@@ -44,11 +49,6 @@
       "title": "Kürzungen: Wie sich der Sparzwang an Berlins Unis auswirkt",
       "link": "https://www.rbb24.de/politik/beitrag/2026/05/kuerzungen-hochschulen-sparzwang-berlin-unis-protest.html",
       "date": "Sat, 16 May 2026 14:39:27 +0200"
-    },
-    {
-      "title": "Vier Verletzte bei schwerem Autounfall in Berlin-Kreuzberg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-schwerer-unfall-auto-carsharing-kreuzberg-hasenheide.html",
-      "date": "Sat, 16 May 2026 14:23:18 +0200"
     }
   ],
   "police": [
