@@ -1,6 +1,26 @@
 {
   "traffic": [
     {
+      "title": "Verdacht auf Brandstiftung: Feuerwehr löscht brennende Autos auf Strausberger Firmengelände",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/autobraende-strausberg.html",
+      "date": "Sat, 16 May 2026 14:40:57 +0200"
+    },
+    {
+      "title": "Kürzungen: Wie sich der Sparzwang an Berlins Unis auswirkt",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/05/kuerzungen-hochschulen-sparzwang-berlin-unis-protest.html",
+      "date": "Sat, 16 May 2026 14:39:27 +0200"
+    },
+    {
+      "title": "Vier Verletzte bei schwerem Autounfall in Berlin-Kreuzberg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-schwerer-unfall-auto-carsharing-kreuzberg-hasenheide.html",
+      "date": "Sat, 16 May 2026 14:23:18 +0200"
+    },
+    {
+      "title": "Motorradfahrer gedenken toter Soldaten in Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/motorradfahrer-tote-soldaten-gedenken-bundeswehr-berlin.html",
+      "date": "Sat, 16 May 2026 14:22:12 +0200"
+    },
+    {
       "title": "3. Liga im Livestream: Macht Energie Cottbus in Regensburg den Aufstieg klar?",
       "link": "https://www.rbb24.de/sport/hintergrund/livestream/livestream-fussball-dritte-liga-energie-cottbus-jahn-regensburg.html",
       "date": "Sat, 16 May 2026 13:13:59 +0200"
@@ -9,11 +29,6 @@
       "title": "Wer schafft den Sprung in die 2. Liga?",
       "link": "https://www.rbb24.de/sport/hintergrund/livestream/livestream-audio-dritte-liga-energie-cottbus-msv-duisburg-rot-weiss-essen-hansa-rostock.html",
       "date": "Sat, 16 May 2026 13:13:56 +0200"
-    },
-    {
-      "title": "Vier Verletzte bei schwerem Autounfall in Berlin-Kreuzberg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-schwerer-unfall-auto-carsharing-kreuzberg-hasenheide.html",
-      "date": "Sat, 16 May 2026 13:12:33 +0200"
     },
     {
       "title": "Radfahrer stößt in Berlin-Friedrichshain mit Tram zusammen und wird lebensgefährlich verletzt",
@@ -34,21 +49,6 @@
       "title": "Saunafloß brennt auf Berliner Müggelsee - fünf Verletzte",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brand-feuer-feuerwehr-sauna-floss-berlin-friedrichshagen.html",
       "date": "Sat, 16 May 2026 10:19:53 +0200"
-    },
-    {
-      "title": "Verdacht auf Brandstiftung: Feuerwehr löscht brennende Autos auf Strausberger Firmengelände",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/autobraende-strausberg.html",
-      "date": "Sat, 16 May 2026 10:11:41 +0200"
-    },
-    {
-      "title": "Arda Saatçi nach 600-Kilometer-Lauf in Berlin angekommen - Hunderte Fans am Flughafen BER",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/ultra-laeufer-arda-saatci-zurueckgekehrt-nach-berlin.html",
-      "date": "Sat, 16 May 2026 09:38:14 +0200"
-    },
-    {
-      "title": "Wetter in Berlin und Brandenburg: 19 Grad und Sonne am Wochenende",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/sonniges-wochenende-wetter-berlin-brandenburg.html",
-      "date": "Sat, 16 May 2026 09:12:53 +0200"
     }
   ],
   "police": [
