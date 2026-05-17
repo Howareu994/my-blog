@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Was war das denn | Berlin isst besser",
+      "link": "https://www.rbb24.de/panorama/thema/was-war-das-denn/berlin-food-hype-rummel-ums-essen.html",
+      "date": "Sun, 17 May 2026 07:29:49 +0200"
+    },
+    {
+      "title": "Start der Republica: Markus Beckedahl im Interview",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/republica-digital-messe-berlin-interview-beckedahl.html",
+      "date": "Sun, 17 May 2026 07:21:07 +0200"
+    },
+    {
       "title": "Mehrere Festnahmen bei Palästina-Demo in Berlin",
       "link": "https://www.rbb24.de/politik/beitrag/2026/05/polizei-vereinzelte-festnahmen-palaestina-demo-berlin.html",
       "date": "Sat, 16 May 2026 21:57:25 +0200"
@@ -39,16 +49,6 @@
       "title": "Kommentar zum Aufstieg von Energie Cottbus",
       "link": "https://www.rbb24.de/sport/beitrag/2026/05/kommentar-fussball-energie-cottbus-aufstieg-zweite-bundesliga.html",
       "date": "Sat, 16 May 2026 15:57:00 +0200"
-    },
-    {
-      "title": "Verdacht auf Brandstiftung: Feuerwehr löscht brennende Autos auf Strausberger Firmengelände",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/autobraende-strausberg.html",
-      "date": "Sat, 16 May 2026 14:40:57 +0200"
-    },
-    {
-      "title": "Kürzungen: Wie sich der Sparzwang an Berlins Unis auswirkt",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/05/kuerzungen-hochschulen-sparzwang-berlin-unis-protest.html",
-      "date": "Sat, 16 May 2026 14:39:27 +0200"
     }
   ],
   "police": [
