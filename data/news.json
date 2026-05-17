@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Herabstürzender Ast trifft in Berlin-Kreuzberg Menschengruppe - ein Schwerverletzter",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/ast-menschengruppe-kreuzberg-berlin-sechs-verletzte.html",
+      "date": "Sun, 17 May 2026 20:57:00 +0200"
+    },
+    {
       "title": "Alba verliert überraschend zum Playoff-Auftakt gegen Vechta",
       "link": "https://www.rbb24.de/sport/beitrag/2026/05/basketball-bundesliga-playoffs-viertelfinale-alba-berlin-rasta-vechta.html",
       "date": "Sun, 17 May 2026 20:48:05 +0200"
@@ -44,11 +49,6 @@
       "title": "21-Jähriger durch Messerstich in Berlin-Prenzlauer Berg schwer verletzt - Täter geflüchtet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-prenzlauer-berg-messerstiche-verletzter.html",
       "date": "Sun, 17 May 2026 14:15:09 +0200"
-    },
-    {
-      "title": "Berlin-Neukölln: Jugendliche bei Verkehrsunfall mit Fahrerflucht schwer verletzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-verkehrsunfall-jugendliche-verletzt-fahrerflucht.html",
-      "date": "Sun, 17 May 2026 14:12:05 +0200"
     }
   ],
   "police": [
