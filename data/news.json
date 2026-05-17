@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Trotz 2:0-Führung: Union-Frauen verlieren klar bei Poese-Abschied",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-bundesliga-eintracht-frankfurt-union-berlin-poese-abschied.html",
+      "date": "Sun, 17 May 2026 16:05:00 +0200"
+    },
+    {
+      "title": "2. Bundesliga: Abstiegsbedrohtes Bielefeld empfängt Hertha BSC",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-2-bundesliga-hertha-bsc-arminia-bielefeld-spielbericht-audiostream-liveticker.html",
+      "date": "Sun, 17 May 2026 15:47:49 +0200"
+    },
+    {
       "title": "Grab- und Gedenkstätte für queere Menschen in Berlin-Schöneberg eingeweiht",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-schoeneberg-grabstaette-queere-menschen-friedhof.html",
       "date": "Sun, 17 May 2026 14:35:50 +0200"
@@ -14,11 +24,6 @@
       "title": "Berlin-Neukölln: Jugendliche bei Verkehrsunfall mit Fahrerflucht schwer verletzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-verkehrsunfall-jugendliche-verletzt-fahrerflucht.html",
       "date": "Sun, 17 May 2026 14:12:05 +0200"
-    },
-    {
-      "title": "Pläne für Heidekrautbahn erneut geändert: Bauarbeiten verzögern sich",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/05/bauarbeiten-verzoegern-sich--eisenbahn-aendert-plaene-fuer-heide.html",
-      "date": "Sun, 17 May 2026 13:59:34 +0200"
     },
     {
       "title": "Pläne für Heidekrautbahn erneut geändert: Bauarbeiten verzögern sich",
@@ -44,14 +49,19 @@
       "title": "Brandenburg beim Theatertreffen: Der Hartmann von Cottbus und Potsdam",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/05/kritik-hartmann-serotonin-hauptmann-koepenick-berlin-theatertreffen-potsdam-cottbus.html",
       "date": "Sun, 17 May 2026 09:20:00 +0200"
-    },
-    {
-      "title": "Was war das denn | Berlin isst besser",
-      "link": "https://www.rbb24.de/panorama/thema/was-war-das-denn/berlin-food-hype-rummel-ums-essen.html",
-      "date": "Sun, 17 May 2026 07:29:49 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Autofahrer fährt Kind an",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671534.php",
+      "date": "Sun, 17 May 2026 16:20:34 +0200"
+    },
+    {
+      "title": "Erfolgreiche Ortung nach Wohnungseinbruch - Festnahmen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671533.php",
+      "date": "Sun, 17 May 2026 15:16:25 +0200"
+    },
     {
       "title": "Blitzeinbruch in Modegeschäft",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671532.php",
@@ -91,16 +101,6 @@
       "title": "Schüsse auf ein Wohnhaus",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671519.php",
       "date": "Sat, 16 May 2026 15:18:00 +0200"
-    },
-    {
-      "title": "Mehrere Verletzte nach Verkehrsunfall",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671518.php",
-      "date": "Sat, 16 May 2026 13:32:49 +0200"
-    },
-    {
-      "title": "Feier unter Bewohnern eskaliert - Mann mit Stichverletzungen im Krankenhaus",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671439.php",
-      "date": "Fri, 15 May 2026 15:03:00 +0200"
     }
   ],
   "free_events": [],
