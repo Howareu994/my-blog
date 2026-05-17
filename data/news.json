@@ -1,9 +1,29 @@
 {
   "traffic": [
     {
+      "title": "Mann durch Messerstiche in Berlin schwer verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-prenzlauer-berg-messerstiche-verletzter.html",
+      "date": "Sun, 17 May 2026 12:09:59 +0200"
+    },
+    {
+      "title": "Berlin-Neukölln: Jugendliche bei Verkehrsunfall mit Fahrerflucht schwer verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-verkehrsunfall-jugendliche-verletzt-fahrerflucht.html",
+      "date": "Sun, 17 May 2026 12:08:09 +0200"
+    },
+    {
+      "title": "Udo Lindenberg wird 80: Die Kultmomente des Panikrockers in Berlin",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/05/lindenberg-udo-bilder-galerie-geburtstag-80-jahre-jubilaeum-kultur.html",
+      "date": "Sun, 17 May 2026 12:03:20 +0200"
+    },
+    {
       "title": "Wohngeld: 21 Wochen Wartezeit in Friedrichshain-Kreuzberg - acht in Spandau",
       "link": "https://www.rbb24.de/politik/beitrag/2026/05/berlin-wohngeld-antraege-wartezeiten-friedrichshain-kreuzberg-spandau.html",
-      "date": "Sun, 17 May 2026 10:38:29 +0200"
+      "date": "Sun, 17 May 2026 11:09:29 +0200"
+    },
+    {
+      "title": "Gefahr für Igel und Kleintiere: Cottbus erlässt Nachtfahrverbot für Mähroboter",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/05/cottbus-verbot-nachtfahrverbot-maehroboter-igel-kleintiere-garten.html",
+      "date": "Sun, 17 May 2026 11:07:24 +0200"
     },
     {
       "title": "Energie Cottbus feiert riesige Aufstiegsparty mit den Fans",
@@ -14,11 +34,6 @@
       "title": "Was war das denn | Berlin isst besser",
       "link": "https://www.rbb24.de/panorama/thema/was-war-das-denn/berlin-food-hype-rummel-ums-essen.html",
       "date": "Sun, 17 May 2026 07:29:49 +0200"
-    },
-    {
-      "title": "Start der Republica: Markus Beckedahl im Interview",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/republica-digital-messe-berlin-interview-beckedahl.html",
-      "date": "Sun, 17 May 2026 07:21:07 +0200"
     },
     {
       "title": "Mehrere Festnahmen bei Palästina-Demo in Berlin",
@@ -34,24 +49,14 @@
       "title": "Saisonrückblick: Das Jahr, in dem Union spät das Fußballspielen wiederfand",
       "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-bundesliga-union-berlin-saisonrueckblick-baumgart-eta.html",
       "date": "Sat, 16 May 2026 20:30:15 +0200"
-    },
-    {
-      "title": "Offensives Union feiert Heimsieg zur Eta-Verabschiedung",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-bundesliga-fc-union-berlin-fc-augsburg-spielbericht-liveticker-audiostream-saisonfinale.html",
-      "date": "Sat, 16 May 2026 18:37:29 +0200"
-    },
-    {
-      "title": "Wie Claus-Dieter Wollitz aus Cottbus einen Zweitligisten formte",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-dritte-liga-energie-cottbus-aufstieg-pele-wollitz.html",
-      "date": "Sat, 16 May 2026 16:27:58 +0200"
-    },
-    {
-      "title": "Boziaris trifft traumhaft: Energie Cottbus kehrt in die 2. Bundesliga zurück",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-dritte-liga-jahn-regensburg-fc-energie-cottbus-spielbericht-aufstieg.html",
-      "date": "Sat, 16 May 2026 16:16:41 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Durch Messerstich verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671524.php",
+      "date": "Sun, 17 May 2026 11:05:59 +0200"
+    },
     {
       "title": "Frau beschädigt Wahlplakat und bedroht Personen mit Holzlatte",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671523.php",
@@ -96,11 +101,6 @@
       "title": "Hitlergruß gezeigt – Heranwachsender vorläufig festgenommen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671376.php",
       "date": "Fri, 15 May 2026 12:29:15 +0200"
-    },
-    {
-      "title": "DEIG-Einsatz gegen verhaltensauffälligen Mann mit Baseballschläger",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671205.php",
-      "date": "Thu, 14 May 2026 16:40:26 +0200"
     }
   ],
   "free_events": [],
