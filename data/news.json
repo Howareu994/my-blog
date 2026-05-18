@@ -1,6 +1,46 @@
 {
   "traffic": [
     {
+      "title": "Brand auf Gewerbehof in Heinersdorf - Warnung vor Rauch",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brand-gewerbehof-berlin-heinersdorf-warnung-rauch.html",
+      "date": "Mon, 18 May 2026 18:17:25 +0200"
+    },
+    {
+      "title": "Metallica und DRK Nordost rufen gemeinsam zur Blutspende auf",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/05/metallica-blutspenden-aufruf-drk-nordost-berlin-brandenburg.html",
+      "date": "Mon, 18 May 2026 18:14:55 +0200"
+    },
+    {
+      "title": "RE1 mit vielen Ausfällen - neunmonatige Sperrung angekündigt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brandenburg-bahn-verkehr-re1-odeg-frankfurt-oder-ausfaelle-sperrung.html",
+      "date": "Mon, 18 May 2026 18:14:24 +0200"
+    },
+    {
+      "title": "Ulrike Müller wird Intendantin der neuen Bühne Senftenberg",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/05/brandenburg-senftenberg-neue-buehne-intendantin-ulrike-mueller-nachfolge-ris.html",
+      "date": "Mon, 18 May 2026 17:45:27 +0200"
+    },
+    {
+      "title": "Polizei sucht erneut nach zwei Vermissten im Havelland",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/polizei-brandenburg-vermisste-maenner-havelland-suche-waldgebiet.html",
+      "date": "Mon, 18 May 2026 17:39:12 +0200"
+    },
+    {
+      "title": "Welche gefährlichen Tiere man in Berlin und Brandenburg privat halten darf",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-brandenburg-gefaehrliche-wildtiere-haltung-ausbruch.html",
+      "date": "Mon, 18 May 2026 17:21:45 +0200"
+    },
+    {
+      "title": "Weniger Beschwerden wegen verweigerter Akteneinsicht in Brandenburg",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/05/brandenburg-beschwerden-akten-einsicht-behoerden-ablehnung.html",
+      "date": "Mon, 18 May 2026 17:10:40 +0200"
+    },
+    {
+      "title": "Fußball-WM: Berlin plant ohne Fanmeile am Brandenburger Tor",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-wm-berlin-keine-fanmeile-brandenburger-tor.html",
+      "date": "Mon, 18 May 2026 16:59:00 +0200"
+    },
+    {
       "title": "Mann soll einjährigen Aufenthalt in Berliner Hotel erschlichen haben",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-anklage-betrug-mann-zahlt-hotel-rechnung-nicht.html",
       "date": "Mon, 18 May 2026 16:15:39 +0200"
@@ -9,46 +49,6 @@
       "title": "Unbekannte schießen auf Geschäft in Berlin-Wedding",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-wedding-schuesse-geschaeft-ferrum.html",
       "date": "Mon, 18 May 2026 15:46:04 +0200"
-    },
-    {
-      "title": "Potsdam: Regenbogenflagge im Innenhof des Brandenburger Landtags gehisst",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/05/brandenburg-potsdam-landtag-regenbogenflagge-toleranz.html",
-      "date": "Mon, 18 May 2026 15:34:27 +0200"
-    },
-    {
-      "title": "Berlin: Frau auf ihren Wunsch hin getötet - knapp drei Jahre Haft",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-landgericht-frau-auf-wunsch-getoetet-haftstrafe.html",
-      "date": "Mon, 18 May 2026 14:38:19 +0200"
-    },
-    {
-      "title": "Dutzende Tiere aus vermüllter Wohnung in Spandau befreit",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-spandau-wohnung-animal-hoarding-hunde-katzen-voegel-fische.html",
-      "date": "Mon, 18 May 2026 14:20:23 +0200"
-    },
-    {
-      "title": "Prognose: Senat rechnet 2030 mit deutlich weniger Kitakindern in Berlin",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/05/senat-prognose-wenige-kitakinder.html",
-      "date": "Mon, 18 May 2026 14:05:15 +0200"
-    },
-    {
-      "title": "2027 und 2028: Berliner Theatertreffen schafft Frauenquote wieder ab",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/05/berlin-theatertreffen-schafft-frauenquote-ab.html",
-      "date": "Mon, 18 May 2026 13:41:55 +0200"
-    },
-    {
-      "title": "In eigener Sache: rbb stärkt regionale Live-Berichterstattung",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/rbb-staerkt-regionale-live-berichterstattung.html",
-      "date": "Mon, 18 May 2026 13:20:51 +0200"
-    },
-    {
-      "title": "Eichenprozessionsspinner wird in der Prignitz aus der Luft bekämpft",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/eichenprozessionsspinner-prignitz-bekaempfung-bad-wilsnack.html",
-      "date": "Mon, 18 May 2026 12:23:32 +0200"
-    },
-    {
-      "title": "Fußball-WM: Berlin plant ohne Fanmeile am Brandenburger Tor",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-wm-berlin-keine-fanmeile-brandenburger-tor.html",
-      "date": "Mon, 18 May 2026 12:00:59 +0200"
     }
   ],
   "police": [
