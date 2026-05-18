@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Berliner S-Bahn: Verspätungen und Ausfälle wegen Kabeldiebstahls",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/kabeldiebstahl-berlin-sbahn-baumschulenweg-einschraenkungen.html",
+      "date": "Mon, 18 May 2026 21:04:24 +0200"
+    },
+    {
+      "title": "Maler Harald Metzkes im Alter von 97 Jahren gestorben",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/05/berlin-maler-harald-metzkes-berliner-schule-ddr-gestorben.html",
+      "date": "Mon, 18 May 2026 21:02:40 +0200"
+    },
+    {
+      "title": "Pro und Contra: Soll Hertha Trainer Stefan Leitl entlassen?",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-zweite-bundesliga-pro-und-contra-stefan-leitl.html",
+      "date": "Mon, 18 May 2026 19:55:52 +0200"
+    },
+    {
       "title": "Brand auf Gewerbehof in Heinersdorf - Warnung vor Rauch",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brand-gewerbehof-berlin-heinersdorf-warnung-rauch.html",
       "date": "Mon, 18 May 2026 18:17:25 +0200"
@@ -34,21 +49,6 @@
       "title": "Weniger Beschwerden wegen verweigerter Akteneinsicht in Brandenburg",
       "link": "https://www.rbb24.de/politik/beitrag/2026/05/brandenburg-beschwerden-akten-einsicht-behoerden-ablehnung.html",
       "date": "Mon, 18 May 2026 17:10:40 +0200"
-    },
-    {
-      "title": "Fußball-WM: Berlin plant ohne Fanmeile am Brandenburger Tor",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-wm-berlin-keine-fanmeile-brandenburger-tor.html",
-      "date": "Mon, 18 May 2026 16:59:00 +0200"
-    },
-    {
-      "title": "Mann soll einjährigen Aufenthalt in Berliner Hotel erschlichen haben",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-anklage-betrug-mann-zahlt-hotel-rechnung-nicht.html",
-      "date": "Mon, 18 May 2026 16:15:39 +0200"
-    },
-    {
-      "title": "Unbekannte schießen auf Geschäft in Berlin-Wedding",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-wedding-schuesse-geschaeft-ferrum.html",
-      "date": "Mon, 18 May 2026 15:46:04 +0200"
     }
   ],
   "police": [
