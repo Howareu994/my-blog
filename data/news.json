@@ -1,57 +1,72 @@
 {
   "traffic": [
     {
+      "title": "Mann soll einjährigen Aufenthalt in Berliner Hotel erschlichen haben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-anklage-betrug-mann-zahlt-hotel-rechnung-nicht.html",
+      "date": "Mon, 18 May 2026 12:40:28 +0200"
+    },
+    {
+      "title": "Eichenprozessionsspinner wird in der Prignitz aus der Luft bekämpft",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/eichenprozessionsspinner-prignitz-bekaempfung-bad-wilsnack.html",
+      "date": "Mon, 18 May 2026 12:23:32 +0200"
+    },
+    {
+      "title": "Potsdam: Regenbogenflagge im Innenhof des Brandenburger Landtags gehisst",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/05/brandenburg-potsdam-landtag-regenbogenflagge-toleranz.html",
+      "date": "Mon, 18 May 2026 12:08:34 +0200"
+    },
+    {
+      "title": "Fußball-WM: Berlin plant ohne Fanmeile am Brandenburger Tor",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-wm-berlin-keine-fanmeile-brandenburger-tor.html",
+      "date": "Mon, 18 May 2026 12:00:59 +0200"
+    },
+    {
+      "title": "Berliner Polizei rüstet für 4,6 Millionen Euro gegen Drohnen auf",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-polizei-drohnen-abwehr-technik-millionenbetrag.html",
+      "date": "Mon, 18 May 2026 11:49:35 +0200"
+    },
+    {
       "title": "Fazit zum Berliner Theatertreffen: Leistungsschau mit Ladehemmung",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/05/berlin-theatertreffen-fazit-spektakel-nach-muedem-auftakt.html",
-      "date": "Mon, 18 May 2026 08:38:05 +0200"
+      "date": "Mon, 18 May 2026 11:39:08 +0200"
     },
     {
-      "title": "Mutmaßlich rechte Angriffe in Cottbus: \"Wir müssen ein Zeichen setzen\"",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/05/interview-lukas-pellio-cottbus.html",
-      "date": "Mon, 18 May 2026 06:28:56 +0200"
+      "title": "Mutmaßlich rechtsextreme Angriffe in Cottbus: \"Wir müssen ein Zeichen setzen\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/cottbus-rechtsextreme-angriffe-pfarrer-lukas-pellio-interview.html",
+      "date": "Mon, 18 May 2026 11:37:13 +0200"
     },
     {
-      "title": "Unions Frauenteam: Gute Saison und trotzdem Luft nach oben",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-bundesliga-frauen-union-berlin-analyse-saison-poese-eta.html",
-      "date": "Sun, 17 May 2026 22:29:58 +0200"
+      "title": "Sozial-Bericht: Armutsrisiko wächst vor allem am Berliner Stadtrand weiter",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-armut-stadtrand-sozial-monitoring.html",
+      "date": "Mon, 18 May 2026 11:04:31 +0200"
     },
     {
-      "title": "Herabstürzender Ast trifft in Berlin-Kreuzberg Menschengruppe - ein Schwerverletzter",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/ast-menschengruppe-kreuzberg-berlin-sechs-verletzte.html",
-      "date": "Sun, 17 May 2026 20:57:00 +0200"
+      "title": "Berlin-Grunewald: Mountainbiker Nähe des Teufelsbergs schwer verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/mountainbiker-sturz-teufelsberg-schwer-verletzt.html",
+      "date": "Mon, 18 May 2026 10:47:14 +0200"
     },
     {
-      "title": "Blitzeinbruch in Modegeschäft in Berlin-Charlottenburg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/blitzeinbruch-modegeschaeft-berlin-charlottenburg-berlin.html",
-      "date": "Sun, 17 May 2026 20:22:33 +0200"
-    },
-    {
-      "title": "Analyse: Die beste Hertha-Saison seit dem Abstieg ist auch die enttäuschendste",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/berlin-fussball-hertha-bsc-saison-analyse-leitl-goerlich-weber-aufstieg-kritik.html",
-      "date": "Sun, 17 May 2026 19:14:47 +0200"
-    },
-    {
-      "title": "Betreibergesellschaft soll Stadion in Cottbus übernehmen und Energie entlasten",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-fc-energie-cottbus-stadion-betreibergesellschaft-schick.html",
-      "date": "Sun, 17 May 2026 17:06:20 +0200"
-    },
-    {
-      "title": "Diebe stehlen wertvolle Kupferkabel und Paneele aus Brandenburger Solarpark",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/05/brandenburg-potsdam-mittelmark-solarpark-diebstahl-kupferkabel-paneele.html",
-      "date": "Sun, 17 May 2026 16:34:42 +0200"
-    },
-    {
-      "title": "Energie Cottbus feiert riesige Aufstiegsparty mit den Fans",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-energie-cottbus-aufstieg-party-feier-pele-wollitz.html",
-      "date": "Sun, 17 May 2026 16:27:52 +0200"
-    },
-    {
-      "title": "Grab- und Gedenkstätte für queere Menschen in Berlin-Schöneberg eingeweiht",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-schoeneberg-grabstaette-queere-menschen-friedhof.html",
-      "date": "Sun, 17 May 2026 14:35:50 +0200"
+      "title": "Eishockey-WM: Deutschland unterliegt Lettland und bangt ums Viertelfinale",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/eishockey-wm-deutschland-lettland.html",
+      "date": "Mon, 18 May 2026 10:46:08 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Schüsse auf Unternehmen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671803.php",
+      "date": "Mon, 18 May 2026 12:45:16 +0200"
+    },
+    {
+      "title": "Wohnung nach mutmaßlichem Betäubungsmittelhandel durchsucht",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671790.php",
+      "date": "Mon, 18 May 2026 12:22:45 +0200"
+    },
+    {
+      "title": "Vermisster 53-Jähriger wieder da",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671427.php",
+      "date": "Mon, 18 May 2026 08:26:00 +0200"
+    },
     {
       "title": "Autofahrer fährt Kind an",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671534.php",
@@ -86,21 +101,6 @@
       "title": "Frau beschädigt Wahlplakat und bedroht Personen mit Holzlatte",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671523.php",
       "date": "Sat, 16 May 2026 17:25:00 +0200"
-    },
-    {
-      "title": "Mann rassistisch beleidigt und angegriffen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671522.php",
-      "date": "Sat, 16 May 2026 16:16:00 +0200"
-    },
-    {
-      "title": "Maßnahmen der BAO Ferrum und EG Telum - Schusswaffe bei Wohnungsdurchsuchung gefunden",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671521.php",
-      "date": "Sat, 16 May 2026 15:30:00 +0200"
-    },
-    {
-      "title": "Schüsse auf ein Wohnhaus",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671519.php",
-      "date": "Sat, 16 May 2026 15:18:00 +0200"
     }
   ],
   "free_events": [],
