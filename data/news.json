@@ -1,57 +1,72 @@
 {
   "traffic": [
     {
+      "title": "Brand auf Gewerbehof in Berlin - Polizei geht von Brandstiftung aus",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brand-gewerbehof-berlin-heinersdorf-warnung-rauch.html",
+      "date": "Tue, 19 May 2026 12:13:22 +0200"
+    },
+    {
+      "title": "Nach DESG-Wirbel: Pechstein wird Eisschnelllauf-Bundestrainerin",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/eisschnelllauf-claudia-pechstein-bundestrainerin-desg-grosse.html",
+      "date": "Tue, 19 May 2026 11:34:16 +0200"
+    },
+    {
+      "title": "Berliner S-Bahn will ab Juni sauberer und sicherer werden",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-sbahn-reinigung-sicherheit-streifen-sauberkeit.html",
+      "date": "Tue, 19 May 2026 11:26:54 +0200"
+    },
+    {
+      "title": "Team der BTU Cottbus-Senftenberg forscht in Grönland zum Klima",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brandenburg-cottbus-forscher-btu-klima-erwaermung-arktis.html",
+      "date": "Tue, 19 May 2026 11:17:20 +0200"
+    },
+    {
+      "title": "Berliner S-Bahn: Kabeldiebstahl führt zu Einschränkungen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/kabeldiebstahl-berlin-sbahn-baumschulenweg-einschraenkungen.html",
+      "date": "Tue, 19 May 2026 10:42:58 +0200"
+    },
+    {
+      "title": "Cybergrooming: Das perfide Vorgehen der Täter",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/cyber-grooming-jugendliche-snapchat-sextortion-sexueller-uebergriff-interview.html",
+      "date": "Tue, 19 May 2026 10:29:22 +0200"
+    },
+    {
+      "title": "Zwei Männer in Berliner Hasenheide nach Streit schwer verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-neukoelln-hasenheide-streit-verletzt.html",
+      "date": "Tue, 19 May 2026 09:39:06 +0200"
+    },
+    {
+      "title": "Interview zu inklusivem Theater Rambazamba in Berlin",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/05/berlin-rambazamba-theater-inklusion-diversitaet-behinderung-jacob-hoehne.html",
+      "date": "Tue, 19 May 2026 09:14:51 +0200"
+    },
+    {
+      "title": "Marc-Uwe Kling liest aus \"Die Känguru-Rebellion\" in Berlin",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/05/lesung-marc-uwe-kling-berlin-tempodrom-kaenguru-rebellion.html",
+      "date": "Tue, 19 May 2026 09:05:00 +0200"
+    },
+    {
       "title": "Verdacht auf Strohmann-Geschäft: Die verschwundene Fahrschule und der Mann aus Sofia",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/fahrschule-jump-orange-pleite-strohmann-handelsregister-berlin.html",
       "date": "Tue, 19 May 2026 07:22:00 +0200"
-    },
-    {
-      "title": "Berliner S-Bahn: Verspätungen und Ausfälle wegen Kabeldiebstahls",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/kabeldiebstahl-berlin-sbahn-baumschulenweg-einschraenkungen.html",
-      "date": "Tue, 19 May 2026 06:38:34 +0200"
-    },
-    {
-      "title": "\"Kabinett vor Ort\": Brandenburger Regierung tagt im Havelland",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/05/brandenburg-landesregierung-tagt-im-havelland.html",
-      "date": "Tue, 19 May 2026 06:16:58 +0200"
-    },
-    {
-      "title": "Eishockey-WM: Nur Tiffels trifft bei Debakel gegen die Schweiz",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/eishockey-weltmeisterschaft-deutschland-schweiz.html",
-      "date": "Mon, 18 May 2026 22:56:36 +0200"
-    },
-    {
-      "title": "Brand auf Gewerbehof in Heinersdorf - Warnung vor Rauch",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brand-gewerbehof-berlin-heinersdorf-warnung-rauch.html",
-      "date": "Mon, 18 May 2026 22:43:21 +0200"
-    },
-    {
-      "title": "Maler Harald Metzkes im Alter von 97 Jahren gestorben",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/05/berlin-maler-harald-metzkes-berliner-schule-ddr-gestorben.html",
-      "date": "Mon, 18 May 2026 21:02:40 +0200"
-    },
-    {
-      "title": "Pro und Contra: Soll Hertha Trainer Stefan Leitl entlassen?",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-zweite-bundesliga-pro-und-contra-stefan-leitl.html",
-      "date": "Mon, 18 May 2026 19:55:52 +0200"
-    },
-    {
-      "title": "Metallica und DRK Nordost rufen gemeinsam zur Blutspende auf",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/05/metallica-blutspenden-aufruf-drk-nordost-berlin-brandenburg.html",
-      "date": "Mon, 18 May 2026 18:14:55 +0200"
-    },
-    {
-      "title": "RE1 mit vielen Ausfällen - neunmonatige Sperrung angekündigt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brandenburg-bahn-verkehr-re1-odeg-frankfurt-oder-ausfaelle-sperrung.html",
-      "date": "Mon, 18 May 2026 18:14:24 +0200"
-    },
-    {
-      "title": "Ulrike Müller wird Intendantin der neuen Bühne Senftenberg",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/05/brandenburg-senftenberg-neue-buehne-intendantin-ulrike-mueller-nachfolge-ris.html",
-      "date": "Mon, 18 May 2026 17:45:27 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Kinder bei Verkehrsunfall verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1672133.php",
+      "date": "Tue, 19 May 2026 11:57:25 +0200"
+    },
+    {
+      "title": "Brandstiftung im Gewerbegebiet",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1672116.php",
+      "date": "Tue, 19 May 2026 11:46:03 +0200"
+    },
+    {
+      "title": "Frau nach schwerem Raub gesucht",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671943.php",
+      "date": "Tue, 19 May 2026 10:43:00 +0200"
+    },
     {
       "title": "Schüsse auf Unternehmen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671803.php",
@@ -86,21 +101,6 @@
       "title": "Versuchtes Tötungsdelikt – Mordkommission und Staatsanwaltschaft ermitteln",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671531.php",
       "date": "Sun, 17 May 2026 13:03:32 +0200"
-    },
-    {
-      "title": "Verkehrsunfall mit Fahrerflucht",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671529.php",
-      "date": "Sun, 17 May 2026 12:22:25 +0200"
-    },
-    {
-      "title": "Durch Messerstich verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671524.php",
-      "date": "Sun, 17 May 2026 11:05:59 +0200"
-    },
-    {
-      "title": "Frau beschädigt Wahlplakat und bedroht Personen mit Holzlatte",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671523.php",
-      "date": "Sat, 16 May 2026 17:25:00 +0200"
     }
   ],
   "free_events": [],
