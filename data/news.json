@@ -1,9 +1,44 @@
 {
   "traffic": [
     {
+      "title": "Senat beschließt Schutzmaßnahmen für kritische Infrastruktur",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/05/senat-schutzmassnahmen-kritische-infrastruktur-berlin.html",
+      "date": "Tue, 19 May 2026 18:02:30 +0200"
+    },
+    {
+      "title": "Musen am Staatstheater Cottbus bekommen Gliedmaßen zurück",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/05/brandenburg-cottbus-staatstheater-rekonstruktion-musen.html",
+      "date": "Tue, 19 May 2026 17:29:40 +0200"
+    },
+    {
+      "title": "Kritik an Sanierungsplänen auf der RE1: \"Für die Wirtschaft ist das schlicht eine Katastrophe\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/re1-regionalexpress-bauarbeiten-kritik-ihk-sev-bahn-ausfaelle-probahn.html",
+      "date": "Tue, 19 May 2026 17:21:27 +0200"
+    },
+    {
+      "title": "Ebola-Ausbruch: Infizierter Patient wird in Berlin behandelt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-charite-ebola-virus-patient-behandlung-kongo.html",
+      "date": "Tue, 19 May 2026 17:08:36 +0200"
+    },
+    {
+      "title": "Fördergeld-Affäre: Chialo sagt vorerst nicht vor U-Ausschuss aus",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/05/untersuchungsausschuss-foerdermittel-joe-chialo-ladung-zu-spaet.html",
+      "date": "Tue, 19 May 2026 17:02:45 +0200"
+    },
+    {
+      "title": "Cybergrooming: Das perfide Vorgehen der Täter",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/cyber-grooming-jugendliche-snapchat-sextortion-sexueller-uebergriff-interview.html",
+      "date": "Tue, 19 May 2026 16:56:41 +0200"
+    },
+    {
+      "title": "Amateur-Eiskunstläufer: \"Mein Herz will ohne Ende weitermachen\"",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/eiskunstlauf-amateur-erwachsene-wm-berlin-felix-warnholtz.html",
+      "date": "Tue, 19 May 2026 16:53:18 +0200"
+    },
+    {
       "title": "Havelland: Feuerwehr löscht Brand auf Gelände einer Recyclingfirma in Döberitz",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/feuer-brand-premnitz-doeberitz-rauchwolke-warnung-havelland.html",
-      "date": "Tue, 19 May 2026 15:17:31 +0200"
+      "date": "Tue, 19 May 2026 16:09:22 +0200"
     },
     {
       "title": "RE1 mit vielen Ausfällen - neunmonatige Sperrung angekündigt",
@@ -14,41 +49,6 @@
       "title": "Unterrichtsstunde mehr: Gewerkschaften klagen gegen Brandenburg",
       "link": "https://www.rbb24.de/politik/beitrag/2026/05/brandenburg-lehrer-unterricht-stunde-mehr-klage-bildung-gewerkschaften.html",
       "date": "Tue, 19 May 2026 15:00:45 +0200"
-    },
-    {
-      "title": "Zwei Männer in Berliner Hasenheide nach Streit schwer verletzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-neukoelln-hasenheide-streit-verletzt.html",
-      "date": "Tue, 19 May 2026 14:44:02 +0200"
-    },
-    {
-      "title": "Ebola-Ausbruch: Infizierter Patient wird in Berlin behandelt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-charite-ebola-virus-patient-behandlung-kongo.html",
-      "date": "Tue, 19 May 2026 14:36:09 +0200"
-    },
-    {
-      "title": "Tennis-Elite um Sabalenka und Gauff bei WTA-Turnier in Berlin dabei",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/tennis-berlin-grunewald-stars-top-10-sabalenka-gauff-lys.html",
-      "date": "Tue, 19 May 2026 14:24:16 +0200"
-    },
-    {
-      "title": "\"Nächster Schritt\": Union Berlin holt Nationalspielerin Gräwe",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-bundesliga-union-berlin-frauen-lisanne-graewe-neuzugang.html",
-      "date": "Tue, 19 May 2026 13:57:35 +0200"
-    },
-    {
-      "title": "Stiftung für das sorbische Volk bekommt mehr Geld",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/05/brandenburg-lausitz-sorben-wenden-finanzierung-stiftung-bund-land.html",
-      "date": "Tue, 19 May 2026 13:57:22 +0200"
-    },
-    {
-      "title": "Spitzenkandidaten im Dehoga-Check: Berliner Wahlkampf-Auftakt mit angezogener Handbremse",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahlkampf-dehoga-wahlcheck.html",
-      "date": "Tue, 19 May 2026 13:45:39 +0200"
-    },
-    {
-      "title": "Brand auf Gewerbehof in Berlin - Polizei geht von Brandstiftung aus",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brand-gewerbehof-berlin-heinersdorf-warnung-rauch.html",
-      "date": "Tue, 19 May 2026 13:41:36 +0200"
     }
   ],
   "police": [
