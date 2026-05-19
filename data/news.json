@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Verdacht auf Strohmann-Geschäft: Die verschwundene Fahrschule und der Mann aus Sofia",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/fahrschule-jump-orange-pleite-strohmann-handelsregister-berlin.html",
+      "date": "Tue, 19 May 2026 07:22:00 +0200"
+    },
+    {
+      "title": "Berliner S-Bahn: Verspätungen und Ausfälle wegen Kabeldiebstahls",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/kabeldiebstahl-berlin-sbahn-baumschulenweg-einschraenkungen.html",
+      "date": "Tue, 19 May 2026 06:38:34 +0200"
+    },
+    {
+      "title": "\"Kabinett vor Ort\": Brandenburger Regierung tagt im Havelland",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/05/brandenburg-landesregierung-tagt-im-havelland.html",
+      "date": "Tue, 19 May 2026 06:16:58 +0200"
+    },
+    {
       "title": "Eishockey-WM: Nur Tiffels trifft bei Debakel gegen die Schweiz",
       "link": "https://www.rbb24.de/sport/beitrag/2026/05/eishockey-weltmeisterschaft-deutschland-schweiz.html",
       "date": "Mon, 18 May 2026 22:56:36 +0200"
@@ -9,11 +24,6 @@
       "title": "Brand auf Gewerbehof in Heinersdorf - Warnung vor Rauch",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brand-gewerbehof-berlin-heinersdorf-warnung-rauch.html",
       "date": "Mon, 18 May 2026 22:43:21 +0200"
-    },
-    {
-      "title": "Berliner S-Bahn: Verspätungen und Ausfälle wegen Kabeldiebstahls",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/kabeldiebstahl-berlin-sbahn-baumschulenweg-einschraenkungen.html",
-      "date": "Mon, 18 May 2026 21:04:24 +0200"
     },
     {
       "title": "Maler Harald Metzkes im Alter von 97 Jahren gestorben",
@@ -39,16 +49,6 @@
       "title": "Ulrike Müller wird Intendantin der neuen Bühne Senftenberg",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/05/brandenburg-senftenberg-neue-buehne-intendantin-ulrike-mueller-nachfolge-ris.html",
       "date": "Mon, 18 May 2026 17:45:27 +0200"
-    },
-    {
-      "title": "Polizei sucht erneut nach zwei Vermissten im Havelland",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/polizei-brandenburg-vermisste-maenner-havelland-suche-waldgebiet.html",
-      "date": "Mon, 18 May 2026 17:39:12 +0200"
-    },
-    {
-      "title": "Welche gefährlichen Tiere man in Berlin und Brandenburg privat halten darf",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-brandenburg-gefaehrliche-wildtiere-haltung-ausbruch.html",
-      "date": "Mon, 18 May 2026 17:21:45 +0200"
     }
   ],
   "police": [
