@@ -1,57 +1,108 @@
 {
   "traffic": [
     {
+      "title": "Pfingst-Wochenende in Berlin und Brandenburg warm und sonnig",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/wetter-am-pfingstwochenende.html",
+      "date": "Wed, 20 May 2026 15:24:54 +0200"
+    },
+    {
+      "title": "Interview über KI-Sucht: \"Den Partner für ChatGPT verlassen\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/companion-ai-ki-sucht-partnerschaft-psychologie-interview.html",
+      "date": "Wed, 20 May 2026 15:16:00 +0200"
+    },
+    {
+      "title": "Mission Paralympics: Über 500 Schüler beim inklusiven Sportfest in Cottbus",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/brandenburg-cottbus-mission-paralympics-sportfest-inklusion-schueler-deutschland-polen.html",
+      "date": "Wed, 20 May 2026 15:00:18 +0200"
+    },
+    {
       "title": "Brandenburger Regierung möchte Bauordnung vereinfachen",
       "link": "https://www.rbb24.de/politik/beitrag/2026/05/brandenburg-will-bauordnung-vereinfachen.html",
-      "date": "Wed, 20 May 2026 11:59:19 +0200"
+      "date": "Wed, 20 May 2026 14:48:00 +0200"
     },
     {
-      "title": "Zehdenick (Oberhavel): Erste Ladesäule für Elektroboote im Norden Brandenburgs in Betrieb genommen",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/05/oberhavel-zehdenick-wassertourismus-marina-ladesaeule-elektroboote.html",
-      "date": "Wed, 20 May 2026 11:35:07 +0200"
-    },
-    {
-      "title": "RE1-Strecke ab 2029 für neun Monate geperrt: Heftige Kritik",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/re1-regionalexpress-bauarbeiten-kritik-ihk-sev-bahn-ausfaelle-probahn.html",
-      "date": "Wed, 20 May 2026 11:21:21 +0200"
-    },
-    {
-      "title": "Tausende Bachmuscheln in mehreren Brandenburger Fließgewässen ausgesetzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/bachmuschel-brandenburg-vom-aussterben-bedroht-wiederansiedlung.html",
-      "date": "Wed, 20 May 2026 11:08:02 +0200"
-    },
-    {
-      "title": "Spree-Neiße: Döberns Bürgermeister Jörg Rakete plötzlich gestorben",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/05/brandenburg-doebern-bruegermeister-joerg-rakete-ueberraschend-gestorben.html",
-      "date": "Wed, 20 May 2026 11:01:01 +0200"
-    },
-    {
-      "title": "Haftbefehl: Gesuchter Tatverdächtiger nach Unfall in Cottbus festgenommen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brandenburg-cottbus-unfall-festnahme-polizei-haftbefehl.html",
-      "date": "Wed, 20 May 2026 10:47:16 +0200"
-    },
-    {
-      "title": "Zingler im Interview: \"Haben uns mit drei Trainern getroffen\"",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-bundesliga-fc-union-berlin-dirk-zingler-interview-trainer.html",
-      "date": "Wed, 20 May 2026 09:56:47 +0200"
-    },
-    {
-      "title": "Nach Ryanair-Rückzug: Eurowings bietet künftig mehr Flüge am BER an",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/05/eurowings-fliegt-mehr-vom-ber.html",
-      "date": "Wed, 20 May 2026 09:48:01 +0200"
-    },
-    {
-      "title": "Madison Beer in der Max-Schmeling-Halle: Ein bisschen zu viel Politur",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/05/madison-beer-konzert-max-schmeeling-halle-berlin.html",
-      "date": "Wed, 20 May 2026 08:56:58 +0200"
+      "title": "Berliner Südosten: Nach einem Kabeldiebstahl fahren S-Bahnen wieder planmäßig",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/kabeldiebstahl-berlin-sbahn-baumschulenweg-einschraenkungen.html",
+      "date": "Wed, 20 May 2026 14:31:00 +0200"
     },
     {
       "title": "Ebola-Patient in Berliner Charité aufgenommen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-charite-ebola-virus-patient-behandlung-kongo.html",
-      "date": "Wed, 20 May 2026 08:52:57 +0200"
+      "date": "Wed, 20 May 2026 14:30:35 +0200"
+    },
+    {
+      "title": "Neue Gebühren ab Juli: Bewohnerparkausweise in Oberhavel werden deutlich teurer",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/05/oberhavel-bewohnerparkausweis-fuerstenberg-hennigsdorf-oranienburg-parken-kosten.html",
+      "date": "Wed, 20 May 2026 14:20:13 +0200"
+    },
+    {
+      "title": "RE1-Strecke ab 2029 für neun Monate geperrt: Heftige Kritik",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/re1-regionalexpress-bauarbeiten-kritik-ihk-sev-bahn-ausfaelle-probahn.html",
+      "date": "Wed, 20 May 2026 13:44:13 +0200"
+    },
+    {
+      "title": "Nach Verzögerungen öffnet Hindu-Tempel an der Hasenheide im Juni",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/hindu-tempel-hasenheide-eroeffnung-neukoelln.html",
+      "date": "Wed, 20 May 2026 13:12:33 +0200"
+    },
+    {
+      "title": "Weiter viele antisemitische Vorfälle in Berlin",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/05/rias-berlin-antisemitische-vorfaelle-berlin.html",
+      "date": "Wed, 20 May 2026 12:56:51 +0200"
     }
   ],
-  "police": [],
+  "police": [
+    {
+      "title": "Schüsse auf Mehrfamilienhaus",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1672749.php",
+      "date": "Wed, 20 May 2026 13:57:58 +0200"
+    },
+    {
+      "title": "Tatverdächtiger nach Messerangriff festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1672736.php",
+      "date": "Wed, 20 May 2026 13:31:58 +0200"
+    },
+    {
+      "title": "Mann nach Auseinandersetzung in Wohnung verstorben – Tatverdächtiger festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1672728.php",
+      "date": "Wed, 20 May 2026 13:22:02 +0200"
+    },
+    {
+      "title": "Überfall auf Wechselstube – Tatverdächtiger erkannt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2025/pressemitteilung.1587786.php",
+      "date": "Tue, 19 May 2026 15:45:00 +0200"
+    },
+    {
+      "title": "Mutmaßliche Kabeldiebe gefasst",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1672238.php",
+      "date": "Tue, 19 May 2026 14:20:34 +0200"
+    },
+    {
+      "title": "Mutmaßlicher Drogenhändler nach Flucht vorläufig festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1672231.php",
+      "date": "Tue, 19 May 2026 14:08:03 +0200"
+    },
+    {
+      "title": "Versuchte Tötungsdelikte – Mordkommission ermittelt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1672171.php",
+      "date": "Tue, 19 May 2026 13:05:04 +0200"
+    },
+    {
+      "title": "Kinder bei Verkehrsunfall verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1672133.php",
+      "date": "Tue, 19 May 2026 11:57:25 +0200"
+    },
+    {
+      "title": "Brandstiftung im Gewerbegebiet",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1672116.php",
+      "date": "Tue, 19 May 2026 11:46:03 +0200"
+    },
+    {
+      "title": "Frau nach schwerem Raub gesucht",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671943.php",
+      "date": "Tue, 19 May 2026 10:43:00 +0200"
+    }
+  ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
