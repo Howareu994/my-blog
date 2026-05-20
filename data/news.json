@@ -1,14 +1,39 @@
 {
   "traffic": [
     {
+      "title": "Spree-Bad-Aktivisten rufen erneut zu Mitschwimm-Demo an Berliner Museumsinsel auf",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/baden-spreekanal-rechtswidrig-keine-ausnahmegenehmigung-berlin-senat.html",
+      "date": "Wed, 20 May 2026 08:37:08 +0200"
+    },
+    {
+      "title": "Karneval der Kulturen braucht noch Spenden",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/05/karneval-der-kulturen-braucht-weiter-spenden.html",
+      "date": "Wed, 20 May 2026 08:20:32 +0200"
+    },
+    {
+      "title": "Fördergeld-Affäre: Chialo sagt vorerst nicht vor U-Ausschuss aus",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/05/untersuchungsausschuss-foerdermittel-joe-chialo-ladung-zu-spaet.html",
+      "date": "Wed, 20 May 2026 07:47:52 +0200"
+    },
+    {
+      "title": "Nach Kabeldienbstahl: Weiterhin Einschränkungen bei der Berliner S-Bahn - Linien im Südosten betroffen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/kabeldiebstahl-berlin-sbahn-baumschulenweg-einschraenkungen.html",
+      "date": "Wed, 20 May 2026 07:16:35 +0200"
+    },
+    {
+      "title": "Ebola-Patient in Berliner Charité aufgenommen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-charite-ebola-virus-patient-behandlung-kongo.html",
+      "date": "Wed, 20 May 2026 07:08:21 +0200"
+    },
+    {
+      "title": "Enhanced Games: \"Das sind Menschenversuche\"",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/sport-doping-enhanced-games-interview-andreas-krieger-lea-krueger.html",
+      "date": "Wed, 20 May 2026 06:19:46 +0200"
+    },
+    {
       "title": "BBL-Playoffs: Alba gleicht in Viertelfinal-Serie gegen Vechta aus",
       "link": "https://www.rbb24.de/sport/beitrag/2026/05/basketball-bundesliga-bbl-playoffs-viertelfinale-alba-berlin-rasta-vechta-spiel-zwei-spielbericht-reportage.html",
       "date": "Tue, 19 May 2026 23:24:00 +0200"
-    },
-    {
-      "title": "Ebola-Ausbruch: Infizierter Patient wird in Berlin behandelt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-charite-ebola-virus-patient-behandlung-kongo.html",
-      "date": "Tue, 19 May 2026 21:46:56 +0200"
     },
     {
       "title": "43-Jähriger bei Streit in Berlin-Hellersdorf tödlich verletzt - Angreifer festgenommen",
@@ -24,31 +49,6 @@
       "title": "Musen am Staatstheater Cottbus bekommen Gliedmaßen zurück",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/05/brandenburg-cottbus-staatstheater-rekonstruktion-musen.html",
       "date": "Tue, 19 May 2026 17:29:40 +0200"
-    },
-    {
-      "title": "Kritik an Sanierungsplänen auf der RE1: \"Für die Wirtschaft ist das schlicht eine Katastrophe\"",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/re1-regionalexpress-bauarbeiten-kritik-ihk-sev-bahn-ausfaelle-probahn.html",
-      "date": "Tue, 19 May 2026 17:21:27 +0200"
-    },
-    {
-      "title": "Fördergeld-Affäre: Chialo sagt vorerst nicht vor U-Ausschuss aus",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/05/untersuchungsausschuss-foerdermittel-joe-chialo-ladung-zu-spaet.html",
-      "date": "Tue, 19 May 2026 17:02:45 +0200"
-    },
-    {
-      "title": "Cybergrooming: Das perfide Vorgehen der Täter",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/cyber-grooming-jugendliche-snapchat-sextortion-sexueller-uebergriff-interview.html",
-      "date": "Tue, 19 May 2026 16:56:41 +0200"
-    },
-    {
-      "title": "Amateur-Eiskunstläufer: \"Mein Herz will ohne Ende weitermachen\"",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/eiskunstlauf-amateur-erwachsene-wm-berlin-felix-warnholtz.html",
-      "date": "Tue, 19 May 2026 16:53:00 +0200"
-    },
-    {
-      "title": "Havelland: Feuerwehr löscht Brand auf Gelände einer Recyclingfirma in Döberitz",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/feuer-brand-premnitz-doeberitz-rauchwolke-warnung-havelland.html",
-      "date": "Tue, 19 May 2026 16:09:22 +0200"
     }
   ],
   "police": [
