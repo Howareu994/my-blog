@@ -1,57 +1,87 @@
 {
   "traffic": [
     {
-      "title": "Badeverbot in der Spree: Schwimm-Demo abgebrochen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/baden-spreekanal-rechtswidrig-keine-ausnahmegenehmigung-berlin-senat.html",
-      "date": "Thu, 21 May 2026 06:49:17 +0200"
+      "title": "Berliner Abgeordnetenhaus stimmt für Olympia-Konzept",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/berlin-bewerbung-olympische-spiele-olympia-abgeordnetenhaus-abstimmung-konzept.html",
+      "date": "Thu, 21 May 2026 12:26:55 +0200"
     },
     {
-      "title": "Berlin: Diese verfluchten Rolltreppen!",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/rolltreppen-fahrtreppen-berlin-kaputt-nervt-meinung.html",
-      "date": "Thu, 21 May 2026 06:37:00 +0200"
+      "title": "Beamtenbesoldung: Nachzahlung könnte Berlin Milliarden kosten",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/05/beamte-berlin-besoldung-nachzahlung-kosten-verdoppelt-.html",
+      "date": "Thu, 21 May 2026 12:22:49 +0200"
+    },
+    {
+      "title": "Gebühren für Rettungseinsätze: Dahme-Spreewald wohl vor Einigung",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/05/dahme-spreewald-rettungseinsaetze-gebuehren-bescheide-verhandlungen.html",
+      "date": "Thu, 21 May 2026 11:47:57 +0200"
+    },
+    {
+      "title": "Bauprojekt in Berlin-Mitte: Bundestag steigt wegen Spardruck aus",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/05/berlin-bundestag-spardruck-neubau-kommt-nicht.html",
+      "date": "Thu, 21 May 2026 11:32:57 +0200"
     },
     {
       "title": "Regionalzug RE1: Mehr Sitzplätze, weniger Haltestellen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-brandenburg-bahn-odeg-re1-regionalzug-ausbau-kapazitaeten.html",
-      "date": "Thu, 21 May 2026 06:34:11 +0200"
+      "date": "Thu, 21 May 2026 11:13:40 +0200"
+    },
+    {
+      "title": "Protestaktion: \"Extinction Rebellion\" färbt Berliner Brunnen grün",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/05/protest-gaspolitik-berlin-brunnen-gruen-extinction-rebellion.html",
+      "date": "Thu, 21 May 2026 11:10:49 +0200"
     },
     {
       "title": "Familie des Ebola-Patienten in Berliner Charité aufgenommen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-charite-ebola-virus-patient-kontaktpersonen.html",
-      "date": "Thu, 21 May 2026 06:31:20 +0200"
+      "date": "Thu, 21 May 2026 11:04:28 +0200"
     },
     {
-      "title": "Neue Bebauungspläne für Tempelhofer Feld vorgestellt",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/05/berlin-tempelhofer-feld-bebauungsplaene-wohnungen-idee-initiative.html",
-      "date": "Thu, 21 May 2026 06:09:24 +0200"
+      "title": "Zeichen gegen Wohnungsnot: Potsdam sucht Lösung für besetztes Haus auf Halbinsel Hermannswerder",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/potsdam-besetzes-haus-stadt-sucht-loesung-hermannswerder-hausbesetzung.html",
+      "date": "Thu, 21 May 2026 10:29:42 +0200"
     },
     {
-      "title": "Nach Penaltyschießen: Deutschland verliert auch gegen USA",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/eishockey-wm-vorrunde-deutschland-usa-spielbericht.html",
-      "date": "Wed, 20 May 2026 23:29:53 +0200"
+      "title": "Fuchsbau: Bahnstrecke in Brandenburg gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brandenburg-fuchsbau-bahn-sperrung-re6-re55-kremmen-velten.html",
+      "date": "Thu, 21 May 2026 09:15:00 +0200"
     },
     {
-      "title": "Sparzwang: Bundestag steigt aus millionenschwerem Bauprojekt aus",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/05/berlin-bundestag-spardruck-neubau-kommt-nicht.html",
-      "date": "Wed, 20 May 2026 21:22:46 +0200"
-    },
-    {
-      "title": "Hubschrauber der Bundeswehr üben Manöver am Berliner Funkturm",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-bundeswehr-luftwaffe-uebung-ernstfall-hubschrauber.html",
-      "date": "Wed, 20 May 2026 19:39:49 +0200"
-    },
-    {
-      "title": "Berliner Justiz prüft Hinweise auf Bedrohung von Richtern",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-richter-bedroht-justiz-prueft-hinweise-mafia.html",
-      "date": "Wed, 20 May 2026 19:15:33 +0200"
-    },
-    {
-      "title": "Mutmaßliche China-Spione gefasst: Einsätze auch in Berlin und Brandenburg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-brandenburg-china-mutmassliche-wirtschaftsspione-festnahme.html",
-      "date": "Wed, 20 May 2026 18:39:18 +0200"
+      "title": "Badeverbot in der Spree: Schwimm-Demo abgebrochen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/baden-spreekanal-rechtswidrig-keine-ausnahmegenehmigung-berlin-senat.html",
+      "date": "Thu, 21 May 2026 06:49:17 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Durchsuchungen und Festnahmen nach unerlaubten Handel mit Betäubungsmitteln",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1673166.php",
+      "date": "Thu, 21 May 2026 12:12:36 +0200"
+    },
+    {
+      "title": "Mann homophob beleidigt und geschlagen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1673150.php",
+      "date": "Thu, 21 May 2026 11:51:17 +0200"
+    },
+    {
+      "title": "Angriff am Alexanderplatz mit transphobem Hintergrund",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1673132.php",
+      "date": "Thu, 21 May 2026 11:24:09 +0200"
+    },
+    {
+      "title": "Frau nach schwerem Raub gesucht - Öffentlichkeitsfahndung erledigt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671943.php",
+      "date": "Thu, 21 May 2026 11:12:00 +0200"
+    },
+    {
+      "title": "Mahnmal beschmiert",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1673032.php",
+      "date": "Thu, 21 May 2026 10:03:09 +0200"
+    },
+    {
+      "title": "Mit Messer angegriffen und beraubt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1673014.php",
+      "date": "Thu, 21 May 2026 09:55:03 +0200"
+    },
     {
       "title": "Schüsse auf Mehrfamilienhaus",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1672749.php",
@@ -71,36 +101,6 @@
       "title": "Überfall auf Wechselstube – Tatverdächtiger erkannt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2025/pressemitteilung.1587786.php",
       "date": "Tue, 19 May 2026 15:45:00 +0200"
-    },
-    {
-      "title": "Mutmaßliche Kabeldiebe gefasst",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1672238.php",
-      "date": "Tue, 19 May 2026 14:20:34 +0200"
-    },
-    {
-      "title": "Mutmaßlicher Drogenhändler nach Flucht vorläufig festgenommen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1672231.php",
-      "date": "Tue, 19 May 2026 14:08:03 +0200"
-    },
-    {
-      "title": "Versuchte Tötungsdelikte – Mordkommission ermittelt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1672171.php",
-      "date": "Tue, 19 May 2026 13:05:04 +0200"
-    },
-    {
-      "title": "Kinder bei Verkehrsunfall verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1672133.php",
-      "date": "Tue, 19 May 2026 11:57:25 +0200"
-    },
-    {
-      "title": "Brandstiftung im Gewerbegebiet",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1672116.php",
-      "date": "Tue, 19 May 2026 11:46:03 +0200"
-    },
-    {
-      "title": "Frau nach schwerem Raub gesucht",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671943.php",
-      "date": "Tue, 19 May 2026 10:43:00 +0200"
     }
   ],
   "free_events": [],
