@@ -1,24 +1,39 @@
 {
   "traffic": [
     {
+      "title": "Badeverbot in der Spree: Schwimm-Demo abgebrochen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/baden-spreekanal-rechtswidrig-keine-ausnahmegenehmigung-berlin-senat.html",
+      "date": "Thu, 21 May 2026 06:49:17 +0200"
+    },
+    {
+      "title": "Berlin: Diese verfluchten Rolltreppen!",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/rolltreppen-fahrtreppen-berlin-kaputt-nervt-meinung.html",
+      "date": "Thu, 21 May 2026 06:37:00 +0200"
+    },
+    {
+      "title": "Regionalzug RE1: Mehr Sitzplätze, weniger Haltestellen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-brandenburg-bahn-odeg-re1-regionalzug-ausbau-kapazitaeten.html",
+      "date": "Thu, 21 May 2026 06:34:11 +0200"
+    },
+    {
+      "title": "Familie des Ebola-Patienten in Berliner Charité aufgenommen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-charite-ebola-virus-patient-kontaktpersonen.html",
+      "date": "Thu, 21 May 2026 06:31:20 +0200"
+    },
+    {
+      "title": "Neue Bebauungspläne für Tempelhofer Feld vorgestellt",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/05/berlin-tempelhofer-feld-bebauungsplaene-wohnungen-idee-initiative.html",
+      "date": "Thu, 21 May 2026 06:09:24 +0200"
+    },
+    {
       "title": "Nach Penaltyschießen: Deutschland verliert auch gegen USA",
       "link": "https://www.rbb24.de/sport/beitrag/2026/05/eishockey-wm-vorrunde-deutschland-usa-spielbericht.html",
       "date": "Wed, 20 May 2026 23:29:53 +0200"
     },
     {
-      "title": "Spree-Bad-Aktivisten rufen erneut zu Mitschwimm-Demo an Berliner Museumsinsel auf",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/baden-spreekanal-rechtswidrig-keine-ausnahmegenehmigung-berlin-senat.html",
-      "date": "Wed, 20 May 2026 21:55:07 +0200"
-    },
-    {
       "title": "Sparzwang: Bundestag steigt aus millionenschwerem Bauprojekt aus",
       "link": "https://www.rbb24.de/politik/beitrag/2026/05/berlin-bundestag-spardruck-neubau-kommt-nicht.html",
       "date": "Wed, 20 May 2026 21:22:46 +0200"
-    },
-    {
-      "title": "Neue Bebauungspläne für Tempelhofer Feld vorgestellt",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/05/berlin-tempelhofer-feld-bebauungsplaene-wohnungen-idee-initiative.html",
-      "date": "Wed, 20 May 2026 20:36:00 +0200"
     },
     {
       "title": "Hubschrauber der Bundeswehr üben Manöver am Berliner Funkturm",
@@ -31,24 +46,9 @@
       "date": "Wed, 20 May 2026 19:15:33 +0200"
     },
     {
-      "title": "Hertha-Geschäftsführer Görlich über Eichhorn: \"Gibt Schmerzgrenzen\"",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-zweite-bundesliga-hertha-bsc-medienrunde-peter-goerlich-benny-weber-saison-analyse-trainer-leitl-kader-umbruch.html",
-      "date": "Wed, 20 May 2026 18:47:26 +0200"
-    },
-    {
       "title": "Mutmaßliche China-Spione gefasst: Einsätze auch in Berlin und Brandenburg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-brandenburg-china-mutmassliche-wirtschaftsspione-festnahme.html",
       "date": "Wed, 20 May 2026 18:39:18 +0200"
-    },
-    {
-      "title": "Berliner Charité nimmt fünf Ebola-Kontaktpersonen auf",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-charite-ebola-virus-patient-kontaktpersonen.html",
-      "date": "Wed, 20 May 2026 17:39:18 +0200"
-    },
-    {
-      "title": "Berliner Charité nimmt fünf Ebola-Kontaktpersonen auf",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-charite-ebola-virus-patient-kontaktpersonen.html",
-      "date": "Wed, 20 May 2026 17:39:18 +0200"
     }
   ],
   "police": [
