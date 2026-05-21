@@ -1,6 +1,36 @@
 {
   "traffic": [
     {
+      "title": "Kreuzberg: Von Motorroller aus auf fahrendes Auto geschossen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-kreuzberg-schuesse-motorroller-auto-polizei.html",
+      "date": "Thu, 21 May 2026 17:48:47 +0200"
+    },
+    {
+      "title": "Letzter Verdächtiger nach tödlichem Angriff am Humboldt-Forum gefasst",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-humboldtforum-messerangriff-verdaechtiger-gefasst.html",
+      "date": "Thu, 21 May 2026 17:44:45 +0200"
+    },
+    {
+      "title": "Experte zu Union-Trainer: \"Lustrinelli und Fischer kaum vergleichbar\"",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-bundesliga-union-berlin-trainer-mauro-lustrinelli-fc-thun-eta.html",
+      "date": "Thu, 21 May 2026 17:42:13 +0200"
+    },
+    {
+      "title": "Amoklauf in Perleberger Schule geplant? Zwei Jugendliche in U-Haft",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brandenburg-perleberg-mutmasslicher-anschlag-oberschule-festnahme.html",
+      "date": "Thu, 21 May 2026 17:29:03 +0200"
+    },
+    {
+      "title": "31-Jährige bekommt eigenes plastiniertes Herz geschenkt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brandenburg-guben-plastinarium-geschenk-plastinat-herz.html",
+      "date": "Thu, 21 May 2026 17:21:43 +0200"
+    },
+    {
+      "title": "Flugplatz Neuhausen testet unbemannte Drohnenflüge",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/05/brandenburg-neuhausen-spree-flugplatz-drohnen-unbemannt-flug-strukturwandel-lausitz.html",
+      "date": "Thu, 21 May 2026 16:39:01 +0200"
+    },
+    {
       "title": "Baden im Helensee ist ab Sommer nach fünf Jahren teils wieder erlaubt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/helenesee-baden-verbot-sommer-brandenburg-frankfurt.html",
       "date": "Thu, 21 May 2026 15:10:30 +0200"
@@ -16,42 +46,22 @@
       "date": "Thu, 21 May 2026 14:55:05 +0200"
     },
     {
-      "title": "Berlin-Wahl 2026: Dreißig  Parteien wollen bei Berlin-Wahlen antreten",
+      "title": "Berlin-Wahl 2026: 30 Parteien wollen bei Berlin-Wahlen antreten",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-agh-wahl-2026-30-parteien-antreten.html",
-      "date": "Thu, 21 May 2026 14:45:04 +0200"
-    },
-    {
-      "title": "Beamtenbesoldung: Nachzahlung könnte Berlin Milliarden kosten",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/05/beamte-berlin-besoldung-nachzahlung-kosten-verdoppelt-.html",
-      "date": "Thu, 21 May 2026 14:12:45 +0200"
-    },
-    {
-      "title": "Bundesliga: Schweizer Mauro Lustrinelli ist neuer Trainer des 1. FC Union",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-union-berlin-mauro-lustrinelli-neuer-trainer-schweiz.html",
-      "date": "Thu, 21 May 2026 14:12:11 +0200"
-    },
-    {
-      "title": "Neues Gesetz: Berlin muss schneller Straßenbäume pflanzen",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/05/berlin-strassenbaeume-pflanzen-baumgesetz.html",
-      "date": "Thu, 21 May 2026 13:49:23 +0200"
-    },
-    {
-      "title": "WM in Nordamerika: Nagelsmann nominiert Kader um Rüdiger und Beier",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-weltmeisterschaft-deutsche-nationalmannschaft-nagelsmann-neuer-antonio-ruediger.html",
-      "date": "Thu, 21 May 2026 13:47:02 +0200"
-    },
-    {
-      "title": "Berliner Abgeordnetenhaus stimmt für Olympia-Konzept",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/berlin-bewerbung-olympische-spiele-olympia-abgeordnetenhaus-abstimmung-konzept.html",
-      "date": "Thu, 21 May 2026 12:26:55 +0200"
-    },
-    {
-      "title": "Gebühren für Rettungseinsätze: Dahme-Spreewald wohl vor Einigung",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/05/dahme-spreewald-rettungseinsaetze-gebuehren-bescheide-verhandlungen.html",
-      "date": "Thu, 21 May 2026 11:47:57 +0200"
+      "date": "Thu, 21 May 2026 14:45:00 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Parkbänke mit Farbe beschmiert",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1673352.php",
+      "date": "Thu, 21 May 2026 16:36:32 +0200"
+    },
+    {
+      "title": "Tötungsdelikt am Humboldt Forum – letzter Tatverdächtiger festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2025/pressemitteilung.1597601.php",
+      "date": "Thu, 21 May 2026 16:06:00 +0200"
+    },
     {
       "title": "Verdacht des Drogenhandels und illegaler Waffenbesitz",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1673324.php",
@@ -91,16 +101,6 @@
       "title": "Angriff am Alexanderplatz mit transphobem Hintergrund",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1673132.php",
       "date": "Thu, 21 May 2026 11:24:09 +0200"
-    },
-    {
-      "title": "Frau nach schwerem Raub gesucht - Öffentlichkeitsfahndung erledigt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671943.php",
-      "date": "Thu, 21 May 2026 11:12:00 +0200"
-    },
-    {
-      "title": "Mahnmal beschmiert",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1673032.php",
-      "date": "Thu, 21 May 2026 10:03:09 +0200"
     }
   ],
   "free_events": [],
