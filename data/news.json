@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Füchse Berlin spielen nur Unentschieden gegen Hannover-Burgdorf",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/handball-bundesliga-fuechse-berlin-hannover-burgdorf-spielbericht-ergebnis.html",
+      "date": "Thu, 21 May 2026 21:13:19 +0200"
+    },
+    {
       "title": "Union Berlin: Strategiewechsel mit neuem Trainer Lustrinelli",
       "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-union-berlin-mauro-lustrinelli-neuer-trainer-analyse-st.html",
       "date": "Thu, 21 May 2026 20:14:04 +0200"
@@ -44,11 +49,6 @@
       "title": "Flugplatz Neuhausen testet unbemannte Drohnenflüge",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/05/brandenburg-neuhausen-spree-flugplatz-drohnen-unbemannt-flug-strukturwandel-lausitz.html",
       "date": "Thu, 21 May 2026 16:39:01 +0200"
-    },
-    {
-      "title": "Baden im Helensee ist ab Sommer nach fünf Jahren teils wieder erlaubt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/helenesee-baden-verbot-sommer-brandenburg-frankfurt.html",
-      "date": "Thu, 21 May 2026 15:10:30 +0200"
     }
   ],
   "police": [
