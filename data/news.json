@@ -51,58 +51,7 @@
       "date": "Fri, 22 May 2026 18:02:15 +0200"
     }
   ],
-  "police": [
-    {
-      "title": "Verkehrsunfall mit anschließendem Fahrzeugbrand",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1673667.php",
-      "date": "Fri, 22 May 2026 14:56:52 +0200"
-    },
-    {
-      "title": "Handwerker von Bewohnerin beleidigt, eingesperrt und bedroht",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1673662.php",
-      "date": "Fri, 22 May 2026 14:42:59 +0200"
-    },
-    {
-      "title": "Schüsse auf fahrendes Auto",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1673483.php",
-      "date": "Fri, 22 May 2026 11:03:39 +0200"
-    },
-    {
-      "title": "Autodiebe auf frischer Tat festgenommen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1673477.php",
-      "date": "Fri, 22 May 2026 10:48:01 +0200"
-    },
-    {
-      "title": "Parkbänke mit Farbe beschmiert",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1673352.php",
-      "date": "Thu, 21 May 2026 16:36:32 +0200"
-    },
-    {
-      "title": "Tötungsdelikt am Humboldt Forum – letzter Tatverdächtiger festgenommen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2025/pressemitteilung.1597601.php",
-      "date": "Thu, 21 May 2026 16:06:00 +0200"
-    },
-    {
-      "title": "Verdacht des Drogenhandels und illegaler Waffenbesitz",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1673324.php",
-      "date": "Thu, 21 May 2026 15:48:56 +0200"
-    },
-    {
-      "title": "Radfahrerin bei Unfall verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1673248.php",
-      "date": "Thu, 21 May 2026 14:05:28 +0200"
-    },
-    {
-      "title": "Festnahme nach Diebstahl aus einem Auto",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1673185.php",
-      "date": "Thu, 21 May 2026 12:44:16 +0200"
-    },
-    {
-      "title": "Fahrradfahrer bei Verkehrsunfall verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1673183.php",
-      "date": "Thu, 21 May 2026 12:41:21 +0200"
-    }
-  ],
+  "police": [],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
