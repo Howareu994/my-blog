@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Fußball: Energie Cottbus verlängert mit Tolcay Cigerci",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-dritte-liga-energie-cottbus-.html",
+      "date": "Fri, 22 May 2026 20:11:34 +0200"
+    },
+    {
+      "title": "Eishockey-WM: Deutschland siegt mit Torfestival gegen Ungarn",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/eishockey-weltmeisterschaft-deutschland-ungarn.html",
+      "date": "Fri, 22 May 2026 18:47:29 +0200"
+    },
+    {
+      "title": "Bürgermeisterwahl in Velten: Streit um Anerkennung der Stichwahl",
+      "link": "https://www.rbb24.de/politik/wahl/brandenburg-buergermeisterwahlen/2026/wahl-nebel-pro-velten-verwaltungsgericht-afd-cdu-spd-klage.html",
+      "date": "Fri, 22 May 2026 18:42:19 +0200"
+    },
+    {
       "title": "Manipulative Trinkgeldeinstellung: Starbucks-Betreiber abgemahnt",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/05/brandenburg-verbraucherzentrale-abmahnung-kaffeekette-starbucks-trinkgeld.html",
       "date": "Fri, 22 May 2026 18:11:02 +0200"
@@ -9,6 +24,11 @@
       "title": "Grundwasser in Brandenburg zu niedrig - \"angespannte Lage\"",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/grundwasser-niedrig-trockenheit-brandenburg-angespannt.html",
       "date": "Fri, 22 May 2026 18:02:15 +0200"
+    },
+    {
+      "title": "Jahresbericht 2025: Berliner Feuerwehr deutlich mehr im Einsatz",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-feuerwehr-mehr-einsaetze-2025-jahresbericht.html",
+      "date": "Fri, 22 May 2026 18:01:34 +0200"
     },
     {
       "title": "Brandenburger Innenministerium lehnt Haushalt Frankfurt (Oder) für 2025 und 2026 ab",
@@ -23,32 +43,12 @@
     {
       "title": "Erneut weniger Wohnungen in Berlin und Brandenburg fertiggestellt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-brandenburg-wohnungsbau-weniger-wohnungen-errichtet.html",
-      "date": "Fri, 22 May 2026 17:33:57 +0200"
+      "date": "Fri, 22 May 2026 17:33:00 +0200"
     },
     {
       "title": "Ebola-Patient in Charité \"sehr geschwächt\", Zustand nicht kritisch",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-charite-ebola-patient-symptome-geschwaecht.html",
       "date": "Fri, 22 May 2026 17:14:31 +0200"
-    },
-    {
-      "title": "Bürgermeisterwahl in Velten: Streit um Anerkennung der Stichwahl",
-      "link": "https://www.rbb24.de/politik/wahl/brandenburg-buergermeisterwahlen/2026/wahl-nebel-pro-velten-verwaltungsgericht-afd-cdu-spd-klage.html",
-      "date": "Fri, 22 May 2026 17:06:00 +0200"
-    },
-    {
-      "title": "TV-Übertragung und Fantreffs: Wissenswertes zum DFB-Pokal-Finale",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/dfb-pokalfinale-bayern-stuttgart-berlin-olympiastadion.html",
-      "date": "Fri, 22 May 2026 16:57:57 +0200"
-    },
-    {
-      "title": "Brunnenwasser in Berlin und Potsdam grün gefärbt",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/05/protest-gaspolitik-berlin-brunnen-gruen-extinction-rebellion.html",
-      "date": "Fri, 22 May 2026 15:24:44 +0200"
-    },
-    {
-      "title": "Posaunentag: Bläser-Flashmob in Lübben",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/05/brandenburg-berlin-luebben-blaeser-flashmob-landesposentag-evangelische-kirche.html",
-      "date": "Fri, 22 May 2026 14:57:45 +0200"
     }
   ],
   "police": [
