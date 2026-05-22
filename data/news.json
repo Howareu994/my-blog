@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Playoffs: Alba verliert in Vechta und steht vor frühem Saisonende",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/basketball-playoffs-vechta-alba-berlin-spiel-drei.html",
+      "date": "Fri, 22 May 2026 22:45:29 +0200"
+    },
+    {
       "title": "\"Tunnel 29\": Berliner Fluchthelfer Hasso Herschel gestorben",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-brandenburg-fluchthelfer-hasso-herschel-gestorben.html",
       "date": "Fri, 22 May 2026 21:45:12 +0200"
@@ -44,11 +49,6 @@
       "title": "Grundwasser in Brandenburg zu niedrig - \"angespannte Lage\"",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/grundwasser-niedrig-trockenheit-brandenburg-angespannt.html",
       "date": "Fri, 22 May 2026 18:02:15 +0200"
-    },
-    {
-      "title": "Jahresbericht 2025: Berliner Feuerwehr deutlich mehr im Einsatz",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-feuerwehr-mehr-einsaetze-2025-jahresbericht.html",
-      "date": "Fri, 22 May 2026 18:01:34 +0200"
     }
   ],
   "police": [
