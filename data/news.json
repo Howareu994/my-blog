@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Wegner will Vorschlag zur Randbebauung des Tempelhofer Felds prüfen lassen",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/05/berlin-kai-wegner-reaktion-tempelhofer-feld-randbebauung-initiat.html",
+      "date": "Sat, 23 May 2026 12:08:09 +0200"
+    },
+    {
       "title": "DDR-Autos: Trabis und Wartburge werden in Zeuden restauriert",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/05/ddr-nostalgie-wartburg-trabant-ifa-scheune-zeuden-reparatur-restauration.html",
       "date": "Sat, 23 May 2026 10:06:44 +0200"
@@ -44,14 +49,19 @@
       "title": "Bürgermeisterwahl in Velten: Streit um Anerkennung der Stichwahl",
       "link": "https://www.rbb24.de/politik/wahl/brandenburg-buergermeisterwahlen/2026/wahl-nebel-pro-velten-verwaltungsgericht-afd-cdu-spd-klage.html",
       "date": "Fri, 22 May 2026 18:42:19 +0200"
-    },
-    {
-      "title": "Manipulative Trinkgeldeinstellung: Starbucks-Betreiber abgemahnt",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/05/brandenburg-verbraucherzentrale-abmahnung-kaffeekette-starbucks-trinkgeld.html",
-      "date": "Fri, 22 May 2026 18:11:02 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Hauswand beschmiert – Festnahme",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1673830.php",
+      "date": "Sat, 23 May 2026 11:15:34 +0200"
+    },
+    {
+      "title": "Auf Mann geschossen – Verletzter im Krankenhaus",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1673829.php",
+      "date": "Sat, 23 May 2026 10:35:22 +0200"
+    },
     {
       "title": "Verkehrsunfall mit anschließendem Fahrzeugbrand",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1673667.php",
@@ -91,16 +101,6 @@
       "title": "Radfahrerin bei Unfall verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1673248.php",
       "date": "Thu, 21 May 2026 14:05:28 +0200"
-    },
-    {
-      "title": "Festnahme nach Diebstahl aus einem Auto",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1673185.php",
-      "date": "Thu, 21 May 2026 12:44:16 +0200"
-    },
-    {
-      "title": "Fahrradfahrer bei Verkehrsunfall verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1673183.php",
-      "date": "Thu, 21 May 2026 12:41:21 +0200"
     }
   ],
   "free_events": [],
