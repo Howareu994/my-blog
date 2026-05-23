@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Bahnstrecke Berlin-Wittenberg wegen Böschungsbrand gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/bahnstrecke-berlin-halle-gesperrt-boeschungsbrand-brandenburg.html",
+      "date": "Sat, 23 May 2026 18:20:41 +0200"
+    },
+    {
       "title": "Lieferdienste: Uber will Delivery Hero kaufen",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/05/uber-will-delivery-hero-kaufen-berlin-uebernahme-angebot.html",
       "date": "Sat, 23 May 2026 17:16:00 +0200"
@@ -44,11 +49,6 @@
       "title": "\"Tunnel 29\": Berliner Fluchthelfer Hasso Herschel gestorben",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-brandenburg-fluchthelfer-hasso-herschel-gestorben.html",
       "date": "Fri, 22 May 2026 21:45:12 +0200"
-    },
-    {
-      "title": "Fördergeld-Affäre: Rechnungshof sieht \"krasse\" Fehler",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/05/berlin-foerdergeld-affaere-landesrechnungshof-krasse-fehler-kulturverwaltung.html",
-      "date": "Fri, 22 May 2026 21:32:24 +0200"
     }
   ],
   "police": [
