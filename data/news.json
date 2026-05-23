@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Bayern München gewinnt DFB-Pokalfinale in Berlin",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-dfb-pokal-finale-berlin-bayern-muenchen-vfb-stuttgart.html",
+      "date": "Sat, 23 May 2026 22:22:28 +0200"
+    },
+    {
+      "title": "Berliner Regisseurin Grisebach gewinnt Preis der Jury in Cannes",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/05/valeska-grisebach-preis-der-jury-cannes-filmfestival-berlin.html",
+      "date": "Sat, 23 May 2026 22:14:58 +0200"
+    },
+    {
       "title": "Lieferdienste: Uber will Delivery Hero kaufen",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/05/uber-will-delivery-hero-kaufen-berlin-uebernahme-angebot.html",
       "date": "Sat, 23 May 2026 17:16:00 +0200"
@@ -39,16 +49,6 @@
       "title": "Neues Pflegestudium in Eberswalde mit Ausbildung, Bachelor und Heilkunde",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/eberswalde-pflege-studium-heilpraktik-ausbildung.html",
       "date": "Sat, 23 May 2026 07:20:18 +0200"
-    },
-    {
-      "title": "\"Tunnel 29\": Berliner Fluchthelfer Hasso Herschel gestorben",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-brandenburg-fluchthelfer-hasso-herschel-gestorben.html",
-      "date": "Fri, 22 May 2026 21:45:12 +0200"
-    },
-    {
-      "title": "Fördergeld-Affäre: Rechnungshof sieht \"krasse\" Fehler",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/05/berlin-foerdergeld-affaere-landesrechnungshof-krasse-fehler-kulturverwaltung.html",
-      "date": "Fri, 22 May 2026 21:32:24 +0200"
     }
   ],
   "police": [
