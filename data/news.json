@@ -1,6 +1,36 @@
 {
   "traffic": [
     {
+      "title": "Nach Aufstieg: Energie Cottbus' To-Do-Liste für die 2. Bundesliga",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-zweite-liga-2-bundesliga-energie-cottbus-aufstieg-stadion-cigerci.html",
+      "date": "Sun, 24 May 2026 16:35:59 +0200"
+    },
+    {
+      "title": "Geburtsstunde der Kirche: Was wird eigentlich an Pfingsten gefeiert?",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-brandenburg-warum-pfingsten-kirche-chistentum.html",
+      "date": "Sun, 24 May 2026 16:18:53 +0200"
+    },
+    {
+      "title": "Berliner \"Staatsoper für alle\" bringt Chefdirigent Thielemann ins Schwitzen",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/05/staatsoper-fuer-alle-berlin-chefdirigent-thielemann.html",
+      "date": "Sun, 24 May 2026 15:59:14 +0200"
+    },
+    {
+      "title": "Livestream: Umzug zum Karneval der Kulturen 2026",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/05/livestream-karneval-der-kulturen-umzug-berlin-30-jahre.html",
+      "date": "Sun, 24 May 2026 15:56:38 +0200"
+    },
+    {
+      "title": "Verwaiste Autowracks in Berlin: Entsorgung ist nicht einfach",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-autowracks-strassenland-entsorgung-schrottautos.html",
+      "date": "Sun, 24 May 2026 15:42:55 +0200"
+    },
+    {
+      "title": "Spandauer Wasserballerinnen feiern siebte Meisterschaft in Folge",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/wasserball-deutscher-meister-wasserfreunde-spandau-04-bochum.html",
+      "date": "Sun, 24 May 2026 15:23:38 +0200"
+    },
+    {
       "title": "Alles neu im Tor von Energie: Funk geht, Sebald beendet Karriere",
       "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-2-bundesliga-energie-cottbus-marius-funk-alexander-sebald.html",
       "date": "Sun, 24 May 2026 13:35:30 +0200"
@@ -19,39 +49,19 @@
       "title": "CDU-Fraktionschef: Randbebauung ist Bedingung für künftige Koalition",
       "link": "https://www.rbb24.de/politik/beitrag/2026/05/berlin-kai-wegner-reaktion-tempelhofer-feld-randbebauung-initiat.html",
       "date": "Sun, 24 May 2026 10:47:44 +0200"
-    },
-    {
-      "title": "Deutsches Team trotz Sieg gegen Österreich vor dem WM-Aus",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/eishockey-wm-deutschland-oesterreich.html",
-      "date": "Sun, 24 May 2026 10:46:37 +0200"
-    },
-    {
-      "title": "Das sind die Schwachpunkte, Ziele & Konkurrenten von Hase/Volodin",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/eiskunstlauf-minerva-hase-nikita-volodin-machen-weiter-interview-experte-daniel-weiss.html",
-      "date": "Sun, 24 May 2026 10:19:12 +0200"
-    },
-    {
-      "title": "Verwaiste Autowracks in Berlin: Entsorgung ist nicht einfach",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-autowracks-strassenland-entsorgung-schrottautos.html",
-      "date": "Sun, 24 May 2026 07:25:00 +0200"
-    },
-    {
-      "title": "Bahnstrecke Berlin-Wittenberg nach Böschungsbrand wieder frei",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/bahnstrecke-berlin-halle-gesperrt-boeschungsbrand-brandenburg.html",
-      "date": "Sat, 23 May 2026 22:41:18 +0200"
-    },
-    {
-      "title": "Bayern München gewinnt DFB-Pokalfinale in Berlin",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-dfb-pokal-finale-berlin-bayern-muenchen-vfb-stuttgart.html",
-      "date": "Sat, 23 May 2026 22:22:28 +0200"
-    },
-    {
-      "title": "Berliner Regisseurin Grisebach gewinnt Preis der Jury in Cannes",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/05/valeska-grisebach-preis-der-jury-cannes-filmfestival-berlin.html",
-      "date": "Sat, 23 May 2026 22:14:58 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Verbotenes Kraftfahrzeugrennen – Fahrzeuge beschlagnahmt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1673836.php",
+      "date": "Sun, 24 May 2026 16:25:15 +0200"
+    },
+    {
+      "title": "Schussabgabe auf Bäckerei",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1673835.php",
+      "date": "Sun, 24 May 2026 15:11:26 +0200"
+    },
     {
       "title": "Motorradfahrer bei Verkehrsunfall lebensgefährlich verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1673834.php",
@@ -91,16 +101,6 @@
       "title": "Handwerker von Bewohnerin beleidigt, eingesperrt und bedroht",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1673662.php",
       "date": "Fri, 22 May 2026 14:42:59 +0200"
-    },
-    {
-      "title": "Schüsse auf fahrendes Auto",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1673483.php",
-      "date": "Fri, 22 May 2026 11:03:39 +0200"
-    },
-    {
-      "title": "Autodiebe auf frischer Tat festgenommen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1673477.php",
-      "date": "Fri, 22 May 2026 10:48:01 +0200"
     }
   ],
   "free_events": [],
