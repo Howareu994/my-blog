@@ -1,9 +1,19 @@
 {
   "traffic": [
     {
+      "title": "Motorradfahrer kommt in Barnim von Straße ab und stirbt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/barnim-motorradfahrer-unfall-strasse.html",
+      "date": "Mon, 25 May 2026 15:09:00 +0200"
+    },
+    {
+      "title": "Leiche beim Mähen in Potsdam-Mittelmark entdeckt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/leiche-maehen-wiese-golzow-potsdam-mittelmark.html",
+      "date": "Mon, 25 May 2026 14:55:31 +0200"
+    },
+    {
       "title": "Frau in Berlin erschossen - 84-jähriger Ehemann festgenommen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-lichtenrade-frau-tot-wohnung-festnahme-ehemann.html",
-      "date": "Mon, 25 May 2026 13:07:59 +0200"
+      "date": "Mon, 25 May 2026 13:55:27 +0200"
     },
     {
       "title": "Wildkamera führt Förster zu illegaler Party in Grünheide",
@@ -13,7 +23,7 @@
     {
       "title": "Berlin: In 1.000 Fällen Bußgelder wegen illegalem Müll erhoben",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/muell-strafe-bezirke-geld-berlin.html",
-      "date": "Mon, 25 May 2026 11:04:27 +0200"
+      "date": "Mon, 25 May 2026 11:04:00 +0200"
     },
     {
       "title": "Hunderttausende beim Karneval der Kulturen in Berlin",
@@ -39,19 +49,14 @@
       "title": "BBL-Viertelfinale: Alba Berlin erzwingt gegen Vechta Spiel fünf",
       "link": "https://www.rbb24.de/sport/beitrag/2026/05/alba-berlin-rasta-vechta-basketball-bundesliga-playoff-viertelfinale.html",
       "date": "Sun, 24 May 2026 21:20:02 +0200"
-    },
-    {
-      "title": "Berliner \"Staatsoper für alle\" bringt Chefdirigent Thielemann ins Schwitzen",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/05/staatsoper-fuer-alle-berlin-chefdirigent-thielemann.html",
-      "date": "Sun, 24 May 2026 18:44:52 +0200"
-    },
-    {
-      "title": "SEK-Einsatz: Mann in Berlin bedroht Kinder mutmaßlich mit Waffe",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/mann-bedroht-kinder-waffe-berlin-sek-einsatz.html",
-      "date": "Sun, 24 May 2026 18:02:17 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Mann erleidet lebensbedrohliche Verletzungen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1673849.php",
+      "date": "Mon, 25 May 2026 14:51:34 +0200"
+    },
     {
       "title": "DEIG-Einsatz nach gefährlicher Körperverletzung",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1673848.php",
@@ -96,11 +101,6 @@
       "title": "Reizstoff in Straßenbahn versprüht",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1673831.php",
       "date": "Sat, 23 May 2026 12:59:15 +0200"
-    },
-    {
-      "title": "Hauswand beschmiert – Festnahme",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1673830.php",
-      "date": "Sat, 23 May 2026 11:15:34 +0200"
     }
   ],
   "free_events": [],
