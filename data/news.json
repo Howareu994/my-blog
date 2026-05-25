@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Eishockey-WM: DEB-Team trotz Pflichtsieg gegen Briten vor dem Aus",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/eishockey-wm-deutschland-grossbritannien-deb-eisbaeren.html",
+      "date": "Mon, 25 May 2026 23:02:01 +0200"
+    },
+    {
       "title": "Karneval der Kulturen in Berlin: Mehr als eine Million Besucher",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/05/karneval-der-kulturen-2026-berlin-friedrichshain-umzug.html",
       "date": "Mon, 25 May 2026 18:57:32 +0200"
@@ -44,11 +49,6 @@
       "title": "Dieselbusse auf Elektro umrüsten: Günstiger als neue E-Busse?",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/05/bvg-bus-diesel-umruestung-elektro-oepnv-nahverkehr.html",
       "date": "Mon, 25 May 2026 07:26:13 +0200"
-    },
-    {
-      "title": "Berliner Polizist rast zum Dienst - Führerschein weg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-polizist-raser-a113.html",
-      "date": "Sun, 24 May 2026 22:06:46 +0200"
     }
   ],
   "police": [
