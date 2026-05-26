@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Mann stirbt bei Verkehrsunfall auf der A12",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brandenburg-toter-verkehrsunfall-autobahn-12.html",
+      "date": "Tue, 26 May 2026 21:04:09 +0200"
+    },
+    {
+      "title": "Fußball: Steglitz GB II in Kreisliga C weiter punktlos",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-kreisliga-c-steglitz-gb-ii-schlechteste-mannschaft-berlins-punktlos-torverhaeltnis.html",
+      "date": "Tue, 26 May 2026 20:38:14 +0200"
+    },
+    {
+      "title": "Wie die Fernwärme in Berlin klimaneutral werden soll",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/05/berlin-fernwaerme-klimaneutral-bew-dekarbonisierung.html",
+      "date": "Tue, 26 May 2026 19:52:50 +0200"
+    },
+    {
       "title": "Brandenburger Wirtschaft drängt auf Bewerbung für Expo 2035",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/05/expo-2035-berlin-brandenburg-wirtschaft.html",
       "date": "Tue, 26 May 2026 19:11:45 +0200"
@@ -11,9 +26,9 @@
       "date": "Tue, 26 May 2026 18:46:36 +0200"
     },
     {
-      "title": "Burkhard Kieker von \"Visit Berlin\": \"Liebe Berliner: Wartet schon mal auf die Inder\"",
+      "title": "Tourismus: Burkhard Kieker von Visit Berlin im Interview",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/05/visit-berlin-burkhard-kieker-tourismus-reisen-abgang.html",
-      "date": "Tue, 26 May 2026 17:57:18 +0200"
+      "date": "Tue, 26 May 2026 17:57:00 +0200"
     },
     {
       "title": "Mann in Berlin verschleppt: Tatverdächtiger festgenommen",
@@ -34,24 +49,60 @@
       "title": "Erneut Schüsse auf offener Straße in Berlin",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/schuesse-in-berlin-kreuzberg-urbanstrasse-graefestrasse.html",
       "date": "Tue, 26 May 2026 17:02:09 +0200"
-    },
-    {
-      "title": "Experte über Football-Chaos in Europa: \"Alle Teams sind gefährdet\"",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/american-football-nfl-efl-efa-afle-berlin-thunder-sebastian-muehlenhof.html",
-      "date": "Tue, 26 May 2026 16:26:00 +0200"
-    },
-    {
-      "title": "Lausitz-Velodrom wird vor Europameisterschaft saniert",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/lausitz-velodrom-cottbus-saniert-europameisterschaft.html",
-      "date": "Tue, 26 May 2026 16:21:57 +0200"
-    },
-    {
-      "title": "Verdi ruft zu Warnstreiks bei der Postbank auf - Kundgebung in Berlin",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/05/streik-postbank-verdi.html",
-      "date": "Tue, 26 May 2026 16:20:15 +0200"
     }
   ],
-  "police": [],
+  "police": [
+    {
+      "title": "Mutmaßliches Gewaltverbrechen – Tatverdächtiger festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1668704.php",
+      "date": "Tue, 26 May 2026 16:59:00 +0200"
+    },
+    {
+      "title": "Mit Schere bedroht – DEIG Einsatz",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1674123.php",
+      "date": "Tue, 26 May 2026 13:33:21 +0200"
+    },
+    {
+      "title": "Schüsse vor Lokal",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1674083.php",
+      "date": "Tue, 26 May 2026 12:50:30 +0200"
+    },
+    {
+      "title": "Antisemitischer Angriff – Zeuginnen und Zeugen gesucht",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1674081.php",
+      "date": "Tue, 26 May 2026 12:49:44 +0200"
+    },
+    {
+      "title": "Schussabgaben auf Personen – Zeuginnen und Zeugen gesucht",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1674077.php",
+      "date": "Tue, 26 May 2026 12:43:12 +0200"
+    },
+    {
+      "title": "Mann mit Waffe bedroht",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1674076.php",
+      "date": "Tue, 26 May 2026 12:39:35 +0200"
+    },
+    {
+      "title": "Fensterscheiben eines Anti-Gewalt-Projekts beschädigt und beschmiert",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1674049.php",
+      "date": "Tue, 26 May 2026 12:18:25 +0200"
+    },
+    {
+      "title": "Raub in Lieferdienstfiliale",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1674007.php",
+      "date": "Tue, 26 May 2026 11:24:44 +0200"
+    },
+    {
+      "title": "Mann erleidet lebensbedrohliche Verletzungen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1673849.php",
+      "date": "Mon, 25 May 2026 14:51:34 +0200"
+    },
+    {
+      "title": "DEIG-Einsatz nach gefährlicher Körperverletzung",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1673848.php",
+      "date": "Mon, 25 May 2026 12:25:29 +0200"
+    }
+  ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
