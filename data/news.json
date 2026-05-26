@@ -1,57 +1,92 @@
 {
   "traffic": [
     {
-      "title": "Denkmal- und Klimaschutz: Brandenburgs Hochschulen brauchen Millionen für Sanierungen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/hochschule-universitaet-sanierung.html",
-      "date": "Tue, 26 May 2026 08:29:56 +0200"
+      "title": "Experte über Football-Chaos in Europa: \"Alle Teams sind gefährdet\"",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/american-football-nfl-efl-efa-afle-berlin-thunder-sebastian-muehlenhof.html",
+      "date": "Tue, 26 May 2026 15:40:51 +0200"
     },
     {
-      "title": "Erneut Schüsse in Berlin auf offener Straße gefallen",
+      "title": "Cannabis-Social-Club: Erste legale Cannabis-Ausgabe in Frankfurt (Oder)",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/frankfurt-oder-social-cannabis-club-erste-ernte-oderblueten-pflanzen.html",
+      "date": "Tue, 26 May 2026 15:23:46 +0200"
+    },
+    {
+      "title": "Deutsches Eishockeyteam scheidet erneut nach der WM-Gruppenphase aus",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/eishockey-wm-deutschland-aus-vorrunde-eisbaeren-berlin.html",
+      "date": "Tue, 26 May 2026 15:17:25 +0200"
+    },
+    {
+      "title": "Staatsanwaltschaft Potsdam ermittelt gegen Christian Ulmen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/fernandes-ulmen-ermittlungen-gewalt-potsdam.html",
+      "date": "Tue, 26 May 2026 15:11:00 +0200"
+    },
+    {
+      "title": "Bildergalerie - Der Mord an Hatun Sürücü",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/bildergalerie-berlin-mord-hatun-sueruecue-uebersicht.html",
+      "date": "Tue, 26 May 2026 14:31:02 +0200"
+    },
+    {
+      "title": "15-jähriger Mopedfahrer stirbt bei Unfall bei Bad Freienwalde",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/maerkisch-oderland-bad-freienwalde-unfall-mopedfahrer-stirbt.html",
+      "date": "Tue, 26 May 2026 14:22:18 +0200"
+    },
+    {
+      "title": "Erneut Schüsse auf offener Straße in Berlin",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/schuesse-in-berlin-kreuzberg-urbanstrasse-graefestrasse.html",
-      "date": "Tue, 26 May 2026 08:08:05 +0200"
+      "date": "Tue, 26 May 2026 14:10:55 +0200"
     },
     {
-      "title": "Neue rbb-Spätsendung: Interview mit Dirk Platt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/interview-rbb-dirk-platt-neue-abend-sendung.html",
-      "date": "Tue, 26 May 2026 08:00:39 +0200"
+      "title": "Rittberger und Olympiasieger: Wie Potsdam den Eiskunstlauf prägte",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/eiskunstlauf-werner-rittberger-sprung-figur-potsdam-olympiasieg.html",
+      "date": "Tue, 26 May 2026 12:38:52 +0200"
     },
     {
-      "title": "20 Jahre Berliner Hauptbahnhof: Der ewig Unfertige",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/20-jahre-berlin-hauptbahnhof.html",
-      "date": "Tue, 26 May 2026 07:56:09 +0200"
+      "title": "Iran-Krieg: Bauernpräsident warnt vor steigenden Kosten durch Düngemittel-Knappheit",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/05/duenger-engpass-ernte-iran-krieg.html",
+      "date": "Tue, 26 May 2026 12:38:05 +0200"
     },
     {
-      "title": "Bildergalerie: Vom Lehrter Bahnhof zum Berliner Hauptbahnhof",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/hauptbahnhof-lehrter-bahnhof-bilder-galerie-uebersicht.html",
-      "date": "Tue, 26 May 2026 07:25:02 +0200"
-    },
-    {
-      "title": "In eigener Sache: rbb stärkt regionale Live-Berichterstattung",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/rbb-staerkt-regionale-live-berichterstattung.html",
-      "date": "Tue, 26 May 2026 07:22:00 +0200"
-    },
-    {
-      "title": "Berliner Digital Officer Hundt: Frühere Unternehmer-Tätigkeit wirft Fragen auf",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/05/berlin-digital-officer-matthias-hundt-staatssekretaer-unternehmen.html",
-      "date": "Tue, 26 May 2026 06:25:00 +0200"
-    },
-    {
-      "title": "Eishockey-WM: DEB-Team trotz Pflichtsieg gegen Briten vor dem Aus",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/eishockey-wm-deutschland-grossbritannien-deb-eisbaeren.html",
-      "date": "Mon, 25 May 2026 23:02:01 +0200"
-    },
-    {
-      "title": "Karneval der Kulturen in Berlin: Mehr als eine Million Besucher",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/05/karneval-der-kulturen-2026-berlin-friedrichshain-umzug.html",
-      "date": "Mon, 25 May 2026 18:57:32 +0200"
-    },
-    {
-      "title": "Handball-Experte: \"Anderssons Abgang tut den Füchsen Berlin extrem weh\"",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/champions-league-handball-bundesliga-hbl-fuechse-berlin-lasse-andersson.html",
-      "date": "Mon, 25 May 2026 18:04:34 +0200"
+      "title": "Mikrozensus 2025: Viele Berliner und Brandenburger leben allein",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-brandenburg-mikrozensus-einpersonenhaushalte.html",
+      "date": "Tue, 26 May 2026 12:03:12 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Mit Schere bedroht – DEIG Einsatz",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1674123.php",
+      "date": "Tue, 26 May 2026 13:33:21 +0200"
+    },
+    {
+      "title": "Schüsse vor Lokal",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1674083.php",
+      "date": "Tue, 26 May 2026 12:50:30 +0200"
+    },
+    {
+      "title": "Antisemitischer Angriff – Zeuginnen und Zeugen gesucht",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1674081.php",
+      "date": "Tue, 26 May 2026 12:49:44 +0200"
+    },
+    {
+      "title": "Schussabgaben auf Personen – Zeuginnen und Zeugen gesucht",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1674077.php",
+      "date": "Tue, 26 May 2026 12:43:12 +0200"
+    },
+    {
+      "title": "Mann mit Waffe bedroht",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1674076.php",
+      "date": "Tue, 26 May 2026 12:39:35 +0200"
+    },
+    {
+      "title": "Fensterscheiben eines Anti-Gewalt-Projekts beschädigt und beschmiert",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1674049.php",
+      "date": "Tue, 26 May 2026 12:18:25 +0200"
+    },
+    {
+      "title": "Raub in Lieferdienstfiliale",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1674007.php",
+      "date": "Tue, 26 May 2026 11:24:44 +0200"
+    },
     {
       "title": "Mann erleidet lebensbedrohliche Verletzungen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1673849.php",
@@ -66,41 +101,6 @@
       "title": "Frau tot in Wohnung aufgefunden – Ehemann festgenommen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1673847.php",
       "date": "Mon, 25 May 2026 12:14:50 +0200"
-    },
-    {
-      "title": "Zeugenaufruf zum Fall der seit 2000 vermissten Sandra Wißmann",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1673484.php",
-      "date": "Mon, 25 May 2026 10:15:00 +0200"
-    },
-    {
-      "title": "Verbotenes Kraftfahrzeugrennen – Fahrzeuge beschlagnahmt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1673836.php",
-      "date": "Sun, 24 May 2026 16:25:15 +0200"
-    },
-    {
-      "title": "Schussabgabe auf Bäckerei",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1673835.php",
-      "date": "Sun, 24 May 2026 15:11:26 +0200"
-    },
-    {
-      "title": "Motorradfahrer bei Verkehrsunfall lebensgefährlich verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1673834.php",
-      "date": "Sun, 24 May 2026 14:43:55 +0200"
-    },
-    {
-      "title": "Kinder mit Waffe bedroht – SEK-Einsatz",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1673833.php",
-      "date": "Sun, 24 May 2026 14:22:39 +0200"
-    },
-    {
-      "title": "Homophob beleidigt und Reizstoff ins Gesicht gesprüht",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1673832.php",
-      "date": "Sat, 23 May 2026 13:29:50 +0200"
-    },
-    {
-      "title": "Reizstoff in Straßenbahn versprüht",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1673831.php",
-      "date": "Sat, 23 May 2026 12:59:15 +0200"
     }
   ],
   "free_events": [],
