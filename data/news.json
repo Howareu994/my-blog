@@ -1,9 +1,14 @@
 {
   "traffic": [
     {
-      "title": "Mann stirbt bei Verkehrsunfall auf der A12",
+      "title": "Fahrer eines Pferdetransporters stirbt bei Unfall auf der A12",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brandenburg-toter-verkehrsunfall-autobahn-12.html",
-      "date": "Tue, 26 May 2026 21:04:09 +0200"
+      "date": "Tue, 26 May 2026 22:07:47 +0200"
+    },
+    {
+      "title": "Lottospieler aus Potsdam gewinnt über zwei Millionen Euro",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/lotto-gewinn-spieler-potsdam-zwei-millionen-euro-brandenburg.html",
+      "date": "Tue, 26 May 2026 22:00:14 +0200"
     },
     {
       "title": "Fußball: Steglitz GB II in Kreisliga C weiter punktlos",
@@ -44,11 +49,6 @@
       "title": "Langer Stall in Potsdams neuem Kreativquartier ist komplett vermietet",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/05/langer-stall-potsdam-hat-eroeffnet.html",
       "date": "Tue, 26 May 2026 17:12:52 +0200"
-    },
-    {
-      "title": "Erneut Schüsse auf offener Straße in Berlin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/schuesse-in-berlin-kreuzberg-urbanstrasse-graefestrasse.html",
-      "date": "Tue, 26 May 2026 17:02:09 +0200"
     }
   ],
   "police": [
