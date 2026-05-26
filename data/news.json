@@ -1,6 +1,41 @@
 {
   "traffic": [
     {
+      "title": "Denkmal- und Klimaschutz: Brandenburgs Hochschulen brauchen Millionen für Sanierungen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/hochschule-universitaet-sanierung.html",
+      "date": "Tue, 26 May 2026 08:29:56 +0200"
+    },
+    {
+      "title": "Erneut Schüsse in Berlin auf offener Straße gefallen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/schuesse-in-berlin-kreuzberg-urbanstrasse-graefestrasse.html",
+      "date": "Tue, 26 May 2026 08:08:05 +0200"
+    },
+    {
+      "title": "Neue rbb-Spätsendung: Interview mit Dirk Platt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/interview-rbb-dirk-platt-neue-abend-sendung.html",
+      "date": "Tue, 26 May 2026 08:00:39 +0200"
+    },
+    {
+      "title": "20 Jahre Berliner Hauptbahnhof: Der ewig Unfertige",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/20-jahre-berlin-hauptbahnhof.html",
+      "date": "Tue, 26 May 2026 07:56:09 +0200"
+    },
+    {
+      "title": "Bildergalerie: Vom Lehrter Bahnhof zum Berliner Hauptbahnhof",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/hauptbahnhof-lehrter-bahnhof-bilder-galerie-uebersicht.html",
+      "date": "Tue, 26 May 2026 07:25:02 +0200"
+    },
+    {
+      "title": "In eigener Sache: rbb stärkt regionale Live-Berichterstattung",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/rbb-staerkt-regionale-live-berichterstattung.html",
+      "date": "Tue, 26 May 2026 07:22:00 +0200"
+    },
+    {
+      "title": "Berliner Digital Officer Hundt: Frühere Unternehmer-Tätigkeit wirft Fragen auf",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/05/berlin-digital-officer-matthias-hundt-staatssekretaer-unternehmen.html",
+      "date": "Tue, 26 May 2026 06:25:00 +0200"
+    },
+    {
       "title": "Eishockey-WM: DEB-Team trotz Pflichtsieg gegen Briten vor dem Aus",
       "link": "https://www.rbb24.de/sport/beitrag/2026/05/eishockey-wm-deutschland-grossbritannien-deb-eisbaeren.html",
       "date": "Mon, 25 May 2026 23:02:01 +0200"
@@ -14,41 +49,6 @@
       "title": "Handball-Experte: \"Anderssons Abgang tut den Füchsen Berlin extrem weh\"",
       "link": "https://www.rbb24.de/sport/beitrag/2026/05/champions-league-handball-bundesliga-hbl-fuechse-berlin-lasse-andersson.html",
       "date": "Mon, 25 May 2026 18:04:34 +0200"
-    },
-    {
-      "title": "Sommerliche Temperaturen erhöhen Waldbrandgefahr in Brandenburg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/waldbrandgefahr-brandenburg-temperaturen-wetter.html",
-      "date": "Mon, 25 May 2026 17:00:00 +0200"
-    },
-    {
-      "title": "Motorradfahrer kommt in Barnim von Straße ab und stirbt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/barnim-motorradfahrer-unfall-strasse.html",
-      "date": "Mon, 25 May 2026 15:09:00 +0200"
-    },
-    {
-      "title": "Leiche beim Mähen in Potsdam-Mittelmark entdeckt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/leiche-maehen-wiese-golzow-potsdam-mittelmark.html",
-      "date": "Mon, 25 May 2026 14:55:31 +0200"
-    },
-    {
-      "title": "Frau in Berlin erschossen - 84-jähriger Ehemann festgenommen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-lichtenrade-frau-tot-wohnung-festnahme-ehemann.html",
-      "date": "Mon, 25 May 2026 13:55:27 +0200"
-    },
-    {
-      "title": "Wildkamera führt Förster zu illegaler Party in Grünheide",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/illegale-party-wildtierkamera-polizei-brandenburg.html",
-      "date": "Mon, 25 May 2026 12:23:32 +0200"
-    },
-    {
-      "title": "Berlin: In 1.000 Fällen Bußgelder wegen illegalem Müll erhoben",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/muell-strafe-bezirke-geld-berlin.html",
-      "date": "Mon, 25 May 2026 11:04:00 +0200"
-    },
-    {
-      "title": "Dieselbusse auf Elektro umrüsten: Günstiger als neue E-Busse?",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/05/bvg-bus-diesel-umruestung-elektro-oepnv-nahverkehr.html",
-      "date": "Mon, 25 May 2026 07:26:13 +0200"
     }
   ],
   "police": [
