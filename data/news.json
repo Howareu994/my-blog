@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Demokratieprojekte in Brandenburg bangen weiter um Finanzierung",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/05/foerderprogramm-demokratie-leben-demokratieprojekte-sorge-finanzierung-bundesbildungsministerin-prien-woidke-brandenburg.html",
+      "date": "Thu, 28 May 2026 20:58:48 +0200"
+    },
+    {
       "title": "Trendsport Hyrox - Sportmediziner im Interview",
       "link": "https://www.rbb24.de/sport/beitrag/2026/05/hyrox-gefahr-verletzung-interview-sportarzt-olympische-spiele-bernd-wolfarth.html",
       "date": "Thu, 28 May 2026 19:15:54 +0200"
@@ -44,14 +49,14 @@
       "title": "Neuer Mietspiegel in Berlin: Mittlere Nettokaltmiete steigt um fast sieben Prozent",
       "link": "https://www.rbb24.de/politik/beitrag/2026/05/berlin-mietspiegel-wohnungen-nettokaltmiete.html",
       "date": "Thu, 28 May 2026 15:22:49 +0200"
-    },
-    {
-      "title": "Staatsanwaltschaft ermittelt: Wegner verteidigt Einstellung von Ex-Staatssekretär Hundt",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/05/berlin-regierender-buergermeister-wegner-entlassung-digitalisierungsstaatssekretaer-hundt.html",
-      "date": "Thu, 28 May 2026 15:22:35 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Kind vermisst – Polizei bittet um Mithilfe",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1675397.php",
+      "date": "Thu, 28 May 2026 21:00:00 +0200"
+    },
     {
       "title": "Senior vermisst – Polizei bittet um Mithilfe",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1675296.php",
@@ -96,11 +101,6 @@
       "title": "Mann nach Verkehrsunfall verstorben",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1674439.php",
       "date": "Wed, 27 May 2026 10:09:34 +0200"
-    },
-    {
-      "title": "Mann nach Gewalttat gesucht – Polizei bittet um Mithilfe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1674407.php",
-      "date": "Wed, 27 May 2026 09:28:17 +0200"
     }
   ],
   "free_events": [],
