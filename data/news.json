@@ -1,57 +1,67 @@
 {
   "traffic": [
     {
-      "title": "Bahnverkehr zwischen Hamburg und Berlin läuft wieder störungsfrei",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/bahn-strecke-berlin-hamburg-stellwerk-ausfall-stoerung.html",
-      "date": "Thu, 28 May 2026 08:39:58 +0200"
+      "title": "Verbraucherzentrale Brandenburg mahnt Eberswalder Wurst und Kaufland ab",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/05/eberswalder-wurst-verbraucher-zentrale-taueschung-abmahnung.html",
+      "date": "Thu, 28 May 2026 12:11:00 +0200"
     },
     {
-      "title": "Radfahrer durch Krankenwagen lebensgefährlich verletzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-wilmersdorf-unfall-krankenwagen-radfahrer-verletzt.html",
-      "date": "Thu, 28 May 2026 08:32:44 +0200"
+      "title": "Neuer Mietspiegel in Berlin: Mittlere Nettokaltmiete steigt um fast sieben Prozent",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/05/berlin-mietspiegel-wohnungen-nettokaltmiete.html",
+      "date": "Thu, 28 May 2026 12:09:00 +0200"
+    },
+    {
+      "title": "Berlin schafft weit weniger Fahrradstellplätze als geplant",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-schafft-weniger-fahrradstellplaetze-als-geplant.html",
+      "date": "Thu, 28 May 2026 11:59:43 +0200"
+    },
+    {
+      "title": "Chip- und Registrierungspflicht: Brandenburg an der Havel lehnt geplante Katzenschutzverordnung ab",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brandenburg-havel-plant-katzenschutzverordnung.html",
+      "date": "Thu, 28 May 2026 11:45:50 +0200"
+    },
+    {
+      "title": "Lola: Deutscher Filmpreis wird in Berlin vergeben",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/05/berlin-deutscher-filmpreis-lola-preisverleihung-messe-funkturm.html",
+      "date": "Thu, 28 May 2026 11:45:00 +0200"
+    },
+    {
+      "title": "Woidke fordert gemeinsames Konzept für Expo in Hauptstadtregion",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/05/woidke-expo-neues-konzept-brandenburg-berlin.html",
+      "date": "Thu, 28 May 2026 11:04:34 +0200"
+    },
+    {
+      "title": "Ebola-Patient in Charité auf dem Weg der Besserung",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-charite-ebola-patient-gesundheitszustand-besser.html",
+      "date": "Thu, 28 May 2026 10:23:16 +0200"
+    },
+    {
+      "title": "13 Jahre Haft für frühere RAF-Terroristin Daniela Klette",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/prozess-urteil-daniela-klette.html",
+      "date": "Thu, 28 May 2026 10:11:03 +0200"
     },
     {
       "title": "Lkw-Unfall auf Kaiserdamm in Berlin-Charlottenburg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-charlottenburg-kaiserdamm-unfall-lkw-polizei.html",
-      "date": "Thu, 28 May 2026 08:26:52 +0200"
+      "date": "Thu, 28 May 2026 09:36:34 +0200"
     },
     {
-      "title": "Neues Projekt: \"Safe-Space\"-Apotheken als erste Hilfe bei psychischen Problemen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/seelische-gesundheit-junge-menschen-safe-space-apotheken-berlin-brandenburg.html",
-      "date": "Thu, 28 May 2026 08:13:25 +0200"
-    },
-    {
-      "title": "\"Die meisten psychischen Erkrankungen beginnen im Kindes- und Jugendalter\"",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/interview-daniel-illy-kinder-jugendliche-psychische-erkrankungen-safe-space-apotheken.html",
-      "date": "Thu, 28 May 2026 07:22:01 +0200"
-    },
-    {
-      "title": "Basketball-Bundesliga: Alba Berlin gewinnt gegen Vechta",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/basketball-bundesliga-playoffs-alba-berlin-rasta-vechta.html",
-      "date": "Wed, 27 May 2026 23:35:37 +0200"
-    },
-    {
-      "title": "Schauspielerin Swetlana Schönfeld gestorben",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/05/swetlana-schoenfeld-gestorben-schauspielerin-berlin.html",
-      "date": "Wed, 27 May 2026 21:48:02 +0200"
-    },
-    {
-      "title": "Haftstrafen nach Millionendiebstahl bei Geldtransport-Firma in Berlin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/haftstrafen-millionen-diebstahl-geldtransport-firma-urteil-berlin-lichtenberg.html",
-      "date": "Wed, 27 May 2026 19:26:46 +0200"
-    },
-    {
-      "title": "Ebola-Patient in der Charité geht es besser",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-charite-ebola-patient-gesundheitszustand-besser.html",
-      "date": "Wed, 27 May 2026 19:23:53 +0200"
-    },
-    {
-      "title": "Ost-Länder fordern Ausbau der Bahnverbindungen nach Polen",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/05/ostdeutsche-buendeslaender-polen-bahn-brandenburg.html",
-      "date": "Wed, 27 May 2026 18:53:40 +0200"
+      "title": "Ex-Alba-Spieler Femerling will Mädchen-Basketball fördern",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/interview-patrick-femerling-friedenauer-tsc-maedchen-u16-trainer.html",
+      "date": "Thu, 28 May 2026 09:33:34 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Mann bei Verkehrsunfall verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1675106.php",
+      "date": "Thu, 28 May 2026 12:16:00 +0200"
+    },
+    {
+      "title": "Zwei Männer nach räuberischem Diebstahl gesucht – Polizei bittet um Mithilfe",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1674985.php",
+      "date": "Thu, 28 May 2026 09:43:59 +0200"
+    },
     {
       "title": "E-Scooter-Fahrer bei Verkehrsunfall verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1674885.php",
@@ -91,16 +101,6 @@
       "title": "Schüsse vor Lokal",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1674083.php",
       "date": "Tue, 26 May 2026 12:50:30 +0200"
-    },
-    {
-      "title": "Antisemitischer Angriff – Zeuginnen und Zeugen gesucht",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1674081.php",
-      "date": "Tue, 26 May 2026 12:49:44 +0200"
-    },
-    {
-      "title": "Schussabgaben auf Personen – Zeuginnen und Zeugen gesucht",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1674077.php",
-      "date": "Tue, 26 May 2026 12:43:12 +0200"
     }
   ],
   "free_events": [],
