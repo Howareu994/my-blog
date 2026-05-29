@@ -1,9 +1,19 @@
 {
   "traffic": [
     {
-      "title": "Erste indische Pflegekräfte arbeiten in Seniorenheim am Schwielochsee",
+      "title": "Sieg in Eisenach: Füchse Berlin bleiben auf Champions-League-Kurs",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/berlin-sport-handball-fuechse-eisenach-spielbericht.html",
+      "date": "Fri, 29 May 2026 22:09:23 +0200"
+    },
+    {
+      "title": "Berliner Digitalstaatssekretär Hundt nimmt Bitte um Entlassung zurück",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/05/berlin-digital-staatssekretaer-hundt-nimmt-entlassung-zurueck.html",
+      "date": "Fri, 29 May 2026 22:04:03 +0200"
+    },
+    {
+      "title": "Erste indische Pflegekräfte arbeiten in Seniorenheim am Schwielowsee",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brandenburg-pflegefachkraefte-aus-indien-pilotprojekt-hoffbauer.html",
-      "date": "Fri, 29 May 2026 19:52:45 +0200"
+      "date": "Fri, 29 May 2026 19:52:00 +0200"
     },
     {
       "title": "Streit zweier Gruppen in Berlin-Wilmersdorf - 18-Jähriger lebensgefährlich verletzt",
@@ -39,16 +49,6 @@
       "title": "Vier Jugendliche nach Schüssen in Berlin-Kreuzberg festgenommen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-festnahmen-nach-schuessen-kreuzberg-verletzter.html",
       "date": "Fri, 29 May 2026 16:40:11 +0200"
-    },
-    {
-      "title": "Dreijähriger bei Busunfall in Caputh lebensgefährlich verletzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/unfall-caputh-dreijaehriges-kind-reisebus-schwer-verletzt.html",
-      "date": "Fri, 29 May 2026 16:11:40 +0200"
-    },
-    {
-      "title": "Berliner Linke startet offiziell in den Wahlkampf",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/linke-wahlkampf-auftakt-elif-eralp.html",
-      "date": "Fri, 29 May 2026 16:10:37 +0200"
     }
   ],
   "police": [
