@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Berliner Polizist von flüchtendem Autofahrer angefahren - Schuss löst sich aus Waffe",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-haselhorst-polizei-verfolgungsfahrt-schussabgabe.html",
+      "date": "Sat, 30 May 2026 15:02:13 +0200"
+    },
+    {
+      "title": "\"Stand außer Frage\": Demokratiefest in Bad Freienwalde ein Jahr nach Angriff",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brandenburg-bad-freienwalde-demokratie-vielfalt-fest-angriff-rechtsextrem.html",
+      "date": "Sat, 30 May 2026 14:55:50 +0200"
+    },
+    {
+      "title": "Bildergalerie | Verleihung der Lola: So war der Deutsche Filmpreis 2026",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/05/lola-deutscher-film-preis-verleihung-messe-berlin.html",
+      "date": "Sat, 30 May 2026 13:26:35 +0200"
+    },
+    {
       "title": "Erster BSW-Parteitag nach Koalitionsbruch: Abrechnung oder Aufbruch",
       "link": "https://www.rbb24.de/politik/beitrag/2026/05/brandenburg-bsw-parteitag-cottbus-konkurrenzkampf-parteispitze.html",
       "date": "Sat, 30 May 2026 13:00:01 +0200"
@@ -8,7 +23,7 @@
     {
       "title": "Verbundeinsatz mit Sondereinheit \"Ferrum\" führt zu Festnahmen in Berlin",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-verbund-einsatz-polizei-ferrum-kontrolle-waffen-festnahmen.html",
-      "date": "Sat, 30 May 2026 12:16:45 +0200"
+      "date": "Sat, 30 May 2026 12:16:00 +0200"
     },
     {
       "title": "Prignitz: Wie ein Defibrillatoren-Projekt in einem Dorf Leben retten soll",
@@ -34,24 +49,19 @@
       "title": "Hyrox in Berlin: Der Fitness-Hype im Flughafen Tempelhof",
       "link": "https://www.rbb24.de/sport/beitrag/2026/05/hyrox-berlin-fitness-flughafen-tempelhof-reportage-hype.html",
       "date": "Sat, 30 May 2026 11:02:00 +0200"
-    },
-    {
-      "title": "Neuer Newcastle-Fall in Oder-Spree - 315.000 Hähnchen werden getötet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brandenburg-oder-spree-neuer-fall-newcastle-krankheit.html",
-      "date": "Sat, 30 May 2026 10:46:01 +0200"
-    },
-    {
-      "title": "Neue Baustellenschilder in Berlin sollen mehr Transparenz bringen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-neue-baustellen-schilder-transparenz-infos-bauprojekt.html",
-      "date": "Sat, 30 May 2026 10:28:20 +0200"
-    },
-    {
-      "title": "Gitte Haenning im Tipi am Kanzleramt: Schlagerlegende feiert 80.",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/05/konzert-gitte-haenning-berlin-tipi-kanzleramt.html",
-      "date": "Sat, 30 May 2026 08:58:00 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Tätlicher Angriff auf Einsatzkräfte – DEIG-Einsatz",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1675848.php",
+      "date": "Sat, 30 May 2026 14:33:48 +0200"
+    },
+    {
+      "title": "Polizist von flüchtendem Auto angefahren – Schussabgabe",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1675847.php",
+      "date": "Sat, 30 May 2026 14:04:47 +0200"
+    },
     {
       "title": "Verkehrsunfall während einer Eilfahrt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1675846.php",
@@ -91,16 +101,6 @@
       "title": "Festnahmen nach Körperverletzung und Widerstand",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1675286.php",
       "date": "Thu, 28 May 2026 15:16:38 +0200"
-    },
-    {
-      "title": "Verkehrsunfall mit drei Verletzten",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1675212.php",
-      "date": "Thu, 28 May 2026 14:34:08 +0200"
-    },
-    {
-      "title": "Mann bei Verkehrsunfall verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1675106.php",
-      "date": "Thu, 28 May 2026 12:16:00 +0200"
     }
   ],
   "free_events": [],
