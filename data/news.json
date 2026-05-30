@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "CSD zieht zum siebten Mal durch Frankfurt und Slubice",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/pride-parade-frankfurt-oder-und-slubice.html",
+      "date": "Sat, 30 May 2026 22:06:52 +0200"
+    },
+    {
+      "title": "AfD Berlin beschließt Wahlprogramm: Neues Selbstbewusstsein, radikale Positionen",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/05/afd-berlin-kristin-brink-wahlprogramm.html",
+      "date": "Sat, 30 May 2026 21:31:16 +0200"
+    },
+    {
+      "title": "Lagerhalle brennt bei Treuenbrietzen - Feuerwehr warnt vor Rauch",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brandenburg-treuenbrietzen-lagerhalle-brand-starker-rauch.html",
+      "date": "Sat, 30 May 2026 21:27:14 +0200"
+    },
+    {
       "title": "Alba Berlin überrollt Bamberg im ersten Halbfinal-Spiel",
       "link": "https://www.rbb24.de/sport/beitrag/2026/05/basketball-berlin-alba-playoffs-bbl-baskets-bamberg.html",
       "date": "Sat, 30 May 2026 20:48:00 +0200"
@@ -9,11 +24,6 @@
       "title": "Stahnsdorf feiert Regionalliga-Aufstieg - auch dank BFC Preußen",
       "link": "https://www.rbb24.de/sport/beitrag/2026/05/sport-brandenburg-fussball-rsv-eintracht-stahnsdorf-aufstieg-regionalliga-berlin-bfc-preussen.html",
       "date": "Sat, 30 May 2026 20:12:30 +0200"
-    },
-    {
-      "title": "CSD zieht zum siebten Mal durch Frankfurt und Slubice",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/pride-parade-frankfurt-oder-und-slubice.html",
-      "date": "Sat, 30 May 2026 20:06:59 +0200"
     },
     {
       "title": "Pilotprojekt in Eichwalde: Kopfsteinpflaster wird für Radweg abgefräst",
@@ -36,19 +46,9 @@
       "date": "Sat, 30 May 2026 17:14:18 +0200"
     },
     {
-      "title": "Lagerhalle brennt bei Treuenbrietzen - Feuerwehr warnt vor Rauch",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brandenburg-treuenbrietzen-lagerhalle-brand-starker-rauch.html",
-      "date": "Sat, 30 May 2026 17:13:18 +0200"
-    },
-    {
       "title": "Trouble in Paradise: Ausstellung in der Villa Schöningen",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/05/ausstellung-kunst-villa-schoeningen-potsdam-paradies.html",
       "date": "Sat, 30 May 2026 16:18:44 +0200"
-    },
-    {
-      "title": "Berlin-Wahl 2026: AfD beschließt Wahlprogramm ohne Gegenstimmen",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/afd-wahlprogramm-migration-ausgangssperren-videoueberwachung.html",
-      "date": "Sat, 30 May 2026 16:10:00 +0200"
     }
   ],
   "police": [
