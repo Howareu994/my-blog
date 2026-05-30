@@ -1,9 +1,44 @@
 {
   "traffic": [
     {
-      "title": "BSW-Parteitag in Cottbus: Abrechnung oder Weiter-so",
+      "title": "Südbrandenburg: Erste große Kontrolle nach Viehdiebstählen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brandenburg-spree-neisse-kontrolle-vieh-diebstaehle-polizei.html",
+      "date": "Sat, 30 May 2026 11:05:31 +0200"
+    },
+    {
+      "title": "Neuer Newcastle-Fall in Oder-Spree - 315.000 Hähnchen werden getötet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brandenburg-oder-spree-neuer-fall-newcastle-krankheit.html",
+      "date": "Sat, 30 May 2026 10:46:01 +0200"
+    },
+    {
+      "title": "Erster BSW-Parteitag nach Koalitionsbruch: Abrechnung oder Aufbruch",
       "link": "https://www.rbb24.de/politik/beitrag/2026/05/brandenburg-bsw-parteitag-cottbus-konkurrenzkampf-parteispitze.html",
-      "date": "Sat, 30 May 2026 07:31:05 +0200"
+      "date": "Sat, 30 May 2026 10:29:34 +0200"
+    },
+    {
+      "title": "Neue Baustellenschilder in Berlin sollen mehr Transparenz bringen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-neue-baustellen-schilder-transparenz-infos-bauprojekt.html",
+      "date": "Sat, 30 May 2026 10:28:20 +0200"
+    },
+    {
+      "title": "Gitte Haenning im Tipi am Kanzleramt: Schlagerlegende feiert 80.",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/05/konzert-gitte-haenning-berlin-tipi-kanzleramt.html",
+      "date": "Sat, 30 May 2026 08:58:00 +0200"
+    },
+    {
+      "title": "Sex, Pornos, Geschlechtskrankheiten: In Berliner Schulen kaum Thema?",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/05/sexualkunde-unterricht-berlin-kritik.html",
+      "date": "Sat, 30 May 2026 08:29:43 +0200"
+    },
+    {
+      "title": "Berlin: Schussabgabe durch Polizisten nach Verfolgungsfahrt in Haselhorst",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-haselhorst-polizei-verfolgungsfahrt-schussabgabe.html",
+      "date": "Sat, 30 May 2026 08:28:47 +0200"
+    },
+    {
+      "title": "Oranienburg: So geht es den Menschen, die auf Bomben leben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/leben-mit-bomben-oranienburg.html",
+      "date": "Sat, 30 May 2026 07:32:37 +0200"
     },
     {
       "title": "Deutscher Filmpreis 2026: \"In die Sonne schauen\" gewinnt zehn Lolas",
@@ -14,41 +49,6 @@
       "title": "Bildergalerie | Verleihung der Lola: So war der Deutsche Filmpreis 2026",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/05/lola-deutscher-film-preis-verleihung-messe-berlin.html",
       "date": "Fri, 29 May 2026 23:40:04 +0200"
-    },
-    {
-      "title": "Sieg in Eisenach: Füchse Berlin bleiben auf Champions-League-Kurs",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/berlin-sport-handball-fuechse-eisenach-spielbericht.html",
-      "date": "Fri, 29 May 2026 22:09:23 +0200"
-    },
-    {
-      "title": "Berliner Digitalstaatssekretär Hundt nimmt Bitte um Entlassung zurück",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/05/berlin-digital-staatssekretaer-hundt-nimmt-entlassung-zurueck.html",
-      "date": "Fri, 29 May 2026 22:04:03 +0200"
-    },
-    {
-      "title": "Erste indische Pflegekräfte arbeiten in Seniorenheim am Schwielowsee",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brandenburg-pflegefachkraefte-aus-indien-pilotprojekt-hoffbauer.html",
-      "date": "Fri, 29 May 2026 19:52:00 +0200"
-    },
-    {
-      "title": "Streit zweier Gruppen in Berlin-Wilmersdorf - 18-Jähriger lebensgefährlich verletzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-wilmersdorf-polizeieinsatz-schulen-abgesichert.html",
-      "date": "Fri, 29 May 2026 19:02:00 +0200"
-    },
-    {
-      "title": "Neuer Newscastle-Fall in Oder-Spree - 315.000 Hähnchen werden getötet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brandenburg-oder-spree-neuer-fall-newcastle-krankheit.html",
-      "date": "Fri, 29 May 2026 18:52:22 +0200"
-    },
-    {
-      "title": "Fördergeld-Affäre: Ex-Kultursenatorin Wedl-Wilson verweigert Aussage vor U-Ausschuss",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/05/abgeordnetenhaus-foerdergeld-affaere-ausschuss-wedl-wilson.html",
-      "date": "Fri, 29 May 2026 17:53:47 +0200"
-    },
-    {
-      "title": "Angriffe gegen Berliner Clubs - aber keine Hinweise auf Serie",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/club-clubs-berlin-oxi-renate-raw-gelaende-brand-feuer.html",
-      "date": "Fri, 29 May 2026 17:28:00 +0200"
     }
   ],
   "police": [
