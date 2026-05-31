@@ -1,14 +1,29 @@
 {
   "traffic": [
     {
+      "title": "Lagerhalle bei Treuenbrietzen brennt immer noch",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brandenburg-treuenbrietzen-lagerhalle-brand-starker-rauch.html",
+      "date": "Sun, 31 May 2026 18:23:24 +0200"
+    },
+    {
+      "title": "Parteitag des BSW Brandenburg: Benda als Vorsitzende bestätigt",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/05/brandenburg-bsw-parteitag-cottbus-landesvorstand-benda.html",
+      "date": "Sun, 31 May 2026 18:20:50 +0200"
+    },
+    {
+      "title": "Vielfaltsfest in Bad Freienwalde ein Jahr nach Angriff mit mehr Zulauf",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brandenburg-bad-freienwalde-demokratie-vielfalt-fest-angriff-rechtsextrem.html",
+      "date": "Sun, 31 May 2026 17:46:01 +0200"
+    },
+    {
+      "title": "Sticker auf Verkehrsschildern: Berliner CDU fordert Bußgeld",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-sticker-aufkleber-verkehrsschilder-cdu-berlin-forderung-strafe-bussgeld.html",
+      "date": "Sun, 31 May 2026 17:18:00 +0200"
+    },
+    {
       "title": "Hertha-Frauen feiern Regionalliga-Meisterschaft",
       "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-frauen-regionalliga-nordost-hertha-union-berlin-turbine-potsdam.html",
       "date": "Sun, 31 May 2026 16:41:52 +0200"
-    },
-    {
-      "title": "Sticker auf Schildern: Berliner CDU fordert Bußgeld",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-sticker-aufkleber-verkehrsschilder-cdu-berlin-forderung-strafe-bussgeld.html",
-      "date": "Sun, 31 May 2026 16:30:37 +0200"
     },
     {
       "title": "Klaviere von Carl Bechstein: Erbauer feiert 200. Geburtstag",
@@ -26,11 +41,6 @@
       "date": "Sun, 31 May 2026 15:36:00 +0200"
     },
     {
-      "title": "Parteitag des BSW Brandenburg: Benda bleibt Vorsitzende",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/05/brandenburg-bsw-parteitag-cottbus-landesvorstand-benda.html",
-      "date": "Sun, 31 May 2026 15:15:40 +0200"
-    },
-    {
       "title": "Verbundeinsatz mit Sondereinheit \"Ferrum\" führt zu Festnahmen in Berlin",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-verbund-einsatz-polizei-ferrum-kontrolle-waffen-festnahmen.html",
       "date": "Sun, 31 May 2026 15:05:15 +0200"
@@ -39,16 +49,6 @@
       "title": "Vodafone-Netz im Raum Neuruppin nach Kabelschaden ausgefallen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brandenburg-neuruppin-kabelschaden-mobilfunk-ausfall-vodafone.html",
       "date": "Sun, 31 May 2026 15:01:49 +0200"
-    },
-    {
-      "title": "Baustadtrat räumt Fehler bei Brandschutzkontrollen an TU Berlin ein",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-tu-hauptgebaeude-geschlossen-baustadtrat-brandschutz-kontrolle.html",
-      "date": "Sun, 31 May 2026 14:36:03 +0200"
-    },
-    {
-      "title": "Lagerhalle bei Treuenbrietzen brennt immer noch",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brandenburg-treuenbrietzen-lagerhalle-brand-starker-rauch.html",
-      "date": "Sun, 31 May 2026 13:15:16 +0200"
     }
   ],
   "police": [
