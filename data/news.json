@@ -1,14 +1,24 @@
 {
   "traffic": [
     {
+      "title": "Lagerhalle bei Treuenbrietzen brennt immer noch",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brandenburg-treuenbrietzen-lagerhalle-brand-starker-rauch.html",
+      "date": "Sun, 31 May 2026 13:15:16 +0200"
+    },
+    {
+      "title": "BSW-Parteitag: Landesverband lehnt Doppelspitze ab",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/05/brandenburg-bsw-parteitag-cottbus-landesvorstand-benda.html",
+      "date": "Sun, 31 May 2026 13:05:44 +0200"
+    },
+    {
+      "title": "Was war das denn? | Berlin ist nicht am Wasser gebaut",
+      "link": "https://www.rbb24.de/panorama/thema/was-war-das-denn/kolumne-wasser-zu-teuer-in-berlin.html",
+      "date": "Sun, 31 May 2026 11:53:00 +0200"
+    },
+    {
       "title": "Tödlicher Verkehrsunfall auf B166 in der Uckermark",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brandenburg-uckermark-b166-schwerer-unfall-verkehr-verletzte-tot.html",
       "date": "Sun, 31 May 2026 10:59:37 +0200"
-    },
-    {
-      "title": "Lagerhalle bei Treuenbrietzen brennt immer noch",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brandenburg-treuenbrietzen-lagerhalle-brand-starker-rauch.html",
-      "date": "Sun, 31 May 2026 10:18:10 +0200"
     },
     {
       "title": "Metallica im Olympiastadion: \"Do you want your music heavy?!\"",
@@ -39,19 +49,14 @@
       "title": "Alba Berlin überrollt Bamberg im ersten Halbfinal-Spiel",
       "link": "https://www.rbb24.de/sport/beitrag/2026/05/basketball-berlin-alba-playoffs-bbl-baskets-bamberg.html",
       "date": "Sat, 30 May 2026 20:48:00 +0200"
-    },
-    {
-      "title": "Stahnsdorf feiert Regionalliga-Aufstieg - auch dank BFC Preußen",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/sport-brandenburg-fussball-rsv-eintracht-stahnsdorf-aufstieg-regionalliga-berlin-bfc-preussen.html",
-      "date": "Sat, 30 May 2026 20:12:30 +0200"
-    },
-    {
-      "title": "Pilotprojekt in Eichwalde: Kopfsteinpflaster wird für Radweg abgefräst",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brandenburg-eichwalde-kopfsteinpflaster-abschleifen-radweg-fahrrad-pilotprojekt.html",
-      "date": "Sat, 30 May 2026 17:49:45 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Supermarkt-Mitarbeiter mit Schreckschusswaffe bedroht",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1675861.php",
+      "date": "Sun, 31 May 2026 12:40:00 +0200"
+    },
     {
       "title": "Festnahmen nach Schüssen in die Luft",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1675852.php",
@@ -96,11 +101,6 @@
       "title": "Lkw-Fahrer kollidiert mit mehreren geparkten Fahrzeugen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1675780.php",
       "date": "Fri, 29 May 2026 16:43:50 +0200"
-    },
-    {
-      "title": "Jugendliche bei Verkehrsunfall mit E-Scooter verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1675694.php",
-      "date": "Fri, 29 May 2026 13:30:00 +0200"
     }
   ],
   "free_events": [],
