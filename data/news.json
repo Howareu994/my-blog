@@ -1,14 +1,24 @@
 {
   "traffic": [
     {
+      "title": "Tödlicher Verkehrsunfall auf B166 in der Uckermark",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brandenburg-uckermark-b166-schwerer-unfall-verkehr-verletzte-tot.html",
+      "date": "Sun, 31 May 2026 10:59:37 +0200"
+    },
+    {
       "title": "Lagerhalle bei Treuenbrietzen brennt immer noch",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brandenburg-treuenbrietzen-lagerhalle-brand-starker-rauch.html",
-      "date": "Sun, 31 May 2026 07:28:27 +0200"
+      "date": "Sun, 31 May 2026 10:18:10 +0200"
+    },
+    {
+      "title": "Metallica im Olympiastadion: \"Do you want your music heavy?!\"",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/05/berlin-konzertkritik-olympiastadion-metallica.html",
+      "date": "Sun, 31 May 2026 10:12:00 +0200"
     },
     {
       "title": "Kupferdiebstahl in Berlin: Täter, Ziele, Schäden und Gegenmaßnahmen",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/05/kabeldiebstahl-kupfer-buntmetalldiebstahl-bahntrassen-folgen.html",
-      "date": "Sun, 31 May 2026 07:24:52 +0200"
+      "date": "Sun, 31 May 2026 07:24:00 +0200"
     },
     {
       "title": "Ostdeutsches Wirtschaftsforum debattiert in Bad Saarow",
@@ -22,7 +32,7 @@
     },
     {
       "title": "AfD Berlin beschließt Wahlprogramm: Neues Selbstbewusstsein, radikale Positionen",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/05/afd-berlin-kristin-brink-wahlprogramm.html",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/afd-parteitag-wahlprogramm-sicherheit-kristin-brinker.html",
       "date": "Sat, 30 May 2026 21:31:16 +0200"
     },
     {
@@ -39,16 +49,6 @@
       "title": "Pilotprojekt in Eichwalde: Kopfsteinpflaster wird für Radweg abgefräst",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brandenburg-eichwalde-kopfsteinpflaster-abschleifen-radweg-fahrrad-pilotprojekt.html",
       "date": "Sat, 30 May 2026 17:49:45 +0200"
-    },
-    {
-      "title": "18-Jähriger bei Streit in Berlin-Wilmersdorf lebensgefährlich verletzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-wilmersdorf-polizeieinsatz-schulen-abgesichert.html",
-      "date": "Sat, 30 May 2026 17:23:56 +0200"
-    },
-    {
-      "title": "Tödlicher Verkehrsunfall auf B166 in der Uckermark",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brandenburg-uckermark-b166-schwerer-unfall-verkehr-verletzte-tot.html",
-      "date": "Sat, 30 May 2026 17:17:35 +0200"
     }
   ],
   "police": [
