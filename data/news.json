@@ -1,57 +1,67 @@
 {
   "traffic": [
     {
-      "title": "Lagerhalle bei Treuenbrietzen brennt immer noch",
+      "title": "Herthas neuer Werbepartner: Sparda-Bank künftig Trikotsponsor",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/2-bundesliga-hertha-bsc-neuer-trikotsponsor-sparda-bank-berlin.html",
+      "date": "Mon, 01 Jun 2026 12:08:30 +0200"
+    },
+    {
+      "title": "Feuer im Krankenhaus Eisenhüttenstadt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/eisenhuettenstadt-krankenhaus-brand-polizei.html",
+      "date": "Mon, 01 Jun 2026 11:42:04 +0200"
+    },
+    {
+      "title": "Von Eintracht Frankfurt: Cottbus leiht Verteidiger Doumbia",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/transfer-energie-cottbus-eintracht-frankfurt-abwehrspieler-fousseny-doumbia.html",
+      "date": "Mon, 01 Jun 2026 11:34:00 +0200"
+    },
+    {
+      "title": "18-Jähriger stirbt nach Motorradunfall im Kreis Elbe-Elster",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-elbe-elster-toedlicher-motorradunfall.html",
+      "date": "Mon, 01 Jun 2026 11:07:14 +0200"
+    },
+    {
+      "title": "Premiere im Deutschen Theater: Kommt der Wal – oder kommt er nicht?",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/theater-der-gesang-des-pottwals-deutsches-theater-berlin.html",
+      "date": "Mon, 01 Jun 2026 10:34:26 +0200"
+    },
+    {
+      "title": "Doppeldecker-Busse in Berlin: Ein Blick in die Vergangenheit – und die Zukunft",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/doppeldecker-bus-berlin-vergangenheit-zukunft.html",
+      "date": "Mon, 01 Jun 2026 10:22:14 +0200"
+    },
+    {
+      "title": "Mehr Verfahren bei Sozialgerichten in Berlin und Brandenburg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/sozialgericht-viele-verfahren-berlin-brandenburg.html",
+      "date": "Mon, 01 Jun 2026 08:04:09 +0200"
+    },
+    {
+      "title": "Hitzehilfe für Obdachlose in Berlin",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/06/hitzehilfe-fuer-obdachlose-startet.html",
+      "date": "Mon, 01 Jun 2026 08:00:31 +0200"
+    },
+    {
+      "title": "Brand in Lagerhalle bei Treuenbrietzen gelöscht",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brandenburg-treuenbrietzen-lagerhalle-brand-starker-rauch.html",
-      "date": "Sun, 31 May 2026 18:23:24 +0200"
+      "date": "Mon, 01 Jun 2026 06:27:16 +0200"
     },
     {
-      "title": "Parteitag des BSW Brandenburg: Benda als Vorsitzende bestätigt",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/05/brandenburg-bsw-parteitag-cottbus-landesvorstand-benda.html",
-      "date": "Sun, 31 May 2026 18:20:50 +0200"
-    },
-    {
-      "title": "Vielfaltsfest in Bad Freienwalde ein Jahr nach Angriff mit mehr Zulauf",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brandenburg-bad-freienwalde-demokratie-vielfalt-fest-angriff-rechtsextrem.html",
-      "date": "Sun, 31 May 2026 17:46:01 +0200"
-    },
-    {
-      "title": "Sticker auf Verkehrsschildern: Berliner CDU fordert Bußgeld",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-sticker-aufkleber-verkehrsschilder-cdu-berlin-forderung-strafe-bussgeld.html",
-      "date": "Sun, 31 May 2026 17:18:00 +0200"
-    },
-    {
-      "title": "Hertha-Frauen feiern Regionalliga-Meisterschaft",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-frauen-regionalliga-nordost-hertha-union-berlin-turbine-potsdam.html",
-      "date": "Sun, 31 May 2026 16:41:52 +0200"
-    },
-    {
-      "title": "Klaviere von Carl Bechstein: Erbauer feiert 200. Geburtstag",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/05/berlin-klavier-bauer-carl-bechstein-200-geburtstag-bildergalerie.html",
-      "date": "Sun, 31 May 2026 16:25:00 +0200"
-    },
-    {
-      "title": "Autobahntunnel Flughafen Tegel wird für zwei Wochen nachts gesperrt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-a111-tunnel-tegel-nachts-gesperrt-zwei-wochen.html",
-      "date": "Sun, 31 May 2026 16:16:01 +0200"
-    },
-    {
-      "title": "Tischtennis: TTC Berlin Eastside gewinnt elften Meistertitel",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/05/tischtennis-ttc-berlin-eastside-deutscher-meister-dachau.html",
-      "date": "Sun, 31 May 2026 15:36:00 +0200"
-    },
-    {
-      "title": "Verbundeinsatz mit Sondereinheit \"Ferrum\" führt zu Festnahmen in Berlin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-verbund-einsatz-polizei-ferrum-kontrolle-waffen-festnahmen.html",
-      "date": "Sun, 31 May 2026 15:05:15 +0200"
-    },
-    {
-      "title": "Vodafone-Netz im Raum Neuruppin nach Kabelschaden ausgefallen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brandenburg-neuruppin-kabelschaden-mobilfunk-ausfall-vodafone.html",
-      "date": "Sun, 31 May 2026 15:01:49 +0200"
+      "title": "Allergie auf Pollen: Heuschnupfenzeit besonders stark",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/pollen-allergie-fruehblueher-erle-asthma-charite-berlin.html",
+      "date": "Mon, 01 Jun 2026 06:04:00 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Beleidigung mit rassistischem Hintergrund und tätlicher Angriff auf Polizeivollzugsbeamte",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1675995.php",
+      "date": "Mon, 01 Jun 2026 10:54:22 +0200"
+    },
+    {
+      "title": "Diebstahl und Computerbetrug – Wer erkennt die Tatverdächtigen?",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1675894.php",
+      "date": "Mon, 01 Jun 2026 08:32:20 +0200"
+    },
     {
       "title": "Supermarkt-Mitarbeiter mit Schreckschusswaffe bedroht",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1675861.php",
@@ -91,16 +101,6 @@
       "title": "Zweijähriger vermisst – Polizei bittet um Mithilfe",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1675773.php",
       "date": "Fri, 29 May 2026 16:57:00 +0200"
-    },
-    {
-      "title": "Schüsse auf 23-Jährigen - Mordkommission ermittelt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1654500.php",
-      "date": "Fri, 29 May 2026 16:55:00 +0200"
-    },
-    {
-      "title": "Lkw-Fahrer kollidiert mit mehreren geparkten Fahrzeugen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1675780.php",
-      "date": "Fri, 29 May 2026 16:43:50 +0200"
     }
   ],
   "free_events": [],
