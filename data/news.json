@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Wohnen in Berlin: 450 Euro für einen Platz im Mehrbettzimmer",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/studieren-wohnheim-betten-vermietet-berlin.html",
+      "date": "Tue, 02 Jun 2026 06:05:49 +0200"
+    },
+    {
       "title": "Alba Berlin nach zweitem Sieg gegen Bamberg kurz vor Final-Einzug",
       "link": "https://www.rbb24.de/sport/beitrag/2026/06/basketball-bbl-playoffs-halbfinale-alba-berlin-bamberg-baskets-spiel-zwei-spielbericht.html",
       "date": "Mon, 01 Jun 2026 21:46:54 +0200"
@@ -44,11 +49,6 @@
       "title": "Mann in Berlin verschleppt: Zweiter Tatverdächtiger gefasst",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-entfuehrter-unternehmer-zweiter-verdaechtiger-in-u-haft.html",
       "date": "Mon, 01 Jun 2026 16:55:26 +0200"
-    },
-    {
-      "title": "Anwohner in Bad Freienwalde wehren sich gegen hupende Züge",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/zug-hupen-stoerung-bahn-bad-freienwalde.html",
-      "date": "Mon, 01 Jun 2026 16:46:19 +0200"
     }
   ],
   "police": [
