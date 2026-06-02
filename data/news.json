@@ -1,9 +1,39 @@
 {
   "traffic": [
     {
-      "title": "Wohnen in Berlin: 450 Euro für einen Platz im Mehrbettzimmer",
+      "title": "Union-Trainerin Eta: \"Das war eine Sonderrolle, die ich nie haben wollte\"",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/berlin-fussball-union-marie-louise-eta-frauen-trainerin-zingler-sexismus.html",
+      "date": "Tue, 02 Jun 2026 11:17:04 +0200"
+    },
+    {
+      "title": "Bühnenwerkstätten des Gorki-Theaters zum Jahresende gekündigt – Senat zuversichtlich",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/berlin-maxim-gorki-theater-werkstaetten-gekuendigt.html",
+      "date": "Tue, 02 Jun 2026 11:13:44 +0200"
+    },
+    {
+      "title": "Armutsquote in Berlin gestiegen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/mehr-arme-menschen-in-berlin.html",
+      "date": "Tue, 02 Jun 2026 11:00:44 +0200"
+    },
+    {
+      "title": "Gasaustritt in Großbeeren - Explosionsgefahr laut Feuerwehr",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-grossbeeren-gas-austritt-feuerwehr.html",
+      "date": "Tue, 02 Jun 2026 10:39:00 +0200"
+    },
+    {
+      "title": "Gericht: Görlitzer Park muss wieder nachts offen bleiben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-gericht-goerlitzer-park-muss-offen-bleiben.html",
+      "date": "Tue, 02 Jun 2026 10:37:44 +0200"
+    },
+    {
+      "title": "Berliner Wohnungsmarkt: Zu siebt in der Drei-Zimmer-Wohnung - für 3.000 Euro im Monat",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/studieren-wohnheim-betten-vermietet-berlin.html",
-      "date": "Tue, 02 Jun 2026 06:05:49 +0200"
+      "date": "Tue, 02 Jun 2026 10:15:41 +0200"
+    },
+    {
+      "title": "Ostdeutsches Wirtschaftsforum in Bad Saarow: \"Am Mute hängt der Erfolg\"",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/06/woidke-forderung-ostdeutscher-wirtschaftsforum-bad-saarow-afd.html",
+      "date": "Tue, 02 Jun 2026 09:04:00 +0200"
     },
     {
       "title": "Alba Berlin nach zweitem Sieg gegen Bamberg kurz vor Final-Einzug",
@@ -11,47 +41,27 @@
       "date": "Mon, 01 Jun 2026 21:46:54 +0200"
     },
     {
-      "title": "Tischtennis: TTC Berlin zwischen Meister-Feierei und CL-Frust",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/tischtennis-ttc-berlin-eastside-deutsche-meisterschaft-dachau-champions-league-eklat-protest.html",
-      "date": "Mon, 01 Jun 2026 21:38:17 +0200"
-    },
-    {
-      "title": "Gericht: Görlitzer Park muss wieder nachts offen bleiben",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/berlin-gericht-goerlitzer-park-muss-offen-bleiben.html",
-      "date": "Mon, 01 Jun 2026 20:33:15 +0200"
-    },
-    {
-      "title": "Unions Ex-Scout: \"Berliner bringen Spielwitz und Giftigkeit mit\"",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-scout-lars-mrosko-union-berlin-bayern-muenchen-interview-buch.html",
-      "date": "Mon, 01 Jun 2026 19:56:00 +0200"
-    },
-    {
       "title": "Brandenburger Gesundheitsminister plant Reform für RTW-Einsätze",
       "link": "https://www.rbb24.de/politik/beitrag/rettungswagen-streit-bezahlung-brandenburg-minister-wilke.html",
       "date": "Mon, 01 Jun 2026 19:08:05 +0200"
     },
     {
-      "title": "Bühnenwerkstätten des Gorki-Theaters zum Jahresende gekündigt – Senat zuversichtlich",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/berlin-maxim-gorki-theater-werkstaetten-gekuendigt.html",
-      "date": "Mon, 01 Jun 2026 17:37:36 +0200"
-    },
-    {
       "title": "Mai-Wetter im Langzeitvergleich: Sonne, ob bei Frost oder Hitze",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/wetterdaten-durchschnittstemperatur-niederschlag-mai-klimawandel.html",
       "date": "Mon, 01 Jun 2026 17:36:23 +0200"
-    },
-    {
-      "title": "Tennis-Legende Serena Williams vor Comeback",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/tennis-wta-turnier-berlin-legende-serena-williams-comeback.html",
-      "date": "Mon, 01 Jun 2026 17:31:50 +0200"
-    },
-    {
-      "title": "Mann in Berlin verschleppt: Zweiter Tatverdächtiger gefasst",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-entfuehrter-unternehmer-zweiter-verdaechtiger-in-u-haft.html",
-      "date": "Mon, 01 Jun 2026 16:55:26 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Fußgänger bei Verkehrsunfall verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1676527.php",
+      "date": "Tue, 02 Jun 2026 11:57:14 +0200"
+    },
+    {
+      "title": "Autofahrer fährt Kind an",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1676477.php",
+      "date": "Tue, 02 Jun 2026 11:16:11 +0200"
+    },
     {
       "title": "Vermisstes Kind dank Zeugenhinweis angetroffen und Ex-Lebensgefährten der Mutter festgenommen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1675773.php",
@@ -91,16 +101,6 @@
       "title": "Supermarkt-Mitarbeiter mit Schreckschusswaffe bedroht",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1675861.php",
       "date": "Sun, 31 May 2026 12:40:00 +0200"
-    },
-    {
-      "title": "Festnahmen nach Schüssen in die Luft",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1675852.php",
-      "date": "Sat, 30 May 2026 16:45:50 +0200"
-    },
-    {
-      "title": "In Auseinandersetzung lebensgefährlich verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1675851.php",
-      "date": "Sat, 30 May 2026 16:40:34 +0200"
     }
   ],
   "free_events": [],
