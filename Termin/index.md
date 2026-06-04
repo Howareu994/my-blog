@@ -112,6 +112,15 @@ permalink: /termin/
 
     /* 表单隐藏 */
     #booking-form { display: none; margin-top: 30px; background: var(--bg-pink); padding: 20px; border: 2px solid var(--terminal-black); box-shadow: 6px 6px 0px var(--terminal-black); }
+    .form-row { margin-bottom: 12px; }
+    .form-row label { font-weight: 800; color: var(--terminal-black); }
+    .termin-input {
+        width: 100%; box-sizing: border-box; margin-top: 5px; padding: 9px;
+        border: 2px solid var(--terminal-black); background: #fff; color: var(--terminal-black);
+    }
+    .termin-note { font-size: 12px; line-height: 1.5; color: var(--terminal-black); margin: 10px 0 0; }
+    .time-slot.selected { background: var(--matrix-green); box-shadow: 4px 4px 0px var(--terminal-black); color: var(--terminal-black); }
+    .time-slot.selected span.time-part { color: var(--terminal-black); }
     @keyframes blink { 50% { opacity: 0; } }
 </style>
 
@@ -143,22 +152,32 @@ permalink: /termin/
             📅 可释放时间段 (Available Slots)
             <span style="font-size: 10px; background: var(--matrix-green); color: #000; padding: 2px 6px; border: 1px solid #111; border-radius: 4px; animation: blink 1s step-end infinite;">LIVE</span>
         </div>
-        <p style="font-size:12px;">点击下方时段发射预约申请。系统将自动生成邮件副本。</p>
+        <p style="font-size:12px;">点击下方时段提交预约申请。确认后你会收到一封自动邮件副本。</p>
 
         <div id="calendar-slots">
             </div>
 
-        <form id="booking-form" action="https://formspree.io/f/你的FormspreeID" method="POST">
+        <form id="booking-form" action="https://formsubmit.co/{{ site.email }}" method="POST">
             <h3 style="margin-top:0;">确认预约</h3>
+            <input type="hidden" name="_subject" value="新的陪伴 Termin 预约申请">
+            <input type="hidden" name="_template" value="table">
+            <input type="hidden" name="_next" value="{{ site.url }}{{ site.baseurl }}/termin/success/">
+            <input type="hidden" name="_autoresponse" value="你的陪伴 Termin 预约申请已经收到。邮件里附有你提交的时间和联系方式；我会尽快人工确认最终安排。若需要更改或取消，请直接回复这封邮件。">
+            <input type="text" name="_honey" style="display:none" tabindex="-1" autocomplete="off">
             <input type="hidden" name="selected_time" id="hidden-time">
-            <div style="margin-bottom:10px;">
-                <label>你的称呼:</label><br>
-                <input type="text" name="client_name" required style="width:100%; padding:8px; border: 2px solid var(--terminal-black);">
+            <div class="form-row">
+                <label for="client-name">你的称呼:</label><br>
+                <input id="client-name" class="termin-input" type="text" name="client_name" autocomplete="name" required>
             </div>
-            <div style="margin-bottom:10px;">
-                <label>联系方式 (Email/Telegram):</label><br>
-                <input type="text" name="contact" required style="width:100%; padding:8px; border: 2px solid var(--terminal-black);">
+            <div class="form-row">
+                <label for="client-email">Email:</label><br>
+                <input id="client-email" class="termin-input" type="email" name="email" autocomplete="email" placeholder="name@example.com" required>
             </div>
+            <div class="form-row">
+                <label for="client-message">备注 / Telegram（可选）:</label><br>
+                <textarea id="client-message" class="termin-input" name="message" rows="3" placeholder="例如：我要去外管局 / 希望 Telegram 联系 / 其他需要提前知道的边界"></textarea>
+            </div>
+            <p class="termin-note">提交后会跳转到确认页，并由 FormSubmit 给这个邮箱发送自动确认邮件。请保留页面默认的验证步骤；关闭验证会影响自动回复。</p>
             <button type="submit" class="save-btn" style="width:100%; padding:12px; background:var(--terminal-black); color:var(--matrix-green); border:none; cursor:pointer; font-weight:900; font-size: 16px; transition: 0.2s;">确认发送 Bestätigung</button>
         </form>
     </section>
@@ -220,7 +239,7 @@ permalink: /termin/
                     </summary>
                     <div class="slot-grid">
                         ${slots.map(s => `
-                            <div class="time-slot" onclick="selectSlot('${s.full}')">
+                            <div class="time-slot" data-slot="${s.full}" onclick="selectSlot('${s.full}')">
                                 <span class="date-part">${s.date}</span>
                                 <span class="time-part">${s.time}</span>
                             </div>
@@ -244,6 +263,10 @@ permalink: /termin/
     function selectSlot(time) {
         hiddenTime.value = time;
         bookingForm.style.display = 'block';
+
+        document.querySelectorAll('.time-slot.selected').forEach(slot => slot.classList.remove('selected'));
+        const selectedSlot = document.querySelector(`[data-slot="${time}"]`);
+        if (selectedSlot) selectedSlot.classList.add('selected');
 
         const formTitle = bookingForm.querySelector('h3');
         if (formTitle) formTitle.innerText = `确认预约: ${time}`;

@@ -7,7 +7,6 @@
     </h2>
 
     <div class="footer-col-wrapper" style="display: flex; justify-content: flex-start; align-items: flex-start; flex-wrap: nowrap;">
-      <!-- 第一列：联系方式 -->
       <div class="footer-col footer-col-1" style="width: 25%; min-width: 150px;">
         <ul class="contact-list">
           <li class="p-name">{%- if site.author -%}{{ site.author | escape }}{%- endif -%}</li>
@@ -18,12 +17,10 @@
         </ul>
       </div>
 
-      <!-- 第二列：社交图标 -->
       <div class="footer-col footer-col-2" style="width: 30%; padding-left: 20px;">
         {%- include social.html -%}
       </div>
 
-      <!-- 第三列：描述文字 -->
       <div class="footer-col footer-col-3" style="width: 45%;">
         <p style="line-height: 1.6; font-size: 13px; color: #64748b; margin: 0;">
           {% if page.url contains '/de/' %}
@@ -35,7 +32,6 @@
       </div>
     </div>
 
-    <!-- 底部：语言切换 -->
     <div class="footer-bottom" style="border-top: 1px dashed #ff85b9; margin-top: 20px; padding-top: 20px; text-align: center;">
       <div class="language-switch" style="margin-bottom: 10px; display: flex; justify-content: center; align-items: center; white-space: nowrap;">
         <a href="{{ page.url | replace: '/de/', '/' | relative_url }}" 
@@ -96,40 +92,77 @@
   })();
   </script>
 
-  <!-- 移动端底部导航栏：修复路径并改用 Emoji -->
-<nav class="mobile-bottom-nav">
-  <a href="{{ '/' | relative_url }}" class="nav-item">
-    <span class="nav-emoji">🏠</span>
-    <span>首页</span>
-  </a>
-  <a href="{{ '/news/' | relative_url }}" class="nav-item">
-    <span class="nav-emoji">📢</span>
-    <span>城市动态</span>
-  </a>
-  <a href="{{ '/wiki/' | relative_url }}" class="nav-item">
-    <span class="nav-emoji">📚</span>
-    <span>漫游进程</span>
-  </a>
-  <a href="{{ '/map/' | relative_url }}" class="nav-item">
-    <span class="nav-emoji">🗺️</span>
-    <span>生活图鉴</span>
-  </a>
-  <a href="{{ '/about/' | relative_url }}" class="nav-item">
-    <span class="nav-emoji">☕</span>
-    <span>关于</span>
-  </a>
-  <!-- DE 按钮：逻辑保持不变 -->
-  <a href="{{ page.url | prepend: '/de' | replace: '//', '/' | relative_url }}" class="nav-item">
-    <span class="nav-emoji">🇩🇪</span>
-    <span>DE</span>
-  </a>
-</nav>
+  <link href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" rel="stylesheet">
+
+  <nav class="bottom-nav">
+    <a href="{{ '/' | relative_url }}" class="nav-item">
+        <i class="ri-home-4-line nav-icon"></i>
+        <span>首页</span>
+    </a>
+    <a href="{{ '/news/' | relative_url }}" class="nav-item">
+        <i class="ri-megaphone-line nav-icon"></i>
+        <span>动态</span>
+    </a>
+    <a href="{{ '/wiki/' | relative_url }}" class="nav-item">
+        <i class="ri-book-read-line nav-icon"></i>
+        <span>生存</span>
+    </a>
+    <a href="{{ '/about/' | relative_url }}" class="nav-item">
+        <i class="ri-cup-line nav-icon"></i>
+        <span>求助</span>
+    </a>
+  </nav>
 
 <style>
-/* 针对 Emoji 的微调样式 */
-.nav-emoji {
-    font-size: 20px;
-    margin-bottom: 4px;
-}
-</style>
+  /* 确保底导只在移动端显示，并锁定样式 */
+  .bottom-nav { 
+      display: none; 
+  }
+
+  @media screen and (max-width: 768px) {
+      /* 防止新的底导栏遮挡页脚版权信息 */
+      .site-footer {
+          padding-bottom: 85px !important;
+      }
+
+      .bottom-nav { 
+          display: flex; 
+          position: fixed; 
+          bottom: 0; 
+          left: 0; 
+          width: 100%; 
+          height: 75px; 
+          background: rgba(255, 255, 255, 0.98); 
+          border-top: 2px solid #ff85b9 !important; 
+          justify-content: space-around; 
+          align-items: center; 
+          z-index: 9999; 
+          padding-bottom: env(safe-area-inset-bottom);
+      }
+      
+      .nav-item { 
+          display: flex; 
+          flex-direction: column; 
+          align-items: center; 
+          color: #b53568 !important; /* 🌟 核心：换成了主页同款的复古莓果粉 */
+          text-decoration: none !important; 
+          font-size: 11px; 
+          font-weight: 700; 
+          gap: 4px; 
+          border-bottom: none !important; 
+      }
+      
+      .nav-icon { 
+          font-size: 22px; 
+          color: #b53568 !important; /* 🌟 核心：换成了主页同款的复古莓果粉 */
+          transition: transform 0.2s;
+      }
+      
+      /* 按下时的特效：图标变大，颜色高亮为亮粉色作为反馈 */
+      .nav-item:active .nav-icon { 
+          transform: scale(1.3); 
+          color: #ff4d94 !important; 
+      }
+  }
+  </style>
 </footer>

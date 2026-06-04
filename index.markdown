@@ -16,7 +16,7 @@ layout: null
             --matrix-green: #00ff41;
             --cyber-blue: #00008B;
             --bg-pink: #ffdae9;
-            --text-main: #b53568;
+            --text-main: rgb(181, 53, 104);
             --border-light: #ff85b9;
             --terminal-black: #111;
             --card-shadow: 4px 4px 0px rgba(255, 77, 148, 0.15);
@@ -58,9 +58,12 @@ layout: null
         .lang-btn { background: var(--terminal-black); color: #fff !important; border: 2px solid var(--hot-pink); box-shadow: 2px 2px 0px rgba(255, 77, 148, 0.4); }
         .lang-btn:hover { background: #fff; color: var(--terminal-black) !important; transform: translateY(-2px); box-shadow: 4px 4px 0px rgba(255, 77, 148, 0.4); }
 
-        /* 2. 页面网格 */
+        /* 2. 页面网格：核心修改区！反转了左右的宽窄比例 */
         .app-container { max-width: 1050px; margin: 30px auto; padding: 0 20px; display: grid; grid-template-columns: minmax(0, 1fr); gap: 30px; padding-bottom: 100px; }
-        @media screen and (min-width: 800px) { .app-container { grid-template-columns: 340px minmax(0, 1fr); align-items: start; } }
+        @media screen and (min-width: 800px) { 
+            /* 原来是 340px minmax(0, 1fr)，现在改为自适应宽屏在左，340px窄屏在右 */
+            .app-container { grid-template-columns: minmax(0, 1fr) 340px; align-items: start; } 
+        }
 
         /* 3. 通用模块 */
         .module-card { background: rgba(255, 255, 255, 0.95); border: 2px solid var(--border-light); border-radius: 16px; padding: 20px; box-shadow: var(--card-shadow); margin-bottom: 25px; }
@@ -91,7 +94,6 @@ layout: null
             gap: 15px;
             scrollbar-width: none;
             width: 100%;
-            /* 关键修复：增加顶部内边距为悬停位移留出空间，并用负外边距抵消位置偏移 */
             padding: 12px 4px 12px 4px;
             margin-top: -12px;
             margin-bottom: 8px;
@@ -172,37 +174,8 @@ layout: null
 </header>
 
 <div class="app-container">
-    <!-- ================= 左侧：控制面板 ================= -->
-    <div class="col-left">
-        <div class="module-card">
-            <div class="section-title">🌱 当前状态</div>
-            <div class="input-group">
-                <input type="text" id="status-input" placeholder="写下夏季要来的心情...">
-                <button id="save-status-btn" class="save-btn">发送</button>
-            </div>
-            <ul id="status-history-list" style="list-style:none;"></ul>
-        </div>
-
-<div class="grid-tools">
-    <a href="https://strudel.cc/" target="_blank" class="btn-screen" id="screen-strudel" style="text-decoration: none;">
-        <div class="screen-label" style="color:gold;">STRUDEL</div>
-        <div class="matrix-bg"></div>
-    </a>
-
-    <a href="https://hydra.ojack.xyz/" target="_blank" class="btn-screen" id="screen-hydra" style="text-decoration: none;">
-        <div class="screen-label" style="color:skyblue;">HYDRA</div>
-        <div class="matrix-bg"></div>
-    </a>
-</div>
-
-        <!-- 顶级 DJ 歌单 -->
-        <div class="module-card module-dark">
-            <iframe width="100%" height="418" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/ellen-allien&color=%23ff85b9&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&show_teaser=true&visual=false"></iframe>
-        </div>
-    </div>
-
-    <!-- ================= 右侧：核心业务 ================= -->
-    <div class="col-right">
+    <!-- ================= 新左侧：核心业务与漫游碎片 (原右侧) ================= -->
+    <div class="col-main">
         <div class="section-title">⛽ 核心补给站</div>
         <div class="horizontal-scroll">
             <a href="{{ '/termin/' | relative_url }}" class="feature-card">
@@ -219,7 +192,10 @@ layout: null
             </a>
         </div>
 
-        <div class="section-title" style="margin-top: 10px;">🧩 漫游碎片</div>
+        <a href="{{ '/map/' | relative_url }}" class="section-title" style="margin-top: 10px; text-decoration: none; display: flex; justify-content: space-between; align-items: center; cursor: pointer; transition: opacity 0.2s;">
+    <span>🧩 漫游碎片</span>
+    <span style="font-size: 13px; font-weight: 600; color: #ff85b9;">更多 >> </span>
+</a>
         <div class="article-list">
             {% for post in site.posts limit:8 %}
             <a href="{{ post.url | relative_url }}" class="article-item">
@@ -237,6 +213,35 @@ layout: null
                 雷达正在扫描柏林最新动态...
             </div>
             {% endfor %}
+        </div>
+    </div>
+
+    <!-- ================= 新右侧：控制面板与音乐 (原左侧) ================= -->
+    <div class="col-sidebar">
+        <div class="module-card">
+            <div class="section-title">🌱 当前状态</div>
+            <div class="input-group">
+                <input type="text" id="status-input" placeholder="写下夏季要来的心情...">
+                <button id="save-status-btn" class="save-btn">发送</button>
+            </div>
+            <ul id="status-history-list" style="list-style:none;"></ul>
+        </div>
+
+        <div class="grid-tools">
+            <a href="https://strudel.cc/" target="_blank" class="btn-screen" id="screen-strudel" style="text-decoration: none;">
+                <div class="screen-label" style="color:gold;">STRUDEL</div>
+                <div class="matrix-bg"></div>
+            </a>
+
+            <a href="https://hydra.ojack.xyz/" target="_blank" class="btn-screen" id="screen-hydra" style="text-decoration: none;">
+                <div class="screen-label" style="color:skyblue;">HYDRA</div>
+                <div class="matrix-bg"></div>
+            </a>
+        </div>
+
+        <!-- 顶级 DJ 歌单 -->
+        <div class="module-card module-dark">
+            <iframe width="100%" height="418" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/ellen-allien&color=%23ff85b9&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&show_teaser=true&visual=false"></iframe>
         </div>
     </div>
 </div>

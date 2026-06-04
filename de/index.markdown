@@ -9,7 +9,7 @@ permalink: /de/
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
     <meta name="theme-color" content="#ffdae9">
 
-    <title>{{ site.title | default: "柏林反潮流日志 | 情绪避难所" }}</title>
+    <title>{{ site.title | default: "Berliner Gegenstrom | Mentaler Safe Space" }}</title>
     <link href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" rel="stylesheet">
     <style>
         :root {
@@ -60,9 +60,9 @@ permalink: /de/
         .lang-btn { background: var(--terminal-black); color: #fff !important; border: 2px solid var(--hot-pink); box-shadow: 2px 2px 0px rgba(255, 77, 148, 0.4); }
         .lang-btn:hover { background: #fff; color: var(--terminal-black) !important; transform: translateY(-2px); box-shadow: 4px 4px 0px rgba(255, 77, 148, 0.4); }
 
-        /* 2. 页面网格 */
+        /* 2. 页面网格：已修复为最新版的宽窄比例 (文章在左，控制台在右) */
         .app-container { max-width: 1050px; margin: 30px auto; padding: 0 20px; display: grid; grid-template-columns: minmax(0, 1fr); gap: 30px; padding-bottom: 100px; }
-        @media screen and (min-width: 800px) { .app-container { grid-template-columns: 340px minmax(0, 1fr); align-items: start; } }
+        @media screen and (min-width: 800px) { .app-container { grid-template-columns: minmax(0, 1fr) 340px; align-items: start; } }
 
         /* 3. 通用模块 */
         .module-card { background: rgba(255, 255, 255, 0.95); border: 2px solid var(--border-light); border-radius: 16px; padding: 20px; box-shadow: var(--card-shadow); margin-bottom: 25px; }
@@ -162,7 +162,7 @@ permalink: /de/
 
 <header class="site-header">
     <div class="header-inner">
-        <a href="{{ '/' | relative_url }}" class="site-title">柏林反潮流日志</a>
+        <a href="{{ '/de/' | relative_url }}" class="site-title">Berliner Gegenstrom</a>
         <nav class="desktop-nav">
             <a class="page-link" href="{{ '/news/' | relative_url }}">📢 Stadtpuls</a>
             <a class="page-link" href="{{ '/wiki/' | relative_url }}">📚 Protokoll</a>
@@ -174,37 +174,7 @@ permalink: /de/
 </header>
 
 <div class="app-container">
-    <!-- ================= 左侧：控制面板 ================= -->
-    <div class="col-left">
-        <div class="module-card">
-            <div class="section-title">🌱 STATUS-LOG</div>
-            <div class="input-group">
-                <input type="text" id="status-input" placeholder="Berliner Sommer-Perlen fischen...">
-                <button id="save-status-btn" class="save-btn">DROP</button>
-            </div>
-            <ul id="status-history-list" style="list-style:none;"></ul>
-        </div>
-
-<div class="grid-tools">
-    <a href="https://strudel.cc/" target="_blank" class="btn-screen" id="screen-strudel" style="text-decoration: none;">
-        <div class="screen-label" style="color:gold;">STRUDEL</div>
-        <div class="matrix-bg"></div>
-    </a>
-
-    <a href="https://hydra.ojack.xyz/" target="_blank" class="btn-screen" id="screen-hydra" style="text-decoration: none;">
-        <div class="screen-label" style="color:skyblue;">HYDRA</div>
-        <div class="matrix-bg"></div>
-    </a>
-</div>
-
-        <!-- 顶级 DJ 歌单 -->
-        <div class="module-card module-dark">
-            <iframe width="100%" height="418" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/ellen-allien&color=%23ff85b9&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&show_teaser=true&visual=false"></iframe>
-        </div>
-    </div>
-
-    <!-- ================= 右侧：核心业务 ================= -->
-    <div class="col-right">
+    <div class="col-main">
         <div class="section-title">⛽ Safe Space</div>
         <div class="horizontal-scroll">
             <a href="{{ '/termin/' | relative_url }}" class="feature-card">
@@ -221,7 +191,10 @@ permalink: /de/
             </a>
         </div>
 
-        <div class="section-title" style="margin-top: 10px;">🧩 Daten-Splitter</div>
+        <a href="{{ '/map/' | relative_url }}" class="section-title" style="margin-top: 10px; text-decoration: none; display: flex; justify-content: space-between; align-items: center; cursor: pointer; transition: opacity 0.2s;">
+            <span>🧩 Daten-Splitter</span>
+            <span style="font-size: 13px; font-weight: 600; color: #ff85b9;">Alle ansehen ➔</span>
+        </a>
         <div class="article-list">
             {% for post in site.posts limit:8 %}
             <a href="{{ post.url | relative_url }}" class="article-item">
@@ -236,19 +209,45 @@ permalink: /de/
             {% else %}
             <div class="empty-state">
                 <i class="ri-radar-line" style="font-size: 24px; color: var(--hot-pink); display: block; margin-bottom: 10px;"></i>
-                雷达正在扫描柏林最新动态...
+                Radar scannt nach neuen Berliner Updates...
             </div>
             {% endfor %}
         </div>
     </div>
+
+    <div class="col-sidebar">
+        <div class="module-card">
+            <div class="section-title">🌱 STATUS-LOG</div>
+            <div class="input-group">
+                <input type="text" id="status-input" placeholder="Berliner Sommer-Perlen fischen...">
+                <button id="save-status-btn" class="save-btn">DROP</button>
+            </div>
+            <ul id="status-history-list" style="list-style:none;"></ul>
+        </div>
+
+        <div class="grid-tools">
+            <a href="https://strudel.cc/" target="_blank" class="btn-screen" id="screen-strudel" style="text-decoration: none;">
+                <div class="screen-label" style="color:gold;">STRUDEL</div>
+                <div class="matrix-bg"></div>
+            </a>
+
+            <a href="https://hydra.ojack.xyz/" target="_blank" class="btn-screen" id="screen-hydra" style="text-decoration: none;">
+                <div class="screen-label" style="color:skyblue;">HYDRA</div>
+                <div class="matrix-bg"></div>
+            </a>
+        </div>
+
+        <div class="module-card module-dark">
+            <iframe width="100%" height="418" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/ellen-allien&color=%23ff85b9&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&show_teaser=true&visual=false"></iframe>
+        </div>
+    </div>
 </div>
 
-<!-- 移动端底导 -->
 <nav class="bottom-nav">
-    <a href="{{ '/' | relative_url }}" class="nav-item"><i class="ri-home-4-line nav-icon"></i><span>首页</span></a>
-    <a href="{{ '/news/' | relative_url }}" class="nav-item"><i class="ri-megaphone-line nav-icon"></i><span>动态</span></a>
-    <a href="{{ '/wiki/' | relative_url }}" class="nav-item"><i class="ri-book-read-line nav-icon"></i><span>生存</span></a>
-    <a href="{{ '/about/' | relative_url }}" class="nav-item"><i class="ri-cup-line nav-icon"></i><span>求助</span></a>
+    <a href="{{ '/de/' | relative_url }}" class="nav-item"><i class="ri-home-4-line nav-icon"></i><span>Home</span></a>
+    <a href="{{ '/news/' | relative_url }}" class="nav-item"><i class="ri-megaphone-line nav-icon"></i><span>Radar</span></a>
+    <a href="{{ '/wiki/' | relative_url }}" class="nav-item"><i class="ri-book-read-line nav-icon"></i><span>Survival</span></a>
+    <a href="{{ '/about/' | relative_url }}" class="nav-item"><i class="ri-cup-line nav-icon"></i><span>Support</span></a>
 </nav>
 
 <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.9.3/dist/confetti.browser.min.js"></script>
@@ -284,10 +283,11 @@ permalink: /de/
 
             list.innerHTML = history.map(i => {
                 const rem = Math.round((86400000 - (now - i.time)) / 3600000);
+                // 时间倒数标签：修改为德语
                 return `
                     <li class="locked-status">
                         <span>${i.text}</span>
-                        <span class="time-tag">⌛ 剩余 ${rem}h</span>
+                        <span class="time-tag">⌛ ${rem}h übrig</span>
                     </li>`;
             }).reverse().join('');
         }
