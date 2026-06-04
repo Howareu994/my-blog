@@ -1,19 +1,39 @@
 {
   "traffic": [
     {
-      "title": "Wetterdienst warnt teils vor starken Unwettern",
+      "title": "Wetterdienst warnt teils vor starken Gewittern",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-wetter-regen-gewitter-sommer-nass.html",
-      "date": "Thu, 04 Jun 2026 15:34:10 +0200"
+      "date": "Thu, 04 Jun 2026 18:17:43 +0200"
+    },
+    {
+      "title": "Offene Gärten Berlin-Brandenburg: So leben wie auf dem Ponyhof",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-offene-gaerten-2026-elbe-elster-kunschke.html",
+      "date": "Thu, 04 Jun 2026 17:38:00 +0200"
+    },
+    {
+      "title": "Kleine Festivals in Brandenburg haben finanzielle Probleme",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/musik-festivals-weniger-besucher-wurzelfestival-niedergoersdorf-finanzen.html",
+      "date": "Thu, 04 Jun 2026 17:25:54 +0200"
+    },
+    {
+      "title": "\"Türkisch für Anfänger\"-Schauspieler Axel Schreiber ist gestorben",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/axel-schreiber-schauspieler-gestorben-luebben-brandenburg.html",
+      "date": "Thu, 04 Jun 2026 17:15:01 +0200"
     },
     {
       "title": "Neue S-Bahn-Linie S15 in Berlin soll am 15. Juni fahren",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-sbahn-s15-eroeffnung-neue-strecke-gesundbrunnen-hauptbahnhof.html",
-      "date": "Thu, 04 Jun 2026 15:06:28 +0200"
+      "date": "Thu, 04 Jun 2026 17:14:57 +0200"
     },
     {
-      "title": "Nach Entlassung von Staatssekretär: Breite Kritik am Engagement Hundts",
+      "title": "Hauptgebäude der TU Berlin bleibt im Sommersemester geschlossen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/tu-berlin-hauptgebaeude-baumaengel-geschlossen-asta.html",
+      "date": "Thu, 04 Jun 2026 17:08:02 +0200"
+    },
+    {
+      "title": "Nach Entlassung von Staatssekretär Hundt: Kritik an Wegner",
       "link": "https://www.rbb24.de/politik/beitrag/2026/06/berliner-ex-digital-staatssekretaer-matthias-hundt-kritik.html",
-      "date": "Thu, 04 Jun 2026 14:49:28 +0200"
+      "date": "Thu, 04 Jun 2026 14:49:00 +0200"
     },
     {
       "title": "Bus muss scharf bremsen: 16 Verletzte in Neukölln",
@@ -26,32 +46,22 @@
       "date": "Thu, 04 Jun 2026 13:56:59 +0200"
     },
     {
-      "title": "9.000 Kilometer bis zur Wärmepumpe - Elektriker aus Kolumbien für Enpal",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/brandenburg-enpal-waermepumpen-energiewende-fachkraefte-kolumbien.html",
-      "date": "Thu, 04 Jun 2026 12:36:03 +0200"
-    },
-    {
       "title": "Brandenburgs Justizminister Grimm nennt Ausmaß häuslicher Gewalt \"besorgniserregend\"",
       "link": "https://www.rbb24.de/politik/beitrag/2026/06/brandenburg-haeusliche-gewalt-anstieg-der-faelle-ermittlungsverfahren.html",
       "date": "Thu, 04 Jun 2026 12:14:14 +0200"
-    },
-    {
-      "title": "Potsdam verbietet smarte Brillen mit Kameras in Bädern",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/06/potsdam-svv-verbot-smarte-brillen-kamera-bad-schwimmbad.html",
-      "date": "Thu, 04 Jun 2026 12:09:34 +0200"
-    },
-    {
-      "title": "Gewalt bei Hertha-Spiel: Polizei sucht mit Bildern nach Fans",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-2-liga-hertha-bsc-schalke-04-fans-ausschreitungen-bilder-suche.html",
-      "date": "Thu, 04 Jun 2026 11:52:14 +0200"
-    },
-    {
-      "title": "Potsdam will Parkplätze von Supermärkten für Allgemeinheit öffnen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/potsdam-parken-parkplaetze-supermaerkte.html",
-      "date": "Thu, 04 Jun 2026 11:48:58 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Polizeibeamtin angegriffen und verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1677884.php",
+      "date": "Thu, 04 Jun 2026 17:34:37 +0200"
+    },
+    {
+      "title": "Mann mit Messer verletzt – Tatverdächtige festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1677786.php",
+      "date": "Thu, 04 Jun 2026 16:02:46 +0200"
+    },
     {
       "title": "Spezialeinsatzkräfte nehmen bewaffneten Mann fest",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1677670.php",
@@ -91,16 +101,6 @@
       "title": "Zwei Männer durch Schüsse verletzt – Zielfahndung nimmt einen Tatverdächtigen fest",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1651624.php",
       "date": "Wed, 03 Jun 2026 10:35:00 +0200"
-    },
-    {
-      "title": "Nach gewalttätigen Ausschreitungen im Olympiastadion - Polizei bittet um Mithilfe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1634658.php",
-      "date": "Wed, 03 Jun 2026 09:36:00 +0200"
-    },
-    {
-      "title": "Mit Auto der Mutter vor Polizei geflüchtet",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1676744.php",
-      "date": "Tue, 02 Jun 2026 16:52:36 +0200"
     }
   ],
   "free_events": [],
