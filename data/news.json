@@ -1,6 +1,7 @@
 {
   "traffic": [
     {
+<<<<<<< HEAD
       "title": "Ex-Herthaner Baak über Tasmania: \"Viel Spaß und viel weniger Druck\"",
       "link": "https://www.rbb24.de/sport/beitrag/2026/05/fussball-regionalliga-nordost-oberliga-tasmania-berlin-hertha-bsc-florian-baak.html",
       "date": "Tue, 05 May 2026 21:04:34 +0200"
@@ -59,10 +60,61 @@
       "title": "Großbrand in Entsorgungsbetrieb in Rüdersdorf",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/05/brandenburg-ruedersdorf-herzfelde-grossbrand-entsorgungsbetrieb-rauch.html",
       "date": "Tue, 05 May 2026 16:01:30 +0200"
+=======
+      "title": "Berlin: Polizistin bei Festnahme von 16-Jährigem verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/16-jaehriger-festnahme-angriff-gegen-polizei.html",
+      "date": "Thu, 04 Jun 2026 20:38:12 +0200"
+    },
+    {
+      "title": "Basketball live: Macht Alba Berlin in Bamberg den Finaleinzug klar?",
+      "link": "https://www.rbb24.de/sport/hintergrund/livestream/livestream-basketball-bbl-playoffs-halbfinale-spiel-3-bamberg-alba-berlin.html",
+      "date": "Thu, 04 Jun 2026 20:30:00 +0200"
+    },
+    {
+      "title": "Wetterlage entspannt sich in Berlin und Brandenburg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-wetter-regen-gewitter-sommer-nass.html",
+      "date": "Thu, 04 Jun 2026 19:29:00 +0200"
+    },
+    {
+      "title": "Oder-Spree: Zwei Elche bei Grünheide gesichtet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/gruenheide-spreenhagen-elche-gesichtet.html",
+      "date": "Thu, 04 Jun 2026 19:06:10 +0200"
+    },
+    {
+      "title": "Apple eröffnet Zentrum für App-Entwickler in Berlin-Mitte",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/apple-zentrum-app-entwickler-berlin-mitte.html",
+      "date": "Thu, 04 Jun 2026 18:50:14 +0200"
+    },
+    {
+      "title": "Offene Gärten Berlin-Brandenburg: So leben wie auf dem Ponyhof",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-offene-gaerten-2026-elbe-elster-kunschke.html",
+      "date": "Thu, 04 Jun 2026 17:38:00 +0200"
+    },
+    {
+      "title": "Kleine Festivals in Brandenburg haben finanzielle Probleme",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/musik-festivals-weniger-besucher-wurzelfestival-niedergoersdorf-finanzen.html",
+      "date": "Thu, 04 Jun 2026 17:25:54 +0200"
+    },
+    {
+      "title": "\"Türkisch für Anfänger\"-Schauspieler Axel Schreiber ist gestorben",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/axel-schreiber-schauspieler-gestorben-luebben-brandenburg.html",
+      "date": "Thu, 04 Jun 2026 17:15:00 +0200"
+    },
+    {
+      "title": "Neue S-Bahn-Linie S15 in Berlin soll am 15. Juni fahren",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-sbahn-s15-eroeffnung-neue-strecke-gesundbrunnen-hauptbahnhof.html",
+      "date": "Thu, 04 Jun 2026 17:14:00 +0200"
+    },
+    {
+      "title": "Hauptgebäude der TU Berlin bleibt im Sommersemester geschlossen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/tu-berlin-hauptgebaeude-baumaengel-geschlossen-asta.html",
+      "date": "Thu, 04 Jun 2026 17:08:00 +0200"
+>>>>>>> 63f0dea2a5f9159f037c609aa5c515c4b13acc39
     }
   ],
   "police": [
     {
+<<<<<<< HEAD
       "title": "Seniorin bei Raub verletzt – Tatverdächtiger festgenommen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1668032.php",
       "date": "Tue, 05 May 2026 15:32:00 +0200"
@@ -96,31 +148,62 @@
       "title": "Alkoholisierter Mann nach wiederholten Straftaten im Unterbindungsgewahrsam",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667313.php",
       "date": "Mon, 04 May 2026 14:02:06 +0200"
+=======
+      "title": "Polizeibeamtin angegriffen und verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1677884.php",
+      "date": "Thu, 04 Jun 2026 17:34:37 +0200"
+>>>>>>> 63f0dea2a5f9159f037c609aa5c515c4b13acc39
     },
     {
-      "title": "Auto überschlägt sich – Autofahrerin verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667305.php",
-      "date": "Mon, 04 May 2026 13:58:27 +0200"
+      "title": "Mann mit Messer verletzt – Tatverdächtige festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1677786.php",
+      "date": "Thu, 04 Jun 2026 16:02:46 +0200"
     },
     {
-      "title": "Nach Streit um Grillverbot – Mann verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667216.php",
-      "date": "Mon, 04 May 2026 12:04:44 +0200"
+      "title": "Spezialeinsatzkräfte nehmen bewaffneten Mann fest",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1677670.php",
+      "date": "Thu, 04 Jun 2026 14:34:48 +0200"
     },
     {
-      "title": "Unbekannte attackieren Mann und verletzen ihn",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667027.php",
-      "date": "Sun, 03 May 2026 16:34:04 +0200"
+      "title": "Durchsuchungen wegen Verdachts des Menschenhandels und der Arbeitsausbeutung",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1677603.php",
+      "date": "Thu, 04 Jun 2026 13:46:04 +0200"
     },
     {
-      "title": "Schüsse auf ein Café",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667023.php",
-      "date": "Sun, 03 May 2026 14:46:40 +0200"
+      "title": "Frauen sexuell belästigt und Dienstwagen beschädigt – Festnahme",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1677618.php",
+      "date": "Thu, 04 Jun 2026 12:58:00 +0200"
     },
     {
+<<<<<<< HEAD
       "title": "Radfahrerin bei Verkehrsunfall verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667026.php",
       "date": "Sun, 03 May 2026 14:05:00 +0200"
+=======
+      "title": "Auseinandersetzung im Volkspark – Zeuginnen und Zeugen gesucht",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1672171.php",
+      "date": "Thu, 04 Jun 2026 10:00:00 +0200"
+    },
+    {
+      "title": "Motorradfahrer lebensbedrohlich verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1677281.php",
+      "date": "Wed, 03 Jun 2026 15:48:00 +0200"
+    },
+    {
+      "title": "Fahrzeuge mit Steinen beworfen – Mann festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1677275.php",
+      "date": "Wed, 03 Jun 2026 15:46:00 +0200"
+    },
+    {
+      "title": "Verdächtige Männer festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1677080.php",
+      "date": "Wed, 03 Jun 2026 12:37:43 +0200"
+    },
+    {
+      "title": "Zwei Männer durch Schüsse verletzt – Zielfahndung nimmt einen Tatverdächtigen fest",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1651624.php",
+      "date": "Wed, 03 Jun 2026 10:35:00 +0200"
+>>>>>>> 63f0dea2a5f9159f037c609aa5c515c4b13acc39
     }
   ],
   "free_events": [],

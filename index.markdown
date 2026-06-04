@@ -244,6 +244,44 @@ layout: null
             <iframe width="100%" height="418" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/ellen-allien&color=%23ff85b9&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&show_teaser=true&visual=false"></iframe>
         </div>
     </div>
+<<<<<<< HEAD
+=======
+
+    <div id="status-history-container">
+      <ul id="status-history-list" style="list-style:none; padding:0; margin:0;"></ul>
+    </div>
+  </div>
+
+  <div class="computer-group-top">
+    <a href="https://strudel.cc/" target="_blank" style="text-decoration:none;">
+      <div class="btn-screen" id="screen-strudel">
+        <div style="color:#FBC02D; text-shadow:0 0 10px #FBC02D; z-index:10; font-weight:bold; font-size:20px;">STRUDEL</div>
+        <!-- 注意：这里去掉了 opacity:0.5; -->
+        <div class="matrix-bg" style="position:absolute; top:0; left:0; width:100%; height:100%; padding:10px;"></div>
+      </div>
+      <div style="width:100%; height:6px; background:#00008B; margin-top:2px;"></div>
+    </a>
+
+    <a href="https://hydra.ojack.xyz/" target="_blank" style="text-decoration:none;">
+      <div class="btn-screen" id="screen-hydra">
+        <div style="color:#87CEFA; text-shadow:0 0 10px #87CEFA; z-index:10; font-weight:bold; font-size:20px;">HYDRA</div>
+        <!-- 注意：这里去掉了 opacity:0.5; -->
+        <div class="matrix-bg" style="position:absolute; top:0; left:0; width:100%; height:100%; padding:10px;"></div>
+      </div>
+      <div style="width:100%; height:6px; background:#00008B; margin-top:2px;"></div>
+    </a>
+  </div>
+
+  <div class="nook-module">
+    <div class="soundcloud-wrapper">
+      <iframe width="100%" height="550" scrolling="no" frameborder="no" allow="autoplay" 
+        src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/ellen-allien&color=%230000ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true">
+      </iframe>
+    </div>
+    <div class="module-label-pink">SN-06 / AUDIO STATION</div>
+  </div>
+
+>>>>>>> 63f0dea2a5f9159f037c609aa5c515c4b13acc39
 </div>
 
 <!-- 移动端底导 -->
@@ -295,6 +333,7 @@ layout: null
             }).reverse().join('');
         }
 
+<<<<<<< HEAD
         if (btn && input) {
             input.addEventListener('keypress', function (e) {
                 if (e.key === 'Enter') btn.click();
@@ -343,3 +382,17 @@ layout: null
 </script>
 </body>
 </html>
+=======
+    btn.addEventListener('click', () => {
+      if (!input.value.trim()) return; 
+      let history = JSON.parse(localStorage.getItem('nook_history') || "[]");
+      history.push({ text: input.value, time: Date.now() });
+      localStorage.setItem('nook_history', JSON.stringify(history));
+      input.value = ''; 
+      refresh();
+      if(window.confetti) window.confetti({ particleCount:100, origin:{y:0.7}, colors:['#ff4d94','#00ff41','#87CEFA'] });
+    });
+    refresh();
+  })();
+</script>
+>>>>>>> 63f0dea2a5f9159f037c609aa5c515c4b13acc39

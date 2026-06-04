@@ -92,6 +92,7 @@
   })();
   </script>
 
+<<<<<<< HEAD
   <link href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" rel="stylesheet">
 
   <nav class="bottom-nav">
@@ -166,3 +167,41 @@
   }
   </style>
 </footer>
+=======
+  <!-- 移动端底部导航栏：修复路径并改用 Emoji -->
+<nav class="mobile-bottom-nav">
+  <a href="{{ '/' | relative_url }}" class="nav-item">
+    <span class="nav-emoji">🏠</span>
+    <span>首页</span>
+  </a>
+  <a href="{{ '/news/' | relative_url }}" class="nav-item">
+    <span class="nav-emoji">📢</span>
+    <span>城市动态</span>
+  </a>
+  <a href="{{ '/study/' | relative_url }}" class="nav-item">
+    <span class="nav-emoji">📚</span>
+    <span>漫游进程</span>
+  </a>
+  <a href="{{ '/gallery/' | relative_url }}" class="nav-item">
+    <span class="nav-emoji">🗺️</span>
+    <span>生活图鉴</span>
+  </a>
+  <a href="{{ '/about/' | relative_url }}" class="nav-item">
+    <span class="nav-emoji">☕</span>
+    <span>关于</span>
+  </a>
+  <a href="{{ page.url | prepend: '/de' | replace: '//', '/' | relative_url }}" class="nav-item">
+    <span class="nav-emoji">🇩🇪</span>
+    <span>DE</span>
+  </a>
+</nav>
+
+<style>
+/* 针对 Emoji 的微调样式 */
+.nav-emoji {
+    font-size: 20px;
+    margin-bottom: 4px;
+}
+</style>
+</footer>
+>>>>>>> 63f0dea2a5f9159f037c609aa5c515c4b13acc39

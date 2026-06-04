@@ -76,14 +76,41 @@ permalink: /news/
     .close-btn { background: var(--hot-pink); color: #fff; border: none; padding: 4px 12px; font-weight: 800; cursor: pointer; }
     #reader-content { flex: 1; padding: 25px; overflow-y: auto; color: #333; line-height: 1.6; }
 
+    /* 🌟 核心修改区：击碎 Jekyll 保护壳，实现移动端全屏贴边 */
     @media screen and (max-width: 768px) {
-        .left-pillar { width: 45px !important; }
-        #browser-overlay { left: 55px !important; width: calc(100% - 65px) !important; }
+        .wrapper, .page-content { 
+            padding-left: 0 !important; 
+            padding-right: 0 !important; 
+            max-width: 100% !important; 
+        }
+
+        .terminal-body { 
+            padding: 0 !important; 
+            gap: 0 !important; 
+        }
+        
+        .left-pillar { 
+            width: 45px !important; 
+        }
+
+        #browser-overlay { 
+            top: 0 !important; 
+            bottom: 0 !important; 
+            left: 45px !important; 
+            right: 0 !important; 
+            width: calc(100% - 45px) !important; 
+            border: none !important; 
+            border-left: 3px solid var(--terminal-black) !important; 
+        }
+        
+        .right-feed { 
+            padding: 10px !important; 
+            padding-bottom: 100px !important; 
+        }
     }
 </style>
 
 <div class="dashboard-container">
-    <!-- 🟢 统一天气组件 -->
     {% include terminal-weather.html %}
 
     <div class="terminal-body">
@@ -124,7 +151,6 @@ permalink: /news/
     </div>
 </div>
 
-<!-- 幸存者手册内容 (无删减) -->
 <div id="manual-content" style="display:none;">
     <h2 style="color:var(--hot-pink); margin-bottom:15px; font-size:18px;">📕 柏林幸存者手册 (Survival Vademecum)</h2>
     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px;">
@@ -172,7 +198,7 @@ const signalPools = {
         {t: "Museumssonntag: Kostenloser Eintritt in über 60 Museen", u: "https://www.museumssonntag.berlin/"}
     ],
     club: [
-        {t: "Siegessäule: Queer Kulturkalender für den Frühling", u: "https://www.siegessaeule.de/termine/"},
+        {t: "Siegessäule: Queer Kulturkalender für Frühling", u: "https://www.siegessaeule.de/termine/"},
         {t: "Tresor Berlin: 35 Jahre Techno-Geschichte im Kraftwerk", u: "https://tresorberlin.com/"},
         {t: "Berghain: Line-up für die Klubnacht am Wochenende steht", u: "https://www.berghain.berlin/en/program/"}
     ]

@@ -121,9 +121,26 @@ permalink: /wiki/
     .progress-track { height: 3px; background: rgba(0, 255, 65, 0.1); width: 100%; position: relative; }
     .progress-fill { height: 100%; background: var(--matrix-green); width: 0%; box-shadow: 0 0 8px var(--matrix-green); transition: width 1s ease; }
 
-    /* --- 5. 手机端专项震撼优化 --- */
+    /* --- 5. 手机端专项震撼优化 (打破边界，但不贴死) --- */
     @media screen and (max-width: 768px) {
-        .window-body { padding: 8px; }
+        /* 击碎 Jekyll 默认的大白边，但保留极少量的内边距让内容有呼吸感 */
+        .wrapper, .page-content { 
+            padding-left: 0 !important; 
+            padding-right: 0 !important; 
+            max-width: 100% !important; 
+        }
+
+        /* 整个生存窗口取消两边的空白，直接铺满 */
+        .survival-window {
+            border-left: none;
+            border-right: none;
+            box-shadow: none; /* 手机上不需要两边的阴影 */
+        }
+
+        /* 内部内容区微调：不要贴死屏幕边缘 */
+        .window-body { 
+            padding: 10px; /* 控制边距：让内部的框和手机边缘保持 10px 距离，不太宽也不太窄 */
+        }
 
         .map-hud {
             position: static;
