@@ -1,14 +1,34 @@
 {
   "traffic": [
     {
+      "title": "Wetterdienst warnt teils vor starken Unwettern",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-wetter-regen-gewitter-sommer-nass.html",
+      "date": "Thu, 04 Jun 2026 15:34:10 +0200"
+    },
+    {
+      "title": "Neue S-Bahn-Linie S15 in Berlin soll am 15. Juni fahren",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-sbahn-s15-eroeffnung-neue-strecke-gesundbrunnen-hauptbahnhof.html",
+      "date": "Thu, 04 Jun 2026 15:06:28 +0200"
+    },
+    {
+      "title": "Nach Entlassung von Staatssekretär: Breite Kritik am Engagement Hundts",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/06/berliner-ex-digital-staatssekretaer-matthias-hundt-kritik.html",
+      "date": "Thu, 04 Jun 2026 14:49:28 +0200"
+    },
+    {
+      "title": "Bus muss scharf bremsen: 16 Verletzte in Neukölln",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/ploetzliche-scharfe-bremsung-bus-gefahrensituation-berlin-neukoelln-feuerwehr-einsatz.html",
+      "date": "Thu, 04 Jun 2026 14:03:00 +0200"
+    },
+    {
+      "title": "Nach 5 Jahren: Verschwundene zwei Kinder aus Cottbus wieder da",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/verschwundene-geschwister-wieder-da-cottbus.html",
+      "date": "Thu, 04 Jun 2026 13:56:59 +0200"
+    },
+    {
       "title": "9.000 Kilometer bis zur Wärmepumpe - Elektriker aus Kolumbien für Enpal",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/brandenburg-enpal-waermepumpen-energiewende-fachkraefte-kolumbien.html",
       "date": "Thu, 04 Jun 2026 12:36:03 +0200"
-    },
-    {
-      "title": "Feuerwehreinsatz: Bus muss scharf bremsen - 15 Verletzte in Neukölln",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/ploetzliche-scharfe-bremsung-bus-gefahrensituation-berlin-neukoelln-feuerwehr-einsatz.html",
-      "date": "Thu, 04 Jun 2026 12:31:36 +0200"
     },
     {
       "title": "Brandenburgs Justizminister Grimm nennt Ausmaß häuslicher Gewalt \"besorgniserregend\"",
@@ -29,29 +49,24 @@
       "title": "Potsdam will Parkplätze von Supermärkten für Allgemeinheit öffnen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/potsdam-parken-parkplaetze-supermaerkte.html",
       "date": "Thu, 04 Jun 2026 11:48:58 +0200"
-    },
-    {
-      "title": "Fredersdorf-Vogelsdorf und Prötzel vor besonderem Aufstiegsspiel",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-brandenburg-euer-kick-amateure-rbb-fredersdorf-vogelsdorf-proetzel.html",
-      "date": "Thu, 04 Jun 2026 11:09:00 +0200"
-    },
-    {
-      "title": "Ehemalige Berliner Gesundheitssenatorin: Kalayci verliert nach Verurteilung Ruhegehalt",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/06/dilek-kalayci-gesundheitssenatorin-kein-ruhegehalt.html",
-      "date": "Thu, 04 Jun 2026 10:31:29 +0200"
-    },
-    {
-      "title": "Scheune in der Prignitz bei Großbrand komplett zerstört",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/prignitz-brand-gerdshagen-scheune-komplett-zerstoert-feuerwehr.html",
-      "date": "Thu, 04 Jun 2026 10:18:38 +0200"
-    },
-    {
-      "title": "Warum in Brandenburg immer weniger Erdbeerfelder zu finden sind",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/erdbeeren-brandenburg-landwirtschaft-ernte-saison.html",
-      "date": "Thu, 04 Jun 2026 10:01:03 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Spezialeinsatzkräfte nehmen bewaffneten Mann fest",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1677670.php",
+      "date": "Thu, 04 Jun 2026 14:34:48 +0200"
+    },
+    {
+      "title": "Durchsuchungen wegen Verdachts des Menschenhandels und der Arbeitsausbeutung",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1677603.php",
+      "date": "Thu, 04 Jun 2026 13:46:04 +0200"
+    },
+    {
+      "title": "Frauen sexuell belästigt und Dienstwagen beschädigt – Festnahme",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1677618.php",
+      "date": "Thu, 04 Jun 2026 12:58:00 +0200"
+    },
     {
       "title": "Auseinandersetzung im Volkspark – Zeuginnen und Zeugen gesucht",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1672171.php",
@@ -86,21 +101,6 @@
       "title": "Mit Auto der Mutter vor Polizei geflüchtet",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1676744.php",
       "date": "Tue, 02 Jun 2026 16:52:36 +0200"
-    },
-    {
-      "title": "Fußgänger bei Verkehrsunfall verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1676527.php",
-      "date": "Tue, 02 Jun 2026 11:57:14 +0200"
-    },
-    {
-      "title": "Autofahrer fährt Kind an",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1676477.php",
-      "date": "Tue, 02 Jun 2026 11:16:11 +0200"
-    },
-    {
-      "title": "Vermisstes Kind dank Zeugenhinweis angetroffen und Ex-Lebensgefährten der Mutter festgenommen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1675773.php",
-      "date": "Mon, 01 Jun 2026 17:41:00 +0200"
     }
   ],
   "free_events": [],
