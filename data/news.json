@@ -1,9 +1,29 @@
 {
   "traffic": [
     {
-      "title": "Wetterdienst warnt teils vor starken Gewittern",
+      "title": "Berlin: Polizistin bei Festnahme von 16-Jährigem verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/16-jaehriger-festnahme-angriff-gegen-polizei.html",
+      "date": "Thu, 04 Jun 2026 20:38:12 +0200"
+    },
+    {
+      "title": "Basketball live: Macht Alba Berlin in Bamberg den Finaleinzug klar?",
+      "link": "https://www.rbb24.de/sport/hintergrund/livestream/livestream-basketball-bbl-playoffs-halbfinale-spiel-3-bamberg-alba-berlin.html",
+      "date": "Thu, 04 Jun 2026 20:30:00 +0200"
+    },
+    {
+      "title": "Wetterlage entspannt sich in Berlin und Brandenburg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-wetter-regen-gewitter-sommer-nass.html",
-      "date": "Thu, 04 Jun 2026 18:17:43 +0200"
+      "date": "Thu, 04 Jun 2026 19:29:00 +0200"
+    },
+    {
+      "title": "Oder-Spree: Zwei Elche bei Grünheide gesichtet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/gruenheide-spreenhagen-elche-gesichtet.html",
+      "date": "Thu, 04 Jun 2026 19:06:10 +0200"
+    },
+    {
+      "title": "Apple eröffnet Zentrum für App-Entwickler in Berlin-Mitte",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/apple-zentrum-app-entwickler-berlin-mitte.html",
+      "date": "Thu, 04 Jun 2026 18:50:14 +0200"
     },
     {
       "title": "Offene Gärten Berlin-Brandenburg: So leben wie auf dem Ponyhof",
@@ -18,37 +38,17 @@
     {
       "title": "\"Türkisch für Anfänger\"-Schauspieler Axel Schreiber ist gestorben",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/06/axel-schreiber-schauspieler-gestorben-luebben-brandenburg.html",
-      "date": "Thu, 04 Jun 2026 17:15:01 +0200"
+      "date": "Thu, 04 Jun 2026 17:15:00 +0200"
     },
     {
       "title": "Neue S-Bahn-Linie S15 in Berlin soll am 15. Juni fahren",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-sbahn-s15-eroeffnung-neue-strecke-gesundbrunnen-hauptbahnhof.html",
-      "date": "Thu, 04 Jun 2026 17:14:57 +0200"
+      "date": "Thu, 04 Jun 2026 17:14:00 +0200"
     },
     {
       "title": "Hauptgebäude der TU Berlin bleibt im Sommersemester geschlossen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/tu-berlin-hauptgebaeude-baumaengel-geschlossen-asta.html",
-      "date": "Thu, 04 Jun 2026 17:08:02 +0200"
-    },
-    {
-      "title": "Nach Entlassung von Staatssekretär Hundt: Kritik an Wegner",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/06/berliner-ex-digital-staatssekretaer-matthias-hundt-kritik.html",
-      "date": "Thu, 04 Jun 2026 14:49:00 +0200"
-    },
-    {
-      "title": "Bus muss scharf bremsen: 16 Verletzte in Neukölln",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/ploetzliche-scharfe-bremsung-bus-gefahrensituation-berlin-neukoelln-feuerwehr-einsatz.html",
-      "date": "Thu, 04 Jun 2026 14:03:00 +0200"
-    },
-    {
-      "title": "Nach 5 Jahren: Verschwundene zwei Kinder aus Cottbus wieder da",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/verschwundene-geschwister-wieder-da-cottbus.html",
-      "date": "Thu, 04 Jun 2026 13:56:59 +0200"
-    },
-    {
-      "title": "Brandenburgs Justizminister Grimm nennt Ausmaß häuslicher Gewalt \"besorgniserregend\"",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/06/brandenburg-haeusliche-gewalt-anstieg-der-faelle-ermittlungsverfahren.html",
-      "date": "Thu, 04 Jun 2026 12:14:14 +0200"
+      "date": "Thu, 04 Jun 2026 17:08:00 +0200"
     }
   ],
   "police": [
