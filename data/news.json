@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Wetter in Berlin und Brandenburg: Meteorologen sagen teils starke Unwetter für Donnerstag voraus",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-wetter-regen-gewitter-sommer-nass.html",
+      "date": "Thu, 04 Jun 2026 08:36:34 +0200"
+    },
+    {
+      "title": "9.000 Kilometer bis zur Wärmepumpe - Elektriker aus Kolumbien für Enpal",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/brandenburg-enpal-waermepumpen-energiewende-fachkraefte-kolumbien.html",
+      "date": "Thu, 04 Jun 2026 07:18:28 +0200"
+    },
+    {
+      "title": "Berlin: Großauftrag für neue Messehalle ist vergeben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-dock9-messehalle-auftrag-kongresszentrum.html",
+      "date": "Thu, 04 Jun 2026 06:22:00 +0200"
+    },
+    {
       "title": "\"Staatsoper für alle\" in Berlin bis 2030 verlängert",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/06/berlin-mitte-bebelplatz-staatsoper-fuer-alle-verlaengerung-2030.html",
       "date": "Wed, 03 Jun 2026 22:37:17 +0200"
@@ -14,11 +29,6 @@
       "title": "Urteil zu Corona-Soforthilfen: OVG Berlin-Brandenburg hat entschieden",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/ovg-berlin-brandenburg-urteil-corona-sofort-hilfen.html",
       "date": "Wed, 03 Jun 2026 19:41:28 +0200"
-    },
-    {
-      "title": "9.000 Kilometer bis zur Wärmepumpe - Elektriker aus Kolumbien für Enpal",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/brandenburg-enpal-waermepumpen-energiewende-fachkraefte-kolumbien.html",
-      "date": "Wed, 03 Jun 2026 18:57:26 +0200"
     },
     {
       "title": "Fördergeldaffäre: Berliner Linke fordert Einsicht der Akten",
@@ -39,16 +49,6 @@
       "title": "Füchse jagen Königsklasse – und profitieren von kuriosem Szenario",
       "link": "https://www.rbb24.de/sport/beitrag/2026/06/handball-bundesliga-champions-league-quali-fuechse-melsungen-las.html",
       "date": "Wed, 03 Jun 2026 17:17:11 +0200"
-    },
-    {
-      "title": "Schafe in Seelow auf Marktplatz zum Auftakt vom Hirtenjahr 2026",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/seelow-schafe-marktplatz-maerkisch-oderland-klima-waldbrand-schaefer.html",
-      "date": "Wed, 03 Jun 2026 17:09:27 +0200"
-    },
-    {
-      "title": "Im Velodrom: Berlin richtet die Bahnrad-EM 2027 aus",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/radsport-bahnrad-em-europameisterschaft-berlin-2027.html",
-      "date": "Wed, 03 Jun 2026 16:45:21 +0200"
     }
   ],
   "police": [
