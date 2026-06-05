@@ -1,67 +1,82 @@
 {
   "traffic": [
     {
+      "title": "Spree-Neiße: AfD klagt nach verlorener Landratswahl gegen Kreistag",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/06/spree-neisse-landratswahl-afd-klagt-gegen-kreistag.html",
+      "date": "Fri, 05 Jun 2026 12:42:13 +0200"
+    },
+    {
+      "title": "Raub, Diebstahl, Körperverletzung: Berliner Polizei erfasst 2025 mehr sogenannte Clankriminalität",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-clankriminalitaet-polizei-verbrechen.html",
+      "date": "Fri, 05 Jun 2026 12:32:32 +0200"
+    },
+    {
+      "title": "Schüsse in Berlin - Ermittlungsgruppe \"Telum\" zieht erste Bilanz",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-polizei-schuesse-telum-30-verdaechtige-haft.html",
+      "date": "Fri, 05 Jun 2026 12:05:00 +0200"
+    },
+    {
+      "title": "Berliner Parks nach Technopartys am 1. Mai stark beschädigt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-parks-erster-mai-techno-schaden-hasenheide-goerli.html",
+      "date": "Fri, 05 Jun 2026 11:41:47 +0200"
+    },
+    {
+      "title": "Offiziell: Tennis-Legende Serena Williams tritt bei WTA-Turnier in Berlin an",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/tennis-wta-turnier-berlin-legende-serena-williams-comeback.html",
+      "date": "Fri, 05 Jun 2026 11:36:09 +0200"
+    },
+    {
+      "title": "Verfassungsschutzbericht: Mehr Rechtsextreme in Brandenburg",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/06/verfassungsschutzbericht-brandenburg-rechtsextremismus.html",
+      "date": "Fri, 05 Jun 2026 11:25:19 +0200"
+    },
+    {
+      "title": "Potse und Drugstore: Entwurf für neues Jugendzentrum in Tempelhof-Schöneberg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-tempelhof-schoeneberg-jugendzentrum-potse-drugstore.html",
+      "date": "Fri, 05 Jun 2026 11:20:15 +0200"
+    },
+    {
+      "title": "Zwei Polizisten bei Autounfall in der Prignitz teils schwerverletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-prignitz-unfall-polizei.html",
+      "date": "Fri, 05 Jun 2026 09:23:28 +0200"
+    },
+    {
       "title": "\"Unsere kleine Farm\" im Ballhaus Ost: Raus aufs Land zum schwangeren Igel",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/06/theater-unsere-kleine-farm-ballhaus-ost-berlin.html",
-      "date": "Fri, 05 Jun 2026 08:48:31 +0200"
+      "date": "Fri, 05 Jun 2026 08:48:00 +0200"
+    },
+    {
+      "title": "Berliner ÖPNV: S-Bahn-Verkehr am Wochenende eingeschränkt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-sbahn-einschraekungen-oepnv-verkehr-pendeln.html",
+      "date": "Fri, 05 Jun 2026 08:26:00 +0200"
     },
     {
       "title": "Autofahrer erleidet medizinischen Notfall, verursacht Unfall und stirbt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-tempelhof-schoeneberg-unfall-mariendorfer-damm.html",
       "date": "Fri, 05 Jun 2026 08:17:25 +0200"
-    },
-    {
-      "title": "Organspende: Berlinerin über ihr Leben mit einer Spenderniere",
-      "link": "https://www.rbb24.de/panorama/thema/wiegehtesuns/junge-frau-organspende-niere-spenderniere-widerspruchsloesung-spanien.html",
-      "date": "Fri, 05 Jun 2026 07:16:21 +0200"
-    },
-    {
-      "title": "Alba verliert drittes Halbfinalspiel in Bamberg: Der Sound der Kettensäge",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/basketball-bb-playoffs-halbfinale-spiel-3-bamberg-alba-berlin.html",
-      "date": "Fri, 05 Jun 2026 07:10:00 +0200"
-    },
-    {
-      "title": "Eichenprozessionsspinner: Probleme laut Experten bald vorbei",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-eichenprozessionsspinner-raupe-allergie-probleme-sportanlagen.html",
-      "date": "Fri, 05 Jun 2026 06:30:39 +0200"
-    },
-    {
-      "title": "Schwerer Tram-Unfall in Berlin - Strecke wieder frei",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/strassenbahn-tram-unfall-berlin-strecke-frei.html",
-      "date": "Thu, 04 Jun 2026 22:44:35 +0200"
-    },
-    {
-      "title": "Füchse Berlin so gut wie sicher für Champions League qualifiziert",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/berlin-handball-fuechse-melsungen-bundesliga-spielbericht.html",
-      "date": "Thu, 04 Jun 2026 22:18:22 +0200"
-    },
-    {
-      "title": "Berlin: Polizistin bei Festnahme von 16-Jährigem verletzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/16-jaehriger-festnahme-angriff-gegen-polizei.html",
-      "date": "Thu, 04 Jun 2026 20:38:12 +0200"
-    },
-    {
-      "title": "Oder-Spree: Zwei Elche bei Grünheide gesichtet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/gruenheide-spreenhagen-elche-gesichtet.html",
-      "date": "Thu, 04 Jun 2026 19:06:10 +0200"
-    },
-    {
-      "title": "Apple eröffnet Zentrum für App-Entwickler in Berlin-Mitte",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/apple-zentrum-app-entwickler-berlin-mitte.html",
-      "date": "Thu, 04 Jun 2026 18:50:14 +0200"
-    },
-    {
-      "title": "Offene Gärten Berlin-Brandenburg: So leben wie auf dem Ponyhof",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-offene-gaerten-2026-elbe-elster-kunschke.html",
-      "date": "Thu, 04 Jun 2026 17:38:00 +0200"
-    },
-    {
-      "title": "Kleine Festivals in Brandenburg haben finanzielle Probleme",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/musik-festivals-weniger-besucher-wurzelfestival-niedergoersdorf-finanzen.html",
-      "date": "Thu, 04 Jun 2026 17:25:00 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Schussabgaben auf Personen – Zeuginnen und Zeugen gesucht",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1674077.php",
+      "date": "Fri, 05 Jun 2026 11:20:00 +0200"
+    },
+    {
+      "title": "Schwangere Beifahrerin nach Verkehrsunfall im Krankenhaus",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678101.php",
+      "date": "Fri, 05 Jun 2026 10:46:00 +0200"
+    },
+    {
+      "title": "Festnahme nach Schüssen mit einer Schreckschusswaffe",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678097.php",
+      "date": "Fri, 05 Jun 2026 10:42:00 +0200"
+    },
+    {
+      "title": "Nach Fahrstreifenwechsel mitgeschleift – Kradfahrer im Krankenhaus",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678095.php",
+      "date": "Fri, 05 Jun 2026 10:40:00 +0200"
+    },
     {
       "title": "Polizeibeamtin angegriffen und verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1677884.php",
@@ -101,32 +116,42 @@
       "title": "Fahrzeuge mit Steinen beworfen – Mann festgenommen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1677275.php",
       "date": "Wed, 03 Jun 2026 15:46:00 +0200"
-    },
-    {
-      "title": "Verdächtige Männer festgenommen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1677080.php",
-      "date": "Wed, 03 Jun 2026 12:37:43 +0200"
-    },
-    {
-      "title": "Zwei Männer durch Schüsse verletzt – Zielfahndung nimmt einen Tatverdächtigen fest",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1651624.php",
-      "date": "Wed, 03 Jun 2026 10:35:00 +0200"
-    },
-    {
-      "title": "Nach gewalttätigen Ausschreitungen im Olympiastadion - Polizei bittet um Mithilfe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1634658.php",
-      "date": "Wed, 03 Jun 2026 09:36:00 +0200"
-    },
-    {
-      "title": "Mit Auto der Mutter vor Polizei geflüchtet",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1676744.php",
-      "date": "Tue, 02 Jun 2026 16:52:36 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Raub, Diebstahl, Körperverletzung: Berliner Polizei erfasst 2025 mehr sogenannte Clankriminalität",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-clankriminalitaet-polizei-verbrechen.html",
+      "date": "Fri, 05 Jun 2026 12:32:32 +0200"
+    },
+    {
+      "title": "Schüsse in Berlin - Ermittlungsgruppe \"Telum\" zieht erste Bilanz",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-polizei-schuesse-telum-30-verdaechtige-haft.html",
+      "date": "Fri, 05 Jun 2026 12:05:00 +0200"
+    },
+    {
+      "title": "Berliner Parks nach Technopartys am 1. Mai stark beschädigt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-parks-erster-mai-techno-schaden-hasenheide-goerli.html",
+      "date": "Fri, 05 Jun 2026 11:41:47 +0200"
+    },
+    {
+      "title": "Potse und Drugstore: Entwurf für neues Jugendzentrum in Tempelhof-Schöneberg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-tempelhof-schoeneberg-jugendzentrum-potse-drugstore.html",
+      "date": "Fri, 05 Jun 2026 11:20:15 +0200"
+    },
+    {
+      "title": "Zwei Polizisten bei Autounfall in der Prignitz teils schwerverletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-prignitz-unfall-polizei.html",
+      "date": "Fri, 05 Jun 2026 09:23:28 +0200"
+    },
+    {
+      "title": "Berliner ÖPNV: S-Bahn-Verkehr am Wochenende eingeschränkt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-sbahn-einschraekungen-oepnv-verkehr-pendeln.html",
+      "date": "Fri, 05 Jun 2026 08:26:00 +0200"
+    },
     {
       "title": "Autofahrer erleidet medizinischen Notfall, verursacht Unfall und stirbt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-tempelhof-schoeneberg-unfall-mariendorfer-damm.html",
@@ -156,36 +181,6 @@
       "title": "Berlin: Polizistin bei Festnahme von 16-Jährigem verletzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/16-jaehriger-festnahme-angriff-gegen-polizei.html",
       "date": "Thu, 04 Jun 2026 20:38:12 +0200"
-    },
-    {
-      "title": "Oder-Spree: Zwei Elche bei Grünheide gesichtet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/gruenheide-spreenhagen-elche-gesichtet.html",
-      "date": "Thu, 04 Jun 2026 19:06:10 +0200"
-    },
-    {
-      "title": "Offene Gärten Berlin-Brandenburg: So leben wie auf dem Ponyhof",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-offene-gaerten-2026-elbe-elster-kunschke.html",
-      "date": "Thu, 04 Jun 2026 17:38:00 +0200"
-    },
-    {
-      "title": "Neue S-Bahn-Linie S15 in Berlin soll am 15. Juni fahren",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-sbahn-s15-eroeffnung-neue-strecke-gesundbrunnen-hauptbahnhof.html",
-      "date": "Thu, 04 Jun 2026 17:14:00 +0200"
-    },
-    {
-      "title": "Hauptgebäude der TU Berlin bleibt im Sommersemester geschlossen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/tu-berlin-hauptgebaeude-baumaengel-geschlossen-asta.html",
-      "date": "Thu, 04 Jun 2026 17:08:00 +0200"
-    },
-    {
-      "title": "Frankfurt (Oder): \"Chancencenter\" soll Migranten Perspektiven geben",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/migranten-asylantrag-weiterbildung-bleibeperspektive-frankfurt-oder-rene-wilke-zabh-brandenburg-gefluechtete.html",
-      "date": "Thu, 04 Jun 2026 16:47:00 +0200"
-    },
-    {
-      "title": "Bus muss scharf bremsen: 16 Verletzte in Neukölln",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/ploetzliche-scharfe-bremsung-bus-gefahrensituation-berlin-neukoelln-feuerwehr-einsatz.html",
-      "date": "Thu, 04 Jun 2026 14:03:00 +0200"
     }
   ]
 }
