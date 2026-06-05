@@ -1,9 +1,29 @@
 {
   "traffic": [
     {
+      "title": "\"Unsere kleine Farm\" im Ballhaus Ost: Raus aufs Land zum schwangeren Igel",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/theater-unsere-kleine-farm-ballhaus-ost-berlin.html",
+      "date": "Fri, 05 Jun 2026 08:48:31 +0200"
+    },
+    {
+      "title": "Autofahrer erleidet medizinischen Notfall, verursacht Unfall und stirbt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-tempelhof-schoeneberg-unfall-mariendorfer-damm.html",
+      "date": "Fri, 05 Jun 2026 08:17:25 +0200"
+    },
+    {
+      "title": "Organspende: Berlinerin über ihr Leben mit einer Spenderniere",
+      "link": "https://www.rbb24.de/panorama/thema/wiegehtesuns/junge-frau-organspende-niere-spenderniere-widerspruchsloesung-spanien.html",
+      "date": "Fri, 05 Jun 2026 07:16:21 +0200"
+    },
+    {
       "title": "Alba verliert drittes Halbfinalspiel in Bamberg: Der Sound der Kettensäge",
       "link": "https://www.rbb24.de/sport/beitrag/2026/06/basketball-bb-playoffs-halbfinale-spiel-3-bamberg-alba-berlin.html",
-      "date": "Fri, 05 Jun 2026 00:40:26 +0200"
+      "date": "Fri, 05 Jun 2026 07:10:00 +0200"
+    },
+    {
+      "title": "Eichenprozessionsspinner: Probleme laut Experten bald vorbei",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-eichenprozessionsspinner-raupe-allergie-probleme-sportanlagen.html",
+      "date": "Fri, 05 Jun 2026 06:30:39 +0200"
     },
     {
       "title": "Schwerer Tram-Unfall in Berlin - Strecke wieder frei",
@@ -14,11 +34,6 @@
       "title": "Füchse Berlin so gut wie sicher für Champions League qualifiziert",
       "link": "https://www.rbb24.de/sport/beitrag/2026/06/berlin-handball-fuechse-melsungen-bundesliga-spielbericht.html",
       "date": "Thu, 04 Jun 2026 22:18:22 +0200"
-    },
-    {
-      "title": "Wetterlage entspannt sich in Berlin und Brandenburg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-wetter-regen-gewitter-sommer-nass.html",
-      "date": "Thu, 04 Jun 2026 22:15:58 +0200"
     },
     {
       "title": "Berlin: Polizistin bei Festnahme von 16-Jährigem verletzt",
@@ -43,22 +58,7 @@
     {
       "title": "Kleine Festivals in Brandenburg haben finanzielle Probleme",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/06/musik-festivals-weniger-besucher-wurzelfestival-niedergoersdorf-finanzen.html",
-      "date": "Thu, 04 Jun 2026 17:25:54 +0200"
-    },
-    {
-      "title": "\"Türkisch für Anfänger\"-Schauspieler Axel Schreiber ist gestorben",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/axel-schreiber-schauspieler-gestorben-luebben-brandenburg.html",
-      "date": "Thu, 04 Jun 2026 17:15:00 +0200"
-    },
-    {
-      "title": "Neue S-Bahn-Linie S15 in Berlin soll am 15. Juni fahren",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-sbahn-s15-eroeffnung-neue-strecke-gesundbrunnen-hauptbahnhof.html",
-      "date": "Thu, 04 Jun 2026 17:14:00 +0200"
-    },
-    {
-      "title": "Hauptgebäude der TU Berlin bleibt im Sommersemester geschlossen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/tu-berlin-hauptgebaeude-baumaengel-geschlossen-asta.html",
-      "date": "Thu, 04 Jun 2026 17:08:00 +0200"
+      "date": "Thu, 04 Jun 2026 17:25:00 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,21 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Autofahrer erleidet medizinischen Notfall, verursacht Unfall und stirbt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-tempelhof-schoeneberg-unfall-mariendorfer-damm.html",
+      "date": "Fri, 05 Jun 2026 08:17:25 +0200"
+    },
+    {
+      "title": "Organspende: Berlinerin über ihr Leben mit einer Spenderniere",
+      "link": "https://www.rbb24.de/panorama/thema/wiegehtesuns/junge-frau-organspende-niere-spenderniere-widerspruchsloesung-spanien.html",
+      "date": "Fri, 05 Jun 2026 07:16:21 +0200"
+    },
+    {
+      "title": "Eichenprozessionsspinner: Probleme laut Experten bald vorbei",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-eichenprozessionsspinner-raupe-allergie-probleme-sportanlagen.html",
+      "date": "Fri, 05 Jun 2026 06:30:39 +0200"
+    },
+    {
       "title": "Schwerer Tram-Unfall in Berlin - Strecke wieder frei",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/strassenbahn-tram-unfall-berlin-strecke-frei.html",
       "date": "Thu, 04 Jun 2026 22:44:35 +0200"
@@ -171,21 +186,6 @@
       "title": "Bus muss scharf bremsen: 16 Verletzte in Neukölln",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/ploetzliche-scharfe-bremsung-bus-gefahrensituation-berlin-neukoelln-feuerwehr-einsatz.html",
       "date": "Thu, 04 Jun 2026 14:03:00 +0200"
-    },
-    {
-      "title": "Nach 5 Jahren: Verschwundene zwei Kinder aus Cottbus wieder da",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/verschwundene-geschwister-wieder-da-cottbus.html",
-      "date": "Thu, 04 Jun 2026 13:56:59 +0200"
-    },
-    {
-      "title": "Potsdam will Parkplätze von Supermärkten für Allgemeinheit öffnen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/potsdam-parken-parkplaetze-supermaerkte.html",
-      "date": "Thu, 04 Jun 2026 11:48:58 +0200"
-    },
-    {
-      "title": "Scheune in der Prignitz bei Großbrand komplett zerstört",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/prignitz-brand-gerdshagen-scheune-komplett-zerstoert-feuerwehr.html",
-      "date": "Thu, 04 Jun 2026 10:18:38 +0200"
     }
   ]
 }
