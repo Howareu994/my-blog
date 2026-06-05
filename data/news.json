@@ -1,6 +1,31 @@
 {
   "traffic": [
     {
+      "title": "Grillwiese im Görlitzer Park wegen Eichenprozessionsspinner gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/eichenprozessionsspinner-goerlitzer-park-berlin.html",
+      "date": "Fri, 05 Jun 2026 15:33:21 +0200"
+    },
+    {
+      "title": "Umweltkatastrophe in der Oder: Fische und Muscheln erholen sich weiter",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/oder-grenzfluss-fischsterben-umweltkatastrophe-polen-natur-brandenburg-wasserqualitaet.html",
+      "date": "Fri, 05 Jun 2026 15:18:40 +0200"
+    },
+    {
+      "title": "Neuer Eisbären-Coach: Unbekannter Dubois vor großer Mission",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/eishockey-eisbaeren-berlin-neuer-trainer-eric-dubois.html",
+      "date": "Fri, 05 Jun 2026 14:47:06 +0200"
+    },
+    {
+      "title": "Tausende Radfahrer bei Sternfahrt erwartet - Umleitungen für Autos",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/sternfahrt-berlin-sperrungen-verkehr-fahrrad-adfc.html",
+      "date": "Fri, 05 Jun 2026 13:27:46 +0200"
+    },
+    {
+      "title": "Verfassungsschutzbericht: Mehr Rechtsextreme in Brandenburg",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/06/verfassungsschutzbericht-brandenburg-rechtsextremismus.html",
+      "date": "Fri, 05 Jun 2026 13:23:24 +0200"
+    },
+    {
       "title": "Spree-Neiße: AfD klagt nach verlorener Landratswahl gegen Kreistag",
       "link": "https://www.rbb24.de/politik/beitrag/2026/06/spree-neisse-landratswahl-afd-klagt-gegen-kreistag.html",
       "date": "Fri, 05 Jun 2026 12:42:13 +0200"
@@ -26,11 +51,6 @@
       "date": "Fri, 05 Jun 2026 11:36:09 +0200"
     },
     {
-      "title": "Verfassungsschutzbericht: Mehr Rechtsextreme in Brandenburg",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/06/verfassungsschutzbericht-brandenburg-rechtsextremismus.html",
-      "date": "Fri, 05 Jun 2026 11:25:19 +0200"
-    },
-    {
       "title": "Potse und Drugstore: Entwurf für neues Jugendzentrum in Tempelhof-Schöneberg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-tempelhof-schoeneberg-jugendzentrum-potse-drugstore.html",
       "date": "Fri, 05 Jun 2026 11:20:15 +0200"
@@ -39,24 +59,14 @@
       "title": "Zwei Polizisten bei Autounfall in der Prignitz teils schwerverletzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-prignitz-unfall-polizei.html",
       "date": "Fri, 05 Jun 2026 09:23:28 +0200"
-    },
-    {
-      "title": "\"Unsere kleine Farm\" im Ballhaus Ost: Raus aufs Land zum schwangeren Igel",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/theater-unsere-kleine-farm-ballhaus-ost-berlin.html",
-      "date": "Fri, 05 Jun 2026 08:48:00 +0200"
-    },
-    {
-      "title": "Berliner ÖPNV: S-Bahn-Verkehr am Wochenende eingeschränkt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-sbahn-einschraekungen-oepnv-verkehr-pendeln.html",
-      "date": "Fri, 05 Jun 2026 08:26:00 +0200"
-    },
-    {
-      "title": "Autofahrer erleidet medizinischen Notfall, verursacht Unfall und stirbt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-tempelhof-schoeneberg-unfall-mariendorfer-damm.html",
-      "date": "Fri, 05 Jun 2026 08:17:25 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Verkehrsunfall nach medizinischem Notfall",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678324.php",
+      "date": "Fri, 05 Jun 2026 14:50:00 +0200"
+    },
     {
       "title": "Schussabgaben auf Personen – Zeuginnen und Zeugen gesucht",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1674077.php",
@@ -111,17 +121,27 @@
       "title": "Motorradfahrer lebensbedrohlich verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1677281.php",
       "date": "Wed, 03 Jun 2026 15:48:00 +0200"
-    },
-    {
-      "title": "Fahrzeuge mit Steinen beworfen – Mann festgenommen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1677275.php",
-      "date": "Wed, 03 Jun 2026 15:46:00 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Grillwiese im Görlitzer Park wegen Eichenprozessionsspinner gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/eichenprozessionsspinner-goerlitzer-park-berlin.html",
+      "date": "Fri, 05 Jun 2026 15:33:21 +0200"
+    },
+    {
+      "title": "Umweltkatastrophe in der Oder: Fische und Muscheln erholen sich weiter",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/oder-grenzfluss-fischsterben-umweltkatastrophe-polen-natur-brandenburg-wasserqualitaet.html",
+      "date": "Fri, 05 Jun 2026 15:18:40 +0200"
+    },
+    {
+      "title": "Tausende Radfahrer bei Sternfahrt erwartet - Umleitungen für Autos",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/sternfahrt-berlin-sperrungen-verkehr-fahrrad-adfc.html",
+      "date": "Fri, 05 Jun 2026 13:27:46 +0200"
+    },
     {
       "title": "Raub, Diebstahl, Körperverletzung: Berliner Polizei erfasst 2025 mehr sogenannte Clankriminalität",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-clankriminalitaet-polizei-verbrechen.html",
@@ -160,27 +180,12 @@
     {
       "title": "Organspende: Berlinerin über ihr Leben mit einer Spenderniere",
       "link": "https://www.rbb24.de/panorama/thema/wiegehtesuns/junge-frau-organspende-niere-spenderniere-widerspruchsloesung-spanien.html",
-      "date": "Fri, 05 Jun 2026 07:16:21 +0200"
+      "date": "Fri, 05 Jun 2026 07:16:00 +0200"
     },
     {
       "title": "Eichenprozessionsspinner: Probleme laut Experten bald vorbei",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-eichenprozessionsspinner-raupe-allergie-probleme-sportanlagen.html",
       "date": "Fri, 05 Jun 2026 06:30:39 +0200"
-    },
-    {
-      "title": "Schwerer Tram-Unfall in Berlin - Strecke wieder frei",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/strassenbahn-tram-unfall-berlin-strecke-frei.html",
-      "date": "Thu, 04 Jun 2026 22:44:35 +0200"
-    },
-    {
-      "title": "Wetterlage entspannt sich in Berlin und Brandenburg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-wetter-regen-gewitter-sommer-nass.html",
-      "date": "Thu, 04 Jun 2026 22:15:58 +0200"
-    },
-    {
-      "title": "Berlin: Polizistin bei Festnahme von 16-Jährigem verletzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/16-jaehriger-festnahme-angriff-gegen-polizei.html",
-      "date": "Thu, 04 Jun 2026 20:38:12 +0200"
     }
   ]
 }
