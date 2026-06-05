@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "TU Berlin schließt Bibliotheksgebäude eine Woche lang für Reparaturen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/tu-berlin-bibliothek-gebaeude-geschlossen-reparatur.html",
+      "date": "Fri, 05 Jun 2026 21:38:03 +0200"
+    },
+    {
+      "title": "Tänzerinnen-Brunnen von Georg Kolbe geht in die USA",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/taenzerinnen-brunnen-georg-kolbe-museum.html",
+      "date": "Fri, 05 Jun 2026 21:22:43 +0200"
+    },
+    {
+      "title": "Fußball-Wetten: \"Suizidgefahr bei Glücksspielsucht mit am höchsten\"",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-wm-weltmeisterschaft-sportwetten-wettanbieter-sucht-gefahr-werbung.html",
+      "date": "Fri, 05 Jun 2026 20:04:24 +0200"
+    },
+    {
       "title": "Rechtsextreme Jugendliche bereiten Innenminister \"schlaflose Nächte\"",
       "link": "https://www.rbb24.de/politik/beitrag/2026/06/bericht-verfassungsschutz-innenminister-redmann-besorgt.html",
       "date": "Fri, 05 Jun 2026 19:41:17 +0200"
@@ -44,21 +59,6 @@
       "title": "BVG beendet Werbekampagne von \"Nius\"",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-bvg-beendet-werbekampagne-nius.html",
       "date": "Fri, 05 Jun 2026 16:50:17 +0200"
-    },
-    {
-      "title": "Oder-Spree: Zwei Elche bei Grünheide gesichtet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/gruenheide-spreenhagen-elche-gesichtet.html",
-      "date": "Fri, 05 Jun 2026 16:30:00 +0200"
-    },
-    {
-      "title": "IHK und Eberswalder Wurst verständigen sich bei Nutzung der Marke \"Eberswalder\"",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/eberswalde-wurst-einigung-brandenburg-ihk-markenrecht-name-barnim.html",
-      "date": "Fri, 05 Jun 2026 16:17:00 +0200"
-    },
-    {
-      "title": "Landeseigene Berliner Wohnungsunternehmen planen 56.000 neue Wohnungen",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/06/berlin-landeseigene-wohnungsbaugesellschaften-neubau.html",
-      "date": "Fri, 05 Jun 2026 15:53:59 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "TU Berlin schließt Bibliotheksgebäude eine Woche lang für Reparaturen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/tu-berlin-bibliothek-gebaeude-geschlossen-reparatur.html",
+      "date": "Fri, 05 Jun 2026 21:38:03 +0200"
+    },
+    {
       "title": "Eichenprozessionsspinner: Gefahren und Tipps",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/faq-eichenprozessionsspinner-berlin-brandenburg-raupen-eichen.html",
       "date": "Fri, 05 Jun 2026 19:13:45 +0200"
@@ -181,11 +186,6 @@
       "title": "Tausende Radfahrer bei Sternfahrt erwartet - Umleitungen für Autos",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/sternfahrt-berlin-sperrungen-verkehr-fahrrad-adfc.html",
       "date": "Fri, 05 Jun 2026 13:27:46 +0200"
-    },
-    {
-      "title": "Raub, Diebstahl, Körperverletzung: Berliner Polizei erfasst 2025 mehr sogenannte Clankriminalität",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-clankriminalitaet-polizei-verbrechen.html",
-      "date": "Fri, 05 Jun 2026 12:32:32 +0200"
     }
   ]
 }
