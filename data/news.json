@@ -1,14 +1,39 @@
 {
   "traffic": [
     {
-      "title": "Oberhavel: Tote Person bei Brand in Kremmen entdeckt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-oberhavel-brand-kremmen-tote-person.html",
-      "date": "Sat, 06 Jun 2026 07:51:27 +0200"
+      "title": "Eichenprozessionsspinner: Gefahren und Tipps",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/faq-eichenprozessionsspinner-berlin-brandenburg-raupen-eichen.html",
+      "date": "Sat, 06 Jun 2026 10:23:56 +0200"
+    },
+    {
+      "title": "Berlin-Kreuzberg: Acht Verletzte nach Unfall mit Taxi und Polizeiauto",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-polizei-acht-verletzte-unfall-taxi-mannschaftswagen.html",
+      "date": "Sat, 06 Jun 2026 10:20:14 +0200"
+    },
+    {
+      "title": "Referendarin in der Bibliothek: Ein Ort nicht nur für Boomer",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/berlin-bibliothekarin-zlb-beruf-buecher-streaming.html",
+      "date": "Sat, 06 Jun 2026 10:01:19 +0200"
+    },
+    {
+      "title": "Stadtbibliothek Berlin feiert 125 Jahre",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/125-jahre-berliner-stadtbibliothek-berlin-zlb-agb.html",
+      "date": "Sat, 06 Jun 2026 09:59:20 +0200"
     },
     {
       "title": "Verfassungsschutz warnt vor rechten KI-Fakes in Sozialen Medien",
       "link": "https://www.rbb24.de/politik/beitrag/2026/06/verfassungsschutz-brandenburg-bericht-2025-brandenburger-maedel.html",
-      "date": "Sat, 06 Jun 2026 07:34:48 +0200"
+      "date": "Sat, 06 Jun 2026 09:50:11 +0200"
+    },
+    {
+      "title": "Lange Nacht der Wissenschaften: Forschungseinrichtungen in Berlin öffnen ihre Türen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/lange-nacht-der-wissenschaften-berlin-tickets.html",
+      "date": "Sat, 06 Jun 2026 09:17:34 +0200"
+    },
+    {
+      "title": "Oberhavel: Tote Person bei Brand in Kremmen entdeckt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-oberhavel-brand-kremmen-tote-person.html",
+      "date": "Sat, 06 Jun 2026 07:51:27 +0200"
     },
     {
       "title": "TU Berlin schließt Bibliotheksgebäude eine Woche lang für Reparaturen",
@@ -34,31 +59,6 @@
       "title": "Streit im Brandenburger BSW: Kreisvorsitzende verlassen Partei",
       "link": "https://www.rbb24.de/politik/beitrag/2026/06/brandenburg-bsw-austritte-parteitag-streit-kreisvorstaende.html",
       "date": "Fri, 05 Jun 2026 19:30:35 +0200"
-    },
-    {
-      "title": "Eichenprozessionsspinner: Gefahren und Tipps",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/faq-eichenprozessionsspinner-berlin-brandenburg-raupen-eichen.html",
-      "date": "Fri, 05 Jun 2026 19:13:45 +0200"
-    },
-    {
-      "title": "Anschlag in Berlin geplant: Mehrere Jahre Haft für IS-Anhänger",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/urteil-landgericht-berlin-anschlag-terror-anschlagsplanung-is-haftstrafe.html",
-      "date": "Fri, 05 Jun 2026 18:13:23 +0200"
-    },
-    {
-      "title": "Trainer: \"Erwachsene Nichtschwimmer sind eine große Zielgruppe\"",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/schwimmkurse-berlin-kraulen-nichtschwimmer-tipps-baederbetriebe.html",
-      "date": "Fri, 05 Jun 2026 17:41:48 +0200"
-    },
-    {
-      "title": "Berliner Bäder: Kein Extra-Verbot für Smart Glasses geplant",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/smart-glasses-schwimmbad-berliner-baeder.html",
-      "date": "Fri, 05 Jun 2026 17:15:55 +0200"
-    },
-    {
-      "title": "48-Jähriger wird in Glienicke/Nordbahn von führerlosem Lkw eingeklemmt und stirbt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/glienicke-nordbahn-lastwagen-unfall-tot-polizei.html",
-      "date": "Fri, 05 Jun 2026 16:56:05 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,21 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Eichenprozessionsspinner: Gefahren und Tipps",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/faq-eichenprozessionsspinner-berlin-brandenburg-raupen-eichen.html",
+      "date": "Sat, 06 Jun 2026 10:23:56 +0200"
+    },
+    {
+      "title": "Berlin-Kreuzberg: Acht Verletzte nach Unfall mit Taxi und Polizeiauto",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-polizei-acht-verletzte-unfall-taxi-mannschaftswagen.html",
+      "date": "Sat, 06 Jun 2026 10:20:14 +0200"
+    },
+    {
+      "title": "Lange Nacht der Wissenschaften: Forschungseinrichtungen in Berlin öffnen ihre Türen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/lange-nacht-der-wissenschaften-berlin-tickets.html",
+      "date": "Sat, 06 Jun 2026 09:17:34 +0200"
+    },
+    {
       "title": "Oberhavel: Tote Person bei Brand in Kremmen entdeckt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-oberhavel-brand-kremmen-tote-person.html",
       "date": "Sat, 06 Jun 2026 07:51:27 +0200"
@@ -138,19 +153,9 @@
       "date": "Sat, 06 Jun 2026 07:48:32 +0200"
     },
     {
-      "title": "Schwimmen in Berliner Spree bleibt Zukunftsvision",
-      "link": "https://www.rbb24.de/panorama/beitrag/2025/05/berlin-spree-schwimmen-flussbad-abwasser-mischkanalisation-demo-freitreppe.html",
-      "date": "Sat, 06 Jun 2026 07:15:10 +0200"
-    },
-    {
       "title": "TU Berlin schließt Bibliotheksgebäude eine Woche lang für Reparaturen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/tu-berlin-bibliothek-gebaeude-geschlossen-reparatur.html",
       "date": "Fri, 05 Jun 2026 21:38:03 +0200"
-    },
-    {
-      "title": "Eichenprozessionsspinner: Gefahren und Tipps",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/faq-eichenprozessionsspinner-berlin-brandenburg-raupen-eichen.html",
-      "date": "Fri, 05 Jun 2026 19:13:45 +0200"
     },
     {
       "title": "Anschlag in Berlin geplant: Mehrere Jahre Haft für IS-Anhänger",
@@ -181,11 +186,6 @@
       "title": "BVG beendet Werbekampagne von \"Nius\"",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-bvg-beendet-werbekampagne-nius.html",
       "date": "Fri, 05 Jun 2026 16:50:17 +0200"
-    },
-    {
-      "title": "Oder-Spree: Zwei Elche bei Grünheide gesichtet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/gruenheide-spreenhagen-elche-gesichtet.html",
-      "date": "Fri, 05 Jun 2026 16:30:00 +0200"
     }
   ]
 }
