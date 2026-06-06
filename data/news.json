@@ -1,6 +1,26 @@
 {
   "traffic": [
     {
+      "title": "DFB-Pokal: Union in Braunschweig gefordert - Hertha in Saarbrücken",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-dfb-pokal-auslosung-erste-runde-fc-union-hertha-bsc-energie-cottbus-vfb-krieschow-vsg-altglienicke.html",
+      "date": "Sat, 06 Jun 2026 20:25:59 +0200"
+    },
+    {
+      "title": "Ausschreitungen im Olympiastadion: Polizei ermittelt gegen Polizisten",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-2-liga-hertha-bsc-schalke-04-fans-ausschreitungen-ermit.html",
+      "date": "Sat, 06 Jun 2026 20:16:29 +0200"
+    },
+    {
+      "title": "Bundesliga-Aufstieg verpasst: Spreefüxxe verlieren Handball-Relegation gegen Halle-Neustadt",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/handball-bundesliga-relegation-rueckspiel-spreefuexxe-halle-neustadt-spielbericht.html",
+      "date": "Sat, 06 Jun 2026 20:15:00 +0200"
+    },
+    {
+      "title": "Verfolgungsjagd der Polizei endet mit Festnahme eines Gesuchten",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/mann-flucht-auto-polizeikontrolle-kreuzberg-neukoelln-berlin.html",
+      "date": "Sat, 06 Jun 2026 18:12:00 +0200"
+    },
+    {
       "title": "Tausende Radfahrer bei Sternfahrt erwartet - Umleitungen für Autos",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/sternfahrt-berlin-sperrungen-verkehr-fahrrad-adfc.html",
       "date": "Sat, 06 Jun 2026 17:16:29 +0200"
@@ -39,26 +59,6 @@
       "title": "A10: Wieder Elche in Brandenburg gesichtet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-elche-sichtung-berliner-ring-a10.html",
       "date": "Sat, 06 Jun 2026 12:43:55 +0200"
-    },
-    {
-      "title": "Unfall mit Wingsuit: Brandenburger stirbt in der Schweiz",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/mann-brandenburg-unfall-wingsuit-schweiz-gestorben.html",
-      "date": "Sat, 06 Jun 2026 12:32:00 +0200"
-    },
-    {
-      "title": "Przewalski-Stuten aus Tierpark Berlin leben jetzt in kasachischer Steppe",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/przewalski-pferde-stuten-berlin-tierpark-kasachstan.html",
-      "date": "Sat, 06 Jun 2026 12:17:48 +0200"
-    },
-    {
-      "title": "Eichenprozessionsspinner: Gefahren und Tipps",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/faq-eichenprozessionsspinner-berlin-brandenburg-raupen-eichen.html",
-      "date": "Sat, 06 Jun 2026 10:23:56 +0200"
-    },
-    {
-      "title": "Referendarin in der Bibliothek: Ein Ort nicht nur für Boomer",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/berlin-bibliothekarin-zlb-beruf-buecher-streaming.html",
-      "date": "Sat, 06 Jun 2026 10:01:19 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Verfolgungsjagd der Polizei endet mit Festnahme eines Gesuchten",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/mann-flucht-auto-polizeikontrolle-kreuzberg-neukoelln-berlin.html",
+      "date": "Sat, 06 Jun 2026 18:12:00 +0200"
+    },
+    {
       "title": "Tausende Radfahrer bei Sternfahrt erwartet - Umleitungen für Autos",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/sternfahrt-berlin-sperrungen-verkehr-fahrrad-adfc.html",
       "date": "Sat, 06 Jun 2026 17:16:29 +0200"
@@ -181,11 +186,6 @@
       "title": "Dialog zwischen Jugendlichen und Verwaltung in Ortrand",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/ortrand-verwaltung-aktion-jugendclub-buergertag.html",
       "date": "Sat, 06 Jun 2026 07:48:32 +0200"
-    },
-    {
-      "title": "TU Berlin schließt Bibliotheksgebäude eine Woche lang für Reparaturen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/tu-berlin-bibliothek-gebaeude-geschlossen-reparatur.html",
-      "date": "Fri, 05 Jun 2026 21:38:03 +0200"
     }
   ]
 }
