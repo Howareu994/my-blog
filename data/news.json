@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Fan vor WM-Reise: \"Es gab noch kein fanfeindlicheres Turnier\"",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-wm-weltmeisterschaft-usa-fan-dfb-deutschland-reise-tickets-kosten-interview.html",
+      "date": "Sat, 06 Jun 2026 13:01:20 +0200"
+    },
+    {
+      "title": "A10: Wieder Elche in Brandenburg gesichtet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-elche-sichtung-berliner-ring-a10.html",
+      "date": "Sat, 06 Jun 2026 12:43:55 +0200"
+    },
+    {
+      "title": "Przewalski-Stuten aus Tierpark Berlin leben jetzt in kasachischer Steppe",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/przewalski-pferde-stuten-berlin-tierpark-kasachstan.html",
+      "date": "Sat, 06 Jun 2026 12:17:48 +0200"
+    },
+    {
       "title": "Eichenprozessionsspinner: Gefahren und Tipps",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/faq-eichenprozessionsspinner-berlin-brandenburg-raupen-eichen.html",
       "date": "Sat, 06 Jun 2026 10:23:56 +0200"
@@ -8,7 +23,7 @@
     {
       "title": "Berlin-Kreuzberg: Acht Verletzte nach Unfall mit Taxi und Polizeiauto",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-polizei-acht-verletzte-unfall-taxi-mannschaftswagen.html",
-      "date": "Sat, 06 Jun 2026 10:20:14 +0200"
+      "date": "Sat, 06 Jun 2026 10:20:00 +0200"
     },
     {
       "title": "Referendarin in der Bibliothek: Ein Ort nicht nur für Boomer",
@@ -44,24 +59,19 @@
       "title": "Tänzerinnen-Brunnen von Georg Kolbe geht in die USA",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/06/taenzerinnen-brunnen-georg-kolbe-museum.html",
       "date": "Fri, 05 Jun 2026 21:22:43 +0200"
-    },
-    {
-      "title": "Fußball-Wetten: \"Suizidgefahr bei Glücksspielsucht mit am höchsten\"",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-wm-weltmeisterschaft-sportwetten-wettanbieter-sucht-gefahr-werbung.html",
-      "date": "Fri, 05 Jun 2026 20:04:24 +0200"
-    },
-    {
-      "title": "Rechtsextreme Jugendliche bereiten Innenminister \"schlaflose Nächte\"",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/06/bericht-verfassungsschutz-innenminister-redmann-besorgt.html",
-      "date": "Fri, 05 Jun 2026 19:41:17 +0200"
-    },
-    {
-      "title": "Streit im Brandenburger BSW: Kreisvorsitzende verlassen Partei",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/06/brandenburg-bsw-austritte-parteitag-streit-kreisvorstaende.html",
-      "date": "Fri, 05 Jun 2026 19:30:35 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Tödlicher Verkehrsunfall",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678401.php",
+      "date": "Sat, 06 Jun 2026 12:32:11 +0200"
+    },
+    {
+      "title": "Stichverletzung erlitten",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678400.php",
+      "date": "Sat, 06 Jun 2026 12:30:16 +0200"
+    },
     {
       "title": "Ermittlungen gegen eine Dienstkraft der Polizei Berlin wegen des Verdachts eines Gewaltdelikts",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678391.php",
@@ -111,22 +121,22 @@
       "title": "Durchsuchungen wegen Verdachts des Menschenhandels und der Arbeitsausbeutung",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1677603.php",
       "date": "Thu, 04 Jun 2026 13:46:04 +0200"
-    },
-    {
-      "title": "Frauen sexuell belästigt und Dienstwagen beschädigt – Festnahme",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1677618.php",
-      "date": "Thu, 04 Jun 2026 12:58:00 +0200"
-    },
-    {
-      "title": "Auseinandersetzung im Volkspark – Zeuginnen und Zeugen gesucht",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1672171.php",
-      "date": "Thu, 04 Jun 2026 10:00:00 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "A10: Wieder Elche in Brandenburg gesichtet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-elche-sichtung-berliner-ring-a10.html",
+      "date": "Sat, 06 Jun 2026 12:43:55 +0200"
+    },
+    {
+      "title": "Przewalski-Stuten aus Tierpark Berlin leben jetzt in kasachischer Steppe",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/przewalski-pferde-stuten-berlin-tierpark-kasachstan.html",
+      "date": "Sat, 06 Jun 2026 12:17:48 +0200"
+    },
     {
       "title": "Eichenprozessionsspinner: Gefahren und Tipps",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/faq-eichenprozessionsspinner-berlin-brandenburg-raupen-eichen.html",
@@ -135,7 +145,7 @@
     {
       "title": "Berlin-Kreuzberg: Acht Verletzte nach Unfall mit Taxi und Polizeiauto",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-polizei-acht-verletzte-unfall-taxi-mannschaftswagen.html",
-      "date": "Sat, 06 Jun 2026 10:20:14 +0200"
+      "date": "Sat, 06 Jun 2026 10:20:00 +0200"
     },
     {
       "title": "Lange Nacht der Wissenschaften: Forschungseinrichtungen in Berlin öffnen ihre Türen",
@@ -176,16 +186,6 @@
       "title": "48-Jähriger wird in Glienicke/Nordbahn von führerlosem Lkw eingeklemmt und stirbt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/glienicke-nordbahn-lastwagen-unfall-tot-polizei.html",
       "date": "Fri, 05 Jun 2026 16:56:05 +0200"
-    },
-    {
-      "title": "Tabak-Diebstahl aus fahrenden Zügen - Angeklagte schweigen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/tabak-zigaretten-polen-diebstahl-gueterzuege-frankfurt-berlin-landgericht-verhandlung.html",
-      "date": "Fri, 05 Jun 2026 16:55:35 +0200"
-    },
-    {
-      "title": "BVG beendet Werbekampagne von \"Nius\"",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-bvg-beendet-werbekampagne-nius.html",
-      "date": "Fri, 05 Jun 2026 16:50:17 +0200"
     }
   ]
 }
