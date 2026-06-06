@@ -1,6 +1,26 @@
 {
   "traffic": [
     {
+      "title": "Tänzerinnen-Brunnen von Georg Kolbe geht in die USA",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/taenzerinnen-brunnen-georg-kolbe-museum.html",
+      "date": "Sat, 06 Jun 2026 14:45:09 +0200"
+    },
+    {
+      "title": "Unfall in Berlin-Niederschönhausen: 85-jährige Fußgängerin stirbt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-polizei-niederschoenhausen-verkehrsunfall-frau-tot.html",
+      "date": "Sat, 06 Jun 2026 14:24:55 +0200"
+    },
+    {
+      "title": "Ebola-Patient aus Berliner Charité entlassen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-ebola-patient-aus-charite-entlassen.html",
+      "date": "Sat, 06 Jun 2026 14:22:14 +0200"
+    },
+    {
+      "title": "\"Euer Kick\": TSG Rot-Weiss Fredersdorf-Vogelsdorf - SV Prötzel 1950",
+      "link": "https://www.rbb24.de/sport/hintergrund/livestream/livestream-fussball-amateure-euer-kick-live-im-rbb.html",
+      "date": "Sat, 06 Jun 2026 14:07:55 +0200"
+    },
+    {
       "title": "Fan vor WM-Reise: \"Es gab noch kein fanfeindlicheres Turnier\"",
       "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-wm-weltmeisterschaft-usa-fan-dfb-deutschland-reise-tickets-kosten-interview.html",
       "date": "Sat, 06 Jun 2026 13:01:20 +0200"
@@ -9,6 +29,11 @@
       "title": "A10: Wieder Elche in Brandenburg gesichtet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-elche-sichtung-berliner-ring-a10.html",
       "date": "Sat, 06 Jun 2026 12:43:55 +0200"
+    },
+    {
+      "title": "Unfall mit Wingsuit: Brandenburger stirbt in der Schweiz",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/mann-brandenburg-unfall-wingsuit-schweiz-gestorben.html",
+      "date": "Sat, 06 Jun 2026 12:32:00 +0200"
     },
     {
       "title": "Przewalski-Stuten aus Tierpark Berlin leben jetzt in kasachischer Steppe",
@@ -34,34 +59,14 @@
       "title": "Stadtbibliothek Berlin feiert 125 Jahre",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/06/125-jahre-berliner-stadtbibliothek-berlin-zlb-agb.html",
       "date": "Sat, 06 Jun 2026 09:59:20 +0200"
-    },
-    {
-      "title": "Verfassungsschutz warnt vor rechten KI-Fakes in Sozialen Medien",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/06/verfassungsschutz-brandenburg-bericht-2025-brandenburger-maedel.html",
-      "date": "Sat, 06 Jun 2026 09:50:11 +0200"
-    },
-    {
-      "title": "Lange Nacht der Wissenschaften: Forschungseinrichtungen in Berlin öffnen ihre Türen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/lange-nacht-der-wissenschaften-berlin-tickets.html",
-      "date": "Sat, 06 Jun 2026 09:17:34 +0200"
-    },
-    {
-      "title": "Oberhavel: Tote Person bei Brand in Kremmen entdeckt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-oberhavel-brand-kremmen-tote-person.html",
-      "date": "Sat, 06 Jun 2026 07:51:27 +0200"
-    },
-    {
-      "title": "TU Berlin schließt Bibliotheksgebäude eine Woche lang für Reparaturen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/tu-berlin-bibliothek-gebaeude-geschlossen-reparatur.html",
-      "date": "Fri, 05 Jun 2026 21:38:03 +0200"
-    },
-    {
-      "title": "Tänzerinnen-Brunnen von Georg Kolbe geht in die USA",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/taenzerinnen-brunnen-georg-kolbe-museum.html",
-      "date": "Fri, 05 Jun 2026 21:22:43 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Sachbeschädigung an Zugangstor zum Görlitzer Park",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678402.php",
+      "date": "Sat, 06 Jun 2026 15:03:44 +0200"
+    },
     {
       "title": "Tödlicher Verkehrsunfall",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678401.php",
@@ -116,11 +121,6 @@
       "title": "Spezialeinsatzkräfte nehmen bewaffneten Mann fest",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1677670.php",
       "date": "Thu, 04 Jun 2026 14:34:48 +0200"
-    },
-    {
-      "title": "Durchsuchungen wegen Verdachts des Menschenhandels und der Arbeitsausbeutung",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1677603.php",
-      "date": "Thu, 04 Jun 2026 13:46:04 +0200"
     }
   ],
   "free_events": [],
@@ -128,9 +128,24 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Unfall in Berlin-Niederschönhausen: 85-jährige Fußgängerin stirbt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-polizei-niederschoenhausen-verkehrsunfall-frau-tot.html",
+      "date": "Sat, 06 Jun 2026 14:24:55 +0200"
+    },
+    {
+      "title": "Ebola-Patient aus Berliner Charité entlassen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-ebola-patient-aus-charite-entlassen.html",
+      "date": "Sat, 06 Jun 2026 14:22:14 +0200"
+    },
+    {
       "title": "A10: Wieder Elche in Brandenburg gesichtet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-elche-sichtung-berliner-ring-a10.html",
       "date": "Sat, 06 Jun 2026 12:43:55 +0200"
+    },
+    {
+      "title": "Unfall mit Wingsuit: Brandenburger stirbt in der Schweiz",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/mann-brandenburg-unfall-wingsuit-schweiz-gestorben.html",
+      "date": "Sat, 06 Jun 2026 12:32:00 +0200"
     },
     {
       "title": "Przewalski-Stuten aus Tierpark Berlin leben jetzt in kasachischer Steppe",
@@ -171,21 +186,6 @@
       "title": "Anschlag in Berlin geplant: Mehrere Jahre Haft für IS-Anhänger",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/urteil-landgericht-berlin-anschlag-terror-anschlagsplanung-is-haftstrafe.html",
       "date": "Fri, 05 Jun 2026 18:13:23 +0200"
-    },
-    {
-      "title": "EU-Fördergeld: Café in Burg scheiterte fast an Anträgen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-jtf-fund-foerdermittel-existenzrettung.html",
-      "date": "Fri, 05 Jun 2026 17:49:11 +0200"
-    },
-    {
-      "title": "Berliner Bäder: Kein Extra-Verbot für Smart Glasses geplant",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/smart-glasses-schwimmbad-berliner-baeder.html",
-      "date": "Fri, 05 Jun 2026 17:15:55 +0200"
-    },
-    {
-      "title": "48-Jähriger wird in Glienicke/Nordbahn von führerlosem Lkw eingeklemmt und stirbt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/glienicke-nordbahn-lastwagen-unfall-tot-polizei.html",
-      "date": "Fri, 05 Jun 2026 16:56:05 +0200"
     }
   ]
 }
