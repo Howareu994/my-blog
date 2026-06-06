@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Expo 2035: Berlin und Brandenburg prüfen gemeinsame Bewerbung",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/06/expo-bewerbung-konzept-berlin-brandenburg-wegner-brief.html",
+      "date": "Sat, 06 Jun 2026 15:55:48 +0200"
+    },
+    {
+      "title": "Berlin-Kreuzberg: Acht Verletzte nach Unfall mit Taxi und Polizeiauto",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-polizei-acht-verletzte-unfall-taxi-mannschaftswagen.html",
+      "date": "Sat, 06 Jun 2026 15:25:00 +0200"
+    },
+    {
       "title": "Tänzerinnen-Brunnen von Georg Kolbe geht in die USA",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/06/taenzerinnen-brunnen-georg-kolbe-museum.html",
       "date": "Sat, 06 Jun 2026 14:45:09 +0200"
@@ -14,11 +24,6 @@
       "title": "Ebola-Patient aus Berliner Charité entlassen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-ebola-patient-aus-charite-entlassen.html",
       "date": "Sat, 06 Jun 2026 14:22:14 +0200"
-    },
-    {
-      "title": "\"Euer Kick\": TSG Rot-Weiss Fredersdorf-Vogelsdorf - SV Prötzel 1950",
-      "link": "https://www.rbb24.de/sport/hintergrund/livestream/livestream-fussball-amateure-euer-kick-live-im-rbb.html",
-      "date": "Sat, 06 Jun 2026 14:07:55 +0200"
     },
     {
       "title": "Fan vor WM-Reise: \"Es gab noch kein fanfeindlicheres Turnier\"",
@@ -46,11 +51,6 @@
       "date": "Sat, 06 Jun 2026 10:23:56 +0200"
     },
     {
-      "title": "Berlin-Kreuzberg: Acht Verletzte nach Unfall mit Taxi und Polizeiauto",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-polizei-acht-verletzte-unfall-taxi-mannschaftswagen.html",
-      "date": "Sat, 06 Jun 2026 10:20:00 +0200"
-    },
-    {
       "title": "Referendarin in der Bibliothek: Ein Ort nicht nur für Boomer",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/06/berlin-bibliothekarin-zlb-beruf-buecher-streaming.html",
       "date": "Sat, 06 Jun 2026 10:01:19 +0200"
@@ -62,6 +62,21 @@
     }
   ],
   "police": [
+    {
+      "title": "Einsatzwagen der Polizei verunglückt – acht Verletzte",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678405.php",
+      "date": "Sat, 06 Jun 2026 16:52:18 +0200"
+    },
+    {
+      "title": "Mann flüchtet im Auto vor Polizeikontrolle - Festnahme",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678404.php",
+      "date": "Sat, 06 Jun 2026 16:11:17 +0200"
+    },
+    {
+      "title": "Mann geschlagen und getreten - Festnahme",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678403.php",
+      "date": "Sat, 06 Jun 2026 16:03:34 +0200"
+    },
     {
       "title": "Sachbeschädigung an Zugangstor zum Görlitzer Park",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678402.php",
@@ -106,27 +121,17 @@
       "title": "Nach Fahrstreifenwechsel mitgeschleift – Kradfahrer im Krankenhaus",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678095.php",
       "date": "Fri, 05 Jun 2026 10:40:00 +0200"
-    },
-    {
-      "title": "Polizeibeamtin angegriffen und verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1677884.php",
-      "date": "Thu, 04 Jun 2026 17:34:37 +0200"
-    },
-    {
-      "title": "Mann mit Messer verletzt – Tatverdächtige festgenommen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1677786.php",
-      "date": "Thu, 04 Jun 2026 16:02:46 +0200"
-    },
-    {
-      "title": "Spezialeinsatzkräfte nehmen bewaffneten Mann fest",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1677670.php",
-      "date": "Thu, 04 Jun 2026 14:34:48 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Berlin-Kreuzberg: Acht Verletzte nach Unfall mit Taxi und Polizeiauto",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-polizei-acht-verletzte-unfall-taxi-mannschaftswagen.html",
+      "date": "Sat, 06 Jun 2026 15:25:00 +0200"
+    },
     {
       "title": "Unfall in Berlin-Niederschönhausen: 85-jährige Fußgängerin stirbt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-polizei-niederschoenhausen-verkehrsunfall-frau-tot.html",
@@ -156,11 +161,6 @@
       "title": "Eichenprozessionsspinner: Gefahren und Tipps",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/faq-eichenprozessionsspinner-berlin-brandenburg-raupen-eichen.html",
       "date": "Sat, 06 Jun 2026 10:23:56 +0200"
-    },
-    {
-      "title": "Berlin-Kreuzberg: Acht Verletzte nach Unfall mit Taxi und Polizeiauto",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-polizei-acht-verletzte-unfall-taxi-mannschaftswagen.html",
-      "date": "Sat, 06 Jun 2026 10:20:00 +0200"
     },
     {
       "title": "Lange Nacht der Wissenschaften: Forschungseinrichtungen in Berlin öffnen ihre Türen",
