@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Tausende Radfahrer bei Sternfahrt erwartet - Umleitungen für Autos",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/sternfahrt-berlin-sperrungen-verkehr-fahrrad-adfc.html",
+      "date": "Sat, 06 Jun 2026 17:16:29 +0200"
+    },
+    {
       "title": "Expo 2035: Berlin und Brandenburg prüfen gemeinsame Bewerbung",
       "link": "https://www.rbb24.de/politik/beitrag/2026/06/expo-bewerbung-konzept-berlin-brandenburg-wegner-brief.html",
       "date": "Sat, 06 Jun 2026 15:55:48 +0200"
@@ -54,14 +59,14 @@
       "title": "Referendarin in der Bibliothek: Ein Ort nicht nur für Boomer",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/06/berlin-bibliothekarin-zlb-beruf-buecher-streaming.html",
       "date": "Sat, 06 Jun 2026 10:01:19 +0200"
-    },
-    {
-      "title": "Stadtbibliothek Berlin feiert 125 Jahre",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/125-jahre-berliner-stadtbibliothek-berlin-zlb-agb.html",
-      "date": "Sat, 06 Jun 2026 09:59:20 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Besonders schwerer Landfriedensbruch",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678406.php",
+      "date": "Sat, 06 Jun 2026 17:08:34 +0200"
+    },
     {
       "title": "Einsatzwagen der Polizei verunglückt – acht Verletzte",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678405.php",
@@ -116,17 +121,17 @@
       "title": "Festnahme nach Schüssen mit einer Schreckschusswaffe",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678097.php",
       "date": "Fri, 05 Jun 2026 10:42:00 +0200"
-    },
-    {
-      "title": "Nach Fahrstreifenwechsel mitgeschleift – Kradfahrer im Krankenhaus",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678095.php",
-      "date": "Fri, 05 Jun 2026 10:40:00 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Tausende Radfahrer bei Sternfahrt erwartet - Umleitungen für Autos",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/sternfahrt-berlin-sperrungen-verkehr-fahrrad-adfc.html",
+      "date": "Sat, 06 Jun 2026 17:16:29 +0200"
+    },
     {
       "title": "Berlin-Kreuzberg: Acht Verletzte nach Unfall mit Taxi und Polizeiauto",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-polizei-acht-verletzte-unfall-taxi-mannschaftswagen.html",
@@ -181,11 +186,6 @@
       "title": "TU Berlin schließt Bibliotheksgebäude eine Woche lang für Reparaturen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/tu-berlin-bibliothek-gebaeude-geschlossen-reparatur.html",
       "date": "Fri, 05 Jun 2026 21:38:03 +0200"
-    },
-    {
-      "title": "Anschlag in Berlin geplant: Mehrere Jahre Haft für IS-Anhänger",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/urteil-landgericht-berlin-anschlag-terror-anschlagsplanung-is-haftstrafe.html",
-      "date": "Fri, 05 Jun 2026 18:13:23 +0200"
     }
   ]
 }
