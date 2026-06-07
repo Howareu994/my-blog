@@ -1,9 +1,24 @@
 {
   "traffic": [
     {
+      "title": "HBL-Saisonfinale: Füchse gewinnen Spektakel gegen Flensburg",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/handball-bundesliga-fuechse-berlin-sg-flensburg-handewitt-spielbericht-saisonabschluss.html",
+      "date": "Sun, 07 Jun 2026 18:01:26 +0200"
+    },
+    {
+      "title": "Sechsjähriger auf E-Scooter in Dahme-Spreewald unterwegs",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/polizei-stoppt-sechsjaehrigen-e-scooter.html",
+      "date": "Sun, 07 Jun 2026 17:21:20 +0200"
+    },
+    {
+      "title": "Simson-Fans feiern Gottesdienst in Frankfurt (Oder)",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/simson-fans-feiern-gottesdienst-in-frankfurt-oder.html",
+      "date": "Sun, 07 Jun 2026 16:59:38 +0200"
+    },
+    {
       "title": "AFDC-Sternfahrt in Berlin: Rund 30.000 Radfahrer beteiligen sich",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/sternfahrt-berlin-sperrungen-verkehr-fahrrad-adfc.html",
-      "date": "Sun, 07 Jun 2026 16:24:59 +0200"
+      "date": "Sun, 07 Jun 2026 16:24:00 +0200"
     },
     {
       "title": "Eichenprozessionsspinner: Nuthe-Urstromtal bittet um Hilfe",
@@ -26,11 +41,6 @@
       "date": "Sun, 07 Jun 2026 15:35:42 +0200"
     },
     {
-      "title": "Handball-Bundesliga: Füchse Berlin empfangen Flensburg",
-      "link": "https://www.rbb24.de/sport/hintergrund/livestream/livestream-handball-bundesliga-fuechse-berlin-sg-flensburg-handewitt.html",
-      "date": "Sun, 07 Jun 2026 15:00:00 +0200"
-    },
-    {
       "title": "Berlin-Lichterfelde: Fußgängerin nach Unfall mit BVG-Bus in Lebensgefahr",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-lichtenrade-goerzallee-unfall-fussgaengerin-lebensbedrohlich-verletzt.html",
       "date": "Sun, 07 Jun 2026 14:06:10 +0200"
@@ -49,16 +59,6 @@
       "title": "Randale bei Hertha-Spiel: Ermittlungen gegen Berliner Polizist",
       "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-2-liga-hertha-bsc-schalke-04-fans-ausschreitungen-ermit.html",
       "date": "Sun, 07 Jun 2026 11:50:00 +0200"
-    },
-    {
-      "title": "Bürgermeisterwahl in Wusterhausen/Dosse am Sonntag",
-      "link": "https://www.rbb24.de/politik/wahl/brandenburg-buergermeisterwahlen/2026/skambraks-schulz-buergermeister-wusterhausen-dosse-wahl.html",
-      "date": "Sun, 07 Jun 2026 11:31:12 +0200"
-    },
-    {
-      "title": "Prignitz: Nägel auf Landesstraße bei Putlitz zerstören Autoreifen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-prignitz-putlitz-naegel-auf-strasse-reifen-polizei.html",
-      "date": "Sun, 07 Jun 2026 11:05:38 +0200"
     }
   ],
   "police": [
@@ -128,9 +128,19 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Sechsjähriger auf E-Scooter in Dahme-Spreewald unterwegs",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/polizei-stoppt-sechsjaehrigen-e-scooter.html",
+      "date": "Sun, 07 Jun 2026 17:21:20 +0200"
+    },
+    {
+      "title": "Simson-Fans feiern Gottesdienst in Frankfurt (Oder)",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/simson-fans-feiern-gottesdienst-in-frankfurt-oder.html",
+      "date": "Sun, 07 Jun 2026 16:59:38 +0200"
+    },
+    {
       "title": "AFDC-Sternfahrt in Berlin: Rund 30.000 Radfahrer beteiligen sich",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/sternfahrt-berlin-sperrungen-verkehr-fahrrad-adfc.html",
-      "date": "Sun, 07 Jun 2026 16:24:59 +0200"
+      "date": "Sun, 07 Jun 2026 16:24:00 +0200"
     },
     {
       "title": "Eichenprozessionsspinner: Nuthe-Urstromtal bittet um Hilfe",
@@ -176,16 +186,6 @@
       "title": "Verfolgungsjagd der Polizei endet mit Festnahme eines Gesuchten",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/mann-flucht-auto-polizeikontrolle-kreuzberg-neukoelln-berlin.html",
       "date": "Sat, 06 Jun 2026 18:12:00 +0200"
-    },
-    {
-      "title": "Berlin-Kreuzberg: Acht Verletzte nach Unfall mit Taxi und Polizeiauto",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-polizei-acht-verletzte-unfall-taxi-mannschaftswagen.html",
-      "date": "Sat, 06 Jun 2026 15:25:00 +0200"
-    },
-    {
-      "title": "Unfall in Berlin-Niederschönhausen: 85-jährige Fußgängerin stirbt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-polizei-niederschoenhausen-verkehrsunfall-frau-tot.html",
-      "date": "Sat, 06 Jun 2026 14:24:55 +0200"
     }
   ]
 }
