@@ -1,6 +1,36 @@
 {
   "traffic": [
     {
+      "title": "AFDC-Sternfahrt in Berlin: Rund 30.000 Radfahrer beteiligen sich",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/sternfahrt-berlin-sperrungen-verkehr-fahrrad-adfc.html",
+      "date": "Sun, 07 Jun 2026 16:24:59 +0200"
+    },
+    {
+      "title": "Eichenprozessionsspinner: Nuthe-Urstromtal bittet um Hilfe",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/nuthe-urstromtal-hilfe-landkreis-raupe-eichenprozessionsspinner.html",
+      "date": "Sun, 07 Jun 2026 16:18:58 +0200"
+    },
+    {
+      "title": "Playoff-Halbfinale: Verliert Alba gegen Bamberg die Nerven?",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/basketball-bundesliga-bbl-playoffs-halbfinale-serie-alba-berlin-bamberg-baskets-matchball-vergeben-entscheidungsspiel.html",
+      "date": "Sun, 07 Jun 2026 15:49:47 +0200"
+    },
+    {
+      "title": "Kolumne: Was war das denn? Ohne Bafög kein Studium",
+      "link": "https://www.rbb24.de/panorama/thema/was-war-das-denn/bafoeg-reform-studium-job-dorothee-baer.html",
+      "date": "Sun, 07 Jun 2026 15:41:27 +0200"
+    },
+    {
+      "title": "Landratswahl in Ostprignitz-Ruppin am Sonntag",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/06/ostprignitz-ruppin-landrat-wahl-reinhardt-arndt-mundt-kresse.html",
+      "date": "Sun, 07 Jun 2026 15:35:42 +0200"
+    },
+    {
+      "title": "Handball-Bundesliga: Füchse Berlin empfangen Flensburg",
+      "link": "https://www.rbb24.de/sport/hintergrund/livestream/livestream-handball-bundesliga-fuechse-berlin-sg-flensburg-handewitt.html",
+      "date": "Sun, 07 Jun 2026 15:00:00 +0200"
+    },
+    {
       "title": "Berlin-Lichterfelde: Fußgängerin nach Unfall mit BVG-Bus in Lebensgefahr",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-lichtenrade-goerzallee-unfall-fussgaengerin-lebensbedrohlich-verletzt.html",
       "date": "Sun, 07 Jun 2026 14:06:10 +0200"
@@ -29,36 +59,6 @@
       "title": "Prignitz: Nägel auf Landesstraße bei Putlitz zerstören Autoreifen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-prignitz-putlitz-naegel-auf-strasse-reifen-polizei.html",
       "date": "Sun, 07 Jun 2026 11:05:38 +0200"
-    },
-    {
-      "title": "Landratswahl in Ostprignitz-Ruppin am Sonntag",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/06/ostprignitz-ruppin-landrat-wahl-reinhardt-arndt-mundt-kresse.html",
-      "date": "Sun, 07 Jun 2026 10:28:47 +0200"
-    },
-    {
-      "title": "Berlin: Massenschlägerei in Kreuzberg – drei Verletzte",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-kreuzberg-massenschlaegerei-drei-verletzte.html",
-      "date": "Sun, 07 Jun 2026 08:12:06 +0200"
-    },
-    {
-      "title": "Geschäft mit Konzerttickets: So funktioniert die Zweitvermarktung",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/musik-konzert-ticket-zweitmarkt-verkauf-geschaeft-kritik.html",
-      "date": "Sun, 07 Jun 2026 07:40:00 +0200"
-    },
-    {
-      "title": "BBL-Halbfinale: Alba vergibt auch zweiten Matchball in Bamberg",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/basketball-bundesliga-bbl-playoffs-halbfinale-baskets-bamberg-alba-berlin-spiel-vier-spielbericht.html",
-      "date": "Sat, 06 Jun 2026 21:15:00 +0200"
-    },
-    {
-      "title": "Bundesliga-Aufstieg verpasst: Spreefüxxe verlieren Handball-Relegation gegen Halle-Neustadt",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/handball-bundesliga-relegation-rueckspiel-spreefuexxe-halle-neustadt-spielbericht.html",
-      "date": "Sat, 06 Jun 2026 21:10:09 +0200"
-    },
-    {
-      "title": "DFB-Pokal: Union in Braunschweig gefordert - Hertha in Saarbrücken",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-dfb-pokal-auslosung-erste-runde-fc-union-hertha-bsc-energie-cottbus-vfb-krieschow-vsg-altglienicke.html",
-      "date": "Sat, 06 Jun 2026 20:25:59 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,21 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "AFDC-Sternfahrt in Berlin: Rund 30.000 Radfahrer beteiligen sich",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/sternfahrt-berlin-sperrungen-verkehr-fahrrad-adfc.html",
+      "date": "Sun, 07 Jun 2026 16:24:59 +0200"
+    },
+    {
+      "title": "Eichenprozessionsspinner: Nuthe-Urstromtal bittet um Hilfe",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/nuthe-urstromtal-hilfe-landkreis-raupe-eichenprozessionsspinner.html",
+      "date": "Sun, 07 Jun 2026 16:18:58 +0200"
+    },
+    {
+      "title": "Kolumne: Was war das denn? Ohne Bafög kein Studium",
+      "link": "https://www.rbb24.de/panorama/thema/was-war-das-denn/bafoeg-reform-studium-job-dorothee-baer.html",
+      "date": "Sun, 07 Jun 2026 15:41:27 +0200"
+    },
+    {
       "title": "Berlin-Lichterfelde: Fußgängerin nach Unfall mit BVG-Bus in Lebensgefahr",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-lichtenrade-goerzallee-unfall-fussgaengerin-lebensbedrohlich-verletzt.html",
       "date": "Sun, 07 Jun 2026 14:06:10 +0200"
@@ -163,11 +178,6 @@
       "date": "Sat, 06 Jun 2026 18:12:00 +0200"
     },
     {
-      "title": "Tausende Radfahrer bei Sternfahrt erwartet - Umleitungen für Autos",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/sternfahrt-berlin-sperrungen-verkehr-fahrrad-adfc.html",
-      "date": "Sat, 06 Jun 2026 17:16:00 +0200"
-    },
-    {
       "title": "Berlin-Kreuzberg: Acht Verletzte nach Unfall mit Taxi und Polizeiauto",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-polizei-acht-verletzte-unfall-taxi-mannschaftswagen.html",
       "date": "Sat, 06 Jun 2026 15:25:00 +0200"
@@ -176,16 +186,6 @@
       "title": "Unfall in Berlin-Niederschönhausen: 85-jährige Fußgängerin stirbt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-polizei-niederschoenhausen-verkehrsunfall-frau-tot.html",
       "date": "Sat, 06 Jun 2026 14:24:55 +0200"
-    },
-    {
-      "title": "Ebola-Patient aus Berliner Charité entlassen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-ebola-patient-aus-charite-entlassen.html",
-      "date": "Sat, 06 Jun 2026 14:22:14 +0200"
-    },
-    {
-      "title": "A10: Wieder Elche in Brandenburg gesichtet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-elche-sichtung-berliner-ring-a10.html",
-      "date": "Sat, 06 Jun 2026 12:43:55 +0200"
     }
   ]
 }
