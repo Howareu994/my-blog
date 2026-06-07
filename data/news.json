@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Berlin: Massenschlägerei in Kreuzberg – drei Verletzte",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-kreuzberg-massenschlaegerei-drei-verletzte.html",
+      "date": "Sun, 07 Jun 2026 08:12:06 +0200"
+    },
+    {
+      "title": "Geschäft mit Konzerttickets: So funktioniert die Zweitvermarktung",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/musik-konzert-ticket-zweitmarkt-verkauf-geschaeft-kritik.html",
+      "date": "Sun, 07 Jun 2026 07:40:34 +0200"
+    },
+    {
       "title": "BBL-Halbfinale: Alba vergibt auch zweiten Matchball in Bamberg",
       "link": "https://www.rbb24.de/sport/beitrag/2026/06/basketball-bundesliga-bbl-playoffs-halbfinale-baskets-bamberg-alba-berlin-spiel-vier-spielbericht.html",
       "date": "Sat, 06 Jun 2026 21:15:00 +0200"
@@ -36,11 +46,6 @@
       "date": "Sat, 06 Jun 2026 15:55:48 +0200"
     },
     {
-      "title": "Berlin-Kreuzberg: Acht Verletzte nach Unfall mit Taxi und Polizeiauto",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-polizei-acht-verletzte-unfall-taxi-mannschaftswagen.html",
-      "date": "Sat, 06 Jun 2026 15:25:00 +0200"
-    },
-    {
       "title": "Tänzerinnen-Brunnen von Georg Kolbe geht in die USA",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/06/taenzerinnen-brunnen-georg-kolbe-museum.html",
       "date": "Sat, 06 Jun 2026 14:45:09 +0200"
@@ -54,11 +59,6 @@
       "title": "Fan vor WM-Reise: \"Es gab noch kein fanfeindlicheres Turnier\"",
       "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-wm-weltmeisterschaft-usa-fan-dfb-deutschland-reise-tickets-kosten-interview.html",
       "date": "Sat, 06 Jun 2026 13:01:20 +0200"
-    },
-    {
-      "title": "A10: Wieder Elche in Brandenburg gesichtet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-elche-sichtung-berliner-ring-a10.html",
-      "date": "Sat, 06 Jun 2026 12:43:55 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,16 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Berlin: Massenschlägerei in Kreuzberg – drei Verletzte",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-kreuzberg-massenschlaegerei-drei-verletzte.html",
+      "date": "Sun, 07 Jun 2026 08:12:06 +0200"
+    },
+    {
+      "title": "Fußball-WM 2026: Was Fans beachten sollten",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/fussball-fifa-wm-2026-faq-berlin-brandenburg.html",
+      "date": "Sun, 07 Jun 2026 07:35:55 +0200"
+    },
+    {
       "title": "Verfolgungsjagd der Polizei endet mit Festnahme eines Gesuchten",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/mann-flucht-auto-polizeikontrolle-kreuzberg-neukoelln-berlin.html",
       "date": "Sat, 06 Jun 2026 18:12:00 +0200"
@@ -176,16 +186,6 @@
       "title": "Lange Nacht der Wissenschaften: Forschungseinrichtungen in Berlin öffnen ihre Türen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/lange-nacht-der-wissenschaften-berlin-tickets.html",
       "date": "Sat, 06 Jun 2026 09:17:34 +0200"
-    },
-    {
-      "title": "Oberhavel: Tote Person bei Brand in Kremmen entdeckt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-oberhavel-brand-kremmen-tote-person.html",
-      "date": "Sat, 06 Jun 2026 07:51:27 +0200"
-    },
-    {
-      "title": "Dialog zwischen Jugendlichen und Verwaltung in Ortrand",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/ortrand-verwaltung-aktion-jugendclub-buergertag.html",
-      "date": "Sat, 06 Jun 2026 07:48:32 +0200"
     }
   ]
 }
