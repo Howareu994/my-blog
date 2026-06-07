@@ -1,9 +1,24 @@
 {
   "traffic": [
     {
+      "title": "Berlin-Lichterfelde: Fußgängerin nach Unfall mit BVG-Bus in Lebensgefahr",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-lichtenrade-goerzallee-unfall-fussgaengerin-lebensbedrohlich-verletzt.html",
+      "date": "Sun, 07 Jun 2026 14:06:10 +0200"
+    },
+    {
+      "title": "Oberhavel: Tote Person bei Brand in Kremmen entdeckt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-oberhavel-brand-kremmen-tote-person.html",
+      "date": "Sun, 07 Jun 2026 13:12:51 +0200"
+    },
+    {
+      "title": "Größter Hindu-Tempel Deutschlands in Neukölln geweiht",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-neukoelln-hindu-tempel-hasenheide-eroeffnung.html",
+      "date": "Sun, 07 Jun 2026 12:47:15 +0200"
+    },
+    {
       "title": "Randale bei Hertha-Spiel: Ermittlungen gegen Berliner Polizist",
       "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-2-liga-hertha-bsc-schalke-04-fans-ausschreitungen-ermit.html",
-      "date": "Sun, 07 Jun 2026 11:50:29 +0200"
+      "date": "Sun, 07 Jun 2026 11:50:00 +0200"
     },
     {
       "title": "Bürgermeisterwahl in Wusterhausen/Dosse am Sonntag",
@@ -44,24 +59,29 @@
       "title": "DFB-Pokal: Union in Braunschweig gefordert - Hertha in Saarbrücken",
       "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-dfb-pokal-auslosung-erste-runde-fc-union-hertha-bsc-energie-cottbus-vfb-krieschow-vsg-altglienicke.html",
       "date": "Sat, 06 Jun 2026 20:25:59 +0200"
-    },
-    {
-      "title": "Verfolgungsjagd der Polizei endet mit Festnahme eines Gesuchten",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/mann-flucht-auto-polizeikontrolle-kreuzberg-neukoelln-berlin.html",
-      "date": "Sat, 06 Jun 2026 18:12:00 +0200"
-    },
-    {
-      "title": "Tausende Radfahrer bei Sternfahrt erwartet - Umleitungen für Autos",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/sternfahrt-berlin-sperrungen-verkehr-fahrrad-adfc.html",
-      "date": "Sat, 06 Jun 2026 17:16:00 +0200"
-    },
-    {
-      "title": "Expo 2035: Berlin und Brandenburg prüfen gemeinsame Bewerbung",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/06/expo-bewerbung-konzept-berlin-brandenburg-wegner-brief.html",
-      "date": "Sat, 06 Jun 2026 15:55:48 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Steine von Autobahnbrücke getreten",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678413.php",
+      "date": "Sun, 07 Jun 2026 13:04:00 +0200"
+    },
+    {
+      "title": "Mehrere Einsatzkräfte angegriffen und verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678412.php",
+      "date": "Sun, 07 Jun 2026 12:49:00 +0200"
+    },
+    {
+      "title": "Motorradfahrer bei Verkehrsunfall verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678411.php",
+      "date": "Sun, 07 Jun 2026 12:26:00 +0200"
+    },
+    {
+      "title": "Bei Verkehrsunfall lebensgefährlich verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678410.php",
+      "date": "Sun, 07 Jun 2026 12:06:00 +0200"
+    },
     {
       "title": "Besonders schwerer Landfriedensbruch",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678406.php",
@@ -101,32 +121,27 @@
       "title": "Ermittlungen gegen eine Dienstkraft der Polizei Berlin wegen des Verdachts eines Gewaltdelikts",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678391.php",
       "date": "Fri, 05 Jun 2026 17:17:00 +0200"
-    },
-    {
-      "title": "Verkehrsunfall nach medizinischem Notfall",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678324.php",
-      "date": "Fri, 05 Jun 2026 14:50:00 +0200"
-    },
-    {
-      "title": "Schussabgaben auf Personen – Zeuginnen und Zeugen gesucht",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1674077.php",
-      "date": "Fri, 05 Jun 2026 11:20:00 +0200"
-    },
-    {
-      "title": "Schwangere Beifahrerin nach Verkehrsunfall im Krankenhaus",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678101.php",
-      "date": "Fri, 05 Jun 2026 10:46:00 +0200"
-    },
-    {
-      "title": "Festnahme nach Schüssen mit einer Schreckschusswaffe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678097.php",
-      "date": "Fri, 05 Jun 2026 10:42:00 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Berlin-Lichterfelde: Fußgängerin nach Unfall mit BVG-Bus in Lebensgefahr",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-lichtenrade-goerzallee-unfall-fussgaengerin-lebensbedrohlich-verletzt.html",
+      "date": "Sun, 07 Jun 2026 14:06:10 +0200"
+    },
+    {
+      "title": "Oberhavel: Tote Person bei Brand in Kremmen entdeckt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-oberhavel-brand-kremmen-tote-person.html",
+      "date": "Sun, 07 Jun 2026 13:12:51 +0200"
+    },
+    {
+      "title": "Größter Hindu-Tempel Deutschlands in Neukölln geweiht",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-neukoelln-hindu-tempel-hasenheide-eroeffnung.html",
+      "date": "Sun, 07 Jun 2026 12:47:15 +0200"
+    },
     {
       "title": "Prignitz: Nägel auf Landesstraße bei Putlitz zerstören Autoreifen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-prignitz-putlitz-naegel-auf-strasse-reifen-polizei.html",
@@ -171,21 +186,6 @@
       "title": "A10: Wieder Elche in Brandenburg gesichtet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-elche-sichtung-berliner-ring-a10.html",
       "date": "Sat, 06 Jun 2026 12:43:55 +0200"
-    },
-    {
-      "title": "Unfall mit Wingsuit: Brandenburger stirbt in der Schweiz",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/mann-brandenburg-unfall-wingsuit-schweiz-gestorben.html",
-      "date": "Sat, 06 Jun 2026 12:32:00 +0200"
-    },
-    {
-      "title": "Przewalski-Stuten aus Tierpark Berlin leben jetzt in kasachischer Steppe",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/przewalski-pferde-stuten-berlin-tierpark-kasachstan.html",
-      "date": "Sat, 06 Jun 2026 12:17:48 +0200"
-    },
-    {
-      "title": "Eichenprozessionsspinner: Gefahren und Tipps",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/faq-eichenprozessionsspinner-berlin-brandenburg-raupen-eichen.html",
-      "date": "Sat, 06 Jun 2026 10:23:56 +0200"
     }
   ]
 }
