@@ -1,24 +1,49 @@
 {
   "traffic": [
     {
-      "title": "Stichwahl bei der Landratswahl in OPR zwischen Reinhardt und Arndt",
+      "title": "Eröffnung der Autor:innentheatertage am Deutschen Theater",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/eroeffnung-autorinnentage-berlin-deutsches-theater.html",
+      "date": "Mon, 08 Jun 2026 11:39:03 +0200"
+    },
+    {
+      "title": "Bauarbeiten bei der S-Bahn: Schienenersatzverkehr im Südosten",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/s-bahn-berlin-s46-s47-s8-s85-bauarbeiten-ber-fex-re2-re7.html",
+      "date": "Mon, 08 Jun 2026 10:54:45 +0200"
+    },
+    {
+      "title": "Konzertkritik zu Massive Attack in der Zitadelle Spandau",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/konzert-massive-attack-zitadelle-spandau-berlin.html",
+      "date": "Mon, 08 Jun 2026 10:19:57 +0200"
+    },
+    {
+      "title": "Landratswahl in Ostprignitz-Ruppin: Stichwahl zwischen SPD und AfD",
       "link": "https://www.rbb24.de/politik/beitrag/2026/06/stichwahl-in-ostprignitz-ruppin-zwischen-arndt-und-reinhardt.html",
-      "date": "Mon, 08 Jun 2026 07:11:22 +0200"
+      "date": "Mon, 08 Jun 2026 09:01:02 +0200"
+    },
+    {
+      "title": "Krankenhaus-Finanzierung in Berlin: Verwaltungsgericht urteilt",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/06/verwaltungsgericht-berlin-krankenhausfinanzierung-klage-drk-vivantes.html",
+      "date": "Mon, 08 Jun 2026 08:48:35 +0200"
+    },
+    {
+      "title": "Oberkrämer: 11-Jähriger fährt Vater mit Auto zum Bierkauf",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/junge-vater-tankstelle-bier.html",
+      "date": "Mon, 08 Jun 2026 08:30:18 +0200"
+    },
+    {
+      "title": "Amtsinhaber Schulz bleibt Bürgermeister von Wusterhausen/Dosse",
+      "link": "https://www.rbb24.de/politik/wahl/brandenburg-buergermeisterwahlen/2026/skambraks-schulz-buergermeister-wusterhausen-dosse-wahl.html",
+      "date": "Mon, 08 Jun 2026 08:20:40 +0200"
+    },
+    {
+      "title": "Football in Berlin und Brandenburg: \"Teams fast verdoppelt\"",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/american-football-nfl-game-berlin-interview-fuad-merdanovic.html",
+      "date": "Mon, 08 Jun 2026 07:24:02 +0200"
     },
     {
       "title": "ILA 2026: Highlights, Flugshows, Aussteller und Besucherinfos",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/ila-internationale-luftfahrtausstellung-schoenefeld-brandenburg-berlin.html",
       "date": "Mon, 08 Jun 2026 06:19:42 +0200"
-    },
-    {
-      "title": "Amtsinhaber Schulz bleibt Bürgermeister von Wusterhausen/Dosse",
-      "link": "https://www.rbb24.de/politik/wahl/brandenburg-buergermeisterwahlen/2026/skambraks-schulz-buergermeister-wusterhausen-dosse-wahl.html",
-      "date": "Sun, 07 Jun 2026 19:04:00 +0200"
-    },
-    {
-      "title": "HBL-Saisonfinale: Füchse gewinnen Spektakel gegen Flensburg",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/handball-bundesliga-fuechse-berlin-sg-flensburg-handewitt-spielbericht-saisonabschluss.html",
-      "date": "Sun, 07 Jun 2026 18:01:26 +0200"
     },
     {
       "title": "Sechsjähriger auf E-Scooter in Dahme-Spreewald unterwegs",
@@ -34,34 +59,19 @@
       "title": "AFDC-Sternfahrt in Berlin: Rund 30.000 Radfahrer beteiligen sich",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/sternfahrt-berlin-sperrungen-verkehr-fahrrad-adfc.html",
       "date": "Sun, 07 Jun 2026 16:24:00 +0200"
-    },
-    {
-      "title": "Eichenprozessionsspinner: Nuthe-Urstromtal bittet um Hilfe",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/nuthe-urstromtal-hilfe-landkreis-raupe-eichenprozessionsspinner.html",
-      "date": "Sun, 07 Jun 2026 16:18:58 +0200"
-    },
-    {
-      "title": "Playoff-Halbfinale: Verliert Alba gegen Bamberg die Nerven?",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/basketball-bundesliga-bbl-playoffs-halbfinale-serie-alba-berlin-bamberg-baskets-matchball-vergeben-entscheidungsspiel.html",
-      "date": "Sun, 07 Jun 2026 15:49:47 +0200"
-    },
-    {
-      "title": "Kolumne: Was war das denn? Ohne Bafög kein Studium",
-      "link": "https://www.rbb24.de/panorama/thema/was-war-das-denn/bafoeg-reform-studium-job-dorothee-baer.html",
-      "date": "Sun, 07 Jun 2026 15:41:27 +0200"
-    },
-    {
-      "title": "Berlin-Lichterfelde: Fußgängerin nach Unfall mit BVG-Bus in Lebensgefahr",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-lichtenrade-goerzallee-unfall-fussgaengerin-lebensbedrohlich-verletzt.html",
-      "date": "Sun, 07 Jun 2026 14:06:10 +0200"
-    },
-    {
-      "title": "Oberhavel: Tote Person bei Brand in Kremmen entdeckt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-oberhavel-brand-kremmen-tote-person.html",
-      "date": "Sun, 07 Jun 2026 13:12:51 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Feuer in Sporthalle",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678690.php",
+      "date": "Mon, 08 Jun 2026 11:46:18 +0200"
+    },
+    {
+      "title": "Trickbetrug durch falsche Polizeibeamte – Wer erkennt die Tatverdächtigen?",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678449.php",
+      "date": "Mon, 08 Jun 2026 08:55:43 +0200"
+    },
     {
       "title": "Steine von Autobahnbrücke getreten",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678413.php",
@@ -111,22 +121,22 @@
       "title": "Tödlicher Verkehrsunfall",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678401.php",
       "date": "Sat, 06 Jun 2026 12:32:11 +0200"
-    },
-    {
-      "title": "Stichverletzung erlitten",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678400.php",
-      "date": "Sat, 06 Jun 2026 12:30:16 +0200"
-    },
-    {
-      "title": "Ermittlungen gegen eine Dienstkraft der Polizei Berlin wegen des Verdachts eines Gewaltdelikts",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678391.php",
-      "date": "Fri, 05 Jun 2026 17:17:00 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Bauarbeiten bei der S-Bahn: Schienenersatzverkehr im Südosten",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/s-bahn-berlin-s46-s47-s8-s85-bauarbeiten-ber-fex-re2-re7.html",
+      "date": "Mon, 08 Jun 2026 10:54:45 +0200"
+    },
+    {
+      "title": "Oberkrämer: 11-Jähriger fährt Vater mit Auto zum Bierkauf",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/junge-vater-tankstelle-bier.html",
+      "date": "Mon, 08 Jun 2026 08:30:18 +0200"
+    },
     {
       "title": "Sechsjähriger auf E-Scooter in Dahme-Spreewald unterwegs",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/polizei-stoppt-sechsjaehrigen-e-scooter.html",
@@ -176,16 +186,6 @@
       "title": "Berlin: Massenschlägerei in Kreuzberg – drei Verletzte",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-kreuzberg-massenschlaegerei-drei-verletzte.html",
       "date": "Sun, 07 Jun 2026 08:12:06 +0200"
-    },
-    {
-      "title": "Fußball-WM 2026: Was Fans beachten sollten",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/fussball-fifa-wm-2026-faq-berlin-brandenburg.html",
-      "date": "Sun, 07 Jun 2026 07:35:00 +0200"
-    },
-    {
-      "title": "Verfolgungsjagd der Polizei endet mit Festnahme eines Gesuchten",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/mann-flucht-auto-polizeikontrolle-kreuzberg-neukoelln-berlin.html",
-      "date": "Sat, 06 Jun 2026 18:12:00 +0200"
     }
   ]
 }
