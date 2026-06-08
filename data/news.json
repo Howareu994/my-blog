@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Rüdiger, Maza & Co: WM-Fahrer mit Berliner/Brandenburger Bezug",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/listicle-wm-fahrer-ruediger-beier-maza-khedira-zwayer-dfb-fifa.html",
+      "date": "Mon, 08 Jun 2026 21:55:33 +0200"
+    },
+    {
+      "title": "4.000 Teilnehmer bei Demo gegen Bundesregierung",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/06/demo-gegen-bundeskanzler-merz-berlin.html",
+      "date": "Mon, 08 Jun 2026 21:00:12 +0200"
+    },
+    {
+      "title": "Senat und Verbände wollen Pflegebedürftige besser vor Hitze schützen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/hitzeschutz-pflege-beduerftige-berlin-senat-verbaende.html",
+      "date": "Mon, 08 Jun 2026 20:57:39 +0200"
+    },
+    {
       "title": "Hertha-Randale: Doch kein Polizist unter den Verdächtigen",
       "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-fan-ausschreitungen-hertha-bsc-schalke-04-kein-polizist.html",
       "date": "Mon, 08 Jun 2026 19:36:03 +0200"
@@ -44,21 +59,6 @@
       "title": "Auf 94.000 Quadratmetern: Riesige Halle in Frankfurt (Oder) für Onlinehändler angemietet",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/onlinehaendler-logistik-ansiedlung-frankfurtoder-logplaza-brandenburg-a12-polen.html",
       "date": "Mon, 08 Jun 2026 15:51:44 +0200"
-    },
-    {
-      "title": "Neuer Test ermöglicht bessere Diabetes Typ 1-Früherkennung bei Kindern",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/diabetes-test-frueherkennung-krankheit-kinder-blut-brandenburg-berlin.html",
-      "date": "Mon, 08 Jun 2026 15:28:36 +0200"
-    },
-    {
-      "title": "4.000 Teilnehmer bei Demo gegen Bundesregierung",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/06/demo-gegen-bundeskanzler-merz-berlin.html",
-      "date": "Mon, 08 Jun 2026 15:01:50 +0200"
-    },
-    {
-      "title": "Bürgermeisterin in Strausberg dankt nach vier Wochen ab - Kämmerin übernimmt",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/06/buergermeisterin-strausberg-maerkisch-oderland-amtsuebergabe-annette-binder-karolin-langner-neuwahl.html",
-      "date": "Mon, 08 Jun 2026 14:49:06 +0200"
     }
   ],
   "police": [],
@@ -66,6 +66,11 @@
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Senat und Verbände wollen Pflegebedürftige besser vor Hitze schützen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/hitzeschutz-pflege-beduerftige-berlin-senat-verbaende.html",
+      "date": "Mon, 08 Jun 2026 20:57:39 +0200"
+    },
     {
       "title": "Bauarbeiten bei der S-Bahn: Schienenersatzverkehr im Südosten",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/s-bahn-berlin-s46-s47-s8-s85-bauarbeiten-ber-fex-re2-re7.html",
@@ -120,11 +125,6 @@
       "title": "Oberhavel: Tote Person bei Brand in Kremmen entdeckt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-oberhavel-brand-kremmen-tote-person.html",
       "date": "Sun, 07 Jun 2026 13:12:51 +0200"
-    },
-    {
-      "title": "Größter Hindu-Tempel Deutschlands in Neukölln geweiht",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-neukoelln-hindu-tempel-hasenheide-eroeffnung.html",
-      "date": "Sun, 07 Jun 2026 12:47:15 +0200"
     }
   ]
 }
