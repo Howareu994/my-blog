@@ -1,9 +1,44 @@
 {
   "traffic": [
     {
+      "title": "Blindgänger in Potsdamer Innenstadt - Entschärfung am Dienstag",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/potsdam-weltkriegsbombe-landtag-evakuierung.html",
+      "date": "Tue, 09 Jun 2026 20:58:51 +0200"
+    },
+    {
+      "title": "CDU macht Wegner zum Spitzenkandidaten für Berlin-Wahl",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/cdu-parteitag-wahlprogramm-wegner-spitzenkandidat-abgeordnetenhauswahl.html",
+      "date": "Tue, 09 Jun 2026 20:53:49 +0200"
+    },
+    {
+      "title": "\"Freiraum Kunst\": Ausstellung im Schloss Bellevue",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/kunst-im-schloss-bellevue-ausstellung-steinmeier-amtssitz.html",
+      "date": "Tue, 09 Jun 2026 20:42:50 +0200"
+    },
+    {
+      "title": "Basketball live: Schafft es Alba im dritten Anlauf ins Finale?",
+      "link": "https://www.rbb24.de/sport/hintergrund/livestream/livestream-basketball-bbl-playoffs-halbfinale-spiel-5-alba-berlin-bamberg.html",
+      "date": "Tue, 09 Jun 2026 20:30:00 +0200"
+    },
+    {
+      "title": "Matthias Hundt: Berlin muss vorerst nicht für Presseanwalt zahlen",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/06/berlin-ex-staatssekretaer-hundt-presseanwalt-kosten.html",
+      "date": "Tue, 09 Jun 2026 20:20:00 +0200"
+    },
+    {
+      "title": "Toter in Zossen gefunden - 18-Jähriger unter Tatverdacht",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/zossen-mann-tot-18-jaehriger-verdaechtigt.html",
+      "date": "Tue, 09 Jun 2026 19:22:58 +0200"
+    },
+    {
+      "title": "Bericht des Brandenburger Antisemitismusbeauftragten vorgelegt",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/06/bericht-antisemitismusbeauftragter-brandenburg.html",
+      "date": "Tue, 09 Jun 2026 19:21:05 +0200"
+    },
+    {
       "title": "MV-Beschluss: Babelsberg kann wieder gegen Hertha und Union testen",
       "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-babelsberg-03-testspiel-verbot-hertha-bsc-union-aufgehoben-mitgliederversammlung.html",
-      "date": "Tue, 09 Jun 2026 17:57:05 +0200"
+      "date": "Tue, 09 Jun 2026 17:57:00 +0200"
     },
     {
       "title": "Staatstheater Cottbus 26/27: 17 Premieren und neuer Intendant",
@@ -24,109 +59,23 @@
       "title": "Deutsche Wohnen in Berlin: Millionen-Bußgeld deutlich reduziert",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-deutsche-wohnen-geldstrafe-datenschutz-mieter-reduziert-gericht.html",
       "date": "Tue, 09 Jun 2026 16:37:21 +0200"
-    },
-    {
-      "title": "Zaun um Plötzensee soll Wildbadende abhalten. Bisher erfolglos",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/freibad-ploetzensee-berlin-wildbader-zaun-ordnungsamt-bussgeld.html",
-      "date": "Tue, 09 Jun 2026 16:28:44 +0200"
-    },
-    {
-      "title": "Nach Tod eines 17-Jährigen aus Grünheide äußert sich Landrat zur Kritik an Jugendamt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/oder-spree-brandenburg-jugendamt--tot-drogen-urteil-jugendlicher.html",
-      "date": "Tue, 09 Jun 2026 16:23:36 +0200"
-    },
-    {
-      "title": "Tödlicher Wohnungsbrand in Berlin-Wittenau",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-wittenau-reinickendorf-toedlicher-wohnungsbrand.html",
-      "date": "Tue, 09 Jun 2026 16:22:45 +0200"
-    },
-    {
-      "title": "\"Kulturzug\" zwischen Berlin und Polen kehrt im Herbst zurück",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/berlin-frankfurt-oder-warschau-posen-kulturzug-comeback.html",
-      "date": "Tue, 09 Jun 2026 16:19:28 +0200"
-    },
-    {
-      "title": "Emirates will Flüge vom BER nach Dubai anbieten",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/flughafen-ber-emirates-taegliche-fluege-dubai.html",
-      "date": "Tue, 09 Jun 2026 15:55:57 +0200"
-    },
-    {
-      "title": "In Lübben zusammengeschlagener Rentner gestorben",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/luebben-mann-rentner-zusammengeschlagen-gestorben.html",
-      "date": "Tue, 09 Jun 2026 15:53:27 +0200"
-    },
-    {
-      "title": "Tödlicher Sturz aus neuntem Stock in Berlin – Anklage erhoben",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-lichtenberg-frau-neunter-stock-sturz-tod-anklage.html",
-      "date": "Tue, 09 Jun 2026 15:23:20 +0200"
     }
   ],
-  "police": [
-    {
-      "title": "Verstorbene Person nach Wohnungsbrand",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1679642.php",
-      "date": "Tue, 09 Jun 2026 15:42:19 +0200"
-    },
-    {
-      "title": "Trickbetrug durch falsche Polizeibeamte – Wer erkennt den Tatverdächtigen?",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678449.php",
-      "date": "Tue, 09 Jun 2026 15:08:00 +0200"
-    },
-    {
-      "title": "Kind angefahren – Fahrzeugführer flüchtet vom Unfallort",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1679615.php",
-      "date": "Tue, 09 Jun 2026 15:03:14 +0200"
-    },
-    {
-      "title": "Fahrradfahrerin fährt Kind an",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1679603.php",
-      "date": "Tue, 09 Jun 2026 14:49:01 +0200"
-    },
-    {
-      "title": "Jugendlicher Fensterputzer entpuppt sich als mutmaßlicher Trickdieb",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1679475.php",
-      "date": "Tue, 09 Jun 2026 12:48:23 +0200"
-    },
-    {
-      "title": "Verkehrsunfall zwischen Fahrradfahrer und Motorradfahrer",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1679423.php",
-      "date": "Tue, 09 Jun 2026 12:20:52 +0200"
-    },
-    {
-      "title": "Diebstahl und Kartenbetrug – Wer erkennt den Tatverdächtigen?",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1679254.php",
-      "date": "Tue, 09 Jun 2026 10:30:38 +0200"
-    },
-    {
-      "title": "Fahrzeuge in Flammen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1679235.php",
-      "date": "Tue, 09 Jun 2026 10:17:41 +0200"
-    },
-    {
-      "title": "Vermisster Senior wieder da",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1675296.php",
-      "date": "Tue, 09 Jun 2026 08:45:00 +0200"
-    },
-    {
-      "title": "Nach gewalttätigen Ausschreitungen im Olympiastadion - Polizei bittet um Mithilfe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1634658.php",
-      "date": "Mon, 08 Jun 2026 16:12:00 +0200"
-    },
-    {
-      "title": "Fahrradfahrer und E-Scooter-Fahrer verunfallt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1679027.php",
-      "date": "Mon, 08 Jun 2026 15:45:15 +0200"
-    },
-    {
-      "title": "Festnahme nach Räderdiebstahl",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678762.php",
-      "date": "Mon, 08 Jun 2026 12:43:35 +0200"
-    }
-  ],
+  "police": [],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Blindgänger in Potsdamer Innenstadt - Entschärfung am Dienstag",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/potsdam-weltkriegsbombe-landtag-evakuierung.html",
+      "date": "Tue, 09 Jun 2026 20:58:51 +0200"
+    },
+    {
+      "title": "Toter in Zossen gefunden - 18-Jähriger unter Tatverdacht",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/zossen-mann-tot-18-jaehriger-verdaechtigt.html",
+      "date": "Tue, 09 Jun 2026 19:22:58 +0200"
+    },
     {
       "title": "Staatstheater Cottbus 26/27: 17 Premieren und neuer Intendant",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/staatstheater-cottbus-spielzeit-2026-2027.html",
@@ -176,16 +125,6 @@
       "title": "Hitzeschutz: Berlin und Potsdam bieten genug schattige Plätze",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-potsdam-brandenburg-schatten-richtwert-umwelthilfe-hitze-schutz.html",
       "date": "Tue, 09 Jun 2026 12:24:11 +0200"
-    },
-    {
-      "title": "Senat und Verbände wollen Pflegebedürftige besser vor Hitze schützen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/hitzeschutz-pflege-beduerftige-berlin-senat-verbaende.html",
-      "date": "Mon, 08 Jun 2026 20:57:39 +0200"
-    },
-    {
-      "title": "Bauarbeiten bei der S-Bahn: Schienenersatzverkehr im Südosten",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/s-bahn-berlin-s46-s47-s8-s85-bauarbeiten-ber-fex-re2-re7.html",
-      "date": "Mon, 08 Jun 2026 17:21:27 +0200"
     }
   ]
 }
