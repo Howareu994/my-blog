@@ -1,6 +1,36 @@
 {
   "traffic": [
     {
+      "title": "Neuer Intendant am Staatstheater Cottbus: \"Menschen dort begegnen, wo sie sind\"",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/staatstheater-cottbus-interview-neuer-intendant-berthold-schneider.html",
+      "date": "Tue, 09 Jun 2026 09:30:19 +0200"
+    },
+    {
+      "title": "\"Kulturzug\" zwischen Berlin und Polen kehrt im Herbst zurück",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/berlin-frankfurt-oder-warschau-posen-kulturzug-comeback.html",
+      "date": "Tue, 09 Jun 2026 09:19:08 +0200"
+    },
+    {
+      "title": "Berliner CDU will Wegner nominieren und Wahlprogramm verabschieden",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/cdu-parteitag-wahlprogramm-wegner-spitzenkandidat-abgeordnetenhauswahl.html",
+      "date": "Tue, 09 Jun 2026 08:57:39 +0200"
+    },
+    {
+      "title": "Tödlicher Wohnungsbrand in Berlin-Wittenau",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-wittenau-reinickendorf-toedlicher-wohnungsbrand.html",
+      "date": "Tue, 09 Jun 2026 08:17:53 +0200"
+    },
+    {
+      "title": "Schwimmkurse in Berlin: Seepferdchen als Klassenfrage?",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/berlin-ausgebuchte-schwimmkurse-kinder-schulschwimmen-schwimmbaeder-seepferdchen.html",
+      "date": "Tue, 09 Jun 2026 06:45:00 +0200"
+    },
+    {
+      "title": "AGH-Kommission gegen Rassismus legt keinen gemeinsamen Abschlussbericht vor",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/06/rassismus-agh-komission-kein-gemeinsamer-abschlussbericht.html",
+      "date": "Tue, 09 Jun 2026 06:15:00 +0200"
+    },
+    {
       "title": "Rüdiger, Maza & Co: WM-Fahrer mit Berliner/Brandenburger Bezug",
       "link": "https://www.rbb24.de/sport/beitrag/2026/06/listicle-wm-fahrer-ruediger-beier-maza-khedira-zwayer-dfb-fifa.html",
       "date": "Mon, 08 Jun 2026 21:55:33 +0200"
@@ -21,44 +51,14 @@
       "date": "Mon, 08 Jun 2026 19:36:03 +0200"
     },
     {
+      "title": "Brandenburger Aufarbeitungsbeauftragte: \"Der Diktatur-Charakter gerät aus dem Blick\"",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/06/ddr-aufarbeitung-beauftragte-bericht-zwangsumsiendlungen.html",
+      "date": "Mon, 08 Jun 2026 18:28:54 +0200"
+    },
+    {
       "title": "Krankenhaus-Finanzierung in Berlin: Verwaltungsgericht urteilt",
       "link": "https://www.rbb24.de/politik/beitrag/2026/06/verwaltungsgericht-berlin-krankenhausfinanzierung-klage-drk-vivantes.html",
       "date": "Mon, 08 Jun 2026 18:26:04 +0200"
-    },
-    {
-      "title": "Grundschule Bestensee: Eltern gegen \"Schule ohne Rassismus\" ruft Minister auf den Plan",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/06/grundschule-bestensee-courage-rassismus-gegenwind.html",
-      "date": "Mon, 08 Jun 2026 18:23:13 +0200"
-    },
-    {
-      "title": "Bauarbeiten bei der S-Bahn: Schienenersatzverkehr im Südosten",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/s-bahn-berlin-s46-s47-s8-s85-bauarbeiten-ber-fex-re2-re7.html",
-      "date": "Mon, 08 Jun 2026 17:21:27 +0200"
-    },
-    {
-      "title": "Lausitz-Festival mit Musik und Theater in Brikettfabrik und in Hangar",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/brandenburg-lausitz-festival-2026-programm.html",
-      "date": "Mon, 08 Jun 2026 17:16:01 +0200"
-    },
-    {
-      "title": "Handball: Füchse-Meistertrainer Siewert heuert in Melsungen an",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/handball-bundesliga-jaron-siewert-mt-melsungen-fuechse-berlin.html",
-      "date": "Mon, 08 Jun 2026 17:04:21 +0200"
-    },
-    {
-      "title": "Riesenabendsegler: Größte Fledermausart Europas in Brandenburg nachgewiesen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/teltow-flaeming-riesenabendsegler-groesste-fledermaus-nachgewiesen-brandenburg.html",
-      "date": "Mon, 08 Jun 2026 16:22:38 +0200"
-    },
-    {
-      "title": "Statistiker zur Fußball-WM: Wer Titelchancen hat - und wer Geheimfavorit ist",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/interview-ulrich-schneider-wm-tippen-wetten-prognose-statistik-m.html",
-      "date": "Mon, 08 Jun 2026 16:18:53 +0200"
-    },
-    {
-      "title": "Auf 94.000 Quadratmetern: Riesige Halle in Frankfurt (Oder) für Onlinehändler angemietet",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/onlinehaendler-logistik-ansiedlung-frankfurtoder-logplaza-brandenburg-a12-polen.html",
-      "date": "Mon, 08 Jun 2026 15:51:44 +0200"
     }
   ],
   "police": [],
@@ -66,6 +66,11 @@
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Tödlicher Wohnungsbrand in Berlin-Wittenau",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-wittenau-reinickendorf-toedlicher-wohnungsbrand.html",
+      "date": "Tue, 09 Jun 2026 08:17:53 +0200"
+    },
     {
       "title": "Senat und Verbände wollen Pflegebedürftige besser vor Hitze schützen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/hitzeschutz-pflege-beduerftige-berlin-senat-verbaende.html",
@@ -82,9 +87,9 @@
       "date": "Mon, 08 Jun 2026 16:22:38 +0200"
     },
     {
-      "title": "Neuer Test ermöglicht bessere Diabetes Typ 1-Früherkennung bei Kindern",
+      "title": "Diabetes Typ 1: Neuer Test ermöglicht bessere Früherkennung bei Kindern",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/diabetes-test-frueherkennung-krankheit-kinder-blut-brandenburg-berlin.html",
-      "date": "Mon, 08 Jun 2026 15:28:36 +0200"
+      "date": "Mon, 08 Jun 2026 15:28:00 +0200"
     },
     {
       "title": "Oberkrämer: 11-Jähriger fährt Vater mit Auto zum Bierkauf",
@@ -120,11 +125,6 @@
       "title": "Berlin-Lichterfelde: Fußgängerin nach Unfall mit BVG-Bus in Lebensgefahr",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-lichtenrade-goerzallee-unfall-fussgaengerin-lebensbedrohlich-verletzt.html",
       "date": "Sun, 07 Jun 2026 14:06:10 +0200"
-    },
-    {
-      "title": "Oberhavel: Tote Person bei Brand in Kremmen entdeckt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-oberhavel-brand-kremmen-tote-person.html",
-      "date": "Sun, 07 Jun 2026 13:12:51 +0200"
     }
   ]
 }
