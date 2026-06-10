@@ -1,9 +1,44 @@
 {
   "traffic": [
     {
-      "title": "Rechtsextremismus: Ausschuss zu Neuköllner Anschlagsserie legt Abschlussbericht vor",
+      "title": "Drei Tote nach Brand in Einfamilienhaus in Friesack aufgefunden",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/drei-tote-nach-brand-in-friesack-einfamilienhaus.html",
+      "date": "Wed, 10 Jun 2026 16:49:41 +0200"
+    },
+    {
+      "title": "Petition will Stege an Brandenburger Seen retten",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-stege-badesee-abriss-rettung-petition-uckermark.html",
+      "date": "Wed, 10 Jun 2026 16:43:43 +0200"
+    },
+    {
+      "title": "Anschlagsserie in Neukölln: Ausschuss beendet",
       "link": "https://www.rbb24.de/politik/beitrag/2026/06/berlin-neukoelln-rechtsextremistisch-anschlagsserie-abschlussbericht.html",
-      "date": "Wed, 10 Jun 2026 13:09:47 +0200"
+      "date": "Wed, 10 Jun 2026 16:43:19 +0200"
+    },
+    {
+      "title": "Granaten beim Magnetangeln in Neukölln gefunden - Sprengung am Mittwoch",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/granaten-neukoelln-sprengung.html",
+      "date": "Wed, 10 Jun 2026 16:17:43 +0200"
+    },
+    {
+      "title": "Kohleausstieg rückt näher: Wie sich Lausitzer Firmen umstellen",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/brandenburg-mingentec-kohleausstieg-betriebe-foerderung.html",
+      "date": "Wed, 10 Jun 2026 16:16:42 +0200"
+    },
+    {
+      "title": "Wirtschaftsministerin: Polen will bei Belieferung der PCK-Raffinerie unterstützen",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/brandenburg-pck-schwedt-oel-russland-kasachstan.html",
+      "date": "Wed, 10 Jun 2026 15:51:46 +0200"
+    },
+    {
+      "title": "Junges Zwergflusspferd im Berliner Zoo heißt Brötchen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/broetchen-zwergflusspferd-berlin-zoo-name.html",
+      "date": "Wed, 10 Jun 2026 15:22:14 +0200"
+    },
+    {
+      "title": "Maxim-Gorki-Theater: Mit Langhoff geht Raum für postmigrantisches Theater verloren",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/bilanz-shermin-langhoff-gorki-theater-berlin.html",
+      "date": "Wed, 10 Jun 2026 15:08:00 +0200"
     },
     {
       "title": "ILA 2026 am BER: Aktivisten blockieren Zufahrt zur Luftfahrtausstellung",
@@ -24,109 +59,38 @@
       "title": "Toter in Zossen gefunden - 18-Jähriger unter Tatverdacht",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/zossen-mann-tot-18-jaehriger-verdaechtigt.html",
       "date": "Wed, 10 Jun 2026 11:08:43 +0200"
-    },
-    {
-      "title": "Weltkriegsbombe in Jänschwalde erfolgreich entschärft",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/jaenschwalde-bombe-entschaerfung-bahn-cottbus-frankfurt.html",
-      "date": "Wed, 10 Jun 2026 11:03:38 +0200"
-    },
-    {
-      "title": "CDU Berlin kürt Wegner zum Spitzenkandidaten – mit Überraschungseinlage",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/cdu-spitzenkandidat-kai-wegner-parteitag-abgeordnetenhauswahl.html",
-      "date": "Wed, 10 Jun 2026 10:06:52 +0200"
-    },
-    {
-      "title": "Glücksatlas: Berlin hinter Bremen, Wuppertal und Gelsenkirchen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-gluecksatlas-grossstaedte-menschen-zufriedenheit.html",
-      "date": "Wed, 10 Jun 2026 09:35:16 +0200"
-    },
-    {
-      "title": "Bezirke fordern Senatshilfe gegen Eichenprozessionsspinner",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-bezirke-hilfe-eichenprozessionsspinner-gesundheitsgefahr-raupe.html",
-      "date": "Wed, 10 Jun 2026 08:11:31 +0200"
-    },
-    {
-      "title": "Alba Berlin steht nach Machtdemonstration gegen Bamberg im Finale",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/basketball-bbl-playoffs-halbfinale-spiel-fuenf-alba-berlin-bamberg-baskets-spielbericht.html",
-      "date": "Wed, 10 Jun 2026 07:10:00 +0200"
-    },
-    {
-      "title": "Queer auf Arbeit: Wenn der Job zum Versteckspiel wird",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/queer-arbeitsplatz-job-berlin-brandenburg-outing-diskriminierung.html",
-      "date": "Wed, 10 Jun 2026 06:52:49 +0200"
-    },
-    {
-      "title": "\"Freiraum Kunst\": Ausstellung im Schloss Bellevue",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/kunst-im-schloss-bellevue-ausstellung-steinmeier-amtssitz.html",
-      "date": "Tue, 09 Jun 2026 21:23:44 +0200"
     }
   ],
-  "police": [
-    {
-      "title": "Ein Tatverdächtiger nach räuberischem Diebstahl identifiziert",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1674985.php",
-      "date": "Wed, 10 Jun 2026 10:00:00 +0200"
-    },
-    {
-      "title": "Verstorbene Person nach Wohnungsbrand",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1679642.php",
-      "date": "Tue, 09 Jun 2026 15:42:19 +0200"
-    },
-    {
-      "title": "Trickbetrug durch falsche Polizeibeamte – Wer erkennt den Tatverdächtigen?",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678449.php",
-      "date": "Tue, 09 Jun 2026 15:08:00 +0200"
-    },
-    {
-      "title": "Kind angefahren – Fahrzeugführer flüchtet vom Unfallort",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1679615.php",
-      "date": "Tue, 09 Jun 2026 15:03:14 +0200"
-    },
-    {
-      "title": "Fahrradfahrerin fährt Kind an",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1679603.php",
-      "date": "Tue, 09 Jun 2026 14:49:01 +0200"
-    },
-    {
-      "title": "Jugendlicher Fensterputzer entpuppt sich als mutmaßlicher Trickdieb",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1679475.php",
-      "date": "Tue, 09 Jun 2026 12:48:23 +0200"
-    },
-    {
-      "title": "Verkehrsunfall zwischen Fahrradfahrer und Motorradfahrer",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1679423.php",
-      "date": "Tue, 09 Jun 2026 12:20:52 +0200"
-    },
-    {
-      "title": "Diebstahl und Kartenbetrug – Wer erkennt den Tatverdächtigen?",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1679254.php",
-      "date": "Tue, 09 Jun 2026 10:30:38 +0200"
-    },
-    {
-      "title": "Fahrzeuge in Flammen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1679235.php",
-      "date": "Tue, 09 Jun 2026 10:17:41 +0200"
-    },
-    {
-      "title": "Vermisster Senior wieder da",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1675296.php",
-      "date": "Tue, 09 Jun 2026 08:45:00 +0200"
-    },
-    {
-      "title": "Nach gewalttätigen Ausschreitungen im Olympiastadion - Polizei bittet um Mithilfe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1634658.php",
-      "date": "Mon, 08 Jun 2026 16:12:00 +0200"
-    },
-    {
-      "title": "Fahrradfahrer und E-Scooter-Fahrer verunfallt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1679027.php",
-      "date": "Mon, 08 Jun 2026 15:45:15 +0200"
-    }
-  ],
+  "police": [],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Drei Tote nach Brand in Einfamilienhaus in Friesack aufgefunden",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/drei-tote-nach-brand-in-friesack-einfamilienhaus.html",
+      "date": "Wed, 10 Jun 2026 16:49:41 +0200"
+    },
+    {
+      "title": "Petition will Stege an Brandenburger Seen retten",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-stege-badesee-abriss-rettung-petition-uckermark.html",
+      "date": "Wed, 10 Jun 2026 16:43:43 +0200"
+    },
+    {
+      "title": "Granaten beim Magnetangeln in Neukölln gefunden - Sprengung am Mittwoch",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/granaten-neukoelln-sprengung.html",
+      "date": "Wed, 10 Jun 2026 16:17:43 +0200"
+    },
+    {
+      "title": "Junges Zwergflusspferd im Berliner Zoo heißt Brötchen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/broetchen-zwergflusspferd-berlin-zoo-name.html",
+      "date": "Wed, 10 Jun 2026 15:22:14 +0200"
+    },
+    {
+      "title": "Bombe in Oranienberg wird am Donnerstagmorgen entschärft",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/oranienburg-landkreis-oberhavel-weltkriegsbombe-entschaerfung-L211-sperrung.html",
+      "date": "Wed, 10 Jun 2026 14:45:30 +0200"
+    },
     {
       "title": "Blindgänger entdeckt - Potsdams Zentrum wird Dienstag evakuiert",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/potsdam-weltkriegsbombe-landtag-evakuierung.html",
@@ -161,31 +125,6 @@
       "title": "Bezirke fordern Senatshilfe gegen Eichenprozessionsspinner",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-bezirke-hilfe-eichenprozessionsspinner-gesundheitsgefahr-raupe.html",
       "date": "Wed, 10 Jun 2026 08:11:31 +0200"
-    },
-    {
-      "title": "Staatstheater Cottbus 26/27: 17 Premieren und neuer Intendant",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/staatstheater-cottbus-spielzeit-2026-2027.html",
-      "date": "Tue, 09 Jun 2026 17:25:12 +0200"
-    },
-    {
-      "title": "Berliner Arztpraxen könnten Mittwoch geschlossen bleiben - Aktionstag gegen Sparpaket",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/aktionstag-berliner-arztpraxen-sparpaket-gesundheit.html",
-      "date": "Tue, 09 Jun 2026 16:53:54 +0200"
-    },
-    {
-      "title": "Deutsche Wohnen in Berlin: Millionen-Bußgeld deutlich reduziert",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-deutsche-wohnen-geldstrafe-datenschutz-mieter-reduziert-gericht.html",
-      "date": "Tue, 09 Jun 2026 16:37:21 +0200"
-    },
-    {
-      "title": "Zaun um Plötzensee soll Wildbadende abhalten. Bisher erfolglos",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/freibad-ploetzensee-berlin-wildbader-zaun-ordnungsamt-bussgeld.html",
-      "date": "Tue, 09 Jun 2026 16:28:44 +0200"
-    },
-    {
-      "title": "Nach Tod eines 17-Jährigen aus Grünheide äußert sich Landrat zur Kritik an Jugendamt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/oder-spree-brandenburg-jugendamt--tot-drogen-urteil-jugendlicher.html",
-      "date": "Tue, 09 Jun 2026 16:23:36 +0200"
     }
   ]
 }
