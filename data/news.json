@@ -1,9 +1,29 @@
 {
   "traffic": [
     {
+      "title": "Rechtsextremismus: Ausschuss zu Neuköllner Anschlagsserie legt Abschlussbericht vor",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/06/berlin-neukoelln-rechtsextremistisch-anschlagsserie-abschlussbericht.html",
+      "date": "Wed, 10 Jun 2026 08:35:33 +0200"
+    },
+    {
+      "title": "Bezirke fordern Senatshilfe gegen Eichenprozessionsspinner",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-bezirke-hilfe-eichenprozessionsspinner-gesundheitsgefahr-raupe.html",
+      "date": "Wed, 10 Jun 2026 08:11:31 +0200"
+    },
+    {
+      "title": "Bombenfund in Jänschwalde – Zugverkehr vorübergehend unterbrochen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/jaenschwalde-bombe-entschaerfung-bahn-cottbus-frankfurt.html",
+      "date": "Wed, 10 Jun 2026 08:10:56 +0200"
+    },
+    {
       "title": "Alba Berlin steht nach Machtdemonstration gegen Bamberg im Finale",
       "link": "https://www.rbb24.de/sport/beitrag/2026/06/basketball-bbl-playoffs-halbfinale-spiel-fuenf-alba-berlin-bamberg-baskets-spielbericht.html",
-      "date": "Wed, 10 Jun 2026 01:00:00 +0200"
+      "date": "Wed, 10 Jun 2026 07:10:29 +0200"
+    },
+    {
+      "title": "Queer auf Arbeit: Wenn der Job zum Versteckspiel wird",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/queer-arbeitsplatz-job-berlin-brandenburg-outing-diskriminierung.html",
+      "date": "Wed, 10 Jun 2026 06:52:49 +0200"
     },
     {
       "title": "\"Freiraum Kunst\": Ausstellung im Schloss Bellevue",
@@ -39,26 +59,6 @@
       "title": "MV-Beschluss: Babelsberg kann wieder gegen Hertha und Union testen",
       "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-babelsberg-03-testspiel-verbot-hertha-bsc-union-aufgehoben-mitgliederversammlung.html",
       "date": "Tue, 09 Jun 2026 17:57:00 +0200"
-    },
-    {
-      "title": "Staatstheater Cottbus 26/27: 17 Premieren und neuer Intendant",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/staatstheater-cottbus-spielzeit-2026-2027.html",
-      "date": "Tue, 09 Jun 2026 17:25:12 +0200"
-    },
-    {
-      "title": "Bildungssenatorin Günther-Wünsch: Berlin fehlen erstmals weniger Schulplätze",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/06/mehr-schulplaetze-schulbau-berlin-guenther-wuensch-cdu.html",
-      "date": "Tue, 09 Jun 2026 17:21:16 +0200"
-    },
-    {
-      "title": "Berliner Arztpraxen könnten Mittwoch geschlossen bleiben - Aktionstag gegen Sparpaket",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/aktionstag-berliner-arztpraxen-sparpaket-gesundheit.html",
-      "date": "Tue, 09 Jun 2026 16:53:54 +0200"
-    },
-    {
-      "title": "Deutsche Wohnen in Berlin: Millionen-Bußgeld deutlich reduziert",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-deutsche-wohnen-geldstrafe-datenschutz-mieter-reduziert-gericht.html",
-      "date": "Tue, 09 Jun 2026 16:37:21 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,16 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Bezirke fordern Senatshilfe gegen Eichenprozessionsspinner",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-bezirke-hilfe-eichenprozessionsspinner-gesundheitsgefahr-raupe.html",
+      "date": "Wed, 10 Jun 2026 08:11:31 +0200"
+    },
+    {
+      "title": "Bombenfund in Jänschwalde – Zugverkehr vorübergehend unterbrochen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/jaenschwalde-bombe-entschaerfung-bahn-cottbus-frankfurt.html",
+      "date": "Wed, 10 Jun 2026 08:10:56 +0200"
+    },
+    {
       "title": "Blindgänger in Potsdamer Innenstadt - Entschärfung am Dienstag",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/potsdam-weltkriegsbombe-landtag-evakuierung.html",
       "date": "Tue, 09 Jun 2026 20:58:51 +0200"
@@ -176,16 +186,6 @@
       "title": "Tödlicher Sturz aus neuntem Stock in Berlin – Anklage erhoben",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-lichtenberg-frau-neunter-stock-sturz-tod-anklage.html",
       "date": "Tue, 09 Jun 2026 15:23:20 +0200"
-    },
-    {
-      "title": "Bettwanzen-Befall in Berliner Feuerwache vermutet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-feuerwehr-charlottenburg-nord-verdacht-bettwanzen.html",
-      "date": "Tue, 09 Jun 2026 14:52:35 +0200"
-    },
-    {
-      "title": "Hitzeschutz: Berlin und Potsdam bieten genug schattige Plätze",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-potsdam-brandenburg-schatten-richtwert-umwelthilfe-hitze-schutz.html",
-      "date": "Tue, 09 Jun 2026 12:24:11 +0200"
     }
   ]
 }
