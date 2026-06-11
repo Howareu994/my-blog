@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Tausende Euro für 30 Quadratmeter: Wie eine WBS-Regelung die Unterbringung wohnungsloser Familien teuer macht",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/wohnberechtigungsschein-wbs-teure-wohnungslosenunterkuenfte.html",
+      "date": "Thu, 11 Jun 2026 07:20:20 +0200"
+    },
+    {
+      "title": "Chialo soll im Fördergeld-Untersuchungsausschuss aussagen",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/06/foerdergeld-untersuchungsausschuss-chialo-aussage.html",
+      "date": "Thu, 11 Jun 2026 06:10:05 +0200"
+    },
+    {
       "title": "Offiziell: Hertha-Talent Eichhorn wechselt nach Leverkusen",
       "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-hertha-bsc-kennet-eichhorn-wechsel-bayer-leverkusen.html",
       "date": "Wed, 10 Jun 2026 22:05:35 +0200"
@@ -46,19 +56,9 @@
       "date": "Wed, 10 Jun 2026 18:08:23 +0200"
     },
     {
-      "title": "Anschlagsserie in Neukölln: Ausschuss beendet",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/06/berlin-neukoelln-rechtsextremistisch-anschlagsserie-abschlussbericht.html",
-      "date": "Wed, 10 Jun 2026 17:46:55 +0200"
-    },
-    {
       "title": "Steinkeller aus Mittelalter am Molkenmarkt entdeckt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/steinkeller-mittelalter-molkenmarkt-entdeckt.html",
       "date": "Wed, 10 Jun 2026 17:24:46 +0200"
-    },
-    {
-      "title": "Petition will Stege an Brandenburger Seen retten",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-stege-badesee-abriss-rettung-petition-uckermark.html",
-      "date": "Wed, 10 Jun 2026 16:43:43 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Bombe in Oranienburg wird am Donnerstagmorgen entschärft",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/oranienburg-landkreis-oberhavel-weltkriegsbombe-entschaerfung-L211-sperrung.html",
+      "date": "Thu, 11 Jun 2026 07:14:07 +0200"
+    },
+    {
       "title": "Drei Tote nach Brand in Einfamilienhaus in Friesack aufgefunden",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/drei-tote-nach-brand-in-friesack-einfamilienhaus.html",
       "date": "Wed, 10 Jun 2026 19:45:29 +0200"
@@ -161,11 +166,6 @@
       "title": "Junges Zwergflusspferd im Berliner Zoo heißt Brötchen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/broetchen-zwergflusspferd-berlin-zoo-name.html",
       "date": "Wed, 10 Jun 2026 15:22:14 +0200"
-    },
-    {
-      "title": "Bombe in Oranienberg wird am Donnerstagmorgen entschärft",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/oranienburg-landkreis-oberhavel-weltkriegsbombe-entschaerfung-L211-sperrung.html",
-      "date": "Wed, 10 Jun 2026 14:45:30 +0200"
     },
     {
       "title": "Blindgänger entdeckt - Potsdams Zentrum wird Dienstag evakuiert",
