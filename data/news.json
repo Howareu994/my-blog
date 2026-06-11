@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Kameras auf Damentoiletten der HWR Berlin entdeckt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/hwr-berlin-hochschule-wirtschaft-recht-damentoiletten.html",
+      "date": "Thu, 11 Jun 2026 20:10:06 +0200"
+    },
+    {
       "title": "7. Klassen in Berlin: Freie Gymnasialplätze, volle Sekundarschulen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/schulplatzvergabe-berlin-gymnasium-sekundarschule-plaetze.html",
       "date": "Thu, 11 Jun 2026 19:50:55 +0200"
@@ -9,11 +14,6 @@
       "title": "Bundesjugendspiele sollen wieder mehr Wettkampf ermöglichen",
       "link": "https://www.rbb24.de/sport/beitrag/2026/06/bundesjugendspiele-sollen-wieder-mehr-wettkampf-ermoeglichen-.html",
       "date": "Thu, 11 Jun 2026 18:33:28 +0200"
-    },
-    {
-      "title": "Kameras auf Damentoiletten der HWR Berlin entdeckt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/hwr-berlin-hochschule-wirtschaft-recht-damentoiletten.html",
-      "date": "Thu, 11 Jun 2026 18:07:42 +0200"
     },
     {
       "title": "Neunmonatige Vollsperrung der RE1-Strecke 2029 ist vom Tisch",
@@ -128,14 +128,14 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Kameras auf Damentoiletten der HWR Berlin entdeckt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/hwr-berlin-hochschule-wirtschaft-recht-damentoiletten.html",
+      "date": "Thu, 11 Jun 2026 20:10:06 +0200"
+    },
+    {
       "title": "7. Klassen in Berlin: Freie Gymnasialplätze, volle Sekundarschulen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/schulplatzvergabe-berlin-gymnasium-sekundarschule-plaetze.html",
       "date": "Thu, 11 Jun 2026 19:50:55 +0200"
-    },
-    {
-      "title": "Kameras auf Damentoiletten der HWR Berlin entdeckt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/hwr-berlin-hochschule-wirtschaft-recht-damentoiletten.html",
-      "date": "Thu, 11 Jun 2026 18:07:42 +0200"
     },
     {
       "title": "Neunmonatige Vollsperrung der RE1-Strecke 2029 ist vom Tisch",
