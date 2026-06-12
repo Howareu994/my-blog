@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Was das neue Gemeinsame Europäische Asylsystem für Berlin bedeutet",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/06/europaeisches-asylsystem-geas-berlin-vorgaben-nicht-erfuellt.html",
+      "date": "Fri, 12 Jun 2026 20:52:41 +0200"
+    },
+    {
+      "title": "Neues Asyl-Prüfzentrum: \"Eine Fiktion der Nicht-Einreise\"",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/06/brandenburg-schoenefeld-ber-flughafen-asyl-pruefstelle-aussengrenze.html",
+      "date": "Fri, 12 Jun 2026 20:17:45 +0200"
+    },
+    {
+      "title": "Berliner Polizei untersucht Fall von Gewalt durch Beamte – Fall soll vor Innenausschuss",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-polizei-untersucht-gewalt-durch-beamte.html",
+      "date": "Fri, 12 Jun 2026 19:57:55 +0200"
+    },
+    {
       "title": "Charité-Studie: West-Nil-Virus ist in Berlin fest etabliert",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/charite-studie-west-nil-virus-berlin-muecken-universitaetsklinik.html",
       "date": "Fri, 12 Jun 2026 19:16:01 +0200"
@@ -14,11 +29,6 @@
       "title": "Berlin: Zwei 23-Jährige nach Waffen- und Drogenfunden festgenommen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-kriminalitaet-waffen-drogen-polizei-durchsuchungen.html",
       "date": "Fri, 12 Jun 2026 16:31:51 +0200"
-    },
-    {
-      "title": "Bezirksamt Lichtenberg erstattet Anzeige wegen Kameras in Dienstgebäuden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/bezirksamt-lichtenberg-anzeige-hochschule-wirtschaft-recht-damentoiletten.html",
-      "date": "Fri, 12 Jun 2026 16:28:12 +0200"
     },
     {
       "title": "Fünf Jahre Haft für Ex-Lehrer wegen Missbrauchs von Schülerinnen",
@@ -49,16 +59,6 @@
       "title": "B96 in Fürstenberg: Ein Straße spaltet die Stadt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/b96-umfahrung-fuerstenberg-verkehrsbelastung-naturschutz.html",
       "date": "Fri, 12 Jun 2026 12:59:13 +0200"
-    },
-    {
-      "title": "S-Bahn-Bauarbeiten in Berlin: Drei Wochen Ersatzverkehr im Südosten",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/s-bahn-berlin-s46-s47-s8-s85-bauarbeiten-ber-fex-re2-re7.html",
-      "date": "Fri, 12 Jun 2026 12:32:01 +0200"
-    },
-    {
-      "title": "Kind in Berlin-Schmargendorf von zwei Autos angefahren",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-schmargendorf-unfall-kind-2-autos-angefahren.html",
-      "date": "Fri, 12 Jun 2026 12:26:21 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Berliner Polizei untersucht Fall von Gewalt durch Beamte – Fall soll vor Innenausschuss",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-polizei-untersucht-gewalt-durch-beamte.html",
+      "date": "Fri, 12 Jun 2026 19:57:55 +0200"
+    },
+    {
       "title": "Charité-Studie: West-Nil-Virus ist in Berlin fest etabliert",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/charite-studie-west-nil-virus-berlin-muecken-universitaetsklinik.html",
       "date": "Fri, 12 Jun 2026 19:16:01 +0200"
@@ -181,11 +186,6 @@
       "title": "Bahnstrecke Berlin-Hamburg ab Sonntag wieder freigegeben",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-hamburg-bahnstrecke-sanierung-fertig-wiedereroeffnung.html",
       "date": "Fri, 12 Jun 2026 12:02:00 +0200"
-    },
-    {
-      "title": "Berliner Stadtbahn ab Sonntag für Regional- und Fernverkehr gesperrt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-stadtbahn-regionalverkehr-fernverkehr-sperrung-baustelle.html",
-      "date": "Fri, 12 Jun 2026 11:52:51 +0200"
     }
   ]
 }
