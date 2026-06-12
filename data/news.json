@@ -1,24 +1,39 @@
 {
   "traffic": [
     {
-      "title": "Showdown um den Aufstieg: Hertha-Frauen inSaarbrücken",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-frauen-zweite-bundesliga-aufstiegsspiele-hinspiel-saarbruecken-hertha-frauen.html",
-      "date": "Thu, 11 Jun 2026 23:21:08 +0200"
+      "title": "Bund will Insel auf dem Berliner Müggelsee verkaufen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/mueggelwerder-bundesanstalt-immobilienaufgaben-mueggelsee-treptow-koepenick-berlin.html",
+      "date": "Fri, 12 Jun 2026 09:01:09 +0200"
     },
     {
-      "title": "Türkei bei der WM: Das müssen Fans in Berlin wissen",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/fifa-wm-2026-tuerkei-tv-spiele-sender-uebertragen-ard-zdf-public.html",
-      "date": "Thu, 11 Jun 2026 23:18:21 +0200"
+      "title": "Interview zur autoarmen Innenstadt: Potsdam im Trend der Zeit",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/06/auto-verkehr-innenstadt-potsdam-dortustrasse-experte-rammert-interview.html",
+      "date": "Fri, 12 Jun 2026 08:56:42 +0200"
+    },
+    {
+      "title": "S-Bahn-Bauarbeiten in Berlin: Drei Wochen Ersatzverkehr im Südosten",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/s-bahn-berlin-s46-s47-s8-s85-bauarbeiten-ber-fex-re2-re7.html",
+      "date": "Fri, 12 Jun 2026 08:37:56 +0200"
+    },
+    {
+      "title": "Kameras auf Damentoiletten der HWR Berlin entdeckt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/hwr-berlin-hochschule-wirtschaft-recht-damentoiletten.html",
+      "date": "Fri, 12 Jun 2026 08:37:18 +0200"
+    },
+    {
+      "title": "Pianist vertont Fußball: Live-Soundtrack für das Rasen-Ballett",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/konzert-live-soundtrack-zwoelf-apostel-kirche-berlin-schoeneberg-fussball-wm.html",
+      "date": "Fri, 12 Jun 2026 08:10:12 +0200"
+    },
+    {
+      "title": "Weniger Fahrraddiebstähle, aber höhere Schäden durch E-Bike-Klau",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-fahrrad-diebstahl-ebike-polizei-adfc-.html",
+      "date": "Fri, 12 Jun 2026 06:13:00 +0200"
     },
     {
       "title": "Bundeswehr könnte Klinik-Neubau in Potsdam mitfinanzieren",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/potsdam-ernst-von-bergmann-klinikum-neubau.html",
       "date": "Thu, 11 Jun 2026 20:56:01 +0200"
-    },
-    {
-      "title": "Kameras auf Damentoiletten der HWR Berlin entdeckt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/hwr-berlin-hochschule-wirtschaft-recht-damentoiletten.html",
-      "date": "Thu, 11 Jun 2026 20:10:06 +0200"
     },
     {
       "title": "7. Klassen in Berlin: Freie Gymnasialplätze, volle Sekundarschulen",
@@ -33,7 +48,7 @@
     {
       "title": "Neunmonatige Vollsperrung der RE1-Strecke 2029 ist vom Tisch",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/re1-vollsperrung-2029-vom-tisch-deutsche-bahn.html",
-      "date": "Thu, 11 Jun 2026 17:19:28 +0200"
+      "date": "Thu, 11 Jun 2026 17:19:00 +0200"
     },
     {
       "title": "Bombe in Oranienburg gesprengt",
@@ -44,21 +59,6 @@
       "title": "Eichenprozessionsspinner in Berlin: Krisentreffen geplant",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-krisentreffen-eichenprozessionsspinner-raupe-befall-umweltverwaltung-bezirke.html",
       "date": "Thu, 11 Jun 2026 15:50:56 +0200"
-    },
-    {
-      "title": "Organisation gegen Extremismus will Goebbels-Villa ausbauen",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/06/bogensee-areal-goebbels-villa-cep-daniel-libeskind.html",
-      "date": "Thu, 11 Jun 2026 15:41:28 +0200"
-    },
-    {
-      "title": "2. Fußball-Bundesliga: Energie Cottbus holt Leonardo Bittencourt zurück",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-zweite-bundesliga-energie-cottbus-transfer-leonardo-bittencourt.html",
-      "date": "Thu, 11 Jun 2026 15:11:40 +0200"
-    },
-    {
-      "title": "Berlin Tennis Open 2026: Wissenswertes zum Rasenturnier",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/vorschau-berlin-tennis-open-wta-serena-williams-tickets.html",
-      "date": "Thu, 11 Jun 2026 15:04:28 +0200"
     }
   ],
   "police": [
@@ -128,9 +128,24 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Bund will Insel auf dem Berliner Müggelsee verkaufen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/mueggelwerder-bundesanstalt-immobilienaufgaben-mueggelsee-treptow-koepenick-berlin.html",
+      "date": "Fri, 12 Jun 2026 09:01:09 +0200"
+    },
+    {
+      "title": "S-Bahn-Bauarbeiten in Berlin: Drei Wochen Ersatzverkehr im Südosten",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/s-bahn-berlin-s46-s47-s8-s85-bauarbeiten-ber-fex-re2-re7.html",
+      "date": "Fri, 12 Jun 2026 08:37:56 +0200"
+    },
+    {
       "title": "Kameras auf Damentoiletten der HWR Berlin entdeckt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/hwr-berlin-hochschule-wirtschaft-recht-damentoiletten.html",
-      "date": "Thu, 11 Jun 2026 20:10:06 +0200"
+      "date": "Fri, 12 Jun 2026 08:37:18 +0200"
+    },
+    {
+      "title": "Weniger Fahrraddiebstähle, aber höhere Schäden durch E-Bike-Klau",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-fahrrad-diebstahl-ebike-polizei-adfc-.html",
+      "date": "Fri, 12 Jun 2026 06:13:00 +0200"
     },
     {
       "title": "7. Klassen in Berlin: Freie Gymnasialplätze, volle Sekundarschulen",
@@ -140,7 +155,7 @@
     {
       "title": "Neunmonatige Vollsperrung der RE1-Strecke 2029 ist vom Tisch",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/re1-vollsperrung-2029-vom-tisch-deutsche-bahn.html",
-      "date": "Thu, 11 Jun 2026 17:19:28 +0200"
+      "date": "Thu, 11 Jun 2026 17:19:00 +0200"
     },
     {
       "title": "Bombe in Oranienburg gesprengt",
@@ -171,21 +186,6 @@
       "title": "Toter Mann in Berlin-Wedding gefunden - Mordkommission ermittelt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-wedding-mann-tot-mordkommission-ermittelt.html",
       "date": "Thu, 11 Jun 2026 13:09:57 +0200"
-    },
-    {
-      "title": "Berliner Polizist soll Kollegin sexuell belästigt haben - Anklage",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-anklage-polizist-sexuelle-belaestigung-betriebsausflug.html",
-      "date": "Thu, 11 Jun 2026 12:34:32 +0200"
-    },
-    {
-      "title": "Fußball-WM 2026: Was Fans beachten sollten",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/fussball-fifa-wm-2026-faq-berlin-brandenburg.html",
-      "date": "Thu, 11 Jun 2026 12:16:29 +0200"
-    },
-    {
-      "title": "Altdöberner See: Bergbausanierer stabilisiert letzte Böschungen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/altdoeberner-see-ufer-verdichtet-tagebausee-lmbv.html",
-      "date": "Thu, 11 Jun 2026 11:49:05 +0200"
     }
   ]
 }
