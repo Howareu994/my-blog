@@ -1,6 +1,36 @@
 {
   "traffic": [
     {
+      "title": "Berlin: Zwei 23-Jährige nach Waffen- und Drogenfunden festgenommen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-kriminalitaet-waffen-drogen-polizei-durchsuchungen.html",
+      "date": "Fri, 12 Jun 2026 16:31:51 +0200"
+    },
+    {
+      "title": "Bezirksamt Lichtenberg erstattet Anzeige wegen Kameras in Dienstgebäuden",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/bezirksamt-lichtenberg-anzeige-hochschule-wirtschaft-recht-damentoiletten.html",
+      "date": "Fri, 12 Jun 2026 16:28:12 +0200"
+    },
+    {
+      "title": "Fünf Jahre Haft für Ex-Lehrer wegen Missbrauchs von Schülerinnen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-missbrauch-schuelerin-lehrer-haftstrafe.html",
+      "date": "Fri, 12 Jun 2026 16:18:50 +0200"
+    },
+    {
+      "title": "Grundschule Bestensee wird \"Schule ohne Rassismus\"",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/06/grundschule-bestensee-wird-schule-ohne-rassismus.html",
+      "date": "Fri, 12 Jun 2026 16:14:23 +0200"
+    },
+    {
+      "title": "1.700 Beschäftigte der Stahlindustrie demonstrieren in Berlin",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/berlin-demo-stahl-industrie-ig-metall-eisenhuettenstadt-hennigsdorf-brandenburg.html",
+      "date": "Fri, 12 Jun 2026 14:47:58 +0200"
+    },
+    {
+      "title": "Drei Tote nach Brand in Einfamilienhaus in Friesack aufgefunden",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/drei-tote-nach-brand-in-friesack-einfamilienhaus.html",
+      "date": "Fri, 12 Jun 2026 14:41:09 +0200"
+    },
+    {
       "title": "Nach Sanierung: Radwege bei Falkensee freigegeben",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/radwege-falkensee-freigabe-havelland-.html",
       "date": "Fri, 12 Jun 2026 13:11:52 +0200"
@@ -21,11 +51,6 @@
       "date": "Fri, 12 Jun 2026 12:26:21 +0200"
     },
     {
-      "title": "Über 1.000 Beschäftigte der Stahlindustrie demonstrieren in Berlin",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/berlin-demo-stahl-industrie-ig-metall-eisenhuettenstadt-hennigsdorf-brandenburg.html",
-      "date": "Fri, 12 Jun 2026 12:18:00 +0200"
-    },
-    {
       "title": "Krattenmacher verlässt Hertha BSC und wechselt in die Bundesliga",
       "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-2-liga-hertha-bsc-maurice-krattenmacher-leihe-ende-wechsel-elversberg.html",
       "date": "Fri, 12 Jun 2026 12:11:55 +0200"
@@ -34,34 +59,19 @@
       "title": "Bahnstrecke Berlin-Hamburg ab Sonntag wieder freigegeben",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-hamburg-bahnstrecke-sanierung-fertig-wiedereroeffnung.html",
       "date": "Fri, 12 Jun 2026 12:02:00 +0200"
-    },
-    {
-      "title": "Berliner Stadtbahn ab Sonntag für Regional- und Fernverkehr gesperrt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-stadtbahn-regionalverkehr-fernverkehr-sperrung-baustelle.html",
-      "date": "Fri, 12 Jun 2026 11:52:51 +0200"
-    },
-    {
-      "title": "Autofahrer stirbt nach Auffahrunfall in Gransee",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-autofahrer-stirbt-nach-auffahr-unfall-oberhavel-gransee.html",
-      "date": "Fri, 12 Jun 2026 10:00:51 +0200"
-    },
-    {
-      "title": "Eröffnungsspiel: Auf der Suche nach der Berliner WM-Stimmung",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-wm-reportage-eroeffnungsspiel-berlin-mexiko-suedafrika-stimmung.html",
-      "date": "Fri, 12 Jun 2026 09:52:59 +0200"
-    },
-    {
-      "title": "Bund will Insel auf dem Berliner Müggelsee verkaufen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/mueggelwerder-bundesanstalt-immobilienaufgaben-mueggelsee-treptow-koepenick-berlin.html",
-      "date": "Fri, 12 Jun 2026 09:01:00 +0200"
-    },
-    {
-      "title": "Interview zur autoarmen Innenstadt: Potsdam im Trend der Zeit",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/06/auto-verkehr-innenstadt-potsdam-dortustrasse-experte-rammert-interview.html",
-      "date": "Fri, 12 Jun 2026 08:56:42 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Mutmaßliche Angreifer nach Polizeieinsatz festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681383.php",
+      "date": "Fri, 12 Jun 2026 15:26:33 +0200"
+    },
+    {
+      "title": "Durchsuchungsbeschlüsse wegen Erpressung vollstreckt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681336.php",
+      "date": "Fri, 12 Jun 2026 14:17:53 +0200"
+    },
     {
       "title": "Vorläufige Festnahme nach Schussabgabe",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681234.php",
@@ -111,22 +121,37 @@
       "title": "Not-OP nach Verkehrsunfall",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1680286.php",
       "date": "Wed, 10 Jun 2026 14:52:00 +0200"
-    },
-    {
-      "title": "Festnahme nach Taschendiebstahl",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1680282.php",
-      "date": "Wed, 10 Jun 2026 14:46:00 +0200"
-    },
-    {
-      "title": "Ein Tatverdächtiger nach räuberischem Diebstahl identifiziert",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1674985.php",
-      "date": "Wed, 10 Jun 2026 10:00:00 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Berlin: Zwei 23-Jährige nach Waffen- und Drogenfunden festgenommen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-kriminalitaet-waffen-drogen-polizei-durchsuchungen.html",
+      "date": "Fri, 12 Jun 2026 16:31:51 +0200"
+    },
+    {
+      "title": "Bezirksamt Lichtenberg erstattet Anzeige wegen Kameras in Dienstgebäuden",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/bezirksamt-lichtenberg-anzeige-hochschule-wirtschaft-recht-damentoiletten.html",
+      "date": "Fri, 12 Jun 2026 16:28:12 +0200"
+    },
+    {
+      "title": "Fünf Jahre Haft für Ex-Lehrer wegen Missbrauchs von Schülerinnen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-missbrauch-schuelerin-lehrer-haftstrafe.html",
+      "date": "Fri, 12 Jun 2026 16:18:50 +0200"
+    },
+    {
+      "title": "Drei Tote nach Brand in Einfamilienhaus in Friesack aufgefunden",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/drei-tote-nach-brand-in-friesack-einfamilienhaus.html",
+      "date": "Fri, 12 Jun 2026 14:41:09 +0200"
+    },
+    {
+      "title": "Kreisstadt Forst steht wieder ohne Kinderarzt da",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/forst-kinderarzt-fehlt-versorgungsluecke-kinderarztpraxis-mvz.html",
+      "date": "Fri, 12 Jun 2026 14:17:37 +0200"
+    },
     {
       "title": "Nach Sanierung: Radwege bei Falkensee freigegeben",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/radwege-falkensee-freigabe-havelland-.html",
@@ -158,34 +183,9 @@
       "date": "Fri, 12 Jun 2026 11:52:51 +0200"
     },
     {
-      "title": "Drei Tote nach Brand in Einfamilienhaus in Friesack aufgefunden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/drei-tote-nach-brand-in-friesack-einfamilienhaus.html",
-      "date": "Fri, 12 Jun 2026 10:42:17 +0200"
-    },
-    {
       "title": "Autofahrer stirbt nach Auffahrunfall in Gransee",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-autofahrer-stirbt-nach-auffahr-unfall-oberhavel-gransee.html",
       "date": "Fri, 12 Jun 2026 10:00:51 +0200"
-    },
-    {
-      "title": "Bund will Insel auf dem Berliner Müggelsee verkaufen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/mueggelwerder-bundesanstalt-immobilienaufgaben-mueggelsee-treptow-koepenick-berlin.html",
-      "date": "Fri, 12 Jun 2026 09:01:00 +0200"
-    },
-    {
-      "title": "Kameras auf Damentoiletten der HWR Berlin entdeckt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/hwr-berlin-hochschule-wirtschaft-recht-damentoiletten.html",
-      "date": "Fri, 12 Jun 2026 08:37:18 +0200"
-    },
-    {
-      "title": "Weniger Fahrraddiebstähle, aber höhere Schäden durch E-Bike-Klau",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-fahrrad-diebstahl-ebike-polizei-adfc-.html",
-      "date": "Fri, 12 Jun 2026 06:13:00 +0200"
-    },
-    {
-      "title": "7. Klassen in Berlin: Freie Gymnasialplätze, volle Sekundarschulen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/schulplatzvergabe-berlin-gymnasium-sekundarschule-plaetze.html",
-      "date": "Thu, 11 Jun 2026 19:50:55 +0200"
     }
   ]
 }
