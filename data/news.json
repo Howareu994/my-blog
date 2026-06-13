@@ -1,9 +1,29 @@
 {
   "traffic": [
     {
-      "title": "Gegen Politische Eingriffe: Berliner Kulturschaffende drängen auf Kulturfördergesetz",
+      "title": "\"Ich habe keine Angst. Also eigentlich\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-schuesse-graefekiez-suedstern-anwohner-geschaefte-interview.html",
+      "date": "Sat, 13 Jun 2026 13:42:40 +0200"
+    },
+    {
+      "title": "Noël Martin und der Stein von Mahlow",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/06/noel-martin-gedenken-mahlow-rassismus-opfer-birmingham.html",
+      "date": "Sat, 13 Jun 2026 13:33:31 +0200"
+    },
+    {
+      "title": "Kulturfördergesetz: Berliner Kulturschaffende wollen politische Eingriffe in die Kunst verhindern",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/06/kultur-foerderung-gesetz-entwurf-berlin-einsparung.html",
-      "date": "Sat, 13 Jun 2026 10:33:19 +0200"
+      "date": "Sat, 13 Jun 2026 13:32:02 +0200"
+    },
+    {
+      "title": "Livestream: Hertha-Frauen wollen in Saarbrücken im Aufstiegsduell vorlegen",
+      "link": "https://www.rbb24.de/sport/hintergrund/livestream/livestream-fussball-aufstieg-relegation-saarbruecken-hertha-bsc-frauen-hinspiel.html",
+      "date": "Sat, 13 Jun 2026 12:46:38 +0200"
+    },
+    {
+      "title": "\"Freiraum Kunst\": Ausstellung im Schloss Bellevue",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/kunst-im-schloss-bellevue-ausstellung-steinmeier-amtssitz.html",
+      "date": "Sat, 13 Jun 2026 11:56:07 +0200"
     },
     {
       "title": "Berlin-Mitte: Pkw in Tiefgarage am Potsdamer Platz fängt Feuer",
@@ -38,30 +58,20 @@
     {
       "title": "Berliner Polizei untersucht Fall von Gewalt durch Beamte – Fall soll vor Innenausschuss",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-polizei-untersucht-gewalt-durch-beamte.html",
-      "date": "Fri, 12 Jun 2026 19:57:55 +0200"
-    },
-    {
-      "title": "Charité-Studie: West-Nil-Virus ist in Berlin fest etabliert",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/charite-studie-west-nil-virus-berlin-muecken-universitaetsklinik.html",
-      "date": "Fri, 12 Jun 2026 19:16:01 +0200"
-    },
-    {
-      "title": "Handball: Füchse-Star Mathias Gidsel erneut Bundesliga-MVP",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/handball-bundesliga-mathias-gidsel-mvp.html",
-      "date": "Fri, 12 Jun 2026 17:34:36 +0200"
-    },
-    {
-      "title": "Berlin: Zwei 23-Jährige nach Waffen- und Drogenfunden festgenommen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-kriminalitaet-waffen-drogen-polizei-durchsuchungen.html",
-      "date": "Fri, 12 Jun 2026 16:31:51 +0200"
-    },
-    {
-      "title": "Fünf Jahre Haft für Ex-Lehrer wegen Missbrauchs von Schülerinnen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-missbrauch-schuelerin-lehrer-haftstrafe.html",
-      "date": "Fri, 12 Jun 2026 16:18:50 +0200"
+      "date": "Fri, 12 Jun 2026 19:57:00 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Mann bei Auseinandersetzung verletzt – drei Tatverdächtige festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681437.php",
+      "date": "Sat, 13 Jun 2026 13:17:55 +0200"
+    },
+    {
+      "title": "Bewaffneter Überfall auf Schnellrestaurant",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681436.php",
+      "date": "Sat, 13 Jun 2026 12:26:39 +0200"
+    },
     {
       "title": "Mutmaßliche Angreifer nach Polizeieinsatz festgenommen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681383.php",
@@ -111,22 +121,17 @@
       "title": "Netzwerk aufgedeckt - Durchsuchungsbeschlüsse gegen den illegalen Handel mit Betäubungsmitteln vollstreckt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1680378.php",
       "date": "Wed, 10 Jun 2026 16:52:55 +0200"
-    },
-    {
-      "title": "Widerstand geleistet – Distanz-Elektroimpulsgerät (DEIG) eingesetzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1680295.php",
-      "date": "Wed, 10 Jun 2026 15:04:00 +0200"
-    },
-    {
-      "title": "Not-OP nach Verkehrsunfall",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1680286.php",
-      "date": "Wed, 10 Jun 2026 14:52:00 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "\"Ich habe keine Angst. Also eigentlich\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-schuesse-graefekiez-suedstern-anwohner-geschaefte-interview.html",
+      "date": "Sat, 13 Jun 2026 13:42:40 +0200"
+    },
     {
       "title": "Berlin-Mitte: Pkw in Tiefgarage am Potsdamer Platz fängt Feuer",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-potsdamer-platz-brand-tiefgarage-auto-feuerwehr.html",
@@ -145,7 +150,7 @@
     {
       "title": "Berliner Polizei untersucht Fall von Gewalt durch Beamte – Fall soll vor Innenausschuss",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-polizei-untersucht-gewalt-durch-beamte.html",
-      "date": "Fri, 12 Jun 2026 19:57:55 +0200"
+      "date": "Fri, 12 Jun 2026 19:57:00 +0200"
     },
     {
       "title": "Charité-Studie: West-Nil-Virus ist in Berlin fest etabliert",
@@ -181,11 +186,6 @@
       "title": "Nach Sanierung: Radwege bei Falkensee freigegeben",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/radwege-falkensee-freigabe-havelland-.html",
       "date": "Fri, 12 Jun 2026 13:11:52 +0200"
-    },
-    {
-      "title": "B96 in Fürstenberg: Ein Straße spaltet die Stadt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/b96-umfahrung-fuerstenberg-verkehrsbelastung-naturschutz.html",
-      "date": "Fri, 12 Jun 2026 12:59:13 +0200"
     }
   ]
 }
