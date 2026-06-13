@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Schloss Bellevue ist jetzt eine Kunstgalerie auf Zeit",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/freiraum-kunst-eroeffnet-schloss-bellevue-berlin.html",
+      "date": "Sat, 13 Jun 2026 14:50:46 +0200"
+    },
+    {
+      "title": "TU Berlin muss weiteres Gebäude wegen Mängeln schließen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/tu-berlin-maengel-gebaeude-schliessen.html",
+      "date": "Sat, 13 Jun 2026 14:01:54 +0200"
+    },
+    {
+      "title": "Brandenburger Landpartie: Mehr als 130 Höfe und Betriebe öffnen für Besucher",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/brandenburger-landpartie-landwirtschaft-hanka-mittelstaedt.html",
+      "date": "Sat, 13 Jun 2026 13:55:12 +0200"
+    },
+    {
       "title": "\"Ich habe keine Angst. Also eigentlich\"",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-schuesse-graefekiez-suedstern-anwohner-geschaefte-interview.html",
       "date": "Sat, 13 Jun 2026 13:42:40 +0200"
@@ -14,11 +29,6 @@
       "title": "Kulturfördergesetz: Berliner Kulturschaffende wollen politische Eingriffe in die Kunst verhindern",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/06/kultur-foerderung-gesetz-entwurf-berlin-einsparung.html",
       "date": "Sat, 13 Jun 2026 13:32:02 +0200"
-    },
-    {
-      "title": "Livestream: Hertha-Frauen wollen in Saarbrücken im Aufstiegsduell vorlegen",
-      "link": "https://www.rbb24.de/sport/hintergrund/livestream/livestream-fussball-aufstieg-relegation-saarbruecken-hertha-bsc-frauen-hinspiel.html",
-      "date": "Sat, 13 Jun 2026 12:46:38 +0200"
     },
     {
       "title": "\"Freiraum Kunst\": Ausstellung im Schloss Bellevue",
@@ -49,19 +59,19 @@
       "title": "Was das neue Gemeinsame Europäische Asylsystem für Berlin bedeutet",
       "link": "https://www.rbb24.de/politik/beitrag/2026/06/europaeisches-asylsystem-geas-berlin-vorgaben-nicht-erfuellt.html",
       "date": "Fri, 12 Jun 2026 20:52:41 +0200"
-    },
-    {
-      "title": "Neues Asyl-Prüfzentrum: \"Eine Fiktion der Nicht-Einreise\"",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/06/brandenburg-schoenefeld-ber-flughafen-asyl-pruefstelle-aussengrenze.html",
-      "date": "Fri, 12 Jun 2026 20:17:45 +0200"
-    },
-    {
-      "title": "Berliner Polizei untersucht Fall von Gewalt durch Beamte – Fall soll vor Innenausschuss",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-polizei-untersucht-gewalt-durch-beamte.html",
-      "date": "Fri, 12 Jun 2026 19:57:00 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Zeugenaufruf nach tödlichen Stichverletzungen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1680708.php",
+      "date": "Sat, 13 Jun 2026 15:03:00 +0200"
+    },
+    {
+      "title": "Frau mit Kopftuch fremdenfeindlich beleidigt und mit Messer bedroht",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681439.php",
+      "date": "Sat, 13 Jun 2026 14:58:40 +0200"
+    },
     {
       "title": "Mann bei Auseinandersetzung verletzt – drei Tatverdächtige festgenommen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681437.php",
@@ -98,11 +108,6 @@
       "date": "Thu, 11 Jun 2026 16:20:55 +0200"
     },
     {
-      "title": "Mann mit tödlichen Stichverletzungen in Bäckerei aufgefunden",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1680708.php",
-      "date": "Thu, 11 Jun 2026 12:22:10 +0200"
-    },
-    {
       "title": "Notoperation nach Angriff mit Messer",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1680627.php",
       "date": "Thu, 11 Jun 2026 11:23:40 +0200"
@@ -116,17 +121,17 @@
       "title": "Mit Stichwunden zurückgelassen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1680503.php",
       "date": "Thu, 11 Jun 2026 09:58:09 +0200"
-    },
-    {
-      "title": "Netzwerk aufgedeckt - Durchsuchungsbeschlüsse gegen den illegalen Handel mit Betäubungsmitteln vollstreckt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1680378.php",
-      "date": "Wed, 10 Jun 2026 16:52:55 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "TU Berlin muss weiteres Gebäude wegen Mängeln schließen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/tu-berlin-maengel-gebaeude-schliessen.html",
+      "date": "Sat, 13 Jun 2026 14:01:54 +0200"
+    },
     {
       "title": "\"Ich habe keine Angst. Also eigentlich\"",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-schuesse-graefekiez-suedstern-anwohner-geschaefte-interview.html",
@@ -181,11 +186,6 @@
       "title": "Kreisstadt Forst steht wieder ohne Kinderarzt da",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/forst-kinderarzt-fehlt-versorgungsluecke-kinderarztpraxis-mvz.html",
       "date": "Fri, 12 Jun 2026 14:17:37 +0200"
-    },
-    {
-      "title": "Nach Sanierung: Radwege bei Falkensee freigegeben",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/radwege-falkensee-freigabe-havelland-.html",
-      "date": "Fri, 12 Jun 2026 13:11:52 +0200"
     }
   ]
 }
