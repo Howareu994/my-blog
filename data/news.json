@@ -1,14 +1,29 @@
 {
   "traffic": [
     {
+      "title": "Viele Brandenburger Theater erhöhen die Eintrittspreise",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/theater-brandenburg-preiserhoehung-tickets-eintrittskarten.html",
+      "date": "Sat, 13 Jun 2026 17:16:41 +0200"
+    },
+    {
+      "title": "Teilnehmer des CSD in Eberswalde demonstrieren für Vielfalt und Akzeptanz",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/eberswalde-csd-demonstration-toleranz.html",
+      "date": "Sat, 13 Jun 2026 16:50:24 +0200"
+    },
+    {
+      "title": "Schiedsrichter Siebert über Champions-League-Finale und die WM",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-berlin-interview-schiedsrichter-daniel-siebert.html",
+      "date": "Sat, 13 Jun 2026 15:27:00 +0200"
+    },
+    {
       "title": "Schloss Bellevue ist jetzt eine Kunstgalerie auf Zeit",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/06/freiraum-kunst-eroeffnet-schloss-bellevue-berlin.html",
       "date": "Sat, 13 Jun 2026 14:50:46 +0200"
     },
     {
-      "title": "TU Berlin muss weiteres Gebäude wegen Mängeln schließen",
+      "title": "Technische Universität Berlin muss weiteres Gebäude schließen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/tu-berlin-maengel-gebaeude-schliessen.html",
-      "date": "Sat, 13 Jun 2026 14:01:54 +0200"
+      "date": "Sat, 13 Jun 2026 14:01:00 +0200"
     },
     {
       "title": "Brandenburger Landpartie: Mehr als 130 Höfe und Betriebe öffnen für Besucher",
@@ -16,14 +31,14 @@
       "date": "Sat, 13 Jun 2026 13:55:12 +0200"
     },
     {
-      "title": "\"Ich habe keine Angst. Also eigentlich\"",
+      "title": "Schüsse im Kreuzberger Graefekiez: \"Ich habe keine Angst. Also eigentlich\"",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-schuesse-graefekiez-suedstern-anwohner-geschaefte-interview.html",
-      "date": "Sat, 13 Jun 2026 13:42:40 +0200"
+      "date": "Sat, 13 Jun 2026 13:42:00 +0200"
     },
     {
-      "title": "Noël Martin und der Stein von Mahlow",
+      "title": "30 Jahre nach rassistischer Attacke: Noël Martin und der Stein von Mahlow",
       "link": "https://www.rbb24.de/politik/beitrag/2026/06/noel-martin-gedenken-mahlow-rassismus-opfer-birmingham.html",
-      "date": "Sat, 13 Jun 2026 13:33:31 +0200"
+      "date": "Sat, 13 Jun 2026 13:33:00 +0200"
     },
     {
       "title": "Kulturfördergesetz: Berliner Kulturschaffende wollen politische Eingriffe in die Kunst verhindern",
@@ -44,21 +59,6 @@
       "title": "Jahrelange Schließung: Freibad Straussee wird wiedereröffnet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/straussee-freibad-strandbad-strausberg-wiedereroeffnung.html",
       "date": "Sat, 13 Jun 2026 07:26:14 +0200"
-    },
-    {
-      "title": "Bahnstrecke Berlin-Hamburg: Wittenberge ist wieder am Zug",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/brandenburg-wittenberge-prignitz-bahn-zuege.html",
-      "date": "Sat, 13 Jun 2026 07:25:39 +0200"
-    },
-    {
-      "title": "Basketball: Alba verliert packenden Final-Auftakt in München",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/basketball-bbl-playoffs-finale-spiel-eins-bayern-muenchen-alba-berlin.html",
-      "date": "Fri, 12 Jun 2026 23:04:59 +0200"
-    },
-    {
-      "title": "Was das neue Gemeinsame Europäische Asylsystem für Berlin bedeutet",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/06/europaeisches-asylsystem-geas-berlin-vorgaben-nicht-erfuellt.html",
-      "date": "Fri, 12 Jun 2026 20:52:41 +0200"
     }
   ],
   "police": [
@@ -128,14 +128,19 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "TU Berlin muss weiteres Gebäude wegen Mängeln schließen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/tu-berlin-maengel-gebaeude-schliessen.html",
-      "date": "Sat, 13 Jun 2026 14:01:54 +0200"
+      "title": "Teilnehmer des CSD in Eberswalde demonstrieren für Vielfalt und Akzeptanz",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/eberswalde-csd-demonstration-toleranz.html",
+      "date": "Sat, 13 Jun 2026 16:50:24 +0200"
     },
     {
-      "title": "\"Ich habe keine Angst. Also eigentlich\"",
+      "title": "Technische Universität Berlin muss weiteres Gebäude schließen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/tu-berlin-maengel-gebaeude-schliessen.html",
+      "date": "Sat, 13 Jun 2026 14:01:00 +0200"
+    },
+    {
+      "title": "Schüsse im Kreuzberger Graefekiez: \"Ich habe keine Angst. Also eigentlich\"",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-schuesse-graefekiez-suedstern-anwohner-geschaefte-interview.html",
-      "date": "Sat, 13 Jun 2026 13:42:40 +0200"
+      "date": "Sat, 13 Jun 2026 13:42:00 +0200"
     },
     {
       "title": "Berlin-Mitte: Pkw in Tiefgarage am Potsdamer Platz fängt Feuer",
@@ -181,11 +186,6 @@
       "title": "Drei Tote nach Brand in Einfamilienhaus in Friesack aufgefunden",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/drei-tote-nach-brand-in-friesack-einfamilienhaus.html",
       "date": "Fri, 12 Jun 2026 14:41:09 +0200"
-    },
-    {
-      "title": "Kreisstadt Forst steht wieder ohne Kinderarzt da",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/forst-kinderarzt-fehlt-versorgungsluecke-kinderarztpraxis-mvz.html",
-      "date": "Fri, 12 Jun 2026 14:17:37 +0200"
     }
   ]
 }
