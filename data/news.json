@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Wettbewerb um Bauprojekt Luisenblock Ost II am Schiffbauer Damm in Berlin entschieden",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/06/berlin-wettbewerb-gestopptes-neubau-projekt-lboII-entschieden.html",
+      "date": "Sun, 14 Jun 2026 15:14:05 +0200"
+    },
+    {
+      "title": "Potsdamer Kajak-Duo Schopf und Lemke ist Europameister",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/brandenburg-potsdam-berlin-kanu-em-kajak-gold.html",
+      "date": "Sun, 14 Jun 2026 14:50:35 +0200"
+    },
+    {
       "title": "\"Mary Jane\": Cannabis-Messe in Berlin verzeichnet Besucherrekord von 75.000 Menschen",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/berlin-cannabis-messe-mary-jane-75000-besucher-rekord.html",
       "date": "Sun, 14 Jun 2026 13:24:24 +0200"
@@ -49,19 +59,19 @@
       "title": "Technische Universität Berlin muss weiteres Gebäude schließen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/tu-berlin-maengel-gebaeude-schliessen.html",
       "date": "Sat, 13 Jun 2026 14:01:00 +0200"
-    },
-    {
-      "title": "Brandenburger Landpartie: Mehr als 130 Höfe und Betriebe öffnen für Besucher",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/brandenburger-landpartie-landwirtschaft-hanka-mittelstaedt.html",
-      "date": "Sat, 13 Jun 2026 13:55:12 +0200"
-    },
-    {
-      "title": "Schüsse im Kreuzberger Graefekiez: \"Ich habe keine Angst. Also eigentlich\"",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-schuesse-graefekiez-suedstern-anwohner-geschaefte-interview.html",
-      "date": "Sat, 13 Jun 2026 13:42:00 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Mit einem Einsatzwagen zusammengestoßen und verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681446.php",
+      "date": "Sun, 14 Jun 2026 14:39:55 +0200"
+    },
+    {
+      "title": "Festnahme nach Verdacht des unerlaubten Handels mit Betäubungsmitteln",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681445.php",
+      "date": "Sun, 14 Jun 2026 13:43:24 +0200"
+    },
     {
       "title": "Mann erlitt Stichverletzungen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681444.php",
@@ -111,16 +121,6 @@
       "title": "Mutmaßliche Autoeinbrecher festgenommen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1680918.php",
       "date": "Thu, 11 Jun 2026 16:20:55 +0200"
-    },
-    {
-      "title": "Notoperation nach Angriff mit Messer",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1680627.php",
-      "date": "Thu, 11 Jun 2026 11:23:40 +0200"
-    },
-    {
-      "title": "Mehrere Verletzte nach Verkehrsunfall",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1680585.php",
-      "date": "Thu, 11 Jun 2026 11:00:53 +0200"
     }
   ],
   "free_events": [],
