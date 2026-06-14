@@ -1,6 +1,31 @@
 {
   "traffic": [
     {
+      "title": "Fußball: Auftaktniederlage trübt türkische WM-Stimmung in Berlin",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-berlin-weltmeisterschaft-wm-tuerkei-australien-niederlage.html",
+      "date": "Sun, 14 Jun 2026 09:26:00 +0200"
+    },
+    {
+      "title": "Helene Fischer im Olympiastadion: Comeback mit \"Herzbeben\"",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/konzert-berlin-helene-fischer-olympiastadion-jubilaeum.html",
+      "date": "Sun, 14 Jun 2026 08:21:14 +0200"
+    },
+    {
+      "title": "Generalsanierung abgeschlossen: Züge rollen wieder zwischen Berlin und Hamburg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/bahnstrecke-berlin-hamburg-generalsanierung-wiedereroeffnet.html",
+      "date": "Sun, 14 Jun 2026 08:05:00 +0200"
+    },
+    {
+      "title": "Lagerplatz für ausgemusterte Telefonzellen in Michendorf wird aufgelöst",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/telefonzelle-michendorf-potsdam-mittelmark-friedhof-schrott-ende-verkauf.html",
+      "date": "Sun, 14 Jun 2026 07:10:45 +0200"
+    },
+    {
+      "title": "Kohleausstieg in der Lausitz: Gas geben statt Kohle verfeuern",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/braunkohle-revier-lausitz-brandenburg-gaswerk-wasserstoff-reportage.html",
+      "date": "Sun, 14 Jun 2026 07:07:00 +0200"
+    },
+    {
       "title": "Viele Brandenburger Theater erhöhen die Eintrittspreise",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/06/theater-brandenburg-preiserhoehung-tickets-eintrittskarten.html",
       "date": "Sat, 13 Jun 2026 17:16:41 +0200"
@@ -34,31 +59,6 @@
       "title": "Schüsse im Kreuzberger Graefekiez: \"Ich habe keine Angst. Also eigentlich\"",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-schuesse-graefekiez-suedstern-anwohner-geschaefte-interview.html",
       "date": "Sat, 13 Jun 2026 13:42:00 +0200"
-    },
-    {
-      "title": "30 Jahre nach rassistischer Attacke: Noël Martin und der Stein von Mahlow",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/06/noel-martin-gedenken-mahlow-rassismus-opfer-birmingham.html",
-      "date": "Sat, 13 Jun 2026 13:33:00 +0200"
-    },
-    {
-      "title": "Kulturfördergesetz: Berliner Kulturschaffende wollen politische Eingriffe in die Kunst verhindern",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/kultur-foerderung-gesetz-entwurf-berlin-einsparung.html",
-      "date": "Sat, 13 Jun 2026 13:32:02 +0200"
-    },
-    {
-      "title": "\"Freiraum Kunst\": Ausstellung im Schloss Bellevue",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/kunst-im-schloss-bellevue-ausstellung-steinmeier-amtssitz.html",
-      "date": "Sat, 13 Jun 2026 11:56:07 +0200"
-    },
-    {
-      "title": "Berlin-Mitte: Pkw in Tiefgarage am Potsdamer Platz fängt Feuer",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-potsdamer-platz-brand-tiefgarage-auto-feuerwehr.html",
-      "date": "Sat, 13 Jun 2026 10:17:04 +0200"
-    },
-    {
-      "title": "Bahnstrecke Berlin-Hamburg: Wittenberge ist wieder am Zug",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/brandenburg-wittenberge-prignitz-bahn-zuege.html",
-      "date": "Sat, 13 Jun 2026 07:25:39 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,16 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Generalsanierung abgeschlossen: Züge rollen wieder zwischen Berlin und Hamburg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/bahnstrecke-berlin-hamburg-generalsanierung-wiedereroeffnet.html",
+      "date": "Sun, 14 Jun 2026 08:05:00 +0200"
+    },
+    {
+      "title": "Lagerplatz für ausgemusterte Telefonzellen in Michendorf wird aufgelöst",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/telefonzelle-michendorf-potsdam-mittelmark-friedhof-schrott-ende-verkauf.html",
+      "date": "Sun, 14 Jun 2026 07:10:45 +0200"
+    },
+    {
       "title": "Teilnehmer des CSD in Eberswalde demonstrieren für Vielfalt und Akzeptanz",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/eberswalde-csd-demonstration-toleranz.html",
       "date": "Sat, 13 Jun 2026 16:50:00 +0200"
@@ -176,16 +186,6 @@
       "title": "Bezirksamt Lichtenberg erstattet Anzeige wegen Kameras in Dienstgebäuden",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/bezirksamt-lichtenberg-anzeige-hochschule-wirtschaft-recht-damentoiletten.html",
       "date": "Fri, 12 Jun 2026 16:28:12 +0200"
-    },
-    {
-      "title": "Fünf Jahre Haft für Ex-Lehrer wegen Missbrauchs von Schülerinnen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-missbrauch-schuelerin-lehrer-haftstrafe.html",
-      "date": "Fri, 12 Jun 2026 16:18:50 +0200"
-    },
-    {
-      "title": "Drei Tote nach Brand in Einfamilienhaus in Friesack aufgefunden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/drei-tote-nach-brand-in-friesack-einfamilienhaus.html",
-      "date": "Fri, 12 Jun 2026 14:41:09 +0200"
     }
   ]
 }
