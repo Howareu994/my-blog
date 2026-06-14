@@ -1,14 +1,14 @@
 {
   "traffic": [
     {
-      "title": "Fußball: Auftaktniederlage trübt türkische WM-Stimmung in Berlin",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-berlin-weltmeisterschaft-wm-tuerkei-australien-niederlage.html",
-      "date": "Sun, 14 Jun 2026 09:26:00 +0200"
+      "title": "\"Mary Jane\": Cannabis-Messe in Berlin verzeichnet Besucherrekord von 75.000 Menschen",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/berlin-cannabis-messe-mary-jane-75000-besucher-rekord.html",
+      "date": "Sun, 14 Jun 2026 13:24:24 +0200"
     },
     {
       "title": "Helene Fischer im Olympiastadion: Comeback mit \"Herzbeben\"",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/06/konzert-berlin-helene-fischer-olympiastadion-jubilaeum.html",
-      "date": "Sun, 14 Jun 2026 08:21:14 +0200"
+      "date": "Sun, 14 Jun 2026 08:21:00 +0200"
     },
     {
       "title": "Generalsanierung abgeschlossen: Züge rollen wieder zwischen Berlin und Hamburg",
@@ -63,6 +63,11 @@
   ],
   "police": [
     {
+      "title": "Mann erlitt Stichverletzungen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681444.php",
+      "date": "Sun, 14 Jun 2026 12:19:19 +0200"
+    },
+    {
       "title": "Zeugenaufruf nach tödlichen Stichverletzungen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1680708.php",
       "date": "Sat, 13 Jun 2026 15:03:00 +0200"
@@ -116,11 +121,6 @@
       "title": "Mehrere Verletzte nach Verkehrsunfall",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1680585.php",
       "date": "Thu, 11 Jun 2026 11:00:53 +0200"
-    },
-    {
-      "title": "Mit Stichwunden zurückgelassen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1680503.php",
-      "date": "Thu, 11 Jun 2026 09:58:09 +0200"
     }
   ],
   "free_events": [],
