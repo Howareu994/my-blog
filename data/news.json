@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Rund 75.000 Menschen blicken hinter die Kulissen Brandenburger Höfe",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/brandenburger-landpartie-landwirtschaft-hanka-mittelstaedt.html",
+      "date": "Sun, 14 Jun 2026 17:10:00 +0200"
+    },
+    {
+      "title": "Kolumne: Was war das denn? Im Zeichen der Schlange",
+      "link": "https://www.rbb24.de/panorama/thema/was-war-das-denn/berlin-schlange-stehen-statussymbol-hype.html",
+      "date": "Sun, 14 Jun 2026 16:31:00 +0200"
+    },
+    {
+      "title": "Hallen und Plätze buchen: Mehrzahl der Bezirke kann Berliner Sportstättenportal noch nicht nutzen",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/06/berlin-bezirke-sportstaetten-portal-startet-schleppend.html",
+      "date": "Sun, 14 Jun 2026 16:22:32 +0200"
+    },
+    {
       "title": "Wettbewerb um Bauprojekt Luisenblock Ost II am Schiffbauer Damm in Berlin entschieden",
       "link": "https://www.rbb24.de/politik/beitrag/2026/06/berlin-wettbewerb-gestopptes-neubau-projekt-lboII-entschieden.html",
       "date": "Sun, 14 Jun 2026 15:14:05 +0200"
@@ -44,21 +59,6 @@
       "title": "Teilnehmer des CSD in Eberswalde demonstrieren für Vielfalt und Akzeptanz",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/eberswalde-csd-demonstration-toleranz.html",
       "date": "Sat, 13 Jun 2026 16:50:00 +0200"
-    },
-    {
-      "title": "Schiedsrichter Siebert über Champions-League-Finale und die WM",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-berlin-interview-schiedsrichter-daniel-siebert.html",
-      "date": "Sat, 13 Jun 2026 15:27:00 +0200"
-    },
-    {
-      "title": "Schloss Bellevue ist jetzt eine Kunstgalerie auf Zeit",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/freiraum-kunst-eroeffnet-schloss-bellevue-berlin.html",
-      "date": "Sat, 13 Jun 2026 14:50:46 +0200"
-    },
-    {
-      "title": "Technische Universität Berlin muss weiteres Gebäude schließen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/tu-berlin-maengel-gebaeude-schliessen.html",
-      "date": "Sat, 13 Jun 2026 14:01:00 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,16 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "S-Bahnunterbrechung wegen Blitzeinschlags: S3 nach Erkner unterbrochen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/sbahn-s3-blitzeinschlag-erkner-unterbrochen.html",
+      "date": "Sun, 14 Jun 2026 17:03:20 +0200"
+    },
+    {
+      "title": "Kolumne: Was war das denn? Im Zeichen der Schlange",
+      "link": "https://www.rbb24.de/panorama/thema/was-war-das-denn/berlin-schlange-stehen-statussymbol-hype.html",
+      "date": "Sun, 14 Jun 2026 16:31:00 +0200"
+    },
+    {
       "title": "Generalsanierung abgeschlossen: Züge rollen wieder zwischen Berlin und Hamburg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/bahnstrecke-berlin-hamburg-generalsanierung-wiedereroeffnet.html",
       "date": "Sun, 14 Jun 2026 08:05:00 +0200"
@@ -176,16 +186,6 @@
       "title": "Charité-Studie: West-Nil-Virus ist in Berlin fest etabliert",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/charite-studie-west-nil-virus-berlin-muecken-universitaetsklinik.html",
       "date": "Fri, 12 Jun 2026 19:16:01 +0200"
-    },
-    {
-      "title": "Berlin: Zwei 23-Jährige nach Waffen- und Drogenfunden festgenommen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-kriminalitaet-waffen-drogen-polizei-durchsuchungen.html",
-      "date": "Fri, 12 Jun 2026 16:31:51 +0200"
-    },
-    {
-      "title": "Bezirksamt Lichtenberg erstattet Anzeige wegen Kameras in Dienstgebäuden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/bezirksamt-lichtenberg-anzeige-hochschule-wirtschaft-recht-damentoiletten.html",
-      "date": "Fri, 12 Jun 2026 16:28:12 +0200"
     }
   ]
 }
