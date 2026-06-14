@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Berliner S-Bahnlinie S3 nach Blitzeinschlag stundenlang unterbrochen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/sbahn-s3-blitzeinschlag-erkner-unterbrochen.html",
+      "date": "Sun, 14 Jun 2026 20:35:48 +0200"
+    },
+    {
+      "title": "Neue Berliner S-Bahnlinie S15 ab Montag nimmt Betrieb auf",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-neue-s-bahnlinie-s15-nimmt-betrieb-auf.html",
+      "date": "Sun, 14 Jun 2026 19:38:12 +0200"
+    },
+    {
       "title": "Berliner HC gewinnt gegen Zehlendorfer Wespen und steigt in Bundesliga auf",
       "link": "https://www.rbb24.de/sport/beitrag/2026/06/hockey-berlin-bhc-zehlendorf-wespen-bundesliga.html",
       "date": "Sun, 14 Jun 2026 18:48:10 +0200"
@@ -49,16 +59,6 @@
       "title": "Generalsanierung abgeschlossen: Züge rollen wieder zwischen Berlin und Hamburg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/bahnstrecke-berlin-hamburg-generalsanierung-wiedereroeffnet.html",
       "date": "Sun, 14 Jun 2026 08:05:00 +0200"
-    },
-    {
-      "title": "Lagerplatz für ausgemusterte Telefonzellen in Michendorf wird aufgelöst",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/telefonzelle-michendorf-potsdam-mittelmark-friedhof-schrott-ende-verkauf.html",
-      "date": "Sun, 14 Jun 2026 07:10:45 +0200"
-    },
-    {
-      "title": "Kohleausstieg in der Lausitz: Gas geben statt Kohle verfeuern",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/braunkohle-revier-lausitz-brandenburg-gaswerk-wasserstoff-reportage.html",
-      "date": "Sun, 14 Jun 2026 07:07:00 +0200"
     }
   ],
   "police": [
@@ -128,9 +128,14 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "S-Bahnunterbrechung wegen Blitzeinschlags: S3 nach Erkner unterbrochen",
+      "title": "Berliner S-Bahnlinie S3 nach Blitzeinschlag stundenlang unterbrochen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/sbahn-s3-blitzeinschlag-erkner-unterbrochen.html",
-      "date": "Sun, 14 Jun 2026 17:03:20 +0200"
+      "date": "Sun, 14 Jun 2026 20:35:48 +0200"
+    },
+    {
+      "title": "Neue Berliner S-Bahnlinie S15 ab Montag nimmt Betrieb auf",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-neue-s-bahnlinie-s15-nimmt-betrieb-auf.html",
+      "date": "Sun, 14 Jun 2026 19:38:12 +0200"
     },
     {
       "title": "Kolumne: Was war das denn? Im Zeichen der Schlange",
@@ -181,11 +186,6 @@
       "title": "Berliner Polizei untersucht Fall von Gewalt durch Beamte – Fall soll vor Innenausschuss",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-polizei-untersucht-gewalt-durch-beamte.html",
       "date": "Fri, 12 Jun 2026 19:57:00 +0200"
-    },
-    {
-      "title": "Charité-Studie: West-Nil-Virus ist in Berlin fest etabliert",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/charite-studie-west-nil-virus-berlin-muecken-universitaetsklinik.html",
-      "date": "Fri, 12 Jun 2026 19:16:01 +0200"
     }
   ]
 }
