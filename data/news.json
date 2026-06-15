@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Mit Flammen und Hubschrauber gegen den Eichenprozessionsspinner",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/eichenprozessionsspinner-eps-berlin-brandenburg-bekaempfung.html",
+      "date": "Mon, 15 Jun 2026 20:24:49 +0200"
+    },
+    {
+      "title": "WM-Kolumne: Politiker, die auf Bälle starren",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-weltmeisterschaft-kolumne-politiker-dfb-elf-social-media.html",
+      "date": "Mon, 15 Jun 2026 20:16:00 +0200"
+    },
+    {
+      "title": "Fußball: Energie Cottbus verpflichtet Ex-Herthaner Lotka",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-zweite-liga-energie-cottbus-verpflichtet-marcel-lotka.html",
+      "date": "Mon, 15 Jun 2026 20:05:14 +0200"
+    },
+    {
       "title": "Berliner RAW-Gelände: Club Cassiopeia droht das Aus",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/06/raw-gelaende-berlin-friedrichshain-nutzung-investor-clubs.html",
       "date": "Mon, 15 Jun 2026 19:34:34 +0200"
@@ -14,11 +29,6 @@
       "title": "Amateurfußball: Berliner Verband ändert umstrittene Passfoto-Regel",
       "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-berlin-verband-aendert-umstrittene-fotoregelung.html",
       "date": "Mon, 15 Jun 2026 18:33:15 +0200"
-    },
-    {
-      "title": "Füchse Berlin: Finale verloren, an Größe gewonnen",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/fuechse-berlin-champions-league-finale-barcelona-kader-neue-saison.html",
-      "date": "Mon, 15 Jun 2026 18:03:39 +0200"
     },
     {
       "title": "Brandenburg ermöglicht engere Kooperation von Bundeswehr und Schulen",
@@ -49,16 +59,6 @@
       "title": "Bombenentschärfung am Dienstag: 6.500 Potsdamer müssen Wohnungen verlassen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/potsdam-bombe-entschaerfung-sperrkreis-evakuierung-innenstadt-pendler-hauptbahnhof.html",
       "date": "Mon, 15 Jun 2026 14:50:05 +0200"
-    },
-    {
-      "title": "S-Bahn-Linien in Berliner Stadtmitte zeitweise unterbrochen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-sbahn-mitte-hackescher-markt-notarzt-stoerung-stadtbahn.html",
-      "date": "Mon, 15 Jun 2026 13:46:05 +0200"
-    },
-    {
-      "title": "Wettbewerb um Bauprojekt Luisenblock Ost II am Schiffbauerdamm in Berlin entschieden",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/06/berlin-wettbewerb-gestopptes-neubau-projekt-lboII-entschieden.html",
-      "date": "Mon, 15 Jun 2026 13:44:36 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Mit Flammen und Hubschrauber gegen den Eichenprozessionsspinner",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/eichenprozessionsspinner-eps-berlin-brandenburg-bekaempfung.html",
+      "date": "Mon, 15 Jun 2026 20:24:49 +0200"
+    },
+    {
       "title": "Hunderte Notwasserbrunnen in Berlin kaputt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/defekte-notwasserbrunnen-in-berlin.html",
       "date": "Mon, 15 Jun 2026 17:41:22 +0200"
@@ -181,11 +186,6 @@
       "title": "Sechs Autos brennen auf Telekom-Gelände",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-telekom-autos-brand-feuerwehr.html",
       "date": "Mon, 15 Jun 2026 11:06:25 +0200"
-    },
-    {
-      "title": "Bundeswehr-Veteran über Kriegseinsätze und psychische Folgen",
-      "link": "https://www.rbb24.de/panorama/thema/wiegehtesuns/veteran-bundeswehr-auslandseinsatz-psychisch-krank.html",
-      "date": "Mon, 15 Jun 2026 09:01:30 +0200"
     }
   ]
 }
