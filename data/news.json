@@ -1,9 +1,54 @@
 {
   "traffic": [
     {
-      "title": "Abgebrannter Fahrrad-Akku: Müllwerker müssen Müllauto mitten auf der Straße in Neukölln entleeren",
+      "title": "Berliner RAW-Gelände: Club Cassiopeia droht das Aus",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/raw-gelaende-berlin-friedrichshain-nutzung-investor-clubs.html",
+      "date": "Mon, 15 Jun 2026 19:34:34 +0200"
+    },
+    {
+      "title": "E-Auto der DDR wird in Trebus (Oder-Spree) ausgestellt",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/ddr-elektro-auto-elsist-trebus-ifa-freunde.html",
+      "date": "Mon, 15 Jun 2026 18:41:59 +0200"
+    },
+    {
+      "title": "Amateurfußball: Berliner Verband ändert umstrittene Passfoto-Regel",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-berlin-verband-aendert-umstrittene-fotoregelung.html",
+      "date": "Mon, 15 Jun 2026 18:33:15 +0200"
+    },
+    {
+      "title": "Füchse Berlin: Finale verloren, an Größe gewonnen",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/fuechse-berlin-champions-league-finale-barcelona-kader-neue-saison.html",
+      "date": "Mon, 15 Jun 2026 18:03:39 +0200"
+    },
+    {
+      "title": "Brandenburg ermöglicht engere Kooperation von Bundeswehr und Schulen",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/06/bundeswehr-kommt-in-brandenburg-schulen.html",
+      "date": "Mon, 15 Jun 2026 17:42:56 +0200"
+    },
+    {
+      "title": "Hunderte Notwasserbrunnen in Berlin kaputt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/defekte-notwasserbrunnen-in-berlin.html",
+      "date": "Mon, 15 Jun 2026 17:41:22 +0200"
+    },
+    {
+      "title": "Bericht: Oder hat sich nach massenhaftem Fischsterben teilweise erholt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/schwedt-oder-fischsterben-untersuchung-umweltminister-schneider-polen.html",
+      "date": "Mon, 15 Jun 2026 16:27:26 +0200"
+    },
+    {
+      "title": "Abgebrannter Akku: BSR muss Müllauto mitten auf der Straße in Neukölln entleeren",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/akku-explodiert-muellauto-muell-strasse-berlin-neukoelln.html",
-      "date": "Mon, 15 Jun 2026 14:50:38 +0200"
+      "date": "Mon, 15 Jun 2026 16:09:37 +0200"
+    },
+    {
+      "title": "Verwaltungsgericht Berlin: AfD-Fraktionsvorsitzender darf nicht in gehobenen Dienst",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/06/berlin-brandenburg-urteil-verwaltung-afd-fraktionsvorsitzender-kein-gehobener-dienst.html",
+      "date": "Mon, 15 Jun 2026 15:28:07 +0200"
+    },
+    {
+      "title": "Bombenentschärfung am Dienstag: 6.500 Potsdamer müssen Wohnungen verlassen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/potsdam-bombe-entschaerfung-sperrkreis-evakuierung-innenstadt-pendler-hauptbahnhof.html",
+      "date": "Mon, 15 Jun 2026 14:50:05 +0200"
     },
     {
       "title": "S-Bahn-Linien in Berliner Stadtmitte zeitweise unterbrochen",
@@ -14,54 +59,19 @@
       "title": "Wettbewerb um Bauprojekt Luisenblock Ost II am Schiffbauerdamm in Berlin entschieden",
       "link": "https://www.rbb24.de/politik/beitrag/2026/06/berlin-wettbewerb-gestopptes-neubau-projekt-lboII-entschieden.html",
       "date": "Mon, 15 Jun 2026 13:44:36 +0200"
-    },
-    {
-      "title": "Generalsanierung abgeschlossen: Züge rollen wieder zwischen Berlin und Hamburg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/bahnstrecke-berlin-hamburg-generalsanierung-wiedereroeffnet.html",
-      "date": "Mon, 15 Jun 2026 13:11:32 +0200"
-    },
-    {
-      "title": "Lottospieler in Brandenburg gewinnt mehr als eine Million Euro",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-lotto-millionen-gewinn-spiel77.html",
-      "date": "Mon, 15 Jun 2026 13:10:50 +0200"
-    },
-    {
-      "title": "Füchse Berlin: Finale verloren, an Größe gewonnen",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/fuechse-berlin-champions-league-finale-barcelona-kader-neue-saison.html",
-      "date": "Mon, 15 Jun 2026 13:07:34 +0200"
-    },
-    {
-      "title": "S15: Neue Berliner S-Bahnlinie gestartet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-neue-s-bahnlinie-s15-nimmt-betrieb-auf.html",
-      "date": "Mon, 15 Jun 2026 13:06:35 +0200"
-    },
-    {
-      "title": "Technischer Defekt verursachte Brand mit drei Toten in Friesack",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/feuer-brand-friesack-tote-technischer-defekt-gutachter.html",
-      "date": "Mon, 15 Jun 2026 11:42:10 +0200"
-    },
-    {
-      "title": "Sechs Autos brennen auf Telekom-Gelände",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-telekom-autos-brand-feuerwehr.html",
-      "date": "Mon, 15 Jun 2026 11:06:25 +0200"
-    },
-    {
-      "title": "Hunderte Notwasserbrunnen in Berlin kaputt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/defekte-notwasserbrunnen-in-berlin.html",
-      "date": "Mon, 15 Jun 2026 10:51:47 +0200"
-    },
-    {
-      "title": "Rund 75.000 Menschen blicken hinter die Kulissen Brandenburger Höfe",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/brandenburger-landpartie-landwirtschaft-hanka-mittelstaedt.html",
-      "date": "Mon, 15 Jun 2026 09:11:49 +0200"
-    },
-    {
-      "title": "Bundeswehr-Veteran über Kriegseinsätze und psychische Folgen",
-      "link": "https://www.rbb24.de/panorama/thema/wiegehtesuns/veteran-bundeswehr-auslandseinsatz-psychisch-krank.html",
-      "date": "Mon, 15 Jun 2026 09:01:30 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Festnahme nach bewaffnetem Raubüberfall",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681920.php",
+      "date": "Mon, 15 Jun 2026 15:39:16 +0200"
+    },
+    {
+      "title": "Durchsuchungen und Haftbefehle wegen bandenmäßiger Urkundenfälschung",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681910.php",
+      "date": "Mon, 15 Jun 2026 15:27:27 +0200"
+    },
     {
       "title": "Mann leistet nach Verkehrsunfallflucht Widerstand gegen Einsatzkräfte",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681872.php",
@@ -111,16 +121,6 @@
       "title": "Mann bei Auseinandersetzung verletzt – drei Tatverdächtige festgenommen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681437.php",
       "date": "Sat, 13 Jun 2026 13:17:55 +0200"
-    },
-    {
-      "title": "Bewaffneter Überfall auf Schnellrestaurant",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681436.php",
-      "date": "Sat, 13 Jun 2026 12:26:39 +0200"
-    },
-    {
-      "title": "Mutmaßliche Angreifer nach Polizeieinsatz festgenommen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681383.php",
-      "date": "Fri, 12 Jun 2026 15:26:33 +0200"
     }
   ],
   "free_events": [],
@@ -128,9 +128,24 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Abgebrannter Fahrrad-Akku: Müllwerker müssen Müllauto mitten auf der Straße in Neukölln entleeren",
+      "title": "Hunderte Notwasserbrunnen in Berlin kaputt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/defekte-notwasserbrunnen-in-berlin.html",
+      "date": "Mon, 15 Jun 2026 17:41:22 +0200"
+    },
+    {
+      "title": "Hauptbahnhof Cottbus: Lärmschutzwand wird Graffiti-Kunstwerk",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-cottbus-schueler-graffiti-kunstwerk-laermschutzwand-hauptbahnhof.html",
+      "date": "Mon, 15 Jun 2026 17:22:17 +0200"
+    },
+    {
+      "title": "Bericht: Oder hat sich nach massenhaftem Fischsterben teilweise erholt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/schwedt-oder-fischsterben-untersuchung-umweltminister-schneider-polen.html",
+      "date": "Mon, 15 Jun 2026 16:27:26 +0200"
+    },
+    {
+      "title": "Abgebrannter Akku: BSR muss Müllauto mitten auf der Straße in Neukölln entleeren",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/akku-explodiert-muellauto-muell-strasse-berlin-neukoelln.html",
-      "date": "Mon, 15 Jun 2026 14:50:38 +0200"
+      "date": "Mon, 15 Jun 2026 16:09:37 +0200"
     },
     {
       "title": "Bombenentschärfung am Dienstag: 6.500 Potsdamer müssen Wohnungen verlassen",
@@ -168,24 +183,9 @@
       "date": "Mon, 15 Jun 2026 11:06:25 +0200"
     },
     {
-      "title": "Hunderte Notwasserbrunnen in Berlin kaputt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/defekte-notwasserbrunnen-in-berlin.html",
-      "date": "Mon, 15 Jun 2026 10:51:47 +0200"
-    },
-    {
       "title": "Bundeswehr-Veteran über Kriegseinsätze und psychische Folgen",
       "link": "https://www.rbb24.de/panorama/thema/wiegehtesuns/veteran-bundeswehr-auslandseinsatz-psychisch-krank.html",
       "date": "Mon, 15 Jun 2026 09:01:30 +0200"
-    },
-    {
-      "title": "Fünf Elche streifen zurzeit durch Brandenburg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/fuenf-elche-in-brandenburg.html",
-      "date": "Mon, 15 Jun 2026 08:57:25 +0200"
-    },
-    {
-      "title": "Berliner S-Bahnlinie S3 nach Blitzeinschlag stundenlang unterbrochen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/sbahn-s3-blitzeinschlag-erkner-unterbrochen.html",
-      "date": "Sun, 14 Jun 2026 20:35:48 +0200"
     }
   ]
 }
