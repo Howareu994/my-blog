@@ -1,14 +1,24 @@
 {
   "traffic": [
     {
+      "title": "Sechs Autos brennen auf Telekom-Gelände",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-telekom-autos-brand-feuerwehr.html",
+      "date": "Mon, 15 Jun 2026 06:47:21 +0200"
+    },
+    {
+      "title": "Bundeswehr-Veteran über Kriegseinsätze und psychische Folgen",
+      "link": "https://www.rbb24.de/panorama/thema/wiegehtesuns/veteran-bundeswehr-auslandseinsatz-psychisch-krank.html",
+      "date": "Mon, 15 Jun 2026 06:28:15 +0200"
+    },
+    {
+      "title": "S15: Neue Berliner S-Bahnlinie nimmt Betrieb auf",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-neue-s-bahnlinie-s15-nimmt-betrieb-auf.html",
+      "date": "Mon, 15 Jun 2026 06:25:03 +0200"
+    },
+    {
       "title": "Berliner S-Bahnlinie S3 nach Blitzeinschlag stundenlang unterbrochen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/sbahn-s3-blitzeinschlag-erkner-unterbrochen.html",
       "date": "Sun, 14 Jun 2026 20:35:48 +0200"
-    },
-    {
-      "title": "Neue Berliner S-Bahnlinie S15 ab Montag nimmt Betrieb auf",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-neue-s-bahnlinie-s15-nimmt-betrieb-auf.html",
-      "date": "Sun, 14 Jun 2026 19:38:12 +0200"
     },
     {
       "title": "Berliner HC gewinnt gegen Zehlendorfer Wespen und steigt in Bundesliga auf",
@@ -49,16 +59,6 @@
       "title": "\"Mary Jane\": Cannabis-Messe in Berlin verzeichnet Besucherrekord von 75.000 Menschen",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/berlin-cannabis-messe-mary-jane-75000-besucher-rekord.html",
       "date": "Sun, 14 Jun 2026 13:24:24 +0200"
-    },
-    {
-      "title": "Helene Fischer im Olympiastadion: Comeback mit \"Herzbeben\"",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/konzert-berlin-helene-fischer-olympiastadion-jubilaeum.html",
-      "date": "Sun, 14 Jun 2026 08:21:00 +0200"
-    },
-    {
-      "title": "Generalsanierung abgeschlossen: Züge rollen wieder zwischen Berlin und Hamburg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/bahnstrecke-berlin-hamburg-generalsanierung-wiedereroeffnet.html",
-      "date": "Sun, 14 Jun 2026 08:05:00 +0200"
     }
   ],
   "police": [
@@ -128,14 +128,24 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Sechs Autos brennen auf Telekom-Gelände",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-telekom-autos-brand-feuerwehr.html",
+      "date": "Mon, 15 Jun 2026 06:47:21 +0200"
+    },
+    {
+      "title": "Bundeswehr-Veteran über Kriegseinsätze und psychische Folgen",
+      "link": "https://www.rbb24.de/panorama/thema/wiegehtesuns/veteran-bundeswehr-auslandseinsatz-psychisch-krank.html",
+      "date": "Mon, 15 Jun 2026 06:28:15 +0200"
+    },
+    {
+      "title": "S15: Neue Berliner S-Bahnlinie nimmt Betrieb auf",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-neue-s-bahnlinie-s15-nimmt-betrieb-auf.html",
+      "date": "Mon, 15 Jun 2026 06:25:03 +0200"
+    },
+    {
       "title": "Berliner S-Bahnlinie S3 nach Blitzeinschlag stundenlang unterbrochen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/sbahn-s3-blitzeinschlag-erkner-unterbrochen.html",
       "date": "Sun, 14 Jun 2026 20:35:48 +0200"
-    },
-    {
-      "title": "Neue Berliner S-Bahnlinie S15 ab Montag nimmt Betrieb auf",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-neue-s-bahnlinie-s15-nimmt-betrieb-auf.html",
-      "date": "Sun, 14 Jun 2026 19:38:12 +0200"
     },
     {
       "title": "Kolumne: Was war das denn? Im Zeichen der Schlange",
@@ -176,16 +186,6 @@
       "title": "Jahrelange Schließung: Freibad Straussee wird wiedereröffnet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/straussee-freibad-strandbad-strausberg-wiedereroeffnung.html",
       "date": "Sat, 13 Jun 2026 07:26:14 +0200"
-    },
-    {
-      "title": "S-Bahn-Bauarbeiten in Berlin: Drei Wochen Ersatzverkehr im Südosten",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/s-bahn-berlin-s46-s47-s8-s85-bauarbeiten-ber-fex-re2-re7.html",
-      "date": "Fri, 12 Jun 2026 22:29:22 +0200"
-    },
-    {
-      "title": "Berliner Polizei untersucht Fall von Gewalt durch Beamte – Fall soll vor Innenausschuss",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-polizei-untersucht-gewalt-durch-beamte.html",
-      "date": "Fri, 12 Jun 2026 19:57:00 +0200"
     }
   ]
 }
