@@ -1,67 +1,72 @@
 {
   "traffic": [
     {
-      "title": "Toter Säugling in Wohnung in Müllrose entdeckt",
+      "title": "Zahlreiche Berliner Brunnen bleiben diesen Sommer trocken",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brunnen-berlin-trocken-ausser-betrieb.html",
+      "date": "Tue, 16 Jun 2026 19:37:24 +0200"
+    },
+    {
+      "title": "Berlin Tennis Open im Liveticker - Aus für Serena Williams",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/tennis-wta-turnier-berlin-liveticker.html",
+      "date": "Tue, 16 Jun 2026 19:28:11 +0200"
+    },
+    {
+      "title": "Jugendoffizier besucht Brandenburger Schule",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/06/brandenburg-bildungsministerium-bundeswehr-kooperation-schule.html",
+      "date": "Tue, 16 Jun 2026 18:52:00 +0200"
+    },
+    {
+      "title": "Baumarktkette: Hellweg meldet Insolvenz in Eigenverwaltung an",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-baumarktkette-hellweg-insolvenz-in-eigenverantwortung.html",
+      "date": "Tue, 16 Jun 2026 18:24:57 +0200"
+    },
+    {
+      "title": "Heidelberger Studie: Wohlstand in Berlin pro Kopf seit 1999 nur geringfügig gestiegen",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/berlin-wohlstand-studie-bruttoinlandsprodukt.html",
+      "date": "Tue, 16 Jun 2026 17:58:16 +0200"
+    },
+    {
+      "title": "Widerstand gegen Regionalplan für Windkraftausbau im Nordwesten scheitert",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-prignitz-ostprignitz-ruppin-oberhavel-windkraft.html",
+      "date": "Tue, 16 Jun 2026 17:41:44 +0200"
+    },
+    {
+      "title": "Gurkenernte: Ein Spreewälder Original kämpft um seinen Platz",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/brandenburg-spreewald-gurke-ernte-start-konkurrenz-mindestlohn-indien.html",
+      "date": "Tue, 16 Jun 2026 17:21:00 +0200"
+    },
+    {
+      "title": "Toter Säugling im Flur eines Mehrfamilienhauses in Müllrose (Oder-Spree) entdeckt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/toter-saeugling-baby-gefunden-frankfurtoder-polizei-muellrose-eltern-brandenburg.html",
-      "date": "Tue, 16 Jun 2026 13:54:52 +0200"
+      "date": "Tue, 16 Jun 2026 16:49:50 +0200"
     },
     {
-      "title": "Mehr Einwohner in Berlin - weniger in Brandenburg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/einwohner-berlin-brandenburg-statistik.html",
-      "date": "Tue, 16 Jun 2026 13:22:29 +0200"
-    },
-    {
-      "title": "Sperrkreis aufgehoben: Bombe in Potsdam erfolgreich entschärft",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/potsdam-bombe-entschaerfung-sperrkreis-evakuierung-innenstadt-pendler-hauptbahnhof.html",
-      "date": "Tue, 16 Jun 2026 13:08:00 +0200"
+      "title": "Buchverlag S. Fischer Verlag zieht von Frankfurt nach Berlin",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/berlin-buchverlag-sfischer-frankfurt-umzug.html",
+      "date": "Tue, 16 Jun 2026 16:29:46 +0200"
     },
     {
       "title": "Blankenfelde-Mahlow erinnert an Neonazi-Opfer Noël Martin",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/blankenfelde-mahlow-noel-martin-gedenken-erinnerung-neonazi-opfer.html",
-      "date": "Tue, 16 Jun 2026 10:40:11 +0200"
+      "date": "Tue, 16 Jun 2026 16:21:40 +0200"
     },
     {
-      "title": "Ausgebrannte Telekom-Fahrzeuge: LKA hält Bekennerschreiben für authentisch",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/lka-berlin-staatsschutz-bekennerschreiben-indymedia-telekom-transporter.html",
-      "date": "Tue, 16 Jun 2026 09:38:00 +0200"
+      "title": "Mann wirft bissigen Hund von Balkon - Polizei ermittelt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-alt-treptow-mann-wirft-hund-vom-balkon-tot.html",
+      "date": "Tue, 16 Jun 2026 16:15:50 +0200"
     },
     {
-      "title": "Notarzteinsatz führt zu mehrstündiger Bahnsperrung",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/re2-berlin-cottbus-notarzteinsatz-zugausfall.html",
-      "date": "Tue, 16 Jun 2026 09:28:16 +0200"
-    },
-    {
-      "title": "Hunderte Notwasserbrunnen in Berlin kaputt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/defekte-notwasserbrunnen-in-berlin.html",
-      "date": "Tue, 16 Jun 2026 08:53:09 +0200"
-    },
-    {
-      "title": "Neoklassik zwischen Licht und Schatten",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/hania-rani-berlin-philharmonie-konzert-rundfunk-sinfonieorchester.html",
-      "date": "Tue, 16 Jun 2026 08:20:30 +0200"
-    },
-    {
-      "title": "Berliner Ingenieurin von Neuro Space: \"Ich wollte ein Raumschiff bauen\"",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/berlin-start-up-neurospace-mond-rover-artemis-2-interview.html",
-      "date": "Tue, 16 Jun 2026 07:01:00 +0200"
-    },
-    {
-      "title": "Mit Flammen und Hubschrauber gegen den Eichenprozessionsspinner",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/eichenprozessionsspinner-eps-berlin-brandenburg-bekaempfung.html",
-      "date": "Mon, 15 Jun 2026 20:24:00 +0200"
-    },
-    {
-      "title": "WM-Kolumne: Politiker, die auf Bälle starren",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-weltmeisterschaft-kolumne-politiker-dfb-elf-social-media.html",
-      "date": "Mon, 15 Jun 2026 20:16:00 +0200"
-    },
-    {
-      "title": "Fußball: Energie Cottbus verpflichtet Ex-Herthaner Lotka",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-zweite-liga-energie-cottbus-verpflichtet-marcel-lotka.html",
-      "date": "Mon, 15 Jun 2026 20:05:14 +0200"
+      "title": "Wärmeversorgung: Berliner Senat beschließt Wärmeplanung",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/06/berlin-senat-waermeplanung-beschlossen.html",
+      "date": "Tue, 16 Jun 2026 15:59:24 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Randalierer im Kaufhaus festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1682367.php",
+      "date": "Tue, 16 Jun 2026 14:41:13 +0200"
+    },
     {
       "title": "Flasche auf Einsatzwagen geworfen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1682286.php",
@@ -116,11 +121,6 @@
       "title": "Mann erlitt Stichverletzungen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681444.php",
       "date": "Sun, 14 Jun 2026 12:19:19 +0200"
-    },
-    {
-      "title": "Zeugenaufruf nach tödlichen Stichverletzungen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1680708.php",
-      "date": "Sat, 13 Jun 2026 15:03:00 +0200"
     }
   ],
   "free_events": [],
@@ -128,64 +128,64 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Toter Säugling in Wohnung in Müllrose entdeckt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/toter-saeugling-baby-gefunden-frankfurtoder-polizei-muellrose-eltern-brandenburg.html",
-      "date": "Tue, 16 Jun 2026 13:54:52 +0200"
+      "title": "Zahlreiche Berliner Brunnen bleiben diesen Sommer trocken",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brunnen-berlin-trocken-ausser-betrieb.html",
+      "date": "Tue, 16 Jun 2026 19:37:24 +0200"
     },
     {
-      "title": "Mehr Einwohner in Berlin - weniger in Brandenburg",
+      "title": "Baumarktkette: Hellweg meldet Insolvenz in Eigenverwaltung an",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-baumarktkette-hellweg-insolvenz-in-eigenverantwortung.html",
+      "date": "Tue, 16 Jun 2026 18:24:57 +0200"
+    },
+    {
+      "title": "Widerstand gegen Regionalplan für Windkraftausbau im Nordwesten scheitert",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-prignitz-ostprignitz-ruppin-oberhavel-windkraft.html",
+      "date": "Tue, 16 Jun 2026 17:41:44 +0200"
+    },
+    {
+      "title": "Toter Säugling im Flur eines Mehrfamilienhauses in Müllrose (Oder-Spree) entdeckt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/toter-saeugling-baby-gefunden-frankfurtoder-polizei-muellrose-eltern-brandenburg.html",
+      "date": "Tue, 16 Jun 2026 16:49:50 +0200"
+    },
+    {
+      "title": "Blankenfelde-Mahlow erinnert an Neonazi-Opfer Noël Martin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/blankenfelde-mahlow-noel-martin-gedenken-erinnerung-neonazi-opfer.html",
+      "date": "Tue, 16 Jun 2026 16:21:40 +0200"
+    },
+    {
+      "title": "Mann wirft bissigen Hund von Balkon - Polizei ermittelt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-alt-treptow-mann-wirft-hund-vom-balkon-tot.html",
+      "date": "Tue, 16 Jun 2026 16:15:50 +0200"
+    },
+    {
+      "title": "Wetter in Berlin und Brandenburg: Bis zu 35 Grad und Gewitter",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-berlin-wetter-sommer-gewitter-hitze.html",
+      "date": "Tue, 16 Jun 2026 15:49:36 +0200"
+    },
+    {
+      "title": "Brandenburger Bevölkerung schrumpft erstmals seit Jahren wieder",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/einwohner-berlin-brandenburg-statistik.html",
-      "date": "Tue, 16 Jun 2026 13:22:29 +0200"
+      "date": "Tue, 16 Jun 2026 15:36:00 +0200"
     },
     {
       "title": "Sperrkreis aufgehoben: Bombe in Potsdam erfolgreich entschärft",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/potsdam-bombe-entschaerfung-sperrkreis-evakuierung-innenstadt-pendler-hauptbahnhof.html",
-      "date": "Tue, 16 Jun 2026 13:08:00 +0200"
+      "date": "Tue, 16 Jun 2026 15:31:17 +0200"
+    },
+    {
+      "title": "Klimaschutz: Strausberger Schule als \"\"Energiesparmeister\" ausgezeichnet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/nachhaltigkeit-energiesparen-schule-montessori-strausberg-preis-emobilitaet-klimaschutz.html",
+      "date": "Tue, 16 Jun 2026 15:29:08 +0200"
+    },
+    {
+      "title": "Fünf Elche streifen zurzeit durch Brandenburg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/fuenf-elche-in-brandenburg.html",
+      "date": "Tue, 16 Jun 2026 14:40:20 +0200"
     },
     {
       "title": "Oberschul-Wechsel in Berlin: Bitte nennt es nicht \"Wunschschule\"",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-oberschule-wunschschule-schulamt-gymnasium-sekundarschule.html",
       "date": "Tue, 16 Jun 2026 11:52:11 +0200"
-    },
-    {
-      "title": "Blankenfelde-Mahlow erinnert an Neonazi-Opfer Noël Martin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/blankenfelde-mahlow-noel-martin-gedenken-erinnerung-neonazi-opfer.html",
-      "date": "Tue, 16 Jun 2026 10:40:11 +0200"
-    },
-    {
-      "title": "Ausgebrannte Telekom-Fahrzeuge: LKA hält Bekennerschreiben für authentisch",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/lka-berlin-staatsschutz-bekennerschreiben-indymedia-telekom-transporter.html",
-      "date": "Tue, 16 Jun 2026 09:38:00 +0200"
-    },
-    {
-      "title": "Notarzteinsatz führt zu mehrstündiger Bahnsperrung",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/re2-berlin-cottbus-notarzteinsatz-zugausfall.html",
-      "date": "Tue, 16 Jun 2026 09:28:16 +0200"
-    },
-    {
-      "title": "Hunderte Notwasserbrunnen in Berlin kaputt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/defekte-notwasserbrunnen-in-berlin.html",
-      "date": "Tue, 16 Jun 2026 08:53:09 +0200"
-    },
-    {
-      "title": "Mit Flammen und Hubschrauber gegen den Eichenprozessionsspinner",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/eichenprozessionsspinner-eps-berlin-brandenburg-bekaempfung.html",
-      "date": "Mon, 15 Jun 2026 20:24:00 +0200"
-    },
-    {
-      "title": "Hauptbahnhof Cottbus: Lärmschutzwand wird Graffiti-Kunstwerk",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-cottbus-schueler-graffiti-kunstwerk-laermschutzwand-hauptbahnhof.html",
-      "date": "Mon, 15 Jun 2026 17:22:17 +0200"
-    },
-    {
-      "title": "Oder hat sich nach massenhaftem Fischsterben teilweise erholt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/schwedt-oder-fischsterben-untersuchung-umweltminister-schneider-polen.html",
-      "date": "Mon, 15 Jun 2026 16:27:00 +0200"
-    },
-    {
-      "title": "Abgebrannter Akku: BSR muss Müllauto mitten auf der Straße in Neukölln entleeren",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/akku-explodiert-muellauto-muell-strasse-berlin-neukoelln.html",
-      "date": "Mon, 15 Jun 2026 16:09:37 +0200"
     }
   ]
 }
