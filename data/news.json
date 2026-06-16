@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Blankenfelde-Mahlow erinnert an Neonazi-Opfer Noël Martin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/blankenfelde-mahlow-noel-martin-gedenken-erinnerung-neonazi-opfer.html",
+      "date": "Tue, 16 Jun 2026 20:45:00 +0200"
+    },
+    {
+      "title": "Festival \"LIT:potsdam\": Autoren lesen in Klassenzimmern",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/brandenburg-literaturfestival-lit-potsdam-schueler.html",
+      "date": "Tue, 16 Jun 2026 20:38:56 +0200"
+    },
+    {
+      "title": "Eichenprozessionsspinner: Bezirke bleiben vorerst zuständig",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-senat-bezirke-zustaendig-eichenprozessionsspinner.html",
+      "date": "Tue, 16 Jun 2026 20:14:08 +0200"
+    },
+    {
       "title": "Zahlreiche Berliner Brunnen bleiben diesen Sommer trocken",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brunnen-berlin-trocken-ausser-betrieb.html",
       "date": "Tue, 16 Jun 2026 19:37:24 +0200"
@@ -44,21 +59,6 @@
       "title": "Buchverlag S. Fischer Verlag zieht von Frankfurt nach Berlin",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/06/berlin-buchverlag-sfischer-frankfurt-umzug.html",
       "date": "Tue, 16 Jun 2026 16:29:46 +0200"
-    },
-    {
-      "title": "Blankenfelde-Mahlow erinnert an Neonazi-Opfer Noël Martin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/blankenfelde-mahlow-noel-martin-gedenken-erinnerung-neonazi-opfer.html",
-      "date": "Tue, 16 Jun 2026 16:21:40 +0200"
-    },
-    {
-      "title": "Mann wirft bissigen Hund von Balkon - Polizei ermittelt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-alt-treptow-mann-wirft-hund-vom-balkon-tot.html",
-      "date": "Tue, 16 Jun 2026 16:15:50 +0200"
-    },
-    {
-      "title": "Wärmeversorgung: Berliner Senat beschließt Wärmeplanung",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/06/berlin-senat-waermeplanung-beschlossen.html",
-      "date": "Tue, 16 Jun 2026 15:59:24 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,16 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Blankenfelde-Mahlow erinnert an Neonazi-Opfer Noël Martin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/blankenfelde-mahlow-noel-martin-gedenken-erinnerung-neonazi-opfer.html",
+      "date": "Tue, 16 Jun 2026 20:45:00 +0200"
+    },
+    {
+      "title": "Eichenprozessionsspinner: Bezirke bleiben vorerst zuständig",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-senat-bezirke-zustaendig-eichenprozessionsspinner.html",
+      "date": "Tue, 16 Jun 2026 20:14:08 +0200"
+    },
+    {
       "title": "Zahlreiche Berliner Brunnen bleiben diesen Sommer trocken",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brunnen-berlin-trocken-ausser-betrieb.html",
       "date": "Tue, 16 Jun 2026 19:37:24 +0200"
@@ -146,11 +156,6 @@
       "title": "Toter Säugling im Flur eines Mehrfamilienhauses in Müllrose (Oder-Spree) entdeckt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/toter-saeugling-baby-gefunden-frankfurtoder-polizei-muellrose-eltern-brandenburg.html",
       "date": "Tue, 16 Jun 2026 16:49:50 +0200"
-    },
-    {
-      "title": "Blankenfelde-Mahlow erinnert an Neonazi-Opfer Noël Martin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/blankenfelde-mahlow-noel-martin-gedenken-erinnerung-neonazi-opfer.html",
-      "date": "Tue, 16 Jun 2026 16:21:40 +0200"
     },
     {
       "title": "Mann wirft bissigen Hund von Balkon - Polizei ermittelt",
@@ -181,11 +186,6 @@
       "title": "Fünf Elche streifen zurzeit durch Brandenburg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/fuenf-elche-in-brandenburg.html",
       "date": "Tue, 16 Jun 2026 14:40:20 +0200"
-    },
-    {
-      "title": "Oberschul-Wechsel in Berlin: Bitte nennt es nicht \"Wunschschule\"",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-oberschule-wunschschule-schulamt-gymnasium-sekundarschule.html",
-      "date": "Tue, 16 Jun 2026 11:52:11 +0200"
     }
   ]
 }
