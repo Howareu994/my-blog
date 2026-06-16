@@ -1,19 +1,44 @@
 {
   "traffic": [
     {
+      "title": "Toter Säugling in Wohnung in Müllrose entdeckt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/toter-saeugling-baby-gefunden-frankfurtoder-polizei-muellrose-eltern-brandenburg.html",
+      "date": "Tue, 16 Jun 2026 13:54:52 +0200"
+    },
+    {
+      "title": "Mehr Einwohner in Berlin - weniger in Brandenburg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/einwohner-berlin-brandenburg-statistik.html",
+      "date": "Tue, 16 Jun 2026 13:22:29 +0200"
+    },
+    {
+      "title": "Sperrkreis aufgehoben: Bombe in Potsdam erfolgreich entschärft",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/potsdam-bombe-entschaerfung-sperrkreis-evakuierung-innenstadt-pendler-hauptbahnhof.html",
+      "date": "Tue, 16 Jun 2026 13:08:00 +0200"
+    },
+    {
+      "title": "Blankenfelde-Mahlow erinnert an Neonazi-Opfer Noël Martin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/blankenfelde-mahlow-noel-martin-gedenken-erinnerung-neonazi-opfer.html",
+      "date": "Tue, 16 Jun 2026 10:40:11 +0200"
+    },
+    {
+      "title": "Ausgebrannte Telekom-Fahrzeuge: LKA hält Bekennerschreiben für authentisch",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/lka-berlin-staatsschutz-bekennerschreiben-indymedia-telekom-transporter.html",
+      "date": "Tue, 16 Jun 2026 09:38:00 +0200"
+    },
+    {
+      "title": "Notarzteinsatz führt zu mehrstündiger Bahnsperrung",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/re2-berlin-cottbus-notarzteinsatz-zugausfall.html",
+      "date": "Tue, 16 Jun 2026 09:28:16 +0200"
+    },
+    {
+      "title": "Hunderte Notwasserbrunnen in Berlin kaputt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/defekte-notwasserbrunnen-in-berlin.html",
+      "date": "Tue, 16 Jun 2026 08:53:09 +0200"
+    },
+    {
       "title": "Neoklassik zwischen Licht und Schatten",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/06/hania-rani-berlin-philharmonie-konzert-rundfunk-sinfonieorchester.html",
       "date": "Tue, 16 Jun 2026 08:20:30 +0200"
-    },
-    {
-      "title": "Bombenentschärfung am Dienstag: 6.500 Potsdamer müssen Wohnungen verlassen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/potsdam-bombe-entschaerfung-sperrkreis-evakuierung-innenstadt-pendler-hauptbahnhof.html",
-      "date": "Tue, 16 Jun 2026 07:31:21 +0200"
-    },
-    {
-      "title": "Notarzteinsatz: RE2-Linie zwischen Bestensee und Königs Wusterhausen voll gesperrt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/re2-berlin-cottbus-notarzteinsatz-zugausfall.html",
-      "date": "Tue, 16 Jun 2026 07:03:17 +0200"
     },
     {
       "title": "Berliner Ingenieurin von Neuro Space: \"Ich wollte ein Raumschiff bauen\"",
@@ -23,7 +48,7 @@
     {
       "title": "Mit Flammen und Hubschrauber gegen den Eichenprozessionsspinner",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/eichenprozessionsspinner-eps-berlin-brandenburg-bekaempfung.html",
-      "date": "Mon, 15 Jun 2026 20:24:49 +0200"
+      "date": "Mon, 15 Jun 2026 20:24:00 +0200"
     },
     {
       "title": "WM-Kolumne: Politiker, die auf Bälle starren",
@@ -34,34 +59,19 @@
       "title": "Fußball: Energie Cottbus verpflichtet Ex-Herthaner Lotka",
       "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-zweite-liga-energie-cottbus-verpflichtet-marcel-lotka.html",
       "date": "Mon, 15 Jun 2026 20:05:14 +0200"
-    },
-    {
-      "title": "Berliner RAW-Gelände: Club Cassiopeia droht das Aus",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/raw-gelaende-berlin-friedrichshain-nutzung-investor-clubs.html",
-      "date": "Mon, 15 Jun 2026 19:34:34 +0200"
-    },
-    {
-      "title": "E-Auto der DDR wird in Trebus (Oder-Spree) ausgestellt",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/ddr-elektro-auto-elsist-trebus-ifa-freunde.html",
-      "date": "Mon, 15 Jun 2026 18:41:59 +0200"
-    },
-    {
-      "title": "Amateurfußball: Berliner Verband ändert umstrittene Passfoto-Regel",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-berlin-verband-aendert-umstrittene-fotoregelung.html",
-      "date": "Mon, 15 Jun 2026 18:33:15 +0200"
-    },
-    {
-      "title": "Brandenburg ermöglicht engere Kooperation von Bundeswehr und Schulen",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/06/bundeswehr-kommt-in-brandenburg-schulen.html",
-      "date": "Mon, 15 Jun 2026 17:42:56 +0200"
-    },
-    {
-      "title": "Hunderte Notwasserbrunnen in Berlin kaputt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/defekte-notwasserbrunnen-in-berlin.html",
-      "date": "Mon, 15 Jun 2026 17:41:22 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Flasche auf Einsatzwagen geworfen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1682286.php",
+      "date": "Tue, 16 Jun 2026 12:45:43 +0200"
+    },
+    {
+      "title": "Israelfeindliche Farbschmiererei",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1682094.php",
+      "date": "Tue, 16 Jun 2026 10:25:15 +0200"
+    },
     {
       "title": "Festnahme nach bewaffnetem Raubüberfall",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681920.php",
@@ -111,16 +121,6 @@
       "title": "Zeugenaufruf nach tödlichen Stichverletzungen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1680708.php",
       "date": "Sat, 13 Jun 2026 15:03:00 +0200"
-    },
-    {
-      "title": "Frau mit Kopftuch fremdenfeindlich beleidigt und mit Messer bedroht",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681439.php",
-      "date": "Sat, 13 Jun 2026 14:58:40 +0200"
-    },
-    {
-      "title": "Mann bei Auseinandersetzung verletzt – drei Tatverdächtige festgenommen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681437.php",
-      "date": "Sat, 13 Jun 2026 13:17:55 +0200"
     }
   ],
   "free_events": [],
@@ -128,24 +128,49 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Bombenentschärfung am Dienstag: 6.500 Potsdamer müssen Wohnungen verlassen",
+      "title": "Toter Säugling in Wohnung in Müllrose entdeckt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/toter-saeugling-baby-gefunden-frankfurtoder-polizei-muellrose-eltern-brandenburg.html",
+      "date": "Tue, 16 Jun 2026 13:54:52 +0200"
+    },
+    {
+      "title": "Mehr Einwohner in Berlin - weniger in Brandenburg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/einwohner-berlin-brandenburg-statistik.html",
+      "date": "Tue, 16 Jun 2026 13:22:29 +0200"
+    },
+    {
+      "title": "Sperrkreis aufgehoben: Bombe in Potsdam erfolgreich entschärft",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/potsdam-bombe-entschaerfung-sperrkreis-evakuierung-innenstadt-pendler-hauptbahnhof.html",
-      "date": "Tue, 16 Jun 2026 07:31:21 +0200"
+      "date": "Tue, 16 Jun 2026 13:08:00 +0200"
     },
     {
-      "title": "Notarzteinsatz: RE2-Linie zwischen Bestensee und Königs Wusterhausen voll gesperrt",
+      "title": "Oberschul-Wechsel in Berlin: Bitte nennt es nicht \"Wunschschule\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-oberschule-wunschschule-schulamt-gymnasium-sekundarschule.html",
+      "date": "Tue, 16 Jun 2026 11:52:11 +0200"
+    },
+    {
+      "title": "Blankenfelde-Mahlow erinnert an Neonazi-Opfer Noël Martin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/blankenfelde-mahlow-noel-martin-gedenken-erinnerung-neonazi-opfer.html",
+      "date": "Tue, 16 Jun 2026 10:40:11 +0200"
+    },
+    {
+      "title": "Ausgebrannte Telekom-Fahrzeuge: LKA hält Bekennerschreiben für authentisch",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/lka-berlin-staatsschutz-bekennerschreiben-indymedia-telekom-transporter.html",
+      "date": "Tue, 16 Jun 2026 09:38:00 +0200"
+    },
+    {
+      "title": "Notarzteinsatz führt zu mehrstündiger Bahnsperrung",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/re2-berlin-cottbus-notarzteinsatz-zugausfall.html",
-      "date": "Tue, 16 Jun 2026 07:03:17 +0200"
-    },
-    {
-      "title": "Mit Flammen und Hubschrauber gegen den Eichenprozessionsspinner",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/eichenprozessionsspinner-eps-berlin-brandenburg-bekaempfung.html",
-      "date": "Mon, 15 Jun 2026 20:24:49 +0200"
+      "date": "Tue, 16 Jun 2026 09:28:16 +0200"
     },
     {
       "title": "Hunderte Notwasserbrunnen in Berlin kaputt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/defekte-notwasserbrunnen-in-berlin.html",
-      "date": "Mon, 15 Jun 2026 17:41:22 +0200"
+      "date": "Tue, 16 Jun 2026 08:53:09 +0200"
+    },
+    {
+      "title": "Mit Flammen und Hubschrauber gegen den Eichenprozessionsspinner",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/eichenprozessionsspinner-eps-berlin-brandenburg-bekaempfung.html",
+      "date": "Mon, 15 Jun 2026 20:24:00 +0200"
     },
     {
       "title": "Hauptbahnhof Cottbus: Lärmschutzwand wird Graffiti-Kunstwerk",
@@ -153,39 +178,14 @@
       "date": "Mon, 15 Jun 2026 17:22:17 +0200"
     },
     {
-      "title": "Bericht: Oder hat sich nach massenhaftem Fischsterben teilweise erholt",
+      "title": "Oder hat sich nach massenhaftem Fischsterben teilweise erholt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/schwedt-oder-fischsterben-untersuchung-umweltminister-schneider-polen.html",
-      "date": "Mon, 15 Jun 2026 16:27:26 +0200"
+      "date": "Mon, 15 Jun 2026 16:27:00 +0200"
     },
     {
       "title": "Abgebrannter Akku: BSR muss Müllauto mitten auf der Straße in Neukölln entleeren",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/akku-explodiert-muellauto-muell-strasse-berlin-neukoelln.html",
       "date": "Mon, 15 Jun 2026 16:09:37 +0200"
-    },
-    {
-      "title": "S-Bahn-Linien in Berliner Stadtmitte zeitweise unterbrochen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-sbahn-mitte-hackescher-markt-notarzt-stoerung-stadtbahn.html",
-      "date": "Mon, 15 Jun 2026 13:46:05 +0200"
-    },
-    {
-      "title": "Generalsanierung abgeschlossen: Züge rollen wieder zwischen Berlin und Hamburg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/bahnstrecke-berlin-hamburg-generalsanierung-wiedereroeffnet.html",
-      "date": "Mon, 15 Jun 2026 13:11:32 +0200"
-    },
-    {
-      "title": "Lottospieler in Brandenburg gewinnt mehr als eine Million Euro",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-lotto-millionen-gewinn-spiel77.html",
-      "date": "Mon, 15 Jun 2026 13:10:50 +0200"
-    },
-    {
-      "title": "S15: Neue Berliner S-Bahnlinie gestartet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-neue-s-bahnlinie-s15-nimmt-betrieb-auf.html",
-      "date": "Mon, 15 Jun 2026 13:06:35 +0200"
-    },
-    {
-      "title": "Technischer Defekt verursachte Brand mit drei Toten in Friesack",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/feuer-brand-friesack-tote-technischer-defekt-gutachter.html",
-      "date": "Mon, 15 Jun 2026 11:42:10 +0200"
     }
   ]
 }
