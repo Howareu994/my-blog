@@ -1,67 +1,77 @@
 {
   "traffic": [
     {
+      "title": "Ökologin: Ausmaß des Eichenprozessionsspinner-Befalls war nicht absehbar",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-eichenprozessionsspinner-raupen-pestizide-bekaempfung.html",
+      "date": "Wed, 17 Jun 2026 13:22:49 +0200"
+    },
+    {
+      "title": "Wie ein Berliner Sprachcafé Deutsche und Polen verbindet",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/deutschland-polen-sprachcafe-pankow-nachbarschaftsvertrag-35-jahre.html",
+      "date": "Wed, 17 Jun 2026 13:14:26 +0200"
+    },
+    {
+      "title": "Eröffnung des Neuköllner Columbiabads auf Anfang Juli verschoben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-neukoelln-sommerbad-columbiabad-eroeffnung-verschoben-juli.html",
+      "date": "Wed, 17 Jun 2026 12:49:16 +0200"
+    },
+    {
       "title": "Berlin: Neues Mahnmal erinnert an verfolgte Zeugen Jehovas",
       "link": "https://www.rbb24.de/politik/beitrag/2026/06/mahnmal-zeugen-jehovas-nationalsozialismus-berlin-denkmaeler.html",
-      "date": "Wed, 17 Jun 2026 06:17:14 +0200"
+      "date": "Wed, 17 Jun 2026 12:47:27 +0200"
+    },
+    {
+      "title": "Berlin-Wahl 2026: 26 Parteien sind zugelassen",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/landeswahlausschuss-26-parteien-zugelassen.html",
+      "date": "Wed, 17 Jun 2026 12:29:10 +0200"
+    },
+    {
+      "title": "Zugang zur Kaiser-Wilhelm Gedächtniskirche soll bald Eintritt kosten",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-gedaechtniskirche-turm-eintritt.html",
+      "date": "Wed, 17 Jun 2026 11:40:06 +0200"
+    },
+    {
+      "title": "Lausitz: Historische Regimentkanone M1943 im Grenzfluss Neiße gefunden",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-forst-neisse-regimentkanone-m1943-fund.html",
+      "date": "Wed, 17 Jun 2026 11:15:17 +0200"
+    },
+    {
+      "title": "Neues Bürgeramt eröffnet in Pankow",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-pankow-buergeramt-kirchstrasse-eroeffnung.html",
+      "date": "Wed, 17 Jun 2026 11:02:31 +0200"
     },
     {
       "title": "Berlin Open: Serena-Mania light in der Hauptstadt",
       "link": "https://www.rbb24.de/sport/beitrag/2026/06/serena-williams-berlin-open-auftritt-doppel-wimbledon.html",
-      "date": "Tue, 16 Jun 2026 22:42:24 +0200"
+      "date": "Wed, 17 Jun 2026 10:23:36 +0200"
     },
     {
-      "title": "Blankenfelde-Mahlow erinnert an Neonazi-Opfer Noël Martin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/blankenfelde-mahlow-noel-martin-gedenken-erinnerung-neonazi-opfer.html",
-      "date": "Tue, 16 Jun 2026 20:45:00 +0200"
+      "title": "Berliner Generalstaatsanwaltschaft: Gorf tritt Koppers' Nachfolge an",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/06/berlin-justiz-generalstaatsanwaltschaft-gorf-nachfolge-koppers.html",
+      "date": "Wed, 17 Jun 2026 10:16:35 +0200"
     },
     {
-      "title": "Festival \"LIT:potsdam\": Autoren lesen in Klassenzimmern",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/brandenburg-literaturfestival-lit-potsdam-schueler.html",
-      "date": "Tue, 16 Jun 2026 20:38:56 +0200"
+      "title": "Polizei nimmt polnische Aktivisten vorübergehend",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/polizei-nimmt-polnische-aktivisten-fest.html",
+      "date": "Wed, 17 Jun 2026 10:06:40 +0200"
     },
     {
-      "title": "Eichenprozessionsspinner: Bezirke bleiben vorerst zuständig",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-senat-bezirke-zustaendig-eichenprozessionsspinner.html",
-      "date": "Tue, 16 Jun 2026 20:14:08 +0200"
-    },
-    {
-      "title": "Zahlreiche Berliner Brunnen bleiben diesen Sommer trocken",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brunnen-berlin-trocken-ausser-betrieb.html",
-      "date": "Tue, 16 Jun 2026 19:37:24 +0200"
-    },
-    {
-      "title": "Jugendoffizier besucht Brandenburger Schule",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/06/brandenburg-bildungsministerium-bundeswehr-kooperation-schule.html",
-      "date": "Tue, 16 Jun 2026 18:52:00 +0200"
-    },
-    {
-      "title": "Baumarktkette: Hellweg meldet Insolvenz in Eigenverwaltung an",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-baumarktkette-hellweg-insolvenz-in-eigenverantwortung.html",
-      "date": "Tue, 16 Jun 2026 18:24:57 +0200"
-    },
-    {
-      "title": "Heidelberger Studie: Wohlstand in Berlin pro Kopf seit 1999 nur geringfügig gestiegen",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/berlin-wohlstand-studie-bruttoinlandsprodukt.html",
-      "date": "Tue, 16 Jun 2026 17:58:16 +0200"
-    },
-    {
-      "title": "Widerstand gegen Regionalplan für Windkraftausbau im Nordwesten scheitert",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-prignitz-ostprignitz-ruppin-oberhavel-windkraft.html",
-      "date": "Tue, 16 Jun 2026 17:41:44 +0200"
-    },
-    {
-      "title": "Gurkenernte: Ein Spreewälder Original kämpft um seinen Platz",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/brandenburg-spreewald-gurke-ernte-start-konkurrenz-mindestlohn-indien.html",
-      "date": "Tue, 16 Jun 2026 17:21:00 +0200"
-    },
-    {
-      "title": "Toter Säugling im Flur eines Mehrfamilienhauses in Müllrose (Oder-Spree) entdeckt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/toter-saeugling-baby-gefunden-frankfurtoder-polizei-muellrose-eltern-brandenburg.html",
-      "date": "Tue, 16 Jun 2026 16:49:50 +0200"
+      "title": "Neues Gesetz: Brandenburg will Feuerwehren besser vernetzen",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/06/brandenburg-brand-und-katrastrophenschutz-gesetz-feuerwehr.html",
+      "date": "Wed, 17 Jun 2026 09:46:00 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Seniorin bei Bremsmanöver in Linienbus verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1682628.php",
+      "date": "Wed, 17 Jun 2026 11:19:36 +0200"
+    },
+    {
+      "title": "Einbrecher mithilfe des DEIG festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1682621.php",
+      "date": "Wed, 17 Jun 2026 11:15:43 +0200"
+    },
     {
       "title": "Randalierer im Kaufhaus festgenommen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1682367.php",
@@ -111,22 +121,47 @@
       "title": "Mit einem Einsatzwagen zusammengestoßen und verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681446.php",
       "date": "Sun, 14 Jun 2026 14:39:55 +0200"
-    },
-    {
-      "title": "Festnahme nach Verdacht des unerlaubten Handels mit Betäubungsmitteln",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681445.php",
-      "date": "Sun, 14 Jun 2026 13:43:24 +0200"
-    },
-    {
-      "title": "Mann erlitt Stichverletzungen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681444.php",
-      "date": "Sun, 14 Jun 2026 12:19:19 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Ökologin: Ausmaß des Eichenprozessionsspinner-Befalls war nicht absehbar",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-eichenprozessionsspinner-raupen-pestizide-bekaempfung.html",
+      "date": "Wed, 17 Jun 2026 13:22:49 +0200"
+    },
+    {
+      "title": "Eröffnung des Neuköllner Columbiabads auf Anfang Juli verschoben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-neukoelln-sommerbad-columbiabad-eroeffnung-verschoben-juli.html",
+      "date": "Wed, 17 Jun 2026 12:49:16 +0200"
+    },
+    {
+      "title": "Zugang zur Kaiser-Wilhelm Gedächtniskirche soll bald Eintritt kosten",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-gedaechtniskirche-turm-eintritt.html",
+      "date": "Wed, 17 Jun 2026 11:40:06 +0200"
+    },
+    {
+      "title": "Lausitz: Historische Regimentkanone M1943 im Grenzfluss Neiße gefunden",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-forst-neisse-regimentkanone-m1943-fund.html",
+      "date": "Wed, 17 Jun 2026 11:15:17 +0200"
+    },
+    {
+      "title": "Neues Bürgeramt eröffnet in Pankow",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-pankow-buergeramt-kirchstrasse-eroeffnung.html",
+      "date": "Wed, 17 Jun 2026 11:02:31 +0200"
+    },
+    {
+      "title": "Polizei nimmt polnische Aktivisten vorübergehend",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/polizei-nimmt-polnische-aktivisten-fest.html",
+      "date": "Wed, 17 Jun 2026 10:06:40 +0200"
+    },
+    {
+      "title": "Gewalt gegen Frauen und Kinder: Berlin bekommt zwei neue Frauenhäuser",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/zwei-neue-frauenhaeuser-in-berlin.html",
+      "date": "Wed, 17 Jun 2026 08:15:00 +0200"
+    },
     {
       "title": "Blankenfelde-Mahlow erinnert an Neonazi-Opfer Noël Martin",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/blankenfelde-mahlow-noel-martin-gedenken-erinnerung-neonazi-opfer.html",
@@ -151,41 +186,6 @@
       "title": "Widerstand gegen Regionalplan für Windkraftausbau im Nordwesten scheitert",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-prignitz-ostprignitz-ruppin-oberhavel-windkraft.html",
       "date": "Tue, 16 Jun 2026 17:41:44 +0200"
-    },
-    {
-      "title": "Toter Säugling im Flur eines Mehrfamilienhauses in Müllrose (Oder-Spree) entdeckt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/toter-saeugling-baby-gefunden-frankfurtoder-polizei-muellrose-eltern-brandenburg.html",
-      "date": "Tue, 16 Jun 2026 16:49:50 +0200"
-    },
-    {
-      "title": "Mann wirft bissigen Hund von Balkon - Polizei ermittelt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-alt-treptow-mann-wirft-hund-vom-balkon-tot.html",
-      "date": "Tue, 16 Jun 2026 16:15:50 +0200"
-    },
-    {
-      "title": "Wetter in Berlin und Brandenburg: Bis zu 35 Grad und Gewitter",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-berlin-wetter-sommer-gewitter-hitze.html",
-      "date": "Tue, 16 Jun 2026 15:49:36 +0200"
-    },
-    {
-      "title": "Brandenburger Bevölkerung schrumpft erstmals seit Jahren wieder",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/einwohner-berlin-brandenburg-statistik.html",
-      "date": "Tue, 16 Jun 2026 15:36:00 +0200"
-    },
-    {
-      "title": "Sperrkreis aufgehoben: Bombe in Potsdam erfolgreich entschärft",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/potsdam-bombe-entschaerfung-sperrkreis-evakuierung-innenstadt-pendler-hauptbahnhof.html",
-      "date": "Tue, 16 Jun 2026 15:31:17 +0200"
-    },
-    {
-      "title": "Klimaschutz: Strausberger Schule als \"\"Energiesparmeister\" ausgezeichnet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/nachhaltigkeit-energiesparen-schule-montessori-strausberg-preis-emobilitaet-klimaschutz.html",
-      "date": "Tue, 16 Jun 2026 15:29:08 +0200"
-    },
-    {
-      "title": "Fünf Elche streifen zurzeit durch Brandenburg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/fuenf-elche-in-brandenburg.html",
-      "date": "Tue, 16 Jun 2026 14:40:20 +0200"
     }
   ]
 }
