@@ -1,6 +1,41 @@
 {
   "traffic": [
     {
+      "title": "Berliner Polizei ermittelt gegen Beamte wegen möglicher Körperverletzung im Amt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-polizei-ermittelt-gewalt-durch-beamte.html",
+      "date": "Wed, 17 Jun 2026 18:18:13 +0200"
+    },
+    {
+      "title": "Sekundarschule in Steglitz-Zehlendorf protestiert gegen Auslagerung von Siebtklässlern",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-max-von-laue-gymnasium-siebte-klassen-ausgelagert.html",
+      "date": "Wed, 17 Jun 2026 18:17:22 +0200"
+    },
+    {
+      "title": "Abgang nach drei Jahren: Hertha-Kapitän Reese wechselt zum VfL Wolfsburg",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-berlin-hertha-bsc-wechsel-abgang-vfl-wolfsburg.html",
+      "date": "Wed, 17 Jun 2026 17:54:29 +0200"
+    },
+    {
+      "title": "Zugang zur Kaiser-Wilhelm-Gedächtniskirche soll Eintritt kosten",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-gedaechtniskirche-turm-eintritt.html",
+      "date": "Wed, 17 Jun 2026 17:48:14 +0200"
+    },
+    {
+      "title": "Polizei und Zoll durchsuchen Wohnungen und Restaurants von mutmaßlichen Schleusern",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-durchsuchungen-mutmassliche-schleuser-polizei-zoll.html",
+      "date": "Wed, 17 Jun 2026 17:39:51 +0200"
+    },
+    {
+      "title": "Straßentunnel am Berliner Alexanderplatz wird ab Montag voll gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-alexanderplatz-strassentunnel-sperrung.html",
+      "date": "Wed, 17 Jun 2026 17:25:08 +0200"
+    },
+    {
+      "title": "Supermarktkette Go Asia ruft Instantnudeln und Austern zurück",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/supermarktkette-go-asia-rueckruf-instandnudeln-und-austern.html",
+      "date": "Wed, 17 Jun 2026 17:21:12 +0200"
+    },
+    {
       "title": "Lausitz: Historische Regimentkanone M1943 im Grenzfluss Neiße gefunden",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-forst-neisse-regimentkanone-m1943-fund.html",
       "date": "Wed, 17 Jun 2026 16:46:48 +0200"
@@ -21,47 +56,22 @@
       "date": "Wed, 17 Jun 2026 15:16:22 +0200"
     },
     {
-      "title": "Supermarktkette Go Asia ruft Instantnudeln und Austern zurück",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/supermarktkette-go-asia-rueckruf-instandnudeln-und-austern.html",
-      "date": "Wed, 17 Jun 2026 15:06:57 +0200"
-    },
-    {
       "title": "Wie Schafe in Beelitz beim Waldbrandschutz helfen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/beelitz-waldbrand-schutz-praevention-schaf-unterholz-waldweide.html",
       "date": "Wed, 17 Jun 2026 15:00:12 +0200"
-    },
-    {
-      "title": "Bewohnerparkausweise für Insel von Werder/Havel werden teurer",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/06/brandenburg-werder-havel-anwohner-parken-teurer-gebuehr-insel.html",
-      "date": "Wed, 17 Jun 2026 14:57:17 +0200"
-    },
-    {
-      "title": "Berlin-Wahl 2026: 26 Parteien sind zugelassen",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/landeswahlausschuss-26-parteien-zugelassen.html",
-      "date": "Wed, 17 Jun 2026 14:04:41 +0200"
-    },
-    {
-      "title": "Gewalt gegen Frauen und Kinder: Berlin bekommt zwei neue Frauenhäuser",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/zwei-neue-frauenhaeuser-in-berlin.html",
-      "date": "Wed, 17 Jun 2026 14:00:47 +0200"
-    },
-    {
-      "title": "Wie ein Berliner Sprachcafé Deutsche und Polen verbindet",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/deutschland-polen-sprachcafe-pankow-nachbarschaftsvertrag-35-jahre.html",
-      "date": "Wed, 17 Jun 2026 13:42:45 +0200"
-    },
-    {
-      "title": "Eröffnung des Neuköllner Columbiabads auf Anfang Juli verschoben",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-neukoelln-sommerbad-columbiabad-eroeffnung-verschoben-juli.html",
-      "date": "Wed, 17 Jun 2026 12:49:16 +0200"
-    },
-    {
-      "title": "Berlin: Neues Mahnmal erinnert an verfolgte Zeugen Jehovas",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/06/mahnmal-zeugen-jehovas-nationalsozialismus-berlin-denkmaeler.html",
-      "date": "Wed, 17 Jun 2026 12:47:00 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Fußgänger nach Verkehrsunfall notoperiert",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1682951.php",
+      "date": "Wed, 17 Jun 2026 16:26:00 +0200"
+    },
+    {
+      "title": "Allgemeinverfügung anlässlich des zweiten nationalen Veteranentages – Einschränkungen im Berliner Regierungsviertel",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1682948.php",
+      "date": "Wed, 17 Jun 2026 16:13:00 +0200"
+    },
     {
       "title": "Junge Frau vermisst – Polizei bittet um Mithilfe",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1682776.php",
@@ -111,22 +121,47 @@
       "title": "Mit Schreckschusswaffe vom Balkon geschossen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681851.php",
       "date": "Mon, 15 Jun 2026 14:35:09 +0200"
-    },
-    {
-      "title": "Polizei Berlin erlässt Allgemeinverfügung zum 17. Juni 2026",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681744.php",
-      "date": "Mon, 15 Jun 2026 13:19:07 +0200"
-    },
-    {
-      "title": "Mehrere Fahrzeuge in Brand gesetzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681512.php",
-      "date": "Mon, 15 Jun 2026 09:27:36 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Berliner Polizei ermittelt gegen Beamte wegen möglicher Körperverletzung im Amt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-polizei-ermittelt-gewalt-durch-beamte.html",
+      "date": "Wed, 17 Jun 2026 18:18:13 +0200"
+    },
+    {
+      "title": "Sekundarschule in Steglitz-Zehlendorf protestiert gegen Auslagerung von Siebtklässlern",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-max-von-laue-gymnasium-siebte-klassen-ausgelagert.html",
+      "date": "Wed, 17 Jun 2026 18:17:22 +0200"
+    },
+    {
+      "title": "Zugang zur Kaiser-Wilhelm-Gedächtniskirche soll Eintritt kosten",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-gedaechtniskirche-turm-eintritt.html",
+      "date": "Wed, 17 Jun 2026 17:48:14 +0200"
+    },
+    {
+      "title": "Polizei und Zoll durchsuchen Wohnungen und Restaurants von mutmaßlichen Schleusern",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-durchsuchungen-mutmassliche-schleuser-polizei-zoll.html",
+      "date": "Wed, 17 Jun 2026 17:39:51 +0200"
+    },
+    {
+      "title": "Straßentunnel am Berliner Alexanderplatz wird ab Montag voll gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-alexanderplatz-strassentunnel-sperrung.html",
+      "date": "Wed, 17 Jun 2026 17:25:08 +0200"
+    },
+    {
+      "title": "Supermarktkette Go Asia ruft Instantnudeln und Austern zurück",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/supermarktkette-go-asia-rueckruf-instandnudeln-und-austern.html",
+      "date": "Wed, 17 Jun 2026 17:21:12 +0200"
+    },
+    {
+      "title": "27-Jähriger wegen Schleusung von 41 Menschen verurteilt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/frankfurt-landgericht-schleuser-freigesprochen.html",
+      "date": "Wed, 17 Jun 2026 17:03:14 +0200"
+    },
     {
       "title": "Lausitz: Historische Regimentkanone M1943 im Grenzfluss Neiße gefunden",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-forst-neisse-regimentkanone-m1943-fund.html",
@@ -148,44 +183,9 @@
       "date": "Wed, 17 Jun 2026 15:16:22 +0200"
     },
     {
-      "title": "Supermarktkette Go Asia ruft Instantnudeln und Austern zurück",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/supermarktkette-go-asia-rueckruf-instandnudeln-und-austern.html",
-      "date": "Wed, 17 Jun 2026 15:06:57 +0200"
-    },
-    {
       "title": "Wie Schafe in Beelitz beim Waldbrandschutz helfen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/beelitz-waldbrand-schutz-praevention-schaf-unterholz-waldweide.html",
       "date": "Wed, 17 Jun 2026 15:00:12 +0200"
-    },
-    {
-      "title": "Gewalt gegen Frauen und Kinder: Berlin bekommt zwei neue Frauenhäuser",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/zwei-neue-frauenhaeuser-in-berlin.html",
-      "date": "Wed, 17 Jun 2026 14:00:47 +0200"
-    },
-    {
-      "title": "Ökologin: Ausmaß des Eichenprozessionsspinner-Befalls war nicht absehbar",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-eichenprozessionsspinner-raupen-pestizide-bekaempfung.html",
-      "date": "Wed, 17 Jun 2026 13:51:00 +0200"
-    },
-    {
-      "title": "Eröffnung des Neuköllner Columbiabads auf Anfang Juli verschoben",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-neukoelln-sommerbad-columbiabad-eroeffnung-verschoben-juli.html",
-      "date": "Wed, 17 Jun 2026 12:49:16 +0200"
-    },
-    {
-      "title": "Zugang zur Kaiser-Wilhelm-Gedächtniskirche soll Eintritt kosten",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-gedaechtniskirche-turm-eintritt.html",
-      "date": "Wed, 17 Jun 2026 11:40:00 +0200"
-    },
-    {
-      "title": "Neues Bürgeramt eröffnet in Pankow",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-pankow-buergeramt-kirchstrasse-eroeffnung.html",
-      "date": "Wed, 17 Jun 2026 11:02:31 +0200"
-    },
-    {
-      "title": "Polizei nimmt polnische Aktivisten vorübergehend",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/polizei-nimmt-polnische-aktivisten-fest.html",
-      "date": "Wed, 17 Jun 2026 10:06:40 +0200"
     }
   ]
 }
