@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Wahrenbrück (Elbe-Elster) soll bis Ende 2027 eine neue Brücke bekommen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brueckensperrung-wahrenbrueck-elbe-elster-loesung.html",
+      "date": "Thu, 18 Jun 2026 20:44:14 +0200"
+    },
+    {
+      "title": "Vermisster Döberner: Video von Geständnis in Prozess in Kapstadt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-vermisster-deutscher-prozess-gestaendnis-ueberfall.html",
+      "date": "Thu, 18 Jun 2026 20:37:05 +0200"
+    },
+    {
+      "title": "Interview zu Berliner Gewässern: Blaualgen werden \"unterschätzt\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/baden-seen-berlin-wasser-gefahr-blaualgen-zerkarien-interview.html",
+      "date": "Thu, 18 Jun 2026 19:34:37 +0200"
+    },
+    {
       "title": "Landtag Brandenburg beschließt ersten Bürgerrat",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/landtag-brandenburg-buergerrat-beschluss.html",
       "date": "Thu, 18 Jun 2026 18:49:29 +0200"
@@ -44,21 +59,6 @@
       "title": "Fund in Schacksdorf: Drei von 32 Fliegerbomben müssen gesprengt werden",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-lichterfeld-schacksdorf-bomben-fund-sprengung-ex-militaerflugplatz.html",
       "date": "Thu, 18 Jun 2026 16:27:11 +0200"
-    },
-    {
-      "title": "\"Jan & Martha\": Deutsch-polnisches Theater auf der Oder",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/deutsch-polnisches-theater-auf-der-oder.html",
-      "date": "Thu, 18 Jun 2026 16:18:49 +0200"
-    },
-    {
-      "title": "DBB-Vizepräsident: NBA Europe \"riesengroße Chance für Basketball\"",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/basketball-dbb-vizepraesident-mithat-demirel-interview-alba-berlin-nba-europe.html",
-      "date": "Thu, 18 Jun 2026 15:10:20 +0200"
-    },
-    {
-      "title": "Gesetz für Auftragsvergabe und Gaststätten in Berlin geändert",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/06/berlin-abgeordnetenhaus-gesetz-aenderung-gaststaetten-cafes-auftraege-vergabe.html",
-      "date": "Thu, 18 Jun 2026 14:18:19 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,21 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Wahrenbrück (Elbe-Elster) soll bis Ende 2027 eine neue Brücke bekommen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brueckensperrung-wahrenbrueck-elbe-elster-loesung.html",
+      "date": "Thu, 18 Jun 2026 20:44:14 +0200"
+    },
+    {
+      "title": "Vermisster Döberner: Video von Geständnis in Prozess in Kapstadt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-vermisster-deutscher-prozess-gestaendnis-ueberfall.html",
+      "date": "Thu, 18 Jun 2026 20:37:05 +0200"
+    },
+    {
+      "title": "Interview zu Berliner Gewässern: Blaualgen werden \"unterschätzt\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/baden-seen-berlin-wasser-gefahr-blaualgen-zerkarien-interview.html",
+      "date": "Thu, 18 Jun 2026 19:34:37 +0200"
+    },
+    {
       "title": "Landtag Brandenburg beschließt ersten Bürgerrat",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/landtag-brandenburg-buergerrat-beschluss.html",
       "date": "Thu, 18 Jun 2026 18:49:29 +0200"
@@ -171,21 +186,6 @@
       "title": "Feuerwehr löscht brennende Altpapierhalle in Rathenow",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/rathenow-havelland-feuer-brand-altpapier-starke-rauchentwicklung.html",
       "date": "Thu, 18 Jun 2026 14:09:45 +0200"
-    },
-    {
-      "title": "Eisenbahnstraße in Werder/Havel wird für 20 Monate voll gesperrt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/eisenbahnstrasse-werder-havel-bauarbeiten-vollsperrung-sanierung.html",
-      "date": "Thu, 18 Jun 2026 13:58:22 +0200"
-    },
-    {
-      "title": "Bahnstrecke Berlin-Hannover ab Oktober gesperrt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/bahn-sperrung-berlin-hannover-oktober-sanierung.html",
-      "date": "Thu, 18 Jun 2026 13:42:44 +0200"
-    },
-    {
-      "title": "Erster Honig der Brandenburger Parlamentsbienen geerntet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/potsdam-bienen-honig-brandenburger-landtag-fortunaportal.html",
-      "date": "Thu, 18 Jun 2026 13:15:17 +0200"
     }
   ]
 }
