@@ -1,9 +1,54 @@
 {
   "traffic": [
     {
+      "title": "Landtag Brandenburg beschließt ersten Bürgerrat",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/landtag-brandenburg-buergerrat-beschluss.html",
+      "date": "Thu, 18 Jun 2026 18:49:29 +0200"
+    },
+    {
       "title": "Berlin Tennis Open: Eva Lys scheidet im Achtelfinale aus",
       "link": "https://www.rbb24.de/sport/beitrag/2026/06/tennis-wta-turnier-berlin-open-liveticker-gauff-sabalenka-williams.html",
-      "date": "Thu, 18 Jun 2026 15:51:21 +0200"
+      "date": "Thu, 18 Jun 2026 18:45:54 +0200"
+    },
+    {
+      "title": "Veteranentag: Teile des Regierungsviertels am Sonntag gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/sperrungen-regierungsviertel-berlin-veteranentag-verkehr.html",
+      "date": "Thu, 18 Jun 2026 18:45:38 +0200"
+    },
+    {
+      "title": "Ehemalige BSW-Abgeordnete bilden künftig eigene Gruppe im Landtag",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/06/brandenburg-ehemalige-bsw-abgeordnete-eigene-gruppe-landtag.html",
+      "date": "Thu, 18 Jun 2026 18:34:17 +0200"
+    },
+    {
+      "title": "Finanzlücke: Landkreis Barnim droht Haushaltssperre",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/06/barnim-kurth-haushaltssperre-kreisverwaltung-kosten-finanzierung.html",
+      "date": "Thu, 18 Jun 2026 17:03:36 +0200"
+    },
+    {
+      "title": "Mann versprüht Pfefferspray in Berliner Bus - neun Verletzte",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-gropiusstadt-linienbus-streit-pfefferspray-verletzte.html",
+      "date": "Thu, 18 Jun 2026 16:53:34 +0200"
+    },
+    {
+      "title": "Berlins Feuerwehr-Chef über Rekordeinsätze, Personalmangel und unnötige Notrufe",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/175-jahre-berliner-feuerwehr-interview-landesbranddirektor-karsten-homrighausen.html",
+      "date": "Thu, 18 Jun 2026 16:46:54 +0200"
+    },
+    {
+      "title": "Schusswaffen- und Drogenfund: Polizei nimmt drei Männer nach Razzia gegen Erpresserbande fest",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/razzia-berlin-brandenburg-sondereinheit-ferrum-erpressung-shooter.html",
+      "date": "Thu, 18 Jun 2026 16:30:54 +0200"
+    },
+    {
+      "title": "Fund in Schacksdorf: Drei von 32 Fliegerbomben müssen gesprengt werden",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-lichterfeld-schacksdorf-bomben-fund-sprengung-ex-militaerflugplatz.html",
+      "date": "Thu, 18 Jun 2026 16:27:11 +0200"
+    },
+    {
+      "title": "\"Jan & Martha\": Deutsch-polnisches Theater auf der Oder",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/deutsch-polnisches-theater-auf-der-oder.html",
+      "date": "Thu, 18 Jun 2026 16:18:49 +0200"
     },
     {
       "title": "DBB-Vizepräsident: NBA Europe \"riesengroße Chance für Basketball\"",
@@ -14,51 +59,6 @@
       "title": "Gesetz für Auftragsvergabe und Gaststätten in Berlin geändert",
       "link": "https://www.rbb24.de/politik/beitrag/2026/06/berlin-abgeordnetenhaus-gesetz-aenderung-gaststaetten-cafes-auftraege-vergabe.html",
       "date": "Thu, 18 Jun 2026 14:18:19 +0200"
-    },
-    {
-      "title": "Zerkarien in Berliner Badegewässern festgestellt - ungewöhnlich früh",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-baden-gewaesser-see-qualitaet.html",
-      "date": "Thu, 18 Jun 2026 14:12:57 +0200"
-    },
-    {
-      "title": "Feuerwehr löscht brennende Altpapierhalle in Rathenow",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/rathenow-havelland-feuer-brand-altpapier-starke-rauchentwicklung.html",
-      "date": "Thu, 18 Jun 2026 14:09:45 +0200"
-    },
-    {
-      "title": "Schusswaffen- und Drogenfund: Polizei nimmt drei Männer nach Razzia gegen Erpresserbande fest",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/razzia-berlin-brandenburg-sondereinheit-ferrum-erpressung-shooter.html",
-      "date": "Thu, 18 Jun 2026 13:45:54 +0200"
-    },
-    {
-      "title": "Bahnstrecke Berlin-Hannover ab Oktober gesperrt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/bahn-sperrung-berlin-hannover-oktober-sanierung.html",
-      "date": "Thu, 18 Jun 2026 13:42:44 +0200"
-    },
-    {
-      "title": "Erster Honig der Brandenburger Parlamentsbienen geerntet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/potsdam-bienen-honig-brandenburger-landtag-fortunaportal.html",
-      "date": "Thu, 18 Jun 2026 13:15:17 +0200"
-    },
-    {
-      "title": "Elbe-Elster: Rund 30 russische Fliegerbomben und Flak bei Arbeiten in Schacksdorf entdeckt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-schacksdorf-bomben-fund-ex-militaerflugplatz-solarpark.html",
-      "date": "Thu, 18 Jun 2026 12:59:20 +0200"
-    },
-    {
-      "title": "Gebäudeschließungen: TU Berlin setzt Leiter der Bauabteilung ab",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-technische-universitaet-bauleiter-absetzung-maengel-schliessung.html",
-      "date": "Thu, 18 Jun 2026 12:35:25 +0200"
-    },
-    {
-      "title": "Grenze in Guben: Verwaltungsgericht Berlin erklärt Zurückweisung eines Asylsuchenden für rechtswidrig",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-berlin-guben-verwaltungsgericht-abweisung-grenze-asylsuchener-eritrea-rechtswidrig.html",
-      "date": "Thu, 18 Jun 2026 12:11:14 +0200"
-    },
-    {
-      "title": "Kompromissvorschlag: Potsdams Rechenzentrum darf bis 2033 bleiben",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/06/potsdam-rechenzentrum-zukunft-aubel-vorschlag-2033.html",
-      "date": "Thu, 18 Jun 2026 12:10:54 +0200"
     }
   ],
   "police": [
@@ -128,14 +128,44 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Landtag Brandenburg beschließt ersten Bürgerrat",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/landtag-brandenburg-buergerrat-beschluss.html",
+      "date": "Thu, 18 Jun 2026 18:49:29 +0200"
+    },
+    {
       "title": "Veteranentag: Teile des Regierungsviertels am Sonntag gesperrt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/sperrungen-regierungsviertel-berlin-veteranentag-verkehr.html",
-      "date": "Thu, 18 Jun 2026 15:40:50 +0200"
+      "date": "Thu, 18 Jun 2026 18:45:38 +0200"
+    },
+    {
+      "title": "Mann versprüht Pfefferspray in Berliner Bus - neun Verletzte",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-gropiusstadt-linienbus-streit-pfefferspray-verletzte.html",
+      "date": "Thu, 18 Jun 2026 16:53:34 +0200"
+    },
+    {
+      "title": "Berlins Feuerwehr-Chef über Rekordeinsätze, Personalmangel und unnötige Notrufe",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/175-jahre-berliner-feuerwehr-interview-landesbranddirektor-karsten-homrighausen.html",
+      "date": "Thu, 18 Jun 2026 16:46:54 +0200"
+    },
+    {
+      "title": "Schusswaffen- und Drogenfund: Polizei nimmt drei Männer nach Razzia gegen Erpresserbande fest",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/razzia-berlin-brandenburg-sondereinheit-ferrum-erpressung-shooter.html",
+      "date": "Thu, 18 Jun 2026 16:30:54 +0200"
+    },
+    {
+      "title": "Fund in Schacksdorf: Drei von 32 Fliegerbomben müssen gesprengt werden",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-lichterfeld-schacksdorf-bomben-fund-sprengung-ex-militaerflugplatz.html",
+      "date": "Thu, 18 Jun 2026 16:27:11 +0200"
+    },
+    {
+      "title": "Frankfurt (Oder): \"Fake-News-Festival\" startet an der Viadrina",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/frankfurt-oder-fake-news-festival-desinformation-deepfakes-viadrina.html",
+      "date": "Thu, 18 Jun 2026 16:10:12 +0200"
     },
     {
       "title": "Zerkarien in Berliner Badegewässern festgestellt - ungewöhnlich früh",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-baden-gewaesser-see-qualitaet.html",
-      "date": "Thu, 18 Jun 2026 14:12:57 +0200"
+      "date": "Thu, 18 Jun 2026 14:12:00 +0200"
     },
     {
       "title": "Feuerwehr löscht brennende Altpapierhalle in Rathenow",
@@ -148,11 +178,6 @@
       "date": "Thu, 18 Jun 2026 13:58:22 +0200"
     },
     {
-      "title": "Schusswaffen- und Drogenfund: Polizei nimmt drei Männer nach Razzia gegen Erpresserbande fest",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/razzia-berlin-brandenburg-sondereinheit-ferrum-erpressung-shooter.html",
-      "date": "Thu, 18 Jun 2026 13:45:54 +0200"
-    },
-    {
       "title": "Bahnstrecke Berlin-Hannover ab Oktober gesperrt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/bahn-sperrung-berlin-hannover-oktober-sanierung.html",
       "date": "Thu, 18 Jun 2026 13:42:44 +0200"
@@ -161,31 +186,6 @@
       "title": "Erster Honig der Brandenburger Parlamentsbienen geerntet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/potsdam-bienen-honig-brandenburger-landtag-fortunaportal.html",
       "date": "Thu, 18 Jun 2026 13:15:17 +0200"
-    },
-    {
-      "title": "Elbe-Elster: Rund 30 russische Fliegerbomben und Flak bei Arbeiten in Schacksdorf entdeckt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-schacksdorf-bomben-fund-ex-militaerflugplatz-solarpark.html",
-      "date": "Thu, 18 Jun 2026 12:59:20 +0200"
-    },
-    {
-      "title": "Gebäudeschließungen: TU Berlin setzt Leiter der Bauabteilung ab",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-technische-universitaet-bauleiter-absetzung-maengel-schliessung.html",
-      "date": "Thu, 18 Jun 2026 12:35:25 +0200"
-    },
-    {
-      "title": "Grenze in Guben: Verwaltungsgericht Berlin erklärt Zurückweisung eines Asylsuchenden für rechtswidrig",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-berlin-guben-verwaltungsgericht-abweisung-grenze-asylsuchener-eritrea-rechtswidrig.html",
-      "date": "Thu, 18 Jun 2026 12:11:14 +0200"
-    },
-    {
-      "title": "Wetter in Berlin und Brandenburg: Bis zu 35 Grad und Gewitter",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-berlin-wetter-sommer-gewitter-hitze.html",
-      "date": "Thu, 18 Jun 2026 12:08:00 +0200"
-    },
-    {
-      "title": "Immer weniger Pkw-Neuzulassungen in Berlin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-pkw-zulassungen-weniger-autos-zahlen.html",
-      "date": "Thu, 18 Jun 2026 11:34:00 +0200"
     }
   ]
 }
