@@ -1,6 +1,46 @@
 {
   "traffic": [
     {
+      "title": "Immer weniger Pkw-Neuzulassungen in Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-pkw-zulassungen-weniger-autos-zahlen.html",
+      "date": "Thu, 18 Jun 2026 11:34:00 +0200"
+    },
+    {
+      "title": "Zum Wechsel von Fabian Reese: Mit Verlaub - Wolfsburg?",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-zweite-liga-hertha-bsc-reese-wechsel-kommentar.html",
+      "date": "Thu, 18 Jun 2026 11:30:21 +0200"
+    },
+    {
+      "title": "Hitzefrei in Berlin und Brandenburg: Das sind die Regeln",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-schule-hitzefrei-regelungen-klausuren.html",
+      "date": "Thu, 18 Jun 2026 10:37:34 +0200"
+    },
+    {
+      "title": "Schusswaffenkriminalität: Polizei führt Razzia in Berlin durch",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/razzia-berlin-brandenburg-sondereinheit-ferrum-erpressung-shooter.html",
+      "date": "Thu, 18 Jun 2026 10:23:55 +0200"
+    },
+    {
+      "title": "Bahnstrecke Berlin-Hannover ab Oktober gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/bahn-sperrung-berlin-hannover-oktober-sanierung.html",
+      "date": "Thu, 18 Jun 2026 09:29:49 +0200"
+    },
+    {
+      "title": "Seen in Berlin und Brandenburg: Badesaison startet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-baden-gewaesser-see-qualitaet.html",
+      "date": "Thu, 18 Jun 2026 09:00:13 +0200"
+    },
+    {
+      "title": "Celeste im Tempodrom: Herzschmerz durch Stimmgewalt",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/celeste-tempodrom-berlin-soul-herzschmerz.html",
+      "date": "Thu, 18 Jun 2026 08:41:23 +0200"
+    },
+    {
+      "title": "Konzertkritik: Doja Cat in der Berliner Uber-Arena",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/doja-cat-uber-arena-konzert.html",
+      "date": "Thu, 18 Jun 2026 08:12:00 +0200"
+    },
+    {
       "title": "Berlin-Mitte plant erleichterte Genehmigungen für Open-Air-Feste",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-bezirk-mitte-open-air-veranstaltungen-leichter-moeglich.html",
       "date": "Thu, 18 Jun 2026 06:46:24 +0200"
@@ -13,52 +53,12 @@
     {
       "title": "Alba Berlin verliert Spiel drei der Finalserie gegen Bayern München",
       "link": "https://www.rbb24.de/sport/beitrag/2026/06/basketball-playoffs-finale-alba-berlin-bayern-muenchen-spiel-dre.html",
-      "date": "Wed, 17 Jun 2026 22:54:58 +0200"
+      "date": "Wed, 17 Jun 2026 22:54:00 +0200"
     },
     {
       "title": "Brandenburg will Diätenerhöhung aussetzen",
       "link": "https://www.rbb24.de/politik/beitrag/2026/06/brandenburg-will-diaetenerhoehung-aussetzen.html",
       "date": "Wed, 17 Jun 2026 21:57:01 +0200"
-    },
-    {
-      "title": "Teilnehmer des CSD in Eberswalde demonstrieren für Vielfalt und Akzeptanz",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/eberswalde-csd-demonstration-toleranz.html",
-      "date": "Wed, 17 Jun 2026 21:42:48 +0200"
-    },
-    {
-      "title": "Zum Wechsel von Fabian Reese: Mit Verlaub - Wolfsburg?",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-zweite-liga-hertha-bsc-reese-wechsel-kommentar.html",
-      "date": "Wed, 17 Jun 2026 18:21:07 +0200"
-    },
-    {
-      "title": "Berliner Polizei ermittelt gegen Beamte wegen möglicher Körperverletzung im Amt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-polizei-ermittelt-gewalt-durch-beamte.html",
-      "date": "Wed, 17 Jun 2026 18:18:13 +0200"
-    },
-    {
-      "title": "Sekundarschule in Steglitz-Zehlendorf protestiert gegen Auslagerung von Siebtklässlern",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-max-von-laue-gymnasium-siebte-klassen-ausgelagert.html",
-      "date": "Wed, 17 Jun 2026 18:17:22 +0200"
-    },
-    {
-      "title": "Abgang nach drei Jahren: Hertha-Kapitän Reese wechselt zum VfL Wolfsburg",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-berlin-hertha-bsc-wechsel-abgang-vfl-wolfsburg.html",
-      "date": "Wed, 17 Jun 2026 17:54:29 +0200"
-    },
-    {
-      "title": "Zugang zur Kaiser-Wilhelm-Gedächtniskirche soll Eintritt kosten",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-gedaechtniskirche-turm-eintritt.html",
-      "date": "Wed, 17 Jun 2026 17:48:14 +0200"
-    },
-    {
-      "title": "Polizei und Zoll durchsuchen Wohnungen und Restaurants von mutmaßlichen Schleusern",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-durchsuchungen-mutmassliche-schleuser-polizei-zoll.html",
-      "date": "Wed, 17 Jun 2026 17:39:51 +0200"
-    },
-    {
-      "title": "Straßentunnel am Berliner Alexanderplatz wird ab Montag voll gesperrt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-alexanderplatz-strassentunnel-sperrung.html",
-      "date": "Wed, 17 Jun 2026 17:25:08 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,31 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Immer weniger Pkw-Neuzulassungen in Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-pkw-zulassungen-weniger-autos-zahlen.html",
+      "date": "Thu, 18 Jun 2026 11:34:00 +0200"
+    },
+    {
+      "title": "Hitzefrei in Berlin und Brandenburg: Das sind die Regeln",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-schule-hitzefrei-regelungen-klausuren.html",
+      "date": "Thu, 18 Jun 2026 10:37:34 +0200"
+    },
+    {
+      "title": "Schusswaffenkriminalität: Polizei führt Razzia in Berlin durch",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/razzia-berlin-brandenburg-sondereinheit-ferrum-erpressung-shooter.html",
+      "date": "Thu, 18 Jun 2026 10:23:55 +0200"
+    },
+    {
+      "title": "Bahnstrecke Berlin-Hannover ab Oktober gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/bahn-sperrung-berlin-hannover-oktober-sanierung.html",
+      "date": "Thu, 18 Jun 2026 09:29:49 +0200"
+    },
+    {
+      "title": "Seen in Berlin und Brandenburg: Badesaison startet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-baden-gewaesser-see-qualitaet.html",
+      "date": "Thu, 18 Jun 2026 09:00:13 +0200"
+    },
+    {
       "title": "Berlin-Mitte plant erleichterte Genehmigungen für Open-Air-Feste",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-bezirk-mitte-open-air-veranstaltungen-leichter-moeglich.html",
       "date": "Thu, 18 Jun 2026 06:46:24 +0200"
@@ -135,7 +160,7 @@
     {
       "title": "Teilnehmer des CSD in Eberswalde demonstrieren für Vielfalt und Akzeptanz",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/eberswalde-csd-demonstration-toleranz.html",
-      "date": "Wed, 17 Jun 2026 21:42:48 +0200"
+      "date": "Wed, 17 Jun 2026 21:45:00 +0200"
     },
     {
       "title": "Berliner Polizei ermittelt gegen Beamte wegen möglicher Körperverletzung im Amt",
@@ -161,31 +186,6 @@
       "title": "Straßentunnel am Berliner Alexanderplatz wird ab Montag voll gesperrt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-alexanderplatz-strassentunnel-sperrung.html",
       "date": "Wed, 17 Jun 2026 17:25:08 +0200"
-    },
-    {
-      "title": "Supermarktkette Go Asia ruft Instantnudeln und Austern zurück",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/supermarktkette-go-asia-rueckruf-instandnudeln-und-austern.html",
-      "date": "Wed, 17 Jun 2026 17:21:12 +0200"
-    },
-    {
-      "title": "27-Jähriger wegen Schleusung von 41 Menschen verurteilt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/frankfurt-landgericht-schleuser-freigesprochen.html",
-      "date": "Wed, 17 Jun 2026 17:03:14 +0200"
-    },
-    {
-      "title": "Lausitz: Historische Regimentkanone M1943 im Grenzfluss Neiße gefunden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-forst-neisse-regimentkanone-m1943-fund.html",
-      "date": "Wed, 17 Jun 2026 16:46:48 +0200"
-    },
-    {
-      "title": "Regionalzüge entlasten S-Bahnstrecke im Berliner Südosten während Bauarbeiten",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/odeg-zusaetzliche-regionalzuege-s-bahn-berlin-s46-s47-s8-s85-bauarbeiten.html",
-      "date": "Wed, 17 Jun 2026 16:45:39 +0200"
-    },
-    {
-      "title": "Elbe-Elster: Rund 30 russische Fliegerbomben und Flak bei Arbeiten in Schacksdorf entdeckt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-schacksdorf-bomben-fund-ex-militaerflugplatz-solarpark.html",
-      "date": "Wed, 17 Jun 2026 16:36:03 +0200"
     }
   ]
 }
