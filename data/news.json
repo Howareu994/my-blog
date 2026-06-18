@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Berlin-Mitte plant erleichterte Genehmigungen für Open-Air-Feste",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-bezirk-mitte-open-air-veranstaltungen-leichter-moeglich.html",
+      "date": "Thu, 18 Jun 2026 06:46:24 +0200"
+    },
+    {
+      "title": "Mietenkataster für Berlin im Kampf gegen Wuchermieten",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/06/Berlin-Mietenkataster-Kampf-Wuchermiete.html",
+      "date": "Thu, 18 Jun 2026 06:17:00 +0200"
+    },
+    {
       "title": "Alba Berlin verliert Spiel drei der Finalserie gegen Bayern München",
       "link": "https://www.rbb24.de/sport/beitrag/2026/06/basketball-playoffs-finale-alba-berlin-bayern-muenchen-spiel-dre.html",
       "date": "Wed, 17 Jun 2026 22:54:58 +0200"
@@ -16,6 +26,11 @@
       "date": "Wed, 17 Jun 2026 21:42:48 +0200"
     },
     {
+      "title": "Zum Wechsel von Fabian Reese: Mit Verlaub - Wolfsburg?",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-zweite-liga-hertha-bsc-reese-wechsel-kommentar.html",
+      "date": "Wed, 17 Jun 2026 18:21:07 +0200"
+    },
+    {
       "title": "Berliner Polizei ermittelt gegen Beamte wegen möglicher Körperverletzung im Amt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-polizei-ermittelt-gewalt-durch-beamte.html",
       "date": "Wed, 17 Jun 2026 18:18:13 +0200"
@@ -24,6 +39,11 @@
       "title": "Sekundarschule in Steglitz-Zehlendorf protestiert gegen Auslagerung von Siebtklässlern",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-max-von-laue-gymnasium-siebte-klassen-ausgelagert.html",
       "date": "Wed, 17 Jun 2026 18:17:22 +0200"
+    },
+    {
+      "title": "Abgang nach drei Jahren: Hertha-Kapitän Reese wechselt zum VfL Wolfsburg",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-berlin-hertha-bsc-wechsel-abgang-vfl-wolfsburg.html",
+      "date": "Wed, 17 Jun 2026 17:54:29 +0200"
     },
     {
       "title": "Zugang zur Kaiser-Wilhelm-Gedächtniskirche soll Eintritt kosten",
@@ -39,26 +59,6 @@
       "title": "Straßentunnel am Berliner Alexanderplatz wird ab Montag voll gesperrt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-alexanderplatz-strassentunnel-sperrung.html",
       "date": "Wed, 17 Jun 2026 17:25:08 +0200"
-    },
-    {
-      "title": "Supermarktkette Go Asia ruft Instantnudeln und Austern zurück",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/supermarktkette-go-asia-rueckruf-instandnudeln-und-austern.html",
-      "date": "Wed, 17 Jun 2026 17:21:12 +0200"
-    },
-    {
-      "title": "Lausitz: Historische Regimentkanone M1943 im Grenzfluss Neiße gefunden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-forst-neisse-regimentkanone-m1943-fund.html",
-      "date": "Wed, 17 Jun 2026 16:46:48 +0200"
-    },
-    {
-      "title": "Regionalzüge entlasten S-Bahnstrecke im Berliner Südosten während Bauarbeiten",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/odeg-zusaetzliche-regionalzuege-s-bahn-berlin-s46-s47-s8-s85-bauarbeiten.html",
-      "date": "Wed, 17 Jun 2026 16:45:39 +0200"
-    },
-    {
-      "title": "Elbe-Elster: Rund 30 russische Fliegerbomben und Flak bei Arbeiten in Schacksdorf entdeckt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-schacksdorf-bomben-fund-ex-militaerflugplatz-solarpark.html",
-      "date": "Wed, 17 Jun 2026 16:36:03 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Berlin-Mitte plant erleichterte Genehmigungen für Open-Air-Feste",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-bezirk-mitte-open-air-veranstaltungen-leichter-moeglich.html",
+      "date": "Thu, 18 Jun 2026 06:46:24 +0200"
+    },
+    {
       "title": "Teilnehmer des CSD in Eberswalde demonstrieren für Vielfalt und Akzeptanz",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/eberswalde-csd-demonstration-toleranz.html",
       "date": "Wed, 17 Jun 2026 21:42:48 +0200"
@@ -181,11 +186,6 @@
       "title": "Elbe-Elster: Rund 30 russische Fliegerbomben und Flak bei Arbeiten in Schacksdorf entdeckt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-schacksdorf-bomben-fund-ex-militaerflugplatz-solarpark.html",
       "date": "Wed, 17 Jun 2026 16:36:03 +0200"
-    },
-    {
-      "title": "Bauarbeiten am Oder-Neiße-Radweg haben begonnen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/uckermark-berlin-ostsee-radweg-oder-neisse-fahrrad.html",
-      "date": "Wed, 17 Jun 2026 15:16:22 +0200"
     }
   ]
 }
