@@ -1,67 +1,87 @@
 {
   "traffic": [
     {
+      "title": "Basketball live: Viertes Finalspiel zwischen Alba und München",
+      "link": "https://www.rbb24.de/sport/hintergrund/livestream/livestream-basketball-bbl-playoffs-finale-spiel-4-alba-berlin-bayern-muenchen.html",
+      "date": "Fri, 19 Jun 2026 20:30:00 +0200"
+    },
+    {
+      "title": "Weltkriegsmunition: Drei Bomben und fast 300 Granaten in Schacksdorf erfolgreich gesprengt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-lichterfeld-schacksdorf-bomben-fund-sprengung-ex-militaerflugplatz.html",
+      "date": "Fri, 19 Jun 2026 14:35:52 +0200"
+    },
+    {
+      "title": "Liveticker: Hitzewelle in Berlin und Brandenburg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-hitze-wetter-ticker.html",
+      "date": "Fri, 19 Jun 2026 14:28:11 +0200"
+    },
+    {
+      "title": "Anzeige nach Insolvenz: Potsdamer Volleyballchaos hat Nachspiel",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/volleyball-bundesliga-vbl-sc-potsdam-insolvenzverfahren-strafanzeige.html",
+      "date": "Fri, 19 Jun 2026 14:12:00 +0200"
+    },
+    {
+      "title": "Berlin-Brandenburg: Wetterdienst warnt vor Hitze und Gewittern",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-berlin-wetter-sommer-gewitter-hitze.html",
+      "date": "Fri, 19 Jun 2026 13:47:52 +0200"
+    },
+    {
       "title": "Berlin Tennis Open: Viertelfinals finden auch bei Hitze statt",
       "link": "https://www.rbb24.de/sport/beitrag/2026/06/tennis-wta-turnier-berlin-open-liveticker-gauff-sabalenka-williams.html",
-      "date": "Fri, 19 Jun 2026 10:46:44 +0200"
+      "date": "Fri, 19 Jun 2026 13:25:08 +0200"
     },
     {
-      "title": "Gesetz für Auftragsvergabe und Gaststätten in Berlin geändert",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/06/berlin-abgeordnetenhaus-gesetz-aenderung-gaststaetten-cafes-auftraege-vergabe.html",
-      "date": "Fri, 19 Jun 2026 10:41:16 +0200"
+      "title": "Jagdschloss Schorfheide: Ausstellung \"Jagd und Macht\" eröffnet",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/ausstellung-barnim-schorfheide-dokumentationszentrum-jagd-macht-honecker.html",
+      "date": "Fri, 19 Jun 2026 13:10:28 +0200"
     },
     {
-      "title": "Kings of Leon in Berlin: Gänsehaut, Durst und Sex on Fire",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/konzert-kings-of-leon-zitadelle-spandau-berlin.html",
-      "date": "Fri, 19 Jun 2026 09:46:14 +0200"
+      "title": "Lausitzring im Wandel: Mehr als nur eine Rennstrecke für die DTM",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/dtm-wochenende-lausitzring-motorsport-dekra-teststrecke.html",
+      "date": "Fri, 19 Jun 2026 12:29:57 +0200"
     },
     {
-      "title": "Zerkarien in Berliner Badegewässern festgestellt - ungewöhnlich früh",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-baden-gewaesser-see-qualitaet.html",
-      "date": "Fri, 19 Jun 2026 09:40:06 +0200"
+      "title": "Oranienburger Stadtverwaltung nach Cyberangriff nicht erreichbar",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/06/oranienburg-cyberangriff-stadtverwaltung-netzwerk-offline-nicht-erreichbar.html",
+      "date": "Fri, 19 Jun 2026 11:57:52 +0200"
     },
     {
-      "title": "Feuerwehr löscht brennende Altpapierhalle in Rathenow",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/rathenow-havelland-feuer-brand-altpapier-starke-rauchentwicklung.html",
-      "date": "Fri, 19 Jun 2026 09:26:46 +0200"
+      "title": "U-Ausschuss will Ordnungsgeld gegen Ex-Senator Chialo beantragen",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/06/berlin-foerdergeld-affaere-antisemitismus-chialo-ordnungsgeld-senat.html",
+      "date": "Fri, 19 Jun 2026 11:49:01 +0200"
     },
     {
-      "title": "Bericht: Finanzkrise in Brandenburger Kommunen verschärft sich",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/06/brandenburg-kommunen-haushalt-defizit-finanzkrise-bertelsmann-stiftung.html",
-      "date": "Fri, 19 Jun 2026 09:10:00 +0200"
+      "title": "WM-Kolumne: Am Fuß wie auf dem Rasen - rosaroter Einheitsbrei",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-weltmeisterschaft-kolumne-schuhe-rosa-pink.html",
+      "date": "Fri, 19 Jun 2026 11:43:05 +0200"
     },
     {
-      "title": "Fund in Schacksdorf: Drei von 32 Fliegerbomben müssen gesprengt werden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-lichterfeld-schacksdorf-bomben-fund-sprengung-ex-militaerflugplatz.html",
-      "date": "Fri, 19 Jun 2026 08:06:07 +0200"
-    },
-    {
-      "title": "Verdi ruft Berliner Ikea-Beschäftigte am Freitag zu Warnstreik auf",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/berlin-warnstreik-einzelhandel-ikea-verdi.html",
-      "date": "Fri, 19 Jun 2026 08:05:32 +0200"
-    },
-    {
-      "title": "Berlin-Brandenburg: Wetterdienst warnt vor Hitze und Gewitter",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-berlin-wetter-sommer-gewitter-hitze.html",
-      "date": "Fri, 19 Jun 2026 07:27:35 +0200"
-    },
-    {
-      "title": "Wunden, die nicht heilen können",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/strassenambulanz-berlin-obdachlosigkeit-medizin-stadtmission.html",
-      "date": "Fri, 19 Jun 2026 06:20:07 +0200"
-    },
-    {
-      "title": "Wahrenbrück (Elbe-Elster) soll bis Ende 2027 eine neue Brücke bekommen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brueckensperrung-wahrenbrueck-elbe-elster-loesung.html",
-      "date": "Thu, 18 Jun 2026 20:44:14 +0200"
-    },
-    {
-      "title": "Vermisster Döberner: Video von Geständnis in Prozess in Kapstadt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-vermisster-deutscher-prozess-gestaendnis-ueberfall.html",
-      "date": "Thu, 18 Jun 2026 20:37:05 +0200"
+      "title": "Berlin-Wilmersdorf: Sanierung des Schlangenbader Tunnels verzögert sich weiter",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/berlin-schlangenbader-tunnel-autobahn-baustelle.html",
+      "date": "Fri, 19 Jun 2026 11:22:13 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Polizeikontrolle entzogen und Verkehrsunfälle verursacht",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1683870.php",
+      "date": "Fri, 19 Jun 2026 12:57:00 +0200"
+    },
+    {
+      "title": "Angegriffen, randaliert und Einsatzfahrzeug beschädigt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1683863.php",
+      "date": "Fri, 19 Jun 2026 12:50:00 +0200"
+    },
+    {
+      "title": "Mann in hilflosem Zustand noch nicht identifiziert - Polizei bittet erneut um Mithilfe",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2025/pressemitteilung.1552535.php",
+      "date": "Fri, 19 Jun 2026 12:04:00 +0200"
+    },
+    {
+      "title": "Drei Verletzte Personen nach Verkehrsunfall",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1683808.php",
+      "date": "Fri, 19 Jun 2026 11:43:00 +0200"
+    },
     {
       "title": "Verkehrsunfall nach mutmaßlichem Driftmanöver",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1683586.php",
@@ -101,32 +121,27 @@
       "title": "Junge Frau vermisst – Polizei bittet um Mithilfe",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1682776.php",
       "date": "Wed, 17 Jun 2026 14:19:20 +0200"
-    },
-    {
-      "title": "Seniorin bei Bremsmanöver in Linienbus verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1682628.php",
-      "date": "Wed, 17 Jun 2026 11:19:36 +0200"
-    },
-    {
-      "title": "Einbrecher mithilfe des DEIG festgenommen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1682621.php",
-      "date": "Wed, 17 Jun 2026 11:15:43 +0200"
-    },
-    {
-      "title": "Randalierer im Kaufhaus festgenommen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1682367.php",
-      "date": "Tue, 16 Jun 2026 14:41:13 +0200"
-    },
-    {
-      "title": "Flasche auf Einsatzwagen geworfen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1682286.php",
-      "date": "Tue, 16 Jun 2026 12:45:43 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Weltkriegsmunition: Drei Bomben und fast 300 Granaten in Schacksdorf erfolgreich gesprengt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-lichterfeld-schacksdorf-bomben-fund-sprengung-ex-militaerflugplatz.html",
+      "date": "Fri, 19 Jun 2026 14:35:52 +0200"
+    },
+    {
+      "title": "Liveticker: Hitzewelle in Berlin und Brandenburg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-hitze-wetter-ticker.html",
+      "date": "Fri, 19 Jun 2026 14:28:11 +0200"
+    },
+    {
+      "title": "Berlin-Brandenburg: Wetterdienst warnt vor Hitze und Gewittern",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-berlin-wetter-sommer-gewitter-hitze.html",
+      "date": "Fri, 19 Jun 2026 13:47:52 +0200"
+    },
     {
       "title": "Zerkarien in Berliner Badegewässern festgestellt - ungewöhnlich früh",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-baden-gewaesser-see-qualitaet.html",
@@ -136,16 +151,6 @@
       "title": "Feuerwehr löscht brennende Altpapierhalle in Rathenow",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/rathenow-havelland-feuer-brand-altpapier-starke-rauchentwicklung.html",
       "date": "Fri, 19 Jun 2026 09:26:46 +0200"
-    },
-    {
-      "title": "Fund in Schacksdorf: Drei von 32 Fliegerbomben müssen gesprengt werden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-lichterfeld-schacksdorf-bomben-fund-sprengung-ex-militaerflugplatz.html",
-      "date": "Fri, 19 Jun 2026 08:06:07 +0200"
-    },
-    {
-      "title": "Berlin-Brandenburg: Wetterdienst warnt vor Hitze und Gewitter",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-berlin-wetter-sommer-gewitter-hitze.html",
-      "date": "Fri, 19 Jun 2026 07:27:35 +0200"
     },
     {
       "title": "Wunden, die nicht heilen können",
@@ -170,7 +175,7 @@
     {
       "title": "Landtag Brandenburg beschließt ersten Bürgerrat",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/landtag-brandenburg-buergerrat-beschluss.html",
-      "date": "Thu, 18 Jun 2026 18:49:29 +0200"
+      "date": "Thu, 18 Jun 2026 18:49:00 +0200"
     },
     {
       "title": "Veteranentag: Teile des Regierungsviertels am Sonntag gesperrt",
@@ -181,11 +186,6 @@
       "title": "Mann versprüht Pfefferspray in Berliner Bus - neun Verletzte",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-gropiusstadt-linienbus-streit-pfefferspray-verletzte.html",
       "date": "Thu, 18 Jun 2026 16:53:34 +0200"
-    },
-    {
-      "title": "Berliner Feuerwehr-Chef Homrighausen im Interview",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/175-jahre-berliner-feuerwehr-interview-landesbranddirektor-karsten-homrighausen.html",
-      "date": "Thu, 18 Jun 2026 16:46:00 +0200"
     }
   ]
 }
