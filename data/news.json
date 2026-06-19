@@ -1,14 +1,29 @@
 {
   "traffic": [
     {
+      "title": "Veterinäramt überprüft Ziegenbetrieb in der Prignitz",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/vorwurf-gegen-ziegenbetrieb-prignitz-veterinaeramt-prueft.html",
+      "date": "Fri, 19 Jun 2026 21:08:51 +0200"
+    },
+    {
+      "title": "Basketball live: Viertes Finalspiel zwischen Alba und München",
+      "link": "https://www.rbb24.de/sport/hintergrund/livestream/livestream-basketball-bbl-playoffs-finale-spiel-4-alba-berlin-bayern-muenchen.html",
+      "date": "Fri, 19 Jun 2026 20:30:00 +0200"
+    },
+    {
+      "title": "Berliner Fördergeld-Ausschuss hat letzte Zeugen befragt",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/06/berlin-foerdergeld-ausschuss-letzte-zeugen-befragt.html",
+      "date": "Fri, 19 Jun 2026 20:23:48 +0200"
+    },
+    {
+      "title": "Berlin Tennis Open: Philippinerin Eala besiegt auch Svitolina",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/tennis-wta-turnier-berlin-open-liveticker-gauff-sabalenka-williams.html",
+      "date": "Fri, 19 Jun 2026 19:58:10 +0200"
+    },
+    {
       "title": "Liveticker: Hitzewelle in Berlin und Brandenburg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-hitze-wetter-ticker.html",
       "date": "Fri, 19 Jun 2026 19:10:57 +0200"
-    },
-    {
-      "title": "Berlin Tennis Open: Sabalenka folgt Pegula nach Satzrückstand ins Halbfinale",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/tennis-wta-turnier-berlin-open-liveticker-gauff-sabalenka-williams.html",
-      "date": "Fri, 19 Jun 2026 18:58:27 +0200"
     },
     {
       "title": "CSD: Erstmals Regenbogenfahne in Golßen gehisst",
@@ -44,21 +59,6 @@
       "title": "Wechsel nach Katowice: Knigge verlässt die BR Volleys",
       "link": "https://www.rbb24.de/sport/beitrag/2026/06/vbl-matthew-knigge-verlaesst-br-volleys-transfer-katowice.html",
       "date": "Fri, 19 Jun 2026 15:50:57 +0200"
-    },
-    {
-      "title": "Bertolt Brechts Sommerresidenz: Buckow soll zur \"Brecht-Stadt\" werden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/maerkisch-oderland-buckow-bertolt-brecht-brechtstadt-namenszusatz.html",
-      "date": "Fri, 19 Jun 2026 14:55:50 +0200"
-    },
-    {
-      "title": "Aufstiegsrelegation: Hertha-Frauen bleiben vor Rückspiel wachsam",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/hertha-frauen-aufstieg-2-bundesliga-rueckspiel-saarbruecken-stre.html",
-      "date": "Fri, 19 Jun 2026 14:54:02 +0200"
-    },
-    {
-      "title": "Weltkriegsmunition: Bomben und Granaten in Schacksdorf gesprengt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-lichterfeld-schacksdorf-bomben-fund-sprengung-ex-militaerflugplatz.html",
-      "date": "Fri, 19 Jun 2026 14:35:00 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Veterinäramt überprüft Ziegenbetrieb in der Prignitz",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/vorwurf-gegen-ziegenbetrieb-prignitz-veterinaeramt-prueft.html",
+      "date": "Fri, 19 Jun 2026 21:08:51 +0200"
+    },
+    {
       "title": "Liveticker: Hitzewelle in Berlin und Brandenburg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-hitze-wetter-ticker.html",
       "date": "Fri, 19 Jun 2026 19:10:57 +0200"
@@ -181,11 +186,6 @@
       "title": "Feuerwehr löscht brennende Altpapierhalle in Rathenow",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/rathenow-havelland-feuer-brand-altpapier-starke-rauchentwicklung.html",
       "date": "Fri, 19 Jun 2026 09:26:46 +0200"
-    },
-    {
-      "title": "Wunden, die nicht heilen können",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/strassenambulanz-berlin-obdachlosigkeit-medizin-stadtmission.html",
-      "date": "Fri, 19 Jun 2026 06:20:00 +0200"
     }
   ]
 }
