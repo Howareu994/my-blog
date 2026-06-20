@@ -1,19 +1,39 @@
 {
   "traffic": [
     {
+      "title": "Liveticker: Hitzewelle in Berlin und Brandenburg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-hitze-wetter-ticker.html",
+      "date": "Sat, 20 Jun 2026 18:40:34 +0200"
+    },
+    {
       "title": "Berlin Tennis Open: Philippinerin Eala besiegt auch Svitolina",
       "link": "https://www.rbb24.de/sport/beitrag/2026/06/tennis-wta-turnier-berlin-open-liveticker-gauff-sabalenka-williams.html",
-      "date": "Sat, 20 Jun 2026 17:19:17 +0200"
+      "date": "Sat, 20 Jun 2026 18:25:51 +0200"
+    },
+    {
+      "title": "Berlin-Wilmersdorf: Feuerwehr stößt mit Auto zusammen - mehrere Verletzte",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/feuerwehr-auto-kollision-verletzte-berlin.html",
+      "date": "Sat, 20 Jun 2026 17:59:27 +0200"
+    },
+    {
+      "title": "Italiener Mapelli feiert ersten DTM-Sieg auf dem Lausitzring",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/motorsport-dtm-lausitzring-sieger-marco-mapelli.html",
+      "date": "Sat, 20 Jun 2026 17:37:11 +0200"
+    },
+    {
+      "title": "Berlin wirbt bei Fachverbänden für Olympia-Bewerbung",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/olympia-berlin-delegation-dosb-sportverbaende-politik.html",
+      "date": "Sat, 20 Jun 2026 17:34:47 +0200"
+    },
+    {
+      "title": "Berlin: Hunderte Schwimmer fordern Aufhebung des Badeverbots in Spree",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/demonstration-schwimmer-spree-badeverbot.html",
+      "date": "Sat, 20 Jun 2026 17:30:06 +0200"
     },
     {
       "title": "Sport bei Hitze: \"Viele tun sich schwer damit, den Ehrgeiz zurückzustecken\"",
       "link": "https://www.rbb24.de/sport/beitrag/2026/06/interview-sport-bei-hitze-sommer-gefahren-tipps-deborah-schoeneborn.html",
       "date": "Sat, 20 Jun 2026 17:11:06 +0200"
-    },
-    {
-      "title": "Liveticker: Hitzewelle in Berlin und Brandenburg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-hitze-wetter-ticker.html",
-      "date": "Sat, 20 Jun 2026 16:42:44 +0200"
     },
     {
       "title": "Berlin-Kreuzberg: Rassistischer Angriff auf Frau - Staatsschutz ermittelt",
@@ -39,26 +59,6 @@
       "title": "Alba Berlin gleicht Finalserie aus: Sie können nicht anders",
       "link": "https://www.rbb24.de/sport/beitrag/2026/06/alba-berlin-fc-bayern-basketball-finale-deutsche-meisterschaft-spiel-4.html",
       "date": "Sat, 20 Jun 2026 11:23:45 +0200"
-    },
-    {
-      "title": "Berliner Schiedsrichter Zwayer bei WM-Debüt mit Krämpfen im Fokus",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-wm-2026-berlin-schiedsrichter-felix-zwayer-debuet-kraempfe.html",
-      "date": "Sat, 20 Jun 2026 11:23:22 +0200"
-    },
-    {
-      "title": "Berlin-Lichtenberg: Auto überschlägt sich - drei Menschen verletzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-lichtenberg-verkehrsunfall-drei-verletzte.html",
-      "date": "Sat, 20 Jun 2026 10:32:48 +0200"
-    },
-    {
-      "title": "Deutscher WM-Gegner Elfenbeinküste: \"Fußball ist für uns nicht nur ein Spiel\"",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/wm-interview-elfenbeinkueste-deutschland-fan-.html",
-      "date": "Sat, 20 Jun 2026 07:16:19 +0200"
-    },
-    {
-      "title": "BBL-Finalserie: Alba siegt und zwingt Bayern ins Entscheidungsspiel",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/basketball-bundesliga-finale-spiel-4-alba-bayern-.html",
-      "date": "Fri, 19 Jun 2026 23:13:04 +0200"
     }
   ],
   "police": [
@@ -130,7 +130,17 @@
     {
       "title": "Liveticker: Hitzewelle in Berlin und Brandenburg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-hitze-wetter-ticker.html",
-      "date": "Sat, 20 Jun 2026 16:42:44 +0200"
+      "date": "Sat, 20 Jun 2026 18:40:34 +0200"
+    },
+    {
+      "title": "Berlin-Wilmersdorf: Feuerwehr stößt mit Auto zusammen - mehrere Verletzte",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/feuerwehr-auto-kollision-verletzte-berlin.html",
+      "date": "Sat, 20 Jun 2026 17:59:27 +0200"
+    },
+    {
+      "title": "Berlin: Hunderte Schwimmer fordern Aufhebung des Badeverbots in Spree",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/demonstration-schwimmer-spree-badeverbot.html",
+      "date": "Sat, 20 Jun 2026 17:30:06 +0200"
     },
     {
       "title": "Berlin-Kreuzberg: Rassistischer Angriff auf Frau - Staatsschutz ermittelt",
@@ -176,16 +186,6 @@
       "title": "An der Tanke: \"Ein Trabant 601 wäre schon ein Traumauto\"",
       "link": "https://www.rbb24.de/panorama/thema/an-der-tanke/brandenburg-an-der-tanke-schueler-moped-simson.html",
       "date": "Fri, 19 Jun 2026 17:18:13 +0200"
-    },
-    {
-      "title": "Marode oder defekt - zahlreiche Berliner Brunnen sind außer Betrieb",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brunnen-berlin-trocken-ausser-betrieb.html",
-      "date": "Fri, 19 Jun 2026 16:29:42 +0200"
-    },
-    {
-      "title": "Landkreis lehnt Jagd auf Werderaner Friedhofsrehe vorerst ab",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/werder-havel-jagd-rehe-neuer-friedhof-ausnahmegenehmigung-jagdgesetz.html",
-      "date": "Fri, 19 Jun 2026 16:21:50 +0200"
     }
   ]
 }
