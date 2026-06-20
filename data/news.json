@@ -1,9 +1,29 @@
 {
   "traffic": [
     {
-      "title": "Alba Berlin gleicht Finalserie wieder aus: Sie können nicht anders",
+      "title": "Berlin-Lichtenberg: Auto überschlägt sich - drei Menschen verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-lichtenberg-verkehrsunfall-drei-verletzte.html",
+      "date": "Sat, 20 Jun 2026 10:32:48 +0200"
+    },
+    {
+      "title": "Alba Berlin gleicht Finalserie aus: Sie können nicht anders",
       "link": "https://www.rbb24.de/sport/beitrag/2026/06/alba-berlin-fc-bayern-basketball-finale-deutsche-meisterschaft-spiel-4.html",
-      "date": "Sat, 20 Jun 2026 02:21:00 +0200"
+      "date": "Sat, 20 Jun 2026 08:59:00 +0200"
+    },
+    {
+      "title": "Liveticker: Hitzewelle in Berlin und Brandenburg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-hitze-wetter-ticker.html",
+      "date": "Sat, 20 Jun 2026 08:52:08 +0200"
+    },
+    {
+      "title": "Mit der VR-Brille in Berliner Techno-Clubs, die längst verschwunden sind",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/digitales-archiv-berlin-techno-clubkultur-forschung.html",
+      "date": "Sat, 20 Jun 2026 07:17:44 +0200"
+    },
+    {
+      "title": "Deutscher WM-Gegner Elfenbeinküste: \"Fußball ist für uns nicht nur ein Spiel\"",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/wm-interview-elfenbeinkueste-deutschland-fan-.html",
+      "date": "Sat, 20 Jun 2026 07:16:19 +0200"
     },
     {
       "title": "Veterinäramt überprüft Ziegenbetrieb in der Prignitz",
@@ -21,11 +41,6 @@
       "date": "Fri, 19 Jun 2026 19:58:10 +0200"
     },
     {
-      "title": "Liveticker: Hitzewelle in Berlin und Brandenburg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-hitze-wetter-ticker.html",
-      "date": "Fri, 19 Jun 2026 19:10:57 +0200"
-    },
-    {
       "title": "CSD: Erstmals Regenbogenfahne in Golßen gehisst",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-golssen-csd-regenbogenfahne-hape-kerkeling-schirmherr.html",
       "date": "Fri, 19 Jun 2026 18:09:59 +0200"
@@ -39,26 +54,6 @@
       "title": "An der Tanke: \"Ein Trabant 601 wäre schon ein Traumauto\"",
       "link": "https://www.rbb24.de/panorama/thema/an-der-tanke/brandenburg-an-der-tanke-schueler-moped-simson.html",
       "date": "Fri, 19 Jun 2026 17:18:13 +0200"
-    },
-    {
-      "title": "Mähroboter: Dahme-Spreewald erlässt Nachtfahrverbot",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/06/dahme-spreewald-verbot-nachtfahrverbot-maehroboter-igel-kleintiere-garten.html",
-      "date": "Fri, 19 Jun 2026 17:02:34 +0200"
-    },
-    {
-      "title": "Bauen in Brandenburg soll schneller und günstiger werden",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/06/brandenburg-bauen-wohnungen-schneller-guenstiger-landtag.html",
-      "date": "Fri, 19 Jun 2026 16:34:51 +0200"
-    },
-    {
-      "title": "Landkreis lehnt Jagd auf Werderaner Friedhofsrehe vorerst ab",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/werder-havel-jagd-rehe-neuer-friedhof-ausnahmegenehmigung-jagdgesetz.html",
-      "date": "Fri, 19 Jun 2026 16:21:50 +0200"
-    },
-    {
-      "title": "Wechsel nach Katowice: Knigge verlässt die BR Volleys",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/vbl-matthew-knigge-verlaesst-br-volleys-transfer-katowice.html",
-      "date": "Fri, 19 Jun 2026 15:50:57 +0200"
     }
   ],
   "police": [
@@ -128,14 +123,19 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Veterinäramt überprüft Ziegenbetrieb in der Prignitz",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/vorwurf-gegen-ziegenbetrieb-prignitz-veterinaeramt-prueft.html",
-      "date": "Fri, 19 Jun 2026 21:08:51 +0200"
+      "title": "Berlin-Lichtenberg: Auto überschlägt sich - drei Menschen verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-lichtenberg-verkehrsunfall-drei-verletzte.html",
+      "date": "Sat, 20 Jun 2026 10:32:48 +0200"
     },
     {
       "title": "Liveticker: Hitzewelle in Berlin und Brandenburg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-hitze-wetter-ticker.html",
-      "date": "Fri, 19 Jun 2026 19:10:57 +0200"
+      "date": "Sat, 20 Jun 2026 08:52:08 +0200"
+    },
+    {
+      "title": "Veterinäramt überprüft Ziegenbetrieb in der Prignitz",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/vorwurf-gegen-ziegenbetrieb-prignitz-veterinaeramt-prueft.html",
+      "date": "Fri, 19 Jun 2026 21:08:51 +0200"
     },
     {
       "title": "CSD: Erstmals Regenbogenfahne in Golßen gehisst",
@@ -181,11 +181,6 @@
       "title": "Zerkarien in Berliner Badegewässern festgestellt - ungewöhnlich früh",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-baden-gewaesser-see-qualitaet.html",
       "date": "Fri, 19 Jun 2026 09:40:06 +0200"
-    },
-    {
-      "title": "Feuerwehr löscht brennende Altpapierhalle in Rathenow",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/rathenow-havelland-feuer-brand-altpapier-starke-rauchentwicklung.html",
-      "date": "Fri, 19 Jun 2026 09:26:46 +0200"
     }
   ]
 }
