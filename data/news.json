@@ -1,14 +1,19 @@
 {
   "traffic": [
     {
-      "title": "Liveticker: Hitzewelle in Berlin und Brandenburg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-hitze-wetter-ticker.html",
-      "date": "Sat, 20 Jun 2026 14:18:35 +0200"
-    },
-    {
       "title": "Berlin Tennis Open: Philippinerin Eala besiegt auch Svitolina",
       "link": "https://www.rbb24.de/sport/beitrag/2026/06/tennis-wta-turnier-berlin-open-liveticker-gauff-sabalenka-williams.html",
-      "date": "Sat, 20 Jun 2026 14:04:55 +0200"
+      "date": "Sat, 20 Jun 2026 17:19:17 +0200"
+    },
+    {
+      "title": "Sport bei Hitze: \"Viele tun sich schwer damit, den Ehrgeiz zurückzustecken\"",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/interview-sport-bei-hitze-sommer-gefahren-tipps-deborah-schoeneborn.html",
+      "date": "Sat, 20 Jun 2026 17:11:06 +0200"
+    },
+    {
+      "title": "Liveticker: Hitzewelle in Berlin und Brandenburg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-hitze-wetter-ticker.html",
+      "date": "Sat, 20 Jun 2026 16:42:44 +0200"
     },
     {
       "title": "Berlin-Kreuzberg: Rassistischer Angriff auf Frau - Staatsschutz ermittelt",
@@ -19,6 +24,11 @@
       "title": "Mit der VR-Brille in Berliner Techno-Clubs, die längst verschwunden sind",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/06/digitales-archiv-berlin-techno-clubkultur-forschung.html",
       "date": "Sat, 20 Jun 2026 12:38:51 +0200"
+    },
+    {
+      "title": "Ehrenamt in der Hospizarbeit: Den letzten Weg geht niemand allein",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/ehrenamt-hospizarbeit-lebensende-begleitung.html",
+      "date": "Sat, 20 Jun 2026 12:32:38 +0200"
     },
     {
       "title": "Hitzewelle: Fensterscheibe fällt aus dem 9. Stock der Cottbuser Spree-Galerie",
@@ -49,16 +59,6 @@
       "title": "BBL-Finalserie: Alba siegt und zwingt Bayern ins Entscheidungsspiel",
       "link": "https://www.rbb24.de/sport/beitrag/2026/06/basketball-bundesliga-finale-spiel-4-alba-bayern-.html",
       "date": "Fri, 19 Jun 2026 23:13:04 +0200"
-    },
-    {
-      "title": "Veterinäramt überprüft Ziegenbetrieb in der Prignitz",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/vorwurf-gegen-ziegenbetrieb-prignitz-veterinaeramt-prueft.html",
-      "date": "Fri, 19 Jun 2026 21:08:51 +0200"
-    },
-    {
-      "title": "Berliner Fördergeld-Ausschuss hat letzte Zeugen befragt",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/06/berlin-foerdergeld-ausschuss-letzte-zeugen-befragt.html",
-      "date": "Fri, 19 Jun 2026 20:23:48 +0200"
     }
   ],
   "police": [
@@ -130,7 +130,7 @@
     {
       "title": "Liveticker: Hitzewelle in Berlin und Brandenburg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-hitze-wetter-ticker.html",
-      "date": "Sat, 20 Jun 2026 14:18:35 +0200"
+      "date": "Sat, 20 Jun 2026 16:42:44 +0200"
     },
     {
       "title": "Berlin-Kreuzberg: Rassistischer Angriff auf Frau - Staatsschutz ermittelt",
