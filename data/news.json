@@ -61,68 +61,7 @@
       "date": "Sat, 20 Jun 2026 12:32:38 +0200"
     }
   ],
-  "police": [
-    {
-      "title": "Mann bei Raub verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684086.php",
-      "date": "Sat, 20 Jun 2026 13:41:00 +0200"
-    },
-    {
-      "title": "Auto in Gegenverkehr geschleudert – drei Verletzte",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684084.php",
-      "date": "Sat, 20 Jun 2026 13:01:00 +0200"
-    },
-    {
-      "title": "Frau geschlagen, getreten und fremdenfeindlich beleidigt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684083.php",
-      "date": "Sat, 20 Jun 2026 11:17:00 +0200"
-    },
-    {
-      "title": "Bei schwerem Raub verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684082.php",
-      "date": "Sat, 20 Jun 2026 11:10:00 +0200"
-    },
-    {
-      "title": "Polizeikontrolle entzogen und Verkehrsunfälle verursacht",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1683870.php",
-      "date": "Fri, 19 Jun 2026 12:57:00 +0200"
-    },
-    {
-      "title": "Angegriffen, randaliert und Einsatzfahrzeug beschädigt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1683863.php",
-      "date": "Fri, 19 Jun 2026 12:50:00 +0200"
-    },
-    {
-      "title": "Mann in hilflosem Zustand noch nicht identifiziert - Polizei bittet erneut um Mithilfe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2025/pressemitteilung.1552535.php",
-      "date": "Fri, 19 Jun 2026 12:04:00 +0200"
-    },
-    {
-      "title": "Drei Verletzte Personen nach Verkehrsunfall",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1683808.php",
-      "date": "Fri, 19 Jun 2026 11:43:00 +0200"
-    },
-    {
-      "title": "Verkehrsunfall nach mutmaßlichem Driftmanöver",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1683586.php",
-      "date": "Thu, 18 Jun 2026 16:50:00 +0200"
-    },
-    {
-      "title": "Bekämpfung der Schusswaffenkriminalität – BAO Ferrum und EG Telum stellen bei Durchsuchungen fünf scharfe Schusswaffen sicher",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1683468.php",
-      "date": "Thu, 18 Jun 2026 15:15:48 +0200"
-    },
-    {
-      "title": "Schüsse auf eine Gaststätte in Tempelhof",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1683417.php",
-      "date": "Thu, 18 Jun 2026 14:22:38 +0200"
-    },
-    {
-      "title": "Reizstoff in Linienbus versprüht – Mehrere Fahrgäste verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1683403.php",
-      "date": "Thu, 18 Jun 2026 14:18:28 +0200"
-    }
-  ],
+  "police": [],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
