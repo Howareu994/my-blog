@@ -1,19 +1,24 @@
 {
   "traffic": [
     {
-      "title": "Mit der VR-Brille in Berliner Techno-Clubs, die längst verschwunden sind",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/digitales-archiv-berlin-techno-clubkultur-forschung.html",
-      "date": "Sat, 20 Jun 2026 12:38:51 +0200"
+      "title": "Liveticker: Hitzewelle in Berlin und Brandenburg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-hitze-wetter-ticker.html",
+      "date": "Sat, 20 Jun 2026 14:18:35 +0200"
     },
     {
       "title": "Berlin Tennis Open: Philippinerin Eala besiegt auch Svitolina",
       "link": "https://www.rbb24.de/sport/beitrag/2026/06/tennis-wta-turnier-berlin-open-liveticker-gauff-sabalenka-williams.html",
-      "date": "Sat, 20 Jun 2026 12:03:49 +0200"
+      "date": "Sat, 20 Jun 2026 14:04:55 +0200"
     },
     {
-      "title": "Liveticker: Hitzewelle in Berlin und Brandenburg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-hitze-wetter-ticker.html",
-      "date": "Sat, 20 Jun 2026 11:59:15 +0200"
+      "title": "Berlin-Kreuzberg: Rassistischer Angriff auf Frau - Staatsschutz ermittelt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-kreuzberg-frau-rassistisch-angegriffen.html",
+      "date": "Sat, 20 Jun 2026 13:28:07 +0200"
+    },
+    {
+      "title": "Mit der VR-Brille in Berliner Techno-Clubs, die längst verschwunden sind",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/digitales-archiv-berlin-techno-clubkultur-forschung.html",
+      "date": "Sat, 20 Jun 2026 12:38:51 +0200"
     },
     {
       "title": "Hitzewelle: Fensterscheibe fällt aus dem 9. Stock der Cottbuser Spree-Galerie",
@@ -54,14 +59,14 @@
       "title": "Berliner Fördergeld-Ausschuss hat letzte Zeugen befragt",
       "link": "https://www.rbb24.de/politik/beitrag/2026/06/berlin-foerdergeld-ausschuss-letzte-zeugen-befragt.html",
       "date": "Fri, 19 Jun 2026 20:23:48 +0200"
-    },
-    {
-      "title": "CSD: Erstmals Regenbogenfahne in Golßen gehisst",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-golssen-csd-regenbogenfahne-hape-kerkeling-schirmherr.html",
-      "date": "Fri, 19 Jun 2026 18:09:59 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Mann bei Raub verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684086.php",
+      "date": "Sat, 20 Jun 2026 13:41:00 +0200"
+    },
     {
       "title": "Auto in Gegenverkehr geschleudert – drei Verletzte",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684084.php",
@@ -116,11 +121,6 @@
       "title": "Reizstoff in Linienbus versprüht – Mehrere Fahrgäste verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1683403.php",
       "date": "Thu, 18 Jun 2026 14:18:28 +0200"
-    },
-    {
-      "title": "Gebissen und Widerstand geleistet – zwei Polizeibeamte verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1683388.php",
-      "date": "Thu, 18 Jun 2026 14:10:54 +0200"
     }
   ],
   "free_events": [],
@@ -128,14 +128,19 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Liveticker: Hitzewelle in Berlin und Brandenburg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-hitze-wetter-ticker.html",
+      "date": "Sat, 20 Jun 2026 14:18:35 +0200"
+    },
+    {
+      "title": "Berlin-Kreuzberg: Rassistischer Angriff auf Frau - Staatsschutz ermittelt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-kreuzberg-frau-rassistisch-angegriffen.html",
+      "date": "Sat, 20 Jun 2026 13:28:07 +0200"
+    },
+    {
       "title": "Ehrenamt in der Hospizarbeit: Den letzten Weg geht niemand allein",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/ehrenamt-hospizarbeit-lebensende-begleitung.html",
       "date": "Sat, 20 Jun 2026 12:32:38 +0200"
-    },
-    {
-      "title": "Liveticker: Hitzewelle in Berlin und Brandenburg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-hitze-wetter-ticker.html",
-      "date": "Sat, 20 Jun 2026 11:59:15 +0200"
     },
     {
       "title": "Warum ein Viadrina-Student seine Zukunft in Polen sieht",
@@ -181,11 +186,6 @@
       "title": "Landkreis lehnt Jagd auf Werderaner Friedhofsrehe vorerst ab",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/werder-havel-jagd-rehe-neuer-friedhof-ausnahmegenehmigung-jagdgesetz.html",
       "date": "Fri, 19 Jun 2026 16:21:50 +0200"
-    },
-    {
-      "title": "Bertolt Brechts Sommerresidenz: Buckow soll zur \"Brecht-Stadt\" werden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/maerkisch-oderland-buckow-bertolt-brecht-brechtstadt-namenszusatz.html",
-      "date": "Fri, 19 Jun 2026 14:55:50 +0200"
     }
   ]
 }
