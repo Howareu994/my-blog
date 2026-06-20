@@ -1,29 +1,49 @@
 {
   "traffic": [
     {
+      "title": "Mit der VR-Brille in Berliner Techno-Clubs, die längst verschwunden sind",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/digitales-archiv-berlin-techno-clubkultur-forschung.html",
+      "date": "Sat, 20 Jun 2026 12:38:51 +0200"
+    },
+    {
+      "title": "Berlin Tennis Open: Philippinerin Eala besiegt auch Svitolina",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/tennis-wta-turnier-berlin-open-liveticker-gauff-sabalenka-williams.html",
+      "date": "Sat, 20 Jun 2026 12:03:49 +0200"
+    },
+    {
+      "title": "Liveticker: Hitzewelle in Berlin und Brandenburg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-hitze-wetter-ticker.html",
+      "date": "Sat, 20 Jun 2026 11:59:15 +0200"
+    },
+    {
+      "title": "Hitzewelle: Fensterscheibe fällt aus dem 9. Stock der Cottbuser Spree-Galerie",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-cottbus-spree-galerie-hitze.html",
+      "date": "Sat, 20 Jun 2026 11:49:39 +0200"
+    },
+    {
+      "title": "Alba Berlin gleicht Finalserie aus: Sie können nicht anders",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/alba-berlin-fc-bayern-basketball-finale-deutsche-meisterschaft-spiel-4.html",
+      "date": "Sat, 20 Jun 2026 11:23:45 +0200"
+    },
+    {
+      "title": "Berliner Schiedsrichter Zwayer bei WM-Debüt mit Krämpfen im Fokus",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-wm-2026-berlin-schiedsrichter-felix-zwayer-debuet-kraempfe.html",
+      "date": "Sat, 20 Jun 2026 11:23:22 +0200"
+    },
+    {
       "title": "Berlin-Lichtenberg: Auto überschlägt sich - drei Menschen verletzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-lichtenberg-verkehrsunfall-drei-verletzte.html",
       "date": "Sat, 20 Jun 2026 10:32:48 +0200"
     },
     {
-      "title": "Alba Berlin gleicht Finalserie aus: Sie können nicht anders",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/alba-berlin-fc-bayern-basketball-finale-deutsche-meisterschaft-spiel-4.html",
-      "date": "Sat, 20 Jun 2026 08:59:00 +0200"
-    },
-    {
-      "title": "Liveticker: Hitzewelle in Berlin und Brandenburg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-hitze-wetter-ticker.html",
-      "date": "Sat, 20 Jun 2026 08:52:08 +0200"
-    },
-    {
-      "title": "Mit der VR-Brille in Berliner Techno-Clubs, die längst verschwunden sind",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/digitales-archiv-berlin-techno-clubkultur-forschung.html",
-      "date": "Sat, 20 Jun 2026 07:17:44 +0200"
-    },
-    {
       "title": "Deutscher WM-Gegner Elfenbeinküste: \"Fußball ist für uns nicht nur ein Spiel\"",
       "link": "https://www.rbb24.de/sport/beitrag/2026/06/wm-interview-elfenbeinkueste-deutschland-fan-.html",
       "date": "Sat, 20 Jun 2026 07:16:19 +0200"
+    },
+    {
+      "title": "BBL-Finalserie: Alba siegt und zwingt Bayern ins Entscheidungsspiel",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/basketball-bundesliga-finale-spiel-4-alba-bayern-.html",
+      "date": "Fri, 19 Jun 2026 23:13:04 +0200"
     },
     {
       "title": "Veterinäramt überprüft Ziegenbetrieb in der Prignitz",
@@ -36,27 +56,27 @@
       "date": "Fri, 19 Jun 2026 20:23:48 +0200"
     },
     {
-      "title": "Berlin Tennis Open: Philippinerin Eala besiegt auch Svitolina",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/tennis-wta-turnier-berlin-open-liveticker-gauff-sabalenka-williams.html",
-      "date": "Fri, 19 Jun 2026 19:58:10 +0200"
-    },
-    {
       "title": "CSD: Erstmals Regenbogenfahne in Golßen gehisst",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-golssen-csd-regenbogenfahne-hape-kerkeling-schirmherr.html",
       "date": "Fri, 19 Jun 2026 18:09:59 +0200"
-    },
-    {
-      "title": "61-Jähriger tot aus Großem Zernsee bei Werder geborgen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/toter-mann-gefunden-werder-grosser-zernsee.html",
-      "date": "Fri, 19 Jun 2026 17:19:41 +0200"
-    },
-    {
-      "title": "An der Tanke: \"Ein Trabant 601 wäre schon ein Traumauto\"",
-      "link": "https://www.rbb24.de/panorama/thema/an-der-tanke/brandenburg-an-der-tanke-schueler-moped-simson.html",
-      "date": "Fri, 19 Jun 2026 17:18:13 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Auto in Gegenverkehr geschleudert – drei Verletzte",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684084.php",
+      "date": "Sat, 20 Jun 2026 13:01:00 +0200"
+    },
+    {
+      "title": "Frau geschlagen, getreten und fremdenfeindlich beleidigt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684083.php",
+      "date": "Sat, 20 Jun 2026 11:17:00 +0200"
+    },
+    {
+      "title": "Bei schwerem Raub verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684082.php",
+      "date": "Sat, 20 Jun 2026 11:10:00 +0200"
+    },
     {
       "title": "Polizeikontrolle entzogen und Verkehrsunfälle verursacht",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1683870.php",
@@ -101,21 +121,6 @@
       "title": "Gebissen und Widerstand geleistet – zwei Polizeibeamte verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1683388.php",
       "date": "Thu, 18 Jun 2026 14:10:54 +0200"
-    },
-    {
-      "title": "Fußgänger nach Verkehrsunfall notoperiert",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1682951.php",
-      "date": "Wed, 17 Jun 2026 16:26:00 +0200"
-    },
-    {
-      "title": "Allgemeinverfügung anlässlich des zweiten nationalen Veteranentages – Einschränkungen im Berliner Regierungsviertel",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1682948.php",
-      "date": "Wed, 17 Jun 2026 16:13:00 +0200"
-    },
-    {
-      "title": "Junge Frau vermisst – Polizei bittet um Mithilfe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1682776.php",
-      "date": "Wed, 17 Jun 2026 14:19:20 +0200"
     }
   ],
   "free_events": [],
@@ -123,14 +128,29 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Berlin-Lichtenberg: Auto überschlägt sich - drei Menschen verletzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-lichtenberg-verkehrsunfall-drei-verletzte.html",
-      "date": "Sat, 20 Jun 2026 10:32:48 +0200"
+      "title": "Ehrenamt in der Hospizarbeit: Den letzten Weg geht niemand allein",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/ehrenamt-hospizarbeit-lebensende-begleitung.html",
+      "date": "Sat, 20 Jun 2026 12:32:38 +0200"
     },
     {
       "title": "Liveticker: Hitzewelle in Berlin und Brandenburg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-hitze-wetter-ticker.html",
-      "date": "Sat, 20 Jun 2026 08:52:08 +0200"
+      "date": "Sat, 20 Jun 2026 11:59:15 +0200"
+    },
+    {
+      "title": "Warum ein Viadrina-Student seine Zukunft in Polen sieht",
+      "link": "https://www.rbb24.de/panorama/thema/wiegehtesuns/student-frankfurt-oder-polen-rueckkehr-familie.html",
+      "date": "Sat, 20 Jun 2026 11:51:56 +0200"
+    },
+    {
+      "title": "Hitzewelle: Fensterscheibe fällt aus dem 9. Stock der Cottbuser Spree-Galerie",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-cottbus-spree-galerie-hitze.html",
+      "date": "Sat, 20 Jun 2026 11:49:39 +0200"
+    },
+    {
+      "title": "Berlin-Lichtenberg: Auto überschlägt sich - drei Menschen verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-lichtenberg-verkehrsunfall-drei-verletzte.html",
+      "date": "Sat, 20 Jun 2026 10:32:48 +0200"
     },
     {
       "title": "Veterinäramt überprüft Ziegenbetrieb in der Prignitz",
@@ -166,21 +186,6 @@
       "title": "Bertolt Brechts Sommerresidenz: Buckow soll zur \"Brecht-Stadt\" werden",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/maerkisch-oderland-buckow-bertolt-brecht-brechtstadt-namenszusatz.html",
       "date": "Fri, 19 Jun 2026 14:55:50 +0200"
-    },
-    {
-      "title": "Weltkriegsmunition: Bomben und Granaten in Schacksdorf gesprengt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-lichterfeld-schacksdorf-bomben-fund-sprengung-ex-militaerflugplatz.html",
-      "date": "Fri, 19 Jun 2026 14:35:00 +0200"
-    },
-    {
-      "title": "Berlin-Brandenburg: Wetterdienst warnt vor Hitze und Gewittern",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-berlin-wetter-sommer-gewitter-hitze.html",
-      "date": "Fri, 19 Jun 2026 13:47:52 +0200"
-    },
-    {
-      "title": "Zerkarien in Berliner Badegewässern festgestellt - ungewöhnlich früh",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-baden-gewaesser-see-qualitaet.html",
-      "date": "Fri, 19 Jun 2026 09:40:06 +0200"
     }
   ]
 }
