@@ -1,14 +1,24 @@
 {
   "traffic": [
     {
-      "title": "Liveticker: Hitzewelle in Berlin und Brandenburg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-hitze-wetter-ticker.html",
-      "date": "Sat, 20 Jun 2026 18:40:34 +0200"
+      "title": "Potsdam verschiebt neue Verpackungssteuer um drei Monate",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/potsdam-verschiebt-verpackungssteuer.html",
+      "date": "Sat, 20 Jun 2026 20:43:50 +0200"
+    },
+    {
+      "title": "BBL-Finale: Das spricht für eine Alba-Meisterschaft gegen Bayern",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/bbl-finale-playoffs-basketball-alba-berlin-fc-bayern-andreas-obst-sap-garden-pesic.html",
+      "date": "Sat, 20 Jun 2026 20:27:44 +0200"
     },
     {
       "title": "Berlin Tennis Open: Philippinerin Eala besiegt auch Svitolina",
       "link": "https://www.rbb24.de/sport/beitrag/2026/06/tennis-wta-turnier-berlin-open-liveticker-gauff-sabalenka-williams.html",
-      "date": "Sat, 20 Jun 2026 18:25:51 +0200"
+      "date": "Sat, 20 Jun 2026 19:20:00 +0200"
+    },
+    {
+      "title": "Liveticker: Hitzewelle in Berlin und Brandenburg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-hitze-wetter-ticker.html",
+      "date": "Sat, 20 Jun 2026 18:40:34 +0200"
     },
     {
       "title": "Berlin-Wilmersdorf: Feuerwehr stößt mit Auto zusammen - mehrere Verletzte",
@@ -49,16 +59,6 @@
       "title": "Ehrenamt in der Hospizarbeit: Den letzten Weg geht niemand allein",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/ehrenamt-hospizarbeit-lebensende-begleitung.html",
       "date": "Sat, 20 Jun 2026 12:32:38 +0200"
-    },
-    {
-      "title": "Hitzewelle: Fensterscheibe fällt aus dem 9. Stock der Cottbuser Spree-Galerie",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-cottbus-spree-galerie-hitze.html",
-      "date": "Sat, 20 Jun 2026 11:49:39 +0200"
-    },
-    {
-      "title": "Alba Berlin gleicht Finalserie aus: Sie können nicht anders",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/alba-berlin-fc-bayern-basketball-finale-deutsche-meisterschaft-spiel-4.html",
-      "date": "Sat, 20 Jun 2026 11:23:45 +0200"
     }
   ],
   "police": [
