@@ -1,9 +1,29 @@
 {
   "traffic": [
     {
-      "title": "Liveticker: Hitzewelle in Berlin und Brandenburg",
+      "title": "Berlin Tennis Open: Anlage wegen Unwetters evakuiert",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/tennis-wta-turnier-berlin-open-liveticker-gauff-sabalenka-williams.html",
+      "date": "Sun, 21 Jun 2026 13:59:37 +0200"
+    },
+    {
+      "title": "Liveticker: Hitze-Wochenende mit Gewittern, Starkregen und Sturmböen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-hitze-wetter-ticker.html",
-      "date": "Sun, 21 Jun 2026 11:34:21 +0200"
+      "date": "Sun, 21 Jun 2026 13:35:00 +0200"
+    },
+    {
+      "title": "BBL-Finale: Das spricht für eine Alba-Meisterschaft gegen Bayern",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/bbl-finale-playoffs-basketball-alba-berlin-fc-bayern-andreas-obst-sap-garden-pesic.html",
+      "date": "Sun, 21 Jun 2026 12:34:49 +0200"
+    },
+    {
+      "title": "Potsdam verschiebt neue Verpackungssteuer um drei Monate",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/potsdam-verschiebt-verpackungssteuer.html",
+      "date": "Sun, 21 Jun 2026 11:50:42 +0200"
+    },
+    {
+      "title": "Veteranentag: Teile des Regierungsviertels am Sonntag gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/sperrungen-regierungsviertel-berlin-veteranentag-verkehr.html",
+      "date": "Sun, 21 Jun 2026 10:13:56 +0200"
     },
     {
       "title": "Hunderte Konzerte bei Fête de la Musique in Berlin & Brandenburg",
@@ -13,27 +33,12 @@
     {
       "title": "Tausende Fußball-Fans feiern WM-Sieg auf Berlins Straßen",
       "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-wm-deutschland-elfenbeinkueste-fans-autokorso.html",
-      "date": "Sun, 21 Jun 2026 09:09:05 +0200"
+      "date": "Sun, 21 Jun 2026 09:09:00 +0200"
     },
     {
       "title": "Weniger Hürden für Open-Airs in Berlin? Mitte wagt einen neuen Ansatz",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/06/berlin-open-air-veranstaltungen-genehmigung-fete-de-la-musique.html",
-      "date": "Sun, 21 Jun 2026 07:24:50 +0200"
-    },
-    {
-      "title": "Berlin Tennis Open: Philippinerin Eala besiegt auch Svitolina",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/tennis-wta-turnier-berlin-open-liveticker-gauff-sabalenka-williams.html",
-      "date": "Sat, 20 Jun 2026 21:00:00 +0200"
-    },
-    {
-      "title": "Potsdam verschiebt neue Verpackungssteuer um drei Monate",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/potsdam-verschiebt-verpackungssteuer.html",
-      "date": "Sat, 20 Jun 2026 20:43:50 +0200"
-    },
-    {
-      "title": "BBL-Finale: Das spricht für eine Alba-Meisterschaft gegen Bayern",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/bbl-finale-playoffs-basketball-alba-berlin-fc-bayern-andreas-obst-sap-garden-pesic.html",
-      "date": "Sat, 20 Jun 2026 20:27:44 +0200"
+      "date": "Sun, 21 Jun 2026 07:24:00 +0200"
     },
     {
       "title": "Berlin-Wilmersdorf: Feuerwehr stößt mit Auto zusammen - mehrere Verletzte",
@@ -54,11 +59,6 @@
       "title": "Berlin: Hunderte Schwimmer fordern Aufhebung des Badeverbots in Spree",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/demonstration-schwimmer-spree-badeverbot.html",
       "date": "Sat, 20 Jun 2026 17:30:06 +0200"
-    },
-    {
-      "title": "Sport bei Hitze: \"Viele tun sich schwer damit, den Ehrgeiz zurückzustecken\"",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/interview-sport-bei-hitze-sommer-gefahren-tipps-deborah-schoeneborn.html",
-      "date": "Sat, 20 Jun 2026 17:11:06 +0200"
     }
   ],
   "police": [
@@ -128,9 +128,9 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Liveticker: Hitzewelle in Berlin und Brandenburg",
+      "title": "Liveticker: Hitze-Wochenende mit Gewittern, Starkregen und Sturmböen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-hitze-wetter-ticker.html",
-      "date": "Sun, 21 Jun 2026 11:34:21 +0200"
+      "date": "Sun, 21 Jun 2026 13:35:00 +0200"
     },
     {
       "title": "Veteranentag: Teile des Regierungsviertels am Sonntag gesperrt",
