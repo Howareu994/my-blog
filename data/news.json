@@ -1,14 +1,39 @@
 {
   "traffic": [
     {
-      "title": "Berlin Tennis Open: Anlage wegen Unwetters evakuiert",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/tennis-wta-turnier-berlin-open-liveticker-gauff-sabalenka-williams.html",
-      "date": "Sun, 21 Jun 2026 13:59:37 +0200"
-    },
-    {
       "title": "Liveticker: Hitze-Wochenende mit Gewittern, Starkregen und Sturmböen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-hitze-wetter-ticker.html",
-      "date": "Sun, 21 Jun 2026 13:35:00 +0200"
+      "date": "Sun, 21 Jun 2026 16:50:46 +0200"
+    },
+    {
+      "title": "Hertha-Frauen krönen Saison mit Aufstieg in die 2. Liga",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-aufstieg-zweite-liga-hertha-bsc-saarbruecken-frauen-spielbericht.html",
+      "date": "Sun, 21 Jun 2026 16:36:40 +0200"
+    },
+    {
+      "title": "Berlin Tennis Open: Anlage nach Unwetter wieder geöffnet",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/tennis-wta-turnier-berlin-open-liveticker-gauff-sabalenka-williams.html",
+      "date": "Sun, 21 Jun 2026 16:16:00 +0200"
+    },
+    {
+      "title": "Weniger Hürden für Open-Airs in Berlin? Mitte wagt einen neuen Ansatz",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/berlin-open-air-veranstaltungen-genehmigung-fete-de-la-musique.html",
+      "date": "Sun, 21 Jun 2026 15:55:07 +0200"
+    },
+    {
+      "title": "Berlin-Charlottenburg: Mann soll Passanten beleidigt und angegriffen haben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berin-antisemitische-angriff-charlottenburg-uhlandstrasse.html",
+      "date": "Sun, 21 Jun 2026 15:38:51 +0200"
+    },
+    {
+      "title": "DTM auf dem Lausitzring: Italiener Cairoli siegt und übernimmt Gesamtführung",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/motorsport-dtm-lausitzring-matteo-cairoli-sieger-fuehrung-gesamtwertung.html",
+      "date": "Sun, 21 Jun 2026 15:15:04 +0200"
+    },
+    {
+      "title": "Berlin-Friedrichfelde: Ein Toter, zwei Schwerverletzte bei Verkehrsunfall in Friedrichsfelde",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-friedrichsfelde-verkehrsunfall-unfalltoter.html",
+      "date": "Sun, 21 Jun 2026 15:14:03 +0200"
     },
     {
       "title": "BBL-Finale: Das spricht für eine Alba-Meisterschaft gegen Bayern",
@@ -34,34 +59,24 @@
       "title": "Tausende Fußball-Fans feiern WM-Sieg auf Berlins Straßen",
       "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-wm-deutschland-elfenbeinkueste-fans-autokorso.html",
       "date": "Sun, 21 Jun 2026 09:09:00 +0200"
-    },
-    {
-      "title": "Weniger Hürden für Open-Airs in Berlin? Mitte wagt einen neuen Ansatz",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/berlin-open-air-veranstaltungen-genehmigung-fete-de-la-musique.html",
-      "date": "Sun, 21 Jun 2026 07:24:00 +0200"
-    },
-    {
-      "title": "Berlin-Wilmersdorf: Feuerwehr stößt mit Auto zusammen - mehrere Verletzte",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/feuerwehr-auto-kollision-verletzte-berlin.html",
-      "date": "Sat, 20 Jun 2026 17:59:27 +0200"
-    },
-    {
-      "title": "Italiener Mapelli feiert ersten DTM-Sieg auf dem Lausitzring",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/motorsport-dtm-lausitzring-sieger-marco-mapelli.html",
-      "date": "Sat, 20 Jun 2026 17:37:11 +0200"
-    },
-    {
-      "title": "Berlin wirbt bei Fachverbänden für Olympia-Bewerbung",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/olympia-berlin-delegation-dosb-sportverbaende-politik.html",
-      "date": "Sat, 20 Jun 2026 17:34:47 +0200"
-    },
-    {
-      "title": "Berlin: Hunderte Schwimmer fordern Aufhebung des Badeverbots in Spree",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/demonstration-schwimmer-spree-badeverbot.html",
-      "date": "Sat, 20 Jun 2026 17:30:06 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Politiker an Informationsstand mit Eiern beworfen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684094.php",
+      "date": "Sun, 21 Jun 2026 16:36:24 +0200"
+    },
+    {
+      "title": "Antisemitischer Angriff – Geschlagen und bespuckt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684088.php",
+      "date": "Sun, 21 Jun 2026 14:31:48 +0200"
+    },
+    {
+      "title": "Tödlich verletzter Fußgänger nach Verkehrsunfall",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684087.php",
+      "date": "Sun, 21 Jun 2026 14:28:42 +0200"
+    },
     {
       "title": "Mann bei Raub verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684086.php",
@@ -106,21 +121,6 @@
       "title": "Verkehrsunfall nach mutmaßlichem Driftmanöver",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1683586.php",
       "date": "Thu, 18 Jun 2026 16:50:00 +0200"
-    },
-    {
-      "title": "Bekämpfung der Schusswaffenkriminalität – BAO Ferrum und EG Telum stellen bei Durchsuchungen fünf scharfe Schusswaffen sicher",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1683468.php",
-      "date": "Thu, 18 Jun 2026 15:15:48 +0200"
-    },
-    {
-      "title": "Schüsse auf eine Gaststätte in Tempelhof",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1683417.php",
-      "date": "Thu, 18 Jun 2026 14:22:38 +0200"
-    },
-    {
-      "title": "Reizstoff in Linienbus versprüht – Mehrere Fahrgäste verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1683403.php",
-      "date": "Thu, 18 Jun 2026 14:18:28 +0200"
     }
   ],
   "free_events": [],
@@ -130,7 +130,17 @@
     {
       "title": "Liveticker: Hitze-Wochenende mit Gewittern, Starkregen und Sturmböen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-hitze-wetter-ticker.html",
-      "date": "Sun, 21 Jun 2026 13:35:00 +0200"
+      "date": "Sun, 21 Jun 2026 16:50:46 +0200"
+    },
+    {
+      "title": "Berlin-Charlottenburg: Mann soll Passanten beleidigt und angegriffen haben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berin-antisemitische-angriff-charlottenburg-uhlandstrasse.html",
+      "date": "Sun, 21 Jun 2026 15:38:51 +0200"
+    },
+    {
+      "title": "Berlin-Friedrichfelde: Ein Toter, zwei Schwerverletzte bei Verkehrsunfall in Friedrichsfelde",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-friedrichsfelde-verkehrsunfall-unfalltoter.html",
+      "date": "Sun, 21 Jun 2026 15:14:03 +0200"
     },
     {
       "title": "Veteranentag: Teile des Regierungsviertels am Sonntag gesperrt",
@@ -176,16 +186,6 @@
       "title": "Berlin-Lichtenberg: Auto überschlägt sich - drei Menschen verletzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-lichtenberg-verkehrsunfall-drei-verletzte.html",
       "date": "Sat, 20 Jun 2026 10:32:48 +0200"
-    },
-    {
-      "title": "Veterinäramt überprüft Ziegenbetrieb in der Prignitz",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/vorwurf-gegen-ziegenbetrieb-prignitz-veterinaeramt-prueft.html",
-      "date": "Fri, 19 Jun 2026 21:08:51 +0200"
-    },
-    {
-      "title": "CSD: Erstmals Regenbogenfahne in Golßen gehisst",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-golssen-csd-regenbogenfahne-hape-kerkeling-schirmherr.html",
-      "date": "Fri, 19 Jun 2026 18:09:59 +0200"
     }
   ]
 }
