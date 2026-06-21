@@ -1,19 +1,24 @@
 {
   "traffic": [
     {
+      "title": "Berlin Tennis Open: Finale geht in den dritten Satz",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/tennis-wta-turnier-berlin-open-liveticker-gauff-sabalenka-williams.html",
+      "date": "Sun, 21 Jun 2026 19:08:14 +0200"
+    },
+    {
+      "title": "Finalsieg in München: Alba Berlin ist deutscher Basketball-Meister",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/basketball-playoffs-finale-bayern-muenchen-alba-berlin-spiel-5-deutsche-meisterschaft.html",
+      "date": "Sun, 21 Jun 2026 18:56:00 +0200"
+    },
+    {
       "title": "Liveticker: Hitze-Wochenende mit Gewittern, Starkregen und Sturmböen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-hitze-wetter-ticker.html",
-      "date": "Sun, 21 Jun 2026 16:50:46 +0200"
+      "date": "Sun, 21 Jun 2026 17:56:34 +0200"
     },
     {
       "title": "Hertha-Frauen krönen Saison mit Aufstieg in die 2. Liga",
       "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-aufstieg-zweite-liga-hertha-bsc-saarbruecken-frauen-spielbericht.html",
       "date": "Sun, 21 Jun 2026 16:36:40 +0200"
-    },
-    {
-      "title": "Berlin Tennis Open: Anlage nach Unwetter wieder geöffnet",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/tennis-wta-turnier-berlin-open-liveticker-gauff-sabalenka-williams.html",
-      "date": "Sun, 21 Jun 2026 16:16:00 +0200"
     },
     {
       "title": "Weniger Hürden für Open-Airs in Berlin? Mitte wagt einen neuen Ansatz",
@@ -34,11 +39,6 @@
       "title": "Berlin-Friedrichfelde: Ein Toter, zwei Schwerverletzte bei Verkehrsunfall in Friedrichsfelde",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-friedrichsfelde-verkehrsunfall-unfalltoter.html",
       "date": "Sun, 21 Jun 2026 15:14:03 +0200"
-    },
-    {
-      "title": "BBL-Finale: Das spricht für eine Alba-Meisterschaft gegen Bayern",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/bbl-finale-playoffs-basketball-alba-berlin-fc-bayern-andreas-obst-sap-garden-pesic.html",
-      "date": "Sun, 21 Jun 2026 12:34:49 +0200"
     },
     {
       "title": "Potsdam verschiebt neue Verpackungssteuer um drei Monate",
@@ -62,6 +62,11 @@
     }
   ],
   "police": [
+    {
+      "title": "Ermittlungen nach rassistischen und antisemitischen Vorfällen beim Deutschlandspiel",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684095.php",
+      "date": "Sun, 21 Jun 2026 17:36:37 +0200"
+    },
     {
       "title": "Politiker an Informationsstand mit Eiern beworfen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684094.php",
@@ -116,11 +121,6 @@
       "title": "Drei Verletzte Personen nach Verkehrsunfall",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1683808.php",
       "date": "Fri, 19 Jun 2026 11:43:00 +0200"
-    },
-    {
-      "title": "Verkehrsunfall nach mutmaßlichem Driftmanöver",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1683586.php",
-      "date": "Thu, 18 Jun 2026 16:50:00 +0200"
     }
   ],
   "free_events": [],
@@ -130,7 +130,7 @@
     {
       "title": "Liveticker: Hitze-Wochenende mit Gewittern, Starkregen und Sturmböen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-hitze-wetter-ticker.html",
-      "date": "Sun, 21 Jun 2026 16:50:46 +0200"
+      "date": "Sun, 21 Jun 2026 17:56:34 +0200"
     },
     {
       "title": "Berlin-Charlottenburg: Mann soll Passanten beleidigt und angegriffen haben",
