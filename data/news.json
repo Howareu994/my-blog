@@ -1,9 +1,19 @@
 {
   "traffic": [
     {
-      "title": "Hunderte Konzerte bei Fête de la Musique am Sonntag in Berlin",
+      "title": "Liveticker: Hitzewelle in Berlin und Brandenburg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-hitze-wetter-ticker.html",
+      "date": "Sun, 21 Jun 2026 11:34:21 +0200"
+    },
+    {
+      "title": "Hunderte Konzerte bei Fête de la Musique in Berlin & Brandenburg",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/06/fete-de-la-musique-berlin-2026-hunderte-konzerte.html",
-      "date": "Sun, 21 Jun 2026 07:28:00 +0200"
+      "date": "Sun, 21 Jun 2026 09:38:00 +0200"
+    },
+    {
+      "title": "Tausende Fußball-Fans feiern WM-Sieg auf Berlins Straßen",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-wm-deutschland-elfenbeinkueste-fans-autokorso.html",
+      "date": "Sun, 21 Jun 2026 09:09:05 +0200"
     },
     {
       "title": "Weniger Hürden für Open-Airs in Berlin? Mitte wagt einen neuen Ansatz",
@@ -24,11 +34,6 @@
       "title": "BBL-Finale: Das spricht für eine Alba-Meisterschaft gegen Bayern",
       "link": "https://www.rbb24.de/sport/beitrag/2026/06/bbl-finale-playoffs-basketball-alba-berlin-fc-bayern-andreas-obst-sap-garden-pesic.html",
       "date": "Sat, 20 Jun 2026 20:27:44 +0200"
-    },
-    {
-      "title": "Liveticker: Hitzewelle in Berlin und Brandenburg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-hitze-wetter-ticker.html",
-      "date": "Sat, 20 Jun 2026 18:40:34 +0200"
     },
     {
       "title": "Berlin-Wilmersdorf: Feuerwehr stößt mit Auto zusammen - mehrere Verletzte",
@@ -125,7 +130,17 @@
     {
       "title": "Liveticker: Hitzewelle in Berlin und Brandenburg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-hitze-wetter-ticker.html",
-      "date": "Sat, 20 Jun 2026 18:40:34 +0200"
+      "date": "Sun, 21 Jun 2026 11:34:21 +0200"
+    },
+    {
+      "title": "Veteranentag: Teile des Regierungsviertels am Sonntag gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/sperrungen-regierungsviertel-berlin-veteranentag-verkehr.html",
+      "date": "Sun, 21 Jun 2026 10:13:56 +0200"
+    },
+    {
+      "title": "Johannisreiten: \"Jede einzelne Person ist stolz auf diesen Brauch\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-casel-johannisreiten-brauch-tradition-sorben-wenden-interview.html",
+      "date": "Sun, 21 Jun 2026 08:52:44 +0200"
     },
     {
       "title": "Berlin-Wilmersdorf: Feuerwehr stößt mit Auto zusammen - mehrere Verletzte",
@@ -171,16 +186,6 @@
       "title": "CSD: Erstmals Regenbogenfahne in Golßen gehisst",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-golssen-csd-regenbogenfahne-hape-kerkeling-schirmherr.html",
       "date": "Fri, 19 Jun 2026 18:09:59 +0200"
-    },
-    {
-      "title": "61-Jähriger tot aus Großem Zernsee bei Werder geborgen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/toter-mann-gefunden-werder-grosser-zernsee.html",
-      "date": "Fri, 19 Jun 2026 17:19:41 +0200"
-    },
-    {
-      "title": "An der Tanke: \"Ein Trabant 601 wäre schon ein Traumauto\"",
-      "link": "https://www.rbb24.de/panorama/thema/an-der-tanke/brandenburg-an-der-tanke-schueler-moped-simson.html",
-      "date": "Fri, 19 Jun 2026 17:18:13 +0200"
     }
   ]
 }
