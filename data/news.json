@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Entwarnung nach Gasaustritt am Bahnhof Basdorf – Gebiet zeitweise evakuiert",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/gefahreninformation-landkreis-barnim-basdorf-einsatz-feuerwehr-brandenburg.html",
+      "date": "Mon, 22 Jun 2026 22:26:00 +0200"
+    },
+    {
+      "title": "Kommentar: Warum Berlin alles gewinnt - außer im Fußball",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/sport-berlin-warum-berlin-alles-kann-ausser-fussball.html",
+      "date": "Mon, 22 Jun 2026 21:51:12 +0200"
+    },
+    {
+      "title": "Technischer Defekt: Prinzenbad muss am Dienstag erneut schließen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-sommerbad-kreuzberg-prinzenbad-geschlossen-kabelbrand.html",
+      "date": "Mon, 22 Jun 2026 21:08:55 +0200"
+    },
+    {
       "title": "Kampfjets aus den USA und Deutschland fliegen über Berlin",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/kampfjets-bundeswehr-berlin-usa-messe-ueberflug.html",
       "date": "Mon, 22 Jun 2026 20:13:17 +0200"
@@ -44,21 +59,6 @@
       "title": "Rechenzentrum im Spreewald: Nett hier. Aber waren Sie schon mal in Lübbenau?",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/brandenburg-luebbenau-rechenzentrum-schwarz-spreewald-valley.html",
       "date": "Mon, 22 Jun 2026 17:17:24 +0200"
-    },
-    {
-      "title": "Explosion vor Späti in Berlin-Wedding wohl durch Granate",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-wedding-explosion-haus-spaetkauf-polizei.html",
-      "date": "Mon, 22 Jun 2026 17:13:00 +0200"
-    },
-    {
-      "title": "Clan-Immobilien: Berliner Landgericht verhandelt Beschlagnahme",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/clan-immobilien-verfahren-objekte-prozess-landgericht-berlin.html",
-      "date": "Mon, 22 Jun 2026 17:12:10 +0200"
-    },
-    {
-      "title": "Brandstiftung an Kältebus in Berlin: Tatverdächtiger soll in Psychiatrie",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-kaeltebus-brandstiftung-tatverdaechtiger-geschlossene-psy.html",
-      "date": "Mon, 22 Jun 2026 16:32:43 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,16 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Entwarnung nach Gasaustritt am Bahnhof Basdorf – Gebiet zeitweise evakuiert",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/gefahreninformation-landkreis-barnim-basdorf-einsatz-feuerwehr-brandenburg.html",
+      "date": "Mon, 22 Jun 2026 22:26:00 +0200"
+    },
+    {
+      "title": "Technischer Defekt: Prinzenbad muss am Dienstag erneut schließen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-sommerbad-kreuzberg-prinzenbad-geschlossen-kabelbrand.html",
+      "date": "Mon, 22 Jun 2026 21:08:55 +0200"
+    },
+    {
       "title": "Kampfjets aus den USA und Deutschland fliegen über Berlin",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/kampfjets-bundeswehr-berlin-usa-messe-ueberflug.html",
       "date": "Mon, 22 Jun 2026 20:13:17 +0200"
@@ -176,16 +186,6 @@
       "title": "Neun Verletzte bei Brand in Haus in Brandenburg an der Havel",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-havel-brand-mehrfamilienhaus-explosion.html",
       "date": "Mon, 22 Jun 2026 15:41:48 +0200"
-    },
-    {
-      "title": "\"Wiege des Rundfunks\": Museum Funkerberg wiedereröffnet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/funkerberg-museum-koenigs-wusterhausen-wiedereroeffnet.html",
-      "date": "Mon, 22 Jun 2026 14:47:35 +0200"
-    },
-    {
-      "title": "Berliner Prinzenbad wegen Kabelbrands geschlossen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-sommerbad-kreuzberg-prinzenbad-geschlossen-kabelbrand.html",
-      "date": "Mon, 22 Jun 2026 14:46:00 +0200"
     }
   ]
 }
