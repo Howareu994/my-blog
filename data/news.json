@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Erneut brennt eine Lagerhalle in Treuenbrietzen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-treuenbrietzen-lagerhalle-brand-rauch.html",
+      "date": "Tue, 23 Jun 2026 21:36:53 +0200"
+    },
+    {
       "title": "\"Frühhitzewelle\" bringt neue Höchsttemperaturen in Berlin und Brandenburg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/wetter-sonne-sommer-juni-heiss-berlin-brandenburg.html",
       "date": "Tue, 23 Jun 2026 20:32:25 +0200"
@@ -54,11 +59,6 @@
       "title": "Freier Eintritt in vier Potsdamer Museen am Freitag",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/Museumstag-Potsdamer-Museen-kostenfrei.html",
       "date": "Tue, 23 Jun 2026 15:55:06 +0200"
-    },
-    {
-      "title": "Prinzenbad nach technischem Defekt wieder geöffnet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-sommerbad-kreuzberg-prinzenbad-geschlossen-kabelbrand.html",
-      "date": "Tue, 23 Jun 2026 15:53:54 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,16 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Bahnverkehr bundesweit eingestellt - S-Bahnen ebenfalls gestoppt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/s-bahn-stroerungen-berlin-brandenburg.html",
+      "date": "Tue, 23 Jun 2026 23:24:09 +0200"
+    },
+    {
+      "title": "Erneut brennt eine Lagerhalle in Treuenbrietzen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-treuenbrietzen-lagerhalle-brand-rauch.html",
+      "date": "Tue, 23 Jun 2026 21:36:53 +0200"
+    },
+    {
       "title": "\"Frühhitzewelle\" bringt neue Höchsttemperaturen in Berlin und Brandenburg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/wetter-sonne-sommer-juni-heiss-berlin-brandenburg.html",
       "date": "Tue, 23 Jun 2026 20:32:25 +0200"
@@ -176,16 +186,6 @@
       "title": "Freier Eintritt in vier Potsdamer Museen am Freitag",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/Museumstag-Potsdamer-Museen-kostenfrei.html",
       "date": "Tue, 23 Jun 2026 15:55:06 +0200"
-    },
-    {
-      "title": "Prinzenbad nach technischem Defekt wieder geöffnet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-sommerbad-kreuzberg-prinzenbad-geschlossen-kabelbrand.html",
-      "date": "Tue, 23 Jun 2026 15:53:54 +0200"
-    },
-    {
-      "title": "Fußgängerin stirbt nach Unfall in Friedrichsfelde",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/fussgaengerin-stirbt-nach-unfall-friedrichsfelde.html",
-      "date": "Tue, 23 Jun 2026 15:31:32 +0200"
     }
   ]
 }
