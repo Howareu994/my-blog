@@ -1,67 +1,72 @@
 {
   "traffic": [
     {
-      "title": "Ein Toter und vier Verletzte nach Unfall an Tram-Haltestelle in Berlin",
+      "title": "Fußgängerin stirbt nach Unfall in Friedrichsfelde",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/fussgaengerin-stirbt-nach-unfall-friedrichsfelde.html",
+      "date": "Tue, 23 Jun 2026 15:31:32 +0200"
+    },
+    {
+      "title": "Alba-Trainer Pedro Calles: Der unterschätzte Meistermacher",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/basketball-alba-berlin-pedro-calles-kritik-meister-trainer.html",
+      "date": "Tue, 23 Jun 2026 15:27:45 +0200"
+    },
+    {
+      "title": "Sommerbad Neukölln öffnet jetzt doch schon am Mittwoch",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-sommerbad-neukoelln-oeffnet-baden-freibad-saison.html",
+      "date": "Tue, 23 Jun 2026 15:26:16 +0200"
+    },
+    {
+      "title": "Gärten, Pools, Autos: 20 Brandenburger Gemeinden sollen dringend Wasser sparen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/oder-spree-dahme-spreewald-wasser-ampel-rot-pool-garten.html",
+      "date": "Tue, 23 Jun 2026 15:12:49 +0200"
+    },
+    {
+      "title": "Ecuador-Fan über WM: \"Beim Spiel in Philadelphia waren 55.000 Ecuadorianer\"",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/berlin-fussball-wm-weltmeisterschaft-gruppenspiel-ecuador-interview-fan.html",
+      "date": "Tue, 23 Jun 2026 14:59:37 +0200"
+    },
+    {
+      "title": "Formel E kommt auch nächstes Jahr nach Berlin",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/rennsport-berlin-formel-e-tempelhofer-feld-2027.html",
+      "date": "Tue, 23 Jun 2026 14:37:45 +0200"
+    },
+    {
+      "title": "Waldbühne in Berlin: Sanierung wird deutlich teurer",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/berlin-waldbuehne-sanierung-teurer.html",
+      "date": "Tue, 23 Jun 2026 14:35:55 +0200"
+    },
+    {
+      "title": "Beschäftigte bei Tochterfirmen: Berliner Vivantes-Kliniken und Verdi einigen sich auf Tarifvertrag",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/berlin-vivantes-tochtergesellschaften-verdi-tarifabschluss.html",
+      "date": "Tue, 23 Jun 2026 14:19:29 +0200"
+    },
+    {
+      "title": "Lausitzer Seenland: Sedlitzer See ist mit Schwarzer Elster verbunden",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-ableiter-sedlitz-ueberlauf-sedlitzer-see-schwarze-elster.html",
+      "date": "Tue, 23 Jun 2026 14:18:12 +0200"
+    },
+    {
+      "title": "Prinzenbad musste am Dienstag wieder kurzzeitig schließen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-sommerbad-kreuzberg-prinzenbad-geschlossen-kabelbrand.html",
+      "date": "Tue, 23 Jun 2026 14:09:00 +0200"
+    },
+    {
+      "title": "Arbeit und Hitze: \"Sich selbst einfach hitzefrei nehmen, geht nicht\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/hitze-arbeitsplatz-temperaturen-arbeitgeber-hitzefrei-beschaeftigte.html",
+      "date": "Tue, 23 Jun 2026 13:59:39 +0200"
+    },
+    {
+      "title": "Ein Toter und vier Verletzte nach Autounfall an Haltestelle in Berlin",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-unfall-tram-haltestelle-pkw-toter.html",
-      "date": "Tue, 23 Jun 2026 12:26:28 +0200"
-    },
-    {
-      "title": "Tödlicher Unfall auf der B5",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/toedlicher-unfall-b5-karstaedt-perleberg.html",
-      "date": "Tue, 23 Jun 2026 11:56:57 +0200"
-    },
-    {
-      "title": "Streit um Eisschnelllauf-Standorte: Rücktritt von DESG-Chef Große gefordert",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/eisschnelllauf-berlin-desg-kritik-praesident-grosse-standorte-inzell-thueringen.html",
-      "date": "Tue, 23 Jun 2026 11:34:31 +0200"
-    },
-    {
-      "title": "Durchsuchungen bei mutmaßlichen IS-Mitgliedern in Potsdam",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/bundesanwaltschaft-islamischer-staat-is-razzia-brandenburg-potsdam.html",
-      "date": "Tue, 23 Jun 2026 11:16:40 +0200"
-    },
-    {
-      "title": "Wintersemester: Jeder zweite Studiengang in Berlin zulassungsbeschränkt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-studiengang-nc.html",
-      "date": "Tue, 23 Jun 2026 10:50:44 +0200"
-    },
-    {
-      "title": "Berliner Datenschutzbeauftragte: Deutlich mehr Beschwerden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-datenschutz-beschwerden-anfragen-datenschutzbeauftragte-jahresbericht.html",
-      "date": "Tue, 23 Jun 2026 10:00:06 +0200"
-    },
-    {
-      "title": "Wie der Brexit eine Berliner Einzelhändlerin belastet",
-      "link": "https://www.rbb24.de/panorama/thema/wiegehtesuns/berlin-brexit-grossbritannien-einzelhandel-geschaeft-zoll.html",
-      "date": "Tue, 23 Jun 2026 09:50:34 +0200"
-    },
-    {
-      "title": "Kampfjets aus den USA und Deutschland fliegen über Berlin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/kampfjets-bundeswehr-berlin-usa-messe-ueberflug.html",
-      "date": "Tue, 23 Jun 2026 08:58:05 +0200"
-    },
-    {
-      "title": "WM-Kolumne: Dieser Mann weiß, wie man Tippspiele gewinnt",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-wm-kolumne-richtig-tippen-mit-frenkie-de-jong.html",
-      "date": "Tue, 23 Jun 2026 08:21:00 +0200"
-    },
-    {
-      "title": "Drogen im Koffer: Haftstrafen für Berlinerinnen in Australien und Island",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/drogen-berlinerinnen-australien-island-haftstrafen.html",
-      "date": "Tue, 23 Jun 2026 06:30:26 +0200"
-    },
-    {
-      "title": "Entwarnung nach Gasaustritt am Bahnhof Basdorf – Gebiet zeitweise evakuiert",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/gefahreninformation-landkreis-barnim-basdorf-einsatz-feuerwehr-brandenburg.html",
-      "date": "Mon, 22 Jun 2026 22:26:00 +0200"
-    },
-    {
-      "title": "Kommentar: Warum Berlin alles gewinnt - außer im Fußball",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/sport-berlin-warum-berlin-alles-kann-ausser-fussball.html",
-      "date": "Mon, 22 Jun 2026 21:51:12 +0200"
+      "date": "Tue, 23 Jun 2026 13:40:00 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Fußgängerin nach Verkehrsunfall verstorben",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684087.php",
+      "date": "Tue, 23 Jun 2026 12:39:00 +0200"
+    },
     {
       "title": "Mehrere Verletzte nach Verkehrsunfall",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684724.php",
@@ -116,11 +121,6 @@
       "title": "Ermittlungen nach rassistischen und antisemitischen Vorfällen beim Deutschlandspiel",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684095.php",
       "date": "Sun, 21 Jun 2026 17:36:37 +0200"
-    },
-    {
-      "title": "Politiker an Informationsstand mit Eiern beworfen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684094.php",
-      "date": "Sun, 21 Jun 2026 16:36:24 +0200"
     }
   ],
   "free_events": [],
@@ -128,9 +128,44 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Ein Toter und vier Verletzte nach Unfall an Tram-Haltestelle in Berlin",
+      "title": "Fußgängerin stirbt nach Unfall in Friedrichsfelde",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/fussgaengerin-stirbt-nach-unfall-friedrichsfelde.html",
+      "date": "Tue, 23 Jun 2026 15:31:32 +0200"
+    },
+    {
+      "title": "Sommerbad Neukölln öffnet jetzt doch schon am Mittwoch",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-sommerbad-neukoelln-oeffnet-baden-freibad-saison.html",
+      "date": "Tue, 23 Jun 2026 15:26:16 +0200"
+    },
+    {
+      "title": "Gärten, Pools, Autos: 20 Brandenburger Gemeinden sollen dringend Wasser sparen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/oder-spree-dahme-spreewald-wasser-ampel-rot-pool-garten.html",
+      "date": "Tue, 23 Jun 2026 15:12:49 +0200"
+    },
+    {
+      "title": "Lausitzer Seenland: Sedlitzer See ist mit Schwarzer Elster verbunden",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-ableiter-sedlitz-ueberlauf-sedlitzer-see-schwarze-elster.html",
+      "date": "Tue, 23 Jun 2026 14:18:12 +0200"
+    },
+    {
+      "title": "Prinzenbad musste am Dienstag wieder kurzzeitig schließen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-sommerbad-kreuzberg-prinzenbad-geschlossen-kabelbrand.html",
+      "date": "Tue, 23 Jun 2026 14:09:00 +0200"
+    },
+    {
+      "title": "Arbeit und Hitze: \"Sich selbst einfach hitzefrei nehmen, geht nicht\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/hitze-arbeitsplatz-temperaturen-arbeitgeber-hitzefrei-beschaeftigte.html",
+      "date": "Tue, 23 Jun 2026 13:59:39 +0200"
+    },
+    {
+      "title": "Ein Toter und vier Verletzte nach Autounfall an Haltestelle in Berlin",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-unfall-tram-haltestelle-pkw-toter.html",
-      "date": "Tue, 23 Jun 2026 12:26:28 +0200"
+      "date": "Tue, 23 Jun 2026 13:40:00 +0200"
+    },
+    {
+      "title": "Queere Sichtbarkeit: Pride Weeks in Neuruppin starten",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/pride-week-neuruppin-queer-brandenburg.html",
+      "date": "Tue, 23 Jun 2026 12:50:19 +0200"
     },
     {
       "title": "Tödlicher Unfall auf der B5",
@@ -151,41 +186,6 @@
       "title": "Berliner Datenschutzbeauftragte: Deutlich mehr Beschwerden",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-datenschutz-beschwerden-anfragen-datenschutzbeauftragte-jahresbericht.html",
       "date": "Tue, 23 Jun 2026 10:00:06 +0200"
-    },
-    {
-      "title": "Wie der Brexit eine Berliner Einzelhändlerin belastet",
-      "link": "https://www.rbb24.de/panorama/thema/wiegehtesuns/berlin-brexit-grossbritannien-einzelhandel-geschaeft-zoll.html",
-      "date": "Tue, 23 Jun 2026 09:50:34 +0200"
-    },
-    {
-      "title": "Kampfjets aus den USA und Deutschland fliegen über Berlin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/kampfjets-bundeswehr-berlin-usa-messe-ueberflug.html",
-      "date": "Tue, 23 Jun 2026 08:58:05 +0200"
-    },
-    {
-      "title": "Drogen im Koffer: Haftstrafen für Berlinerinnen in Australien und Island",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/drogen-berlinerinnen-australien-island-haftstrafen.html",
-      "date": "Tue, 23 Jun 2026 06:30:26 +0200"
-    },
-    {
-      "title": "Entwarnung nach Gasaustritt am Bahnhof Basdorf – Gebiet zeitweise evakuiert",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/gefahreninformation-landkreis-barnim-basdorf-einsatz-feuerwehr-brandenburg.html",
-      "date": "Mon, 22 Jun 2026 22:26:00 +0200"
-    },
-    {
-      "title": "Technischer Defekt: Prinzenbad muss am Dienstag erneut schließen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-sommerbad-kreuzberg-prinzenbad-geschlossen-kabelbrand.html",
-      "date": "Mon, 22 Jun 2026 21:08:55 +0200"
-    },
-    {
-      "title": "Gewalt an Berliner Schulen laut Umfrage ein großes Problem",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/gewalt-schule-lehrer.html",
-      "date": "Mon, 22 Jun 2026 20:09:31 +0200"
-    },
-    {
-      "title": "Ketziner Havel: Fünf Verletzte bei Brand auf Sportboot",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/fuenf-verletzte-brand-sportboot-ketziner-havel.html",
-      "date": "Mon, 22 Jun 2026 18:41:23 +0200"
     }
   ]
 }
