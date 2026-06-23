@@ -1,14 +1,34 @@
 {
   "traffic": [
     {
+      "title": "\"Frühhitzewelle\" bringt neue Höchsttemperaturen in Berlin und Brandenburg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/wetter-sonne-sommer-juni-heiss-berlin-brandenburg.html",
+      "date": "Tue, 23 Jun 2026 20:32:25 +0200"
+    },
+    {
+      "title": "Senat beschließt Empfehlung für ICC-Vergabe",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-icc-senat-empfehlung-vergabe-neue-nutzung.html",
+      "date": "Tue, 23 Jun 2026 20:31:26 +0200"
+    },
+    {
+      "title": "Kampfjets aus den USA und Deutschland donnerten über Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/kampfjets-bundeswehr-berlin-usa-messe-ueberflug.html",
+      "date": "Tue, 23 Jun 2026 19:51:50 +0200"
+    },
+    {
+      "title": "Ein Toter und vier Verletzte nach Autounfall an Haltestelle in Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-unfall-tram-haltestelle-pkw-toter.html",
+      "date": "Tue, 23 Jun 2026 19:29:59 +0200"
+    },
+    {
+      "title": "Hitzefrei in Berlin und Brandenburg: Das sind die Regeln",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-schule-hitzefrei-regelungen-klausuren.html",
+      "date": "Tue, 23 Jun 2026 18:38:17 +0200"
+    },
+    {
       "title": "Frankfurter Oberbürgermeister erhielt Wahlkampf-Hilfe von Enertrag",
       "link": "https://www.rbb24.de/politik/beitrag/2026/06/frankfurt-oder-oberbuergermeister-axel-strasser-wahlkampf-unterstuetzung-enertrag.html",
       "date": "Tue, 23 Jun 2026 18:10:13 +0200"
-    },
-    {
-      "title": "\"Frühhitzewelle\" bringt neue Höchsttemperaturen in Berlin und Brandenburg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/wetter-sonne-sommer-juni-heiss-berlin-brandenburg.html",
-      "date": "Tue, 23 Jun 2026 17:55:59 +0200"
     },
     {
       "title": "Alba-Trainer Pedro Calles: Der unterschätzte Meistermacher",
@@ -18,7 +38,7 @@
     {
       "title": "An der Tanke in Brandenburg: \"Man kommt nach Hause und es ist wie im Urlaub\"",
       "link": "https://www.rbb24.de/panorama/thema/an-der-tanke/brandenburg-an-der-tanke-barnim-objektbetreuer.html",
-      "date": "Tue, 23 Jun 2026 17:08:38 +0200"
+      "date": "Tue, 23 Jun 2026 17:08:00 +0200"
     },
     {
       "title": "Brandenburgs Verkehrsminister dämpft Hoffnung auf RE3-Halt in Schwedt",
@@ -39,26 +59,6 @@
       "title": "Prinzenbad nach technischem Defekt wieder geöffnet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-sommerbad-kreuzberg-prinzenbad-geschlossen-kabelbrand.html",
       "date": "Tue, 23 Jun 2026 15:53:54 +0200"
-    },
-    {
-      "title": "Fußgängerin stirbt nach Unfall in Friedrichsfelde",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/fussgaengerin-stirbt-nach-unfall-friedrichsfelde.html",
-      "date": "Tue, 23 Jun 2026 15:31:32 +0200"
-    },
-    {
-      "title": "Sommerbad Neukölln öffnet jetzt doch schon am Mittwoch",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-sommerbad-neukoelln-oeffnet-baden-freibad-saison.html",
-      "date": "Tue, 23 Jun 2026 15:26:16 +0200"
-    },
-    {
-      "title": "Gärten, Pools, Autos: 20 Brandenburger Gemeinden sollen dringend Wasser sparen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/oder-spree-dahme-spreewald-wasser-ampel-rot-pool-garten.html",
-      "date": "Tue, 23 Jun 2026 15:12:49 +0200"
-    },
-    {
-      "title": "Ecuador-Fan über WM: \"Beim Spiel in Philadelphia waren 55.000 Ecuadorianer\"",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/berlin-fussball-wm-weltmeisterschaft-gruppenspiel-ecuador-interview-fan.html",
-      "date": "Tue, 23 Jun 2026 14:59:37 +0200"
     }
   ],
   "police": [
@@ -130,12 +130,32 @@
     {
       "title": "\"Frühhitzewelle\" bringt neue Höchsttemperaturen in Berlin und Brandenburg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/wetter-sonne-sommer-juni-heiss-berlin-brandenburg.html",
-      "date": "Tue, 23 Jun 2026 17:55:59 +0200"
+      "date": "Tue, 23 Jun 2026 20:32:25 +0200"
+    },
+    {
+      "title": "Senat beschließt Empfehlung für ICC-Vergabe",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-icc-senat-empfehlung-vergabe-neue-nutzung.html",
+      "date": "Tue, 23 Jun 2026 20:31:26 +0200"
+    },
+    {
+      "title": "Kampfjets aus den USA und Deutschland donnerten über Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/kampfjets-bundeswehr-berlin-usa-messe-ueberflug.html",
+      "date": "Tue, 23 Jun 2026 19:51:50 +0200"
+    },
+    {
+      "title": "Ein Toter und vier Verletzte nach Autounfall an Haltestelle in Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-unfall-tram-haltestelle-pkw-toter.html",
+      "date": "Tue, 23 Jun 2026 19:29:59 +0200"
+    },
+    {
+      "title": "Hitzefrei in Berlin und Brandenburg: Das sind die Regeln",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-schule-hitzefrei-regelungen-klausuren.html",
+      "date": "Tue, 23 Jun 2026 18:38:17 +0200"
     },
     {
       "title": "An der Tanke in Brandenburg: \"Man kommt nach Hause und es ist wie im Urlaub\"",
       "link": "https://www.rbb24.de/panorama/thema/an-der-tanke/brandenburg-an-der-tanke-barnim-objektbetreuer.html",
-      "date": "Tue, 23 Jun 2026 17:08:38 +0200"
+      "date": "Tue, 23 Jun 2026 17:08:00 +0200"
     },
     {
       "title": "Aktionswoche: Wie Brandenburg gegen Einsamkeit vorgehen will",
@@ -166,26 +186,6 @@
       "title": "Fußgängerin stirbt nach Unfall in Friedrichsfelde",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/fussgaengerin-stirbt-nach-unfall-friedrichsfelde.html",
       "date": "Tue, 23 Jun 2026 15:31:32 +0200"
-    },
-    {
-      "title": "Sommerbad Neukölln öffnet jetzt doch schon am Mittwoch",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-sommerbad-neukoelln-oeffnet-baden-freibad-saison.html",
-      "date": "Tue, 23 Jun 2026 15:26:16 +0200"
-    },
-    {
-      "title": "Gärten, Pools, Autos: 20 Brandenburger Gemeinden sollen dringend Wasser sparen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/oder-spree-dahme-spreewald-wasser-ampel-rot-pool-garten.html",
-      "date": "Tue, 23 Jun 2026 15:12:49 +0200"
-    },
-    {
-      "title": "Lausitzer Seenland: Sedlitzer See ist mit Schwarzer Elster verbunden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-ableiter-sedlitz-ueberlauf-sedlitzer-see-schwarze-elster.html",
-      "date": "Tue, 23 Jun 2026 14:18:12 +0200"
-    },
-    {
-      "title": "Arbeit und Hitze: \"Sich selbst einfach hitzefrei nehmen, geht nicht\"",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/hitze-arbeitsplatz-temperaturen-arbeitgeber-hitzefrei-beschaeftigte.html",
-      "date": "Tue, 23 Jun 2026 13:59:39 +0200"
     }
   ]
 }
