@@ -1,6 +1,26 @@
 {
   "traffic": [
     {
+      "title": "WM-Kolumne: Dieser Mann weiß, wie man Tippspiele gewinnt",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-wm-kolumne-richtig-tippen-mit-frenkie-de-jong.html",
+      "date": "Tue, 23 Jun 2026 08:21:00 +0200"
+    },
+    {
+      "title": "Tödlicher Unfall auf der B5",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/toedlicher-unfall-b5-karstaedt-perleberg.html",
+      "date": "Tue, 23 Jun 2026 08:18:07 +0200"
+    },
+    {
+      "title": "Wie der Brexit eine Berliner Einzelhändlerin belastet",
+      "link": "https://www.rbb24.de/panorama/thema/wiegehtesuns/berlin-brexit-grossbritannien-einzelhandel-geschaeft-zoll.html",
+      "date": "Tue, 23 Jun 2026 06:37:40 +0200"
+    },
+    {
+      "title": "Drogen im Koffer: Haftstrafen für Berlinerinnen in Australien und Island",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/drogen-berlinerinnen-australien-island-haftstrafen.html",
+      "date": "Tue, 23 Jun 2026 06:30:26 +0200"
+    },
+    {
       "title": "Entwarnung nach Gasaustritt am Bahnhof Basdorf – Gebiet zeitweise evakuiert",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/gefahreninformation-landkreis-barnim-basdorf-einsatz-feuerwehr-brandenburg.html",
       "date": "Mon, 22 Jun 2026 22:26:00 +0200"
@@ -39,26 +59,6 @@
       "title": "Blitzreichster Tag seit fast zwei Jahren über Brandenburg und Berlin",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-blitze-unwetter-hitze-wochenende.html",
       "date": "Mon, 22 Jun 2026 18:14:19 +0200"
-    },
-    {
-      "title": "Frankfurter Oberbürgermeister erhielt Wahlkampf-Hilfe von Enertrag",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/06/frankfurt-oder-oberbuergermeister-axel-strasser-wahlkampf-unterstuetzung-enertrag.html",
-      "date": "Mon, 22 Jun 2026 18:13:20 +0200"
-    },
-    {
-      "title": "Geldtransporter-Überfall in Berlin: Haftstrafen für drei Männer",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/geldstransporter-ueberfall-berlin-prozess-haftstrafen-marzahn.html",
-      "date": "Mon, 22 Jun 2026 18:07:59 +0200"
-    },
-    {
-      "title": "Frankfurt (Oder) und Cottbus: Klinik-Beschäftigte protestieren",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/protest--frankfurt-oder-cottbus-klinik-krankenhaus-krankenversicherung.html",
-      "date": "Mon, 22 Jun 2026 17:26:12 +0200"
-    },
-    {
-      "title": "Rechenzentrum im Spreewald: Nett hier. Aber waren Sie schon mal in Lübbenau?",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/brandenburg-luebbenau-rechenzentrum-schwarz-spreewald-valley.html",
-      "date": "Mon, 22 Jun 2026 17:17:24 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,21 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Tödlicher Unfall auf der B5",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/toedlicher-unfall-b5-karstaedt-perleberg.html",
+      "date": "Tue, 23 Jun 2026 08:18:07 +0200"
+    },
+    {
+      "title": "Wie der Brexit eine Berliner Einzelhändlerin belastet",
+      "link": "https://www.rbb24.de/panorama/thema/wiegehtesuns/berlin-brexit-grossbritannien-einzelhandel-geschaeft-zoll.html",
+      "date": "Tue, 23 Jun 2026 06:37:40 +0200"
+    },
+    {
+      "title": "Drogen im Koffer: Haftstrafen für Berlinerinnen in Australien und Island",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/05/drogen-berlinerinnen-australien-island-haftstrafen.html",
+      "date": "Tue, 23 Jun 2026 06:30:26 +0200"
+    },
+    {
       "title": "Entwarnung nach Gasaustritt am Bahnhof Basdorf – Gebiet zeitweise evakuiert",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/gefahreninformation-landkreis-barnim-basdorf-einsatz-feuerwehr-brandenburg.html",
       "date": "Mon, 22 Jun 2026 22:26:00 +0200"
@@ -171,21 +186,6 @@
       "title": "Explosion vor Späti in Berlin-Wedding wohl durch Granate",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-wedding-explosion-haus-spaetkauf-polizei.html",
       "date": "Mon, 22 Jun 2026 17:13:00 +0200"
-    },
-    {
-      "title": "Clan-Immobilien: Berliner Landgericht verhandelt Beschlagnahme",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/clan-immobilien-verfahren-objekte-prozess-landgericht-berlin.html",
-      "date": "Mon, 22 Jun 2026 17:12:10 +0200"
-    },
-    {
-      "title": "Brandstiftung an Kältebus in Berlin: Tatverdächtiger soll in Psychiatrie",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-kaeltebus-brandstiftung-tatverdaechtiger-geschlossene-psy.html",
-      "date": "Mon, 22 Jun 2026 16:32:43 +0200"
-    },
-    {
-      "title": "Neun Verletzte bei Brand in Haus in Brandenburg an der Havel",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-havel-brand-mehrfamilienhaus-explosion.html",
-      "date": "Mon, 22 Jun 2026 15:41:48 +0200"
     }
   ]
 }
