@@ -1,6 +1,36 @@
 {
   "traffic": [
     {
+      "title": "1. Runde im DFB-Pokal: Cottbus und Hertha am Samstag, Union am Sonntag",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-dfb-pokal-2026-2027-erste-runde-ansetzungen-hertha-bsc-union-berlin-energie-cottbus-krieschow-altglienicke.html",
+      "date": "Wed, 24 Jun 2026 16:00:02 +0200"
+    },
+    {
+      "title": "DBB beruft drei Berliner für WM-Qualifikationsspiele",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/basketball-dbb-nationalmannschaft-alba-berlin-wm-qualifikation.html",
+      "date": "Wed, 24 Jun 2026 15:43:24 +0200"
+    },
+    {
+      "title": "Neue Pläne vorgestellt: Das ICC hat wieder eine Zukunft",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/icc-berlin-zukunft-meinung.html",
+      "date": "Wed, 24 Jun 2026 15:39:32 +0200"
+    },
+    {
+      "title": "Tödlicher Blumenkübel-Unfall in Berlin: Frau angeklagt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/anklage-blumenkuebel-blumentopf-vorwurf-fahrlaessige-toetung.html",
+      "date": "Wed, 24 Jun 2026 15:38:07 +0200"
+    },
+    {
+      "title": "Lagerhalle in Treuenbrietzen brennt weiter",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-treuenbrietzen-lagerhalle-brand-rauch.html",
+      "date": "Wed, 24 Jun 2026 14:57:22 +0200"
+    },
+    {
+      "title": "Berlin: Razzien rund um Ex-Gazprom-Tochter - Sabotageverdacht",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/gazprom-germania-razzien-bundesanwaltschaft-berlin.html",
+      "date": "Wed, 24 Jun 2026 14:18:25 +0200"
+    },
+    {
       "title": "Neues Mahnmal für die NS-Opfer der Zeugen Jehovas im Tiergarten eingeweiht",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/06/mahnmal-zeugen-jehovas-ns-regime-nationalsozialismus-deutschland-einweihung-mitte-tiergarten-berlin-zeremonie.html",
       "date": "Wed, 24 Jun 2026 13:23:42 +0200"
@@ -21,44 +51,14 @@
       "date": "Wed, 24 Jun 2026 12:40:11 +0200"
     },
     {
+      "title": "S-Bahn-Betrieb läuft in Berlin nach bundesweiter Störung wieder weitestgehend normal",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/s-bahn-stroerungen-berlin-brandenburg.html",
+      "date": "Wed, 24 Jun 2026 12:34:36 +0200"
+    },
+    {
       "title": "Ein Gebäude mit Geschichte: Was über die ICC-Pläne bereits bekannt ist",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/icc-senat-vergabe-neue-nutzung-berlin.html",
       "date": "Wed, 24 Jun 2026 11:07:25 +0200"
-    },
-    {
-      "title": "Heiligengrabe führt 500 Euro Begrüßungsgeld für Babys ein",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/begruessungsgeld-500-euro-neugeborene-heiligengrabe.html",
-      "date": "Wed, 24 Jun 2026 10:50:53 +0200"
-    },
-    {
-      "title": "Asal in Berlin: Big im Internet, wild auf der Bühne",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/konzert-asal-tiktok-lido-berlin.html",
-      "date": "Wed, 24 Jun 2026 09:07:00 +0200"
-    },
-    {
-      "title": "Potsdam-Mittelmark: Zwei Menschen bei Unfällen auf der A2 gestorben",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/unfall-a2-brandenburg-zwei-tote.html",
-      "date": "Wed, 24 Jun 2026 08:47:57 +0200"
-    },
-    {
-      "title": "Lagerhalle in Treuenbrietzen brennt weiter",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-treuenbrietzen-lagerhalle-brand-rauch.html",
-      "date": "Wed, 24 Jun 2026 07:51:24 +0200"
-    },
-    {
-      "title": "Sonnenblumen-Diebstahl: Landwirt aus Kolkwitz schlägt Alarm",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/brandenburg-kolkwitz-sonnenblumen-diebstahl-landwirt-polizei.html",
-      "date": "Wed, 24 Jun 2026 06:54:42 +0200"
-    },
-    {
-      "title": "\"Frühhitzewelle\" bringt neue Höchsttemperaturen in Berlin und Brandenburg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/wetter-sonne-sommer-juni-heiss-berlin-brandenburg.html",
-      "date": "Tue, 23 Jun 2026 20:32:25 +0200"
-    },
-    {
-      "title": "Senat beschließt Empfehlung für ICC-Vergabe",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-icc-senat-empfehlung-vergabe-neue-nutzung.html",
-      "date": "Tue, 23 Jun 2026 20:31:00 +0200"
     }
   ],
   "police": [
@@ -128,14 +128,29 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Liveticker: Hitzewelle in Berlin und Brandenburg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/hitze-liveticker-berlin-brandenburg-sommer-hitzewelle.html",
+      "date": "Wed, 24 Jun 2026 15:48:33 +0200"
+    },
+    {
+      "title": "Neue Pläne vorgestellt: Das ICC hat wieder eine Zukunft",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/icc-berlin-zukunft-meinung.html",
+      "date": "Wed, 24 Jun 2026 15:39:32 +0200"
+    },
+    {
+      "title": "Tödlicher Blumenkübel-Unfall in Berlin: Frau angeklagt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/anklage-blumenkuebel-blumentopf-vorwurf-fahrlaessige-toetung.html",
+      "date": "Wed, 24 Jun 2026 15:38:07 +0200"
+    },
+    {
+      "title": "Lagerhalle in Treuenbrietzen brennt weiter",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-treuenbrietzen-lagerhalle-brand-rauch.html",
+      "date": "Wed, 24 Jun 2026 14:57:22 +0200"
+    },
+    {
       "title": "Hitzeschutz: Geht es künftig nicht mehr ohne Klimaanlagen?",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/klimaanlagen-hitze-sommer-sinnvoll-berlin-brandenburg.html",
       "date": "Wed, 24 Jun 2026 13:11:00 +0200"
-    },
-    {
-      "title": "Liveticker: Hitzewelle in Berlin und Brandenburg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/hitze-liveticker-berlin-brandenburg-sommer-hitzewelle.html",
-      "date": "Wed, 24 Jun 2026 12:51:01 +0200"
     },
     {
       "title": "S-Bahn-Betrieb läuft in Berlin nach bundesweiter Störung wieder weitestgehend normal",
@@ -158,11 +173,6 @@
       "date": "Wed, 24 Jun 2026 08:47:57 +0200"
     },
     {
-      "title": "Lagerhalle in Treuenbrietzen brennt weiter",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-treuenbrietzen-lagerhalle-brand-rauch.html",
-      "date": "Wed, 24 Jun 2026 07:51:24 +0200"
-    },
-    {
       "title": "\"Frühhitzewelle\" bringt neue Höchsttemperaturen in Berlin und Brandenburg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/wetter-sonne-sommer-juni-heiss-berlin-brandenburg.html",
       "date": "Tue, 23 Jun 2026 20:32:25 +0200"
@@ -176,16 +186,6 @@
       "title": "Kampfjets aus den USA und Deutschland donnerten über Berlin",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/kampfjets-bundeswehr-berlin-usa-messe-ueberflug.html",
       "date": "Tue, 23 Jun 2026 19:51:50 +0200"
-    },
-    {
-      "title": "Ein Toter und vier Verletzte nach Autounfall an Haltestelle in Berlin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-unfall-tram-haltestelle-pkw-toter.html",
-      "date": "Tue, 23 Jun 2026 19:29:59 +0200"
-    },
-    {
-      "title": "Hitzefrei in Berlin und Brandenburg: Das sind die Regeln",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-schule-hitzefrei-regelungen-klausuren.html",
-      "date": "Tue, 23 Jun 2026 18:38:17 +0200"
     }
   ]
 }
