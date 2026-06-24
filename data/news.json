@@ -1,6 +1,41 @@
 {
   "traffic": [
     {
+      "title": "Neuer Chefdirigent am Staatsorchester Frankfurt (Oder) setzt auf Publikumsnähe",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/brandenburgisches-staatsorchester-frankfurt-oder-spielzeit.html",
+      "date": "Wed, 24 Jun 2026 18:51:50 +0200"
+    },
+    {
+      "title": "Hitze-Liveticker: ++ Wasserversorger in Brandenburg unter Vollast ++",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/hitze-liveticker-berlin-brandenburg-sommer-hitzewelle.html",
+      "date": "Wed, 24 Jun 2026 18:16:55 +0200"
+    },
+    {
+      "title": "Bildergalerie: BrandenburgTrend in Grafiken",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/06/bildergalerie-grafiken-brandenburg-trend-landesregierung-zufriedenheit.html",
+      "date": "Wed, 24 Jun 2026 18:01:31 +0200"
+    },
+    {
+      "title": "Kommentar zum BrandenburgTrend: Hauptsache unzufrieden",
+      "link": "https://www.rbb24.de/politik/kommentar-brandenburg-trend-unzufriedenheit-osten.html",
+      "date": "Wed, 24 Jun 2026 18:00:05 +0200"
+    },
+    {
+      "title": "BrandenburgTrend: Mehrheit unzufrieden mit Landesregierung",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/06/brandenburg-trend-juni-2026-unzufriedenheit-landesregierung-spd-afd-vorn.html",
+      "date": "Wed, 24 Jun 2026 18:00:01 +0200"
+    },
+    {
+      "title": "Berliner Schiedsrichter Zwayer bekommt zweiten WM-Einsatz",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-wm-schiedsrichter-felix-zwayer-berlin-zweiter-einsatz.html",
+      "date": "Wed, 24 Jun 2026 17:42:08 +0200"
+    },
+    {
+      "title": "Lagerhalle in Treuenbrietzen brennt weiter",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-treuenbrietzen-lagerhalle-brand-rauch.html",
+      "date": "Wed, 24 Jun 2026 16:10:27 +0200"
+    },
+    {
       "title": "1. Runde im DFB-Pokal: Cottbus und Hertha am Samstag, Union am Sonntag",
       "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-dfb-pokal-2026-2027-erste-runde-ansetzungen-hertha-bsc-union-berlin-energie-cottbus-krieschow-altglienicke.html",
       "date": "Wed, 24 Jun 2026 16:00:02 +0200"
@@ -21,44 +56,9 @@
       "date": "Wed, 24 Jun 2026 15:38:07 +0200"
     },
     {
-      "title": "Lagerhalle in Treuenbrietzen brennt weiter",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-treuenbrietzen-lagerhalle-brand-rauch.html",
-      "date": "Wed, 24 Jun 2026 14:57:22 +0200"
-    },
-    {
       "title": "Berlin: Razzien rund um Ex-Gazprom-Tochter - Sabotageverdacht",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/gazprom-germania-razzien-bundesanwaltschaft-berlin.html",
       "date": "Wed, 24 Jun 2026 14:18:25 +0200"
-    },
-    {
-      "title": "Neues Mahnmal für die NS-Opfer der Zeugen Jehovas im Tiergarten eingeweiht",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/mahnmal-zeugen-jehovas-ns-regime-nationalsozialismus-deutschland-einweihung-mitte-tiergarten-berlin-zeremonie.html",
-      "date": "Wed, 24 Jun 2026 13:23:42 +0200"
-    },
-    {
-      "title": "Hitzeschutz: Geht es künftig nicht mehr ohne Klimaanlagen?",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/klimaanlagen-hitze-sommer-sinnvoll-berlin-brandenburg.html",
-      "date": "Wed, 24 Jun 2026 13:11:00 +0200"
-    },
-    {
-      "title": "Beelitzer Bauern ernten weniger Spargel - sind aber dennoch zufrieden",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/spargel-saison-2026-abschluss-ernte-brandenburg.html",
-      "date": "Wed, 24 Jun 2026 12:57:00 +0200"
-    },
-    {
-      "title": "Tesla vs. IG Metall in Grünheide: Wie der Machtkampf eskaliert",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/tesla-ig-metall-gericht-streit-werk-gruenheide.html",
-      "date": "Wed, 24 Jun 2026 12:40:11 +0200"
-    },
-    {
-      "title": "S-Bahn-Betrieb läuft in Berlin nach bundesweiter Störung wieder weitestgehend normal",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/s-bahn-stroerungen-berlin-brandenburg.html",
-      "date": "Wed, 24 Jun 2026 12:34:36 +0200"
-    },
-    {
-      "title": "Ein Gebäude mit Geschichte: Was über die ICC-Pläne bereits bekannt ist",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/icc-senat-vergabe-neue-nutzung-berlin.html",
-      "date": "Wed, 24 Jun 2026 11:07:25 +0200"
     }
   ],
   "police": [
@@ -128,9 +128,14 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Liveticker: Hitzewelle in Berlin und Brandenburg",
+      "title": "Hitze-Liveticker: ++ Wasserversorger in Brandenburg unter Vollast ++",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/hitze-liveticker-berlin-brandenburg-sommer-hitzewelle.html",
-      "date": "Wed, 24 Jun 2026 15:48:33 +0200"
+      "date": "Wed, 24 Jun 2026 18:16:55 +0200"
+    },
+    {
+      "title": "Lagerhalle in Treuenbrietzen brennt weiter",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-treuenbrietzen-lagerhalle-brand-rauch.html",
+      "date": "Wed, 24 Jun 2026 16:10:27 +0200"
     },
     {
       "title": "Neue Pläne vorgestellt: Das ICC hat wieder eine Zukunft",
@@ -141,11 +146,6 @@
       "title": "Tödlicher Blumenkübel-Unfall in Berlin: Frau angeklagt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/anklage-blumenkuebel-blumentopf-vorwurf-fahrlaessige-toetung.html",
       "date": "Wed, 24 Jun 2026 15:38:07 +0200"
-    },
-    {
-      "title": "Lagerhalle in Treuenbrietzen brennt weiter",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-treuenbrietzen-lagerhalle-brand-rauch.html",
-      "date": "Wed, 24 Jun 2026 14:57:22 +0200"
     },
     {
       "title": "Hitzeschutz: Geht es künftig nicht mehr ohne Klimaanlagen?",
