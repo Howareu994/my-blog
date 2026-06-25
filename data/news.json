@@ -1,14 +1,44 @@
 {
   "traffic": [
     {
-      "title": "Hitze-Liveticker: ++ Bis zu 41 Grad am Wochenende möglich ++",
+      "title": "Hitze-Liveticker: ++ Wetter am Wochenende: bis zu 41 Grad ++",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/hitze-liveticker-berlin-brandenburg-sommer-hitzewelle.html",
-      "date": "Thu, 25 Jun 2026 12:01:16 +0200"
+      "date": "Thu, 25 Jun 2026 15:00:40 +0200"
+    },
+    {
+      "title": "Interview: Radprofi Hollmann über schweren Unfall und Comeback",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/interview-juri-hollmann-radprofi-verletzung-comeback-giro-.html",
+      "date": "Thu, 25 Jun 2026 14:49:33 +0200"
+    },
+    {
+      "title": "Marode Hochschul-Gebäude: Gründung von Berliner Hochschul-Baugesellschaft verzögert sich",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/gruendung-berliner-hochschulbaugesellschaft-verschoben.html",
+      "date": "Thu, 25 Jun 2026 14:46:54 +0200"
+    },
+    {
+      "title": "KI-Nacktbilder an Berliner Schule",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/ki-nacktbilder-berliner-schule-polizei-ermittelt.html",
+      "date": "Thu, 25 Jun 2026 14:34:05 +0200"
+    },
+    {
+      "title": "Faustball: Ganz groß in Brandenburg, in Berlin nur eine Nische",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/faustball-berlin-brandenburg-sg-bademeusel-vfk-berlin.html",
+      "date": "Thu, 25 Jun 2026 14:13:13 +0200"
+    },
+    {
+      "title": "Columbiabad in Berlin-Neukölln wieder offen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-neukoelln-sommerbad-columbiabad-probleme.html",
+      "date": "Thu, 25 Jun 2026 13:39:59 +0200"
+    },
+    {
+      "title": "Mordprozess nach tödlicher Autofahrt am Mauerweg gestartet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/prozess-mord-start-auftakt-autofahrt-mauerweg-gericht-berlin-brandenburg.html",
+      "date": "Thu, 25 Jun 2026 13:17:46 +0200"
     },
     {
       "title": "Palliativarzt gesteht Tötung von zwölf Patienten",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berliner-palliativarzt-gesteht-toetung.html",
-      "date": "Thu, 25 Jun 2026 11:49:46 +0200"
+      "date": "Thu, 25 Jun 2026 11:49:00 +0200"
     },
     {
       "title": "S1 fährt zwischen Oranienburg und Lehnitz wieder",
@@ -29,36 +59,6 @@
       "title": "Wegen Hitze: Berliner Fußball-Verband sagt Spiele ab",
       "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-berliner-fussball-verband-sagt-fast-alle-spiele-ab-wegen-hitze.html",
       "date": "Thu, 25 Jun 2026 10:32:45 +0200"
-    },
-    {
-      "title": "Columbiabad in Berlin-Neukölln erneut geschlossen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-neukoelln-sommerbad-columbiabad-probleme.html",
-      "date": "Thu, 25 Jun 2026 10:28:54 +0200"
-    },
-    {
-      "title": "Mordprozess nach tödlicher Autofahrt am Mauerweg startet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/prozess-mord-start-auftakt-autofahrt-mauerweg-gericht-berlin-brandenburg.html",
-      "date": "Thu, 25 Jun 2026 10:21:59 +0200"
-    },
-    {
-      "title": "Prominenter Rückkehrer: Ballack, Boateng - und jetzt Bittencourt",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/energie-cottbus-rueckkehr-transfer-leonardo-bittencourt-wollitz.html",
-      "date": "Thu, 25 Jun 2026 08:49:00 +0200"
-    },
-    {
-      "title": "Alba-Profi Kayil in zweiter Runde bei NBA-Draft ausgewählt",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/basketball-nba-new-york-knicks-draften-albas-jack-kayil.html",
-      "date": "Thu, 25 Jun 2026 08:36:54 +0200"
-    },
-    {
-      "title": "Brand in Lagerhalle in Treuenbrietzen gelöscht",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-treuenbrietzen-lagerhalle-brand-rauch.html",
-      "date": "Thu, 25 Jun 2026 07:51:09 +0200"
-    },
-    {
-      "title": "Berlin: Baugrube für das neue Rathaus Mitte wird enttrümmert",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/06/berlin-neues-rathaus-mitte-bezirksamt-otto-braun-strasse-hochhaus.html",
-      "date": "Thu, 25 Jun 2026 07:26:19 +0200"
     }
   ],
   "police": [
@@ -128,14 +128,34 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Hitze-Liveticker: ++ Bis zu 41 Grad am Wochenende möglich ++",
+      "title": "Hitze-Liveticker: ++ Wetter am Wochenende: bis zu 41 Grad ++",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/hitze-liveticker-berlin-brandenburg-sommer-hitzewelle.html",
-      "date": "Thu, 25 Jun 2026 12:01:16 +0200"
+      "date": "Thu, 25 Jun 2026 15:00:40 +0200"
+    },
+    {
+      "title": "Marode Hochschul-Gebäude: Gründung von Berliner Hochschul-Baugesellschaft verzögert sich",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/gruendung-berliner-hochschulbaugesellschaft-verschoben.html",
+      "date": "Thu, 25 Jun 2026 14:46:54 +0200"
+    },
+    {
+      "title": "KI-Nacktbilder an Berliner Schule",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/ki-nacktbilder-berliner-schule-polizei-ermittelt.html",
+      "date": "Thu, 25 Jun 2026 14:34:05 +0200"
+    },
+    {
+      "title": "Columbiabad in Berlin-Neukölln wieder offen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-neukoelln-sommerbad-columbiabad-probleme.html",
+      "date": "Thu, 25 Jun 2026 13:39:59 +0200"
+    },
+    {
+      "title": "Mordprozess nach tödlicher Autofahrt am Mauerweg gestartet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/prozess-mord-start-auftakt-autofahrt-mauerweg-gericht-berlin-brandenburg.html",
+      "date": "Thu, 25 Jun 2026 13:17:46 +0200"
     },
     {
       "title": "Palliativarzt gesteht Tötung von zwölf Patienten",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berliner-palliativarzt-gesteht-toetung.html",
-      "date": "Thu, 25 Jun 2026 11:49:46 +0200"
+      "date": "Thu, 25 Jun 2026 11:49:00 +0200"
     },
     {
       "title": "S1 fährt zwischen Oranienburg und Lehnitz wieder",
@@ -146,16 +166,6 @@
       "title": "Weniger Planenschlitzer in Brandenburg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/weniger-planenschlitzer-in-brandenburg.html",
       "date": "Thu, 25 Jun 2026 10:45:08 +0200"
-    },
-    {
-      "title": "Columbiabad in Berlin-Neukölln erneut geschlossen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-neukoelln-sommerbad-columbiabad-probleme.html",
-      "date": "Thu, 25 Jun 2026 10:28:54 +0200"
-    },
-    {
-      "title": "Mordprozess nach tödlicher Autofahrt am Mauerweg startet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/prozess-mord-start-auftakt-autofahrt-mauerweg-gericht-berlin-brandenburg.html",
-      "date": "Thu, 25 Jun 2026 10:21:59 +0200"
     },
     {
       "title": "Brand in Lagerhalle in Treuenbrietzen gelöscht",
@@ -176,16 +186,6 @@
       "title": "Neue Pläne vorgestellt: Das ICC hat wieder eine Zukunft",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/icc-berlin-zukunft-meinung.html",
       "date": "Wed, 24 Jun 2026 15:39:32 +0200"
-    },
-    {
-      "title": "Tödlicher Blumenkübel-Unfall in Berlin: Frau angeklagt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/anklage-blumenkuebel-blumentopf-vorwurf-fahrlaessige-toetung.html",
-      "date": "Wed, 24 Jun 2026 15:38:07 +0200"
-    },
-    {
-      "title": "Hitzeschutz: Geht es künftig nicht mehr ohne Klimaanlagen?",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/klimaanlagen-hitze-sommer-sinnvoll-berlin-brandenburg.html",
-      "date": "Wed, 24 Jun 2026 13:11:00 +0200"
     }
   ]
 }
