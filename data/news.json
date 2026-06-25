@@ -1,14 +1,24 @@
 {
   "traffic": [
     {
+      "title": "Fahrbahn der A2 durch Hitze beschädigt - Autobahn zwischen Ziesar und Wollin gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/autobahn-a2-gesperrt-wollin-ziesar-hitzeschaeden.html",
+      "date": "Thu, 25 Jun 2026 22:30:28 +0200"
+    },
+    {
       "title": "Hitze-Liveticker: ++ A2 in Brandenburg wegen Hitzeschäden gesperrt ++",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/hitze-liveticker-berlin-brandenburg-sommer-hitzewelle.html",
-      "date": "Thu, 25 Jun 2026 21:01:17 +0200"
+      "date": "Thu, 25 Jun 2026 22:29:51 +0200"
+    },
+    {
+      "title": "Krumme Lanke: Jugendlicher stirbt nach Badeunfall",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-krumme-lanke-jugendlicher-tot-badeunfall.html",
+      "date": "Thu, 25 Jun 2026 21:06:21 +0200"
     },
     {
       "title": "Bob: Anschieber Fleischhauer wird Teil des Teams von Friedrich",
       "link": "https://www.rbb24.de/sport/beitrag/2026/06/bob-rekord-pilot-francesco-friedrich-ziel-olympia-2023-anschieber-fleischhauer.html",
-      "date": "Thu, 25 Jun 2026 20:52:37 +0200"
+      "date": "Thu, 25 Jun 2026 20:52:00 +0200"
     },
     {
       "title": "Keime: Buckower sollen Trinkwasser vorerst abkochen",
@@ -18,7 +28,7 @@
     {
       "title": "Interview: Eiskunstlauf-Paar Hocke/Kunkel über Training im Sommer",
       "link": "https://www.rbb24.de/sport/beitrag/2026/06/eiskunstlauf-paarlauf-annika-hocke-robert-kunkel-interview-sommervorbereitung.html",
-      "date": "Thu, 25 Jun 2026 19:36:01 +0200"
+      "date": "Thu, 25 Jun 2026 19:36:00 +0200"
     },
     {
       "title": "An der Tanke in Brandenburg: \"Wenn alles so bleibt, haut alles hin\"",
@@ -49,16 +59,6 @@
       "title": "Sanierung und Neubau: 600 Millionen Euro für Berliner Bäder",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/600-millionen-investitionen-berliner-baeder-2030.html",
       "date": "Thu, 25 Jun 2026 16:29:33 +0200"
-    },
-    {
-      "title": "Alba-Manager Baldi: \"Titel macht unsere Identität spürbar\"",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/basketball-bundesliga-bbl-alba-berlin-interview-marco-baldi-meister-nba-europe-halle.html",
-      "date": "Thu, 25 Jun 2026 15:54:43 +0200"
-    },
-    {
-      "title": "Amt Unterspreewald muss Eichenprozessionsspinner wirksamer bekämpfen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/eichenprozessionsspinner-gericht-amt-unterspreewald.html",
-      "date": "Thu, 25 Jun 2026 15:44:20 +0200"
     }
   ],
   "police": [
@@ -128,9 +128,19 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Fahrbahn der A2 durch Hitze beschädigt - Autobahn zwischen Ziesar und Wollin gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/autobahn-a2-gesperrt-wollin-ziesar-hitzeschaeden.html",
+      "date": "Thu, 25 Jun 2026 22:30:28 +0200"
+    },
+    {
       "title": "Hitze-Liveticker: ++ A2 in Brandenburg wegen Hitzeschäden gesperrt ++",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/hitze-liveticker-berlin-brandenburg-sommer-hitzewelle.html",
-      "date": "Thu, 25 Jun 2026 21:01:17 +0200"
+      "date": "Thu, 25 Jun 2026 22:29:51 +0200"
+    },
+    {
+      "title": "Krumme Lanke: Jugendlicher stirbt nach Badeunfall",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-krumme-lanke-jugendlicher-tot-badeunfall.html",
+      "date": "Thu, 25 Jun 2026 21:06:21 +0200"
     },
     {
       "title": "Keime: Buckower sollen Trinkwasser vorerst abkochen",
@@ -176,16 +186,6 @@
       "title": "Marode Hochschul-Gebäude: Gründung von Berliner Hochschul-Baugesellschaft verzögert sich",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/gruendung-berliner-hochschulbaugesellschaft-verschoben.html",
       "date": "Thu, 25 Jun 2026 14:46:54 +0200"
-    },
-    {
-      "title": "KI-Nacktbilder an Berliner Schule",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/ki-nacktbilder-berliner-schule-polizei-ermittelt.html",
-      "date": "Thu, 25 Jun 2026 14:34:05 +0200"
-    },
-    {
-      "title": "Columbiabad in Berlin-Neukölln wieder offen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-neukoelln-sommerbad-columbiabad-probleme.html",
-      "date": "Thu, 25 Jun 2026 13:39:59 +0200"
     }
   ]
 }
