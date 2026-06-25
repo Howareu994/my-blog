@@ -1,9 +1,44 @@
 {
   "traffic": [
     {
-      "title": "Hitze-Liveticker: ++ Columbiabad erneut geschlossen ++",
+      "title": "Hitze-Liveticker: ++ Bis zu 41 Grad am Wochenende möglich ++",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/hitze-liveticker-berlin-brandenburg-sommer-hitzewelle.html",
-      "date": "Thu, 25 Jun 2026 09:15:57 +0200"
+      "date": "Thu, 25 Jun 2026 12:01:16 +0200"
+    },
+    {
+      "title": "Palliativarzt gesteht Tötung von zwölf Patienten",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berliner-palliativarzt-gesteht-toetung.html",
+      "date": "Thu, 25 Jun 2026 11:49:46 +0200"
+    },
+    {
+      "title": "S1 fährt zwischen Oranienburg und Lehnitz wieder",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/kabelbrand-s1-zwischen-oranienburg-lehnitz-unterbrochen.html",
+      "date": "Thu, 25 Jun 2026 11:00:03 +0200"
+    },
+    {
+      "title": "Weniger Planenschlitzer in Brandenburg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/weniger-planenschlitzer-in-brandenburg.html",
+      "date": "Thu, 25 Jun 2026 10:45:08 +0200"
+    },
+    {
+      "title": "Rock Tech hält an Bau in Guben fest - doch es fehlt Geld",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/brandenburg-guben-rock-tech-lithium-konverter-finanzierung-investition-bau.html",
+      "date": "Thu, 25 Jun 2026 10:44:43 +0200"
+    },
+    {
+      "title": "Wegen Hitze: Berliner Fußball-Verband sagt Spiele ab",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-berliner-fussball-verband-sagt-fast-alle-spiele-ab-wegen-hitze.html",
+      "date": "Thu, 25 Jun 2026 10:32:45 +0200"
+    },
+    {
+      "title": "Columbiabad in Berlin-Neukölln erneut geschlossen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-neukoelln-sommerbad-columbiabad-probleme.html",
+      "date": "Thu, 25 Jun 2026 10:28:54 +0200"
+    },
+    {
+      "title": "Mordprozess nach tödlicher Autofahrt am Mauerweg startet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/prozess-mord-start-auftakt-autofahrt-mauerweg-gericht-berlin-brandenburg.html",
+      "date": "Thu, 25 Jun 2026 10:21:59 +0200"
     },
     {
       "title": "Prominenter Rückkehrer: Ballack, Boateng - und jetzt Bittencourt",
@@ -24,44 +59,19 @@
       "title": "Berlin: Baugrube für das neue Rathaus Mitte wird enttrümmert",
       "link": "https://www.rbb24.de/politik/beitrag/2026/06/berlin-neues-rathaus-mitte-bezirksamt-otto-braun-strasse-hochhaus.html",
       "date": "Thu, 25 Jun 2026 07:26:19 +0200"
-    },
-    {
-      "title": "FC Energie: Zum Klassenerhalt mit Königstransfer Bittencourt?",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-energie-cottbus-trainingsauftakt-zweite-liga-wollitz-kader.html",
-      "date": "Wed, 24 Jun 2026 20:21:01 +0200"
-    },
-    {
-      "title": "ICC in Berlin-Charlottenburg soll Kunst- und Kulturzentrum werden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-icc-senat-empfehlung-vergabe-neue-nutzung.html",
-      "date": "Wed, 24 Jun 2026 19:36:01 +0200"
-    },
-    {
-      "title": "Neuer Chefdirigent des Staatsorchesters Frankfurt (Oder) setzt auf Publikumsnähe",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/brandenburgisches-staatsorchester-frankfurt-oder-spielzeit.html",
-      "date": "Wed, 24 Jun 2026 18:51:00 +0200"
-    },
-    {
-      "title": "Bildergalerie: BrandenburgTrend in Grafiken",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/06/bildergalerie-grafiken-brandenburg-trend-landesregierung-zufriedenheit.html",
-      "date": "Wed, 24 Jun 2026 18:01:31 +0200"
-    },
-    {
-      "title": "Kommentar zum BrandenburgTrend: Hauptsache unzufrieden",
-      "link": "https://www.rbb24.de/politik/kommentar-brandenburg-trend-unzufriedenheit-osten.html",
-      "date": "Wed, 24 Jun 2026 18:00:05 +0200"
-    },
-    {
-      "title": "BrandenburgTrend: Mehrheit unzufrieden mit Landesregierung",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/06/brandenburg-trend-juni-2026-unzufriedenheit-landesregierung-spd-afd-vorn.html",
-      "date": "Wed, 24 Jun 2026 18:00:01 +0200"
-    },
-    {
-      "title": "Berliner Schiedsrichter Zwayer bekommt zweiten WM-Einsatz",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-wm-schiedsrichter-felix-zwayer-berlin-zweiter-einsatz.html",
-      "date": "Wed, 24 Jun 2026 17:42:08 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Geparktes Fahrzeug in Brand geraten – zwei weitere beschädigt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1685836.php",
+      "date": "Thu, 25 Jun 2026 11:35:30 +0200"
+    },
+    {
+      "title": "Radfahrer bei Sturz verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1685827.php",
+      "date": "Thu, 25 Jun 2026 11:28:28 +0200"
+    },
     {
       "title": "Fahrradfahrer bei Verkehrsunfall verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1685378.php",
@@ -111,16 +121,6 @@
       "title": "Nach Auseinandersetzung und Widerstand – DEIG eingesetzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684576.php",
       "date": "Mon, 22 Jun 2026 16:21:57 +0200"
-    },
-    {
-      "title": "Sprengstoffexplosion – BAO Ferrum ermittelt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684571.php",
-      "date": "Mon, 22 Jun 2026 16:07:00 +0200"
-    },
-    {
-      "title": "Dreizehnjährige vermisst – Polizei bittet um Mithilfe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684525.php",
-      "date": "Mon, 22 Jun 2026 15:34:32 +0200"
     }
   ],
   "free_events": [],
@@ -128,9 +128,34 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Hitze-Liveticker: ++ Columbiabad erneut geschlossen ++",
+      "title": "Hitze-Liveticker: ++ Bis zu 41 Grad am Wochenende möglich ++",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/hitze-liveticker-berlin-brandenburg-sommer-hitzewelle.html",
-      "date": "Thu, 25 Jun 2026 09:15:57 +0200"
+      "date": "Thu, 25 Jun 2026 12:01:16 +0200"
+    },
+    {
+      "title": "Palliativarzt gesteht Tötung von zwölf Patienten",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berliner-palliativarzt-gesteht-toetung.html",
+      "date": "Thu, 25 Jun 2026 11:49:46 +0200"
+    },
+    {
+      "title": "S1 fährt zwischen Oranienburg und Lehnitz wieder",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/kabelbrand-s1-zwischen-oranienburg-lehnitz-unterbrochen.html",
+      "date": "Thu, 25 Jun 2026 11:00:03 +0200"
+    },
+    {
+      "title": "Weniger Planenschlitzer in Brandenburg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/weniger-planenschlitzer-in-brandenburg.html",
+      "date": "Thu, 25 Jun 2026 10:45:08 +0200"
+    },
+    {
+      "title": "Columbiabad in Berlin-Neukölln erneut geschlossen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-neukoelln-sommerbad-columbiabad-probleme.html",
+      "date": "Thu, 25 Jun 2026 10:28:54 +0200"
+    },
+    {
+      "title": "Mordprozess nach tödlicher Autofahrt am Mauerweg startet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/prozess-mord-start-auftakt-autofahrt-mauerweg-gericht-berlin-brandenburg.html",
+      "date": "Thu, 25 Jun 2026 10:21:59 +0200"
     },
     {
       "title": "Brand in Lagerhalle in Treuenbrietzen gelöscht",
@@ -161,31 +186,6 @@
       "title": "Hitzeschutz: Geht es künftig nicht mehr ohne Klimaanlagen?",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/klimaanlagen-hitze-sommer-sinnvoll-berlin-brandenburg.html",
       "date": "Wed, 24 Jun 2026 13:11:00 +0200"
-    },
-    {
-      "title": "S-Bahn-Betrieb läuft in Berlin nach bundesweiter Störung wieder normal",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/s-bahn-stroerungen-berlin-brandenburg.html",
-      "date": "Wed, 24 Jun 2026 12:34:00 +0200"
-    },
-    {
-      "title": "Ein Gebäude mit Geschichte: Was über die ICC-Pläne bereits bekannt ist",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/icc-senat-vergabe-neue-nutzung-berlin.html",
-      "date": "Wed, 24 Jun 2026 11:07:25 +0200"
-    },
-    {
-      "title": "Heiligengrabe führt 500 Euro Begrüßungsgeld für Babys ein",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/begruessungsgeld-500-euro-neugeborene-heiligengrabe.html",
-      "date": "Wed, 24 Jun 2026 10:50:53 +0200"
-    },
-    {
-      "title": "Potsdam-Mittelmark: Zwei Menschen bei Unfällen auf der A2 gestorben",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/unfall-a2-brandenburg-zwei-tote.html",
-      "date": "Wed, 24 Jun 2026 08:47:57 +0200"
-    },
-    {
-      "title": "\"Frühhitzewelle\" bringt neue Höchsttemperaturen in Berlin und Brandenburg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/wetter-sonne-sommer-juni-heiss-berlin-brandenburg.html",
-      "date": "Tue, 23 Jun 2026 20:32:25 +0200"
     }
   ]
 }
