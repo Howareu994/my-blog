@@ -1,14 +1,39 @@
 {
   "traffic": [
     {
-      "title": "Hitze-Liveticker: ++ Waldbrandgefahr erreicht teils höchste Stufe ++",
+      "title": "Hitze-Liveticker: ++ Behörden warnen offiziell ++ Tropische Nächte erwartet ++",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/hitzewelle-berlin-brandenburg-liveticker-sommer-wetter.html",
-      "date": "Fri, 26 Jun 2026 08:36:18 +0200"
+      "date": "Fri, 26 Jun 2026 12:03:20 +0200"
+    },
+    {
+      "title": "Stau-Risiko: Erste Bundesländer starten in die Ferien",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/erste-bundeslaender-sommerferien-am-wochenende-fernstrassen-autobahn-staurisiko-baustellen-berlin-brandenburg.html",
+      "date": "Fri, 26 Jun 2026 11:50:30 +0200"
+    },
+    {
+      "title": "Inter Mailand zu Gast: Union-Frauen eröffnen Saison mit Topspiel",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/union-berlin-frauen-saisoneroeffnung-inter-mailand-vizemeister.html",
+      "date": "Fri, 26 Jun 2026 11:14:47 +0200"
+    },
+    {
+      "title": "BrandenburgTrend: Knappe Mehrheit für Olympia im Osten ab 2036",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/06/brandenburg-brandenburgtrend-olympia-bewerbung-umfrage.html",
+      "date": "Fri, 26 Jun 2026 11:14:32 +0200"
+    },
+    {
+      "title": "Waldbrandgefahr erreicht in Teilen Brandenburgs höchste Stufe",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/waldbrand-hoechste-warnstufe-brandenburg-havelland-potsdam-mittelmark-prignitz-hitze-trockenheit.html",
+      "date": "Fri, 26 Jun 2026 11:06:52 +0200"
+    },
+    {
+      "title": "Tesla in Grünheide will weitere 1.000 Mitarbeiter einstellen - erneute Erhöhung der Produktion",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/mitarbeiter-tesla-gruenheide-elektroauto-produktion-steigerung-brandenburg.html",
+      "date": "Fri, 26 Jun 2026 09:49:47 +0200"
     },
     {
       "title": "Pulp in Berlin: Pure Energie statt Nostalgieveranstaltung",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/06/konzert-pulp-tempodrom-berlin.html",
-      "date": "Fri, 26 Jun 2026 08:23:20 +0200"
+      "date": "Fri, 26 Jun 2026 08:53:31 +0200"
     },
     {
       "title": "An der Tanke in Brandenburg: \"Wenn alles so bleibt, haut alles hin\"",
@@ -16,14 +41,9 @@
       "date": "Fri, 26 Jun 2026 07:18:06 +0200"
     },
     {
-      "title": "Deutschland vs. Ecuador in der Ringbahn: Dieser Zug hat eine Bremse",
+      "title": "Deutschland vs. Ecuador in der Ringbahn: Der Zug hat eine Bremse",
       "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-weltmeisterschaft-deutschland-ecuador-in-berliner-ringbahn.html",
-      "date": "Fri, 26 Jun 2026 06:38:06 +0200"
-    },
-    {
-      "title": "BrandenburgTrend: Knappe Mehrheit für Olympia im Osten ab 2036",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/06/brandenburg-brandenburgtrend-olympia-bewerbung-umfrage.html",
-      "date": "Fri, 26 Jun 2026 06:19:00 +0200"
+      "date": "Fri, 26 Jun 2026 06:38:00 +0200"
     },
     {
       "title": "Fahrbahn der A2 durch Hitze beschädigt - Autobahn zwischen Ziesar und Wollin gesperrt",
@@ -39,26 +59,6 @@
       "title": "Bob: Anschieber Fleischhauer wird Teil des Teams von Friedrich",
       "link": "https://www.rbb24.de/sport/beitrag/2026/06/bob-rekord-pilot-francesco-friedrich-ziel-olympia-2023-anschieber-fleischhauer.html",
       "date": "Thu, 25 Jun 2026 20:52:00 +0200"
-    },
-    {
-      "title": "Keime: Buckower sollen Trinkwasser vorerst abkochen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/buckow-trinkwasser-keime-abkochen.html",
-      "date": "Thu, 25 Jun 2026 20:11:55 +0200"
-    },
-    {
-      "title": "Interview: Eiskunstlauf-Paar Hocke/Kunkel über Training im Sommer",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/eiskunstlauf-paarlauf-annika-hocke-robert-kunkel-interview-sommervorbereitung.html",
-      "date": "Thu, 25 Jun 2026 19:36:00 +0200"
-    },
-    {
-      "title": "Veranstaltungen in Berlin und Brandenburg wegen Hitze abgesagt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/hitze-veranstaltungen-abgesagt-brandenburg-berlin.html",
-      "date": "Thu, 25 Jun 2026 17:56:08 +0200"
-    },
-    {
-      "title": "Lob und Kritik für den Berliner Wärmeplan 2026",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/06/berlin-waermeplan-2026-heizen-umweltausschuss.html",
-      "date": "Thu, 25 Jun 2026 17:50:08 +0200"
     }
   ],
   "police": [
@@ -128,14 +128,24 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Hitze-Liveticker: ++ Behörden warnen offiziell ++ Tropische Nächte erwartet ++",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/hitzewelle-berlin-brandenburg-liveticker-sommer-wetter.html",
+      "date": "Fri, 26 Jun 2026 12:03:20 +0200"
+    },
+    {
+      "title": "Stau-Risiko: Erste Bundesländer starten in die Ferien",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/erste-bundeslaender-sommerferien-am-wochenende-fernstrassen-autobahn-staurisiko-baustellen-berlin-brandenburg.html",
+      "date": "Fri, 26 Jun 2026 11:50:30 +0200"
+    },
+    {
+      "title": "Waldbrandgefahr erreicht in Teilen Brandenburgs höchste Stufe",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/waldbrand-hoechste-warnstufe-brandenburg-havelland-potsdam-mittelmark-prignitz-hitze-trockenheit.html",
+      "date": "Fri, 26 Jun 2026 11:06:52 +0200"
+    },
+    {
       "title": "Kosten für Bahnstreckensanierung Hamburg-Berlin deutlich höher als geplant",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/sanierung-bahnstrecke-hamburg-berlin-deutlich-teurer-baukosten-.html",
       "date": "Fri, 26 Jun 2026 08:36:37 +0200"
-    },
-    {
-      "title": "Hitze-Liveticker: ++ Waldbrandgefahr erreicht teils höchste Stufe ++",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/hitzewelle-berlin-brandenburg-liveticker-sommer-wetter.html",
-      "date": "Fri, 26 Jun 2026 08:36:18 +0200"
     },
     {
       "title": "An der Tanke in Brandenburg: \"Wenn alles so bleibt, haut alles hin\"",
@@ -176,16 +186,6 @@
       "title": "Mordprozess gegen Berliner Palliativarzt: Spätes Teilgeständnis",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-mordprozess-palliativarzt-teilgestaendnis-patienten-landgericht.html",
       "date": "Thu, 25 Jun 2026 17:28:41 +0200"
-    },
-    {
-      "title": "Interview: Viadrina-Volkswirt über Wiederaufbau der Ukraine",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/ukraine-krieg-wiederaufbau-konferenz-georg-stadtmann-interview.html",
-      "date": "Thu, 25 Jun 2026 17:26:00 +0200"
-    },
-    {
-      "title": "Sanierung und Neubau: 600 Millionen Euro für Berliner Bäder",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/600-millionen-investitionen-berliner-baeder-2030.html",
-      "date": "Thu, 25 Jun 2026 16:29:33 +0200"
     }
   ]
 }
