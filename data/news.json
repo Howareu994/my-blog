@@ -1,9 +1,39 @@
 {
   "traffic": [
     {
-      "title": "Hitze-Liveticker: ++ Behörden warnen offiziell ++ Tropische Nächte erwartet ++",
+      "title": "Streit um S-Bahn-Ausschreibung in Berlin beendet",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/unterlegener-s-bahn-bieter-alstom-beendet-streit.html",
+      "date": "Fri, 26 Jun 2026 14:58:46 +0200"
+    },
+    {
+      "title": "Hitze-Liveticker: ++ Bis zu 42 Grad in der Lausitz vorhergesagt ++ Grillverbot in Berliner Parks ++",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/hitzewelle-berlin-brandenburg-liveticker-sommer-wetter.html",
-      "date": "Fri, 26 Jun 2026 12:03:20 +0200"
+      "date": "Fri, 26 Jun 2026 14:44:24 +0200"
+    },
+    {
+      "title": "Füchse in anspruchsvolle Gruppe in der Champions League gelost",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/handball-fuechse-berlin-champions-league-gruppen-nils-lichtlein-operation.html",
+      "date": "Fri, 26 Jun 2026 14:20:36 +0200"
+    },
+    {
+      "title": "Bahndirektverbindung Kopenhagen-Berlin-Prag gestartet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/eu-pilotprojekt-bahnverbindung-grenzen-zug-ohne-umstieg-prag-berlin-kopenhagen.html",
+      "date": "Fri, 26 Jun 2026 14:13:24 +0200"
+    },
+    {
+      "title": "Keime: Buckower sollen Trinkwasser vorerst abkochen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/buckow-trinkwasser-keime-abkochen.html",
+      "date": "Fri, 26 Jun 2026 13:06:15 +0200"
+    },
+    {
+      "title": "Hilfsangebot für Prostituierte in Berlin muss wegziehen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-kurfuerstenstrasse-sexarbeit-frauentreff-olga-drogen-obdachlosigkeit.html",
+      "date": "Fri, 26 Jun 2026 12:39:49 +0200"
+    },
+    {
+      "title": "Eishockey: Eisbären Berlin eröffnen Saison mit Heimspiel gegen Straubing",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/eishockey-del-spielplan-eisbaeren-berlin-2026-2027.html",
+      "date": "Fri, 26 Jun 2026 12:24:15 +0200"
     },
     {
       "title": "Stau-Risiko: Erste Bundesländer starten in die Ferien",
@@ -13,12 +43,7 @@
     {
       "title": "Inter Mailand zu Gast: Union-Frauen eröffnen Saison mit Topspiel",
       "link": "https://www.rbb24.de/sport/beitrag/2026/06/union-berlin-frauen-saisoneroeffnung-inter-mailand-vizemeister.html",
-      "date": "Fri, 26 Jun 2026 11:14:47 +0200"
-    },
-    {
-      "title": "BrandenburgTrend: Knappe Mehrheit für Olympia im Osten ab 2036",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/06/brandenburg-brandenburgtrend-olympia-bewerbung-umfrage.html",
-      "date": "Fri, 26 Jun 2026 11:14:32 +0200"
+      "date": "Fri, 26 Jun 2026 11:14:00 +0200"
     },
     {
       "title": "Waldbrandgefahr erreicht in Teilen Brandenburgs höchste Stufe",
@@ -26,39 +51,14 @@
       "date": "Fri, 26 Jun 2026 11:06:52 +0200"
     },
     {
-      "title": "Tesla in Grünheide will weitere 1.000 Mitarbeiter einstellen - erneute Erhöhung der Produktion",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/mitarbeiter-tesla-gruenheide-elektroauto-produktion-steigerung-brandenburg.html",
-      "date": "Fri, 26 Jun 2026 09:49:47 +0200"
-    },
-    {
-      "title": "Pulp in Berlin: Pure Energie statt Nostalgieveranstaltung",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/konzert-pulp-tempodrom-berlin.html",
-      "date": "Fri, 26 Jun 2026 08:53:31 +0200"
+      "title": "Kosten für Bahnstreckensanierung Hamburg-Berlin deutlich höher als geplant",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/sanierung-bahnstrecke-hamburg-berlin-deutlich-teurer-baukosten-.html",
+      "date": "Fri, 26 Jun 2026 08:36:00 +0200"
     },
     {
       "title": "An der Tanke in Brandenburg: \"Wenn alles so bleibt, haut alles hin\"",
       "link": "https://www.rbb24.de/panorama/thema/an-der-tanke/brandenburg-an-der-tanke-baruth-landwirtschaft.html",
       "date": "Fri, 26 Jun 2026 07:18:06 +0200"
-    },
-    {
-      "title": "Deutschland vs. Ecuador in der Ringbahn: Der Zug hat eine Bremse",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-weltmeisterschaft-deutschland-ecuador-in-berliner-ringbahn.html",
-      "date": "Fri, 26 Jun 2026 06:38:00 +0200"
-    },
-    {
-      "title": "Fahrbahn der A2 durch Hitze beschädigt - Autobahn zwischen Ziesar und Wollin gesperrt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/autobahn-a2-gesperrt-wollin-ziesar-hitzeschaeden.html",
-      "date": "Thu, 25 Jun 2026 22:30:28 +0200"
-    },
-    {
-      "title": "Krumme Lanke: Jugendlicher stirbt nach Badeunfall",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-krumme-lanke-jugendlicher-tot-badeunfall.html",
-      "date": "Thu, 25 Jun 2026 21:06:21 +0200"
-    },
-    {
-      "title": "Bob: Anschieber Fleischhauer wird Teil des Teams von Friedrich",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/bob-rekord-pilot-francesco-friedrich-ziel-olympia-2023-anschieber-fleischhauer.html",
-      "date": "Thu, 25 Jun 2026 20:52:00 +0200"
     }
   ],
   "police": [
@@ -128,9 +128,24 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Hitze-Liveticker: ++ Behörden warnen offiziell ++ Tropische Nächte erwartet ++",
+      "title": "Hitze-Liveticker: ++ Bis zu 42 Grad in der Lausitz vorhergesagt ++ Grillverbot in Berliner Parks ++",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/hitzewelle-berlin-brandenburg-liveticker-sommer-wetter.html",
-      "date": "Fri, 26 Jun 2026 12:03:20 +0200"
+      "date": "Fri, 26 Jun 2026 14:44:24 +0200"
+    },
+    {
+      "title": "Bahndirektverbindung Kopenhagen-Berlin-Prag gestartet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/eu-pilotprojekt-bahnverbindung-grenzen-zug-ohne-umstieg-prag-berlin-kopenhagen.html",
+      "date": "Fri, 26 Jun 2026 14:13:24 +0200"
+    },
+    {
+      "title": "Keime: Buckower sollen Trinkwasser vorerst abkochen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/buckow-trinkwasser-keime-abkochen.html",
+      "date": "Fri, 26 Jun 2026 13:06:15 +0200"
+    },
+    {
+      "title": "Hilfsangebot für Prostituierte in Berlin muss wegziehen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-kurfuerstenstrasse-sexarbeit-frauentreff-olga-drogen-obdachlosigkeit.html",
+      "date": "Fri, 26 Jun 2026 12:39:49 +0200"
     },
     {
       "title": "Stau-Risiko: Erste Bundesländer starten in die Ferien",
@@ -145,7 +160,7 @@
     {
       "title": "Kosten für Bahnstreckensanierung Hamburg-Berlin deutlich höher als geplant",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/sanierung-bahnstrecke-hamburg-berlin-deutlich-teurer-baukosten-.html",
-      "date": "Fri, 26 Jun 2026 08:36:37 +0200"
+      "date": "Fri, 26 Jun 2026 08:36:00 +0200"
     },
     {
       "title": "An der Tanke in Brandenburg: \"Wenn alles so bleibt, haut alles hin\"",
@@ -171,21 +186,6 @@
       "title": "Krumme Lanke: Jugendlicher stirbt nach Badeunfall",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-krumme-lanke-jugendlicher-tot-badeunfall.html",
       "date": "Thu, 25 Jun 2026 21:06:21 +0200"
-    },
-    {
-      "title": "Keime: Buckower sollen Trinkwasser vorerst abkochen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/buckow-trinkwasser-keime-abkochen.html",
-      "date": "Thu, 25 Jun 2026 20:11:55 +0200"
-    },
-    {
-      "title": "Veranstaltungen in Berlin und Brandenburg wegen Hitze abgesagt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/hitze-veranstaltungen-abgesagt-brandenburg-berlin.html",
-      "date": "Thu, 25 Jun 2026 17:56:08 +0200"
-    },
-    {
-      "title": "Mordprozess gegen Berliner Palliativarzt: Spätes Teilgeständnis",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-mordprozess-palliativarzt-teilgestaendnis-patienten-landgericht.html",
-      "date": "Thu, 25 Jun 2026 17:28:41 +0200"
     }
   ]
 }
