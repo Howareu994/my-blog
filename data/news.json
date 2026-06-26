@@ -1,14 +1,34 @@
 {
   "traffic": [
     {
+      "title": "Hitze-Liveticker: ++ Waldbrandgefahr erreicht teils höchste Stufe ++",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/hitzewelle-berlin-brandenburg-liveticker-sommer-wetter.html",
+      "date": "Fri, 26 Jun 2026 08:36:18 +0200"
+    },
+    {
+      "title": "Pulp in Berlin: Pure Energie statt Nostalgieveranstaltung",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/konzert-pulp-tempodrom-berlin.html",
+      "date": "Fri, 26 Jun 2026 08:23:20 +0200"
+    },
+    {
+      "title": "An der Tanke in Brandenburg: \"Wenn alles so bleibt, haut alles hin\"",
+      "link": "https://www.rbb24.de/panorama/thema/an-der-tanke/brandenburg-an-der-tanke-baruth-landwirtschaft.html",
+      "date": "Fri, 26 Jun 2026 07:18:06 +0200"
+    },
+    {
+      "title": "Deutschland vs. Ecuador in der Ringbahn: Dieser Zug hat eine Bremse",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-weltmeisterschaft-deutschland-ecuador-in-berliner-ringbahn.html",
+      "date": "Fri, 26 Jun 2026 06:38:06 +0200"
+    },
+    {
+      "title": "BrandenburgTrend: Knappe Mehrheit für Olympia im Osten ab 2036",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/06/brandenburg-brandenburgtrend-olympia-bewerbung-umfrage.html",
+      "date": "Fri, 26 Jun 2026 06:19:00 +0200"
+    },
+    {
       "title": "Fahrbahn der A2 durch Hitze beschädigt - Autobahn zwischen Ziesar und Wollin gesperrt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/autobahn-a2-gesperrt-wollin-ziesar-hitzeschaeden.html",
       "date": "Thu, 25 Jun 2026 22:30:28 +0200"
-    },
-    {
-      "title": "Hitze-Liveticker: ++ A2 in Brandenburg wegen Hitzeschäden gesperrt ++",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/hitze-liveticker-berlin-brandenburg-sommer-hitzewelle.html",
-      "date": "Thu, 25 Jun 2026 22:29:51 +0200"
     },
     {
       "title": "Krumme Lanke: Jugendlicher stirbt nach Badeunfall",
@@ -31,34 +51,14 @@
       "date": "Thu, 25 Jun 2026 19:36:00 +0200"
     },
     {
-      "title": "An der Tanke in Brandenburg: \"Wenn alles so bleibt, haut alles hin\"",
-      "link": "https://www.rbb24.de/panorama/thema/an-der-tanke/brandenburg-an-der-tanke-baruth-landwirtschaft.html",
-      "date": "Thu, 25 Jun 2026 17:59:14 +0200"
+      "title": "Veranstaltungen in Berlin und Brandenburg wegen Hitze abgesagt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/hitze-veranstaltungen-abgesagt-brandenburg-berlin.html",
+      "date": "Thu, 25 Jun 2026 17:56:08 +0200"
     },
     {
       "title": "Lob und Kritik für den Berliner Wärmeplan 2026",
       "link": "https://www.rbb24.de/politik/beitrag/2026/06/berlin-waermeplan-2026-heizen-umweltausschuss.html",
       "date": "Thu, 25 Jun 2026 17:50:08 +0200"
-    },
-    {
-      "title": "Mordprozess gegen Berliner Palliativarzt: Spätes Teilgeständnis",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-mordprozess-palliativarzt-teilgestaendnis-patienten-landgericht.html",
-      "date": "Thu, 25 Jun 2026 17:28:41 +0200"
-    },
-    {
-      "title": "Interview: Viadrina-Volkswirt über Wiederaufbau der Ukraine",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/ukraine-krieg-wiederaufbau-konferenz-georg-stadtmann-interview.html",
-      "date": "Thu, 25 Jun 2026 17:26:00 +0200"
-    },
-    {
-      "title": "Vorwurf der Tierquälerei: Landkreis erstattet Anzeige gegen Ziegen-Betrieb",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/ziegen-betrieb-anzeige-landkreis-vorwurf-tierquaelerei.html",
-      "date": "Thu, 25 Jun 2026 17:04:00 +0200"
-    },
-    {
-      "title": "Sanierung und Neubau: 600 Millionen Euro für Berliner Bäder",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/600-millionen-investitionen-berliner-baeder-2030.html",
-      "date": "Thu, 25 Jun 2026 16:29:33 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,26 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Kosten für Bahnstreckensanierung Hamburg-Berlin deutlich höher als geplant",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/sanierung-bahnstrecke-hamburg-berlin-deutlich-teurer-baukosten-.html",
+      "date": "Fri, 26 Jun 2026 08:36:37 +0200"
+    },
+    {
+      "title": "Hitze-Liveticker: ++ Waldbrandgefahr erreicht teils höchste Stufe ++",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/hitzewelle-berlin-brandenburg-liveticker-sommer-wetter.html",
+      "date": "Fri, 26 Jun 2026 08:36:18 +0200"
+    },
+    {
+      "title": "An der Tanke in Brandenburg: \"Wenn alles so bleibt, haut alles hin\"",
+      "link": "https://www.rbb24.de/panorama/thema/an-der-tanke/brandenburg-an-der-tanke-baruth-landwirtschaft.html",
+      "date": "Fri, 26 Jun 2026 07:18:06 +0200"
+    },
+    {
+      "title": "Wie man sich bei einem Waldbrand verhalten sollte",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/waldbrandgefahr-in-brandenburg-richtig-verhalten-tipps.html",
+      "date": "Fri, 26 Jun 2026 06:19:08 +0200"
+    },
+    {
       "title": "Fahrbahn der A2 durch Hitze beschädigt - Autobahn zwischen Ziesar und Wollin gesperrt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/autobahn-a2-gesperrt-wollin-ziesar-hitzeschaeden.html",
       "date": "Thu, 25 Jun 2026 22:30:28 +0200"
@@ -135,7 +155,7 @@
     {
       "title": "Hitze-Liveticker: ++ A2 in Brandenburg wegen Hitzeschäden gesperrt ++",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/hitze-liveticker-berlin-brandenburg-sommer-hitzewelle.html",
-      "date": "Thu, 25 Jun 2026 22:29:51 +0200"
+      "date": "Thu, 25 Jun 2026 22:29:00 +0200"
     },
     {
       "title": "Krumme Lanke: Jugendlicher stirbt nach Badeunfall",
@@ -146,11 +166,6 @@
       "title": "Keime: Buckower sollen Trinkwasser vorerst abkochen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/buckow-trinkwasser-keime-abkochen.html",
       "date": "Thu, 25 Jun 2026 20:11:55 +0200"
-    },
-    {
-      "title": "An der Tanke in Brandenburg: \"Wenn alles so bleibt, haut alles hin\"",
-      "link": "https://www.rbb24.de/panorama/thema/an-der-tanke/brandenburg-an-der-tanke-baruth-landwirtschaft.html",
-      "date": "Thu, 25 Jun 2026 17:59:14 +0200"
     },
     {
       "title": "Veranstaltungen in Berlin und Brandenburg wegen Hitze abgesagt",
@@ -171,21 +186,6 @@
       "title": "Sanierung und Neubau: 600 Millionen Euro für Berliner Bäder",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/600-millionen-investitionen-berliner-baeder-2030.html",
       "date": "Thu, 25 Jun 2026 16:29:33 +0200"
-    },
-    {
-      "title": "Amt Unterspreewald muss Eichenprozessionsspinner wirksamer bekämpfen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/eichenprozessionsspinner-gericht-amt-unterspreewald.html",
-      "date": "Thu, 25 Jun 2026 15:44:20 +0200"
-    },
-    {
-      "title": "Wetter am Wochenende: Bis zu 41 Grad Celsius möglich",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/wetter-berlin-brandenburg-hitzewelle-wochenende-dwd.html",
-      "date": "Thu, 25 Jun 2026 15:21:55 +0200"
-    },
-    {
-      "title": "Marode Hochschul-Gebäude: Gründung von Berliner Hochschul-Baugesellschaft verzögert sich",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/gruendung-berliner-hochschulbaugesellschaft-verschoben.html",
-      "date": "Thu, 25 Jun 2026 14:46:54 +0200"
     }
   ]
 }
