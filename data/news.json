@@ -1,9 +1,14 @@
 {
   "traffic": [
     {
-      "title": "+++ Berliner Temperaturrekord übertroffen +++  Polizei kühlt in Berlin mit Wasserwerfern ab +++",
+      "title": "+++ Gewitter: Unwetterwarnung für Prignitz +++ Temperaturrekorde übertroffen +++",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/liveticker-hitze-berlin-brandenburg-sommer-wetter-.html",
-      "date": "Sat, 27 Jun 2026 16:54:46 +0200"
+      "date": "Sat, 27 Jun 2026 18:55:43 +0200"
+    },
+    {
+      "title": "Berlin: Männer greifen Transfrau und nicht-binären Menschen an",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/maenner-angriff-transfrau-nicht-binaerer-mensch.html",
+      "date": "Sat, 27 Jun 2026 17:50:52 +0200"
     },
     {
       "title": "Neuer Brandenburger Temperaturrekord: 39,9 Grad in Potsdam",
@@ -54,11 +59,6 @@
       "title": "Michaël Cuisance wechselt von Hertha BSC zum RC Lens",
       "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-hertha-bsc-zweite-bundesliga-transfer-michael-cuisance-rc-lens.html",
       "date": "Fri, 26 Jun 2026 19:01:07 +0200"
-    },
-    {
-      "title": "RAW-Gelände: Doch weitere Gespräche über Nutzung und Clubs",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/06/berlin-verhandlungen-raw-gelaende-sollen-weitergehen.html",
-      "date": "Fri, 26 Jun 2026 18:43:53 +0200"
     }
   ],
   "police": [
@@ -128,9 +128,19 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "+++ Berliner Temperaturrekord übertroffen +++  Polizei kühlt in Berlin mit Wasserwerfern ab +++",
+      "title": "+++ Gewitter: Unwetterwarnung für Prignitz +++ Temperaturrekorde übertroffen +++",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/liveticker-hitze-berlin-brandenburg-sommer-wetter-.html",
-      "date": "Sat, 27 Jun 2026 16:54:46 +0200"
+      "date": "Sat, 27 Jun 2026 18:55:43 +0200"
+    },
+    {
+      "title": "Berlin: Männer greifen Transfrau und nicht-binären Menschen an",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/maenner-angriff-transfrau-nicht-binaerer-mensch.html",
+      "date": "Sat, 27 Jun 2026 17:50:52 +0200"
+    },
+    {
+      "title": "An der Tanke: \"Der Osten ist mein Vater, meine Mutter und mein Heimatland\"",
+      "link": "https://www.rbb24.de/panorama/thema/an-der-tanke/brandenburg-an-der-tanke-bierkutscher-ddr-osten.html",
+      "date": "Sat, 27 Jun 2026 17:11:13 +0200"
     },
     {
       "title": "Neuer Brandenburger Temperaturrekord: 39,9 Grad in Potsdam",
@@ -176,16 +186,6 @@
       "title": "Berlin-Zehlendorf: Sprengkörper auf Werkstattgelände geworfen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-zehlendorf-polizei-sprengkoerper-wurf-autowerkstatt.html",
       "date": "Fri, 26 Jun 2026 19:21:32 +0200"
-    },
-    {
-      "title": "Bahndirektverbindung Kopenhagen-Berlin-Prag gestartet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/eu-pilotprojekt-bahnverbindung-grenzen-zug-ohne-umstieg-prag-berlin-kopenhagen.html",
-      "date": "Fri, 26 Jun 2026 17:58:59 +0200"
-    },
-    {
-      "title": "Geplante Gesundheitsreform: Kinderärzte in Gransee sorgen sich",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/kinderarzt-praxen-land-gesundheitsreform-spardruck-gransee-brandenburg.html",
-      "date": "Fri, 26 Jun 2026 17:51:41 +0200"
     }
   ]
 }
