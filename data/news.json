@@ -1,19 +1,19 @@
 {
   "traffic": [
     {
-      "title": "Hitze-Liveticker: ++ A2-Reparatur dauert an ++ Neuer Hitzerekord in Deutschland ++",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/hitzewelle-berlin-brandenburg-liveticker-sommer-wetter.html",
-      "date": "Fri, 26 Jun 2026 21:27:11 +0200"
+      "title": "Hitzewelle in Berlin und Brandenburg: ++ Bis zu 41 Grad erwartet ++",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/liveticker-hitze-berlin-brandenburg-sommer-wetter-.html",
+      "date": "Sat, 27 Jun 2026 08:16:11 +0200"
+    },
+    {
+      "title": "\"Am Ende weiß man gar nicht mehr, ob Bassa oder Bülent spricht\"",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/berlin-staatsoper-buelent-ceylan-interview-mozart.html",
+      "date": "Sat, 27 Jun 2026 07:20:29 +0200"
     },
     {
       "title": "Erstes Testspiel: Energie Cottbus feiert Schützenfest in Calau",
       "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-zweite-bundesliga-fc-energie-cottbus-testspiel-lok-calau-bittencourt.html",
       "date": "Fri, 26 Jun 2026 21:05:57 +0200"
-    },
-    {
-      "title": "Hockey-Nationalspieler Prinz: \"Wir sind da, wenn es drauf ankommt\"",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/hockey-nationalmannschaft-dhb-thies-prinz-interview-pro-league-berlin-wm-niederlande.html",
-      "date": "Fri, 26 Jun 2026 20:27:00 +0200"
     },
     {
       "title": "A2 wegen Hitzeschäden gesperrt - Reparatur dauert noch ganzes Wochenende",
@@ -128,6 +128,21 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Hitzewelle in Berlin und Brandenburg: ++ Bis zu 41 Grad erwartet ++",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/liveticker-hitze-berlin-brandenburg-sommer-wetter-.html",
+      "date": "Sat, 27 Jun 2026 08:16:11 +0200"
+    },
+    {
+      "title": "Zugeparkt: Wenn Carsharing-Autos die Straßen Berlins übernehmen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/carsharing-berlin-miles-autos-geschaeftsgebiet-clubs.html",
+      "date": "Sat, 27 Jun 2026 07:17:03 +0200"
+    },
+    {
+      "title": "Hitze-Hotspots in Berlin: Wo es sich besonders aufheizt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-hitze-heisse-orte-stadt-klima-.html",
+      "date": "Sat, 27 Jun 2026 07:12:38 +0200"
+    },
+    {
       "title": "Hitze-Liveticker: ++ A2-Reparatur dauert an ++ Neuer Hitzerekord in Deutschland ++",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/hitzewelle-berlin-brandenburg-liveticker-sommer-wetter.html",
       "date": "Fri, 26 Jun 2026 21:27:11 +0200"
@@ -171,21 +186,6 @@
       "title": "Frau in Berlin unter Straßenbahn eingeklemmt und verletzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-adlershof-strassenbahn-unfall-frau-schwer-verletzt.html",
       "date": "Fri, 26 Jun 2026 16:20:44 +0200"
-    },
-    {
-      "title": "Keime: Buckower sollen Trinkwasser vorerst abkochen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/buckow-trinkwasser-keime-abkochen.html",
-      "date": "Fri, 26 Jun 2026 13:06:15 +0200"
-    },
-    {
-      "title": "Hilfsangebot für Prostituierte in Berlin muss wegziehen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-kurfuerstenstrasse-sexarbeit-frauentreff-olga-drogen-obdachlosigkeit.html",
-      "date": "Fri, 26 Jun 2026 12:39:49 +0200"
-    },
-    {
-      "title": "Stau-Risiko: Erste Bundesländer starten in die Ferien",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/erste-bundeslaender-sommerferien-am-wochenende-fernstrassen-autobahn-staurisiko-baustellen-berlin-brandenburg.html",
-      "date": "Fri, 26 Jun 2026 11:50:30 +0200"
     }
   ]
 }
