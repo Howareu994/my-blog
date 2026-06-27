@@ -1,19 +1,24 @@
 {
   "traffic": [
     {
+      "title": "Fast alle Berliner Freibäder dicht +++ Neue Allzeit-Temperatur-Rekorde möglich",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/liveticker-hitze-berlin-brandenburg-sommer-wetter-.html",
+      "date": "Sat, 27 Jun 2026 13:20:56 +0200"
+    },
+    {
       "title": "Zwischen Schweiß und Tränen: Bruno Mars im Olympiastadion Berlin",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/06/konzert-bruno-mars-olympiastadion-berlin-hitzewelle.html",
       "date": "Sat, 27 Jun 2026 10:23:23 +0200"
     },
     {
-      "title": "Hitzewelle in Berlin und Brandenburg: ++ Bis zu 41 Grad erwartet ++",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/liveticker-hitze-berlin-brandenburg-sommer-wetter-.html",
-      "date": "Sat, 27 Jun 2026 09:24:20 +0200"
-    },
-    {
       "title": "\"Am Ende weiß man gar nicht mehr, ob Bassa oder Bülent spricht\"",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/06/berlin-staatsoper-buelent-ceylan-interview-mozart.html",
       "date": "Sat, 27 Jun 2026 07:20:29 +0200"
+    },
+    {
+      "title": "Hitze-Hotspots in Berlin: Wo es sich besonders aufheizt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-hitze-heisse-orte-stadt-klima-.html",
+      "date": "Sat, 27 Jun 2026 07:12:38 +0200"
     },
     {
       "title": "Erstes Testspiel: Energie Cottbus feiert Schützenfest in Calau",
@@ -54,14 +59,19 @@
       "title": "Veranstaltungen in Berlin und Brandenburg wegen Hitze abgesagt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/hitze-veranstaltungen-abgesagt-brandenburg-berlin.html",
       "date": "Fri, 26 Jun 2026 17:13:55 +0200"
-    },
-    {
-      "title": "Software-Fehler löste bundesweiten Zug-Stillstand aus",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/bahn-zug-stillstand-grund-software-fehler-berlin-s-bahn.html",
-      "date": "Fri, 26 Jun 2026 16:54:31 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Fußgängerin unter Straßenbahn eingeklemmt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1686681.php",
+      "date": "Sat, 27 Jun 2026 11:20:00 +0200"
+    },
+    {
+      "title": "Explosion auf Werkstattgelände",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1686680.php",
+      "date": "Sat, 27 Jun 2026 11:11:00 +0200"
+    },
     {
       "title": "Jugendliche vermisst – Polizei bittet um Mithilfe",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1686646.php",
@@ -111,16 +121,6 @@
       "title": "Kind bei Verkehrsunfall verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684697.php",
       "date": "Tue, 23 Jun 2026 08:32:00 +0200"
-    },
-    {
-      "title": "Tötungsdelikt in Bäckerei – Tatverdächtiger festgenommen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1680708.php",
-      "date": "Mon, 22 Jun 2026 16:38:00 +0200"
-    },
-    {
-      "title": "Auf Tauben geschossen – mehrere Druckluftwaffen beschlagnahmt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684582.php",
-      "date": "Mon, 22 Jun 2026 16:25:02 +0200"
     }
   ],
   "free_events": [],
@@ -128,9 +128,9 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Hitzewelle in Berlin und Brandenburg: ++ Bis zu 41 Grad erwartet ++",
+      "title": "Fast alle Berliner Freibäder dicht +++ Neue Allzeit-Temperatur-Rekorde möglich",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/liveticker-hitze-berlin-brandenburg-sommer-wetter-.html",
-      "date": "Sat, 27 Jun 2026 09:24:20 +0200"
+      "date": "Sat, 27 Jun 2026 13:20:56 +0200"
     },
     {
       "title": "Zugeparkt: Wenn Carsharing-Autos die Straßen Berlins übernehmen",
