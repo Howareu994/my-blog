@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "+++ 41,7 Grad in Coschen +++ Auch Flüsse und Seen werden sehr warm +++",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/liveticker-hitze-berlin-brandenburg-sommer-wetter-.html",
+      "date": "Sun, 28 Jun 2026 16:40:59 +0200"
+    },
+    {
+      "title": "Paraguay-Fan über WM: \"Menschen sind richtige Fußball-Ultras\"",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-wm-ko-spiele-deutschland-paraguay-tv-fan-manuel-neuer.html",
+      "date": "Sun, 28 Jun 2026 16:25:51 +0200"
+    },
+    {
       "title": "17-Jähriger nach Schüssen in Berlin-Steglitz in kritischem Zustand",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-steglitz-17-jaehriger-schuesse-schwer-verletzt.html",
       "date": "Sun, 28 Jun 2026 14:10:33 +0200"
@@ -11,11 +21,6 @@
       "date": "Sun, 28 Jun 2026 13:45:45 +0200"
     },
     {
-      "title": "+++ Über 40 Grad erwartet +++ Sommerbäder ausgebucht +++",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/liveticker-hitze-berlin-brandenburg-sommer-wetter-.html",
-      "date": "Sun, 28 Jun 2026 13:33:59 +0200"
-    },
-    {
       "title": "Pro und Contra: Sollen Bundesjugendspiele leistungsorientierter werden?",
       "link": "https://www.rbb24.de/sport/beitrag/2026/06/bundesjugendspiele-grundschule-wettkampf-leistung-kinder-pro-contra.html",
       "date": "Sun, 28 Jun 2026 11:17:30 +0200"
@@ -24,6 +29,11 @@
       "title": "Philharmoniker in der Waldbühne: Abschlusskonzert bei Rekordhitze",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/06/konzert-berlin-waldbuehne-philharmoniker-kirill-petrenko-hitze.html",
       "date": "Sun, 28 Jun 2026 09:09:00 +0200"
+    },
+    {
+      "title": "Stichwahl um das Landratsamt in Ostprignitz-Ruppin angelaufen",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/06/stichwahl-landrat-ostprignitz-ruppin-reinhardt-spd-arndt-afd.html",
+      "date": "Sun, 28 Jun 2026 08:06:00 +0200"
     },
     {
       "title": "Erik Spiekermann: Typograf von BVG und Deutscher Bahn im Interview",
@@ -49,19 +59,29 @@
       "title": "Mann fährt mit Motorroller auf A24 und verunglückt tödlich",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-autobahn-a24-toedlicher-unfall-motorroller-ostprignitz-ruppin.html",
       "date": "Sat, 27 Jun 2026 15:09:23 +0200"
-    },
-    {
-      "title": "Fünf Seen in der Lausitz sind jetzt miteinander verbunden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-lausitz-seenland-fuenf-seen-verbund-reisen-seenkette.html",
-      "date": "Sat, 27 Jun 2026 15:06:23 +0200"
-    },
-    {
-      "title": "Zwischen Schweiß und Tränen: Bruno Mars im Olympiastadion Berlin",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/konzert-bruno-mars-olympiastadion-berlin-hitzewelle.html",
-      "date": "Sat, 27 Jun 2026 10:23:23 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Mann erleidet Stichverletzung und Augenreizung – mutmaßlicher Täter flüchtet",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1686898.php",
+      "date": "Sun, 28 Jun 2026 16:02:42 +0200"
+    },
+    {
+      "title": "Aus Hochzeitskorso heraus mit Waffe bedroht",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1686897.php",
+      "date": "Sun, 28 Jun 2026 15:27:28 +0200"
+    },
+    {
+      "title": "Versammlungsgeschehen zu einem angezeigten Aufzug anlässlich des 10. Muharram",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1686896.php",
+      "date": "Sun, 28 Jun 2026 15:02:00 +0200"
+    },
+    {
+      "title": "Gefährliche Körperverletzung nach Streit – Mann mit Stichverletzung im Krankenhaus",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1686891.php",
+      "date": "Sun, 28 Jun 2026 14:28:00 +0200"
+    },
     {
       "title": "Verkehrsunfall mit Polizeibeteiligung",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1686886.php",
@@ -101,32 +121,17 @@
       "title": "Explosion auf Werkstattgelände",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1686680.php",
       "date": "Sat, 27 Jun 2026 11:11:00 +0200"
-    },
-    {
-      "title": "Jugendliche vermisst – Polizei bittet um Mithilfe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1686646.php",
-      "date": "Fri, 26 Jun 2026 15:39:36 +0200"
-    },
-    {
-      "title": "Geparktes Fahrzeug in Brand geraten – zwei weitere beschädigt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1685836.php",
-      "date": "Thu, 25 Jun 2026 11:35:30 +0200"
-    },
-    {
-      "title": "Radfahrer bei Sturz verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1685827.php",
-      "date": "Thu, 25 Jun 2026 11:28:28 +0200"
-    },
-    {
-      "title": "Fahrradfahrer bei Verkehrsunfall verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1685378.php",
-      "date": "Wed, 24 Jun 2026 12:09:00 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "+++ 41,7 Grad in Coschen +++ Auch Flüsse und Seen werden sehr warm +++",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/liveticker-hitze-berlin-brandenburg-sommer-wetter-.html",
+      "date": "Sun, 28 Jun 2026 16:40:59 +0200"
+    },
     {
       "title": "17-Jähriger nach Schüssen in Berlin-Steglitz in kritischem Zustand",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-steglitz-17-jaehriger-schuesse-schwer-verletzt.html",
@@ -136,11 +141,6 @@
       "title": "Prignitz: Stromausfall legt Zug lahm uns 630 Passagiere ohne Klimaanlage",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-verkehr-bahnverkehr-ast-oberleitung-passagiere-ohne-klimaanlage-in-zug.html",
       "date": "Sun, 28 Jun 2026 13:45:45 +0200"
-    },
-    {
-      "title": "+++ Über 40 Grad erwartet +++ Sommerbäder ausgebucht +++",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/liveticker-hitze-berlin-brandenburg-sommer-wetter-.html",
-      "date": "Sun, 28 Jun 2026 13:33:59 +0200"
     },
     {
       "title": "Haus der Statistik in Berlin-Mitte: Auferstehung einer Ruine",
