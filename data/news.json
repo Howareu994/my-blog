@@ -1,9 +1,19 @@
 {
   "traffic": [
     {
-      "title": "+++ 630 Menschen bleiben in Zug stecken +++ Sommerbäder ausgebucht +++",
+      "title": "17-Jähriger nach Schüssen in Berlin-Steglitz in kritischem Zustand",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-steglitz-17-jaehriger-schuesse-schwer-verletzt.html",
+      "date": "Sun, 28 Jun 2026 14:10:33 +0200"
+    },
+    {
+      "title": "Prignitz: Stromausfall legt Zug lahm uns 630 Passagiere ohne Klimaanlage",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-verkehr-bahnverkehr-ast-oberleitung-passagiere-ohne-klimaanlage-in-zug.html",
+      "date": "Sun, 28 Jun 2026 13:45:45 +0200"
+    },
+    {
+      "title": "+++ Über 40 Grad erwartet +++ Sommerbäder ausgebucht +++",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/liveticker-hitze-berlin-brandenburg-sommer-wetter-.html",
-      "date": "Sun, 28 Jun 2026 12:07:20 +0200"
+      "date": "Sun, 28 Jun 2026 13:33:59 +0200"
     },
     {
       "title": "Pro und Contra: Sollen Bundesjugendspiele leistungsorientierter werden?",
@@ -13,7 +23,7 @@
     {
       "title": "Philharmoniker in der Waldbühne: Abschlusskonzert bei Rekordhitze",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/06/konzert-berlin-waldbuehne-philharmoniker-kirill-petrenko-hitze.html",
-      "date": "Sun, 28 Jun 2026 09:09:52 +0200"
+      "date": "Sun, 28 Jun 2026 09:09:00 +0200"
     },
     {
       "title": "Erik Spiekermann: Typograf von BVG und Deutscher Bahn im Interview",
@@ -49,19 +59,19 @@
       "title": "Zwischen Schweiß und Tränen: Bruno Mars im Olympiastadion Berlin",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/06/konzert-bruno-mars-olympiastadion-berlin-hitzewelle.html",
       "date": "Sat, 27 Jun 2026 10:23:23 +0200"
-    },
-    {
-      "title": "Hitze-Hotspots in Berlin: Wo es sich besonders aufheizt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-hitze-heisse-orte-stadt-klima-.html",
-      "date": "Sat, 27 Jun 2026 07:12:38 +0200"
-    },
-    {
-      "title": "A2 wegen Hitzeschäden gesperrt - Reparatur dauert noch ganzes Wochenende",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/autobahn-a2-gesperrt-wollin-ziesar-hitzeschaeden.html",
-      "date": "Fri, 26 Jun 2026 20:09:12 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Verkehrsunfall mit Polizeibeteiligung",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1686886.php",
+      "date": "Sun, 28 Jun 2026 13:19:36 +0200"
+    },
+    {
+      "title": "Angeschossener Jugendlicher im Krankenhaus",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1686885.php",
+      "date": "Sun, 28 Jun 2026 12:50:00 +0200"
+    },
     {
       "title": "Streit eskaliert – Mann mit Stichverletzung im Krankenhaus",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1686878.php",
@@ -111,16 +121,6 @@
       "title": "Fahrradfahrer bei Verkehrsunfall verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1685378.php",
       "date": "Wed, 24 Jun 2026 12:09:00 +0200"
-    },
-    {
-      "title": "Mutmaßlichen Einbrecher festgenommen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1685314.php",
-      "date": "Wed, 24 Jun 2026 11:29:00 +0200"
-    },
-    {
-      "title": "Mann nach Gewalttat gesucht – Polizei bittet um Mithilfe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2025/pressemitteilung.1555980.php",
-      "date": "Wed, 24 Jun 2026 07:01:00 +0200"
     }
   ],
   "free_events": [],
@@ -128,9 +128,19 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "+++ 630 Menschen bleiben in Zug stecken +++ Sommerbäder ausgebucht +++",
+      "title": "17-Jähriger nach Schüssen in Berlin-Steglitz in kritischem Zustand",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-steglitz-17-jaehriger-schuesse-schwer-verletzt.html",
+      "date": "Sun, 28 Jun 2026 14:10:33 +0200"
+    },
+    {
+      "title": "Prignitz: Stromausfall legt Zug lahm uns 630 Passagiere ohne Klimaanlage",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-verkehr-bahnverkehr-ast-oberleitung-passagiere-ohne-klimaanlage-in-zug.html",
+      "date": "Sun, 28 Jun 2026 13:45:45 +0200"
+    },
+    {
+      "title": "+++ Über 40 Grad erwartet +++ Sommerbäder ausgebucht +++",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/liveticker-hitze-berlin-brandenburg-sommer-wetter-.html",
-      "date": "Sun, 28 Jun 2026 12:07:20 +0200"
+      "date": "Sun, 28 Jun 2026 13:33:59 +0200"
     },
     {
       "title": "Haus der Statistik in Berlin-Mitte: Auferstehung einer Ruine",
@@ -176,16 +186,6 @@
       "title": "Hitze-Hotspots in Berlin: Wo es sich besonders aufheizt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-hitze-heisse-orte-stadt-klima-.html",
       "date": "Sat, 27 Jun 2026 07:12:38 +0200"
-    },
-    {
-      "title": "Hitze-Liveticker: ++ A2-Reparatur dauert an ++ Neuer Hitzerekord in Deutschland ++",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/hitzewelle-berlin-brandenburg-liveticker-sommer-wetter.html",
-      "date": "Fri, 26 Jun 2026 21:27:11 +0200"
-    },
-    {
-      "title": "Zum Nachschauen: rbb24 spezial - Hitze in Berlin und Brandenburg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/livestream-rbb24-spezial-hitze-berlin-brandenburg.html",
-      "date": "Fri, 26 Jun 2026 21:04:39 +0200"
     }
   ]
 }
