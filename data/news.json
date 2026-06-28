@@ -1,9 +1,19 @@
 {
   "traffic": [
     {
-      "title": "+++ Gewitter zieht über Westen Berlins und Brandenburgs +++ Orchester muss in Waldbühne Konzert leicht verkürzen +++",
+      "title": "Philharmoniker in der Waldbühne: Abschlusskonzert bei Rekordhitze",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/konzert-berlin-waldbuehne-philharmoniker-kirill-petrenko-hitze.html",
+      "date": "Sun, 28 Jun 2026 09:09:52 +0200"
+    },
+    {
+      "title": "+++ Wieder extreme Hitze erwartet +++ Viele Feuerwehreinsätze nach Unwettern +++",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/liveticker-hitze-berlin-brandenburg-sommer-wetter-.html",
-      "date": "Sun, 28 Jun 2026 00:17:39 +0200"
+      "date": "Sun, 28 Jun 2026 08:43:47 +0200"
+    },
+    {
+      "title": "Erik Spiekermann: Typograf von BVG und Deutscher Bahn im Interview",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/berlin-erik-spiekermann-bvg-deutsche-bahn-typograf-interview.html",
+      "date": "Sun, 28 Jun 2026 07:29:19 +0200"
     },
     {
       "title": "Energie Cottbus gewinnt auch zweites Testspiel gegen unterklassigen Gegner",
@@ -13,7 +23,7 @@
     {
       "title": "Neuer Brandenburger Temperaturrekord: Über 40 Grad in Brandenburg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/temperaturrekorde-berlin-brandenburg-hitzewelle.html",
-      "date": "Sat, 27 Jun 2026 21:15:17 +0200"
+      "date": "Sat, 27 Jun 2026 21:15:00 +0200"
     },
     {
       "title": "Berlin: Männer greifen Transfrau und nicht-binären Menschen an",
@@ -26,14 +36,19 @@
       "date": "Sat, 27 Jun 2026 15:09:23 +0200"
     },
     {
+      "title": "Fünf Seen in der Lausitz sind jetzt miteinander verbunden",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-lausitz-seenland-fuenf-seen-verbund-reisen-seenkette.html",
+      "date": "Sat, 27 Jun 2026 15:06:23 +0200"
+    },
+    {
       "title": "Zwischen Schweiß und Tränen: Bruno Mars im Olympiastadion Berlin",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/06/konzert-bruno-mars-olympiastadion-berlin-hitzewelle.html",
       "date": "Sat, 27 Jun 2026 10:23:23 +0200"
     },
     {
-      "title": "\"Am Ende weiß man gar nicht mehr, ob Bassa oder Bülent spricht\"",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/berlin-staatsoper-buelent-ceylan-interview-mozart.html",
-      "date": "Sat, 27 Jun 2026 07:20:29 +0200"
+      "title": "Zugeparkt: Wenn Carsharing-Autos die Straßen Berlins übernehmen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/carsharing-berlin-miles-autos-geschaeftsgebiet-clubs.html",
+      "date": "Sat, 27 Jun 2026 07:17:03 +0200"
     },
     {
       "title": "Hitze-Hotspots in Berlin: Wo es sich besonders aufheizt",
@@ -44,21 +59,6 @@
       "title": "A2 wegen Hitzeschäden gesperrt - Reparatur dauert noch ganzes Wochenende",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/autobahn-a2-gesperrt-wollin-ziesar-hitzeschaeden.html",
       "date": "Fri, 26 Jun 2026 20:09:12 +0200"
-    },
-    {
-      "title": "Einigung zwischen Bund und Ländern: Reaktion der Brandenburger Kommunen",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/06/brandenburg-bund-laender-kommunen-finanzen.html",
-      "date": "Fri, 26 Jun 2026 19:39:10 +0200"
-    },
-    {
-      "title": "Berlin-Zehlendorf: Sprengkörper auf Werkstattgelände geworfen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-zehlendorf-polizei-sprengkoerper-wurf-autowerkstatt.html",
-      "date": "Fri, 26 Jun 2026 19:21:32 +0200"
-    },
-    {
-      "title": "Michaël Cuisance wechselt von Hertha BSC zum RC Lens",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-hertha-bsc-zweite-bundesliga-transfer-michael-cuisance-rc-lens.html",
-      "date": "Fri, 26 Jun 2026 19:01:07 +0200"
     }
   ],
   "police": [
@@ -128,14 +128,24 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "+++ Gewitter zieht über Westen Berlins und Brandenburgs +++ Orchester muss in Waldbühne Konzert leicht verkürzen +++",
+      "title": "Haus der Statistik in Berlin-Mitte: Auferstehung einer Ruine",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-mitte-haus-der-statistik-sanierung-neubau-initiative-hotel-rathaus-verwaltung.html",
+      "date": "Sun, 28 Jun 2026 08:46:55 +0200"
+    },
+    {
+      "title": "+++ Wieder extreme Hitze erwartet +++ Viele Feuerwehreinsätze nach Unwettern +++",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/liveticker-hitze-berlin-brandenburg-sommer-wetter-.html",
-      "date": "Sun, 28 Jun 2026 00:17:39 +0200"
+      "date": "Sun, 28 Jun 2026 08:43:47 +0200"
+    },
+    {
+      "title": "Berliner Kitas schließen wegen Geburtenrückgang",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berliner-kitas-fehlen-kinder-schliessungen.html",
+      "date": "Sun, 28 Jun 2026 07:33:10 +0200"
     },
     {
       "title": "Neuer Brandenburger Temperaturrekord: Über 40 Grad in Brandenburg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/temperaturrekorde-berlin-brandenburg-hitzewelle.html",
-      "date": "Sat, 27 Jun 2026 21:15:17 +0200"
+      "date": "Sat, 27 Jun 2026 21:15:00 +0200"
     },
     {
       "title": "Berlin: Männer greifen Transfrau und nicht-binären Menschen an",
@@ -176,16 +186,6 @@
       "title": "Zum Nachschauen: rbb24 spezial - Hitze in Berlin und Brandenburg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/livestream-rbb24-spezial-hitze-berlin-brandenburg.html",
       "date": "Fri, 26 Jun 2026 21:04:39 +0200"
-    },
-    {
-      "title": "A2 wegen Hitzeschäden gesperrt - Reparatur dauert noch ganzes Wochenende",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/autobahn-a2-gesperrt-wollin-ziesar-hitzeschaeden.html",
-      "date": "Fri, 26 Jun 2026 20:09:12 +0200"
-    },
-    {
-      "title": "Berlin-Zehlendorf: Sprengkörper auf Werkstattgelände geworfen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-zehlendorf-polizei-sprengkoerper-wurf-autowerkstatt.html",
-      "date": "Fri, 26 Jun 2026 19:21:32 +0200"
     }
   ]
 }
