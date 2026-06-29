@@ -1,6 +1,31 @@
 {
   "traffic": [
     {
+      "title": "Spezialkommando fasst vier Verdächtige nach Bistro-Überfall",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-tempelhof-bistro-ueberfall-verdaechtige-gefasst.html",
+      "date": "Mon, 29 Jun 2026 19:25:50 +0200"
+    },
+    {
+      "title": "Nach Verfassungsurteil: Brandenburger Beamte bekommen mehr Geld",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/06/brandenburg-beamte-rueckwirkend-januar-2026-mehr-geld-einigung.html",
+      "date": "Mon, 29 Jun 2026 18:27:52 +0200"
+    },
+    {
+      "title": "Angekündigte Gewitter sind nach Polen abgezogen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-wetter-unwetter-gewitter-hitze-abkuehlung.html",
+      "date": "Mon, 29 Jun 2026 17:22:36 +0200"
+    },
+    {
+      "title": "Hitze als Extremsituation in Krankenhäusern und Pflegeheimen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/interview-hitzeschutz-klimawandel-pflege-krankenhaus-jonas-gerke.html",
+      "date": "Mon, 29 Jun 2026 17:11:55 +0200"
+    },
+    {
+      "title": "Nord-Süd-Verbindung: Bahnprojekt führt zu langer Sperrzeit",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-bahnprojekt-regierungsviertel-lange-sperrung.html",
+      "date": "Mon, 29 Jun 2026 17:02:41 +0200"
+    },
+    {
       "title": "CSD-Aktionswochen in Cottbus offiziell gestartet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/csd-cottbus-niederlausitz-start-pride.html",
       "date": "Mon, 29 Jun 2026 16:15:13 +0200"
@@ -13,7 +38,7 @@
     {
       "title": "Brücken am Görlitzer Park ab 1. Juli auf unbestimmte Zeit gesperrt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/goerlitzer-bruecken-gesperrt-streit-sanierung-deutschebahn-bezirk.html",
-      "date": "Mon, 29 Jun 2026 15:50:53 +0200"
+      "date": "Mon, 29 Jun 2026 15:50:00 +0200"
     },
     {
       "title": "Elbe-Elster verbietet Wasserentnahme aus Flüssen, Bächen und Seen",
@@ -26,11 +51,6 @@
       "date": "Mon, 29 Jun 2026 15:36:35 +0200"
     },
     {
-      "title": "Liveticker zur Hitzewelle: ++ Frau bei Sturm von umstürzendem Baum schwer verletzt ++",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/liveticker-hitze-berlin-brandenburg-sommer-wetter-.html",
-      "date": "Mon, 29 Jun 2026 15:23:02 +0200"
-    },
-    {
       "title": "Keime: Buckower sollen weiterhin Trinkwasser abkochen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/buckow-trinkwasser-keime-abkochen.html",
       "date": "Mon, 29 Jun 2026 15:20:59 +0200"
@@ -39,26 +59,6 @@
       "title": "Mehr Beschwerden bei Brandenburger Polizeibeauftragter eingegangen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-mehr-beschwerden-polizeibeauftragte.html",
       "date": "Mon, 29 Jun 2026 14:54:30 +0200"
-    },
-    {
-      "title": "Hitze-Wochenende: Tausende Feuerwehr- und Polizeieinsätze",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-rekord-hitze-bilanz-wochenende.html",
-      "date": "Mon, 29 Jun 2026 14:36:53 +0200"
-    },
-    {
-      "title": "Größter künstlicher Seenverbund Europas offiziell eröffnet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/lausitzer-seenland-verbund-fuenf-seen.html",
-      "date": "Mon, 29 Jun 2026 14:36:12 +0200"
-    },
-    {
-      "title": "Neuer Autobahnabschnitt: A14 zwischen Wittenberge und Karstädt wird gebaut",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/a14-lueckenschluss-bauarbeiten-start-wittenberge-karstaedt-prignitz.html",
-      "date": "Mon, 29 Jun 2026 14:30:48 +0200"
-    },
-    {
-      "title": "Neuer Hort statt Kita in Bad Saarow (Oder-Spree) eröffnet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/hort-kita-eroeffnung-badsaarow-oderspree-schulkinder-geburtenrueckgang-betreuung.html",
-      "date": "Mon, 29 Jun 2026 14:19:57 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,31 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Spezialkommando fasst vier Verdächtige nach Bistro-Überfall",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-tempelhof-bistro-ueberfall-verdaechtige-gefasst.html",
+      "date": "Mon, 29 Jun 2026 19:25:50 +0200"
+    },
+    {
+      "title": "Angekündigte Gewitter sind nach Polen abgezogen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-wetter-unwetter-gewitter-hitze-abkuehlung.html",
+      "date": "Mon, 29 Jun 2026 17:22:36 +0200"
+    },
+    {
+      "title": "Hitze als Extremsituation in Krankenhäusern und Pflegeheimen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/interview-hitzeschutz-klimawandel-pflege-krankenhaus-jonas-gerke.html",
+      "date": "Mon, 29 Jun 2026 17:11:55 +0200"
+    },
+    {
+      "title": "Nord-Süd-Verbindung: Bahnprojekt führt zu langer Sperrzeit",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-bahnprojekt-regierungsviertel-lange-sperrung.html",
+      "date": "Mon, 29 Jun 2026 17:02:41 +0200"
+    },
+    {
+      "title": "Liveticker zur Hitze: ++ Juni in Berlin und Brandenburg ungewöhnlich heiß ++",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/liveticker-hitze-berlin-brandenburg-sommer-wetter-.html",
+      "date": "Mon, 29 Jun 2026 16:47:13 +0200"
+    },
+    {
       "title": "CSD-Aktionswochen in Cottbus offiziell gestartet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/csd-cottbus-niederlausitz-start-pride.html",
       "date": "Mon, 29 Jun 2026 16:15:13 +0200"
@@ -135,7 +160,7 @@
     {
       "title": "Brücken am Görlitzer Park ab 1. Juli auf unbestimmte Zeit gesperrt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/goerlitzer-bruecken-gesperrt-streit-sanierung-deutschebahn-bezirk.html",
-      "date": "Mon, 29 Jun 2026 15:50:53 +0200"
+      "date": "Mon, 29 Jun 2026 15:50:00 +0200"
     },
     {
       "title": "Elbe-Elster verbietet Wasserentnahme aus Flüssen, Bächen und Seen",
@@ -146,11 +171,6 @@
       "title": "Interview: Lausitzer Wälder bei Rekordhitze und Regenmangel",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/zustand-waelder-brandenburg-interview-osl.html",
       "date": "Mon, 29 Jun 2026 15:36:35 +0200"
-    },
-    {
-      "title": "Liveticker zur Hitzewelle: ++ Frau bei Sturm von umstürzendem Baum schwer verletzt ++",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/liveticker-hitze-berlin-brandenburg-sommer-wetter-.html",
-      "date": "Mon, 29 Jun 2026 15:23:02 +0200"
     },
     {
       "title": "Keime: Buckower sollen weiterhin Trinkwasser abkochen",
@@ -166,26 +186,6 @@
       "title": "Hitze-Wochenende: Tausende Feuerwehr- und Polizeieinsätze",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-rekord-hitze-bilanz-wochenende.html",
       "date": "Mon, 29 Jun 2026 14:36:53 +0200"
-    },
-    {
-      "title": "Größter künstlicher Seenverbund Europas offiziell eröffnet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/lausitzer-seenland-verbund-fuenf-seen.html",
-      "date": "Mon, 29 Jun 2026 14:36:12 +0200"
-    },
-    {
-      "title": "Neuer Autobahnabschnitt: A14 zwischen Wittenberge und Karstädt wird gebaut",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/a14-lueckenschluss-bauarbeiten-start-wittenberge-karstaedt-prignitz.html",
-      "date": "Mon, 29 Jun 2026 14:30:48 +0200"
-    },
-    {
-      "title": "Neuer Hort statt Kita in Bad Saarow (Oder-Spree) eröffnet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/hort-kita-eroeffnung-badsaarow-oderspree-schulkinder-geburtenrueckgang-betreuung.html",
-      "date": "Mon, 29 Jun 2026 14:19:57 +0200"
-    },
-    {
-      "title": "Richtfest für erste Gebäude in \"Siemensstadt Square\" in Berlin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-siemensstadt-square-richtfest-erste-gebaeude-siemensbahn.html",
-      "date": "Mon, 29 Jun 2026 13:34:52 +0200"
     }
   ]
 }
