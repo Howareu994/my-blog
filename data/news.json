@@ -1,14 +1,24 @@
 {
   "traffic": [
     {
-      "title": "+++ Hitzesonntag endet trocken +++ Neues deutschlandweites Allzeithoch in Coschen +++",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/liveticker-hitze-berlin-brandenburg-sommer-wetter-.html",
-      "date": "Sun, 28 Jun 2026 22:12:52 +0200"
+      "title": "Fünf Seen in der Lausitz sind jetzt miteinander verbunden",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-lausitz-seenland-fuenf-seen-verbund-reisen-seenkette.html",
+      "date": "Mon, 29 Jun 2026 07:16:47 +0200"
     },
     {
-      "title": "Union Berlin: Die zwei von der Baustelle",
+      "title": "Liveticker zur Hitzewelle: ++ Gewitter und Unwetter in Brandenburg ++",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/liveticker-hitze-berlin-brandenburg-sommer-wetter-.html",
+      "date": "Mon, 29 Jun 2026 07:14:51 +0200"
+    },
+    {
+      "title": "Kühle Ideen für den Hitze-Hotspot Karl-Marx-Straße",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/hitze-schutz-strassen-schnell-berlin-brandenburg.html",
+      "date": "Mon, 29 Jun 2026 06:26:44 +0200"
+    },
+    {
+      "title": "Union Berlin: Die Zwei von der Baustelle",
       "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-bundesliga-union-berlin-kaderbaustellen-neuer-trainer-lustrinelli.html",
-      "date": "Sun, 28 Jun 2026 19:25:41 +0200"
+      "date": "Sun, 28 Jun 2026 19:25:00 +0200"
     },
     {
       "title": "Paraguay-Fan über WM: \"Menschen sind richtige Fußball-Ultras\"",
@@ -19,6 +29,11 @@
       "title": "Kolumne: Was war das denn? - Bist du für Deutschland?",
       "link": "https://www.rbb24.de/panorama/thema/was-war-das-denn/kolumne-fussball-wm-nationalteam-identitaet-fans.html",
       "date": "Sun, 28 Jun 2026 18:22:32 +0200"
+    },
+    {
+      "title": "Innensenatorin spricht von Gefährdung des Kindeswohls auf schiitischer Demo",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/06/innensenatorin-spranger-kritisiert-schiitische-demo-kinder-berlin.html",
+      "date": "Sun, 28 Jun 2026 18:16:15 +0200"
     },
     {
       "title": "41,7 Grad: Deutsches Temperaturhoch in Brandenburg erreicht",
@@ -41,24 +56,9 @@
       "date": "Sun, 28 Jun 2026 13:45:45 +0200"
     },
     {
-      "title": "Pro und Contra: Sollen Bundesjugendspiele leistungsorientierter werden?",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/bundesjugendspiele-grundschule-wettkampf-leistung-kinder-pro-contra.html",
-      "date": "Sun, 28 Jun 2026 11:17:30 +0200"
-    },
-    {
-      "title": "Stichwahl um das Landratsamt in Ostprignitz-Ruppin angelaufen",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/06/stichwahl-landrat-ostprignitz-ruppin-reinhardt-spd-arndt-afd.html",
-      "date": "Sun, 28 Jun 2026 08:06:00 +0200"
-    },
-    {
-      "title": "Erik Spiekermann: Typograf von BVG und Deutscher Bahn im Interview",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/berlin-erik-spiekermann-bvg-deutsche-bahn-typograf-interview.html",
-      "date": "Sun, 28 Jun 2026 07:29:19 +0200"
-    },
-    {
-      "title": "Energie Cottbus gewinnt auch zweites Testspiel gegen unterklassigen Gegner",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-zweite-bundesliga-fc-energie-cottbus-testspiel-lok-calau-bittencourt.html",
-      "date": "Sat, 27 Jun 2026 22:16:26 +0200"
+      "title": "Haus der Statistik in Berlin-Mitte: Auferstehung einer Ruine",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-mitte-haus-der-statistik-sanierung-neubau-initiative-hotel-rathaus-verwaltung.html",
+      "date": "Sun, 28 Jun 2026 08:46:55 +0200"
     }
   ],
   "police": [
@@ -128,9 +128,19 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "+++ Hitzesonntag endet trocken +++ Neues deutschlandweites Allzeithoch in Coschen +++",
+      "title": "Fünf Seen in der Lausitz sind jetzt miteinander verbunden",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-lausitz-seenland-fuenf-seen-verbund-reisen-seenkette.html",
+      "date": "Mon, 29 Jun 2026 07:16:47 +0200"
+    },
+    {
+      "title": "Liveticker zur Hitzewelle: ++ Gewitter und Unwetter in Brandenburg ++",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/liveticker-hitze-berlin-brandenburg-sommer-wetter-.html",
-      "date": "Sun, 28 Jun 2026 22:12:52 +0200"
+      "date": "Mon, 29 Jun 2026 07:14:51 +0200"
+    },
+    {
+      "title": "Kühle Ideen für den Hitze-Hotspot Karl-Marx-Straße",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/hitze-schutz-strassen-schnell-berlin-brandenburg.html",
+      "date": "Mon, 29 Jun 2026 06:26:44 +0200"
     },
     {
       "title": "Kolumne: Was war das denn? - Bist du für Deutschland?",
@@ -176,16 +186,6 @@
       "title": "An der Tanke: \"Der Osten ist mein Vater, meine Mutter und mein Heimatland\"",
       "link": "https://www.rbb24.de/panorama/thema/an-der-tanke/brandenburg-an-der-tanke-bierkutscher-ddr-osten.html",
       "date": "Sat, 27 Jun 2026 17:11:13 +0200"
-    },
-    {
-      "title": "Mann fährt mit Motorroller auf A24 und verunglückt tödlich",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-autobahn-a24-toedlicher-unfall-motorroller-ostprignitz-ruppin.html",
-      "date": "Sat, 27 Jun 2026 15:09:00 +0200"
-    },
-    {
-      "title": "Fünf Seen in der Lausitz sind jetzt miteinander verbunden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-lausitz-seenland-fuenf-seen-verbund-reisen-seenkette.html",
-      "date": "Sat, 27 Jun 2026 15:06:23 +0200"
     }
   ]
 }
