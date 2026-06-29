@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Neuer Autobahnabschnitt: A14 zwischen Wittenberge und Karstädt wird gebaut",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/a14-lueckenschluss-bauarbeiten-start-wittenberge-karstaedt-prignitz.html",
+      "date": "Mon, 29 Jun 2026 20:22:45 +0200"
+    },
+    {
+      "title": "Hitzeschäden: Autobahn-Abschnitte in Brandenburg gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/hitze-schaeden-a115-sperrung-potsdam-autobahn-a2.html",
+      "date": "Mon, 29 Jun 2026 20:21:40 +0200"
+    },
+    {
+      "title": "Größter künstlicher Seenverbund Europas offiziell eröffnet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/lausitzer-seenland-verbund-fuenf-seen.html",
+      "date": "Mon, 29 Jun 2026 20:09:36 +0200"
+    },
+    {
       "title": "Spezialkommando fasst vier Verdächtige nach Bistro-Überfall",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-tempelhof-bistro-ueberfall-verdaechtige-gefasst.html",
       "date": "Mon, 29 Jun 2026 19:25:50 +0200"
@@ -44,21 +59,6 @@
       "title": "Elbe-Elster verbietet Wasserentnahme aus Flüssen, Bächen und Seen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/wasser-entnahme-verbot-brandenburg-trockenheit.html",
       "date": "Mon, 29 Jun 2026 15:44:58 +0200"
-    },
-    {
-      "title": "Interview: Lausitzer Wälder bei Rekordhitze und Regenmangel",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/zustand-waelder-brandenburg-interview-osl.html",
-      "date": "Mon, 29 Jun 2026 15:36:35 +0200"
-    },
-    {
-      "title": "Keime: Buckower sollen weiterhin Trinkwasser abkochen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/buckow-trinkwasser-keime-abkochen.html",
-      "date": "Mon, 29 Jun 2026 15:20:59 +0200"
-    },
-    {
-      "title": "Mehr Beschwerden bei Brandenburger Polizeibeauftragter eingegangen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-mehr-beschwerden-polizeibeauftragte.html",
-      "date": "Mon, 29 Jun 2026 14:54:30 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,21 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Neuer Autobahnabschnitt: A14 zwischen Wittenberge und Karstädt wird gebaut",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/a14-lueckenschluss-bauarbeiten-start-wittenberge-karstaedt-prignitz.html",
+      "date": "Mon, 29 Jun 2026 20:22:45 +0200"
+    },
+    {
+      "title": "Hitzeschäden: Autobahn-Abschnitte in Brandenburg gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/hitze-schaeden-a115-sperrung-potsdam-autobahn-a2.html",
+      "date": "Mon, 29 Jun 2026 20:21:40 +0200"
+    },
+    {
+      "title": "Größter künstlicher Seenverbund Europas offiziell eröffnet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/lausitzer-seenland-verbund-fuenf-seen.html",
+      "date": "Mon, 29 Jun 2026 20:09:36 +0200"
+    },
+    {
       "title": "Spezialkommando fasst vier Verdächtige nach Bistro-Überfall",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-tempelhof-bistro-ueberfall-verdaechtige-gefasst.html",
       "date": "Mon, 29 Jun 2026 19:25:50 +0200"
@@ -171,21 +186,6 @@
       "title": "Interview: Lausitzer Wälder bei Rekordhitze und Regenmangel",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/zustand-waelder-brandenburg-interview-osl.html",
       "date": "Mon, 29 Jun 2026 15:36:35 +0200"
-    },
-    {
-      "title": "Keime: Buckower sollen weiterhin Trinkwasser abkochen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/buckow-trinkwasser-keime-abkochen.html",
-      "date": "Mon, 29 Jun 2026 15:20:59 +0200"
-    },
-    {
-      "title": "Mehr Beschwerden bei Brandenburger Polizeibeauftragter eingegangen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-mehr-beschwerden-polizeibeauftragte.html",
-      "date": "Mon, 29 Jun 2026 14:54:30 +0200"
-    },
-    {
-      "title": "Hitze-Wochenende: Tausende Feuerwehr- und Polizeieinsätze",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-rekord-hitze-bilanz-wochenende.html",
-      "date": "Mon, 29 Jun 2026 14:36:53 +0200"
     }
   ]
 }
