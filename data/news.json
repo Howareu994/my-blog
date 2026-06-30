@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Mann ertrinkt im Urbanhafen in Berlin-Kreuzberg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-kreuzberg-toter-urbanhafen-ertrunken.html",
+      "date": "Tue, 30 Jun 2026 12:00:40 +0200"
+    },
+    {
+      "title": "25 Kilo Cannabis an Paketzentrum geliefert - Empfänger gefasst",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-zoll-schnappt-mann-19-kilo-cannabis-paket.html",
+      "date": "Tue, 30 Jun 2026 11:56:43 +0200"
+    },
+    {
+      "title": "Deutsche Nationalmannschaft: Enttäuschung in der Region nach WM-Aus",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-wm-ende-fans-reaktionen-deutschland.html",
+      "date": "Tue, 30 Jun 2026 10:32:00 +0200"
+    },
+    {
       "title": "Wetterprognose: Gewitter ziehen auf – danach wird es deutlich kühler",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-gewitter-hitzewelle-regen-wetterprognose.html",
       "date": "Tue, 30 Jun 2026 08:10:50 +0200"
@@ -11,19 +26,19 @@
       "date": "Tue, 30 Jun 2026 08:09:28 +0200"
     },
     {
-      "title": "Deutsche Nationalmannschaft: Enttäuschung in der Region nach WM-Aus",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-wm-ende-fans-reaktionen-deutschland.html",
-      "date": "Tue, 30 Jun 2026 07:50:18 +0200"
-    },
-    {
       "title": "Entlassener Staatssekretär Hundt: Rücknahme der Ernennung?",
       "link": "https://www.rbb24.de/politik/beitrag/2026/06/hundt-berlin-staatssekretaer-entlassung-uebergangsgeld.html",
       "date": "Tue, 30 Jun 2026 07:43:03 +0200"
     },
     {
+      "title": "Neue Regeln und Gesetze: Das ändert sich im Juli",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brandenburg-juli-neue-gesetze-regeln-termine.html",
+      "date": "Tue, 30 Jun 2026 06:09:44 +0200"
+    },
+    {
       "title": "Neue Technik: Bäderbetriebe wollen KI gegen Ertrinken erproben",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-ki-erprobung-baederbetriebe-ertrinken.html",
-      "date": "Tue, 30 Jun 2026 06:08:02 +0200"
+      "date": "Tue, 30 Jun 2026 06:08:00 +0200"
     },
     {
       "title": "Neuer Autobahnabschnitt: A14 zwischen Wittenberge und Karstädt wird gebaut",
@@ -44,24 +59,24 @@
       "title": "Nach Verfassungsurteil: Brandenburger Beamte bekommen mehr Geld",
       "link": "https://www.rbb24.de/politik/beitrag/2026/06/brandenburg-beamte-rueckwirkend-januar-2026-mehr-geld-einigung.html",
       "date": "Mon, 29 Jun 2026 18:27:52 +0200"
-    },
-    {
-      "title": "Angekündigte Gewitter sind nach Polen abgezogen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-wetter-unwetter-gewitter-hitze-abkuehlung.html",
-      "date": "Mon, 29 Jun 2026 17:22:36 +0200"
-    },
-    {
-      "title": "Hitze als Extremsituation in Krankenhäusern und Pflegeheimen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/interview-hitzeschutz-klimawandel-pflege-krankenhaus-jonas-gerke.html",
-      "date": "Mon, 29 Jun 2026 17:11:55 +0200"
-    },
-    {
-      "title": "Nord-Süd-Verbindung: Bahnprojekt führt zu langer Sperrzeit",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-bahnprojekt-regierungsviertel-lange-sperrung.html",
-      "date": "Mon, 29 Jun 2026 17:02:41 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Tätlicher Angriff und Widerstand - mehrere verletzte Einsatzkräfte",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1687716.php",
+      "date": "Tue, 30 Jun 2026 11:46:00 +0200"
+    },
+    {
+      "title": "Polizeibeamtin bei Einsatz angegriffen und verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1687712.php",
+      "date": "Tue, 30 Jun 2026 11:32:00 +0200"
+    },
+    {
+      "title": "Neunjährige vermisst – Polizei bittet um Mithilfe",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1687556.php",
+      "date": "Tue, 30 Jun 2026 09:45:08 +0200"
+    },
     {
       "title": "Festnahmen nach räuberischer Erpressung und Schussabgabe – BAO Ferrum ermittelt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1687456.php",
@@ -106,27 +121,32 @@
       "title": "Aus Hochzeitskorso heraus mit Waffe bedroht",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1686897.php",
       "date": "Sun, 28 Jun 2026 15:27:28 +0200"
-    },
-    {
-      "title": "Versammlungsgeschehen zu einem angezeigten Aufzug anlässlich des 10. Muharram",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1686896.php",
-      "date": "Sun, 28 Jun 2026 15:02:00 +0200"
-    },
-    {
-      "title": "Gefährliche Körperverletzung nach Streit – Mann mit Stichverletzung im Krankenhaus",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1686891.php",
-      "date": "Sun, 28 Jun 2026 14:28:00 +0200"
-    },
-    {
-      "title": "Verkehrsunfall mit Polizeibeteiligung",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1686886.php",
-      "date": "Sun, 28 Jun 2026 13:19:36 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Mann ertrinkt im Urbanhafen in Berlin-Kreuzberg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-kreuzberg-toter-urbanhafen-ertrunken.html",
+      "date": "Tue, 30 Jun 2026 12:00:40 +0200"
+    },
+    {
+      "title": "25 Kilo Cannabis an Paketzentrum geliefert - Empfänger gefasst",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-zoll-schnappt-mann-19-kilo-cannabis-paket.html",
+      "date": "Tue, 30 Jun 2026 11:56:43 +0200"
+    },
+    {
+      "title": "26 Schreiadler-Küken in Potsdamer Aufzuchtstation geschlüpft",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/potsdam-aufzucht-schreiadler-kueken-pflege-vogel-tierschutz-adler.html",
+      "date": "Tue, 30 Jun 2026 11:35:43 +0200"
+    },
+    {
+      "title": "Deutsche Nationalmannschaft: Enttäuschung in der Region nach WM-Aus",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-wm-ende-fans-reaktionen-deutschland.html",
+      "date": "Tue, 30 Jun 2026 10:32:00 +0200"
+    },
     {
       "title": "Wetterprognose: Gewitter ziehen auf – danach wird es deutlich kühler",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-gewitter-hitzewelle-regen-wetterprognose.html",
@@ -138,11 +158,6 @@
       "date": "Tue, 30 Jun 2026 08:09:28 +0200"
     },
     {
-      "title": "Deutsche Nationalmannschaft: Enttäuschung in der Region nach WM-Aus",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-wm-ende-fans-reaktionen-deutschland.html",
-      "date": "Tue, 30 Jun 2026 07:50:18 +0200"
-    },
-    {
       "title": "Neue Regeln und Gesetze: Das ändert sich im Juli",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brandenburg-juli-neue-gesetze-regeln-termine.html",
       "date": "Tue, 30 Jun 2026 06:09:44 +0200"
@@ -150,7 +165,7 @@
     {
       "title": "Neue Technik: Bäderbetriebe wollen KI gegen Ertrinken erproben",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-ki-erprobung-baederbetriebe-ertrinken.html",
-      "date": "Tue, 30 Jun 2026 06:08:02 +0200"
+      "date": "Tue, 30 Jun 2026 06:08:00 +0200"
     },
     {
       "title": "Neuer Autobahnabschnitt: A14 zwischen Wittenberge und Karstädt wird gebaut",
@@ -171,21 +186,6 @@
       "title": "Angekündigte Gewitter sind nach Polen abgezogen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-wetter-unwetter-gewitter-hitze-abkuehlung.html",
       "date": "Mon, 29 Jun 2026 17:22:36 +0200"
-    },
-    {
-      "title": "Hitze als Extremsituation in Krankenhäusern und Pflegeheimen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/interview-hitzeschutz-klimawandel-pflege-krankenhaus-jonas-gerke.html",
-      "date": "Mon, 29 Jun 2026 17:11:55 +0200"
-    },
-    {
-      "title": "Nord-Süd-Verbindung: Bahnprojekt führt zu langer Sperrzeit",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-bahnprojekt-regierungsviertel-lange-sperrung.html",
-      "date": "Mon, 29 Jun 2026 17:02:41 +0200"
-    },
-    {
-      "title": "Liveticker zur Hitze: ++ Juni in Berlin und Brandenburg ungewöhnlich heiß ++",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/liveticker-hitze-berlin-brandenburg-sommer-wetter-.html",
-      "date": "Mon, 29 Jun 2026 16:47:13 +0200"
     }
   ]
 }
