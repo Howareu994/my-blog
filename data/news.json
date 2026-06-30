@@ -1,6 +1,46 @@
 {
   "traffic": [
     {
+      "title": "Am Späti in Haselhorst: \"Sauberkeit, Korrektheit, nicht so viel lügen und spinnen\"",
+      "link": "https://www.rbb24.de/panorama/thema/spaeti/berlin-haselhorst-am-spaeti-rentnerin.html",
+      "date": "Tue, 30 Jun 2026 18:12:15 +0200"
+    },
+    {
+      "title": "Wohnungsbestand in Berlin und Brandenburg wächst langsamer",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/berlin-brandenburg-wohnungsbestand-wachstum-langsamer.html",
+      "date": "Tue, 30 Jun 2026 17:16:16 +0200"
+    },
+    {
+      "title": "Windkraft: 35 Vorranggebiete für Oderland-Spree beschlossen",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/windkraft-ausbau-vorranggebiete-oderland-spree-frankfurt-planung-eeg-erneuerbareenergie-brandenburg.html",
+      "date": "Tue, 30 Jun 2026 16:53:41 +0200"
+    },
+    {
+      "title": "Bündnis in Berlin fordert feste Stationen für E-Scooter bereits ab April 2027",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-buendnis-fordert-ende-von-e-scootern-auf-gehwegen.html",
+      "date": "Tue, 30 Jun 2026 16:33:43 +0200"
+    },
+    {
+      "title": "Reform gescheitert: Diskussion um Regionalliga-Aufstieg geht weiter",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-regionalliga-nordost-meister-muessen-aufstiegen-reform-abstimmung-nofv-dfb.html",
+      "date": "Tue, 30 Jun 2026 16:26:39 +0200"
+    },
+    {
+      "title": "Deutsche Nationalmannschaft: Enttäuschung in der Region nach WM-Aus",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-wm-ende-fans-reaktionen-deutschland.html",
+      "date": "Tue, 30 Jun 2026 15:36:39 +0200"
+    },
+    {
+      "title": "Fernverkehrsmarkt: Bahn muss mehr Platz für Konkurrenten schaffen",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/berlin-brandenburg-bahn-mehr-konkurrenz-zulassen-bundesnetzagentur.html",
+      "date": "Tue, 30 Jun 2026 15:32:08 +0200"
+    },
+    {
+      "title": "Staatsanwaltschaft Berlin: BKA zerschlägt mutmaßliches Netzwerk der Organisierten Kriminalität",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-bka-polizeienhaftbefehl-ok-international-agierende-gruppierung.html",
+      "date": "Tue, 30 Jun 2026 15:13:28 +0200"
+    },
+    {
       "title": "Unterricht an Lebuser Schule fällt wegen Lehrermangel monatelang aus",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/schule-unterricht-ausfall-lebus-lehrermangel-oderland-brandenburg.html",
       "date": "Tue, 30 Jun 2026 15:00:12 +0200"
@@ -11,57 +51,27 @@
       "date": "Tue, 30 Jun 2026 14:47:31 +0200"
     },
     {
-      "title": "Basktebtall: Alba Berlin verpflichtet Aufbauspieler Jordan Ford",
+      "title": "Basketball: Alba Berlin verpflichtet Aufbauspieler Jordan Ford",
       "link": "https://www.rbb24.de/sport/beitrag/2026/06/basketball-bundesliga-bbl-champions-league-alba-berlin-jordan-ford-jack-kayil.html",
-      "date": "Tue, 30 Jun 2026 14:34:54 +0200"
+      "date": "Tue, 30 Jun 2026 14:34:00 +0200"
     },
     {
       "title": "Tausende Haushalte in Cottbus ohne Warmwasser",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/warmwasser-fernwarme-cottbus-unterbrechung.html",
       "date": "Tue, 30 Jun 2026 14:11:11 +0200"
-    },
-    {
-      "title": "Finanzsorgen in Oberhavel: Doch kein Geld für neue Schulen",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/06/oberhavel-toennies-haushaltssperre-schule-bildung-finanzen.html",
-      "date": "Tue, 30 Jun 2026 14:08:10 +0200"
-    },
-    {
-      "title": "WM-Kolumne: Für die Tonne - und ganz egal",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-wm-kolumne-ausscheiden-deutsche-mannschaft-paraguay-egal.html",
-      "date": "Tue, 30 Jun 2026 13:57:54 +0200"
-    },
-    {
-      "title": "Verdacht auf Korruption: Ehemalige Landesamtsmitarbeiterin angeklagt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-anklage-verdacht-korruption-landesamt-einwanderung.html",
-      "date": "Tue, 30 Jun 2026 13:47:49 +0200"
-    },
-    {
-      "title": "A12 wird am Mittwoch im Bereich Briesen wegen Bombenentschärfung gesperrt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/bombe-entschaerfung-oderspree-autobahn-a12-briesen-weltkrieg-kampfmittel-brandenburg.html",
-      "date": "Tue, 30 Jun 2026 13:21:26 +0200"
-    },
-    {
-      "title": "Mann ertrinkt im Urbanhafen in Berlin-Kreuzberg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-kreuzberg-toter-urbanhafen-ertrunken.html",
-      "date": "Tue, 30 Jun 2026 12:00:40 +0200"
-    },
-    {
-      "title": "25 Kilo Cannabis an Paketzentrum geliefert - Empfänger gefasst",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-zoll-schnappt-mann-19-kilo-cannabis-paket.html",
-      "date": "Tue, 30 Jun 2026 11:56:43 +0200"
-    },
-    {
-      "title": "Deutsche Nationalmannschaft: Enttäuschung in der Region nach WM-Aus",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-wm-ende-fans-reaktionen-deutschland.html",
-      "date": "Tue, 30 Jun 2026 10:32:00 +0200"
-    },
-    {
-      "title": "Wetterprognose: Gewitter ziehen auf – danach wird es deutlich kühler",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-gewitter-hitzewelle-regen-wetterprognose.html",
-      "date": "Tue, 30 Jun 2026 08:10:50 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Kind nach Unfall in Krankenhaus",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1687996.php",
+      "date": "Tue, 30 Jun 2026 16:00:40 +0200"
+    },
+    {
+      "title": "Schwerer Landfriedensbruch nach Fußball-WM-Aus",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1687937.php",
+      "date": "Tue, 30 Jun 2026 15:08:58 +0200"
+    },
     {
       "title": "Explosion auf Betriebsgelände – Zeuginnen und Zeugen gesucht",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1686680.php",
@@ -111,22 +121,37 @@
       "title": "Sicherheitskooperation (SiKoop) der Länder führt gemeinsame Aktionswoche gegen Straftaten zum Nachteil von älteren Menschen (SÄM) durch",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1687326.php",
       "date": "Mon, 29 Jun 2026 14:26:16 +0200"
-    },
-    {
-      "title": "Busfahrer verletzt und mit Reizstoff besprüht",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1687228.php",
-      "date": "Mon, 29 Jun 2026 13:34:43 +0200"
-    },
-    {
-      "title": "Kind bei Verkehrsunfall verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1687106.php",
-      "date": "Mon, 29 Jun 2026 11:21:21 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Am Späti in Haselhorst: \"Sauberkeit, Korrektheit, nicht so viel lügen und spinnen\"",
+      "link": "https://www.rbb24.de/panorama/thema/spaeti/berlin-haselhorst-am-spaeti-rentnerin.html",
+      "date": "Tue, 30 Jun 2026 18:12:15 +0200"
+    },
+    {
+      "title": "Bündnis in Berlin fordert feste Stationen für E-Scooter bereits ab April 2027",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-buendnis-fordert-ende-von-e-scootern-auf-gehwegen.html",
+      "date": "Tue, 30 Jun 2026 16:33:43 +0200"
+    },
+    {
+      "title": "Finsterwalder Wärmestube hilft Bedürftigen auch bei Hitze",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/schutz-hitze-waermestube-finsterwalde.html",
+      "date": "Tue, 30 Jun 2026 16:20:11 +0200"
+    },
+    {
+      "title": "Deutsche Nationalmannschaft: Enttäuschung in der Region nach WM-Aus",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-wm-ende-fans-reaktionen-deutschland.html",
+      "date": "Tue, 30 Jun 2026 15:36:39 +0200"
+    },
+    {
+      "title": "Staatsanwaltschaft Berlin: BKA zerschlägt mutmaßliches Netzwerk der Organisierten Kriminalität",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-bka-polizeienhaftbefehl-ok-international-agierende-gruppierung.html",
+      "date": "Tue, 30 Jun 2026 15:13:28 +0200"
+    },
     {
       "title": "Unterricht an Lebuser Schule fällt wegen Lehrermangel monatelang aus",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/schule-unterricht-ausfall-lebus-lehrermangel-oderland-brandenburg.html",
@@ -161,31 +186,6 @@
       "title": "25 Kilo Cannabis an Paketzentrum geliefert - Empfänger gefasst",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-zoll-schnappt-mann-19-kilo-cannabis-paket.html",
       "date": "Tue, 30 Jun 2026 11:56:43 +0200"
-    },
-    {
-      "title": "26 Schreiadler-Küken in Potsdamer Aufzuchtstation geschlüpft",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/potsdam-aufzucht-schreiadler-kueken-pflege-vogel-tierschutz-adler.html",
-      "date": "Tue, 30 Jun 2026 11:35:43 +0200"
-    },
-    {
-      "title": "Deutsche Nationalmannschaft: Enttäuschung in der Region nach WM-Aus",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-wm-ende-fans-reaktionen-deutschland.html",
-      "date": "Tue, 30 Jun 2026 10:32:00 +0200"
-    },
-    {
-      "title": "Wetterprognose: Gewitter ziehen auf – danach wird es deutlich kühler",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-gewitter-hitzewelle-regen-wetterprognose.html",
-      "date": "Tue, 30 Jun 2026 08:10:50 +0200"
-    },
-    {
-      "title": "Größter künstlicher Seenverbund Europas offiziell eröffnet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/lausitzer-seenland-verbund-fuenf-seen.html",
-      "date": "Tue, 30 Jun 2026 08:09:28 +0200"
-    },
-    {
-      "title": "Neue Regeln und Gesetze: Das ändert sich im Juli",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brandenburg-juli-neue-gesetze-regeln-termine.html",
-      "date": "Tue, 30 Jun 2026 06:09:44 +0200"
     }
   ]
 }
