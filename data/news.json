@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Prignitz: Lenzen bekommt neuen Amtsdirektor",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/06/brandenburg-prignitz-lenzen-neuer-amtsdirektor.html",
+      "date": "Tue, 30 Jun 2026 21:42:22 +0200"
+    },
+    {
+      "title": "Hitzeschäden auf A2 sollen bis Mittwochabend repariert sein",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/hitzeschaeden-autobahn-a2-reparatur-bis-mittwochabend.html",
+      "date": "Tue, 30 Jun 2026 21:21:35 +0200"
+    },
+    {
+      "title": "Wohnungsbestand in Berlin und Brandenburg wächst langsamer",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/berlin-brandenburg-wohnungsbestand-wachstum-langsamer.html",
+      "date": "Tue, 30 Jun 2026 21:20:39 +0200"
+    },
+    {
       "title": "Bündnis in Berlin fordert feste Stationen für E-Scooter bereits ab April 2027",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-buendnis-fordert-ende-von-e-scootern-auf-gehwegen.html",
       "date": "Tue, 30 Jun 2026 19:54:27 +0200"
@@ -26,11 +41,6 @@
       "date": "Tue, 30 Jun 2026 18:12:15 +0200"
     },
     {
-      "title": "Wohnungsbestand in Berlin und Brandenburg wächst langsamer",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/berlin-brandenburg-wohnungsbestand-wachstum-langsamer.html",
-      "date": "Tue, 30 Jun 2026 17:16:16 +0200"
-    },
-    {
       "title": "Windkraft: 35 Vorranggebiete für Oderland-Spree beschlossen",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/windkraft-ausbau-vorranggebiete-oderland-spree-frankfurt-planung-eeg-erneuerbareenergie-brandenburg.html",
       "date": "Tue, 30 Jun 2026 16:53:41 +0200"
@@ -49,16 +59,6 @@
       "title": "Fernverkehrsmarkt: Bahn muss mehr Platz für Konkurrenten schaffen",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/berlin-brandenburg-bahn-mehr-konkurrenz-zulassen-bundesnetzagentur.html",
       "date": "Tue, 30 Jun 2026 15:32:08 +0200"
-    },
-    {
-      "title": "Staatsanwaltschaft Berlin: BKA zerschlägt mutmaßliches Netzwerk der Organisierten Kriminalität",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-bka-polizeienhaftbefehl-ok-international-agierende-gruppierung.html",
-      "date": "Tue, 30 Jun 2026 15:13:28 +0200"
-    },
-    {
-      "title": "Unterricht an Lebuser Schule fällt wegen Lehrermangel monatelang aus",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/schule-unterricht-ausfall-lebus-lehrermangel-oderland-brandenburg.html",
-      "date": "Tue, 30 Jun 2026 15:00:12 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Hitzeschäden auf A2 sollen bis Mittwochabend repariert sein",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/hitzeschaeden-autobahn-a2-reparatur-bis-mittwochabend.html",
+      "date": "Tue, 30 Jun 2026 21:21:35 +0200"
+    },
+    {
       "title": "Bündnis in Berlin fordert feste Stationen für E-Scooter bereits ab April 2027",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-buendnis-fordert-ende-von-e-scootern-auf-gehwegen.html",
       "date": "Tue, 30 Jun 2026 19:54:27 +0200"
@@ -181,11 +186,6 @@
       "title": "A12 wird am Mittwoch im Bereich Briesen wegen Bombenentschärfung gesperrt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/bombe-entschaerfung-oderspree-autobahn-a12-briesen-weltkrieg-kampfmittel-brandenburg.html",
       "date": "Tue, 30 Jun 2026 13:21:26 +0200"
-    },
-    {
-      "title": "Mann ertrinkt im Urbanhafen in Berlin-Kreuzberg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-kreuzberg-toter-urbanhafen-ertrunken.html",
-      "date": "Tue, 30 Jun 2026 12:00:40 +0200"
     }
   ]
 }
