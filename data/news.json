@@ -1,6 +1,26 @@
 {
   "traffic": [
     {
+      "title": "Bündnis in Berlin fordert feste Stationen für E-Scooter bereits ab April 2027",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-buendnis-fordert-ende-von-e-scootern-auf-gehwegen.html",
+      "date": "Tue, 30 Jun 2026 19:54:27 +0200"
+    },
+    {
+      "title": "VTG schließt Instandhaltungswerk für Güterwaggons in Großräschen",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/grossraeschen-vtg-instandhaltungswerk-gueterwaggons-schliesst.html",
+      "date": "Tue, 30 Jun 2026 19:12:17 +0200"
+    },
+    {
+      "title": "BVG: U-Bahnhof Nollendorfplatz heißt \"im Regenbogenkiez\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-u-bahnhof-pride-month-schild-regenbogenkiez-bvg.html",
+      "date": "Tue, 30 Jun 2026 19:10:39 +0200"
+    },
+    {
+      "title": "Verdacht auf Korruption: Ehemalige Landesamtsmitarbeiterin angeklagt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-anklage-verdacht-korruption-landesamt-einwanderung.html",
+      "date": "Tue, 30 Jun 2026 18:43:47 +0200"
+    },
+    {
       "title": "Am Späti in Haselhorst: \"Sauberkeit, Korrektheit, nicht so viel lügen und spinnen\"",
       "link": "https://www.rbb24.de/panorama/thema/spaeti/berlin-haselhorst-am-spaeti-rentnerin.html",
       "date": "Tue, 30 Jun 2026 18:12:15 +0200"
@@ -14,11 +34,6 @@
       "title": "Windkraft: 35 Vorranggebiete für Oderland-Spree beschlossen",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/windkraft-ausbau-vorranggebiete-oderland-spree-frankfurt-planung-eeg-erneuerbareenergie-brandenburg.html",
       "date": "Tue, 30 Jun 2026 16:53:41 +0200"
-    },
-    {
-      "title": "Bündnis in Berlin fordert feste Stationen für E-Scooter bereits ab April 2027",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-buendnis-fordert-ende-von-e-scootern-auf-gehwegen.html",
-      "date": "Tue, 30 Jun 2026 16:33:43 +0200"
     },
     {
       "title": "Reform gescheitert: Diskussion um Regionalliga-Aufstieg geht weiter",
@@ -44,21 +59,6 @@
       "title": "Unterricht an Lebuser Schule fällt wegen Lehrermangel monatelang aus",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/schule-unterricht-ausfall-lebus-lehrermangel-oderland-brandenburg.html",
       "date": "Tue, 30 Jun 2026 15:00:12 +0200"
-    },
-    {
-      "title": "Neunjähriges Mädchen aus Berlin vermisst",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-adlershof-neun-jaehriges-maedchen-vermisst.html",
-      "date": "Tue, 30 Jun 2026 14:47:31 +0200"
-    },
-    {
-      "title": "Basketball: Alba Berlin verpflichtet Aufbauspieler Jordan Ford",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/basketball-bundesliga-bbl-champions-league-alba-berlin-jordan-ford-jack-kayil.html",
-      "date": "Tue, 30 Jun 2026 14:34:00 +0200"
-    },
-    {
-      "title": "Tausende Haushalte in Cottbus ohne Warmwasser",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/warmwasser-fernwarme-cottbus-unterbrechung.html",
-      "date": "Tue, 30 Jun 2026 14:11:11 +0200"
     }
   ],
   "police": [
@@ -128,14 +128,24 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Bündnis in Berlin fordert feste Stationen für E-Scooter bereits ab April 2027",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-buendnis-fordert-ende-von-e-scootern-auf-gehwegen.html",
+      "date": "Tue, 30 Jun 2026 19:54:27 +0200"
+    },
+    {
+      "title": "BVG: U-Bahnhof Nollendorfplatz heißt \"im Regenbogenkiez\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-u-bahnhof-pride-month-schild-regenbogenkiez-bvg.html",
+      "date": "Tue, 30 Jun 2026 19:10:39 +0200"
+    },
+    {
+      "title": "Verdacht auf Korruption: Ehemalige Landesamtsmitarbeiterin angeklagt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-anklage-verdacht-korruption-landesamt-einwanderung.html",
+      "date": "Tue, 30 Jun 2026 18:43:47 +0200"
+    },
+    {
       "title": "Am Späti in Haselhorst: \"Sauberkeit, Korrektheit, nicht so viel lügen und spinnen\"",
       "link": "https://www.rbb24.de/panorama/thema/spaeti/berlin-haselhorst-am-spaeti-rentnerin.html",
       "date": "Tue, 30 Jun 2026 18:12:15 +0200"
-    },
-    {
-      "title": "Bündnis in Berlin fordert feste Stationen für E-Scooter bereits ab April 2027",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-buendnis-fordert-ende-von-e-scootern-auf-gehwegen.html",
-      "date": "Tue, 30 Jun 2026 16:33:43 +0200"
     },
     {
       "title": "Finsterwalder Wärmestube hilft Bedürftigen auch bei Hitze",
@@ -168,11 +178,6 @@
       "date": "Tue, 30 Jun 2026 14:11:11 +0200"
     },
     {
-      "title": "Verdacht auf Korruption: Ehemalige Landesamtsmitarbeiterin angeklagt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-anklage-verdacht-korruption-landesamt-einwanderung.html",
-      "date": "Tue, 30 Jun 2026 13:47:49 +0200"
-    },
-    {
       "title": "A12 wird am Mittwoch im Bereich Briesen wegen Bombenentschärfung gesperrt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/bombe-entschaerfung-oderspree-autobahn-a12-briesen-weltkrieg-kampfmittel-brandenburg.html",
       "date": "Tue, 30 Jun 2026 13:21:26 +0200"
@@ -181,11 +186,6 @@
       "title": "Mann ertrinkt im Urbanhafen in Berlin-Kreuzberg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-kreuzberg-toter-urbanhafen-ertrunken.html",
       "date": "Tue, 30 Jun 2026 12:00:40 +0200"
-    },
-    {
-      "title": "25 Kilo Cannabis an Paketzentrum geliefert - Empfänger gefasst",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-zoll-schnappt-mann-19-kilo-cannabis-paket.html",
-      "date": "Tue, 30 Jun 2026 11:56:43 +0200"
     }
   ]
 }
