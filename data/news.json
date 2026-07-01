@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Lustrinelli startet die Mission, Union zu revolutionieren",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/berlin-fussball-union-mauro-lustrinelli-trainer-trimmel-training-taktik.html",
+      "date": "Wed, 01 Jul 2026 22:08:59 +0200"
+    },
+    {
+      "title": "Gewitterwarnung: Foo Fighters-Konzert in Berlin kurzzeitig geräumt",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/07/berlin-konzert-foo-fighters-gewitterwarnung-raeumung-innenraum.html",
+      "date": "Wed, 01 Jul 2026 21:45:45 +0200"
+    },
+    {
+      "title": "Bromat im Trinkwasser von Zehdenick nachgewiesen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-zehdenick-bromat-trinkwasser.html",
+      "date": "Wed, 01 Jul 2026 21:43:00 +0200"
+    },
+    {
       "title": "Kommentar zur Beamtenbesoldung in Brandenburg: Hätte ja klappen können!",
       "link": "https://www.rbb24.de/politik/beitrag/2026/07/kommentar-beamtenbesoldung-strategie-brandenburg-finanzministe-r.html",
       "date": "Wed, 01 Jul 2026 21:25:47 +0200"
@@ -44,21 +59,6 @@
       "title": "NDR: Verdächtiger im Fall Stade soll Waffe in Berlin gekauft haben",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/verdaechtiger-fall-stade-waffe-kauf-berlin-ndr.html",
       "date": "Wed, 01 Jul 2026 17:24:55 +0200"
-    },
-    {
-      "title": "TU Berlin kann aktuell keine Abschlusszeugnisse ausstellen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-technische-universitaet-kann-keine-abschlusszeugnisse-ausstellen.html",
-      "date": "Wed, 01 Jul 2026 17:17:05 +0200"
-    },
-    {
-      "title": "Frankena und Naugarten gewinnen Silber bei \"Unser Dorf hat Zukunft\"",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/unser-dorf-hat-zukunft-bundeswettbewerb-silber-frankena-naugarten.html",
-      "date": "Wed, 01 Jul 2026 16:53:33 +0200"
-    },
-    {
-      "title": "NBA-Star Schröder im Nationaltrikot: Dauerbrenner und Vorbild",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/07/basketball-nationalmannschaft-wm-quali-alba-berlin-dennis-schroeder-nba.html",
-      "date": "Wed, 01 Jul 2026 16:53:00 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Bromat im Trinkwasser von Zehdenick nachgewiesen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-zehdenick-bromat-trinkwasser.html",
+      "date": "Wed, 01 Jul 2026 21:43:00 +0200"
+    },
+    {
       "title": "NDR: Verdächtiger im Fall Stade soll Waffe in Berlin gekauft haben",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/verdaechtiger-fall-stade-waffe-kauf-berlin-ndr.html",
       "date": "Wed, 01 Jul 2026 17:24:55 +0200"
@@ -181,11 +186,6 @@
       "title": "Brücken am Görlitzer Park ab 1. Juli auf unbestimmte Zeit gesperrt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/goerlitzer-bruecken-gesperrt-streit-sanierung-deutschebahn-bezirk.html",
       "date": "Wed, 01 Jul 2026 14:07:19 +0200"
-    },
-    {
-      "title": "Wassermangel in der Spree: Das raten Experten der Technischen Universität Berlin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/wasser-mangel-spree-brandenburg-berlin-forschung-tu.html",
-      "date": "Wed, 01 Jul 2026 13:04:45 +0200"
     }
   ]
 }
