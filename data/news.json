@@ -1,6 +1,56 @@
 {
   "traffic": [
     {
+      "title": "Analyse zum BerlinTrend: War’s das für Kai Wegner und die CDU?",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/07/analyse-zum-berlin-trend-wegner-cdu.html",
+      "date": "Wed, 01 Jul 2026 18:37:04 +0200"
+    },
+    {
+      "title": "Hipp und Co-Trainer Bellin verlassen Union - Orschmann soll gehen",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/berlin-fusball-union-frauen-hipp-bellin-abgang-orschmann-transfer.html",
+      "date": "Wed, 01 Jul 2026 18:12:41 +0200"
+    },
+    {
+      "title": "BerlinTrend: Linke stärkste Kraft, CDU verliert weiter",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-trend-juli-cdu-spd-gruene-linke-afd-bsw-fdp.html",
+      "date": "Wed, 01 Jul 2026 18:12:29 +0200"
+    },
+    {
+      "title": "Grafiken zum BerlinTrend vom Juli 2026",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-trend-sonntagsfrage-senat-wegner-zufrieden-bekannt-probleme-bildergalerie.html",
+      "date": "Wed, 01 Jul 2026 18:00:14 +0200"
+    },
+    {
+      "title": "NDR: Verdächtiger im Fall Stade soll Waffe in Berlin gekauft haben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/verdaechtiger-fall-stade-waffe-kauf-berlin-ndr.html",
+      "date": "Wed, 01 Jul 2026 17:24:55 +0200"
+    },
+    {
+      "title": "TU Berlin kann aktuell keine Abschlusszeugnisse ausstellen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-technische-universitaet-kann-keine-abschlusszeugnisse-ausstellen.html",
+      "date": "Wed, 01 Jul 2026 17:17:05 +0200"
+    },
+    {
+      "title": "Frankena und Naugarten gewinnen Silber bei \"Unser Dorf hat Zukunft\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/unser-dorf-hat-zukunft-bundeswettbewerb-silber-frankena-naugarten.html",
+      "date": "Wed, 01 Jul 2026 16:53:33 +0200"
+    },
+    {
+      "title": "NBA-Star Schröder im Nationaltrikot: Dauerbrenner und Vorbild",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/basketball-nationalmannschaft-wm-quali-alba-berlin-dennis-schroeder-nba.html",
+      "date": "Wed, 01 Jul 2026 16:53:00 +0200"
+    },
+    {
+      "title": "Frankfurt (Oder): Sechsjähriger stirbt nach Sturz aus zehntem Stock",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/frankfurt-oder-kind-sturz-balkon-hochhaus-tot.html",
+      "date": "Wed, 01 Jul 2026 16:41:56 +0200"
+    },
+    {
+      "title": "Fußball: Nsoki kommt nach Einsatz auf Leihbasis fest zu Union",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-bundesliga-1-fc-union-berlin-stanley-nsoki-verpflichtet.html",
+      "date": "Wed, 01 Jul 2026 16:20:15 +0200"
+    },
+    {
       "title": "Bewohner nach Wohnungsbrand in Brandenburg an der Havel gestorben",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-havel-wohnung-brand-mehrfamilienhaus-explosion-verstorben.html",
       "date": "Wed, 01 Jul 2026 15:44:12 +0200"
@@ -9,56 +59,6 @@
       "title": "AfD gründet Kaderschule in Brandenburg",
       "link": "https://www.rbb24.de/politik/beitrag/2026/07/afd-gruendet-kaderschule-landesakademie-brandenburg.html",
       "date": "Wed, 01 Jul 2026 15:43:06 +0200"
-    },
-    {
-      "title": "Hitzeschäden: Autobahn-Abschnitte in Brandenburg gesperrt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/hitze-schaeden-a115-sperrung-potsdam-autobahn-a2.html",
-      "date": "Wed, 01 Jul 2026 15:06:21 +0200"
-    },
-    {
-      "title": "Brandenburger Beamte bekommen mehr Geld - und mehr zu tun",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/07/brandenburg-beamte-mehr-geld-rueckwirkend-januar-2026.html",
-      "date": "Wed, 01 Jul 2026 15:00:02 +0200"
-    },
-    {
-      "title": "Fahrstühle außer Betrieb: Empfänger von Grundsicherung helfen beim Tragen am Nauener Bahnhof",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/nauen-havelland-bahnhof-helfer-kinderwagen-rollator-tragen-bahnsteig.html",
-      "date": "Wed, 01 Jul 2026 15:00:00 +0200"
-    },
-    {
-      "title": "Klinik für Psychosomatik und Schmerzmedizin in Neuruppin eröffnet",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/schmerzklinik-neuruppin-gesundheit-universitaetsklinikum-eroeffnung-psychosomatik.html",
-      "date": "Wed, 01 Jul 2026 14:47:15 +0200"
-    },
-    {
-      "title": "Polizei warnt vor falschen Fensterputzern in Südbrandenburg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/betrug-falsche-fenster-putzer-cottbus.html",
-      "date": "Wed, 01 Jul 2026 14:40:23 +0200"
-    },
-    {
-      "title": "Fußball: Hertha eröffnet neue Zweitliga-Saison in Bochum",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-bundesliga-2-liga-spielplan-eroeffnung-hertha-bsc-1-fc-union-berlin.html",
-      "date": "Wed, 01 Jul 2026 14:32:10 +0200"
-    },
-    {
-      "title": "Projekt bis Ende der 2030er Jahre: Probebohrungen für U8-Verlängerung gestartet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-reinickendorf-u8-ubahn-verlaengerung-baugrund-untersuchung.html",
-      "date": "Wed, 01 Jul 2026 14:20:12 +0200"
-    },
-    {
-      "title": "Fachleitungsstellen sind an Berliner Grundschulen teils unbesetzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-grundschulen-fachleitungsstellen-unbesetzt.html",
-      "date": "Wed, 01 Jul 2026 14:11:19 +0200"
-    },
-    {
-      "title": "Frankfurt (Oder): Sechsjähriger stirbt nach Sturz aus elftem Stock",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/frankfurt-oder-kind-tot-11-stock-sturz-haus-polizei.html",
-      "date": "Wed, 01 Jul 2026 14:09:13 +0200"
-    },
-    {
-      "title": "Brücken am Görlitzer Park ab 1. Juli auf unbestimmte Zeit gesperrt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/goerlitzer-bruecken-gesperrt-streit-sanierung-deutschebahn-bezirk.html",
-      "date": "Wed, 01 Jul 2026 14:07:19 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,26 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "NDR: Verdächtiger im Fall Stade soll Waffe in Berlin gekauft haben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/verdaechtiger-fall-stade-waffe-kauf-berlin-ndr.html",
+      "date": "Wed, 01 Jul 2026 17:24:55 +0200"
+    },
+    {
+      "title": "TU Berlin kann aktuell keine Abschlusszeugnisse ausstellen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-technische-universitaet-kann-keine-abschlusszeugnisse-ausstellen.html",
+      "date": "Wed, 01 Jul 2026 17:17:05 +0200"
+    },
+    {
+      "title": "Frankena und Naugarten gewinnen Silber bei \"Unser Dorf hat Zukunft\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/unser-dorf-hat-zukunft-bundeswettbewerb-silber-frankena-naugarten.html",
+      "date": "Wed, 01 Jul 2026 16:53:33 +0200"
+    },
+    {
+      "title": "Frankfurt (Oder): Sechsjähriger stirbt nach Sturz aus zehntem Stock",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/frankfurt-oder-kind-sturz-balkon-hochhaus-tot.html",
+      "date": "Wed, 01 Jul 2026 16:41:56 +0200"
+    },
+    {
       "title": "Bewohner nach Wohnungsbrand in Brandenburg an der Havel gestorben",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-havel-wohnung-brand-mehrfamilienhaus-explosion-verstorben.html",
       "date": "Wed, 01 Jul 2026 15:44:12 +0200"
@@ -158,11 +178,6 @@
       "date": "Wed, 01 Jul 2026 14:11:19 +0200"
     },
     {
-      "title": "Frankfurt (Oder): Sechsjähriger stirbt nach Sturz aus elftem Stock",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/frankfurt-oder-kind-tot-11-stock-sturz-haus-polizei.html",
-      "date": "Wed, 01 Jul 2026 14:09:13 +0200"
-    },
-    {
       "title": "Brücken am Görlitzer Park ab 1. Juli auf unbestimmte Zeit gesperrt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/goerlitzer-bruecken-gesperrt-streit-sanierung-deutschebahn-bezirk.html",
       "date": "Wed, 01 Jul 2026 14:07:19 +0200"
@@ -171,21 +186,6 @@
       "title": "Wassermangel in der Spree: Das raten Experten der Technischen Universität Berlin",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/wasser-mangel-spree-brandenburg-berlin-forschung-tu.html",
       "date": "Wed, 01 Jul 2026 13:04:45 +0200"
-    },
-    {
-      "title": "A12 wird am Mittwoch im Bereich Briesen wegen Bombenentschärfung gesperrt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/bombe-entschaerfung-oderspree-autobahn-a12-briesen-weltkrieg-kampfmittel-brandenburg.html",
-      "date": "Wed, 01 Jul 2026 12:33:43 +0200"
-    },
-    {
-      "title": "Unbekannte versprühen Reizgas in U7 - mehre Menschen verletzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-neukoelln-unbekannte-verspruehen-reizgas-mehrere-verletzte.html",
-      "date": "Wed, 01 Jul 2026 11:44:59 +0200"
-    },
-    {
-      "title": "Trockenheit und Hitze: Oder, Spree und viele andere Flüsse führen zu wenig Wasser",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-niedrige-pegel-wasserstand-starkregen-hitze.html",
-      "date": "Wed, 01 Jul 2026 11:40:04 +0200"
     }
   ]
 }
