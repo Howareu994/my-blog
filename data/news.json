@@ -1,9 +1,29 @@
 {
   "traffic": [
     {
-      "title": "Tödlicher Unfall in Frankfurt (Oder): 6-Jähriger stirbt nach Sturz aus dem elften Stock",
+      "title": "Wassermangel in der Spree: Das raten Experten der Technischen Universität Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/wasser-mangel-spree-brandenburg-berlin-forschung-tu.html",
+      "date": "Wed, 01 Jul 2026 13:04:45 +0200"
+    },
+    {
+      "title": "Frankfurt (Oder): Sechsjähriger stirbt nach Sturz aus elftem Stock",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/frankfurt-oder-kind-tot-11-stock-sturz-haus-polizei.html",
-      "date": "Wed, 01 Jul 2026 10:01:05 +0200"
+      "date": "Wed, 01 Jul 2026 12:52:34 +0200"
+    },
+    {
+      "title": "Unbekannte versprühen Reizgas in U7 - mehre Menschen verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-neukoelln-unbekannte-verspruehen-reizgas-mehrere-verletzte.html",
+      "date": "Wed, 01 Jul 2026 11:44:59 +0200"
+    },
+    {
+      "title": "Trockenheit und Hitze: Oder, Spree und viele andere Flüsse führen zu wenig Wasser",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-niedrige-pegel-wasserstand-starkregen-hitze.html",
+      "date": "Wed, 01 Jul 2026 11:40:04 +0200"
+    },
+    {
+      "title": "Hitzeschäden: Autobahn-Abschnitte in Brandenburg gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/hitze-schaeden-a115-sperrung-potsdam-autobahn-a2.html",
+      "date": "Wed, 01 Jul 2026 11:26:07 +0200"
     },
     {
       "title": "Bürgergeld wird Grundsicherung - mit diesen Änderungen",
@@ -39,29 +59,14 @@
       "title": "Hitzeschäden auf A2 sollen bis Mittwochabend repariert sein",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/hitzeschaeden-autobahn-a2-reparatur-bis-mittwochabend.html",
       "date": "Tue, 30 Jun 2026 21:21:35 +0200"
-    },
-    {
-      "title": "Bündnis in Berlin fordert feste Stationen für E-Scooter bereits ab April 2027",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-buendnis-fordert-ende-von-e-scootern-auf-gehwegen.html",
-      "date": "Tue, 30 Jun 2026 19:54:27 +0200"
-    },
-    {
-      "title": "VTG schließt Instandhaltungswerk für Güterwaggons in Großräschen",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/grossraeschen-vtg-instandhaltungswerk-gueterwaggons-schliesst.html",
-      "date": "Tue, 30 Jun 2026 19:12:17 +0200"
-    },
-    {
-      "title": "BVG: U-Bahnhof Nollendorfplatz heißt \"im Regenbogenkiez\"",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-u-bahnhof-pride-month-schild-regenbogenkiez-bvg.html",
-      "date": "Tue, 30 Jun 2026 19:10:39 +0200"
-    },
-    {
-      "title": "Verdacht auf Korruption: Ehemalige Landesamtsmitarbeiterin angeklagt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-anklage-verdacht-korruption-landesamt-einwanderung.html",
-      "date": "Tue, 30 Jun 2026 18:43:47 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Mann durch Flaschenwurf verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1688246.php",
+      "date": "Wed, 01 Jul 2026 12:22:10 +0200"
+    },
     {
       "title": "Kind nach Unfall in Krankenhaus",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1687996.php",
@@ -116,11 +121,6 @@
       "title": "Scharfe Schusswaffe beschlagnahmt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1687359.php",
       "date": "Mon, 29 Jun 2026 14:51:29 +0200"
-    },
-    {
-      "title": "Sicherheitskooperation (SiKoop) der Länder führt gemeinsame Aktionswoche gegen Straftaten zum Nachteil von älteren Menschen (SÄM) durch",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1687326.php",
-      "date": "Mon, 29 Jun 2026 14:26:16 +0200"
     }
   ],
   "free_events": [],
@@ -128,9 +128,34 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Tödlicher Unfall in Frankfurt (Oder): 6-Jähriger stirbt nach Sturz aus dem elften Stock",
+      "title": "Wassermangel in der Spree: Das raten Experten der Technischen Universität Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/wasser-mangel-spree-brandenburg-berlin-forschung-tu.html",
+      "date": "Wed, 01 Jul 2026 13:04:45 +0200"
+    },
+    {
+      "title": "Frankfurt (Oder): Sechsjähriger stirbt nach Sturz aus elftem Stock",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/frankfurt-oder-kind-tot-11-stock-sturz-haus-polizei.html",
-      "date": "Wed, 01 Jul 2026 10:01:05 +0200"
+      "date": "Wed, 01 Jul 2026 12:52:34 +0200"
+    },
+    {
+      "title": "A12 wird am Mittwoch im Bereich Briesen wegen Bombenentschärfung gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/bombe-entschaerfung-oderspree-autobahn-a12-briesen-weltkrieg-kampfmittel-brandenburg.html",
+      "date": "Wed, 01 Jul 2026 12:33:43 +0200"
+    },
+    {
+      "title": "Unbekannte versprühen Reizgas in U7 - mehre Menschen verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-neukoelln-unbekannte-verspruehen-reizgas-mehrere-verletzte.html",
+      "date": "Wed, 01 Jul 2026 11:44:59 +0200"
+    },
+    {
+      "title": "Trockenheit und Hitze: Oder, Spree und viele andere Flüsse führen zu wenig Wasser",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/brandenburg-niedrige-pegel-wasserstand-starkregen-hitze.html",
+      "date": "Wed, 01 Jul 2026 11:40:04 +0200"
+    },
+    {
+      "title": "Hitzeschäden: Autobahn-Abschnitte in Brandenburg gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/hitze-schaeden-a115-sperrung-potsdam-autobahn-a2.html",
+      "date": "Wed, 01 Jul 2026 11:26:07 +0200"
     },
     {
       "title": "Bürgergeld wird Grundsicherung - mit diesen Änderungen",
@@ -161,31 +186,6 @@
       "title": "BVG: U-Bahnhof Nollendorfplatz heißt \"im Regenbogenkiez\"",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-u-bahnhof-pride-month-schild-regenbogenkiez-bvg.html",
       "date": "Tue, 30 Jun 2026 19:10:39 +0200"
-    },
-    {
-      "title": "Verdacht auf Korruption: Ehemalige Landesamtsmitarbeiterin angeklagt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-anklage-verdacht-korruption-landesamt-einwanderung.html",
-      "date": "Tue, 30 Jun 2026 18:43:47 +0200"
-    },
-    {
-      "title": "Am Späti in Haselhorst: \"Sauberkeit, Korrektheit, nicht so viel lügen und spinnen\"",
-      "link": "https://www.rbb24.de/panorama/thema/spaeti/berlin-haselhorst-am-spaeti-rentnerin.html",
-      "date": "Tue, 30 Jun 2026 18:12:15 +0200"
-    },
-    {
-      "title": "Finsterwalder Wärmestube hilft Bedürftigen auch bei Hitze",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/schutz-hitze-waermestube-finsterwalde.html",
-      "date": "Tue, 30 Jun 2026 16:20:11 +0200"
-    },
-    {
-      "title": "Deutsche Nationalmannschaft: Flaschenwürfe und Reizgas nach WM-Aus in Berlin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-wm-ende-fans-reaktionen-deutschland.html",
-      "date": "Tue, 30 Jun 2026 15:36:00 +0200"
-    },
-    {
-      "title": "Staatsanwaltschaft Berlin: BKA zerschlägt mutmaßliches Netzwerk der Organisierten Kriminalität",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-bka-polizeienhaftbefehl-ok-international-agierende-gruppierung.html",
-      "date": "Tue, 30 Jun 2026 15:13:28 +0200"
     }
   ]
 }
