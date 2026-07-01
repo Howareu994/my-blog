@@ -1,6 +1,36 @@
 {
   "traffic": [
     {
+      "title": "Tödlicher Unfall in Frankfurt (Oder): 6-Jähriger stirbt nach Sturz aus dem elften Stock",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/frankfurt-oder-kind-tot-11-stock-sturz-haus-polizei.html",
+      "date": "Wed, 01 Jul 2026 10:01:05 +0200"
+    },
+    {
+      "title": "Bürgergeld wird Grundsicherung - mit diesen Änderungen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/buergergeld-jetzt-grundsicherung-aenderungen-berlin-brandenburg.html",
+      "date": "Wed, 01 Jul 2026 09:41:58 +0200"
+    },
+    {
+      "title": "Weniger als 40 Euro: Azubi-Deutschlandticket startet in Berlin - Vorverkauf in Brandenburg",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/berlin-brandenburg-azubi-deutschlandticket-vbb-zuschuss.html",
+      "date": "Wed, 01 Jul 2026 08:53:42 +0200"
+    },
+    {
+      "title": "Pixies in der Zitadelle Spandau: Nostalgieshow Fehlanzeige",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/07/konzert-berlin-pixies-zitadelle-spandau.html",
+      "date": "Wed, 01 Jul 2026 08:40:43 +0200"
+    },
+    {
+      "title": "Nach Umweltkatastrophe 2022: Keine Goldalge in der Oder bei Wasserproben festgestellt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-goldalge-oder-fluss-sommer-hitze-untersuchung.html",
+      "date": "Wed, 01 Jul 2026 08:22:23 +0200"
+    },
+    {
+      "title": "Tödliche Schüsse in Stade: Professorin für Soziale Arbeit im Interview",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/toedliche-schuesse-stade-interview-professorin-soziale-arbeit.html",
+      "date": "Wed, 01 Jul 2026 06:21:00 +0200"
+    },
+    {
       "title": "Prignitz: Lenzen bekommt neuen Amtsdirektor",
       "link": "https://www.rbb24.de/politik/beitrag/2026/06/brandenburg-prignitz-lenzen-neuer-amtsdirektor.html",
       "date": "Tue, 30 Jun 2026 21:42:22 +0200"
@@ -9,11 +39,6 @@
       "title": "Hitzeschäden auf A2 sollen bis Mittwochabend repariert sein",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/hitzeschaeden-autobahn-a2-reparatur-bis-mittwochabend.html",
       "date": "Tue, 30 Jun 2026 21:21:35 +0200"
-    },
-    {
-      "title": "Wohnungsbestand in Berlin und Brandenburg wächst langsamer",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/berlin-brandenburg-wohnungsbestand-wachstum-langsamer.html",
-      "date": "Tue, 30 Jun 2026 21:20:39 +0200"
     },
     {
       "title": "Bündnis in Berlin fordert feste Stationen für E-Scooter bereits ab April 2027",
@@ -34,31 +59,6 @@
       "title": "Verdacht auf Korruption: Ehemalige Landesamtsmitarbeiterin angeklagt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-anklage-verdacht-korruption-landesamt-einwanderung.html",
       "date": "Tue, 30 Jun 2026 18:43:47 +0200"
-    },
-    {
-      "title": "Am Späti in Haselhorst: \"Sauberkeit, Korrektheit, nicht so viel lügen und spinnen\"",
-      "link": "https://www.rbb24.de/panorama/thema/spaeti/berlin-haselhorst-am-spaeti-rentnerin.html",
-      "date": "Tue, 30 Jun 2026 18:12:15 +0200"
-    },
-    {
-      "title": "Windkraft: 35 Vorranggebiete für Oderland-Spree beschlossen",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/windkraft-ausbau-vorranggebiete-oderland-spree-frankfurt-planung-eeg-erneuerbareenergie-brandenburg.html",
-      "date": "Tue, 30 Jun 2026 16:53:41 +0200"
-    },
-    {
-      "title": "Reform gescheitert: Diskussion um Regionalliga-Aufstieg geht weiter",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/06/fussball-regionalliga-nordost-meister-muessen-aufstiegen-reform-abstimmung-nofv-dfb.html",
-      "date": "Tue, 30 Jun 2026 16:26:39 +0200"
-    },
-    {
-      "title": "Deutsche Nationalmannschaft: Enttäuschung in der Region nach WM-Aus",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-wm-ende-fans-reaktionen-deutschland.html",
-      "date": "Tue, 30 Jun 2026 15:36:39 +0200"
-    },
-    {
-      "title": "Fernverkehrsmarkt: Bahn muss mehr Platz für Konkurrenten schaffen",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/06/berlin-brandenburg-bahn-mehr-konkurrenz-zulassen-bundesnetzagentur.html",
-      "date": "Tue, 30 Jun 2026 15:32:08 +0200"
     }
   ],
   "police": [
@@ -128,9 +128,24 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Tödliche Schüsse in Stade: Interview zur Situation in Kinder- und Jugendhilfe-Einrichtungen",
+      "title": "Tödlicher Unfall in Frankfurt (Oder): 6-Jähriger stirbt nach Sturz aus dem elften Stock",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/frankfurt-oder-kind-tot-11-stock-sturz-haus-polizei.html",
+      "date": "Wed, 01 Jul 2026 10:01:05 +0200"
+    },
+    {
+      "title": "Bürgergeld wird Grundsicherung - mit diesen Änderungen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/buergergeld-jetzt-grundsicherung-aenderungen-berlin-brandenburg.html",
+      "date": "Wed, 01 Jul 2026 09:41:58 +0200"
+    },
+    {
+      "title": "Nach Umweltkatastrophe 2022: Keine Goldalge in der Oder bei Wasserproben festgestellt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-goldalge-oder-fluss-sommer-hitze-untersuchung.html",
+      "date": "Wed, 01 Jul 2026 08:22:23 +0200"
+    },
+    {
+      "title": "Tödliche Schüsse in Stade: Professorin für Soziale Arbeit im Interview",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/toedliche-schuesse-stade-interview-professorin-soziale-arbeit.html",
-      "date": "Wed, 01 Jul 2026 06:07:39 +0200"
+      "date": "Wed, 01 Jul 2026 06:21:00 +0200"
     },
     {
       "title": "Hitzeschäden auf A2 sollen bis Mittwochabend repariert sein",
@@ -163,29 +178,14 @@
       "date": "Tue, 30 Jun 2026 16:20:11 +0200"
     },
     {
-      "title": "Deutsche Nationalmannschaft: Enttäuschung in der Region nach WM-Aus",
+      "title": "Deutsche Nationalmannschaft: Flaschenwürfe und Reizgas nach WM-Aus in Berlin",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-wm-ende-fans-reaktionen-deutschland.html",
-      "date": "Tue, 30 Jun 2026 15:36:39 +0200"
+      "date": "Tue, 30 Jun 2026 15:36:00 +0200"
     },
     {
       "title": "Staatsanwaltschaft Berlin: BKA zerschlägt mutmaßliches Netzwerk der Organisierten Kriminalität",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-brandenburg-bka-polizeienhaftbefehl-ok-international-agierende-gruppierung.html",
       "date": "Tue, 30 Jun 2026 15:13:28 +0200"
-    },
-    {
-      "title": "Unterricht an Lebuser Schule fällt wegen Lehrermangel monatelang aus",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/schule-unterricht-ausfall-lebus-lehrermangel-oderland-brandenburg.html",
-      "date": "Tue, 30 Jun 2026 15:00:12 +0200"
-    },
-    {
-      "title": "Neunjähriges Mädchen aus Berlin vermisst",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-adlershof-neun-jaehriges-maedchen-vermisst.html",
-      "date": "Tue, 30 Jun 2026 14:47:31 +0200"
-    },
-    {
-      "title": "Tausende Haushalte in Cottbus ohne Warmwasser",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/warmwasser-fernwarme-cottbus-unterbrechung.html",
-      "date": "Tue, 30 Jun 2026 14:11:11 +0200"
     }
   ]
 }
