@@ -1,6 +1,36 @@
 {
   "traffic": [
     {
+      "title": "Enteignung von Wohnungskonzernen soll verboten werden",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/koalition-verstaatlichung-wietwohnungen-verbot.html",
+      "date": "Thu, 02 Jul 2026 19:06:26 +0200"
+    },
+    {
+      "title": "Reformpaket: Von Krankschreibung bis Steuererleichterungen",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/07/bundesregierung-reformpaket-koalitionsausschuss.html",
+      "date": "Thu, 02 Jul 2026 18:29:47 +0200"
+    },
+    {
+      "title": "Bromat im Trinkwasser von Zehdenick nachgewiesen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-zehdenick-bromat-trinkwasser.html",
+      "date": "Thu, 02 Jul 2026 18:09:00 +0200"
+    },
+    {
+      "title": "Mordprozess: Staatsanwaltschaft fordert Höchststrafe für Palliativarzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-mordprozess-palliativarzt-hoechststrafe-gefordert-patienten-mord.html",
+      "date": "Thu, 02 Jul 2026 17:57:45 +0200"
+    },
+    {
+      "title": "Schwarz-Rot verschiebt Zieljahr des Berliner Radverkehrsnetzes um fünf Jahre",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/07/berlin-mobilitaetsgesetz-verkehr-radwege.html",
+      "date": "Thu, 02 Jul 2026 17:50:00 +0200"
+    },
+    {
+      "title": "Union Berlin verpflichtet Stürmerin Egli aus Freiburg",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/berlin-fussball-union-verpflichtung-leela-egli-freiburg-bundesliga.html",
+      "date": "Thu, 02 Jul 2026 17:49:32 +0200"
+    },
+    {
       "title": "An der Tanke: \"Jobs in der Umgebung sind komplett Katastrophe\"",
       "link": "https://www.rbb24.de/panorama/thema/an-der-tanke/brandenburg-an-der-tanke-wurstwerk-buero-saisonarbeiter.html",
       "date": "Thu, 02 Jul 2026 17:01:00 +0200"
@@ -26,42 +56,17 @@
       "date": "Thu, 02 Jul 2026 16:07:36 +0200"
     },
     {
-      "title": "Bromat im Trinkwasser von Zehdenick nachgewiesen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-zehdenick-bromat-trinkwasser.html",
-      "date": "Thu, 02 Jul 2026 15:52:43 +0200"
-    },
-    {
       "title": "Sierie #Wiegehtesuns?: 84-Jährige muss für Rettungswagen zahlen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/rettungswagen-gebuehren-leerfahrten-brandenburg-maerkisch-oderland.html",
       "date": "Thu, 02 Jul 2026 15:51:12 +0200"
-    },
-    {
-      "title": "Berliner Abgeordnetenhaus beschließt Mietenkataster",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/07/berlin-parlament-agh-sitzung-wohnen-mieten-verkehr.html",
-      "date": "Thu, 02 Jul 2026 15:20:23 +0200"
-    },
-    {
-      "title": "Spree-Neiße beschließt Haushalt - Einschränkungen bleiben",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/07/haushalt-spree-neisse-beschlossen-einschraenkungen.html",
-      "date": "Thu, 02 Jul 2026 14:59:55 +0200"
-    },
-    {
-      "title": "Mutmaßliche Brandanschläge in Cottbus - Polizei ermittelt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/angriff-brand-anschlag-zelle-79-cottbus-ermittlungen-versuchter-mord.html",
-      "date": "Thu, 02 Jul 2026 14:44:52 +0200"
-    },
-    {
-      "title": "Enteignung von Mietwohnungen: Union und SPD wollen Verbot",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/koalition-verstaatlichung-wietwohnungen-verbot.html",
-      "date": "Thu, 02 Jul 2026 14:44:18 +0200"
-    },
-    {
-      "title": "Krankschreibungen, Steuererleichterungen und mehr: Das Reformpaket",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/07/bundesregierung-reformpaket-koalitionsausschuss.html",
-      "date": "Thu, 02 Jul 2026 13:54:56 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Vermisstenfahndung gelöscht",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1682776.php",
+      "date": "Thu, 02 Jul 2026 17:18:00 +0200"
+    },
     {
       "title": "Festnahmen nach räuberischer Erpressung von Jugendlichen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1688937.php",
@@ -116,17 +121,22 @@
       "title": "Neunjährige vermisst – Polizei bittet um Mithilfe",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1687556.php",
       "date": "Tue, 30 Jun 2026 09:45:08 +0200"
-    },
-    {
-      "title": "Festnahmen nach räuberischer Erpressung und Schussabgabe – BAO Ferrum ermittelt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1687456.php",
-      "date": "Mon, 29 Jun 2026 16:27:09 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Bromat im Trinkwasser von Zehdenick nachgewiesen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-zehdenick-bromat-trinkwasser.html",
+      "date": "Thu, 02 Jul 2026 18:09:00 +0200"
+    },
+    {
+      "title": "Mordprozess: Staatsanwaltschaft fordert Höchststrafe für Palliativarzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-mordprozess-palliativarzt-hoechststrafe-gefordert-patienten-mord.html",
+      "date": "Thu, 02 Jul 2026 17:57:45 +0200"
+    },
     {
       "title": "An der Tanke: \"Jobs in der Umgebung sind komplett Katastrophe\"",
       "link": "https://www.rbb24.de/panorama/thema/an-der-tanke/brandenburg-an-der-tanke-wurstwerk-buero-saisonarbeiter.html",
@@ -143,11 +153,6 @@
       "date": "Thu, 02 Jul 2026 16:07:36 +0200"
     },
     {
-      "title": "Bromat im Trinkwasser von Zehdenick nachgewiesen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-zehdenick-bromat-trinkwasser.html",
-      "date": "Thu, 02 Jul 2026 15:52:43 +0200"
-    },
-    {
       "title": "Sierie #Wiegehtesuns?: 84-Jährige muss für Rettungswagen zahlen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/rettungswagen-gebuehren-leerfahrten-brandenburg-maerkisch-oderland.html",
       "date": "Thu, 02 Jul 2026 15:51:12 +0200"
@@ -156,11 +161,6 @@
       "title": "Mutmaßliche Brandanschläge in Cottbus - Polizei ermittelt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/angriff-brand-anschlag-zelle-79-cottbus-ermittlungen-versuchter-mord.html",
       "date": "Thu, 02 Jul 2026 14:44:52 +0200"
-    },
-    {
-      "title": "Mordprozess: Staatsanwaltschaft fordert Höchststrafe für Palliativarzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-mordprozess-palliativarzt-hoechststrafe-gefordert-patienten-mord.html",
-      "date": "Thu, 02 Jul 2026 13:49:18 +0200"
     },
     {
       "title": "Bauhaus-Ensemble: Waldsiedlung Zehlendorf für Unesco-Welterbe nominiert",
