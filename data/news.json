@@ -1,67 +1,72 @@
 {
   "traffic": [
     {
+      "title": "An der Tanke: \"Jobs in der Umgebung sind komplett Katastrophe\"",
+      "link": "https://www.rbb24.de/panorama/thema/an-der-tanke/brandenburg-an-der-tanke-wurstwerk-buero-saisonarbeiter.html",
+      "date": "Thu, 02 Jul 2026 17:01:00 +0200"
+    },
+    {
+      "title": "Zweiter Bauabschnitt zwischen Angermünde und Stettin beginnt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/bahn-strecke-angermuende-stettin-zweiter-bauabschnitt.html",
+      "date": "Thu, 02 Jul 2026 16:49:58 +0200"
+    },
+    {
+      "title": "Berliner Hochschule für Technik soll ab 2030 Betrieb in Tegel aufnehmen",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/berlin-hochschule-fuer-technik-tegel-fuenf-jahre-2030.html",
+      "date": "Thu, 02 Jul 2026 16:39:40 +0200"
+    },
+    {
+      "title": "NBA: Moritz Wagners emotionaler Wechsel zu den Brooklyn Nets",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/basketball-nba-orlando-magic-moritz-wagner-franz-brooklyn-nets.html",
+      "date": "Thu, 02 Jul 2026 16:16:42 +0200"
+    },
+    {
+      "title": "Vivantes bietet kostenlose Hautkrebsvorsorge im Prinzenbad an",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-prinzenbad-hautkrebsvorsorge-kostenlos-vivantes.html",
+      "date": "Thu, 02 Jul 2026 16:07:36 +0200"
+    },
+    {
+      "title": "Bromat im Trinkwasser von Zehdenick nachgewiesen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-zehdenick-bromat-trinkwasser.html",
+      "date": "Thu, 02 Jul 2026 15:52:43 +0200"
+    },
+    {
+      "title": "Sierie #Wiegehtesuns?: 84-Jährige muss für Rettungswagen zahlen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/rettungswagen-gebuehren-leerfahrten-brandenburg-maerkisch-oderland.html",
+      "date": "Thu, 02 Jul 2026 15:51:12 +0200"
+    },
+    {
+      "title": "Berliner Abgeordnetenhaus beschließt Mietenkataster",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/07/berlin-parlament-agh-sitzung-wohnen-mieten-verkehr.html",
+      "date": "Thu, 02 Jul 2026 15:20:23 +0200"
+    },
+    {
+      "title": "Spree-Neiße beschließt Haushalt - Einschränkungen bleiben",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/07/haushalt-spree-neisse-beschlossen-einschraenkungen.html",
+      "date": "Thu, 02 Jul 2026 14:59:55 +0200"
+    },
+    {
+      "title": "Mutmaßliche Brandanschläge in Cottbus - Polizei ermittelt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/angriff-brand-anschlag-zelle-79-cottbus-ermittlungen-versuchter-mord.html",
+      "date": "Thu, 02 Jul 2026 14:44:52 +0200"
+    },
+    {
       "title": "Enteignung von Mietwohnungen: Union und SPD wollen Verbot",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/koalition-verstaatlichung-wietwohnungen-verbot.html",
-      "date": "Thu, 02 Jul 2026 13:55:24 +0200"
+      "date": "Thu, 02 Jul 2026 14:44:18 +0200"
     },
     {
       "title": "Krankschreibungen, Steuererleichterungen und mehr: Das Reformpaket",
       "link": "https://www.rbb24.de/politik/beitrag/2026/07/bundesregierung-reformpaket-koalitionsausschuss.html",
       "date": "Thu, 02 Jul 2026 13:54:56 +0200"
-    },
-    {
-      "title": "Mordprozess: Staatsanwaltschaft fordert Höchststrafe für Palliativarzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-mordprozess-palliativarzt-hoechststrafe-gefordert-patienten-mord.html",
-      "date": "Thu, 02 Jul 2026 13:49:18 +0200"
-    },
-    {
-      "title": "Lausitz Science Park: Betreibergesellschaft offiziell gegründet",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/betreiber-gesellschaft-lausitz-science-park-gegruendet.html",
-      "date": "Thu, 02 Jul 2026 13:26:25 +0200"
-    },
-    {
-      "title": "Fußball-Bundesliga: Union gegen Frankfurt, Hertha eröffnet 2. Liga",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-bundesliga-2-liga-spielplan-eroeffnung-hertha-bsc-1-fc-union-berlin.html",
-      "date": "Thu, 02 Jul 2026 13:18:01 +0200"
-    },
-    {
-      "title": "Wohnprojekt \"Zelle 79\" und Kulturort Chekov in Cottbus erneut angegriffen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/angriff-brand-anschlag-zelle-79-cottbus-ermittlungen-versuchter-mord.html",
-      "date": "Thu, 02 Jul 2026 13:05:34 +0200"
-    },
-    {
-      "title": "Berliner Abgeordnetenhaus: Wohnen und Bauen im Fokus",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/07/berlin-parlament-agh-sitzung-wohnen-mieten-verkehr.html",
-      "date": "Thu, 02 Jul 2026 13:02:55 +0200"
-    },
-    {
-      "title": "Potsdamer Jugendamt wird extern überprüft",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/07/potsdam-jugendamt-extern-pruefung-beschluss-svv-inobhutnahmen.html",
-      "date": "Thu, 02 Jul 2026 11:53:34 +0200"
-    },
-    {
-      "title": "Bauhaus-Ensemble: Waldsiedlung Zehlendorf für Unesco-Welterbe nominiert",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-zehlendorf-waldsiedlung-nominierung-unesco-welterbe.html",
-      "date": "Thu, 02 Jul 2026 11:47:43 +0200"
-    },
-    {
-      "title": "Feuer auf Recyclinghof in Berlin-Reinickendorf",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/feuer-berlin-recyclinghof-rauch-reinickendorf.html",
-      "date": "Thu, 02 Jul 2026 11:43:17 +0200"
-    },
-    {
-      "title": "Was die Potsdamer Stadtverordneten alles beschlossen haben",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/07/potsdam-stadtverordnete-svv-verpackung-olympia-rechenzentrum.html",
-      "date": "Thu, 02 Jul 2026 11:27:19 +0200"
-    },
-    {
-      "title": "Gericht bestätigt Verbot von Russia Today",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/verbot-fernsehsender-russia-today-rechtmaessig-gerichtsurteil-berlin-brandenburg.html",
-      "date": "Thu, 02 Jul 2026 10:56:32 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Festnahmen nach räuberischer Erpressung von Jugendlichen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1688937.php",
+      "date": "Thu, 02 Jul 2026 15:13:33 +0200"
+    },
     {
       "title": "Raubüberfall auf Bordell",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1688809.php",
@@ -116,11 +121,6 @@
       "title": "Festnahmen nach räuberischer Erpressung und Schussabgabe – BAO Ferrum ermittelt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1687456.php",
       "date": "Mon, 29 Jun 2026 16:27:09 +0200"
-    },
-    {
-      "title": "Mann nach wechselseitiger gefährlicher Körperverletzung notoperiert",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1687431.php",
-      "date": "Mon, 29 Jun 2026 15:46:38 +0200"
     }
   ],
   "free_events": [],
@@ -128,14 +128,39 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "An der Tanke: \"Jobs in der Umgebung sind komplett Katastrophe\"",
+      "link": "https://www.rbb24.de/panorama/thema/an-der-tanke/brandenburg-an-der-tanke-wurstwerk-buero-saisonarbeiter.html",
+      "date": "Thu, 02 Jul 2026 17:01:00 +0200"
+    },
+    {
+      "title": "Zweiter Bauabschnitt zwischen Angermünde und Stettin beginnt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/bahn-strecke-angermuende-stettin-zweiter-bauabschnitt.html",
+      "date": "Thu, 02 Jul 2026 16:49:58 +0200"
+    },
+    {
+      "title": "Vivantes bietet kostenlose Hautkrebsvorsorge im Prinzenbad an",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-prinzenbad-hautkrebsvorsorge-kostenlos-vivantes.html",
+      "date": "Thu, 02 Jul 2026 16:07:36 +0200"
+    },
+    {
+      "title": "Bromat im Trinkwasser von Zehdenick nachgewiesen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-zehdenick-bromat-trinkwasser.html",
+      "date": "Thu, 02 Jul 2026 15:52:43 +0200"
+    },
+    {
+      "title": "Sierie #Wiegehtesuns?: 84-Jährige muss für Rettungswagen zahlen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/rettungswagen-gebuehren-leerfahrten-brandenburg-maerkisch-oderland.html",
+      "date": "Thu, 02 Jul 2026 15:51:12 +0200"
+    },
+    {
+      "title": "Mutmaßliche Brandanschläge in Cottbus - Polizei ermittelt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/angriff-brand-anschlag-zelle-79-cottbus-ermittlungen-versuchter-mord.html",
+      "date": "Thu, 02 Jul 2026 14:44:52 +0200"
+    },
+    {
       "title": "Mordprozess: Staatsanwaltschaft fordert Höchststrafe für Palliativarzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-mordprozess-palliativarzt-hoechststrafe-gefordert-patienten-mord.html",
       "date": "Thu, 02 Jul 2026 13:49:18 +0200"
-    },
-    {
-      "title": "Wohnprojekt \"Zelle 79\" und Kulturort Chekov in Cottbus erneut angegriffen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/angriff-brand-anschlag-zelle-79-cottbus-ermittlungen-versuchter-mord.html",
-      "date": "Thu, 02 Jul 2026 13:05:34 +0200"
     },
     {
       "title": "Bauhaus-Ensemble: Waldsiedlung Zehlendorf für Unesco-Welterbe nominiert",
@@ -158,34 +183,9 @@
       "date": "Thu, 02 Jul 2026 08:27:27 +0200"
     },
     {
-      "title": "Bromat im Trinkwasser von Zehdenick nachgewiesen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-zehdenick-bromat-trinkwasser.html",
-      "date": "Thu, 02 Jul 2026 08:16:06 +0200"
-    },
-    {
       "title": "Heimaufsicht verhängt Belegungsstopp für Vitanas-Heim Märkisches Viertel",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/pflegeheim-vitanas-berlin-maerkisches-viertel-belegungsstopp-per.html",
       "date": "Thu, 02 Jul 2026 06:30:00 +0200"
-    },
-    {
-      "title": "NDR: Verdächtiger im Fall Stade soll Waffe in Berlin gekauft haben",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/verdaechtiger-fall-stade-waffe-kauf-berlin-ndr.html",
-      "date": "Wed, 01 Jul 2026 17:24:55 +0200"
-    },
-    {
-      "title": "TU Berlin kann aktuell keine Abschlusszeugnisse ausstellen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-technische-universitaet-kann-keine-abschlusszeugnisse-ausstellen.html",
-      "date": "Wed, 01 Jul 2026 17:17:05 +0200"
-    },
-    {
-      "title": "Frankena und Naugarten gewinnen Silber bei \"Unser Dorf hat Zukunft\"",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/unser-dorf-hat-zukunft-bundeswettbewerb-silber-frankena-naugarten.html",
-      "date": "Wed, 01 Jul 2026 16:53:33 +0200"
-    },
-    {
-      "title": "Frankfurt (Oder): Sechsjähriger stirbt nach Sturz aus zehntem Stock",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/frankfurt-oder-kind-sturz-balkon-hochhaus-tot.html",
-      "date": "Wed, 01 Jul 2026 16:41:56 +0200"
     }
   ]
 }
