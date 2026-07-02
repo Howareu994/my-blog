@@ -1,6 +1,26 @@
 {
   "traffic": [
     {
+      "title": "Bromat im Trinkwasser von Zehdenick nachgewiesen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-zehdenick-bromat-trinkwasser.html",
+      "date": "Thu, 02 Jul 2026 08:16:06 +0200"
+    },
+    {
+      "title": "Modewoche Berlin Fashion Week startet",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/07/berlin-fashion-week-eroeffnung-mode-design-william-fan.html",
+      "date": "Thu, 02 Jul 2026 07:25:24 +0200"
+    },
+    {
+      "title": "Regierungsbilanz in Berlin: Was von Schwarz-Rot bleibt",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/07/berlin-landesregierung-spd-cdu-bilanz-drei-jahre.html",
+      "date": "Thu, 02 Jul 2026 07:18:13 +0200"
+    },
+    {
+      "title": "Heimaufsicht verhängt Belegungsstopp für Vitanas-Heim Märkisches Viertel",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/pflegeheim-vitanas-berlin-maerkisches-viertel-belegungsstopp-per.html",
+      "date": "Thu, 02 Jul 2026 06:30:07 +0200"
+    },
+    {
       "title": "Lustrinelli startet die Mission, Union zu revolutionieren",
       "link": "https://www.rbb24.de/sport/beitrag/2026/07/berlin-fussball-union-mauro-lustrinelli-trainer-trimmel-training-taktik.html",
       "date": "Wed, 01 Jul 2026 22:08:59 +0200"
@@ -11,11 +31,6 @@
       "date": "Wed, 01 Jul 2026 21:45:45 +0200"
     },
     {
-      "title": "Bromat im Trinkwasser von Zehdenick nachgewiesen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-zehdenick-bromat-trinkwasser.html",
-      "date": "Wed, 01 Jul 2026 21:43:00 +0200"
-    },
-    {
       "title": "Kommentar zur Beamtenbesoldung in Brandenburg: Hätte ja klappen können!",
       "link": "https://www.rbb24.de/politik/beitrag/2026/07/kommentar-beamtenbesoldung-strategie-brandenburg-finanzministe-r.html",
       "date": "Wed, 01 Jul 2026 21:25:47 +0200"
@@ -24,11 +39,6 @@
       "title": "DFB-Vorsänger: \"Der Fokus rutscht vom Spiel auf den Konsum\"",
       "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-wm-usa-kanada-deutschland-aus-fans-vorsaenger-kritik-stimmung.html",
       "date": "Wed, 01 Jul 2026 21:15:32 +0200"
-    },
-    {
-      "title": "Staatskanzlei: Was über die Ermittlungen gegen eine Woidke-Mitarbeiterin bislang bekannt ist",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/07/Brandenburg-staatskanzlei-ermittlungen-mitarbeiterin-woidke.html",
-      "date": "Wed, 01 Jul 2026 20:06:23 +0200"
     },
     {
       "title": "Mehr Geld für Brandenburger Beamte: Regierung befürchtet Debatten",
@@ -48,17 +58,7 @@
     {
       "title": "BerlinTrend: Linke stärkste Kraft, CDU verliert weiter",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-trend-juli-cdu-spd-gruene-linke-afd-bsw-fdp.html",
-      "date": "Wed, 01 Jul 2026 18:12:29 +0200"
-    },
-    {
-      "title": "Grafiken zum BerlinTrend vom Juli 2026",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-trend-sonntagsfrage-senat-wegner-zufrieden-bekannt-probleme-bildergalerie.html",
-      "date": "Wed, 01 Jul 2026 18:00:14 +0200"
-    },
-    {
-      "title": "NDR: Verdächtiger im Fall Stade soll Waffe in Berlin gekauft haben",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/verdaechtiger-fall-stade-waffe-kauf-berlin-ndr.html",
-      "date": "Wed, 01 Jul 2026 17:24:55 +0200"
+      "date": "Wed, 01 Jul 2026 18:12:00 +0200"
     }
   ],
   "police": [
@@ -128,9 +128,19 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Hitze: So lassen sich Wohnräume abkühlen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/hitze-raeume-kuehlen-massnahmen-tipps-lueftung-fenster.html",
+      "date": "Thu, 02 Jul 2026 08:27:27 +0200"
+    },
+    {
       "title": "Bromat im Trinkwasser von Zehdenick nachgewiesen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-zehdenick-bromat-trinkwasser.html",
-      "date": "Wed, 01 Jul 2026 21:43:00 +0200"
+      "date": "Thu, 02 Jul 2026 08:16:06 +0200"
+    },
+    {
+      "title": "Heimaufsicht verhängt Belegungsstopp für Vitanas-Heim Märkisches Viertel",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/pflegeheim-vitanas-berlin-maerkisches-viertel-belegungsstopp-per.html",
+      "date": "Thu, 02 Jul 2026 06:30:07 +0200"
     },
     {
       "title": "NDR: Verdächtiger im Fall Stade soll Waffe in Berlin gekauft haben",
@@ -176,16 +186,6 @@
       "title": "Projekt bis Ende der 2030er Jahre: Probebohrungen für U8-Verlängerung gestartet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-reinickendorf-u8-ubahn-verlaengerung-baugrund-untersuchung.html",
       "date": "Wed, 01 Jul 2026 14:20:12 +0200"
-    },
-    {
-      "title": "Fachleitungsstellen sind an Berliner Grundschulen teils unbesetzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-grundschulen-fachleitungsstellen-unbesetzt.html",
-      "date": "Wed, 01 Jul 2026 14:11:19 +0200"
-    },
-    {
-      "title": "Brücken am Görlitzer Park ab 1. Juli auf unbestimmte Zeit gesperrt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/goerlitzer-bruecken-gesperrt-streit-sanierung-deutschebahn-bezirk.html",
-      "date": "Wed, 01 Jul 2026 14:07:19 +0200"
     }
   ]
 }
