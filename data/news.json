@@ -1,14 +1,24 @@
 {
   "traffic": [
     {
+      "title": "BerlinTrend: Jeder Vierte in Berlin schränkt sich bei Urlaubsreisen ein",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-trend-umfrage-urlaubsplanung-urlaub-reise.html",
+      "date": "Fri, 03 Jul 2026 07:38:49 +0200"
+    },
+    {
+      "title": "Wiedereröffnung: Kulturbahnhof in Hohen Neuendorf löst Unmut aus",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/07/bahnhof-hohen-neuendorf-eroeffnung-sanierung-buchstaben-bilderraetsel.html",
+      "date": "Fri, 03 Jul 2026 07:26:34 +0200"
+    },
+    {
+      "title": "Frauen als Drogenkuriere: Ermittlungen gegen Paar aus Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/drogenkuriere-urlaub-frauen-berlin-signal-chats-ermittlungen.html",
+      "date": "Fri, 03 Jul 2026 07:21:08 +0200"
+    },
+    {
       "title": "Enteignung von Wohnungskonzernen soll verboten werden",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/koalition-verstaatlichung-wietwohnungen-verbot.html",
       "date": "Thu, 02 Jul 2026 20:53:02 +0200"
-    },
-    {
-      "title": "Das traut Ex-Profi Geschke den Deutschen bei der Tour de France zu",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/07/radsport-tour-de-france-interview-geschke-pogacar-lipowitz-kanter-berlin-brandenburg.html",
-      "date": "Thu, 02 Jul 2026 20:29:54 +0200"
     },
     {
       "title": "Mensch stirbt bei Wohnhaus-Brand in Berlin-Lichterfelde",
@@ -49,16 +59,6 @@
       "title": "An der Tanke: \"Jobs in der Umgebung sind komplett Katastrophe\"",
       "link": "https://www.rbb24.de/panorama/thema/an-der-tanke/brandenburg-an-der-tanke-wurstwerk-buero-saisonarbeiter.html",
       "date": "Thu, 02 Jul 2026 17:01:00 +0200"
-    },
-    {
-      "title": "Zweiter Bauabschnitt zwischen Angermünde und Stettin beginnt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/bahn-strecke-angermuende-stettin-zweiter-bauabschnitt.html",
-      "date": "Thu, 02 Jul 2026 16:49:58 +0200"
-    },
-    {
-      "title": "Berliner Hochschule für Technik soll ab 2030 Betrieb in Tegel aufnehmen",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/berlin-hochschule-fuer-technik-tegel-fuenf-jahre-2030.html",
-      "date": "Thu, 02 Jul 2026 16:39:40 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,16 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "BerlinTrend: Jeder Vierte in Berlin schränkt sich bei Urlaubsreisen ein",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-trend-umfrage-urlaubsplanung-urlaub-reise.html",
+      "date": "Fri, 03 Jul 2026 07:38:49 +0200"
+    },
+    {
+      "title": "Frauen als Drogenkuriere: Ermittlungen gegen Paar aus Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/drogenkuriere-urlaub-frauen-berlin-signal-chats-ermittlungen.html",
+      "date": "Fri, 03 Jul 2026 07:21:08 +0200"
+    },
+    {
       "title": "Mensch stirbt bei Wohnhaus-Brand in Berlin-Lichterfelde",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brand-feuer-lichterfelde-toter.html",
       "date": "Thu, 02 Jul 2026 20:16:50 +0200"
@@ -176,16 +186,6 @@
       "title": "Feuer auf Recyclinghof in Berlin-Reinickendorf",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/feuer-berlin-recyclinghof-rauch-reinickendorf.html",
       "date": "Thu, 02 Jul 2026 11:43:17 +0200"
-    },
-    {
-      "title": "Gericht bestätigt Verbot von Russia Today",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/verbot-fernsehsender-russia-today-rechtmaessig-gerichtsurteil-berlin-brandenburg.html",
-      "date": "Thu, 02 Jul 2026 10:56:32 +0200"
-    },
-    {
-      "title": "Hitze: So lassen sich Wohnräume abkühlen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/hitze-raeume-kuehlen-massnahmen-tipps-lueftung-fenster.html",
-      "date": "Thu, 02 Jul 2026 08:27:27 +0200"
     }
   ]
 }
