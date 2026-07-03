@@ -1,6 +1,46 @@
 {
   "traffic": [
     {
+      "title": "Wollitz, Hanning, Joop: Diese Nagelsmann-Nachfolger machen Sinn",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/listicle-bundestrainer-nachfolger-julian-nagelsmann-deutschland.html",
+      "date": "Fri, 03 Jul 2026 16:43:25 +0200"
+    },
+    {
+      "title": "Strasser entschuldigt sich nach umstrittener Wahlkampfspende",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/07/axel-strasser-wahlkampf-spende-entschuldigung.html",
+      "date": "Fri, 03 Jul 2026 16:40:21 +0200"
+    },
+    {
+      "title": "Klage abgewiesen: 244 Alleebäume in Zeuthen dürfen für Straßensanierung gefällt werden",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/zeuthen-dahme-spreewald-seestrasse-ausbau-sanierung-klage-nabu-urteil.html",
+      "date": "Fri, 03 Jul 2026 15:57:25 +0200"
+    },
+    {
+      "title": "Bromat im Trinkwasser von Zehdenick nachgewiesen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-zehdenick-bromat-trinkwasser.html",
+      "date": "Fri, 03 Jul 2026 15:56:24 +0200"
+    },
+    {
+      "title": "Genossenschaften in Berlin: Immer weniger neue Wohnungen",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/berlin-immer-weniger-genossenschaftswohnungen-wohnungsmangel.html",
+      "date": "Fri, 03 Jul 2026 15:51:27 +0200"
+    },
+    {
+      "title": "Frau stirbt bei Wohnungsbrand in Berlin-Lichterfelde",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brand-feuer-lichterfelde-toter.html",
+      "date": "Fri, 03 Jul 2026 15:50:00 +0200"
+    },
+    {
+      "title": "Angeblichen Pädophilen in Berlin überfallen - Razzia gegen rechtsextreme Jugendliche",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-razzia-polizei-jugendliche-mann-paedophil-ueberfall-karlshorst.html",
+      "date": "Fri, 03 Jul 2026 15:48:49 +0200"
+    },
+    {
+      "title": "Labor für Wasserstoffleitungen in Baruth/Mark eröffnet",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/reallabor-wasserstoff-versuche-baruth-mark-leitungen.html",
+      "date": "Fri, 03 Jul 2026 15:12:03 +0200"
+    },
+    {
       "title": "Sommerferien: Große Baustellen bremsen Berliner S-Bahn aus",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/berlin-brandenburg-bahn-sbahn-sommerbausaison-einschraenkungen-schienenersatz.html",
       "date": "Fri, 03 Jul 2026 13:34:21 +0200"
@@ -11,57 +51,27 @@
       "date": "Fri, 03 Jul 2026 13:18:07 +0200"
     },
     {
-      "title": "Überhöhte Mieten in Berlin können jetzt online gemeldet werden melden",
+      "title": "Überhöhte Mieten in Berlin können jetzt online gemeldet werden",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/berlin-ueberhoehte-mieten-verdachtsfaelle-online-melden.html",
-      "date": "Fri, 03 Jul 2026 13:14:22 +0200"
+      "date": "Fri, 03 Jul 2026 13:14:00 +0200"
     },
     {
       "title": "Hochhaus-Sturz eines Sechsjährigen: Staatsanwaltschaft ermittelt gegen Mutter",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/frankfurt-oder-sturz-hochhaus-sechsjaehriger-ermittlungen-mutter.html",
       "date": "Fri, 03 Jul 2026 12:48:32 +0200"
-    },
-    {
-      "title": "Kyritz-Ruppiner Heide: Landschaftspfleger mit Hufen und großem Appetit",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/konik-pferd-landschaft-pflege-kyritz-ruppiner-heide.html",
-      "date": "Fri, 03 Jul 2026 12:40:56 +0200"
-    },
-    {
-      "title": "A10 wird zwischen Potsdam-Nord und Spandau gesperrt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/a10-hitze-reperatur-arbeiten-berliner-ring-potsdam-nord-spandau-sperrung.html",
-      "date": "Fri, 03 Jul 2026 11:52:05 +0200"
-    },
-    {
-      "title": "Bromat im Trinkwasser von Zehdenick nachgewiesen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-zehdenick-bromat-trinkwasser.html",
-      "date": "Fri, 03 Jul 2026 11:45:56 +0200"
-    },
-    {
-      "title": "250. Geburtstag der USA: Brandenburger Tor erstrahlt in Farben der Vereinigten Staaten",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brandenburger-tor-vierter-juli-usa-geburtstag-angestrahlt.html",
-      "date": "Fri, 03 Jul 2026 11:34:49 +0200"
-    },
-    {
-      "title": "Neuer Kulturbahnhof: Buchstabensalat in Hohen Neuendorf schmeckt nicht allen",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/07/bahnhof-hohen-neuendorf-eroeffnung-sanierung-buchstaben-bilderraetsel.html",
-      "date": "Fri, 03 Jul 2026 10:51:47 +0200"
-    },
-    {
-      "title": "Flughafen BER: Zoll erwischt Reisenden mit 16 Kilogramm Ketamin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-zoll-ketamin-fund-in-reisegepaeck.html",
-      "date": "Fri, 03 Jul 2026 08:29:45 +0200"
-    },
-    {
-      "title": "Berliner Abgeordnetenhaus beschließt Mietenkataster",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/07/berlin-parlament-agh-sitzung-wohnen-mieten-verkehr.html",
-      "date": "Fri, 03 Jul 2026 08:23:12 +0200"
-    },
-    {
-      "title": "BerlinTrend: Jeder Vierte in Berlin schränkt sich bei Urlaubsreisen ein",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-trend-umfrage-urlaubsplanung-urlaub-reise.html",
-      "date": "Fri, 03 Jul 2026 07:38:00 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Frau bei Wohnungsbrand verstorben",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689514.php",
+      "date": "Fri, 03 Jul 2026 15:24:42 +0200"
+    },
+    {
+      "title": "Polizei warnt vor falschen Pflegedienstmitarbeitenden",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689511.php",
+      "date": "Fri, 03 Jul 2026 15:18:55 +0200"
+    },
     {
       "title": "Versuchte gefährliche Körperverletzung nach Verkehrsunfall",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689414.php",
@@ -111,22 +121,27 @@
       "title": "Explosion auf Betriebsgelände – Zeuginnen und Zeugen gesucht",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1686680.php",
       "date": "Tue, 30 Jun 2026 14:32:00 +0200"
-    },
-    {
-      "title": "Gemeinsame Präventionsaktion im ÖPNV im Juli 2026",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1687787.php",
-      "date": "Tue, 30 Jun 2026 13:03:09 +0200"
-    },
-    {
-      "title": "Raub auf einen Supermarkt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1687779.php",
-      "date": "Tue, 30 Jun 2026 12:52:28 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Bromat im Trinkwasser von Zehdenick nachgewiesen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-zehdenick-bromat-trinkwasser.html",
+      "date": "Fri, 03 Jul 2026 15:56:24 +0200"
+    },
+    {
+      "title": "Frau stirbt bei Wohnungsbrand in Berlin-Lichterfelde",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brand-feuer-lichterfelde-toter.html",
+      "date": "Fri, 03 Jul 2026 15:50:00 +0200"
+    },
+    {
+      "title": "Angeblichen Pädophilen in Berlin überfallen - Razzia gegen rechtsextreme Jugendliche",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-razzia-polizei-jugendliche-mann-paedophil-ueberfall-karlshorst.html",
+      "date": "Fri, 03 Jul 2026 15:48:49 +0200"
+    },
     {
       "title": "70-Jähriger nach Unfall mit Tram in Berlin-Adlershof schwer verletzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/unfall-tram-radfahrer-berlin-verletzt.html",
@@ -146,11 +161,6 @@
       "title": "A10 wird zwischen Potsdam-Nord und Spandau gesperrt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/a10-hitze-reperatur-arbeiten-berliner-ring-potsdam-nord-spandau-sperrung.html",
       "date": "Fri, 03 Jul 2026 11:52:05 +0200"
-    },
-    {
-      "title": "Bromat im Trinkwasser von Zehdenick nachgewiesen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-zehdenick-bromat-trinkwasser.html",
-      "date": "Fri, 03 Jul 2026 11:45:56 +0200"
     },
     {
       "title": "250. Geburtstag der USA: Brandenburger Tor erstrahlt in Farben der Vereinigten Staaten",
@@ -173,19 +183,9 @@
       "date": "Fri, 03 Jul 2026 07:21:08 +0200"
     },
     {
-      "title": "Mensch stirbt bei Wohnhaus-Brand in Berlin-Lichterfelde",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brand-feuer-lichterfelde-toter.html",
-      "date": "Thu, 02 Jul 2026 20:16:50 +0200"
-    },
-    {
       "title": "Mordprozess: Staatsanwaltschaft fordert Höchststrafe für Palliativarzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-mordprozess-palliativarzt-hoechststrafe-gefordert-patienten-mord.html",
       "date": "Thu, 02 Jul 2026 17:57:45 +0200"
-    },
-    {
-      "title": "An der Tanke: \"Jobs in der Umgebung sind komplett Katastrophe\"",
-      "link": "https://www.rbb24.de/panorama/thema/an-der-tanke/brandenburg-an-der-tanke-wurstwerk-buero-saisonarbeiter.html",
-      "date": "Thu, 02 Jul 2026 17:01:00 +0200"
     }
   ]
 }
