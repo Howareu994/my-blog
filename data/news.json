@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Am Ort des EM-Triumphs: Schröder führt Basketballer zum Sieg",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/basketball-wm-qualifikation-israel-deutschland.html",
+      "date": "Fri, 03 Jul 2026 22:27:23 +0200"
+    },
+    {
       "title": "Fußball: Energie Cottbus enttäuscht beim 1:1 gegen Altglienicke",
       "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-zweite-bundesliga-energie-cottbus-testspiel-vsg-altglienicke.html",
       "date": "Fri, 03 Jul 2026 20:49:38 +0200"
@@ -33,7 +38,7 @@
     {
       "title": "Was es mit der Krankschreibung ab Tag 1 auf sich hat",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/reform-krankschreibung-arbeitsunfaehigkeitsbescheinigung-koaltition.html",
-      "date": "Fri, 03 Jul 2026 17:05:05 +0200"
+      "date": "Fri, 03 Jul 2026 17:05:00 +0200"
     },
     {
       "title": "Wollitz, Hanning, Joop: Diese Nagelsmann-Nachfolger machen Sinn",
@@ -54,11 +59,6 @@
       "title": "Frau stirbt bei Wohnungsbrand in Berlin-Lichterfelde",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brand-feuer-lichterfelde-toter.html",
       "date": "Fri, 03 Jul 2026 15:50:00 +0200"
-    },
-    {
-      "title": "Angeblichen Pädophilen in Berlin überfallen - Razzia gegen rechtsextreme Jugendliche",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-razzia-polizei-jugendliche-mann-paedophil-ueberfall-karlshorst.html",
-      "date": "Fri, 03 Jul 2026 15:48:49 +0200"
     }
   ],
   "police": [
