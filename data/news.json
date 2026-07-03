@@ -1,6 +1,36 @@
 {
   "traffic": [
     {
+      "title": "Sommerferien: Große Baustellen bremsen Berliner S-Bahn aus",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/berlin-brandenburg-bahn-sbahn-sommerbausaison-einschraenkungen-schienenersatz.html",
+      "date": "Fri, 03 Jul 2026 13:34:21 +0200"
+    },
+    {
+      "title": "70-Jähriger nach Unfall mit Tram in Berlin-Adlershof schwer verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/unfall-tram-radfahrer-berlin-verletzt.html",
+      "date": "Fri, 03 Jul 2026 13:18:07 +0200"
+    },
+    {
+      "title": "Überhöhte Mieten in Berlin können jetzt online gemeldet werden melden",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/berlin-ueberhoehte-mieten-verdachtsfaelle-online-melden.html",
+      "date": "Fri, 03 Jul 2026 13:14:22 +0200"
+    },
+    {
+      "title": "Hochhaus-Sturz eines Sechsjährigen: Staatsanwaltschaft ermittelt gegen Mutter",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/frankfurt-oder-sturz-hochhaus-sechsjaehriger-ermittlungen-mutter.html",
+      "date": "Fri, 03 Jul 2026 12:48:32 +0200"
+    },
+    {
+      "title": "Kyritz-Ruppiner Heide: Landschaftspfleger mit Hufen und großem Appetit",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/konik-pferd-landschaft-pflege-kyritz-ruppiner-heide.html",
+      "date": "Fri, 03 Jul 2026 12:40:56 +0200"
+    },
+    {
+      "title": "A10 wird zwischen Potsdam-Nord und Spandau gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/a10-hitze-reperatur-arbeiten-berliner-ring-potsdam-nord-spandau-sperrung.html",
+      "date": "Fri, 03 Jul 2026 11:52:05 +0200"
+    },
+    {
       "title": "Bromat im Trinkwasser von Zehdenick nachgewiesen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-zehdenick-bromat-trinkwasser.html",
       "date": "Fri, 03 Jul 2026 11:45:56 +0200"
@@ -16,11 +46,6 @@
       "date": "Fri, 03 Jul 2026 10:51:47 +0200"
     },
     {
-      "title": "A10 wird zwischen Potsdam-Nord und Spandau gesperrt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/a10-hitze-reperatur-arbeiten-berliner-ring-potsdam-nord-spandau-sperrung.html",
-      "date": "Fri, 03 Jul 2026 10:39:11 +0200"
-    },
-    {
       "title": "Flughafen BER: Zoll erwischt Reisenden mit 16 Kilogramm Ketamin",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-zoll-ketamin-fund-in-reisegepaeck.html",
       "date": "Fri, 03 Jul 2026 08:29:45 +0200"
@@ -34,34 +59,19 @@
       "title": "BerlinTrend: Jeder Vierte in Berlin schränkt sich bei Urlaubsreisen ein",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-trend-umfrage-urlaubsplanung-urlaub-reise.html",
       "date": "Fri, 03 Jul 2026 07:38:00 +0200"
-    },
-    {
-      "title": "Frauen als Drogenkuriere: Ermittlungen gegen Paar aus Berlin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/drogenkuriere-urlaub-frauen-berlin-signal-chats-ermittlungen.html",
-      "date": "Fri, 03 Jul 2026 07:21:08 +0200"
-    },
-    {
-      "title": "Enteignung von Wohnungskonzernen soll verboten werden",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/07/bund-koalition-verstaatlichung-mietwohnungen-enteignung-verbot.html",
-      "date": "Thu, 02 Jul 2026 20:53:02 +0200"
-    },
-    {
-      "title": "Mensch stirbt bei Wohnhaus-Brand in Berlin-Lichterfelde",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brand-feuer-lichterfelde-toter.html",
-      "date": "Thu, 02 Jul 2026 20:16:50 +0200"
-    },
-    {
-      "title": "Energie Cottbus holt Copado zurück",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/07/brandenburg-energie-cottbus-fussball-verpflichtung-copado-paderborn.html",
-      "date": "Thu, 02 Jul 2026 20:14:31 +0200"
-    },
-    {
-      "title": "Reformpaket vorgestellt: Das sind die Pläne",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/07/bundesregierung-reformpaket-koalitionsausschuss.html",
-      "date": "Thu, 02 Jul 2026 19:48:27 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Versuchte gefährliche Körperverletzung nach Verkehrsunfall",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689414.php",
+      "date": "Fri, 03 Jul 2026 13:46:32 +0200"
+    },
+    {
+      "title": "Durchsuchungen und Festnahme wegen Raubtat am S-Bahnhof Karlshorst",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689392.php",
+      "date": "Fri, 03 Jul 2026 13:22:00 +0200"
+    },
     {
       "title": "Schussabgabe in Spätkauf-Geschäft",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689286.php",
@@ -111,22 +121,32 @@
       "title": "Raub auf einen Supermarkt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1687779.php",
       "date": "Tue, 30 Jun 2026 12:52:28 +0200"
-    },
-    {
-      "title": "Tätlicher Angriff und Widerstand - mehrere verletzte Einsatzkräfte",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1687716.php",
-      "date": "Tue, 30 Jun 2026 11:46:00 +0200"
-    },
-    {
-      "title": "Polizeibeamtin bei Einsatz angegriffen und verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1687712.php",
-      "date": "Tue, 30 Jun 2026 11:32:00 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "70-Jähriger nach Unfall mit Tram in Berlin-Adlershof schwer verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/unfall-tram-radfahrer-berlin-verletzt.html",
+      "date": "Fri, 03 Jul 2026 13:18:07 +0200"
+    },
+    {
+      "title": "Hochhaus-Sturz eines Sechsjährigen: Staatsanwaltschaft ermittelt gegen Mutter",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/frankfurt-oder-sturz-hochhaus-sechsjaehriger-ermittlungen-mutter.html",
+      "date": "Fri, 03 Jul 2026 12:48:32 +0200"
+    },
+    {
+      "title": "Kyritz-Ruppiner Heide: Landschaftspfleger mit Hufen und großem Appetit",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/konik-pferd-landschaft-pflege-kyritz-ruppiner-heide.html",
+      "date": "Fri, 03 Jul 2026 12:40:56 +0200"
+    },
+    {
+      "title": "A10 wird zwischen Potsdam-Nord und Spandau gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/a10-hitze-reperatur-arbeiten-berliner-ring-potsdam-nord-spandau-sperrung.html",
+      "date": "Fri, 03 Jul 2026 11:52:05 +0200"
+    },
     {
       "title": "Bromat im Trinkwasser von Zehdenick nachgewiesen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-zehdenick-bromat-trinkwasser.html",
@@ -136,11 +156,6 @@
       "title": "250. Geburtstag der USA: Brandenburger Tor erstrahlt in Farben der Vereinigten Staaten",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brandenburger-tor-vierter-juli-usa-geburtstag-angestrahlt.html",
       "date": "Fri, 03 Jul 2026 11:34:49 +0200"
-    },
-    {
-      "title": "A10 wird zwischen Potsdam-Nord und Spandau gesperrt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/a10-hitze-reperatur-arbeiten-berliner-ring-potsdam-nord-spandau-sperrung.html",
-      "date": "Fri, 03 Jul 2026 10:39:11 +0200"
     },
     {
       "title": "Flughafen BER: Zoll erwischt Reisenden mit 16 Kilogramm Ketamin",
@@ -171,21 +186,6 @@
       "title": "An der Tanke: \"Jobs in der Umgebung sind komplett Katastrophe\"",
       "link": "https://www.rbb24.de/panorama/thema/an-der-tanke/brandenburg-an-der-tanke-wurstwerk-buero-saisonarbeiter.html",
       "date": "Thu, 02 Jul 2026 17:01:00 +0200"
-    },
-    {
-      "title": "Zweiter Bauabschnitt zwischen Angermünde und Stettin beginnt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/bahn-strecke-angermuende-stettin-zweiter-bauabschnitt.html",
-      "date": "Thu, 02 Jul 2026 16:49:58 +0200"
-    },
-    {
-      "title": "Vivantes bietet kostenlose Hautkrebsvorsorge im Prinzenbad an",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-prinzenbad-hautkrebsvorsorge-kostenlos-vivantes.html",
-      "date": "Thu, 02 Jul 2026 16:07:36 +0200"
-    },
-    {
-      "title": "Serie #Wiegehtesuns?: 84-Jährige muss für Rettungswagen zahlen",
-      "link": "https://www.rbb24.de/panorama/thema/wiegehtesuns/rettungswagen-gebuehren-leerfahrten-brandenburg-maerkisch-oderland.html",
-      "date": "Thu, 02 Jul 2026 15:51:00 +0200"
     }
   ]
 }
