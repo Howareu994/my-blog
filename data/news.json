@@ -1,14 +1,39 @@
 {
   "traffic": [
     {
-      "title": "BerlinTrend: Jeder Vierte in Berlin schränkt sich bei Urlaubsreisen ein",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-trend-umfrage-urlaubsplanung-urlaub-reise.html",
-      "date": "Fri, 03 Jul 2026 07:38:49 +0200"
+      "title": "Bromat im Trinkwasser von Zehdenick nachgewiesen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-zehdenick-bromat-trinkwasser.html",
+      "date": "Fri, 03 Jul 2026 11:45:56 +0200"
     },
     {
-      "title": "Wiedereröffnung: Kulturbahnhof in Hohen Neuendorf löst Unmut aus",
+      "title": "250. Geburtstag der USA: Brandenburger Tor erstrahlt in Farben der Vereinigten Staaten",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brandenburger-tor-vierter-juli-usa-geburtstag-angestrahlt.html",
+      "date": "Fri, 03 Jul 2026 11:34:49 +0200"
+    },
+    {
+      "title": "Neuer Kulturbahnhof: Buchstabensalat in Hohen Neuendorf schmeckt nicht allen",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/07/bahnhof-hohen-neuendorf-eroeffnung-sanierung-buchstaben-bilderraetsel.html",
-      "date": "Fri, 03 Jul 2026 07:26:34 +0200"
+      "date": "Fri, 03 Jul 2026 10:51:47 +0200"
+    },
+    {
+      "title": "A10 wird zwischen Potsdam-Nord und Spandau gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/a10-hitze-reperatur-arbeiten-berliner-ring-potsdam-nord-spandau-sperrung.html",
+      "date": "Fri, 03 Jul 2026 10:39:11 +0200"
+    },
+    {
+      "title": "Flughafen BER: Zoll erwischt Reisenden mit 16 Kilogramm Ketamin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-zoll-ketamin-fund-in-reisegepaeck.html",
+      "date": "Fri, 03 Jul 2026 08:29:45 +0200"
+    },
+    {
+      "title": "Berliner Abgeordnetenhaus beschließt Mietenkataster",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/07/berlin-parlament-agh-sitzung-wohnen-mieten-verkehr.html",
+      "date": "Fri, 03 Jul 2026 08:23:12 +0200"
+    },
+    {
+      "title": "BerlinTrend: Jeder Vierte in Berlin schränkt sich bei Urlaubsreisen ein",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-trend-umfrage-urlaubsplanung-urlaub-reise.html",
+      "date": "Fri, 03 Jul 2026 07:38:00 +0200"
     },
     {
       "title": "Frauen als Drogenkuriere: Ermittlungen gegen Paar aus Berlin",
@@ -17,7 +42,7 @@
     },
     {
       "title": "Enteignung von Wohnungskonzernen soll verboten werden",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/koalition-verstaatlichung-wietwohnungen-verbot.html",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/07/bund-koalition-verstaatlichung-mietwohnungen-enteignung-verbot.html",
       "date": "Thu, 02 Jul 2026 20:53:02 +0200"
     },
     {
@@ -34,36 +59,16 @@
       "title": "Reformpaket vorgestellt: Das sind die Pläne",
       "link": "https://www.rbb24.de/politik/beitrag/2026/07/bundesregierung-reformpaket-koalitionsausschuss.html",
       "date": "Thu, 02 Jul 2026 19:48:27 +0200"
-    },
-    {
-      "title": "Bromat im Trinkwasser von Zehdenick nachgewiesen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-zehdenick-bromat-trinkwasser.html",
-      "date": "Thu, 02 Jul 2026 18:09:00 +0200"
-    },
-    {
-      "title": "Mordprozess: Staatsanwaltschaft fordert Höchststrafe für Palliativarzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-mordprozess-palliativarzt-hoechststrafe-gefordert-patienten-mord.html",
-      "date": "Thu, 02 Jul 2026 17:57:45 +0200"
-    },
-    {
-      "title": "Schwarz-Rot verschiebt Zieljahr des Berliner Radverkehrsnetzes um fünf Jahre",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/07/berlin-mobilitaetsgesetz-verkehr-radwege.html",
-      "date": "Thu, 02 Jul 2026 17:50:00 +0200"
-    },
-    {
-      "title": "Union Berlin verpflichtet Stürmerin Egli aus Freiburg",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/07/berlin-fussball-union-verpflichtung-leela-egli-freiburg-bundesliga.html",
-      "date": "Thu, 02 Jul 2026 17:49:32 +0200"
-    },
-    {
-      "title": "An der Tanke: \"Jobs in der Umgebung sind komplett Katastrophe\"",
-      "link": "https://www.rbb24.de/panorama/thema/an-der-tanke/brandenburg-an-der-tanke-wurstwerk-buero-saisonarbeiter.html",
-      "date": "Thu, 02 Jul 2026 17:01:00 +0200"
     }
   ],
   "police": [
     {
-      "title": "Vermisstenfahndung gelöscht",
+      "title": "Schussabgabe in Spätkauf-Geschäft",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689286.php",
+      "date": "Fri, 03 Jul 2026 11:38:52 +0200"
+    },
+    {
+      "title": "Vermisste 18-Jährige tot aufgefunden",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1682776.php",
       "date": "Thu, 02 Jul 2026 17:18:00 +0200"
     },
@@ -116,11 +121,6 @@
       "title": "Polizeibeamtin bei Einsatz angegriffen und verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1687712.php",
       "date": "Tue, 30 Jun 2026 11:32:00 +0200"
-    },
-    {
-      "title": "Neunjährige vermisst – Polizei bittet um Mithilfe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1687556.php",
-      "date": "Tue, 30 Jun 2026 09:45:08 +0200"
     }
   ],
   "free_events": [],
@@ -128,9 +128,29 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Bromat im Trinkwasser von Zehdenick nachgewiesen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-zehdenick-bromat-trinkwasser.html",
+      "date": "Fri, 03 Jul 2026 11:45:56 +0200"
+    },
+    {
+      "title": "250. Geburtstag der USA: Brandenburger Tor erstrahlt in Farben der Vereinigten Staaten",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brandenburger-tor-vierter-juli-usa-geburtstag-angestrahlt.html",
+      "date": "Fri, 03 Jul 2026 11:34:49 +0200"
+    },
+    {
+      "title": "A10 wird zwischen Potsdam-Nord und Spandau gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/a10-hitze-reperatur-arbeiten-berliner-ring-potsdam-nord-spandau-sperrung.html",
+      "date": "Fri, 03 Jul 2026 10:39:11 +0200"
+    },
+    {
+      "title": "Flughafen BER: Zoll erwischt Reisenden mit 16 Kilogramm Ketamin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-zoll-ketamin-fund-in-reisegepaeck.html",
+      "date": "Fri, 03 Jul 2026 08:29:45 +0200"
+    },
+    {
       "title": "BerlinTrend: Jeder Vierte in Berlin schränkt sich bei Urlaubsreisen ein",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-trend-umfrage-urlaubsplanung-urlaub-reise.html",
-      "date": "Fri, 03 Jul 2026 07:38:49 +0200"
+      "date": "Fri, 03 Jul 2026 07:38:00 +0200"
     },
     {
       "title": "Frauen als Drogenkuriere: Ermittlungen gegen Paar aus Berlin",
@@ -141,11 +161,6 @@
       "title": "Mensch stirbt bei Wohnhaus-Brand in Berlin-Lichterfelde",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brand-feuer-lichterfelde-toter.html",
       "date": "Thu, 02 Jul 2026 20:16:50 +0200"
-    },
-    {
-      "title": "Bromat im Trinkwasser von Zehdenick nachgewiesen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-zehdenick-bromat-trinkwasser.html",
-      "date": "Thu, 02 Jul 2026 18:09:00 +0200"
     },
     {
       "title": "Mordprozess: Staatsanwaltschaft fordert Höchststrafe für Palliativarzt",
@@ -168,24 +183,9 @@
       "date": "Thu, 02 Jul 2026 16:07:36 +0200"
     },
     {
-      "title": "Sierie #Wiegehtesuns?: 84-Jährige muss für Rettungswagen zahlen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/rettungswagen-gebuehren-leerfahrten-brandenburg-maerkisch-oderland.html",
-      "date": "Thu, 02 Jul 2026 15:51:12 +0200"
-    },
-    {
-      "title": "Mutmaßliche Brandanschläge in Cottbus - Polizei ermittelt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/angriff-brand-anschlag-zelle-79-cottbus-ermittlungen-versuchter-mord.html",
-      "date": "Thu, 02 Jul 2026 14:44:52 +0200"
-    },
-    {
-      "title": "Bauhaus-Ensemble: Waldsiedlung Zehlendorf für Unesco-Welterbe nominiert",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-zehlendorf-waldsiedlung-nominierung-unesco-welterbe.html",
-      "date": "Thu, 02 Jul 2026 11:47:43 +0200"
-    },
-    {
-      "title": "Feuer auf Recyclinghof in Berlin-Reinickendorf",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/feuer-berlin-recyclinghof-rauch-reinickendorf.html",
-      "date": "Thu, 02 Jul 2026 11:43:17 +0200"
+      "title": "Serie #Wiegehtesuns?: 84-Jährige muss für Rettungswagen zahlen",
+      "link": "https://www.rbb24.de/panorama/thema/wiegehtesuns/rettungswagen-gebuehren-leerfahrten-brandenburg-maerkisch-oderland.html",
+      "date": "Thu, 02 Jul 2026 15:51:00 +0200"
     }
   ]
 }
