@@ -1,6 +1,26 @@
 {
   "traffic": [
     {
+      "title": "Fußball: Energie Cottbus enttäuscht beim 1:1 gegen Altglienicke",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-zweite-bundesliga-energie-cottbus-testspiel-vsg-altglienicke.html",
+      "date": "Fri, 03 Jul 2026 20:49:38 +0200"
+    },
+    {
+      "title": "WM-Kolumne: Mit Heavy Metal gegen die Wand?",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-wm-kolumne-klopp-folgt-auf-nagelsmann-fehler.html",
+      "date": "Fri, 03 Jul 2026 19:41:06 +0200"
+    },
+    {
+      "title": "Bromat im Trinkwasser von Zehdenick nachgewiesen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-zehdenick-bromat-trinkwasser.html",
+      "date": "Fri, 03 Jul 2026 19:36:08 +0200"
+    },
+    {
+      "title": "Klage abgewiesen: 244 Alleebäume in Zeuthen dürfen für Straßensanierung gefällt werden",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/zeuthen-dahme-spreewald-seestrasse-ausbau-sanierung-klage-nabu-urteil.html",
+      "date": "Fri, 03 Jul 2026 19:35:12 +0200"
+    },
+    {
       "title": "Kompromiss bei Bebauung von Späthsfelde in Berlin gefunden",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-baumschule-spaethsfelde-bebauung-wohnungen-kompromiss.html",
       "date": "Fri, 03 Jul 2026 19:06:35 +0200"
@@ -26,16 +46,6 @@
       "date": "Fri, 03 Jul 2026 16:40:21 +0200"
     },
     {
-      "title": "Klage abgewiesen: 244 Alleebäume in Zeuthen dürfen für Straßensanierung gefällt werden",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/zeuthen-dahme-spreewald-seestrasse-ausbau-sanierung-klage-nabu-urteil.html",
-      "date": "Fri, 03 Jul 2026 15:57:25 +0200"
-    },
-    {
-      "title": "Bromat im Trinkwasser von Zehdenick nachgewiesen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-zehdenick-bromat-trinkwasser.html",
-      "date": "Fri, 03 Jul 2026 15:56:24 +0200"
-    },
-    {
       "title": "Genossenschaften in Berlin: Immer weniger neue Wohnungen",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/berlin-immer-weniger-genossenschaftswohnungen-wohnungsmangel.html",
       "date": "Fri, 03 Jul 2026 15:51:27 +0200"
@@ -49,16 +59,6 @@
       "title": "Angeblichen Pädophilen in Berlin überfallen - Razzia gegen rechtsextreme Jugendliche",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-razzia-polizei-jugendliche-mann-paedophil-ueberfall-karlshorst.html",
       "date": "Fri, 03 Jul 2026 15:48:49 +0200"
-    },
-    {
-      "title": "Labor für Wasserstoffleitungen in Baruth/Mark eröffnet",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/reallabor-wasserstoff-versuche-baruth-mark-leitungen.html",
-      "date": "Fri, 03 Jul 2026 15:12:03 +0200"
-    },
-    {
-      "title": "Sommerferien: Große Baustellen bremsen Berliner S-Bahn aus",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/berlin-brandenburg-bahn-sbahn-sommerbausaison-einschraenkungen-schienenersatz.html",
-      "date": "Fri, 03 Jul 2026 13:34:21 +0200"
     }
   ],
   "police": [
@@ -128,14 +128,14 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Bromat im Trinkwasser von Zehdenick nachgewiesen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-zehdenick-bromat-trinkwasser.html",
+      "date": "Fri, 03 Jul 2026 19:36:08 +0200"
+    },
+    {
       "title": "Kompromiss bei Bebauung von Späthsfelde in Berlin gefunden",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-baumschule-spaethsfelde-bebauung-wohnungen-kompromiss.html",
       "date": "Fri, 03 Jul 2026 19:06:35 +0200"
-    },
-    {
-      "title": "Bromat im Trinkwasser von Zehdenick nachgewiesen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-zehdenick-bromat-trinkwasser.html",
-      "date": "Fri, 03 Jul 2026 15:56:24 +0200"
     },
     {
       "title": "Frau stirbt bei Wohnungsbrand in Berlin-Lichterfelde",
