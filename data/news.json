@@ -1,14 +1,19 @@
 {
   "traffic": [
     {
-      "title": "Fast 9.500 Haftbefehle in Berlin noch nicht vollstreckt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-tausende-haftbefehle-offen-diebstahl-betrug-drogen.html",
-      "date": "Sat, 04 Jul 2026 10:22:07 +0200"
-    },
-    {
       "title": "Aus Plattenbau wird Sportlerheim",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/recycling-platten-bau-beton-sportlerheim-kolkwitz.html",
-      "date": "Sat, 04 Jul 2026 09:47:09 +0200"
+      "date": "Sat, 04 Jul 2026 11:43:24 +0200"
+    },
+    {
+      "title": "Fast 9.500 Haftbefehle in Berlin noch nicht vollstreckt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-tausende-haftbefehle-offen-diebstahl-betrug-drogen.html",
+      "date": "Sat, 04 Jul 2026 11:33:09 +0200"
+    },
+    {
+      "title": "Reizgas in Tram versprüht - mehrere Personen leicht verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/reizgas-tram-berlin-verletzte.html",
+      "date": "Sat, 04 Jul 2026 11:21:28 +0200"
     },
     {
       "title": "Auswirkungen von Hitze auf Seen: Ein Ökosystem unter Stress",
@@ -58,6 +63,16 @@
   ],
   "police": [
     {
+      "title": "Mit Reizgas in Straßenbahn gesprüht",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689590.php",
+      "date": "Sat, 04 Jul 2026 12:41:02 +0200"
+    },
+    {
+      "title": "Radfahrer bei Verkehrsunfall lebensgefährlich verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689589.php",
+      "date": "Sat, 04 Jul 2026 12:34:44 +0200"
+    },
+    {
       "title": "Mutmaßlich mit Messer verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689578.php",
       "date": "Fri, 03 Jul 2026 17:13:44 +0200"
@@ -106,16 +121,6 @@
       "title": "Mann durch Flaschenwurf verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1688246.php",
       "date": "Wed, 01 Jul 2026 12:22:10 +0200"
-    },
-    {
-      "title": "Kind nach Unfall in Krankenhaus",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1687996.php",
-      "date": "Tue, 30 Jun 2026 16:00:40 +0200"
-    },
-    {
-      "title": "Schwerer Landfriedensbruch nach Fußball-WM-Aus",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1687937.php",
-      "date": "Tue, 30 Jun 2026 15:08:58 +0200"
     }
   ],
   "free_events": [],
@@ -123,14 +128,19 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Fast 9.500 Haftbefehle in Berlin noch nicht vollstreckt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-tausende-haftbefehle-offen-diebstahl-betrug-drogen.html",
-      "date": "Sat, 04 Jul 2026 10:22:07 +0200"
+      "title": "Reizgas in Tram versprüht - mehrere Personen leicht verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/reizgas-tram-berlin-verletzte.html",
+      "date": "Sat, 04 Jul 2026 13:18:34 +0200"
     },
     {
       "title": "Aus Plattenbau wird Sportlerheim",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/recycling-platten-bau-beton-sportlerheim-kolkwitz.html",
-      "date": "Sat, 04 Jul 2026 09:47:09 +0200"
+      "date": "Sat, 04 Jul 2026 11:43:24 +0200"
+    },
+    {
+      "title": "Fast 9.500 Haftbefehle in Berlin noch nicht vollstreckt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-tausende-haftbefehle-offen-diebstahl-betrug-drogen.html",
+      "date": "Sat, 04 Jul 2026 11:33:09 +0200"
     },
     {
       "title": "Auswirkungen von Hitze auf Seen: Ein Ökosystem unter Stress",
@@ -176,11 +186,6 @@
       "title": "A10 wird zwischen Potsdam-Nord und Spandau gesperrt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/a10-hitze-reperatur-arbeiten-berliner-ring-potsdam-nord-spandau-sperrung.html",
       "date": "Fri, 03 Jul 2026 11:52:05 +0200"
-    },
-    {
-      "title": "250. Geburtstag der USA: Brandenburger Tor erstrahlt in Farben der Vereinigten Staaten",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brandenburger-tor-vierter-juli-usa-geburtstag-angestrahlt.html",
-      "date": "Fri, 03 Jul 2026 11:34:49 +0200"
     }
   ]
 }
