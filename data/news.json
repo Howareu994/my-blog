@@ -1,6 +1,41 @@
 {
   "traffic": [
     {
+      "title": "Para-Schwimmer Josia Topf: \"Ich bin kein Clown\"",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/parasport-schwimmen-josia-topf-cottbus-pralympics-sportler-des-jahres-interview-vav.html",
+      "date": "Sat, 04 Jul 2026 16:50:53 +0200"
+    },
+    {
+      "title": "Snoopy-Skulptur aus Berliner Galerie gestohlen - Polizei fahndet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-snoopy-skulptur-geklaut-diebstahl-fahndung.html",
+      "date": "Sat, 04 Jul 2026 16:03:05 +0200"
+    },
+    {
+      "title": "Freiwillige Feuerwehr besonders am Berliner Stadtrand unverzichtbar",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/freiwillige-feuerwehr-berlin-stadtrand-unverzichtbar.html",
+      "date": "Sat, 04 Jul 2026 15:59:25 +0200"
+    },
+    {
+      "title": "Brandenburg prüft gemeinsame Strompreiszone mit Polen",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/brandenburg-strom-gemeinsame-preiszone-polen.html",
+      "date": "Sat, 04 Jul 2026 15:41:09 +0200"
+    },
+    {
+      "title": "A10 wird zwischen Potsdam-Nord und Spandau gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/a10-hitze-reperatur-arbeiten-berliner-ring-potsdam-nord-spandau-sperrung.html",
+      "date": "Sat, 04 Jul 2026 15:33:26 +0200"
+    },
+    {
+      "title": "Invasive Art: Jäger erlegen Tausende Nutrias in Brandenburg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-jagd-tausende-nutrias-erlegt.html",
+      "date": "Sat, 04 Jul 2026 15:18:07 +0200"
+    },
+    {
+      "title": "Berliner Regionalligist schnappt sich Ex-Herthaner Brooks",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-regionalliga-nordost-vsg-altgliniecke-hertha-bsc-john-anthony-brooks-wechsel.html",
+      "date": "Sat, 04 Jul 2026 15:17:10 +0200"
+    },
+    {
       "title": "Reizgas in Tram versprüht - mehrere Personen leicht verletzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/reizgas-tram-berlin-verletzte.html",
       "date": "Sat, 04 Jul 2026 13:18:34 +0200"
@@ -24,44 +59,24 @@
       "title": "Am Ort des EM-Triumphs: Schröder führt Basketballer zum Sieg",
       "link": "https://www.rbb24.de/sport/beitrag/2026/07/basketball-wm-qualifikation-israel-deutschland.html",
       "date": "Fri, 03 Jul 2026 22:27:23 +0200"
-    },
-    {
-      "title": "Fußball: Energie Cottbus enttäuscht beim 1:1 gegen Altglienicke",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-zweite-bundesliga-energie-cottbus-testspiel-vsg-altglienicke.html",
-      "date": "Fri, 03 Jul 2026 20:49:38 +0200"
-    },
-    {
-      "title": "WM-Kolumne: Mit Heavy Metal gegen die Wand?",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-wm-kolumne-klopp-folgt-auf-nagelsmann-fehler.html",
-      "date": "Fri, 03 Jul 2026 19:41:06 +0200"
-    },
-    {
-      "title": "Bromat im Trinkwasser von Zehdenick nachgewiesen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-zehdenick-bromat-trinkwasser.html",
-      "date": "Fri, 03 Jul 2026 19:36:08 +0200"
-    },
-    {
-      "title": "Klage abgewiesen: 244 Alleebäume in Zeuthen dürfen für Straßensanierung gefällt werden",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/zeuthen-dahme-spreewald-seestrasse-ausbau-sanierung-klage-nabu-urteil.html",
-      "date": "Fri, 03 Jul 2026 19:35:12 +0200"
-    },
-    {
-      "title": "Kompromiss bei Bebauung von Späthsfelde in Berlin gefunden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-baumschule-spaethsfelde-bebauung-wohnungen-kompromiss.html",
-      "date": "Fri, 03 Jul 2026 19:06:35 +0200"
-    },
-    {
-      "title": "\"48 Stunden Neukölln\": Kunstfestival im Berliner Späti",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/07/berlin-48-stunden-neukoelln-kunst-kultur-ausstellung-oeffentlicher-raum.html",
-      "date": "Fri, 03 Jul 2026 17:22:59 +0200"
-    },
-    {
-      "title": "Was es mit der Krankschreibung ab Tag 1 auf sich hat",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/reform-krankschreibung-arbeitsunfaehigkeitsbescheinigung-koaltition.html",
-      "date": "Fri, 03 Jul 2026 17:05:00 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Scharfe Schusswaffe aus dem Verkehr gezogen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689592.php",
+      "date": "Sat, 04 Jul 2026 16:02:27 +0200"
+    },
+    {
+      "title": "Dreizehnjährige wieder da",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684525.php",
+      "date": "Sat, 04 Jul 2026 16:01:00 +0200"
+    },
+    {
+      "title": "Schüsse auf Firmengebäude und geparktes Fahrzeug",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689591.php",
+      "date": "Sat, 04 Jul 2026 15:19:55 +0200"
+    },
     {
       "title": "Mit Reizgas in Straßenbahn gesprüht",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689590.php",
@@ -106,27 +121,32 @@
       "title": "Vermisste 18-Jährige tot aufgefunden",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1682776.php",
       "date": "Thu, 02 Jul 2026 17:18:00 +0200"
-    },
-    {
-      "title": "Festnahmen nach räuberischer Erpressung von Jugendlichen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1688937.php",
-      "date": "Thu, 02 Jul 2026 15:13:33 +0200"
-    },
-    {
-      "title": "Raubüberfall auf Bordell",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1688809.php",
-      "date": "Thu, 02 Jul 2026 12:54:00 +0200"
-    },
-    {
-      "title": "Mann durch Flaschenwurf verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1688246.php",
-      "date": "Wed, 01 Jul 2026 12:22:10 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Snoopy-Skulptur aus Berliner Galerie gestohlen - Polizei fahndet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-snoopy-skulptur-geklaut-diebstahl-fahndung.html",
+      "date": "Sat, 04 Jul 2026 16:03:05 +0200"
+    },
+    {
+      "title": "Freiwillige Feuerwehr besonders am Berliner Stadtrand unverzichtbar",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/freiwillige-feuerwehr-berlin-stadtrand-unverzichtbar.html",
+      "date": "Sat, 04 Jul 2026 15:59:25 +0200"
+    },
+    {
+      "title": "A10 wird zwischen Potsdam-Nord und Spandau gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/a10-hitze-reperatur-arbeiten-berliner-ring-potsdam-nord-spandau-sperrung.html",
+      "date": "Sat, 04 Jul 2026 15:33:26 +0200"
+    },
+    {
+      "title": "Invasive Art: Jäger erlegen Tausende Nutrias in Brandenburg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-jagd-tausende-nutrias-erlegt.html",
+      "date": "Sat, 04 Jul 2026 15:18:07 +0200"
+    },
     {
       "title": "Reizgas in Tram versprüht - mehrere Personen leicht verletzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/reizgas-tram-berlin-verletzte.html",
@@ -166,26 +186,6 @@
       "title": "Angeblichen Pädophilen in Berlin überfallen - Razzia gegen rechtsextreme Jugendliche",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-razzia-polizei-jugendliche-mann-paedophil-ueberfall-karlshorst.html",
       "date": "Fri, 03 Jul 2026 15:48:49 +0200"
-    },
-    {
-      "title": "70-Jähriger nach Unfall mit Tram in Berlin-Adlershof schwer verletzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/unfall-tram-radfahrer-berlin-verletzt.html",
-      "date": "Fri, 03 Jul 2026 13:18:07 +0200"
-    },
-    {
-      "title": "Hochhaus-Sturz eines Sechsjährigen: Staatsanwaltschaft ermittelt gegen Mutter",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/frankfurt-oder-sturz-hochhaus-sechsjaehriger-ermittlungen-mutter.html",
-      "date": "Fri, 03 Jul 2026 12:48:32 +0200"
-    },
-    {
-      "title": "Kyritz-Ruppiner Heide: Landschaftspfleger mit Hufen und großem Appetit",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/konik-pferd-landschaft-pflege-kyritz-ruppiner-heide.html",
-      "date": "Fri, 03 Jul 2026 12:40:56 +0200"
-    },
-    {
-      "title": "A10 wird zwischen Potsdam-Nord und Spandau gesperrt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/a10-hitze-reperatur-arbeiten-berliner-ring-potsdam-nord-spandau-sperrung.html",
-      "date": "Fri, 03 Jul 2026 11:52:05 +0200"
     }
   ]
 }
