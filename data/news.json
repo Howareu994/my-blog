@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Langer Rückstau auf A10 nach Sperrung wegen Hitzeschäden",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/a10-hitze-reperatur-arbeiten-berliner-ring-potsdam-nord-spandau-sperrung.html",
+      "date": "Sat, 04 Jul 2026 17:39:00 +0200"
+    },
+    {
+      "title": "Am Späti in Berlin-Altglienicke: \"Jetzt kippt ohnehin langsam die Stimmung im Haus\"",
+      "link": "https://www.rbb24.de/panorama/thema/spaeti/berlin-altglienicke-am-spaeti-buerokauffrau-wohnungsmarkt.html",
+      "date": "Sat, 04 Jul 2026 17:37:27 +0200"
+    },
+    {
+      "title": "Baumfällungen am Berliner Spreeufer abgewendet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-kastanien-keine-faellungen-kraftwerk-spreeufer.html",
+      "date": "Sat, 04 Jul 2026 17:32:56 +0200"
+    },
+    {
       "title": "Para-Schwimmer Josia Topf: \"Ich bin kein Clown\"",
       "link": "https://www.rbb24.de/sport/beitrag/2026/07/parasport-schwimmen-josia-topf-cottbus-pralympics-sportler-des-jahres-interview-vav.html",
       "date": "Sat, 04 Jul 2026 16:50:53 +0200"
@@ -19,11 +34,6 @@
       "title": "Brandenburg prüft gemeinsame Strompreiszone mit Polen",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/brandenburg-strom-gemeinsame-preiszone-polen.html",
       "date": "Sat, 04 Jul 2026 15:41:09 +0200"
-    },
-    {
-      "title": "A10 wird zwischen Potsdam-Nord und Spandau gesperrt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/a10-hitze-reperatur-arbeiten-berliner-ring-potsdam-nord-spandau-sperrung.html",
-      "date": "Sat, 04 Jul 2026 15:33:26 +0200"
     },
     {
       "title": "Invasive Art: Jäger erlegen Tausende Nutrias in Brandenburg",
@@ -49,19 +59,14 @@
       "title": "Fast 9.500 Haftbefehle in Berlin noch nicht vollstreckt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-tausende-haftbefehle-offen-diebstahl-betrug-drogen.html",
       "date": "Sat, 04 Jul 2026 11:33:09 +0200"
-    },
-    {
-      "title": "Auswirkungen von Hitze auf Seen: Ein Ökosystem unter Stress",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/seen-fluesse-hohe-wassertemperaturen-folgen-klima.html",
-      "date": "Sat, 04 Jul 2026 07:22:04 +0200"
-    },
-    {
-      "title": "Am Ort des EM-Triumphs: Schröder führt Basketballer zum Sieg",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/07/basketball-wm-qualifikation-israel-deutschland.html",
-      "date": "Fri, 03 Jul 2026 22:27:23 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Frau bei Auseinandersetzung mit Messer verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689596.php",
+      "date": "Sat, 04 Jul 2026 17:00:16 +0200"
+    },
     {
       "title": "Scharfe Schusswaffe aus dem Verkehr gezogen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689592.php",
@@ -116,17 +121,27 @@
       "title": "Schussabgabe in Spätkauf-Geschäft",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689286.php",
       "date": "Fri, 03 Jul 2026 11:38:52 +0200"
-    },
-    {
-      "title": "Vermisste 18-Jährige tot aufgefunden",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1682776.php",
-      "date": "Thu, 02 Jul 2026 17:18:00 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Langer Rückstau auf A10 nach Sperrung wegen Hitzeschäden",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/a10-hitze-reperatur-arbeiten-berliner-ring-potsdam-nord-spandau-sperrung.html",
+      "date": "Sat, 04 Jul 2026 17:39:00 +0200"
+    },
+    {
+      "title": "Am Späti in Berlin-Altglienicke: \"Jetzt kippt ohnehin langsam die Stimmung im Haus\"",
+      "link": "https://www.rbb24.de/panorama/thema/spaeti/berlin-altglienicke-am-spaeti-buerokauffrau-wohnungsmarkt.html",
+      "date": "Sat, 04 Jul 2026 17:37:27 +0200"
+    },
+    {
+      "title": "Baumfällungen am Berliner Spreeufer abgewendet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-kastanien-keine-faellungen-kraftwerk-spreeufer.html",
+      "date": "Sat, 04 Jul 2026 17:32:56 +0200"
+    },
     {
       "title": "Snoopy-Skulptur aus Berliner Galerie gestohlen - Polizei fahndet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-snoopy-skulptur-geklaut-diebstahl-fahndung.html",
@@ -136,11 +151,6 @@
       "title": "Freiwillige Feuerwehr besonders am Berliner Stadtrand unverzichtbar",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/freiwillige-feuerwehr-berlin-stadtrand-unverzichtbar.html",
       "date": "Sat, 04 Jul 2026 15:59:25 +0200"
-    },
-    {
-      "title": "A10 wird zwischen Potsdam-Nord und Spandau gesperrt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/a10-hitze-reperatur-arbeiten-berliner-ring-potsdam-nord-spandau-sperrung.html",
-      "date": "Sat, 04 Jul 2026 15:33:26 +0200"
     },
     {
       "title": "Invasive Art: Jäger erlegen Tausende Nutrias in Brandenburg",
@@ -176,16 +186,6 @@
       "title": "Kompromiss bei Bebauung von Späthsfelde in Berlin gefunden",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-baumschule-spaethsfelde-bebauung-wohnungen-kompromiss.html",
       "date": "Fri, 03 Jul 2026 19:06:35 +0200"
-    },
-    {
-      "title": "Frau stirbt bei Wohnungsbrand in Berlin-Lichterfelde",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brand-feuer-lichterfelde-toter.html",
-      "date": "Fri, 03 Jul 2026 15:50:00 +0200"
-    },
-    {
-      "title": "Angeblichen Pädophilen in Berlin überfallen - Razzia gegen rechtsextreme Jugendliche",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-razzia-polizei-jugendliche-mann-paedophil-ueberfall-karlshorst.html",
-      "date": "Fri, 03 Jul 2026 15:48:49 +0200"
     }
   ]
 }
