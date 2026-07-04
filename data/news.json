@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Langer Rückstau auf A10 nach Sperrung wegen Hitzeschäden",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/a10-hitze-reperatur-arbeiten-berliner-ring-potsdam-nord-spandau-sperrung.html",
+      "date": "Sat, 04 Jul 2026 20:16:04 +0200"
+    },
+    {
+      "title": "15:0 zum Testspiel-Auftakt: Hertha feiert Schützenfest in Frohnau",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-testspiel-hertha-bsc-frohnauer-fc.html",
+      "date": "Sat, 04 Jul 2026 20:02:28 +0200"
+    },
+    {
       "title": "12:2 in Rathenow: Union holt Kantersieg im ersten Testspiel",
       "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-testspiel-1-fc-union-berlin-fsv-optik-rathenow.html",
       "date": "Sat, 04 Jul 2026 19:24:53 +0200"
@@ -9,11 +19,6 @@
       "title": "Fünfkämpfer Marvin Dogue: \"Vor einem Jahr wollte ich aufhören, jetzt feiere ich Erfolge.\"",
       "link": "https://www.rbb24.de/sport/beitrag/2026/07/potsdam-moderner-fuenfkampf-marvin-dogue-weltcup-olympia-reiten-interview.html",
       "date": "Sat, 04 Jul 2026 19:11:52 +0200"
-    },
-    {
-      "title": "Langer Rückstau auf A10 nach Sperrung wegen Hitzeschäden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/a10-hitze-reperatur-arbeiten-berliner-ring-potsdam-nord-spandau-sperrung.html",
-      "date": "Sat, 04 Jul 2026 17:39:00 +0200"
     },
     {
       "title": "Am Späti in Berlin-Altglienicke: \"Jetzt kippt ohnehin langsam die Stimmung im Haus\"",
@@ -34,11 +39,6 @@
       "title": "Snoopy-Skulptur aus Berliner Galerie gestohlen - Polizei fahndet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-snoopy-skulptur-geklaut-diebstahl-fahndung.html",
       "date": "Sat, 04 Jul 2026 16:03:05 +0200"
-    },
-    {
-      "title": "Freiwillige Feuerwehr besonders am Berliner Stadtrand unverzichtbar",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/freiwillige-feuerwehr-berlin-stadtrand-unverzichtbar.html",
-      "date": "Sat, 04 Jul 2026 15:59:25 +0200"
     },
     {
       "title": "Brandenburg prüft gemeinsame Strompreiszone mit Polen",
@@ -130,7 +130,7 @@
     {
       "title": "Langer Rückstau auf A10 nach Sperrung wegen Hitzeschäden",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/a10-hitze-reperatur-arbeiten-berliner-ring-potsdam-nord-spandau-sperrung.html",
-      "date": "Sat, 04 Jul 2026 17:39:00 +0200"
+      "date": "Sat, 04 Jul 2026 20:16:04 +0200"
     },
     {
       "title": "Am Späti in Berlin-Altglienicke: \"Jetzt kippt ohnehin langsam die Stimmung im Haus\"",
