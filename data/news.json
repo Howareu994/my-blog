@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Auswirkungen von Hitze auf Seen: Ein Ökosystem unter Stress",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/seen-fluesse-hohe-wassertemperaturen-folgen-klima.html",
+      "date": "Sat, 04 Jul 2026 07:22:04 +0200"
+    },
+    {
+      "title": "Aus Plattenbau wird Sportlerheim",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/recycling-platten-bau-beton-sportlerheim-kolkwitz.html",
+      "date": "Sat, 04 Jul 2026 07:21:37 +0200"
+    },
+    {
       "title": "Am Ort des EM-Triumphs: Schröder führt Basketballer zum Sieg",
       "link": "https://www.rbb24.de/sport/beitrag/2026/07/basketball-wm-qualifikation-israel-deutschland.html",
       "date": "Fri, 03 Jul 2026 22:27:23 +0200"
@@ -49,16 +59,6 @@
       "title": "Strasser entschuldigt sich nach umstrittener Wahlkampfspende",
       "link": "https://www.rbb24.de/politik/beitrag/2026/07/axel-strasser-wahlkampf-spende-entschuldigung.html",
       "date": "Fri, 03 Jul 2026 16:40:21 +0200"
-    },
-    {
-      "title": "Genossenschaften in Berlin: Immer weniger neue Wohnungen",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/berlin-immer-weniger-genossenschaftswohnungen-wohnungsmangel.html",
-      "date": "Fri, 03 Jul 2026 15:51:27 +0200"
-    },
-    {
-      "title": "Frau stirbt bei Wohnungsbrand in Berlin-Lichterfelde",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brand-feuer-lichterfelde-toter.html",
-      "date": "Fri, 03 Jul 2026 15:50:00 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,16 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Auswirkungen von Hitze auf Seen: Ein Ökosystem unter Stress",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/seen-fluesse-hohe-wassertemperaturen-folgen-klima.html",
+      "date": "Sat, 04 Jul 2026 07:22:04 +0200"
+    },
+    {
+      "title": "Aus Plattenbau wird Sportlerheim",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/recycling-platten-bau-beton-sportlerheim-kolkwitz.html",
+      "date": "Sat, 04 Jul 2026 07:21:37 +0200"
+    },
+    {
       "title": "Bromat im Trinkwasser von Zehdenick nachgewiesen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-zehdenick-bromat-trinkwasser.html",
       "date": "Fri, 03 Jul 2026 19:36:08 +0200"
@@ -176,16 +186,6 @@
       "title": "Flughafen BER: Zoll erwischt Reisenden mit 16 Kilogramm Ketamin",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-zoll-ketamin-fund-in-reisegepaeck.html",
       "date": "Fri, 03 Jul 2026 08:29:45 +0200"
-    },
-    {
-      "title": "BerlinTrend: Jeder Vierte in Berlin schränkt sich bei Urlaubsreisen ein",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-trend-umfrage-urlaubsplanung-urlaub-reise.html",
-      "date": "Fri, 03 Jul 2026 07:38:00 +0200"
-    },
-    {
-      "title": "Frauen als Drogenkuriere: Ermittlungen gegen Paar aus Berlin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/drogenkuriere-urlaub-frauen-berlin-signal-chats-ermittlungen.html",
-      "date": "Fri, 03 Jul 2026 07:21:08 +0200"
     }
   ]
 }
