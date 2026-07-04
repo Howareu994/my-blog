@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "12:2 in Rathenow: Union holt Kantersieg im ersten Testspiel",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-testspiel-1-fc-union-berlin-fsv-optik-rathenow.html",
+      "date": "Sat, 04 Jul 2026 19:24:53 +0200"
+    },
+    {
+      "title": "Fünfkämpfer Marvin Dogue: \"Vor einem Jahr wollte ich aufhören, jetzt feiere ich Erfolge.\"",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/potsdam-moderner-fuenfkampf-marvin-dogue-weltcup-olympia-reiten-interview.html",
+      "date": "Sat, 04 Jul 2026 19:11:52 +0200"
+    },
+    {
       "title": "Langer Rückstau auf A10 nach Sperrung wegen Hitzeschäden",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/a10-hitze-reperatur-arbeiten-berliner-ring-potsdam-nord-spandau-sperrung.html",
       "date": "Sat, 04 Jul 2026 17:39:00 +0200"
@@ -49,19 +59,14 @@
       "title": "Reizgas in Tram versprüht - mehrere Personen leicht verletzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/reizgas-tram-berlin-verletzte.html",
       "date": "Sat, 04 Jul 2026 13:18:34 +0200"
-    },
-    {
-      "title": "Aus Plattenbau wird Sportlerheim",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/recycling-platten-bau-beton-sportlerheim-kolkwitz.html",
-      "date": "Sat, 04 Jul 2026 11:43:24 +0200"
-    },
-    {
-      "title": "Fast 9.500 Haftbefehle in Berlin noch nicht vollstreckt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-tausende-haftbefehle-offen-diebstahl-betrug-drogen.html",
-      "date": "Sat, 04 Jul 2026 11:33:09 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Polizeibeamter bei Festnahme nach mutmaßlichem Drogenhandel verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689597.php",
+      "date": "Sat, 04 Jul 2026 18:10:00 +0200"
+    },
     {
       "title": "Frau bei Auseinandersetzung mit Messer verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689596.php",
@@ -116,11 +121,6 @@
       "title": "Durchsuchungen und Festnahme wegen Raubtat am S-Bahnhof Karlshorst",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689392.php",
       "date": "Fri, 03 Jul 2026 13:22:00 +0200"
-    },
-    {
-      "title": "Schussabgabe in Spätkauf-Geschäft",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689286.php",
-      "date": "Fri, 03 Jul 2026 11:38:52 +0200"
     }
   ],
   "free_events": [],
