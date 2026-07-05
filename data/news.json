@@ -1,14 +1,24 @@
 {
   "traffic": [
     {
-      "title": "Halle in Oranienburger Gewerbegebiet brennt - Warnung wegen Rauch",
+      "title": "Fußball: Union feiert nächstes Schützenfest bei Test in Lübben",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-bundesliga-union-berlin-testspiel-luebben.html",
+      "date": "Sun, 05 Jul 2026 18:37:52 +0200"
+    },
+    {
+      "title": "Schaubühnen-Mitbegründer Dieter Sturm gestorben",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/07/dramaturg-dieter-sturm-tot-mitbegruender-schaubuehne-berlin.html",
+      "date": "Sun, 05 Jul 2026 18:28:02 +0200"
+    },
+    {
+      "title": "Halle in Oranienburger Gewerbegebiet niedergebrannt - Warnung wegen Rauch",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brand-lagerhalle-gewerbegebiet-oranienburg-feuerwehr.html",
-      "date": "Sun, 05 Jul 2026 16:18:03 +0200"
+      "date": "Sun, 05 Jul 2026 17:28:08 +0200"
     },
     {
       "title": "Erdgeschoss in Bürogebäude in Britz komplett ausgebrannt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-bitz-brand-buerogebaeude.html",
-      "date": "Sun, 05 Jul 2026 15:03:04 +0200"
+      "date": "Sun, 05 Jul 2026 17:07:58 +0200"
     },
     {
       "title": "Auch am Sonntag Stau auf westlichem Berliner Ring wegen Sperrung",
@@ -49,16 +59,6 @@
       "title": "Verbotene Autorennen: Berlins Raser bleiben auf dem Gaspedal",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-verbotene-autorennen-raserei-justiz.html",
       "date": "Sun, 05 Jul 2026 09:06:57 +0200"
-    },
-    {
-      "title": "Interview mit Ehrenamtlichem im Kinderhospiz in Burg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/interview-ehrenamt-kinderhospiz-burg-spreewald.html",
-      "date": "Sun, 05 Jul 2026 07:20:46 +0200"
-    },
-    {
-      "title": "Trockenheit: Wie Brandenburg das Wasser halten will",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/07/brandenburg-mittelstaedt-wassergesetz-trockenheit-seen-klima.html",
-      "date": "Sun, 05 Jul 2026 07:19:26 +0200"
     }
   ],
   "police": [
@@ -128,14 +128,14 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Halle in Oranienburger Gewerbegebiet brennt - Warnung wegen Rauch",
+      "title": "Halle in Oranienburger Gewerbegebiet niedergebrannt - Warnung wegen Rauch",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brand-lagerhalle-gewerbegebiet-oranienburg-feuerwehr.html",
-      "date": "Sun, 05 Jul 2026 16:18:03 +0200"
+      "date": "Sun, 05 Jul 2026 17:28:08 +0200"
     },
     {
       "title": "Erdgeschoss in Bürogebäude in Britz komplett ausgebrannt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-bitz-brand-buerogebaeude.html",
-      "date": "Sun, 05 Jul 2026 15:03:04 +0200"
+      "date": "Sun, 05 Jul 2026 17:07:58 +0200"
     },
     {
       "title": "Auch am Sonntag Stau auf westlichem Berliner Ring wegen Sperrung",
