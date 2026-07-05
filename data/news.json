@@ -1,6 +1,36 @@
 {
   "traffic": [
     {
+      "title": "Berlin-Zehlendorf: Mann ertrinkt in Schlachtensee",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-feuerwehr-mann-im-schlachtensee-ertrunken.html",
+      "date": "Sun, 05 Jul 2026 11:30:59 +0200"
+    },
+    {
+      "title": "Hitzeschäden legen Verkehr auf Berliner Ring Richtung Norden lahm",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/a10-hitze-reperatur-arbeiten-berliner-ring-potsdam-nord-spandau-sperrung.html",
+      "date": "Sun, 05 Jul 2026 10:52:09 +0200"
+    },
+    {
+      "title": "Saisoneröffnung im Open-Air-Theater Globe Berlin: Shakespeare im Regen",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/07/berlin-globe-theater-saisoneroeffnung-regen-open-air-shakespeare.html",
+      "date": "Sun, 05 Jul 2026 10:46:46 +0200"
+    },
+    {
+      "title": "RB26: Bund sieht kein Potenzial für zügigen Ausbau der Ostbahn",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/07/brandenburg-ostbahn-kein-schneller-ausbau.html",
+      "date": "Sun, 05 Jul 2026 10:22:55 +0200"
+    },
+    {
+      "title": "Dikka-Konzert:  Wenn ein Nashorn zum Life-Coach wird",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/07/berlin-dikka-konzert-uber-arena-kinder-indoor-event.html",
+      "date": "Sun, 05 Jul 2026 09:35:45 +0200"
+    },
+    {
+      "title": "Verbotene Autorennen: Berlins Raser bleiben auf dem Gaspedal",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-verbotene-autorennen-raserei-justiz.html",
+      "date": "Sun, 05 Jul 2026 09:06:57 +0200"
+    },
+    {
       "title": "Interview mit Ehrenamtlichem im Kinderhospiz in Burg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/interview-ehrenamt-kinderhospiz-burg-spreewald.html",
       "date": "Sun, 05 Jul 2026 07:20:46 +0200"
@@ -9,21 +39,6 @@
       "title": "Trockenheit: Wie Brandenburg das Wasser halten will",
       "link": "https://www.rbb24.de/politik/beitrag/2026/07/brandenburg-mittelstaedt-wassergesetz-trockenheit-seen-klima.html",
       "date": "Sun, 05 Jul 2026 07:19:26 +0200"
-    },
-    {
-      "title": "Langer Rückstau auf A10 nach Sperrung wegen Hitzeschäden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/a10-hitze-reperatur-arbeiten-berliner-ring-potsdam-nord-spandau-sperrung.html",
-      "date": "Sat, 04 Jul 2026 20:16:04 +0200"
-    },
-    {
-      "title": "15:0 zum Testspiel-Auftakt: Hertha feiert Schützenfest in Frohnau",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-testspiel-hertha-bsc-frohnauer-fc.html",
-      "date": "Sat, 04 Jul 2026 20:02:28 +0200"
-    },
-    {
-      "title": "12:2 in Rathenow: Union holt Kantersieg im ersten Testspiel",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-testspiel-1-fc-union-berlin-fsv-optik-rathenow.html",
-      "date": "Sat, 04 Jul 2026 19:24:53 +0200"
     },
     {
       "title": "Fünfkämpfer Marvin Dogue: \"Vor einem Jahr wollte ich aufhören, jetzt feiere ich Erfolge.\"",
@@ -44,24 +59,14 @@
       "title": "Para-Schwimmer Josia Topf: \"Ich bin kein Clown\"",
       "link": "https://www.rbb24.de/sport/beitrag/2026/07/parasport-schwimmen-josia-topf-cottbus-pralympics-sportler-des-jahres-interview-vav.html",
       "date": "Sat, 04 Jul 2026 16:50:00 +0200"
-    },
-    {
-      "title": "Snoopy-Skulptur aus Berliner Galerie gestohlen - Polizei fahndet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-snoopy-skulptur-geklaut-diebstahl-fahndung.html",
-      "date": "Sat, 04 Jul 2026 16:03:05 +0200"
-    },
-    {
-      "title": "Brandenburg prüft gemeinsame Strompreiszone mit Polen",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/brandenburg-strom-gemeinsame-preiszone-polen.html",
-      "date": "Sat, 04 Jul 2026 15:41:09 +0200"
-    },
-    {
-      "title": "Invasive Art: Jäger erlegen Tausende Nutrias in Brandenburg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-jagd-tausende-nutrias-erlegt.html",
-      "date": "Sat, 04 Jul 2026 15:18:07 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Auseinandersetzung zweier Personengruppen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689603.php",
+      "date": "Sun, 05 Jul 2026 11:08:01 +0200"
+    },
     {
       "title": "Polizeibeamter bei Festnahme nach mutmaßlichem Drogenhandel verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689597.php",
@@ -116,11 +121,6 @@
       "title": "Versuchte gefährliche Körperverletzung nach Verkehrsunfall",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689414.php",
       "date": "Fri, 03 Jul 2026 13:46:32 +0200"
-    },
-    {
-      "title": "Durchsuchungen und Festnahme wegen Raubtat am S-Bahnhof Karlshorst",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689392.php",
-      "date": "Fri, 03 Jul 2026 13:22:00 +0200"
     }
   ],
   "free_events": [],
@@ -128,14 +128,24 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Berlin-Zehlendorf: Mann ertrinkt in Schlachtensee",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-feuerwehr-mann-im-schlachtensee-ertrunken.html",
+      "date": "Sun, 05 Jul 2026 11:30:59 +0200"
+    },
+    {
+      "title": "Hitzeschäden legen Verkehr auf Berliner Ring Richtung Norden lahm",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/a10-hitze-reperatur-arbeiten-berliner-ring-potsdam-nord-spandau-sperrung.html",
+      "date": "Sun, 05 Jul 2026 10:52:09 +0200"
+    },
+    {
+      "title": "Verbotene Autorennen: Berlins Raser bleiben auf dem Gaspedal",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-verbotene-autorennen-raserei-justiz.html",
+      "date": "Sun, 05 Jul 2026 09:06:57 +0200"
+    },
+    {
       "title": "Interview mit Ehrenamtlichem im Kinderhospiz in Burg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/interview-ehrenamt-kinderhospiz-burg-spreewald.html",
       "date": "Sun, 05 Jul 2026 07:20:46 +0200"
-    },
-    {
-      "title": "Langer Rückstau auf A10 nach Sperrung wegen Hitzeschäden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/a10-hitze-reperatur-arbeiten-berliner-ring-potsdam-nord-spandau-sperrung.html",
-      "date": "Sat, 04 Jul 2026 20:16:04 +0200"
     },
     {
       "title": "Am Späti in Berlin-Altglienicke: \"Jetzt kippt ohnehin langsam die Stimmung im Haus\"",
@@ -176,16 +186,6 @@
       "title": "Fast 9.500 Haftbefehle in Berlin noch nicht vollstreckt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-tausende-haftbefehle-offen-diebstahl-betrug-drogen.html",
       "date": "Sat, 04 Jul 2026 11:33:09 +0200"
-    },
-    {
-      "title": "Auswirkungen von Hitze auf Seen: Ein Ökosystem unter Stress",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/seen-fluesse-hohe-wassertemperaturen-folgen-klima.html",
-      "date": "Sat, 04 Jul 2026 07:22:04 +0200"
-    },
-    {
-      "title": "Bromat im Trinkwasser von Zehdenick nachgewiesen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-zehdenick-bromat-trinkwasser.html",
-      "date": "Fri, 03 Jul 2026 19:36:08 +0200"
     }
   ]
 }
