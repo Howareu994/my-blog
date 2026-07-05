@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Drei Menschen bei Verkehrsunfall nahe Luckau gestorben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/verkehrsunfall-bei-luckau-dahme-spreewald-drei-tote.html",
+      "date": "Sun, 05 Jul 2026 21:40:00 +0200"
+    },
+    {
       "title": "Auch am Sonntag Stau auf westlichem Berliner Ring wegen Sperrung",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/a10-hitze-reperatur-arbeiten-berliner-ring-potsdam-nord-spandau-sperrung.html",
       "date": "Sun, 05 Jul 2026 21:17:25 +0200"
@@ -54,11 +59,6 @@
       "title": "RB26: Bund sieht kein Potenzial für zügigen Ausbau der Ostbahn",
       "link": "https://www.rbb24.de/politik/beitrag/2026/07/brandenburg-ostbahn-kein-schneller-ausbau.html",
       "date": "Sun, 05 Jul 2026 10:22:55 +0200"
-    },
-    {
-      "title": "Dikka-Konzert:  Wenn ein Nashorn zum Life-Coach wird",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/07/berlin-dikka-konzert-uber-arena-kinder-indoor-event.html",
-      "date": "Sun, 05 Jul 2026 09:35:00 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Drei Menschen bei Verkehrsunfall nahe Luckau gestorben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/verkehrsunfall-bei-luckau-dahme-spreewald-drei-tote.html",
+      "date": "Sun, 05 Jul 2026 21:40:00 +0200"
+    },
+    {
       "title": "Auch am Sonntag Stau auf westlichem Berliner Ring wegen Sperrung",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/a10-hitze-reperatur-arbeiten-berliner-ring-potsdam-nord-spandau-sperrung.html",
       "date": "Sun, 05 Jul 2026 21:17:25 +0200"
@@ -181,11 +186,6 @@
       "title": "Snoopy-Skulptur aus Berliner Galerie gestohlen - Polizei fahndet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-snoopy-skulptur-geklaut-diebstahl-fahndung.html",
       "date": "Sat, 04 Jul 2026 16:03:05 +0200"
-    },
-    {
-      "title": "Freiwillige Feuerwehr besonders am Berliner Stadtrand unverzichtbar",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/freiwillige-feuerwehr-berlin-stadtrand-unverzichtbar.html",
-      "date": "Sat, 04 Jul 2026 15:59:25 +0200"
     }
   ]
 }
