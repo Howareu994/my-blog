@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Halle in Oranienburger Gewerbegebiet brennt - Warnung wegen Rauch",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brand-lagerhalle-gewerbegebiet-oranienburg-feuerwehr.html",
+      "date": "Sun, 05 Jul 2026 16:18:03 +0200"
+    },
+    {
       "title": "Erdgeschoss in Bürogebäude in Britz komplett ausgebrannt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-bitz-brand-buerogebaeude.html",
       "date": "Sun, 05 Jul 2026 15:03:04 +0200"
@@ -54,14 +59,19 @@
       "title": "Trockenheit: Wie Brandenburg das Wasser halten will",
       "link": "https://www.rbb24.de/politik/beitrag/2026/07/brandenburg-mittelstaedt-wassergesetz-trockenheit-seen-klima.html",
       "date": "Sun, 05 Jul 2026 07:19:26 +0200"
-    },
-    {
-      "title": "Fünfkämpfer Marvin Dogue: \"Vor einem Jahr wollte ich aufhören, jetzt feiere ich Erfolge.\"",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/07/potsdam-moderner-fuenfkampf-marvin-dogue-weltcup-olympia-reiten-interview.html",
-      "date": "Sat, 04 Jul 2026 19:11:52 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Zigarettenautomat gesprengt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689621.php",
+      "date": "Sun, 05 Jul 2026 15:21:07 +0200"
+    },
+    {
+      "title": "Bewaffneter Überfall auf Schnellrestaurant",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689620.php",
+      "date": "Sun, 05 Jul 2026 15:18:17 +0200"
+    },
     {
       "title": "Widerstand gegen Vollstreckungsbeamte",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689618.php",
@@ -111,22 +121,17 @@
       "title": "Mutmaßlich mit Messer verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689578.php",
       "date": "Fri, 03 Jul 2026 17:13:44 +0200"
-    },
-    {
-      "title": "Frau bei Wohnungsbrand verstorben",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689514.php",
-      "date": "Fri, 03 Jul 2026 15:24:42 +0200"
-    },
-    {
-      "title": "Polizei warnt vor falschen Pflegedienstmitarbeitenden",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689511.php",
-      "date": "Fri, 03 Jul 2026 15:18:55 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Halle in Oranienburger Gewerbegebiet brennt - Warnung wegen Rauch",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brand-lagerhalle-gewerbegebiet-oranienburg-feuerwehr.html",
+      "date": "Sun, 05 Jul 2026 16:18:03 +0200"
+    },
     {
       "title": "Erdgeschoss in Bürogebäude in Britz komplett ausgebrannt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-bitz-brand-buerogebaeude.html",
@@ -181,11 +186,6 @@
       "title": "Freiwillige Feuerwehr besonders am Berliner Stadtrand unverzichtbar",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/freiwillige-feuerwehr-berlin-stadtrand-unverzichtbar.html",
       "date": "Sat, 04 Jul 2026 15:59:25 +0200"
-    },
-    {
-      "title": "Invasive Art: Jäger erlegen Tausende Nutrias in Brandenburg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-jagd-tausende-nutrias-erlegt.html",
-      "date": "Sat, 04 Jul 2026 15:18:07 +0200"
     }
   ]
 }
