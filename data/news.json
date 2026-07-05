@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Interview mit Ehrenamtlichem im Kinderhospiz in Burg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/interview-ehrenamt-kinderhospiz-burg-spreewald.html",
+      "date": "Sun, 05 Jul 2026 07:20:46 +0200"
+    },
+    {
+      "title": "Trockenheit: Wie Brandenburg das Wasser halten will",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/07/brandenburg-mittelstaedt-wassergesetz-trockenheit-seen-klima.html",
+      "date": "Sun, 05 Jul 2026 07:19:26 +0200"
+    },
+    {
       "title": "Langer Rückstau auf A10 nach Sperrung wegen Hitzeschäden",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/a10-hitze-reperatur-arbeiten-berliner-ring-potsdam-nord-spandau-sperrung.html",
       "date": "Sat, 04 Jul 2026 20:16:04 +0200"
@@ -49,16 +59,6 @@
       "title": "Invasive Art: Jäger erlegen Tausende Nutrias in Brandenburg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-jagd-tausende-nutrias-erlegt.html",
       "date": "Sat, 04 Jul 2026 15:18:07 +0200"
-    },
-    {
-      "title": "Berliner Regionalligist schnappt sich Ex-Herthaner Brooks",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-regionalliga-nordost-vsg-altgliniecke-hertha-bsc-john-anthony-brooks-wechsel.html",
-      "date": "Sat, 04 Jul 2026 15:17:10 +0200"
-    },
-    {
-      "title": "Reizgas in Tram versprüht - mehrere Personen leicht verletzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/reizgas-tram-berlin-verletzte.html",
-      "date": "Sat, 04 Jul 2026 13:18:34 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Interview mit Ehrenamtlichem im Kinderhospiz in Burg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/interview-ehrenamt-kinderhospiz-burg-spreewald.html",
+      "date": "Sun, 05 Jul 2026 07:20:46 +0200"
+    },
+    {
       "title": "Langer Rückstau auf A10 nach Sperrung wegen Hitzeschäden",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/a10-hitze-reperatur-arbeiten-berliner-ring-potsdam-nord-spandau-sperrung.html",
       "date": "Sat, 04 Jul 2026 20:16:04 +0200"
@@ -181,11 +186,6 @@
       "title": "Bromat im Trinkwasser von Zehdenick nachgewiesen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-zehdenick-bromat-trinkwasser.html",
       "date": "Fri, 03 Jul 2026 19:36:08 +0200"
-    },
-    {
-      "title": "Kompromiss bei Bebauung von Späthsfelde in Berlin gefunden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-baumschule-spaethsfelde-bebauung-wohnungen-kompromiss.html",
-      "date": "Fri, 03 Jul 2026 19:06:35 +0200"
     }
   ]
 }
