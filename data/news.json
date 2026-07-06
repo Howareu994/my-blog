@@ -1,9 +1,49 @@
 {
   "traffic": [
     {
+      "title": "Mit Clara Schneider drängt die nächste Cottbuserin in die Bahnrad-Elite",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/radsport-bahnrad-nachwuchs-em-clara-schneider-team-sprint.html",
+      "date": "Mon, 06 Jul 2026 14:28:07 +0200"
+    },
+    {
+      "title": "Schwimmbad in Berlin-Hellersdorf soll für 35 Millionen Euro gebaut werden",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-schwimmbad-becken-hellersdorf-funktionsbad-sondervermoegen.html",
+      "date": "Mon, 06 Jul 2026 14:16:34 +0200"
+    },
+    {
+      "title": "Wie Unioner eine Fan-Liga gegen die Regeln der DDR gründeten",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-fanclub-liga-union-berlin-ddr-ost-west.html",
+      "date": "Mon, 06 Jul 2026 14:14:43 +0200"
+    },
+    {
+      "title": "Nach Stromausfall: Experten empfehlen zentrales Krisenzentrum für Berlin",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/07/stromausfall-januar-2026-bericht-expertenkommission.html",
+      "date": "Mon, 06 Jul 2026 14:13:11 +0200"
+    },
+    {
+      "title": "Märkisch-Oderland: Mehrere Verletzte nach Zusammenstoß von zwei Straßenbahnen in Rüdersdorf",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/ruedersdorf-berlin-brandenburg-strassenbahn-unfall-verletzte-sperrung.html",
+      "date": "Mon, 06 Jul 2026 14:12:42 +0200"
+    },
+    {
       "title": "65 Jahre alter Patient in Neuköllner Klinikum getötet - Mordkommission ermittelt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/krankenhaus-berlin-patient-tot-gestorben-streit-mordkommission.html",
-      "date": "Mon, 06 Jul 2026 10:05:27 +0200"
+      "date": "Mon, 06 Jul 2026 13:46:44 +0200"
+    },
+    {
+      "title": "Kommunales Wohnheim für Azubis eröffnet in Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-kommunales-wohnheim-azubis.html",
+      "date": "Mon, 06 Jul 2026 13:05:06 +0200"
+    },
+    {
+      "title": "Schulbegleitung für Kinder mit Behinderung: Wenn ein Recht zur Verhandlungssache wird",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-inklusion-kinder-mit-behinderung-schule-schulbegleitung-inklusionsassistenz.html",
+      "date": "Mon, 06 Jul 2026 13:01:19 +0200"
+    },
+    {
+      "title": "Projektleiter zum Bau der Berliner Ringbahnbrücke",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/interview-berlin-ringbahnbruecke-dreieck-funkturm-einbau-baustelle-kran-projektleiter.html",
+      "date": "Mon, 06 Jul 2026 11:27:00 +0200"
     },
     {
       "title": "Lange Staus am Wochenende: A10 nach Reparatur von Hitzeschäden wieder freigegeben",
@@ -19,49 +59,29 @@
       "title": "Drei Lastwagen an der Heerstraße ausgebrannt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/spandau-lastwagen-heerstrasse-ausgebrannt.html",
       "date": "Mon, 06 Jul 2026 08:42:09 +0200"
-    },
-    {
-      "title": "Halle in Oranienburger Gewerbegebiet niedergebrannt - Nachlöscharbeiten laufen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brand-lagerhalle-gewerbegebiet-oranienburg-feuerwehr.html",
-      "date": "Mon, 06 Jul 2026 08:18:57 +0200"
-    },
-    {
-      "title": "Bauarbeiten für Schulcampus in Eberswalde beginnen am Montag",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/schulcampus-eberswalde-barnim-oberschule-gymnasium.html",
-      "date": "Mon, 06 Jul 2026 07:57:17 +0200"
-    },
-    {
-      "title": "Expertenkommission legt Bericht zum Stromausfall im Januar vor",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/07/stromausfall-januar-2026-bericht-expertenkommission.html",
-      "date": "Mon, 06 Jul 2026 06:17:16 +0200"
-    },
-    {
-      "title": "Schulbegleitung für Kinder mit Behinderung: Wenn ein Recht zur Verhandlungssache wird",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-inklusion-kinder-mit-behinderung-schule-schulbegleitung-inklusionsassistenz.html",
-      "date": "Mon, 06 Jul 2026 06:13:35 +0200"
-    },
-    {
-      "title": "Drei Menschen bei Verkehrsunfall nahe Luckau gestorben",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/verkehrsunfall-bei-luckau-dahme-spreewald-drei-tote.html",
-      "date": "Sun, 05 Jul 2026 21:40:00 +0200"
-    },
-    {
-      "title": "Radsport: Startet die Tour de France 2029 in Berlin?",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/07/radsport-tour-de-france-deutsche-bewerbung-berlin.html",
-      "date": "Sun, 05 Jul 2026 20:22:50 +0200"
-    },
-    {
-      "title": "Fußball: Union feiert nächstes Schützenfest bei Test in Lübben",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-bundesliga-union-berlin-testspiel-luebben.html",
-      "date": "Sun, 05 Jul 2026 18:56:39 +0200"
-    },
-    {
-      "title": "Schaubühnen-Mitbegründer Dieter Sturm gestorben",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/07/dramaturg-dieter-sturm-tot-mitbegruender-schaubuehne-berlin.html",
-      "date": "Sun, 05 Jul 2026 18:28:02 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Autofahrer fährt mit Fahrzeug mehrfach gegen Tunnelwand und flüchtet",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1690002.php",
+      "date": "Mon, 06 Jul 2026 13:48:27 +0200"
+    },
+    {
+      "title": "Tötungsdelikt in Krankenhaus – Mordkommission ermittelt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689936.php",
+      "date": "Mon, 06 Jul 2026 13:09:46 +0200"
+    },
+    {
+      "title": "Raubüberfall auf Grillimbiss – Polizei bittet um Mithilfe",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689480.php",
+      "date": "Mon, 06 Jul 2026 12:22:00 +0200"
+    },
+    {
+      "title": "Mit Schreckschusspistole auf Mann geschossen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689852.php",
+      "date": "Mon, 06 Jul 2026 11:20:47 +0200"
+    },
     {
       "title": "Zigarettenautomat gesprengt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689621.php",
@@ -101,26 +121,6 @@
       "title": "Dreizehnjährige wieder da",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684525.php",
       "date": "Sat, 04 Jul 2026 16:01:00 +0200"
-    },
-    {
-      "title": "Schüsse auf Firmengebäude und geparktes Fahrzeug",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689591.php",
-      "date": "Sat, 04 Jul 2026 15:19:55 +0200"
-    },
-    {
-      "title": "Mit Reizgas in Straßenbahn gesprüht",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689590.php",
-      "date": "Sat, 04 Jul 2026 12:41:02 +0200"
-    },
-    {
-      "title": "Radfahrer bei Verkehrsunfall lebensgefährlich verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689589.php",
-      "date": "Sat, 04 Jul 2026 12:34:44 +0200"
-    },
-    {
-      "title": "Mutmaßlich mit Messer verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689578.php",
-      "date": "Fri, 03 Jul 2026 17:13:44 +0200"
     }
   ],
   "free_events": [],
@@ -128,9 +128,39 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Schwimmbad in Berlin-Hellersdorf soll für 35 Millionen Euro gebaut werden",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-schwimmbad-becken-hellersdorf-funktionsbad-sondervermoegen.html",
+      "date": "Mon, 06 Jul 2026 14:16:34 +0200"
+    },
+    {
+      "title": "Märkisch-Oderland: Mehrere Verletzte nach Zusammenstoß von zwei Straßenbahnen in Rüdersdorf",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/ruedersdorf-berlin-brandenburg-strassenbahn-unfall-verletzte-sperrung.html",
+      "date": "Mon, 06 Jul 2026 14:12:42 +0200"
+    },
+    {
       "title": "65 Jahre alter Patient in Neuköllner Klinikum getötet - Mordkommission ermittelt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/krankenhaus-berlin-patient-tot-gestorben-streit-mordkommission.html",
-      "date": "Mon, 06 Jul 2026 10:05:27 +0200"
+      "date": "Mon, 06 Jul 2026 13:46:44 +0200"
+    },
+    {
+      "title": "Kommunales Wohnheim für Azubis eröffnet in Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-kommunales-wohnheim-azubis.html",
+      "date": "Mon, 06 Jul 2026 13:05:06 +0200"
+    },
+    {
+      "title": "Schulbegleitung für Kinder mit Behinderung: Wenn ein Recht zur Verhandlungssache wird",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-inklusion-kinder-mit-behinderung-schule-schulbegleitung-inklusionsassistenz.html",
+      "date": "Mon, 06 Jul 2026 13:01:19 +0200"
+    },
+    {
+      "title": "Sirenen heulen testweise in Neuruppin für Wartungsarbeiten",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/neuruppin-sirenen-wartungsarbeiten-alarm.html",
+      "date": "Mon, 06 Jul 2026 11:36:43 +0200"
+    },
+    {
+      "title": "Projektleiter zum Bau der Berliner Ringbahnbrücke",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/interview-berlin-ringbahnbruecke-dreieck-funkturm-einbau-baustelle-kran-projektleiter.html",
+      "date": "Mon, 06 Jul 2026 11:27:00 +0200"
     },
     {
       "title": "Lange Staus am Wochenende: A10 nach Reparatur von Hitzeschäden wieder freigegeben",
@@ -156,36 +186,6 @@
       "title": "Bauarbeiten für Schulcampus in Eberswalde beginnen am Montag",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/schulcampus-eberswalde-barnim-oberschule-gymnasium.html",
       "date": "Mon, 06 Jul 2026 07:57:17 +0200"
-    },
-    {
-      "title": "Schulbegleitung für Kinder mit Behinderung: Wenn ein Recht zur Verhandlungssache wird",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-inklusion-kinder-mit-behinderung-schule-schulbegleitung-inklusionsassistenz.html",
-      "date": "Mon, 06 Jul 2026 06:13:35 +0200"
-    },
-    {
-      "title": "Drei Menschen bei Verkehrsunfall nahe Luckau gestorben",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/verkehrsunfall-bei-luckau-dahme-spreewald-drei-tote.html",
-      "date": "Sun, 05 Jul 2026 21:40:00 +0200"
-    },
-    {
-      "title": "Erdgeschoss in Bürogebäude in Britz komplett ausgebrannt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-bitz-brand-buerogebaeude.html",
-      "date": "Sun, 05 Jul 2026 17:07:58 +0200"
-    },
-    {
-      "title": "Streit in Jugendzentrum in Hellersdorf beschäftigt Polizei",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-hellersdorf-streit-jugendzentrum-linke-gruppen.html",
-      "date": "Sun, 05 Jul 2026 14:04:32 +0200"
-    },
-    {
-      "title": "Potsdam-Mittelmark: Reisebus kommt von A2 ab - Elf Leichtverletzte",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-verkehr-unfaelle-reisebus-a2-elf-verletzte.html",
-      "date": "Sun, 05 Jul 2026 13:30:26 +0200"
-    },
-    {
-      "title": "Berlin-Zehlendorf: Mann ertrinkt in Schlachtensee",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-feuerwehr-mann-im-schlachtensee-ertrunken.html",
-      "date": "Sun, 05 Jul 2026 11:30:59 +0200"
     }
   ]
 }
