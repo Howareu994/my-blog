@@ -1,24 +1,54 @@
 {
   "traffic": [
     {
+      "title": "65 Jahre alter Patient in Neuköllner Klinikum getötet - Mordkommission ermittelt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/krankenhaus-berlin-patient-tot-gestorben-streit-mordkommission.html",
+      "date": "Mon, 06 Jul 2026 10:05:27 +0200"
+    },
+    {
+      "title": "Lange Staus am Wochenende: A10 nach Reparatur von Hitzeschäden wieder freigegeben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/a10-hitze-reperatur-arbeiten-berliner-ring-potsdam-nord-spandau-sperrung.html",
+      "date": "Mon, 06 Jul 2026 09:10:19 +0200"
+    },
+    {
+      "title": "Sperrungen bei S-Bahn und Fernverkehr am Wochenende",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/wochenende-sperrungen-ringbahn-feuerwehr.html",
+      "date": "Mon, 06 Jul 2026 08:57:55 +0200"
+    },
+    {
+      "title": "Drei Lastwagen an der Heerstraße ausgebrannt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/spandau-lastwagen-heerstrasse-ausgebrannt.html",
+      "date": "Mon, 06 Jul 2026 08:42:09 +0200"
+    },
+    {
+      "title": "Halle in Oranienburger Gewerbegebiet niedergebrannt - Nachlöscharbeiten laufen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brand-lagerhalle-gewerbegebiet-oranienburg-feuerwehr.html",
+      "date": "Mon, 06 Jul 2026 08:18:57 +0200"
+    },
+    {
+      "title": "Bauarbeiten für Schulcampus in Eberswalde beginnen am Montag",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/schulcampus-eberswalde-barnim-oberschule-gymnasium.html",
+      "date": "Mon, 06 Jul 2026 07:57:17 +0200"
+    },
+    {
+      "title": "Expertenkommission legt Bericht zum Stromausfall im Januar vor",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/07/stromausfall-januar-2026-bericht-expertenkommission.html",
+      "date": "Mon, 06 Jul 2026 06:17:16 +0200"
+    },
+    {
+      "title": "Schulbegleitung für Kinder mit Behinderung: Wenn ein Recht zur Verhandlungssache wird",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-inklusion-kinder-mit-behinderung-schule-schulbegleitung-inklusionsassistenz.html",
+      "date": "Mon, 06 Jul 2026 06:13:35 +0200"
+    },
+    {
       "title": "Drei Menschen bei Verkehrsunfall nahe Luckau gestorben",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/verkehrsunfall-bei-luckau-dahme-spreewald-drei-tote.html",
       "date": "Sun, 05 Jul 2026 21:40:00 +0200"
     },
     {
-      "title": "Auch am Sonntag Stau auf westlichem Berliner Ring wegen Sperrung",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/a10-hitze-reperatur-arbeiten-berliner-ring-potsdam-nord-spandau-sperrung.html",
-      "date": "Sun, 05 Jul 2026 21:17:25 +0200"
-    },
-    {
       "title": "Radsport: Startet die Tour de France 2029 in Berlin?",
       "link": "https://www.rbb24.de/sport/beitrag/2026/07/radsport-tour-de-france-deutsche-bewerbung-berlin.html",
       "date": "Sun, 05 Jul 2026 20:22:50 +0200"
-    },
-    {
-      "title": "Halle in Oranienburger Gewerbegebiet niedergebrannt - Warnung wegen Rauch",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brand-lagerhalle-gewerbegebiet-oranienburg-feuerwehr.html",
-      "date": "Sun, 05 Jul 2026 19:50:15 +0200"
     },
     {
       "title": "Fußball: Union feiert nächstes Schützenfest bei Test in Lübben",
@@ -29,36 +59,6 @@
       "title": "Schaubühnen-Mitbegründer Dieter Sturm gestorben",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/07/dramaturg-dieter-sturm-tot-mitbegruender-schaubuehne-berlin.html",
       "date": "Sun, 05 Jul 2026 18:28:02 +0200"
-    },
-    {
-      "title": "Erdgeschoss in Bürogebäude in Britz komplett ausgebrannt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-bitz-brand-buerogebaeude.html",
-      "date": "Sun, 05 Jul 2026 17:07:58 +0200"
-    },
-    {
-      "title": "Streit in Jugendzentrum in Hellersdorf beschäftigt Polizei",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-hellersdorf-streit-jugendzentrum-linke-gruppen.html",
-      "date": "Sun, 05 Jul 2026 14:04:32 +0200"
-    },
-    {
-      "title": "Potsdam-Mittelmark: Reisebus kommt von A2 ab - Elf Leichtverletzte",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-verkehr-unfaelle-reisebus-a2-elf-verletzte.html",
-      "date": "Sun, 05 Jul 2026 13:30:26 +0200"
-    },
-    {
-      "title": "Berlin-Zehlendorf: Mann ertrinkt in Schlachtensee",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-feuerwehr-mann-im-schlachtensee-ertrunken.html",
-      "date": "Sun, 05 Jul 2026 11:30:59 +0200"
-    },
-    {
-      "title": "Saisoneröffnung im Open-Air-Theater Globe Berlin: Shakespeare im Regen",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/07/berlin-globe-theater-saisoneroeffnung-regen-open-air-shakespeare.html",
-      "date": "Sun, 05 Jul 2026 10:46:46 +0200"
-    },
-    {
-      "title": "RB26: Bund sieht kein Potenzial für zügigen Ausbau der Ostbahn",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/07/brandenburg-ostbahn-kein-schneller-ausbau.html",
-      "date": "Sun, 05 Jul 2026 10:22:55 +0200"
     }
   ],
   "police": [
@@ -128,19 +128,44 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "65 Jahre alter Patient in Neuköllner Klinikum getötet - Mordkommission ermittelt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/krankenhaus-berlin-patient-tot-gestorben-streit-mordkommission.html",
+      "date": "Mon, 06 Jul 2026 10:05:27 +0200"
+    },
+    {
+      "title": "Lange Staus am Wochenende: A10 nach Reparatur von Hitzeschäden wieder freigegeben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/a10-hitze-reperatur-arbeiten-berliner-ring-potsdam-nord-spandau-sperrung.html",
+      "date": "Mon, 06 Jul 2026 09:10:19 +0200"
+    },
+    {
+      "title": "Sperrungen bei S-Bahn und Fernverkehr am Wochenende",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/wochenende-sperrungen-ringbahn-feuerwehr.html",
+      "date": "Mon, 06 Jul 2026 08:57:55 +0200"
+    },
+    {
+      "title": "Drei Lastwagen an der Heerstraße ausgebrannt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/spandau-lastwagen-heerstrasse-ausgebrannt.html",
+      "date": "Mon, 06 Jul 2026 08:42:09 +0200"
+    },
+    {
+      "title": "Halle in Oranienburger Gewerbegebiet niedergebrannt - Nachlöscharbeiten laufen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brand-lagerhalle-gewerbegebiet-oranienburg-feuerwehr.html",
+      "date": "Mon, 06 Jul 2026 08:18:57 +0200"
+    },
+    {
+      "title": "Bauarbeiten für Schulcampus in Eberswalde beginnen am Montag",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/schulcampus-eberswalde-barnim-oberschule-gymnasium.html",
+      "date": "Mon, 06 Jul 2026 07:57:17 +0200"
+    },
+    {
+      "title": "Schulbegleitung für Kinder mit Behinderung: Wenn ein Recht zur Verhandlungssache wird",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-inklusion-kinder-mit-behinderung-schule-schulbegleitung-inklusionsassistenz.html",
+      "date": "Mon, 06 Jul 2026 06:13:35 +0200"
+    },
+    {
       "title": "Drei Menschen bei Verkehrsunfall nahe Luckau gestorben",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/verkehrsunfall-bei-luckau-dahme-spreewald-drei-tote.html",
       "date": "Sun, 05 Jul 2026 21:40:00 +0200"
-    },
-    {
-      "title": "Auch am Sonntag Stau auf westlichem Berliner Ring wegen Sperrung",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/a10-hitze-reperatur-arbeiten-berliner-ring-potsdam-nord-spandau-sperrung.html",
-      "date": "Sun, 05 Jul 2026 21:17:25 +0200"
-    },
-    {
-      "title": "Halle in Oranienburger Gewerbegebiet niedergebrannt - Warnung wegen Rauch",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brand-lagerhalle-gewerbegebiet-oranienburg-feuerwehr.html",
-      "date": "Sun, 05 Jul 2026 19:50:15 +0200"
     },
     {
       "title": "Erdgeschoss in Bürogebäude in Britz komplett ausgebrannt",
@@ -161,31 +186,6 @@
       "title": "Berlin-Zehlendorf: Mann ertrinkt in Schlachtensee",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-feuerwehr-mann-im-schlachtensee-ertrunken.html",
       "date": "Sun, 05 Jul 2026 11:30:59 +0200"
-    },
-    {
-      "title": "Verbotene Autorennen: Berlins Raser bleiben auf dem Gaspedal",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-verbotene-autorennen-raserei-justiz.html",
-      "date": "Sun, 05 Jul 2026 09:06:57 +0200"
-    },
-    {
-      "title": "Interview mit Ehrenamtlichem im Kinderhospiz in Burg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/interview-ehrenamt-kinderhospiz-burg-spreewald.html",
-      "date": "Sun, 05 Jul 2026 07:20:46 +0200"
-    },
-    {
-      "title": "Am Späti in Berlin-Altglienicke: \"Jetzt kippt ohnehin langsam die Stimmung im Haus\"",
-      "link": "https://www.rbb24.de/panorama/thema/spaeti/berlin-altglienicke-am-spaeti-buerokauffrau-wohnungsmarkt.html",
-      "date": "Sat, 04 Jul 2026 17:37:27 +0200"
-    },
-    {
-      "title": "Baumfällungen am Berliner Spreeufer abgewendet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-kastanien-keine-faellungen-kraftwerk-spreeufer.html",
-      "date": "Sat, 04 Jul 2026 17:32:56 +0200"
-    },
-    {
-      "title": "Snoopy-Skulptur aus Berliner Galerie gestohlen - Polizei fahndet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-snoopy-skulptur-geklaut-diebstahl-fahndung.html",
-      "date": "Sat, 04 Jul 2026 16:03:05 +0200"
     }
   ]
 }
