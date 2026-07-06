@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Deutsche Basketballer nach Heimsieg gegen Zypern auf WM-Kurs",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/basketball-nationalmannschaft-laenderspiel-wm-qualifikation-deutschland-zypern.html",
+      "date": "Mon, 06 Jul 2026 21:36:47 +0200"
+    },
+    {
+      "title": "Zwei große Krankenhäuser in Potsdam schränken Leistungen ein",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/potsdam-klinikum-kuerzungen-orthopaedie-chirurgie-neurologie-frauenheilkunde.html",
+      "date": "Mon, 06 Jul 2026 21:08:36 +0200"
+    },
+    {
+      "title": "Langjähriger Berlinale-Direktor Moritz de Hadeln gestorben",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/07/langjaehriger-berlinale-direktor-moritz-de-hadeln-tot.html",
+      "date": "Mon, 06 Jul 2026 20:53:29 +0200"
+    },
+    {
       "title": "Brandenburger Landesregierung: Diese Themen stehen im Sommer an",
       "link": "https://www.rbb24.de/politik/beitrag/2026/07/brandenburg-landesregierung-haushalt-sommer-themen.html",
       "date": "Mon, 06 Jul 2026 20:13:09 +0200"
@@ -14,11 +29,6 @@
       "title": "Cabrio-Fahrer rast mit 134 km/h durch 30er-Zone in Berlin-Reinickendorf",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/raser-30-zone-134-kmh-berlin-reinickendorf.html",
       "date": "Mon, 06 Jul 2026 19:52:09 +0200"
-    },
-    {
-      "title": "Zwei große Krankenhäuser in Potsdam schränken Leistungen ein",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/potsdam-klinikum-kuerzungen-orthopaedie-chirurgie-neurologie-frauenheilkunde.html",
-      "date": "Mon, 06 Jul 2026 18:48:51 +0200"
     },
     {
       "title": "Bund will mehr Chancen für Nord und Ost bei Gaskraftwerken - neue Chance für Lausitzer Gaskraftwerk",
@@ -49,16 +59,6 @@
       "title": "Zu wenige Straßenbäume in Berlin - und hier soll gerodet werden",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-stadtbaeume-baeume-rodungen.html",
       "date": "Mon, 06 Jul 2026 16:21:00 +0200"
-    },
-    {
-      "title": "Es brennt immer häufiger in Berlin – und niemand weiß, warum",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/braende-berlin-feuerwehr-statistik-einsaetze.html",
-      "date": "Mon, 06 Jul 2026 15:53:00 +0200"
-    },
-    {
-      "title": "65 Jahre alter Patient in Neuköllner Klinikum getötet - Mordkommission ermittelt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/krankenhaus-berlin-patient-tot-gestorben-streit-mordkommission.html",
-      "date": "Mon, 06 Jul 2026 15:51:35 +0200"
     }
   ],
   "police": [
