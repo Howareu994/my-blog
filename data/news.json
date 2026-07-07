@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "An der Tanke in Brandenburg: \"Der sieht unscheinbar aus, ist aber böse\"",
+      "link": "https://www.rbb24.de/panorama/thema/an-der-tanke/brandenburg-an-der-tanke-autorennfahrer.html",
+      "date": "Tue, 07 Jul 2026 21:18:38 +0200"
+    },
+    {
       "title": "BVG darf 166 neue U-Bahn-Wagen bestellen",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/bvg-neue-u-bahn-wagen-baureihe-j-grossprofil.html",
       "date": "Tue, 07 Jul 2026 20:49:00 +0200"
@@ -8,12 +13,12 @@
     {
       "title": "Kindertagespflege in Berlin: Mehr als 1.000 Betroffene zu spät bezahlt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-kindertagespflege-zahlungen-verzoegert-bildungsverwaltung.html",
-      "date": "Tue, 07 Jul 2026 19:48:31 +0200"
+      "date": "Tue, 07 Jul 2026 19:48:00 +0200"
     },
     {
       "title": "Berliner Polizei warnt vor Drogen im Briefkasten",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-polizei-drogen-paeckchen-werbung-briefkasten-warnung.html",
-      "date": "Tue, 07 Jul 2026 18:07:02 +0200"
+      "date": "Tue, 07 Jul 2026 18:07:00 +0200"
     },
     {
       "title": "Motorraddiebin stirbt bei Unfall auf der Autobahn",
@@ -54,11 +59,6 @@
       "title": "Fliegerbombe legt Bahnverkehr durch Cottbus Donnerstag lahm",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/cottbus-bahnwerk-fliegerbombe-gefunden.html",
       "date": "Tue, 07 Jul 2026 15:21:59 +0200"
-    },
-    {
-      "title": "Kran für Bau der Ringbahnbrücke wird aufgebaut",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-charlottenburg-ringbahn-bruecke-neubau-kran.html",
-      "date": "Tue, 07 Jul 2026 15:18:30 +0200"
     }
   ],
   "police": [
@@ -128,14 +128,19 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "An der Tanke in Brandenburg: \"Der sieht unscheinbar aus, ist aber böse\"",
+      "link": "https://www.rbb24.de/panorama/thema/an-der-tanke/brandenburg-an-der-tanke-autorennfahrer.html",
+      "date": "Tue, 07 Jul 2026 21:18:38 +0200"
+    },
+    {
       "title": "Kindertagespflege in Berlin: Mehr als 1.000 Betroffene zu spät bezahlt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-kindertagespflege-zahlungen-verzoegert-bildungsverwaltung.html",
-      "date": "Tue, 07 Jul 2026 19:48:31 +0200"
+      "date": "Tue, 07 Jul 2026 19:48:00 +0200"
     },
     {
       "title": "Berliner Polizei warnt vor Drogen im Briefkasten",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-polizei-drogen-paeckchen-werbung-briefkasten-warnung.html",
-      "date": "Tue, 07 Jul 2026 18:07:02 +0200"
+      "date": "Tue, 07 Jul 2026 18:07:00 +0200"
     },
     {
       "title": "Motorraddiebin stirbt bei Unfall auf der Autobahn",
@@ -181,11 +186,6 @@
       "title": "Wasserrohrbruch auf Frankfurter Allee: wochenlange Reparatur",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-friedrichshain-frankfurter-allee-wasser-rohrbruch-sperrung-stau.html",
       "date": "Tue, 07 Jul 2026 14:00:08 +0200"
-    },
-    {
-      "title": "Pfandleihhaus in Berlin-Kreuzberg ausgeraubt - Millionenbeute",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/ueberfall-berlin-pfandleihhaus-kreuzberg-beute-waffe.html",
-      "date": "Tue, 07 Jul 2026 13:52:00 +0200"
     }
   ]
 }
