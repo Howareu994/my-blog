@@ -1,9 +1,54 @@
 {
   "traffic": [
     {
+      "title": "Berliner Polizei warnt vor Drogen im Briefkasten",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-polizei-drogen-paeckchen-werbung-briefkasten-warnung.html",
+      "date": "Tue, 07 Jul 2026 18:07:02 +0200"
+    },
+    {
+      "title": "Motorraddiebin stirbt bei Unfall auf der Autobahn",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/motorraddiebin-autobahn-unfall-berlin-neukoelln-polizei.html",
+      "date": "Tue, 07 Jul 2026 16:56:52 +0200"
+    },
+    {
+      "title": "Städte protestieren gegen monatelange Sperrung des RE1",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/07/re1-sperrung-gemeinsamer-aufruf-berlin-eisenhuettenstadt.html",
+      "date": "Tue, 07 Jul 2026 16:55:18 +0200"
+    },
+    {
+      "title": "Verkehrsgesellschaft arbeitet nach Tram-Kollision in Rüdersdorf an Aufklärung",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/unfall-tram-strassenbahn-ruedersdorf-schoeneiche-ermittlungen-unfallursache-polizei-brandenburg-maerkischoderland.html",
+      "date": "Tue, 07 Jul 2026 16:53:34 +0200"
+    },
+    {
+      "title": "Feuerwehr muss kontaminiertes Löschwasser entsorgen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/oranienburg-brand-lagerhalle-gewerbegebiet-feuerwehr.html",
+      "date": "Tue, 07 Jul 2026 16:44:53 +0200"
+    },
+    {
+      "title": "Brandenburger CDU hält an \"Brandmauer\" zur AfD fest",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/07/brandenburg-cdu-afd-brandmauer-mit-antrag-unvereinbarkeitsbeschluss.html",
+      "date": "Tue, 07 Jul 2026 16:36:22 +0200"
+    },
+    {
+      "title": "Zwei große Krankenhäuser in Potsdam schränken Leistungen ein",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/potsdam-klinikum-kuerzungen-orthopaedie-chirurgie-neurologie-frauenheilkunde.html",
+      "date": "Tue, 07 Jul 2026 16:21:36 +0200"
+    },
+    {
+      "title": "Berliner Staatsanwaltschaft erhebt Anklage gegen Benko-Manager wegen Millionen-Transfers",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/berlin-staatsanwaltschaft-anklage-ehemalige-signa-mitarbeiter-landgericht-zulassung-untreue-beihilfe.html",
+      "date": "Tue, 07 Jul 2026 15:51:47 +0200"
+    },
+    {
       "title": "Fliegerbombe legt Bahnverkehr durch Cottbus Donnerstag lahm",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/cottbus-bahnwerk-fliegerbombe-gefunden.html",
-      "date": "Tue, 07 Jul 2026 15:04:14 +0200"
+      "date": "Tue, 07 Jul 2026 15:21:59 +0200"
+    },
+    {
+      "title": "Kran für Bau der Ringbahnbrücke wird aufgebaut",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-charlottenburg-ringbahn-bruecke-neubau-kran.html",
+      "date": "Tue, 07 Jul 2026 15:18:30 +0200"
     },
     {
       "title": "20-Jähriger stirbt auf Landstraße 23 im Barnim nach Kollision mit Baum",
@@ -14,54 +59,14 @@
       "title": "Tourenstart auf deutscher Oder-Seite: Theaterschiff zeigt deutsch-polnische Schicksale am Ende des Weltkriegs",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/07/theater-schiff-oder-polen-brandenburg-eisenhuettenstadt-kultur-zwangsarbeit-weltkrieg-vertreibung.html",
       "date": "Tue, 07 Jul 2026 14:32:07 +0200"
-    },
-    {
-      "title": "Wetter-Ausblick: Mit den Ferien kommt der Sommer zurück",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/interview-wetter-sommer-hitze-temperaturen-regen.html",
-      "date": "Tue, 07 Jul 2026 14:21:52 +0200"
-    },
-    {
-      "title": "Wasserrohrbruch auf Frankfurter Allee: wochenlange Reparatur",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-friedrichshain-frankfurter-allee-wasser-rohrbruch-sperrung-stau.html",
-      "date": "Tue, 07 Jul 2026 14:00:08 +0200"
-    },
-    {
-      "title": "Pfandleihhaus in Berlin-Kreuzberg ausgeraubt - Millionenbeute",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/ueberfall-berlin-pfandleihhaus-kreuzberg-beute-waffe.html",
-      "date": "Tue, 07 Jul 2026 13:52:23 +0200"
-    },
-    {
-      "title": "Langjähriger Berlinale-Direktor Moritz de Hadeln gestorben",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/07/langjaehriger-berlinale-direktor-moritz-de-hadeln-tot.html",
-      "date": "Tue, 07 Jul 2026 13:44:35 +0200"
-    },
-    {
-      "title": "Heino fordert nach Wahlwerbung in der Uckermark von AfD 30.000 Euro Schadenersatz",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/07/heino-schlager-afd-wahlwerbung-schadensersatz-uckermark-brandenburg-landgericht.html",
-      "date": "Tue, 07 Jul 2026 12:28:21 +0200"
-    },
-    {
-      "title": "Zahlen gestiegen: Mehr Gewalt im häuslichen Umfeld während der WM",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/07/haeusliche-gewalt-fifa-fussball-wm-2026-alkohol-statistik-polizei.html",
-      "date": "Tue, 07 Jul 2026 12:26:51 +0200"
-    },
-    {
-      "title": "BBL: Alba holt Julius Böhmer aus Göttingen nach Berlin",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/07/basketball-alba-berlin-transfer-goettingen-julius-boehmer.html",
-      "date": "Tue, 07 Jul 2026 11:56:42 +0200"
-    },
-    {
-      "title": "Jack LaFontaine wird neue Nummer eins im Eisbären-Tor",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/07/eishockey-eisbaeren-berlin-torhueter-jack-lafontaine-neuzugang.html",
-      "date": "Tue, 07 Jul 2026 11:36:46 +0200"
-    },
-    {
-      "title": "Dreieck Funkturm: Kran für Ringbahnbrücke wird aufgebaut",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-charlottenburg-ringbahn-bruecke-neubau-kran.html",
-      "date": "Tue, 07 Jul 2026 11:07:47 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Schleuser sollen Sprachzertifikate gefälscht haben – Durchsuchungsbeschlüsse vollstreckt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1690853.php",
+      "date": "Tue, 07 Jul 2026 15:58:08 +0200"
+    },
     {
       "title": "Mann bei Streit mit Messer verletzt – Tatverdächtige festgenommen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1690695.php",
@@ -116,11 +121,6 @@
       "title": "Zigarettenautomat gesprengt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689621.php",
       "date": "Sun, 05 Jul 2026 15:21:07 +0200"
-    },
-    {
-      "title": "Bewaffneter Überfall auf Schnellrestaurant",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689620.php",
-      "date": "Sun, 05 Jul 2026 15:18:17 +0200"
     }
   ],
   "free_events": [],
@@ -128,9 +128,39 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Berliner Polizei warnt vor Drogen im Briefkasten",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-polizei-drogen-paeckchen-werbung-briefkasten-warnung.html",
+      "date": "Tue, 07 Jul 2026 18:07:02 +0200"
+    },
+    {
+      "title": "Motorraddiebin stirbt bei Unfall auf der Autobahn",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/motorraddiebin-autobahn-unfall-berlin-neukoelln-polizei.html",
+      "date": "Tue, 07 Jul 2026 16:56:52 +0200"
+    },
+    {
+      "title": "Verkehrsgesellschaft arbeitet nach Tram-Kollision in Rüdersdorf an Aufklärung",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/unfall-tram-strassenbahn-ruedersdorf-schoeneiche-ermittlungen-unfallursache-polizei-brandenburg-maerkischoderland.html",
+      "date": "Tue, 07 Jul 2026 16:53:34 +0200"
+    },
+    {
+      "title": "\"Fläminger Kreativsause\" lässt über \"gesellschaftlichen Wandel\" diskutieren",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/bad-belzig-flaeming-kreativsause-entwicklung-transformation.html",
+      "date": "Tue, 07 Jul 2026 16:51:00 +0200"
+    },
+    {
+      "title": "Feuerwehr muss kontaminiertes Löschwasser entsorgen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/oranienburg-brand-lagerhalle-gewerbegebiet-feuerwehr.html",
+      "date": "Tue, 07 Jul 2026 16:44:53 +0200"
+    },
+    {
       "title": "Fliegerbombe legt Bahnverkehr durch Cottbus Donnerstag lahm",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/cottbus-bahnwerk-fliegerbombe-gefunden.html",
-      "date": "Tue, 07 Jul 2026 15:04:14 +0200"
+      "date": "Tue, 07 Jul 2026 15:21:59 +0200"
+    },
+    {
+      "title": "Kran für Bau der Ringbahnbrücke wird aufgebaut",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-charlottenburg-ringbahn-bruecke-neubau-kran.html",
+      "date": "Tue, 07 Jul 2026 15:18:30 +0200"
     },
     {
       "title": "20-Jähriger stirbt auf Landstraße 23 im Barnim nach Kollision mit Baum",
@@ -150,42 +180,12 @@
     {
       "title": "Pfandleihhaus in Berlin-Kreuzberg ausgeraubt - Millionenbeute",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/ueberfall-berlin-pfandleihhaus-kreuzberg-beute-waffe.html",
-      "date": "Tue, 07 Jul 2026 13:52:23 +0200"
-    },
-    {
-      "title": "Dreieck Funkturm: Kran für Ringbahnbrücke wird aufgebaut",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-charlottenburg-ringbahn-bruecke-neubau-kran.html",
-      "date": "Tue, 07 Jul 2026 11:07:47 +0200"
+      "date": "Tue, 07 Jul 2026 13:52:00 +0200"
     },
     {
       "title": "Stau-Gefahr: Zum Start der Sommerferien ist Geduld auf Autobahnen gefragt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brandenburg-sommerferien-start-stau-autobahn-verkehr.html",
       "date": "Tue, 07 Jul 2026 10:53:09 +0200"
-    },
-    {
-      "title": "Vivantes bietet kostenlose Hautkrebsvorsorge im Prinzenbad an",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-prinzenbad-hautkrebsvorsorge-kostenlos-vivantes.html",
-      "date": "Tue, 07 Jul 2026 10:26:02 +0200"
-    },
-    {
-      "title": "Berlin-Zehlendorf: Erneut Sprengsatz auf Gelände von Kfz-Betrieb geworfen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-zehlendorf-erneut-explosion-autowerkstatt-schaden.html",
-      "date": "Tue, 07 Jul 2026 09:46:32 +0200"
-    },
-    {
-      "title": "Berlins scheidende Generalstaatsanwältin Koppers im Interview",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/interview-generalstaatsanwaltschaft-berlin-margarete-koppers-pension.html",
-      "date": "Tue, 07 Jul 2026 08:17:00 +0200"
-    },
-    {
-      "title": "Mieterhöhungen in Berlin: Neuer Mietspiegel, alte Probleme?",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/mietspiegel-2026-berlin-erhoehung-schulung.html",
-      "date": "Tue, 07 Jul 2026 06:08:48 +0200"
-    },
-    {
-      "title": "Halle in Oranienburger Gewerbegebiet abgebrannt - Millionenschaden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brand-lagerhalle-gewerbegebiet-oranienburg-feuerwehr.html",
-      "date": "Mon, 06 Jul 2026 20:06:07 +0200"
     }
   ]
 }
