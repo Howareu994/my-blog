@@ -1,6 +1,41 @@
 {
   "traffic": [
     {
+      "title": "Fliegerbombe am Bahnwerk Cottbus gefunden",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/cottbus-bahnwerk-fliegerbombe-gefunden.html",
+      "date": "Tue, 07 Jul 2026 09:04:48 +0200"
+    },
+    {
+      "title": "Wasserrohrbruch in der Frankfurter Allee in Berlin-Friedrichshain",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-friedrichshain-frankfurter-allee-wasser-rohrbruch-sperrung-stau.html",
+      "date": "Tue, 07 Jul 2026 08:31:21 +0200"
+    },
+    {
+      "title": "Berlins Generalstaatsanwältin Koppers über die Stadt und ihre Pension",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/interview-generalstaatsanwaltschaft-berlin-margarete-koppers-pension.html",
+      "date": "Tue, 07 Jul 2026 08:17:04 +0200"
+    },
+    {
+      "title": "Erneut Explosion auf Gelände von Gewerbebetrieb in Berlin-Zehlendorf",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-zehlendorf-erneut-explosion-autowerkstatt-schaden.html",
+      "date": "Tue, 07 Jul 2026 07:00:04 +0200"
+    },
+    {
+      "title": "Mehr als eine Million Euro Beute: Unbekannte rauben Pfandleihhaus in Berlin-Kreuzberg aus",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/ueberfall-berlin-pfandleihhaus-kreuzberg-beute-waffe.html",
+      "date": "Tue, 07 Jul 2026 06:40:00 +0200"
+    },
+    {
+      "title": "Mieterhöhungen in Berlin: Neuer Mietspiegel, alte Probleme?",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/mietspiegel-2026-berlin-erhoehung-schulung.html",
+      "date": "Tue, 07 Jul 2026 06:08:48 +0200"
+    },
+    {
+      "title": "45. Oderrundfahrt: Die \"Hölle des Ostens\" wartet",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/radsport-brandenburg-oderrrundfahrt-strecke-sperrungen-polen-etappen.html",
+      "date": "Tue, 07 Jul 2026 06:08:31 +0200"
+    },
+    {
       "title": "Deutsche Basketballer nach Heimsieg gegen Zypern auf WM-Kurs",
       "link": "https://www.rbb24.de/sport/beitrag/2026/07/basketball-nationalmannschaft-laenderspiel-wm-qualifikation-deutschland-zypern.html",
       "date": "Mon, 06 Jul 2026 21:36:47 +0200"
@@ -24,41 +59,6 @@
       "title": "Halle in Oranienburger Gewerbegebiet abgebrannt - Millionenschaden",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brand-lagerhalle-gewerbegebiet-oranienburg-feuerwehr.html",
       "date": "Mon, 06 Jul 2026 20:06:07 +0200"
-    },
-    {
-      "title": "Cabrio-Fahrer rast mit 134 km/h durch 30er-Zone in Berlin-Reinickendorf",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/raser-30-zone-134-kmh-berlin-reinickendorf.html",
-      "date": "Mon, 06 Jul 2026 19:52:09 +0200"
-    },
-    {
-      "title": "Bund will mehr Chancen für Nord und Ost bei Gaskraftwerken - neue Chance für Lausitzer Gaskraftwerk",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/reiche-gaskraftwerke-chancen-nord-ost.html",
-      "date": "Mon, 06 Jul 2026 17:44:38 +0200"
-    },
-    {
-      "title": "Diebstahl der Füchse-Meisterschale: 42-Jähriger steht vor Gericht",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/07/handball-fuechse-berlin-bundesliga-meisterschale-diebstahl-taeter-gericht-prozess.html",
-      "date": "Mon, 06 Jul 2026 17:31:32 +0200"
-    },
-    {
-      "title": "Polizei eskortiert Hochschwangere zu Lübbener Krankenhaus",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/luebben-autobahnpolizei-eskorte-hochschwangere-frau.html",
-      "date": "Mon, 06 Jul 2026 17:10:29 +0200"
-    },
-    {
-      "title": "Die Heidelbeersaison in Brandenburg beginnt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-beelitz-heidelbeere-ernte-superfrucht.html",
-      "date": "Mon, 06 Jul 2026 16:53:00 +0200"
-    },
-    {
-      "title": "Drei Lastwagen an der Heerstraße ausgebrannt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/spandau-lastwagen-heerstrasse-ausgebrannt.html",
-      "date": "Mon, 06 Jul 2026 16:35:39 +0200"
-    },
-    {
-      "title": "Zu wenige Straßenbäume in Berlin - und hier soll gerodet werden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-stadtbaeume-baeume-rodungen.html",
-      "date": "Mon, 06 Jul 2026 16:21:00 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,36 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Fliegerbombe am Bahnwerk Cottbus gefunden",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/cottbus-bahnwerk-fliegerbombe-gefunden.html",
+      "date": "Tue, 07 Jul 2026 09:04:48 +0200"
+    },
+    {
+      "title": "Wasserrohrbruch in der Frankfurter Allee in Berlin-Friedrichshain",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-friedrichshain-frankfurter-allee-wasser-rohrbruch-sperrung-stau.html",
+      "date": "Tue, 07 Jul 2026 08:31:21 +0200"
+    },
+    {
+      "title": "Berlins Generalstaatsanwältin Koppers über die Stadt und ihre Pension",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/interview-generalstaatsanwaltschaft-berlin-margarete-koppers-pension.html",
+      "date": "Tue, 07 Jul 2026 08:17:04 +0200"
+    },
+    {
+      "title": "Erneut Explosion auf Gelände von Gewerbebetrieb in Berlin-Zehlendorf",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-zehlendorf-erneut-explosion-autowerkstatt-schaden.html",
+      "date": "Tue, 07 Jul 2026 07:00:04 +0200"
+    },
+    {
+      "title": "Mehr als eine Million Euro Beute: Unbekannte rauben Pfandleihhaus in Berlin-Kreuzberg aus",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/ueberfall-berlin-pfandleihhaus-kreuzberg-beute-waffe.html",
+      "date": "Tue, 07 Jul 2026 06:40:00 +0200"
+    },
+    {
+      "title": "Mieterhöhungen in Berlin: Neuer Mietspiegel, alte Probleme?",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/mietspiegel-2026-berlin-erhoehung-schulung.html",
+      "date": "Tue, 07 Jul 2026 06:08:48 +0200"
+    },
+    {
       "title": "Halle in Oranienburger Gewerbegebiet abgebrannt - Millionenschaden",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brand-lagerhalle-gewerbegebiet-oranienburg-feuerwehr.html",
       "date": "Mon, 06 Jul 2026 20:06:07 +0200"
@@ -156,36 +186,6 @@
       "title": "Zu wenige Straßenbäume in Berlin - und hier soll gerodet werden",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-stadtbaeume-baeume-rodungen.html",
       "date": "Mon, 06 Jul 2026 16:21:00 +0200"
-    },
-    {
-      "title": "Es brennt immer häufiger in Berlin – und niemand weiß, warum",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/braende-berlin-feuerwehr-statistik-einsaetze.html",
-      "date": "Mon, 06 Jul 2026 15:53:00 +0200"
-    },
-    {
-      "title": "65 Jahre alter Patient in Neuköllner Klinikum getötet - Mordkommission ermittelt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/krankenhaus-berlin-patient-tot-gestorben-streit-mordkommission.html",
-      "date": "Mon, 06 Jul 2026 15:51:35 +0200"
-    },
-    {
-      "title": "Drei Menschen bei Verkehrsunfall nahe Luckau gestorben",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/verkehrsunfall-bei-luckau-dahme-spreewald-drei-tote.html",
-      "date": "Mon, 06 Jul 2026 15:29:17 +0200"
-    },
-    {
-      "title": "Unfall mit zwei Straßenbahnen in Rüdersdorf - mehrere Verletzte",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/ruedersdorf-berlin-brandenburg-strassenbahn-unfall-verletzte-sperrung.html",
-      "date": "Mon, 06 Jul 2026 15:24:00 +0200"
-    },
-    {
-      "title": "Keime: Buckower sollen weiterhin Trinkwasser abkochen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/buckow-trinkwasser-keime-abkochen.html",
-      "date": "Mon, 06 Jul 2026 15:00:03 +0200"
-    },
-    {
-      "title": "Projektleiter zum Bau der Berliner Ringbahnbrücke",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/interview-berlin-ringbahnbruecke-dreieck-funkturm-einbau-baustelle-kran-projektleiter.html",
-      "date": "Mon, 06 Jul 2026 14:58:45 +0200"
     }
   ]
 }
