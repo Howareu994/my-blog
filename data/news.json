@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Landgericht Berlin: Höchststrafe für Mordserie von Berliner Palliativarzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-landgericht-berlin-urteil-lebenslang-schwere-schuld-palliativarzt.html",
+      "date": "Wed, 08 Jul 2026 21:02:37 +0200"
+    },
+    {
+      "title": "Bromat-Belastung: Menschen in Zehdenick können Trinkwasser wieder nutzen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-zehdenick-trinkwasser-bromat-nutzbar.html",
+      "date": "Wed, 08 Jul 2026 19:57:04 +0200"
+    },
+    {
+      "title": "Wegner wegen Krisenmanagement beim Stromausfall weiter unter Druck",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/07/berlin-wegner-stromausfall-telefonate-vormittag-tennis.html",
+      "date": "Wed, 08 Jul 2026 19:41:53 +0200"
+    },
+    {
       "title": "Mann wegen Beihilfe zur Vergewaltigung bewusstloser Frauen verurteilt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-vergewaltigung-bewusstlose-frauen-beihilfe-chatgruppe.html",
       "date": "Wed, 08 Jul 2026 18:37:13 +0200"
@@ -19,11 +34,6 @@
       "title": "Vermisste Neunjährige in Adlershof am Mittwoch unversehrt wieder im Unterricht",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/vermisst-neunjaehrige-adlershof-schuelerin-wieder-da.html",
       "date": "Wed, 08 Jul 2026 17:46:01 +0200"
-    },
-    {
-      "title": "Wegner wegen Krisenmanagement beim Stromausfall weiter unter Druck",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/07/berlin-wegner-stromausfall-telefonate-vormittag-tennis.html",
-      "date": "Wed, 08 Jul 2026 17:25:30 +0200"
     },
     {
       "title": "Totes Baby in Hinterhof in Berlin-Lichterfelde entdeckt",
@@ -46,19 +56,9 @@
       "date": "Wed, 08 Jul 2026 16:22:02 +0200"
     },
     {
-      "title": "Landgericht Berlin: Höchststrafe für Mordserie von Berliner Palliativarzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-landgericht-berlin-urteil-lebenslang-schwere-schuld-palliativarzt.html",
-      "date": "Wed, 08 Jul 2026 15:46:00 +0200"
-    },
-    {
       "title": "Bedarf an barrierefreien Wohnungen wächst - auch in Brandenburg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/wohnung-miete-barrierefrei-rollstuhl-demografie-behinderung-brandenburg-rentner-schwedt-frankfurt-strausberg.html",
       "date": "Wed, 08 Jul 2026 15:36:15 +0200"
-    },
-    {
-      "title": "BVG darf 166 neue U-Bahn-Wagen bestellen",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/bvg-neue-u-bahn-wagen-baureihe-j-grossprofil.html",
-      "date": "Wed, 08 Jul 2026 14:44:10 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,16 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Landgericht Berlin: Höchststrafe für Mordserie von Berliner Palliativarzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-landgericht-berlin-urteil-lebenslang-schwere-schuld-palliativarzt.html",
+      "date": "Wed, 08 Jul 2026 21:02:37 +0200"
+    },
+    {
+      "title": "Bromat-Belastung: Menschen in Zehdenick können Trinkwasser wieder nutzen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-zehdenick-trinkwasser-bromat-nutzbar.html",
+      "date": "Wed, 08 Jul 2026 19:57:04 +0200"
+    },
+    {
       "title": "Mann wegen Beihilfe zur Vergewaltigung bewusstloser Frauen verurteilt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-vergewaltigung-bewusstlose-frauen-beihilfe-chatgruppe.html",
       "date": "Wed, 08 Jul 2026 18:37:13 +0200"
@@ -158,11 +168,6 @@
       "date": "Wed, 08 Jul 2026 16:22:02 +0200"
     },
     {
-      "title": "Landgericht Berlin: Höchststrafe für Mordserie von Berliner Palliativarzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-landgericht-berlin-urteil-lebenslang-schwere-schuld-palliativarzt.html",
-      "date": "Wed, 08 Jul 2026 15:46:00 +0200"
-    },
-    {
       "title": "Bedarf an barrierefreien Wohnungen wächst - auch in Brandenburg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/wohnung-miete-barrierefrei-rollstuhl-demografie-behinderung-brandenburg-rentner-schwedt-frankfurt-strausberg.html",
       "date": "Wed, 08 Jul 2026 15:36:15 +0200"
@@ -181,11 +186,6 @@
       "title": "Urteil im Mordprozess gegen Berliner Palliativarzt erwartet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/urteil-mordprozess-palliativarzt-berlin-landgericht.html",
       "date": "Wed, 08 Jul 2026 13:43:30 +0200"
-    },
-    {
-      "title": "Baum auf Oberleitung: Zugstrecke zwischen Berlin und Cottbus zeitweise gesperrt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-bahn-berlin-cottbus-re2-baum-oberleitung.html",
-      "date": "Wed, 08 Jul 2026 13:12:57 +0200"
     }
   ]
 }
