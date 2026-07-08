@@ -1,6 +1,26 @@
 {
   "traffic": [
     {
+      "title": "Oberhavel: Feuer in Oranienburger Lagerhalle endgültig gelöscht",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-oranienburg-grossbrand-feuerwehr-lagerhalle-geloescht.html",
+      "date": "Wed, 08 Jul 2026 10:04:16 +0200"
+    },
+    {
+      "title": "Lehrermangel: Brandenburger Bildungsminister Hoffmann denkt über Versetzungen von Lehrern nach",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/07/brandenburg-bildung-minister-lehrer-mangel-versetzungen-beamte-moeglich.html",
+      "date": "Wed, 08 Jul 2026 09:57:36 +0200"
+    },
+    {
+      "title": "Isolation Berlin beim Sommerinsel Open Air in Treptow",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/07/konzert-isolation-berlin-beim-sommerinsel-open-air.html",
+      "date": "Wed, 08 Jul 2026 08:52:12 +0200"
+    },
+    {
+      "title": "Brandenburger CDU-Wirtschaftsflügel lehnt Aufhebung von \"Brandmauer\" zur AfD ab",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/07/brandenburg-cdu-afd-brandmauer-mit-antrag-unvereinbarkeitsbeschluss.html",
+      "date": "Wed, 08 Jul 2026 08:22:03 +0200"
+    },
+    {
       "title": "Berlins Gewerbeüberwachung: Deutlich weniger Personal seit 2022",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/berlin-gewerbe-ueberwachung-lka-polizei-wenig-personal.html",
       "date": "Wed, 08 Jul 2026 07:12:52 +0200"
@@ -14,6 +34,11 @@
       "title": "Urteil im Mordprozess gegen Berliner Palliativarzt erwartet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/urteil-mordprozess-palliativarzt-berlin-landgericht.html",
       "date": "Wed, 08 Jul 2026 06:21:07 +0200"
+    },
+    {
+      "title": "Mietenkataster in Berlin: Fragen und Antworten",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/berlin-mietenkataster-gesetz-vermieter-fragen-antworten.html",
+      "date": "Wed, 08 Jul 2026 06:20:19 +0200"
     },
     {
       "title": "An der Tanke in Brandenburg: \"Der sieht unscheinbar aus, ist aber böse\"",
@@ -34,31 +59,6 @@
       "title": "Berliner Polizei warnt vor Drogen im Briefkasten",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-polizei-drogen-paeckchen-werbung-briefkasten-warnung.html",
       "date": "Tue, 07 Jul 2026 18:07:00 +0200"
-    },
-    {
-      "title": "Motorraddiebin stirbt bei Unfall auf der Autobahn",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/motorraddiebin-autobahn-unfall-berlin-neukoelln-polizei.html",
-      "date": "Tue, 07 Jul 2026 16:56:52 +0200"
-    },
-    {
-      "title": "Städte protestieren gegen monatelange Sperrung des RE1",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/07/re1-sperrung-gemeinsamer-aufruf-berlin-eisenhuettenstadt.html",
-      "date": "Tue, 07 Jul 2026 16:55:00 +0200"
-    },
-    {
-      "title": "Verkehrsgesellschaft arbeitet nach Tram-Kollision in Rüdersdorf an Aufklärung",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/unfall-tram-strassenbahn-ruedersdorf-schoeneiche-ermittlungen-unfallursache-polizei-brandenburg-maerkischoderland.html",
-      "date": "Tue, 07 Jul 2026 16:53:34 +0200"
-    },
-    {
-      "title": "Feuerwehr muss kontaminiertes Löschwasser entsorgen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/oranienburg-brand-lagerhalle-gewerbegebiet-feuerwehr.html",
-      "date": "Tue, 07 Jul 2026 16:44:53 +0200"
-    },
-    {
-      "title": "Brandenburger CDU hält an \"Brandmauer\" zur AfD fest",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/07/brandenburg-cdu-afd-brandmauer-mit-antrag-unvereinbarkeitsbeschluss.html",
-      "date": "Tue, 07 Jul 2026 16:36:22 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Oberhavel: Feuer in Oranienburger Lagerhalle endgültig gelöscht",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-oranienburg-grossbrand-feuerwehr-lagerhalle-geloescht.html",
+      "date": "Wed, 08 Jul 2026 10:04:16 +0200"
+    },
+    {
       "title": "Urteil im Mordprozess gegen Berliner Palliativarzt erwartet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/urteil-mordprozess-palliativarzt-berlin-landgericht.html",
       "date": "Wed, 08 Jul 2026 06:21:07 +0200"
@@ -181,11 +186,6 @@
       "title": "20-Jähriger stirbt auf Landstraße 23 im Barnim nach Kollision mit Baum",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/unfall-baum-kollision-landstrasse-barnim-brandenburg-chorin-polizei-feuerwehr.html",
       "date": "Tue, 07 Jul 2026 14:57:44 +0200"
-    },
-    {
-      "title": "Wetter-Ausblick: Mit den Ferien kommt der Sommer zurück",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/interview-wetter-sommer-hitze-temperaturen-regen.html",
-      "date": "Tue, 07 Jul 2026 14:21:52 +0200"
     }
   ]
 }
