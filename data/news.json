@@ -1,14 +1,39 @@
 {
   "traffic": [
     {
-      "title": "2. Liga: Torjäger Erik Engelhardt verlängert bei Energie Cottbus",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/07/energie-cottbus-2-bundesliga-erik-engelhardt-verlaengerung.html",
-      "date": "Wed, 08 Jul 2026 12:29:54 +0200"
+      "title": "Lehrermangel: Brandenburger Bildungsminister Hoffmann denkt über Versetzungen von Lehrern nach",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/07/brandenburg-bildung-minister-lehrer-mangel-versetzungen-beamte-moeglich.html",
+      "date": "Wed, 08 Jul 2026 14:10:03 +0200"
     },
     {
       "title": "Totes Baby in Hinterhof in Berlin-Lichterfelde entdeckt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/totes-baby-gefunden-berlin-lichterfelde-polizei.html",
-      "date": "Wed, 08 Jul 2026 12:07:46 +0200"
+      "date": "Wed, 08 Jul 2026 14:00:51 +0200"
+    },
+    {
+      "title": "Landgericht Berlin: Höchststrafe für Mordserie von Berliner Palliativarzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-landgericht-berlin-urteil-lebenslang-schwere-schuld-palliativarzt.html",
+      "date": "Wed, 08 Jul 2026 13:53:14 +0200"
+    },
+    {
+      "title": "Festnahme in Berlin: Männer mit Datingapps in Falle gelockt und überfallen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-rudow-datingapps-maenner-in-falle-gelockt-festnahme.html",
+      "date": "Wed, 08 Jul 2026 13:48:42 +0200"
+    },
+    {
+      "title": "Baum auf Oberleitung: Zugstrecke zwischen Berlin und Cottbus zeitweise gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-bahn-berlin-cottbus-re2-baum-oberleitung.html",
+      "date": "Wed, 08 Jul 2026 13:12:57 +0200"
+    },
+    {
+      "title": "VSG Altglienicke bekommt neues Stadion",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/neues-stadion-vsg-altglienicke-willi-saenger-anlage-johannes-man.html",
+      "date": "Wed, 08 Jul 2026 12:51:00 +0200"
+    },
+    {
+      "title": "2. Liga: Torjäger Erik Engelhardt verlängert bei Energie Cottbus",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/energie-cottbus-2-bundesliga-erik-engelhardt-verlaengerung.html",
+      "date": "Wed, 08 Jul 2026 12:29:54 +0200"
     },
     {
       "title": "Discounter begrenzt Eierkauf in Nord- und Ostdeutschland auf zwei Packungen",
@@ -16,19 +41,9 @@
       "date": "Wed, 08 Jul 2026 11:38:28 +0200"
     },
     {
-      "title": "Baum auf Oberleitung: Zugstrecke zwischen Berlin und Cottbus zeitweise gesperrt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-bahn-berlin-cottbus-re2-baum-oberleitung.html",
-      "date": "Wed, 08 Jul 2026 11:13:25 +0200"
-    },
-    {
       "title": "Oberhavel: Feuer in Oranienburger Lagerhalle endgültig gelöscht",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-oranienburg-grossbrand-feuerwehr-lagerhalle-geloescht.html",
       "date": "Wed, 08 Jul 2026 10:04:16 +0200"
-    },
-    {
-      "title": "Lehrermangel: Brandenburger Bildungsminister Hoffmann denkt über Versetzungen von Lehrern nach",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/07/brandenburg-bildung-minister-lehrer-mangel-versetzungen-beamte-moeglich.html",
-      "date": "Wed, 08 Jul 2026 09:57:36 +0200"
     },
     {
       "title": "Isolation Berlin beim Sommerinsel Open Air in Treptow",
@@ -44,24 +59,19 @@
       "title": "Berlins Gewerbeüberwachung: Deutlich weniger Personal seit 2022",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/berlin-gewerbe-ueberwachung-lka-polizei-wenig-personal.html",
       "date": "Wed, 08 Jul 2026 07:12:52 +0200"
-    },
-    {
-      "title": "Abgeordnetenhauswahl in Berlin: So berichtet der rbb",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/abgeordnetenhaus-wahl-agh-berlin-rbb-berichterstattung.html",
-      "date": "Wed, 08 Jul 2026 06:32:18 +0200"
-    },
-    {
-      "title": "Urteil im Mordprozess gegen Berliner Palliativarzt erwartet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/urteil-mordprozess-palliativarzt-berlin-landgericht.html",
-      "date": "Wed, 08 Jul 2026 06:21:07 +0200"
-    },
-    {
-      "title": "Mietenkataster in Berlin: Fragen und Antworten",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/berlin-mietenkataster-gesetz-vermieter-fragen-antworten.html",
-      "date": "Wed, 08 Jul 2026 06:20:19 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Haftbefehl wegen Verstößen gegen das Waffengesetz vollstreckt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1691180.php",
+      "date": "Wed, 08 Jul 2026 12:37:00 +0200"
+    },
+    {
+      "title": "20-Jähriger nach Raubserie in Berlin festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1691178.php",
+      "date": "Wed, 08 Jul 2026 11:42:00 +0200"
+    },
     {
       "title": "Schleuser sollen Sprachzertifikate gefälscht haben – Durchsuchungsbeschlüsse vollstreckt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1690853.php",
@@ -111,16 +121,6 @@
       "title": "Raubüberfall auf Grillimbiss – Polizei bittet um Mithilfe",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689480.php",
       "date": "Mon, 06 Jul 2026 12:22:00 +0200"
-    },
-    {
-      "title": "Mit Schreckschusspistole auf Mann geschossen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689852.php",
-      "date": "Mon, 06 Jul 2026 11:20:47 +0200"
-    },
-    {
-      "title": "Zigarettenautomat gesprengt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689621.php",
-      "date": "Sun, 05 Jul 2026 15:21:07 +0200"
     }
   ],
   "free_events": [],
@@ -130,22 +130,32 @@
     {
       "title": "Totes Baby in Hinterhof in Berlin-Lichterfelde entdeckt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/totes-baby-gefunden-berlin-lichterfelde-polizei.html",
-      "date": "Wed, 08 Jul 2026 12:07:46 +0200"
+      "date": "Wed, 08 Jul 2026 14:00:51 +0200"
+    },
+    {
+      "title": "Landgericht Berlin: Höchststrafe für Mordserie von Berliner Palliativarzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-landgericht-berlin-urteil-lebenslang-schwere-schuld-palliativarzt.html",
+      "date": "Wed, 08 Jul 2026 13:53:14 +0200"
+    },
+    {
+      "title": "Festnahme in Berlin: Männer mit Datingapps in Falle gelockt und überfallen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-rudow-datingapps-maenner-in-falle-gelockt-festnahme.html",
+      "date": "Wed, 08 Jul 2026 13:48:42 +0200"
+    },
+    {
+      "title": "Urteil im Mordprozess gegen Berliner Palliativarzt erwartet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/urteil-mordprozess-palliativarzt-berlin-landgericht.html",
+      "date": "Wed, 08 Jul 2026 13:43:30 +0200"
     },
     {
       "title": "Baum auf Oberleitung: Zugstrecke zwischen Berlin und Cottbus zeitweise gesperrt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-bahn-berlin-cottbus-re2-baum-oberleitung.html",
-      "date": "Wed, 08 Jul 2026 11:13:25 +0200"
+      "date": "Wed, 08 Jul 2026 13:12:57 +0200"
     },
     {
       "title": "Oberhavel: Feuer in Oranienburger Lagerhalle endgültig gelöscht",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-oranienburg-grossbrand-feuerwehr-lagerhalle-geloescht.html",
       "date": "Wed, 08 Jul 2026 10:04:16 +0200"
-    },
-    {
-      "title": "Urteil im Mordprozess gegen Berliner Palliativarzt erwartet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/urteil-mordprozess-palliativarzt-berlin-landgericht.html",
-      "date": "Wed, 08 Jul 2026 06:21:07 +0200"
     },
     {
       "title": "An der Tanke in Brandenburg: \"Der sieht unscheinbar aus, ist aber böse\"",
@@ -176,16 +186,6 @@
       "title": "\"Fläminger Kreativsause\" lässt über \"gesellschaftlichen Wandel\" diskutieren",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/bad-belzig-flaeming-kreativsause-entwicklung-transformation.html",
       "date": "Tue, 07 Jul 2026 16:51:00 +0200"
-    },
-    {
-      "title": "Feuerwehr muss kontaminiertes Löschwasser entsorgen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/oranienburg-brand-lagerhalle-gewerbegebiet-feuerwehr.html",
-      "date": "Tue, 07 Jul 2026 16:44:53 +0200"
-    },
-    {
-      "title": "Fliegerbombe legt Bahnverkehr durch Cottbus Donnerstag lahm",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/cottbus-bahnwerk-fliegerbombe-gefunden.html",
-      "date": "Tue, 07 Jul 2026 15:21:59 +0200"
     }
   ]
 }
