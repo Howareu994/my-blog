@@ -1,9 +1,39 @@
 {
   "traffic": [
     {
+      "title": "Testspiel: Union Berlin trennt sich vom Chemnitzer FC nur mit 1:1",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-bundesliga-testspiel-union-berlin-chemnitzer-fc-spielbericht.html",
+      "date": "Thu, 09 Jul 2026 21:22:34 +0200"
+    },
+    {
+      "title": "Wegner unter Druck: Kreisvorsitzende der Berliner CDU beraten",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/07/wegner-cdu-kreischefs-freitagabend-druck.html",
+      "date": "Thu, 09 Jul 2026 21:17:26 +0200"
+    },
+    {
+      "title": "Brückenbau: Berliner Ringbahn ab Freitagmittag gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/wochenende-sperrungen-ringbahn-feuerwehr.html",
+      "date": "Thu, 09 Jul 2026 21:11:41 +0200"
+    },
+    {
+      "title": "Berlin: Haftstrafen wegen Diebstahl von Friedhofsskulpturen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/haftstrafen-diebstahl-friedhofsskulpturen.html",
+      "date": "Thu, 09 Jul 2026 20:49:40 +0200"
+    },
+    {
+      "title": "Berlin: Clan-Mitglied nach gescheiterter Gefangenenbefreiung verurteilt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/verurteilung-gefangenenbefreiung-versuch-haftstrafe.html",
+      "date": "Thu, 09 Jul 2026 20:48:22 +0200"
+    },
+    {
+      "title": "Babyklappe am St.-Josefs-Krankenhaus ab sofort geschlossen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/potsdam-st-josefs-krankenhaus-babyklappe-geschlossen.html",
+      "date": "Thu, 09 Jul 2026 20:27:46 +0200"
+    },
+    {
       "title": "Kommentar: Berlins Regierender Wegner hat die Wahl schon verloren",
       "link": "https://www.rbb24.de/politik/beitrag/2026/07/kai-wegner-kommentar-verhalten-stromausfall.html",
-      "date": "Thu, 09 Jul 2026 18:53:30 +0200"
+      "date": "Thu, 09 Jul 2026 19:35:58 +0200"
     },
     {
       "title": "Sperrkreis aufgehoben: Bombe in Cottbus erfolgreich entschärft",
@@ -26,39 +56,9 @@
       "date": "Thu, 09 Jul 2026 17:27:26 +0200"
     },
     {
-      "title": "Wegner unter Druck: Kreisvorsitzende der Berliner CDU beraten",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/07/wegner-cdu-kreischefs-freitagabend-druck.html",
-      "date": "Thu, 09 Jul 2026 17:18:33 +0200"
-    },
-    {
       "title": "Rewe ruft Tiefkühl-Beerenmischung zurück – Hepatitis-A-Viren nachgewiesen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/rueckruf-tiefkuehl-beerenmischung-750-g-rewe-ja.html",
       "date": "Thu, 09 Jul 2026 16:48:00 +0200"
-    },
-    {
-      "title": "Umfrage: Ein Drittel der Berliner Betriebe nutzt KI bei der Arbeit",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/berlin-betriebe-umfrage-ein-drittel-nutzt-ki.html",
-      "date": "Thu, 09 Jul 2026 16:29:34 +0200"
-    },
-    {
-      "title": "Görlich über Hertha-Frauen: \"Nicht einfach von Männern kopieren\"",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussbll-2-bundesliga-hertha-bsc-geschaeftsfuehrer-peter-goerlich-interview-frauen.html",
-      "date": "Thu, 09 Jul 2026 16:13:19 +0200"
-    },
-    {
-      "title": "Mann stirbt bei Angeltour auf dem Stolpsee im Landkreis Oberhavel",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/stolpsee-brandenburg-oberhavel-mann-stirbt-angeltour-boot.html",
-      "date": "Thu, 09 Jul 2026 16:10:55 +0200"
-    },
-    {
-      "title": "Tandemtour macht die Prignitz für Blinde erlebbar",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/prignitz-perleberg-fahrrad-tour-sehbehindert-blind.html",
-      "date": "Thu, 09 Jul 2026 15:51:17 +0200"
-    },
-    {
-      "title": "Potsdam: Mehrere Baustellen in den Sommerferien",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/potsdam-baustellen-verkehr-sperrung-tram-auto.html",
-      "date": "Thu, 09 Jul 2026 15:48:46 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,26 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Brückenbau: Berliner Ringbahn ab Freitagmittag gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/wochenende-sperrungen-ringbahn-feuerwehr.html",
+      "date": "Thu, 09 Jul 2026 21:11:41 +0200"
+    },
+    {
+      "title": "Berlin: Haftstrafen wegen Diebstahl von Friedhofsskulpturen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/haftstrafen-diebstahl-friedhofsskulpturen.html",
+      "date": "Thu, 09 Jul 2026 20:49:40 +0200"
+    },
+    {
+      "title": "Berlin: Clan-Mitglied nach gescheiterter Gefangenenbefreiung verurteilt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/verurteilung-gefangenenbefreiung-versuch-haftstrafe.html",
+      "date": "Thu, 09 Jul 2026 20:48:22 +0200"
+    },
+    {
+      "title": "Babyklappe am St.-Josefs-Krankenhaus ab sofort geschlossen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/potsdam-st-josefs-krankenhaus-babyklappe-geschlossen.html",
+      "date": "Thu, 09 Jul 2026 20:27:46 +0200"
+    },
+    {
       "title": "Sperrkreis aufgehoben: Bombe in Cottbus erfolgreich entschärft",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/cottbus-bahnwerk-fliegerbombe-gefunden.html",
       "date": "Thu, 09 Jul 2026 18:36:03 +0200"
@@ -166,26 +186,6 @@
       "title": "Mann stirbt bei Angeltour auf dem Stolpsee im Landkreis Oberhavel",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/stolpsee-brandenburg-oberhavel-mann-stirbt-angeltour-boot.html",
       "date": "Thu, 09 Jul 2026 16:10:55 +0200"
-    },
-    {
-      "title": "Tandemtour macht die Prignitz für Blinde erlebbar",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/prignitz-perleberg-fahrrad-tour-sehbehindert-blind.html",
-      "date": "Thu, 09 Jul 2026 15:51:17 +0200"
-    },
-    {
-      "title": "Potsdam: Mehrere Baustellen in den Sommerferien",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/potsdam-baustellen-verkehr-sperrung-tram-auto.html",
-      "date": "Thu, 09 Jul 2026 15:48:46 +0200"
-    },
-    {
-      "title": "Frankfurt (Oder): Staatsanwaltschaft geht nach tödlichen Sturz eines Sechsjährigen weiter von Unfall aus",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/sturz-tod-kind-sechsjaehriger-frankfurtoder-staatsanwaltschaft-ermittlungen-obduktion-brandenburg-mutter-balkon.html",
-      "date": "Thu, 09 Jul 2026 15:43:33 +0200"
-    },
-    {
-      "title": "RE1: Ausfälle und Ersatzverkehr in den kommenden Wochen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/bahn-odeg-re1-ausfaelle-sev-ersatzverkehr-bauarbeiten-zuege-frankfurt-erkner-berlin-brandenburg.html",
-      "date": "Thu, 09 Jul 2026 15:34:00 +0200"
     }
   ]
 }
