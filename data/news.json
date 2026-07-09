@@ -1,9 +1,14 @@
 {
   "traffic": [
     {
+      "title": "Triathletin Lindemann will nach Pause \"zurück an die Weltspitze\"",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/triathlon-laura-lindemann-pause-comeback-olympische-spiele-2028-los-angeles.html",
+      "date": "Thu, 09 Jul 2026 21:44:20 +0200"
+    },
+    {
       "title": "Testspiel: Union Berlin trennt sich vom Chemnitzer FC nur mit 1:1",
       "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-bundesliga-testspiel-union-berlin-chemnitzer-fc-spielbericht.html",
-      "date": "Thu, 09 Jul 2026 21:22:34 +0200"
+      "date": "Thu, 09 Jul 2026 21:24:43 +0200"
     },
     {
       "title": "Wegner unter Druck: Kreisvorsitzende der Berliner CDU beraten",
@@ -14,6 +19,11 @@
       "title": "Brückenbau: Berliner Ringbahn ab Freitagmittag gesperrt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/wochenende-sperrungen-ringbahn-feuerwehr.html",
       "date": "Thu, 09 Jul 2026 21:11:41 +0200"
+    },
+    {
+      "title": "Berlin: Medicana-Gruppe übernimmt Jüdisches Krankenhaus",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/juedische-krankenhaus-wedding-traeger-tuerkei-medicana.html",
+      "date": "Thu, 09 Jul 2026 21:00:17 +0200"
     },
     {
       "title": "Berlin: Haftstrafen wegen Diebstahl von Friedhofsskulpturen",
@@ -31,34 +41,24 @@
       "date": "Thu, 09 Jul 2026 20:27:46 +0200"
     },
     {
+      "title": "Bau neuer Gaskraftwerke beschlossen - mit abgeschwächtem Südbonus",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/bundestag-bau-neuer-gaskraftwerke-kein-suedbonus.html",
+      "date": "Thu, 09 Jul 2026 20:25:37 +0200"
+    },
+    {
+      "title": "Brosius-Gersdorf im Interview: \"Das war eine Politisierung der Richterwahl\"",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/07/interview-wissenschaftskonferenz-frauke-brosius-gersdorf.html",
+      "date": "Thu, 09 Jul 2026 19:53:38 +0200"
+    },
+    {
+      "title": "Wie sich Wissenschaft gegen Angriffe wehren soll",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/07/wissenschaft-konferenz-potsdam-resilienz-angriffe-extremisten.html",
+      "date": "Thu, 09 Jul 2026 19:53:00 +0200"
+    },
+    {
       "title": "Kommentar: Berlins Regierender Wegner hat die Wahl schon verloren",
       "link": "https://www.rbb24.de/politik/beitrag/2026/07/kai-wegner-kommentar-verhalten-stromausfall.html",
       "date": "Thu, 09 Jul 2026 19:35:58 +0200"
-    },
-    {
-      "title": "Sperrkreis aufgehoben: Bombe in Cottbus erfolgreich entschärft",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/cottbus-bahnwerk-fliegerbombe-gefunden.html",
-      "date": "Thu, 09 Jul 2026 18:36:03 +0200"
-    },
-    {
-      "title": "Am Späti in Lichtenberg: \"Das Leben geht momentan einfach ein bisschen kaputt\"",
-      "link": "https://www.rbb24.de/panorama/thema/spaeti/berlin-lichtenberg-am-spaeti-tischler.html",
-      "date": "Thu, 09 Jul 2026 17:56:00 +0200"
-    },
-    {
-      "title": "13-Jährige stirbt bei Autounfall in Rathenow",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/havelland-rathenow-autounfall-polizei.html",
-      "date": "Thu, 09 Jul 2026 17:37:05 +0200"
-    },
-    {
-      "title": "Angriff in Neukölln erfunden? Schulleiter soll Geldstrafe zahlen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-neukoelln-vermeintlicher-angriff-schulleiter-geldstrafe.html",
-      "date": "Thu, 09 Jul 2026 17:27:26 +0200"
-    },
-    {
-      "title": "Rewe ruft Tiefkühl-Beerenmischung zurück – Hepatitis-A-Viren nachgewiesen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/rueckruf-tiefkuehl-beerenmischung-750-g-rewe-ja.html",
-      "date": "Thu, 09 Jul 2026 16:48:00 +0200"
     }
   ],
   "police": [
