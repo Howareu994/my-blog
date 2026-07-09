@@ -1,19 +1,54 @@
 {
   "traffic": [
     {
-      "title": "Geburtsstation schließt: \"Was das für die Menschen bedeutet, wird nicht zu Ende gedacht\"",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/potsdam-krankenhaus-geburt-hebamme-st-josef-klinikum.html",
-      "date": "Thu, 09 Jul 2026 13:44:25 +0200"
+      "title": "Umfrage: Ein Drittel der Berliner Betriebe nutzt KI bei der Arbeit",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/berlin-betriebe-umfrage-ein-drittel-nutzt-ki.html",
+      "date": "Thu, 09 Jul 2026 16:29:34 +0200"
     },
     {
-      "title": "RE1: Ausfälle und Ersatzverkehr in den kommenden Wochen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/bahn-odeg-re1-ausfaelle-sev-ersatzverkehr-bauarbeiten-zuege-frankfurt-erkner-berlin-brandenburg.html",
-      "date": "Thu, 09 Jul 2026 13:31:19 +0200"
+      "title": "Görlich über Hertha-Frauen: \"Nicht einfach von Männern kopieren\"",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussbll-2-bundesliga-hertha-bsc-geschaeftsfuehrer-peter-goerlich-interview-frauen.html",
+      "date": "Thu, 09 Jul 2026 16:13:19 +0200"
+    },
+    {
+      "title": "Mann stirbt bei Angeltour auf dem Stolpsee im Landkreis Oberhavel",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/stolpsee-brandenburg-oberhavel-mann-stirbt-angeltour-boot.html",
+      "date": "Thu, 09 Jul 2026 16:10:55 +0200"
+    },
+    {
+      "title": "Tandemtour macht die Prignitz für Blinde erlebbar",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/prignitz-perleberg-fahrrad-tour-sehbehindert-blind.html",
+      "date": "Thu, 09 Jul 2026 15:51:17 +0200"
+    },
+    {
+      "title": "Potsdam: Mehrere Baustellen in den Sommerferien",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/potsdam-baustellen-verkehr-sperrung-tram-auto.html",
+      "date": "Thu, 09 Jul 2026 15:48:46 +0200"
+    },
+    {
+      "title": "Sperrkreis aufgehoben: Bombe in Cottbus erfolgreich entschärft",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/cottbus-bahnwerk-fliegerbombe-gefunden.html",
+      "date": "Thu, 09 Jul 2026 15:45:20 +0200"
     },
     {
       "title": "Frankfurt (Oder): Staatsanwaltschaft geht nach tödlichen Sturz eines Sechsjährigen weiter von Unfall aus",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/sturz-tod-kind-sechsjaehriger-frankfurtoder-staatsanwaltschaft-ermittlungen-obduktion-brandenburg-mutter-balkon.html",
-      "date": "Thu, 09 Jul 2026 13:22:02 +0200"
+      "date": "Thu, 09 Jul 2026 15:43:33 +0200"
+    },
+    {
+      "title": "RE1: Ausfälle und Ersatzverkehr in den kommenden Wochen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/bahn-odeg-re1-ausfaelle-sev-ersatzverkehr-bauarbeiten-zuege-frankfurt-erkner-berlin-brandenburg.html",
+      "date": "Thu, 09 Jul 2026 15:34:00 +0200"
+    },
+    {
+      "title": "Geburtsstation schließt: \"Was das für die Menschen bedeutet, wird nicht zu Ende gedacht\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/potsdam-krankenhaus-geburt-hebamme-st-josef-klinikum.html",
+      "date": "Thu, 09 Jul 2026 14:44:29 +0200"
+    },
+    {
+      "title": "Zum Schutz vor Gewalt: Zentrum für Safe Sport gegründet",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/sport-safe-sport-zum-schutz-vor-gewalt-gegruendet.html",
+      "date": "Thu, 09 Jul 2026 14:38:47 +0200"
     },
     {
       "title": "IBB: Berlin könnte Bebauung des Tempelhofer Felds gerade so finanzieren",
@@ -21,47 +56,27 @@
       "date": "Thu, 09 Jul 2026 13:19:59 +0200"
     },
     {
-      "title": "Sperrkreis und Zugausfälle: Bombenentschärfung in Cottbus",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/cottbus-bahnwerk-fliegerbombe-gefunden.html",
-      "date": "Thu, 09 Jul 2026 12:40:34 +0200"
-    },
-    {
       "title": "Berlin-Wedding: Polizei verhindert Blockade bei Protesten vor Rheinmetall",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/berlin-wedding-protest-rheinmetall-polizei.html",
       "date": "Thu, 09 Jul 2026 11:57:55 +0200"
-    },
-    {
-      "title": "Bahn: Direktverbindung zwischen Cottbus und Leipzig fällt fast drei Tage aus",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/bahn-cottbus-leipzig-regionalverkehr-ausfaelle.html",
-      "date": "Thu, 09 Jul 2026 11:34:00 +0200"
-    },
-    {
-      "title": "Totes Baby in Hinterhof in Berlin-Lichterfelde entdeckt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/totes-baby-gefunden-berlin-lichterfelde-polizei.html",
-      "date": "Thu, 09 Jul 2026 11:23:40 +0200"
-    },
-    {
-      "title": "Zahl der Hitzetoten in Berlin und Brandenburg deutlich höher als in Vorjahren",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brandenburg-hitzetote-hitzewelle-sterbefaelle.html",
-      "date": "Thu, 09 Jul 2026 10:45:57 +0200"
-    },
-    {
-      "title": "Berliner Schauspieler Achim Wolff im Alter von 87 Jahren gestorben",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/07/schauspieler-achim-wolff-gestorben-87-jahre-berlin.html",
-      "date": "Thu, 09 Jul 2026 10:24:08 +0200"
-    },
-    {
-      "title": "Berliner Vorsitzender der Jungen Union fordert Rückzug von Kai Wegner",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/07/berlin-kai-wegner-harald-burkart-junge-union-rueckzug.html",
-      "date": "Thu, 09 Jul 2026 10:17:11 +0200"
-    },
-    {
-      "title": "Mann stirbt bei Angeltour auf dem Stolpsee im Landkreis Oberhavel",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/stolpsee-brandenburg-oberhavel-mann-stirbt-angeltour-boot.html",
-      "date": "Thu, 09 Jul 2026 09:45:09 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Verkehrsunfall mit Rettungswagen bei Sonder- und Wegerechtsfahrt im Kreuzungsbereich",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1691725.php",
+      "date": "Thu, 09 Jul 2026 14:35:57 +0200"
+    },
+    {
+      "title": "Moscheemauer mit Farbschmierereien beschädigt – Tatverdächtiger festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1691710.php",
+      "date": "Thu, 09 Jul 2026 14:24:12 +0200"
+    },
+    {
+      "title": "Jugendliche E-Scooter-Fahrer verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1691705.php",
+      "date": "Thu, 09 Jul 2026 14:18:23 +0200"
+    },
     {
       "title": "Toter Säugling aufgefunden – Tatverdächtige ermittelt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1691542.php",
@@ -106,21 +121,6 @@
       "title": "Schleuser sollen Sprachzertifikate gefälscht haben – Durchsuchungsbeschlüsse vollstreckt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1690853.php",
       "date": "Tue, 07 Jul 2026 15:58:08 +0200"
-    },
-    {
-      "title": "Mann bei Streit mit Messer verletzt – Tatverdächtige festgenommen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1690695.php",
-      "date": "Tue, 07 Jul 2026 13:49:10 +0200"
-    },
-    {
-      "title": "Unter Drogeneinfluss vor Polizei geflüchtet und Verkehrsunfall verursacht",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1690627.php",
-      "date": "Tue, 07 Jul 2026 12:53:00 +0200"
-    },
-    {
-      "title": "Mann bei Raubüberfall verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1690618.php",
-      "date": "Tue, 07 Jul 2026 12:44:49 +0200"
     }
   ],
   "free_events": [],
@@ -128,29 +128,49 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Geburtsstation schließt: \"Was das für die Menschen bedeutet, wird nicht zu Ende gedacht\"",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/potsdam-krankenhaus-geburt-hebamme-st-josef-klinikum.html",
-      "date": "Thu, 09 Jul 2026 13:44:25 +0200"
+      "title": "Staatsanwaltschaft ermittelt gegen Ex-Kultursenatorin Wedl-Wilson",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/staatsanwaltschaft-ermittlungen-sarah-wedl-wilson.html",
+      "date": "Thu, 09 Jul 2026 16:32:06 +0200"
     },
     {
-      "title": "RE1: Ausfälle und Ersatzverkehr in den kommenden Wochen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/bahn-odeg-re1-ausfaelle-sev-ersatzverkehr-bauarbeiten-zuege-frankfurt-erkner-berlin-brandenburg.html",
-      "date": "Thu, 09 Jul 2026 13:31:19 +0200"
+      "title": "Mann stirbt bei Angeltour auf dem Stolpsee im Landkreis Oberhavel",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/stolpsee-brandenburg-oberhavel-mann-stirbt-angeltour-boot.html",
+      "date": "Thu, 09 Jul 2026 16:10:55 +0200"
+    },
+    {
+      "title": "Tandemtour macht die Prignitz für Blinde erlebbar",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/prignitz-perleberg-fahrrad-tour-sehbehindert-blind.html",
+      "date": "Thu, 09 Jul 2026 15:51:17 +0200"
+    },
+    {
+      "title": "Potsdam: Mehrere Baustellen in den Sommerferien",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/potsdam-baustellen-verkehr-sperrung-tram-auto.html",
+      "date": "Thu, 09 Jul 2026 15:48:46 +0200"
+    },
+    {
+      "title": "Sperrkreis aufgehoben: Bombe in Cottbus erfolgreich entschärft",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/cottbus-bahnwerk-fliegerbombe-gefunden.html",
+      "date": "Thu, 09 Jul 2026 15:45:20 +0200"
     },
     {
       "title": "Frankfurt (Oder): Staatsanwaltschaft geht nach tödlichen Sturz eines Sechsjährigen weiter von Unfall aus",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/sturz-tod-kind-sechsjaehriger-frankfurtoder-staatsanwaltschaft-ermittlungen-obduktion-brandenburg-mutter-balkon.html",
-      "date": "Thu, 09 Jul 2026 13:22:02 +0200"
+      "date": "Thu, 09 Jul 2026 15:43:33 +0200"
     },
     {
-      "title": "Sperrkreis und Zugausfälle: Bombenentschärfung in Cottbus",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/cottbus-bahnwerk-fliegerbombe-gefunden.html",
-      "date": "Thu, 09 Jul 2026 12:40:34 +0200"
+      "title": "RE1: Ausfälle und Ersatzverkehr in den kommenden Wochen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/bahn-odeg-re1-ausfaelle-sev-ersatzverkehr-bauarbeiten-zuege-frankfurt-erkner-berlin-brandenburg.html",
+      "date": "Thu, 09 Jul 2026 15:34:00 +0200"
+    },
+    {
+      "title": "Geburtsstation schließt: \"Was das für die Menschen bedeutet, wird nicht zu Ende gedacht\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/potsdam-krankenhaus-geburt-hebamme-st-josef-klinikum.html",
+      "date": "Thu, 09 Jul 2026 14:44:29 +0200"
     },
     {
       "title": "Berlin-Lichterfelde: Tatverdächtige nach Fund von totem Baby ermittelt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-lichterfelde-totes-baby-saeugling-polizei.html",
-      "date": "Thu, 09 Jul 2026 11:46:35 +0200"
+      "date": "Thu, 09 Jul 2026 14:43:33 +0200"
     },
     {
       "title": "Bahn: Direktverbindung zwischen Cottbus und Leipzig fällt fast drei Tage aus",
@@ -166,26 +186,6 @@
       "title": "Zahl der Hitzetoten in Berlin und Brandenburg deutlich höher als in Vorjahren",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brandenburg-hitzetote-hitzewelle-sterbefaelle.html",
       "date": "Thu, 09 Jul 2026 10:45:57 +0200"
-    },
-    {
-      "title": "Mann stirbt bei Angeltour auf dem Stolpsee im Landkreis Oberhavel",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/stolpsee-brandenburg-oberhavel-mann-stirbt-angeltour-boot.html",
-      "date": "Thu, 09 Jul 2026 09:45:09 +0200"
-    },
-    {
-      "title": "Bromat-Belastung: Menschen in Zehdenick können Trinkwasser wieder nutzen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-zehdenick-trinkwasser-bromat-nutzbar.html",
-      "date": "Thu, 09 Jul 2026 08:33:12 +0200"
-    },
-    {
-      "title": "Brandenburger Familie soll Fahrtkosten für behindertes Kind zahlen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-potsdam-michendorf-inklusion-schule-fahrdienst.html",
-      "date": "Thu, 09 Jul 2026 06:11:00 +0200"
-    },
-    {
-      "title": "Landgericht Berlin: Höchststrafe für Mordserie von Berliner Palliativarzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-landgericht-berlin-urteil-lebenslang-schwere-schuld-palliativarzt.html",
-      "date": "Wed, 08 Jul 2026 21:02:37 +0200"
     }
   ]
 }
