@@ -3,7 +3,37 @@
     {
       "title": "Stefan Evers soll CDU-Spitzenkandidat für die Berlin-Wahl werden",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berliner-cdu-evers-kreisvorstaende-spitzenkandidat.html",
-      "date": "Fri, 10 Jul 2026 20:12:38 +0200"
+      "date": "Fri, 10 Jul 2026 21:53:09 +0200"
+    },
+    {
+      "title": "Berlins Regierender Bürgermeister Wegner gibt Spitzenkandidatur auf",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/07/kai-wegner-berlin-cdu-kritik-verzicht.html",
+      "date": "Fri, 10 Jul 2026 21:19:15 +0200"
+    },
+    {
+      "title": "Neues Gesetz nimmt bei E-Scooter-Unfällen Vermieter mit in die Haftung",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/e-scooter-roller-strengere-haftungsregeln-vermieter-unfall.html",
+      "date": "Fri, 10 Jul 2026 20:44:00 +0200"
+    },
+    {
+      "title": "Eichenprozessionsspinner: Mehrere Gewässer im Spreewald gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/spreewald-eichenprozessionsspinner-einzelne-gewaesser-gesperrt.html",
+      "date": "Fri, 10 Jul 2026 20:42:45 +0200"
+    },
+    {
+      "title": "Erste Autobahnbrückenteile montiert: Ringbahn seit Freitagmittag gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/wochenende-sperrungen-ringbahn-feuerwehr.html",
+      "date": "Fri, 10 Jul 2026 20:36:19 +0200"
+    },
+    {
+      "title": "Landgericht verhängt Haftstrafen nach Steuerbetrug mit Luxuswagen",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/millionen-betrug-luxuswagen-haftstrafen.html",
+      "date": "Fri, 10 Jul 2026 20:26:08 +0200"
+    },
+    {
+      "title": "Sportboot steckt bei Bad Freienwalde in der Oder fest",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/sportboot-oder-bad-freienwalde-brandenburg.html",
+      "date": "Fri, 10 Jul 2026 20:21:23 +0200"
     },
     {
       "title": "Berlin-Wahl: Mehr als 1,4 Millionen Menschen ohne Stimmrecht",
@@ -16,19 +46,9 @@
       "date": "Fri, 10 Jul 2026 19:09:49 +0200"
     },
     {
-      "title": "Berlins Regierender Bürgermeister Wegner gibt Spitzenkandidatur auf",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/07/kai-wegner-berlin-cdu-kritik-verzicht.html",
-      "date": "Fri, 10 Jul 2026 19:07:20 +0200"
-    },
-    {
       "title": "VSG Altglienicke: Ein Superteam für den Traum von der 3. Liga",
       "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-regionalliga-nordost-3-liga-vsg-altglienicke-brooks-tolga-cigerci.html",
       "date": "Fri, 10 Jul 2026 17:34:13 +0200"
-    },
-    {
-      "title": "Erste Autobahnbrückenteile montiert: Ringbahn seit Freitagmittag gesperrt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/wochenende-sperrungen-ringbahn-feuerwehr.html",
-      "date": "Fri, 10 Jul 2026 16:26:03 +0200"
     },
     {
       "title": "Sorbisches Siedlungsgebiet: Oberverwaltungsgericht beendet Streit",
@@ -39,26 +59,6 @@
       "title": "Rücktritte in Brandenburg: Weitere Kreisvorsitzende verlässt das BSW",
       "link": "https://www.rbb24.de/politik/beitrag/2026/07/bsw-brandenburg-elbe-elster-kreisvorsitzende-ruecktritt-manja-keller-felsch.html",
       "date": "Fri, 10 Jul 2026 16:12:04 +0200"
-    },
-    {
-      "title": "Afrikanische Schweinepest: Uckermark richtet neue Schutzzone bei Stützkow ein",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/uckermark-tierseuche-afrikanische-schweinepest-schutzzone-stuetzkow.html",
-      "date": "Fri, 10 Jul 2026 16:04:21 +0200"
-    },
-    {
-      "title": "Möglicher Fehlalarm: Nie Bromat in Zehdenicker Trinkwasser",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-zehdenick-trinkwasser-bromat-gesundheitsamt.html",
-      "date": "Fri, 10 Jul 2026 15:37:17 +0200"
-    },
-    {
-      "title": "Ex-Eishockey-Profi Ziesche wird Teammanager bei Energie Cottbus",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-energie-cottbus-neuer-teammanager-steffen-ziesche.html",
-      "date": "Fri, 10 Jul 2026 14:34:29 +0200"
-    },
-    {
-      "title": "Palliativarzt geht in Revision: Bundesgerichtshof muss entscheiden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-palliativarzt-revision-urteil-15-jahre-patienten-mord.html",
-      "date": "Fri, 10 Jul 2026 13:51:41 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,26 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Neues Gesetz nimmt bei E-Scooter-Unfällen Vermieter mit in die Haftung",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/e-scooter-roller-strengere-haftungsregeln-vermieter-unfall.html",
+      "date": "Fri, 10 Jul 2026 20:44:00 +0200"
+    },
+    {
+      "title": "Eichenprozessionsspinner: Mehrere Gewässer im Spreewald gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/spreewald-eichenprozessionsspinner-einzelne-gewaesser-gesperrt.html",
+      "date": "Fri, 10 Jul 2026 20:42:45 +0200"
+    },
+    {
+      "title": "Erste Autobahnbrückenteile montiert: Ringbahn seit Freitagmittag gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/wochenende-sperrungen-ringbahn-feuerwehr.html",
+      "date": "Fri, 10 Jul 2026 20:36:19 +0200"
+    },
+    {
+      "title": "Sportboot steckt bei Bad Freienwalde in der Oder fest",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/sportboot-oder-bad-freienwalde-brandenburg.html",
+      "date": "Fri, 10 Jul 2026 20:21:23 +0200"
+    },
+    {
       "title": "Geburtenrückgang in Brandenburg: Erzieher auf der Suche nach neuen Aufgaben",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-ausbildung-erzieher-eisenhuettenstadt-fuerstenwalde-schwierige-jobsuche.html",
       "date": "Fri, 10 Jul 2026 18:09:24 +0200"
@@ -136,11 +156,6 @@
       "title": "RE1: Ausfälle und Ersatzverkehr in den kommenden Wochen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/bahn-odeg-re1-ausfaelle-sev-ersatzverkehr-bauarbeiten-zuege-frankfurt-erkner-berlin-brandenburg.html",
       "date": "Fri, 10 Jul 2026 16:53:39 +0200"
-    },
-    {
-      "title": "Erste Autobahnbrückenteile montiert: Ringbahn seit Freitagmittag gesperrt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/wochenende-sperrungen-ringbahn-feuerwehr.html",
-      "date": "Fri, 10 Jul 2026 16:26:03 +0200"
     },
     {
       "title": "Sorbisches Siedlungsgebiet: Oberverwaltungsgericht beendet Streit",
@@ -171,21 +186,6 @@
       "title": "Bundespräsident Steinmeier bezieht Ausweich-Quartier am Spreebogen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-sanierung-schloss-bellevue-bundespraesident-steinmeier-dienstsitz-spreebogen.html",
       "date": "Fri, 10 Jul 2026 13:27:24 +0200"
-    },
-    {
-      "title": "Neues Gesetz nimmt bei E-Scooter-Unfällen Vermieter mit in die Haftung",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/e-scooter-roller-strengere-haftungsregeln-vermieter-unfall.html",
-      "date": "Fri, 10 Jul 2026 13:04:55 +0200"
-    },
-    {
-      "title": "Insekten-Expertin: \"Ohne Fliegen und Mücken wäre das Nahrungsnetz komplett gestört\"",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-muecken-insekten-schwaerme-plage-zalf-muencheberg-werner-interview.html",
-      "date": "Fri, 10 Jul 2026 10:12:00 +0200"
-    },
-    {
-      "title": "Technischer Defekt: Ursache für Brand in Oranienburg aufgeklärt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/oberhavel-oranienburg-brand-lagerhalle-feuerwehr-ursache-technischer-defekt.html",
-      "date": "Fri, 10 Jul 2026 09:59:42 +0200"
     }
   ]
 }
