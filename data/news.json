@@ -1,9 +1,24 @@
 {
   "traffic": [
     {
+      "title": "Stefan Evers soll CDU-Spitzenkandidat für die Berlin-Wahl werden",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berliner-cdu-evers-kreisvorstaende-spitzenkandidat.html",
+      "date": "Fri, 10 Jul 2026 20:12:38 +0200"
+    },
+    {
+      "title": "Berlin-Wahl: Mehr als 1,4 Millionen Menschen ohne Stimmrecht",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahl-wahlberechtigung-wahlrecht-abgeordnetenhaus-bvv.html",
+      "date": "Fri, 10 Jul 2026 19:12:20 +0200"
+    },
+    {
+      "title": "Bau neuer Gaskraftwerke beschlossen - und vom Bundesrat bestätigt",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/bundestag-bau-neuer-gaskraftwerke-kein-suedbonus.html",
+      "date": "Fri, 10 Jul 2026 19:09:49 +0200"
+    },
+    {
       "title": "Berlins Regierender Bürgermeister Wegner gibt Spitzenkandidatur auf",
       "link": "https://www.rbb24.de/politik/beitrag/2026/07/kai-wegner-berlin-cdu-kritik-verzicht.html",
-      "date": "Fri, 10 Jul 2026 18:14:56 +0200"
+      "date": "Fri, 10 Jul 2026 19:07:20 +0200"
     },
     {
       "title": "VSG Altglienicke: Ein Superteam für den Traum von der 3. Liga",
@@ -36,11 +51,6 @@
       "date": "Fri, 10 Jul 2026 15:37:17 +0200"
     },
     {
-      "title": "Bau neuer Gaskraftwerke beschlossen - mit abgeschwächtem Südbonus",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/bundestag-bau-neuer-gaskraftwerke-kein-suedbonus.html",
-      "date": "Fri, 10 Jul 2026 15:30:30 +0200"
-    },
-    {
       "title": "Ex-Eishockey-Profi Ziesche wird Teammanager bei Energie Cottbus",
       "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-energie-cottbus-neuer-teammanager-steffen-ziesche.html",
       "date": "Fri, 10 Jul 2026 14:34:29 +0200"
@@ -49,16 +59,6 @@
       "title": "Palliativarzt geht in Revision: Bundesgerichtshof muss entscheiden",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-palliativarzt-revision-urteil-15-jahre-patienten-mord.html",
       "date": "Fri, 10 Jul 2026 13:51:41 +0200"
-    },
-    {
-      "title": "Bundespräsident Steinmeier bezieht Ausweich-Quartier am Spreebogen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-sanierung-schloss-bellevue-bundespraesident-steinmeier-dienstsitz-spreebogen.html",
-      "date": "Fri, 10 Jul 2026 13:27:24 +0200"
-    },
-    {
-      "title": "Neues Gesetz nimmt bei E-Scooter-Unfällen Vermieter mit in die Haftung",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/e-scooter-roller-strengere-haftungsregeln-vermieter-unfall.html",
-      "date": "Fri, 10 Jul 2026 13:04:55 +0200"
     }
   ],
   "police": [
