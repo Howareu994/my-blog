@@ -1,9 +1,39 @@
 {
   "traffic": [
     {
+      "title": "Kai Wegner: Innerhalb der Berliner CDU wächst der Unmut",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/07/berlin-cdu-kai-wegner-offener-brief-krisentreffen-ruecktritt-forderung.html",
+      "date": "Fri, 10 Jul 2026 12:11:11 +0200"
+    },
+    {
       "title": "Brückenbau: Berliner Ringbahn ab Freitagmittag gesperrt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/wochenende-sperrungen-ringbahn-feuerwehr.html",
-      "date": "Fri, 10 Jul 2026 08:05:33 +0200"
+      "date": "Fri, 10 Jul 2026 12:03:06 +0200"
+    },
+    {
+      "title": "Tarifabschluss im Metallhandwerk in Berlin und Brandenburg erzielt",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/berlin-brandenburg-metall-handwerk-tarif-einigung.html",
+      "date": "Fri, 10 Jul 2026 10:46:24 +0200"
+    },
+    {
+      "title": "Insekten-Expertin: \"Ohne Fliegen und Mücken wäre das Nahrungsnetz komplett gestört\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-muecken-insekten-schwaerme-plage-zalf-muencheberg-werner-interview.html",
+      "date": "Fri, 10 Jul 2026 10:12:53 +0200"
+    },
+    {
+      "title": "Technischer Defekt: Ursache für Brand in Oranienburg aufgeklärt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/oberhavel-oranienburg-brand-lagerhalle-feuerwehr-ursache-technischer-defekt.html",
+      "date": "Fri, 10 Jul 2026 09:59:42 +0200"
+    },
+    {
+      "title": "Mumford & Sons in Berlin: Wem nicht das Herz aufgeht, hat vielleicht nie eins gehabt",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/07/konzert-mumford-sons-berlin-waldbuehne.html",
+      "date": "Fri, 10 Jul 2026 09:45:40 +0200"
+    },
+    {
+      "title": "50 Jahre Karl-Liebknecht-Stadion: DDR-Elf auf Weg zu Olympia-Gold",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-potsdam-babelsberg-karl-liebknecht-stadion-ddr-olympia-auswahl-50-jahre.html",
+      "date": "Fri, 10 Jul 2026 08:53:07 +0200"
     },
     {
       "title": "Politische Teilhabe in Berlin: \"Sinnvoll wäre ein Tandem aus zwei Regierenden\"",
@@ -29,39 +59,14 @@
       "title": "Wegner unter Druck: Kreisvorsitzende der Berliner CDU beraten",
       "link": "https://www.rbb24.de/politik/beitrag/2026/07/wegner-cdu-kreischefs-freitagabend-druck.html",
       "date": "Thu, 09 Jul 2026 21:17:00 +0200"
-    },
-    {
-      "title": "Berlin: Medicana-Gruppe übernimmt Jüdisches Krankenhaus",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/juedische-krankenhaus-wedding-traeger-tuerkei-medicana.html",
-      "date": "Thu, 09 Jul 2026 21:00:17 +0200"
-    },
-    {
-      "title": "Berlin: Haftstrafen wegen Diebstahl von Friedhofsskulpturen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/haftstrafen-diebstahl-friedhofsskulpturen.html",
-      "date": "Thu, 09 Jul 2026 20:49:40 +0200"
-    },
-    {
-      "title": "Berlin: Clan-Mitglied nach gescheiterter Gefangenenbefreiung verurteilt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/verurteilung-gefangenenbefreiung-versuch-haftstrafe.html",
-      "date": "Thu, 09 Jul 2026 20:48:22 +0200"
-    },
-    {
-      "title": "Babyklappe am St.-Josefs-Krankenhaus ab sofort geschlossen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/potsdam-st-josefs-krankenhaus-babyklappe-geschlossen.html",
-      "date": "Thu, 09 Jul 2026 20:27:46 +0200"
-    },
-    {
-      "title": "Bau neuer Gaskraftwerke beschlossen - mit abgeschwächtem Südbonus",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/bundestag-bau-neuer-gaskraftwerke-kein-suedbonus.html",
-      "date": "Thu, 09 Jul 2026 20:25:37 +0200"
-    },
-    {
-      "title": "Brosius-Gersdorf im Interview: \"Das war eine Politisierung der Richterwahl\"",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/07/interview-wissenschaftskonferenz-frauke-brosius-gersdorf.html",
-      "date": "Thu, 09 Jul 2026 19:53:38 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Ermittlungen wegen queerfeindlichen Angriffs und Beleidigung",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692043.php",
+      "date": "Fri, 10 Jul 2026 11:02:21 +0200"
+    },
     {
       "title": "Verkehrsunfall mit Rettungswagen bei Sonder- und Wegerechtsfahrt im Kreuzungsbereich",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1691725.php",
@@ -116,11 +121,6 @@
       "title": "20-Jähriger nach Raubserie in Berlin festgenommen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1691178.php",
       "date": "Wed, 08 Jul 2026 11:42:00 +0200"
-    },
-    {
-      "title": "Schleuser sollen Sprachzertifikate gefälscht haben – Durchsuchungsbeschlüsse vollstreckt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1690853.php",
-      "date": "Tue, 07 Jul 2026 15:58:08 +0200"
     }
   ],
   "free_events": [],
@@ -130,7 +130,17 @@
     {
       "title": "Brückenbau: Berliner Ringbahn ab Freitagmittag gesperrt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/wochenende-sperrungen-ringbahn-feuerwehr.html",
-      "date": "Fri, 10 Jul 2026 08:05:33 +0200"
+      "date": "Fri, 10 Jul 2026 12:03:06 +0200"
+    },
+    {
+      "title": "Insekten-Expertin: \"Ohne Fliegen und Mücken wäre das Nahrungsnetz komplett gestört\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-muecken-insekten-schwaerme-plage-zalf-muencheberg-werner-interview.html",
+      "date": "Fri, 10 Jul 2026 10:12:53 +0200"
+    },
+    {
+      "title": "Technischer Defekt: Ursache für Brand in Oranienburg aufgeklärt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/oberhavel-oranienburg-brand-lagerhalle-feuerwehr-ursache-technischer-defekt.html",
+      "date": "Fri, 10 Jul 2026 09:59:42 +0200"
     },
     {
       "title": "Berlin: Haftstrafen wegen Diebstahl von Friedhofsskulpturen",
@@ -176,16 +186,6 @@
       "title": "Rewe ruft Tiefkühl-Beerenmischung zurück – Hepatitis-A-Viren nachgewiesen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/rueckruf-tiefkuehl-beerenmischung-750-g-rewe-ja.html",
       "date": "Thu, 09 Jul 2026 16:48:00 +0200"
-    },
-    {
-      "title": "Staatsanwaltschaft ermittelt gegen Ex-Kultursenatorin Wedl-Wilson",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/staatsanwaltschaft-ermittlungen-sarah-wedl-wilson.html",
-      "date": "Thu, 09 Jul 2026 16:32:06 +0200"
-    },
-    {
-      "title": "Mann stirbt bei Angeltour auf dem Stolpsee im Landkreis Oberhavel",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/stolpsee-brandenburg-oberhavel-mann-stirbt-angeltour-boot.html",
-      "date": "Thu, 09 Jul 2026 16:10:55 +0200"
     }
   ]
 }
