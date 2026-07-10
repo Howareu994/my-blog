@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Brückenbau: Berliner Ringbahn ab Freitagmittag gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/wochenende-sperrungen-ringbahn-feuerwehr.html",
+      "date": "Fri, 10 Jul 2026 08:05:33 +0200"
+    },
+    {
+      "title": "Politische Teilhabe in Berlin: \"Sinnvoll wäre ein Tandem aus zwei Regierenden\"",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/wahlrecht-berlin-wahl-internationale-teilhabe-partizipation.html",
+      "date": "Fri, 10 Jul 2026 06:48:00 +0200"
+    },
+    {
+      "title": "Berlin hat wieder mehr Wahlberechtigte - und einen neuen Höchstwert an Nicht-Berechtigten",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahl-wahlberechtigung-wahlrecht-abgeordnetenhaus-bvv.html",
+      "date": "Fri, 10 Jul 2026 06:45:14 +0200"
+    },
+    {
       "title": "Triathletin Lindemann will nach Pause \"zurück an die Weltspitze\"",
       "link": "https://www.rbb24.de/sport/beitrag/2026/07/triathlon-laura-lindemann-pause-comeback-olympische-spiele-2028-los-angeles.html",
       "date": "Thu, 09 Jul 2026 21:44:20 +0200"
@@ -13,12 +28,7 @@
     {
       "title": "Wegner unter Druck: Kreisvorsitzende der Berliner CDU beraten",
       "link": "https://www.rbb24.de/politik/beitrag/2026/07/wegner-cdu-kreischefs-freitagabend-druck.html",
-      "date": "Thu, 09 Jul 2026 21:17:26 +0200"
-    },
-    {
-      "title": "Brückenbau: Berliner Ringbahn ab Freitagmittag gesperrt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/wochenende-sperrungen-ringbahn-feuerwehr.html",
-      "date": "Thu, 09 Jul 2026 21:11:41 +0200"
+      "date": "Thu, 09 Jul 2026 21:17:00 +0200"
     },
     {
       "title": "Berlin: Medicana-Gruppe übernimmt Jüdisches Krankenhaus",
@@ -49,16 +59,6 @@
       "title": "Brosius-Gersdorf im Interview: \"Das war eine Politisierung der Richterwahl\"",
       "link": "https://www.rbb24.de/politik/beitrag/2026/07/interview-wissenschaftskonferenz-frauke-brosius-gersdorf.html",
       "date": "Thu, 09 Jul 2026 19:53:38 +0200"
-    },
-    {
-      "title": "Wie sich Wissenschaft gegen Angriffe wehren soll",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/07/wissenschaft-konferenz-potsdam-resilienz-angriffe-extremisten.html",
-      "date": "Thu, 09 Jul 2026 19:53:00 +0200"
-    },
-    {
-      "title": "Kommentar: Berlins Regierender Wegner hat die Wahl schon verloren",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/07/kai-wegner-kommentar-verhalten-stromausfall.html",
-      "date": "Thu, 09 Jul 2026 19:35:58 +0200"
     }
   ],
   "police": [
@@ -130,7 +130,7 @@
     {
       "title": "Brückenbau: Berliner Ringbahn ab Freitagmittag gesperrt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/wochenende-sperrungen-ringbahn-feuerwehr.html",
-      "date": "Thu, 09 Jul 2026 21:11:41 +0200"
+      "date": "Fri, 10 Jul 2026 08:05:33 +0200"
     },
     {
       "title": "Berlin: Haftstrafen wegen Diebstahl von Friedhofsskulpturen",
