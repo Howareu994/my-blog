@@ -1,6 +1,26 @@
 {
   "traffic": [
     {
+      "title": "Trinkwasserverunreinigung: Coli-Bakterien-Alarm nun überall in Buckow",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/abkochgebot-trinkwasser-in-buckow-maerkisch-oderland.html",
+      "date": "Sat, 11 Jul 2026 18:32:31 +0200"
+    },
+    {
+      "title": "Berlin-Marienfelde: Nach Geiselnahme in Supermarkt - neue Details zum Täter",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-geiselnahme-marienfelde-polizei-supermarkt.html",
+      "date": "Sat, 11 Jul 2026 18:25:43 +0200"
+    },
+    {
+      "title": "3:1-Testspielsieg: Hertha BSC überzeugt auch bei Lok Leipzig",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/hertha-bsc-bezwingt-lokomotive-leipzig-in-testspiel.html",
+      "date": "Sat, 11 Jul 2026 18:18:31 +0200"
+    },
+    {
+      "title": "1.800 Menschen demonstrieren in Berlin-Gesundbrunnen gegen Waffenproduktion von Rheinmetall",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/07/berlin-wedding-waffenproduktion-rheinmetall-protest.html",
+      "date": "Sat, 11 Jul 2026 17:50:01 +0200"
+    },
+    {
       "title": "An der Tanke in Brandenburg: \"Auf Usedom war mir zu viel Tourismus\"",
       "link": "https://www.rbb24.de/panorama/thema/an-der-tanke/brandenburg-an-der-tanke-wurstwerk-verkaeuferin-usedom.html",
       "date": "Sat, 11 Jul 2026 17:28:08 +0200"
@@ -16,29 +36,19 @@
       "date": "Sat, 11 Jul 2026 17:02:00 +0200"
     },
     {
-      "title": "1.800 Menschen demonstrieren in Berlin-Gesundbrunnen gegen Waffenproduktion von Rheinmetall",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/07/berlin-wedding-waffenproduktion-rheinmetall-protest.html",
-      "date": "Sat, 11 Jul 2026 17:01:10 +0200"
-    },
-    {
-      "title": "Rassismus-Eklat und Spielabbruch bei Test von Energie gegen Halle",
+      "title": "Rassismus-Eklat und Spielabbruch bei Test von Energie Cottbus gegen Halle",
       "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-2-liga-testspiel-energie-cottbus-hallescher-fc-rassismus-spielabbruch-king-manu.html",
       "date": "Sat, 11 Jul 2026 16:22:00 +0200"
     },
     {
       "title": "Berlin im Sommer: Angebote umsonst und (meistens) draußen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-sommerferien-unternehmungen-kostenlos-umsonst.html",
-      "date": "Sat, 11 Jul 2026 15:27:01 +0200"
+      "date": "Sat, 11 Jul 2026 15:27:00 +0200"
     },
     {
       "title": "Christopher Street Day: Höhere Sicherheitsvorkehrungen in Cottbus",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-cottbus-niederlausitz-pride-vielfalt.html",
       "date": "Sat, 11 Jul 2026 13:42:18 +0200"
-    },
-    {
-      "title": "Berlin-Marienfelde: Geiselnahme in Supermarkt nach fast 12 Stunden beendet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-geiselnahme-marienfelde-polizei-supermarkt.html",
-      "date": "Sat, 11 Jul 2026 13:20:48 +0200"
     },
     {
       "title": "Berliner Drohnen-Start-up: Die nächste Wette von Peter Thiel",
@@ -49,16 +59,6 @@
       "title": "The Cure in der Wuhlheide: Erst Schwermut, dann Volksfest",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/07/the-cure-berlin-wuhlheide-konzert-robert-smith.html",
       "date": "Sat, 11 Jul 2026 08:12:00 +0200"
-    },
-    {
-      "title": "Klimawandel zwingt Landwirte zu neuen Anbaustrategien",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-muencheberg-gramzow-klimawandel-neue-landwirtschaft-anbau-soja-mais-kichererbsen.html",
-      "date": "Sat, 11 Jul 2026 07:30:42 +0200"
-    },
-    {
-      "title": "Neues Gesetz nimmt bei E-Scooter-Unfällen Vermieter mit in die Haftung",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/e-scooter-roller-strengere-haftungsregeln-vermieter-unfall.html",
-      "date": "Fri, 10 Jul 2026 20:44:00 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,16 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Trinkwasserverunreinigung: Coli-Bakterien-Alarm nun überall in Buckow",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/abkochgebot-trinkwasser-in-buckow-maerkisch-oderland.html",
+      "date": "Sat, 11 Jul 2026 18:32:31 +0200"
+    },
+    {
+      "title": "Berlin-Marienfelde: Nach Geiselnahme in Supermarkt - neue Details zum Täter",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-geiselnahme-marienfelde-polizei-supermarkt.html",
+      "date": "Sat, 11 Jul 2026 18:25:43 +0200"
+    },
+    {
       "title": "An der Tanke in Brandenburg: \"Auf Usedom war mir zu viel Tourismus\"",
       "link": "https://www.rbb24.de/panorama/thema/an-der-tanke/brandenburg-an-der-tanke-wurstwerk-verkaeuferin-usedom.html",
       "date": "Sat, 11 Jul 2026 17:28:08 +0200"
@@ -135,17 +145,12 @@
     {
       "title": "Berlin im Sommer: Angebote umsonst und (meistens) draußen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-sommerferien-unternehmungen-kostenlos-umsonst.html",
-      "date": "Sat, 11 Jul 2026 15:27:01 +0200"
+      "date": "Sat, 11 Jul 2026 15:27:00 +0200"
     },
     {
       "title": "Christopher Street Day: Höhere Sicherheitsvorkehrungen in Cottbus",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-cottbus-niederlausitz-pride-vielfalt.html",
       "date": "Sat, 11 Jul 2026 13:42:18 +0200"
-    },
-    {
-      "title": "Berlin-Marienfelde: Geiselnahme in Supermarkt nach fast 12 Stunden beendet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-geiselnahme-marienfelde-polizei-supermarkt.html",
-      "date": "Sat, 11 Jul 2026 13:20:48 +0200"
     },
     {
       "title": "Video | Berlin: Debatte um zusätzliche Mauer vor der East Side Gallery entbrannt",
@@ -181,11 +186,6 @@
       "title": "Geburtenrückgang in Brandenburg: Erzieher auf der Suche nach neuen Aufgaben",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-ausbildung-erzieher-eisenhuettenstadt-fuerstenwalde-schwierige-jobsuche.html",
       "date": "Fri, 10 Jul 2026 18:09:24 +0200"
-    },
-    {
-      "title": "RE1: Ausfälle und Ersatzverkehr in den kommenden Wochen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/bahn-odeg-re1-ausfaelle-sev-ersatzverkehr-bauarbeiten-zuege-frankfurt-erkner-berlin-brandenburg.html",
-      "date": "Fri, 10 Jul 2026 16:53:39 +0200"
     }
   ]
 }
