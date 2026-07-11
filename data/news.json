@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Berlin im Sommer: Angebote umsonst und (meistens) draußen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-sommerferien-unternehmungen-kostenlos-umsonst.html",
+      "date": "Sat, 11 Jul 2026 15:27:01 +0200"
+    },
+    {
+      "title": "Portait von Stefan Evers, dem künftig mächtigen Mann der Berliner CDU: Der loyale Herr Evers",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/stefan-evers-portrait-berlin-cdu-abgeordnetenhaus-wahl.html",
+      "date": "Sat, 11 Jul 2026 15:12:26 +0200"
+    },
+    {
       "title": "Christopher Street Day: Höhere Sicherheitsvorkehrungen in Cottbus",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-cottbus-niederlausitz-pride-vielfalt.html",
       "date": "Sat, 11 Jul 2026 13:42:18 +0200"
@@ -18,17 +28,12 @@
     {
       "title": "The Cure in der Wuhlheide: Erst Schwermut, dann Volksfest",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/07/the-cure-berlin-wuhlheide-konzert-robert-smith.html",
-      "date": "Sat, 11 Jul 2026 08:12:28 +0200"
+      "date": "Sat, 11 Jul 2026 08:12:00 +0200"
     },
     {
       "title": "Klimawandel zwingt Landwirte zu neuen Anbaustrategien",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-muencheberg-gramzow-klimawandel-neue-landwirtschaft-anbau-soja-mais-kichererbsen.html",
       "date": "Sat, 11 Jul 2026 07:30:42 +0200"
-    },
-    {
-      "title": "Stefan Evers soll CDU-Spitzenkandidat für die Berlin-Wahl werden",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berliner-cdu-evers-kreisvorstaende-spitzenkandidat.html",
-      "date": "Fri, 10 Jul 2026 21:53:09 +0200"
     },
     {
       "title": "Neues Gesetz nimmt bei E-Scooter-Unfällen Vermieter mit in die Haftung",
@@ -54,11 +59,6 @@
       "title": "Bau neuer Gaskraftwerke beschlossen - und vom Bundesrat bestätigt",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/bundestag-bau-neuer-gaskraftwerke-kein-suedbonus.html",
       "date": "Fri, 10 Jul 2026 19:09:49 +0200"
-    },
-    {
-      "title": "Sorbisches Siedlungsgebiet: Oberverwaltungsgericht beendet Streit",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-sorben-wenden-siedlungsgebiet-beschluesse-gericht.html",
-      "date": "Fri, 10 Jul 2026 16:15:29 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Berlin im Sommer: Angebote umsonst und (meistens) draußen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-sommerferien-unternehmungen-kostenlos-umsonst.html",
+      "date": "Sat, 11 Jul 2026 15:27:01 +0200"
+    },
+    {
       "title": "Christopher Street Day: Höhere Sicherheitsvorkehrungen in Cottbus",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-cottbus-niederlausitz-pride-vielfalt.html",
       "date": "Sat, 11 Jul 2026 13:42:18 +0200"
@@ -181,11 +186,6 @@
       "title": "Sorbisches Siedlungsgebiet: Oberverwaltungsgericht beendet Streit",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-sorben-wenden-siedlungsgebiet-beschluesse-gericht.html",
       "date": "Fri, 10 Jul 2026 16:15:29 +0200"
-    },
-    {
-      "title": "Afrikanische Schweinepest: Uckermark richtet neue Schutzzone bei Stützkow ein",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/uckermark-tierseuche-afrikanische-schweinepest-schutzzone-stuetzkow.html",
-      "date": "Fri, 10 Jul 2026 16:04:21 +0200"
     }
   ]
 }
