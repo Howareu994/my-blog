@@ -63,6 +63,31 @@
   ],
   "police": [
     {
+      "title": "E-Scooter-Fahrer und unerlaubt mitfahrende Sozia bei Verkehrsunfall verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692319.php",
+      "date": "Sat, 11 Jul 2026 14:52:00 +0200"
+    },
+    {
+      "title": "Kind bei Zusammenstoß mit Radfahrer verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692318.php",
+      "date": "Sat, 11 Jul 2026 14:49:37 +0200"
+    },
+    {
+      "title": "Senior in Kleingartenanlage überfallen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692316.php",
+      "date": "Sat, 11 Jul 2026 14:10:00 +0200"
+    },
+    {
+      "title": "Streit eskaliert – Angriff mit Schlagring auf jungen Mann",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692314.php",
+      "date": "Sat, 11 Jul 2026 13:55:00 +0200"
+    },
+    {
+      "title": "Unbekannte greifen Parkbesucher an",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692313.php",
+      "date": "Sat, 11 Jul 2026 13:52:32 +0200"
+    },
+    {
       "title": "Radfahrerin nach Verkehrsunfall mit Sattelzugmaschine notoperiert",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692312.php",
       "date": "Sat, 11 Jul 2026 12:44:02 +0200"
@@ -96,31 +121,6 @@
       "title": "Festnahme nach versuchtem Geschäftseinbruch – Haftbefehl vollstreckt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1691414.php",
       "date": "Wed, 08 Jul 2026 17:16:26 +0200"
-    },
-    {
-      "title": "Verkehrsunfall auf Einsatzfahrt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1691411.php",
-      "date": "Wed, 08 Jul 2026 17:04:02 +0200"
-    },
-    {
-      "title": "Unter dem Einfluss von berauschenden Mitteln zwei Verkehrsunfälle verursacht",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1691363.php",
-      "date": "Wed, 08 Jul 2026 16:01:38 +0200"
-    },
-    {
-      "title": "Autofahrerinnen ungebremst miteinander kollidiert",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1691360.php",
-      "date": "Wed, 08 Jul 2026 15:58:08 +0200"
-    },
-    {
-      "title": "Vermisstes Mädchen wieder im Kreise der Familie",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1687556.php",
-      "date": "Wed, 08 Jul 2026 15:42:00 +0200"
-    },
-    {
-      "title": "Haftbefehl wegen Verstößen gegen das Waffengesetz vollstreckt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1691180.php",
-      "date": "Wed, 08 Jul 2026 12:37:00 +0200"
     }
   ],
   "free_events": [],
