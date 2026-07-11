@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Berlin-Wannsee: Schwerer Unfall im Strandbad - Rettungshubschrauber gelandet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-standbad-wannsee-unfall.html",
+      "date": "Sat, 11 Jul 2026 18:59:27 +0200"
+    },
+    {
       "title": "Trinkwasserverunreinigung: Coli-Bakterien-Alarm nun überall in Buckow",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/abkochgebot-trinkwasser-in-buckow-maerkisch-oderland.html",
       "date": "Sat, 11 Jul 2026 18:32:31 +0200"
@@ -54,11 +59,6 @@
       "title": "Berliner Drohnen-Start-up: Die nächste Wette von Peter Thiel",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/berlin-peter-thiel-wette-investor-drohnen-start-up-stark-defence.html",
       "date": "Sat, 11 Jul 2026 11:45:22 +0200"
-    },
-    {
-      "title": "The Cure in der Wuhlheide: Erst Schwermut, dann Volksfest",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/07/the-cure-berlin-wuhlheide-konzert-robert-smith.html",
-      "date": "Sat, 11 Jul 2026 08:12:00 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,16 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Erhöhte Sicherheitsvorkehrungen: Hunderte bei CSD in Cottbus",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-cottbus-niederlausitz-pride-vielfalt.html",
+      "date": "Sat, 11 Jul 2026 19:46:57 +0200"
+    },
+    {
+      "title": "Berlin-Wannsee: Schwerer Unfall im Strandbad - Rettungshubschrauber gelandet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-standbad-wannsee-unfall.html",
+      "date": "Sat, 11 Jul 2026 18:59:27 +0200"
+    },
+    {
       "title": "Trinkwasserverunreinigung: Coli-Bakterien-Alarm nun überall in Buckow",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/abkochgebot-trinkwasser-in-buckow-maerkisch-oderland.html",
       "date": "Sat, 11 Jul 2026 18:32:31 +0200"
@@ -146,11 +156,6 @@
       "title": "Berlin im Sommer: Angebote umsonst und (meistens) draußen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-sommerferien-unternehmungen-kostenlos-umsonst.html",
       "date": "Sat, 11 Jul 2026 15:27:00 +0200"
-    },
-    {
-      "title": "Christopher Street Day: Höhere Sicherheitsvorkehrungen in Cottbus",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-cottbus-niederlausitz-pride-vielfalt.html",
-      "date": "Sat, 11 Jul 2026 13:42:18 +0200"
     },
     {
       "title": "Video | Berlin: Debatte um zusätzliche Mauer vor der East Side Gallery entbrannt",
@@ -181,11 +186,6 @@
       "title": "Sportboot steckt bei Bad Freienwalde in der Oder fest",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/sportboot-oder-bad-freienwalde-brandenburg.html",
       "date": "Fri, 10 Jul 2026 20:21:23 +0200"
-    },
-    {
-      "title": "Geburtenrückgang in Brandenburg: Erzieher auf der Suche nach neuen Aufgaben",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-ausbildung-erzieher-eisenhuettenstadt-fuerstenwalde-schwierige-jobsuche.html",
-      "date": "Fri, 10 Jul 2026 18:09:24 +0200"
     }
   ]
 }
