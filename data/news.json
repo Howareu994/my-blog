@@ -1,14 +1,14 @@
 {
   "traffic": [
     {
-      "title": "Berlin-Marienfelde: Geiselnahme in Supermarkt nach fast 12 Stunden beendet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-geiselnahme-marienfelde-polizei-supermarkt.html",
-      "date": "Sat, 11 Jul 2026 11:08:09 +0200"
+      "title": "Berliner Drohnen-Start-up: Die nächste Wette von Peter Thiel",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/berlin-peter-thiel-wette-investor-drohnen-start-up-stark-defence.html",
+      "date": "Sat, 11 Jul 2026 11:45:22 +0200"
     },
     {
-      "title": "Beteiligung an Rüstungsunternehmen: Die nächste Wette von Peter Thiel",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/berlin-peter-thiel-wette-investor-drohnen-start-up-stark-defence.html",
-      "date": "Sat, 11 Jul 2026 10:16:58 +0200"
+      "title": "Berlin-Marienfelde: Geiselnahme in Supermarkt nach fast 12 Stunden beendet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-geiselnahme-marienfelde-polizei-supermarkt.html",
+      "date": "Sat, 11 Jul 2026 11:24:41 +0200"
     },
     {
       "title": "The Cure in der Wuhlheide: Erst Schwermut, dann Volksfest",
@@ -63,6 +63,11 @@
   ],
   "police": [
     {
+      "title": "Radfahrerin nach Verkehrsunfall mit Sattelzugmaschine notoperiert",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692312.php",
+      "date": "Sat, 11 Jul 2026 12:44:02 +0200"
+    },
+    {
       "title": "Ermittlungen wegen queerfeindlichen Angriffs und Beleidigung",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692043.php",
       "date": "Fri, 10 Jul 2026 11:02:21 +0200"
@@ -116,11 +121,6 @@
       "title": "Haftbefehl wegen Verstößen gegen das Waffengesetz vollstreckt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1691180.php",
       "date": "Wed, 08 Jul 2026 12:37:00 +0200"
-    },
-    {
-      "title": "20-Jähriger nach Raubserie in Berlin festgenommen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1691178.php",
-      "date": "Wed, 08 Jul 2026 11:42:00 +0200"
     }
   ],
   "free_events": [],
@@ -128,9 +128,14 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Video | Berlin: Debatte um zusätzliche Mauer vor der East Side Gallery entbrannt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/video-berlin-eastside-gallery-umbau.html",
+      "date": "Sat, 11 Jul 2026 12:42:09 +0200"
+    },
+    {
       "title": "Berlin-Marienfelde: Geiselnahme in Supermarkt nach fast 12 Stunden beendet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-geiselnahme-marienfelde-polizei-supermarkt.html",
-      "date": "Sat, 11 Jul 2026 11:08:09 +0200"
+      "date": "Sat, 11 Jul 2026 11:24:41 +0200"
     },
     {
       "title": "Klimawandel zwingt Landwirte zu neuen Anbaustrategien",
@@ -181,11 +186,6 @@
       "title": "Geburtshilfe am St.-Josefs-Krankenhaus ab sofort geschlossen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/potsdam-klinikum-geburtshilfe-versorgung-krankenhausreform.html",
       "date": "Fri, 10 Jul 2026 16:01:37 +0200"
-    },
-    {
-      "title": "Möglicher Fehlalarm: Nie Bromat in Zehdenicker Trinkwasser",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-zehdenick-trinkwasser-bromat-gesundheitsamt.html",
-      "date": "Fri, 10 Jul 2026 15:37:17 +0200"
     }
   ]
 }
