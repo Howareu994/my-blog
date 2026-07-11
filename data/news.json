@@ -1,9 +1,14 @@
 {
   "traffic": [
     {
+      "title": "Berlin-Marienfelde: Geiselnahme in Supermarkt nach fast 12 Stunden beendet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-geiselnahme-marienfelde-polizei-supermarkt.html",
+      "date": "Sat, 11 Jul 2026 11:08:09 +0200"
+    },
+    {
       "title": "Beteiligung an Rüstungsunternehmen: Die nächste Wette von Peter Thiel",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/berlin-peter-thiel-wette-investor-drohnen-start-up-stark-defence.html",
-      "date": "Sat, 11 Jul 2026 08:39:01 +0200"
+      "date": "Sat, 11 Jul 2026 10:16:58 +0200"
     },
     {
       "title": "The Cure in der Wuhlheide: Erst Schwermut, dann Volksfest",
@@ -21,19 +26,9 @@
       "date": "Fri, 10 Jul 2026 21:53:09 +0200"
     },
     {
-      "title": "Berlins Regierender Bürgermeister Wegner gibt Spitzenkandidatur auf",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/07/kai-wegner-berlin-cdu-kritik-verzicht.html",
-      "date": "Fri, 10 Jul 2026 21:19:15 +0200"
-    },
-    {
       "title": "Neues Gesetz nimmt bei E-Scooter-Unfällen Vermieter mit in die Haftung",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/e-scooter-roller-strengere-haftungsregeln-vermieter-unfall.html",
       "date": "Fri, 10 Jul 2026 20:44:00 +0200"
-    },
-    {
-      "title": "Eichenprozessionsspinner: Mehrere Gewässer im Spreewald gesperrt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/spreewald-eichenprozessionsspinner-einzelne-gewaesser-gesperrt.html",
-      "date": "Fri, 10 Jul 2026 20:42:45 +0200"
     },
     {
       "title": "Erste Autobahnbrückenteile montiert: Ringbahn seit Freitagmittag gesperrt",
@@ -59,6 +54,11 @@
       "title": "Sorbisches Siedlungsgebiet: Oberverwaltungsgericht beendet Streit",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-sorben-wenden-siedlungsgebiet-beschluesse-gericht.html",
       "date": "Fri, 10 Jul 2026 16:15:29 +0200"
+    },
+    {
+      "title": "Rücktritte in Brandenburg: Weitere Kreisvorsitzende verlässt das BSW",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/07/bsw-brandenburg-elbe-elster-kreisvorsitzende-ruecktritt-manja-keller-felsch.html",
+      "date": "Fri, 10 Jul 2026 16:12:04 +0200"
     }
   ],
   "police": [
@@ -128,9 +128,9 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Berlin-Marienfelde: Mann hält Frau in Supermarkt als Geisel",
+      "title": "Berlin-Marienfelde: Geiselnahme in Supermarkt nach fast 12 Stunden beendet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-geiselnahme-marienfelde-polizei-supermarkt.html",
-      "date": "Sat, 11 Jul 2026 09:05:47 +0200"
+      "date": "Sat, 11 Jul 2026 11:08:09 +0200"
     },
     {
       "title": "Klimawandel zwingt Landwirte zu neuen Anbaustrategien",
