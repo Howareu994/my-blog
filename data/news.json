@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Ein Freibad als Brennpunkt? Ein Ferientag im Berliner Columbiabad",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/sommerbad-neukoelln-columbiabad-freibad-berlin-gewalt-security-ferien.html",
+      "date": "Sat, 11 Jul 2026 20:42:45 +0200"
+    },
+    {
+      "title": "Rassismus-Eklat und Spielabbruch bei Test von Energie Cottbus gegen Halle",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-2-liga-testspiel-energie-cottbus-hallescher-fc-rassismus-spielabbruch-king-manu.html",
+      "date": "Sat, 11 Jul 2026 20:23:17 +0200"
+    },
+    {
+      "title": "Hunderte feiern CSD in Cottbus mit erhöhten Sicherheitsvorkehrungen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-cottbus-niederlausitz-pride-vielfalt.html",
+      "date": "Sat, 11 Jul 2026 19:46:00 +0200"
+    },
+    {
       "title": "Berlin-Wannsee: Schwerer Unfall im Strandbad - Rettungshubschrauber gelandet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-standbad-wannsee-unfall.html",
       "date": "Sat, 11 Jul 2026 18:59:27 +0200"
@@ -41,24 +56,9 @@
       "date": "Sat, 11 Jul 2026 17:02:00 +0200"
     },
     {
-      "title": "Rassismus-Eklat und Spielabbruch bei Test von Energie Cottbus gegen Halle",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-2-liga-testspiel-energie-cottbus-hallescher-fc-rassismus-spielabbruch-king-manu.html",
-      "date": "Sat, 11 Jul 2026 16:22:00 +0200"
-    },
-    {
       "title": "Berlin im Sommer: Angebote umsonst und (meistens) draußen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-sommerferien-unternehmungen-kostenlos-umsonst.html",
       "date": "Sat, 11 Jul 2026 15:27:00 +0200"
-    },
-    {
-      "title": "Christopher Street Day: Höhere Sicherheitsvorkehrungen in Cottbus",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-cottbus-niederlausitz-pride-vielfalt.html",
-      "date": "Sat, 11 Jul 2026 13:42:18 +0200"
-    },
-    {
-      "title": "Berliner Drohnen-Start-up: Die nächste Wette von Peter Thiel",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/berlin-peter-thiel-wette-investor-drohnen-start-up-stark-defence.html",
-      "date": "Sat, 11 Jul 2026 11:45:22 +0200"
     }
   ],
   "police": [
@@ -128,9 +128,9 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Erhöhte Sicherheitsvorkehrungen: Hunderte bei CSD in Cottbus",
+      "title": "Hunderte feiern CSD in Cottbus mit erhöhten Sicherheitsvorkehrungen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-cottbus-niederlausitz-pride-vielfalt.html",
-      "date": "Sat, 11 Jul 2026 19:46:57 +0200"
+      "date": "Sat, 11 Jul 2026 19:46:00 +0200"
     },
     {
       "title": "Berlin-Wannsee: Schwerer Unfall im Strandbad - Rettungshubschrauber gelandet",
