@@ -1,14 +1,19 @@
 {
   "traffic": [
     {
-      "title": "Berliner Drohnen-Start-up: Die nächste Wette von Peter Thiel",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/berlin-peter-thiel-wette-investor-drohnen-start-up-stark-defence.html",
-      "date": "Sat, 11 Jul 2026 11:45:22 +0200"
+      "title": "Christopher Street Day: Höhere Sicherheitsvorkehrungen in Cottbus",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-cottbus-niederlausitz-pride-vielfalt.html",
+      "date": "Sat, 11 Jul 2026 13:42:18 +0200"
     },
     {
       "title": "Berlin-Marienfelde: Geiselnahme in Supermarkt nach fast 12 Stunden beendet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-geiselnahme-marienfelde-polizei-supermarkt.html",
-      "date": "Sat, 11 Jul 2026 11:24:41 +0200"
+      "date": "Sat, 11 Jul 2026 13:20:48 +0200"
+    },
+    {
+      "title": "Berliner Drohnen-Start-up: Die nächste Wette von Peter Thiel",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/berlin-peter-thiel-wette-investor-drohnen-start-up-stark-defence.html",
+      "date": "Sat, 11 Jul 2026 11:45:22 +0200"
     },
     {
       "title": "The Cure in der Wuhlheide: Erst Schwermut, dann Volksfest",
@@ -54,11 +59,6 @@
       "title": "Sorbisches Siedlungsgebiet: Oberverwaltungsgericht beendet Streit",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-sorben-wenden-siedlungsgebiet-beschluesse-gericht.html",
       "date": "Fri, 10 Jul 2026 16:15:29 +0200"
-    },
-    {
-      "title": "Rücktritte in Brandenburg: Weitere Kreisvorsitzende verlässt das BSW",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/07/bsw-brandenburg-elbe-elster-kreisvorsitzende-ruecktritt-manja-keller-felsch.html",
-      "date": "Fri, 10 Jul 2026 16:12:04 +0200"
     }
   ],
   "police": [
@@ -128,14 +128,19 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Video | Berlin: Debatte um zusätzliche Mauer vor der East Side Gallery entbrannt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/video-berlin-eastside-gallery-umbau.html",
-      "date": "Sat, 11 Jul 2026 12:42:09 +0200"
+      "title": "Christopher Street Day: Höhere Sicherheitsvorkehrungen in Cottbus",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-cottbus-niederlausitz-pride-vielfalt.html",
+      "date": "Sat, 11 Jul 2026 13:42:18 +0200"
     },
     {
       "title": "Berlin-Marienfelde: Geiselnahme in Supermarkt nach fast 12 Stunden beendet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-geiselnahme-marienfelde-polizei-supermarkt.html",
-      "date": "Sat, 11 Jul 2026 11:24:41 +0200"
+      "date": "Sat, 11 Jul 2026 13:20:48 +0200"
+    },
+    {
+      "title": "Video | Berlin: Debatte um zusätzliche Mauer vor der East Side Gallery entbrannt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/video-berlin-eastside-gallery-umbau.html",
+      "date": "Sat, 11 Jul 2026 12:42:09 +0200"
     },
     {
       "title": "Klimawandel zwingt Landwirte zu neuen Anbaustrategien",
@@ -181,11 +186,6 @@
       "title": "Afrikanische Schweinepest: Uckermark richtet neue Schutzzone bei Stützkow ein",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/uckermark-tierseuche-afrikanische-schweinepest-schutzzone-stuetzkow.html",
       "date": "Fri, 10 Jul 2026 16:04:21 +0200"
-    },
-    {
-      "title": "Geburtshilfe am St.-Josefs-Krankenhaus ab sofort geschlossen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/potsdam-klinikum-geburtshilfe-versorgung-krankenhausreform.html",
-      "date": "Fri, 10 Jul 2026 16:01:37 +0200"
     }
   ]
 }
