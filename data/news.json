@@ -1,24 +1,44 @@
 {
   "traffic": [
     {
+      "title": "Brandenburger Feuerwehr bekämpft größere Feldbrände - auch Waldbrandgefahr steigt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-feuerwehr-trockenheit-hitze-ernte-felder-waldbrand-gefahr.html",
+      "date": "Sun, 12 Jul 2026 11:37:52 +0200"
+    },
+    {
+      "title": "Coli-Bakterien: Abkochgebot für Trinkwasser in Buckow angeordnet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/abkochgebot-trinkwasser-in-buckow-maerkisch-oderland.html",
+      "date": "Sun, 12 Jul 2026 11:23:36 +0200"
+    },
+    {
+      "title": "Die Toten Hosen lassen es im Olympiastadion zum Abschied noch mal krachen",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/07/berlin-olympiastation-die-toten-hosen-groesstes-deutschland-konzert.html",
+      "date": "Sun, 12 Jul 2026 10:31:58 +0200"
+    },
+    {
+      "title": "Genossenschaft will in Südbrandenburg eigenen Strom produzieren",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/brandenburg-calau-vetschau-energiegenossenschaft-gegruendet.html",
+      "date": "Sun, 12 Jul 2026 10:27:07 +0200"
+    },
+    {
+      "title": "Geiselnahme in Berliner Supermarkt beendet - neue Details zum Täter",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-geiselnahme-marienfelde-polizei-supermarkt.html",
+      "date": "Sun, 12 Jul 2026 10:24:30 +0200"
+    },
+    {
       "title": "Neun Tote im Juni: DLRG warnt vor Gefahren an Seen und Flüssen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-dlrg-warnung-seen-fluesse-sommerferien.html",
       "date": "Sun, 12 Jul 2026 09:23:00 +0200"
     },
     {
-      "title": "Die Toten Hosen lassen es im Olympiastadion zum Abschied noch mal krachen",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/07/berlin-olympiastation-die-toten-hosen-groesstes-deutschland-konzert.html",
-      "date": "Sun, 12 Jul 2026 07:47:00 +0200"
-    },
-    {
-      "title": "Genossenschaft will in Südbrandenburg eigenen Strom produzieren",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/brandenburg-calau-vetschau-energiegenossenschaft-gegruendet.html",
-      "date": "Sun, 12 Jul 2026 07:15:22 +0200"
-    },
-    {
       "title": "Ökonom Rammler erklärt, wie Bäume für Hitzeschutz in der Stadt sorgen",
       "link": "https://www.rbb24.de/politik/beitrag/2026/07/interview-klimawandel-hitze-wetter-hitzeschutz-berlin-baeume.html",
       "date": "Sun, 12 Jul 2026 07:12:18 +0200"
+    },
+    {
+      "title": "Mehrere Gewässer im Spreewald wegen Eichenprozessionsspinner gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/spreewald-eichenprozessionsspinner-einzelne-gewaesser-gesperrt.html",
+      "date": "Sat, 11 Jul 2026 21:17:04 +0200"
     },
     {
       "title": "Rassismus-Eklat und Spielabbruch bei Test von Energie Cottbus gegen Halle",
@@ -28,7 +48,7 @@
     {
       "title": "Ein Freibad als Brennpunkt? Ein Ferientag im Berliner Columbiabad",
       "link": "https://www.rbb24.de/sport/beitrag/2026/07/sommerbad-neukoelln-columbiabad-freibad-berlin-gewalt-security-ferien.html",
-      "date": "Sat, 11 Jul 2026 20:42:45 +0200"
+      "date": "Sat, 11 Jul 2026 20:42:00 +0200"
     },
     {
       "title": "Hunderte feiern CSD in Cottbus mit erhöhten Sicherheitsvorkehrungen",
@@ -39,29 +59,19 @@
       "title": "Berlin-Wannsee: Schwerer Unfall im Strandbad - Rettungshubschrauber gelandet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-standbad-wannsee-unfall.html",
       "date": "Sat, 11 Jul 2026 18:59:27 +0200"
-    },
-    {
-      "title": "Trinkwasserverunreinigung: Coli-Bakterien-Alarm nun überall in Buckow",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/abkochgebot-trinkwasser-in-buckow-maerkisch-oderland.html",
-      "date": "Sat, 11 Jul 2026 18:32:31 +0200"
-    },
-    {
-      "title": "Berlin-Marienfelde: Nach Geiselnahme in Supermarkt - neue Details zum Täter",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-geiselnahme-marienfelde-polizei-supermarkt.html",
-      "date": "Sat, 11 Jul 2026 18:25:43 +0200"
-    },
-    {
-      "title": "3:1-Testspielsieg: Hertha BSC überzeugt auch bei Lok Leipzig",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/07/hertha-bsc-bezwingt-lokomotive-leipzig-in-testspiel.html",
-      "date": "Sat, 11 Jul 2026 18:18:31 +0200"
-    },
-    {
-      "title": "1.800 Menschen demonstrieren in Berlin-Gesundbrunnen gegen Waffenproduktion von Rheinmetall",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/07/berlin-wedding-waffenproduktion-rheinmetall-protest.html",
-      "date": "Sat, 11 Jul 2026 17:50:01 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Fahrradfahrerin nach Verkehrsunfall erheblich verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692329.php",
+      "date": "Sun, 12 Jul 2026 12:15:29 +0200"
+    },
+    {
+      "title": "Scharfe Schusswaffe bei Personenüberprüfung im Hosenbund gefunden – Haftbefehl erlassen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692328.php",
+      "date": "Sun, 12 Jul 2026 11:07:13 +0200"
+    },
     {
       "title": "E-Scooter-Fahrer und unerlaubt mitfahrende Sozia bei Verkehrsunfall verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692319.php",
@@ -111,22 +121,27 @@
       "title": "Jugendliche E-Scooter-Fahrer verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1691705.php",
       "date": "Thu, 09 Jul 2026 14:18:23 +0200"
-    },
-    {
-      "title": "Toter Säugling aufgefunden – Tatverdächtige ermittelt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1691542.php",
-      "date": "Thu, 09 Jul 2026 10:47:36 +0200"
-    },
-    {
-      "title": "Festnahme nach versuchtem Geschäftseinbruch – Haftbefehl vollstreckt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1691414.php",
-      "date": "Wed, 08 Jul 2026 17:16:26 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Brandenburger Feuerwehr bekämpft größere Feldbrände - auch Waldbrandgefahr steigt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-feuerwehr-trockenheit-hitze-ernte-felder-waldbrand-gefahr.html",
+      "date": "Sun, 12 Jul 2026 11:37:52 +0200"
+    },
+    {
+      "title": "Coli-Bakterien: Abkochgebot für Trinkwasser in Buckow angeordnet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/abkochgebot-trinkwasser-in-buckow-maerkisch-oderland.html",
+      "date": "Sun, 12 Jul 2026 11:23:36 +0200"
+    },
+    {
+      "title": "Geiselnahme in Berliner Supermarkt beendet - neue Details zum Täter",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-geiselnahme-marienfelde-polizei-supermarkt.html",
+      "date": "Sun, 12 Jul 2026 10:24:30 +0200"
+    },
     {
       "title": "Neun Tote im Juni: DLRG warnt vor Gefahren an Seen und Flüssen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-dlrg-warnung-seen-fluesse-sommerferien.html",
@@ -148,16 +163,6 @@
       "date": "Sat, 11 Jul 2026 18:59:27 +0200"
     },
     {
-      "title": "Trinkwasserverunreinigung: Coli-Bakterien-Alarm nun überall in Buckow",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/abkochgebot-trinkwasser-in-buckow-maerkisch-oderland.html",
-      "date": "Sat, 11 Jul 2026 18:32:31 +0200"
-    },
-    {
-      "title": "Berlin-Marienfelde: Nach Geiselnahme in Supermarkt - neue Details zum Täter",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-geiselnahme-marienfelde-polizei-supermarkt.html",
-      "date": "Sat, 11 Jul 2026 18:25:43 +0200"
-    },
-    {
       "title": "An der Tanke in Brandenburg: \"Auf Usedom war mir zu viel Tourismus\"",
       "link": "https://www.rbb24.de/panorama/thema/an-der-tanke/brandenburg-an-der-tanke-wurstwerk-verkaeuferin-usedom.html",
       "date": "Sat, 11 Jul 2026 17:28:08 +0200"
@@ -170,7 +175,7 @@
     {
       "title": "Video | Berlin: Debatte um zusätzliche Mauer vor der East Side Gallery entbrannt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/video-berlin-eastside-gallery-umbau.html",
-      "date": "Sat, 11 Jul 2026 12:42:09 +0200"
+      "date": "Sat, 11 Jul 2026 12:42:00 +0200"
     },
     {
       "title": "Klimawandel zwingt Landwirte zu neuen Anbaustrategien",
@@ -181,11 +186,6 @@
       "title": "Neues Gesetz nimmt bei E-Scooter-Unfällen Vermieter mit in die Haftung",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/e-scooter-roller-strengere-haftungsregeln-vermieter-unfall.html",
       "date": "Fri, 10 Jul 2026 20:44:00 +0200"
-    },
-    {
-      "title": "Erste Autobahnbrückenteile montiert: Ringbahn seit Freitagmittag gesperrt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/wochenende-sperrungen-ringbahn-feuerwehr.html",
-      "date": "Fri, 10 Jul 2026 20:36:19 +0200"
     }
   ]
 }
