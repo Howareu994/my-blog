@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Radsport: Niederländischer Dreifach-Triumph bei der Oderrundfahrt",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/radsport-45-oderrundfahrt-niederlaendischer-dreifach-triumph.html",
+      "date": "Sun, 12 Jul 2026 20:23:16 +0200"
+    },
+    {
+      "title": "Berlin-Marienfelde: Richter verhängt Untersuchungshaft für mutmaßlichen Geiselnehmer",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/haftbefehl-berlin-geiselnahme-marienfelde-polizei-supermarkt.html",
+      "date": "Sun, 12 Jul 2026 20:05:00 +0200"
+    },
+    {
       "title": "Saisoneröffnung bei Hertha BSC: Das Warten geht weiter",
       "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-hertha-bsc-saisoneroeffnung-2-bundesliga-fans-transfers-trainingslager.html",
       "date": "Sun, 12 Jul 2026 19:03:28 +0200"
@@ -49,16 +59,6 @@
       "title": "Sprach Wegner während Stromausfall mit Merz? Dissens um Telefonat",
       "link": "https://www.rbb24.de/politik/beitrag/2026/07/berlin-regierender-buergermeister-wegner-telefonat-kanzleramt-merz-stromausfall.html",
       "date": "Sun, 12 Jul 2026 15:41:00 +0200"
-    },
-    {
-      "title": "150 Jahre Rudern in Berlin: Ein Gentlemen-Sport in der Hauptstadt",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/07/rudern-berlin-150-jahre-olympia-wannsee.html",
-      "date": "Sun, 12 Jul 2026 14:32:22 +0200"
-    },
-    {
-      "title": "Cannabis-Kekse: Fünf Menschen in Berliner Klinik eingeliefert",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-marzahn-cannabis-kekse-fuenf-menschen-klinik.html",
-      "date": "Sun, 12 Jul 2026 12:48:24 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Berlin-Marienfelde: Richter verhängt Untersuchungshaft für mutmaßlichen Geiselnehmer",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/haftbefehl-berlin-geiselnahme-marienfelde-polizei-supermarkt.html",
+      "date": "Sun, 12 Jul 2026 20:05:00 +0200"
+    },
+    {
       "title": "Brandenburger Feuerwehr bekämpft größere Feldbrände - auch Waldbrandgefahr steigt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-feuerwehr-trockenheit-hitze-ernte-felder-waldbrand-gefahr.html",
       "date": "Sun, 12 Jul 2026 18:39:50 +0200"
@@ -181,11 +186,6 @@
       "title": "Hunderte feiern CSD in Cottbus mit erhöhten Sicherheitsvorkehrungen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-cottbus-niederlausitz-pride-vielfalt.html",
       "date": "Sat, 11 Jul 2026 19:46:00 +0200"
-    },
-    {
-      "title": "Berlin-Wannsee: Schwerer Unfall im Strandbad - Rettungshubschrauber gelandet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-standbad-wannsee-unfall.html",
-      "date": "Sat, 11 Jul 2026 18:59:27 +0200"
     }
   ]
 }
