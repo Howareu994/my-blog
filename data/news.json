@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "150 Jahre Rudern in Berlin: Ein Gentlemen-Sport in der Hauptstadt",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/rudern-berlin-150-jahre-olympia-wannsee.html",
+      "date": "Sun, 12 Jul 2026 14:32:22 +0200"
+    },
+    {
       "title": "Sprach Wegner während Stromausfall mit Merz? Dissenz um Telefonat",
       "link": "https://www.rbb24.de/politik/beitrag/2026/07/berlin-regierender-buergermeister-wegner-telefonat-kanzleramt-merz-stromausfall.html",
       "date": "Sun, 12 Jul 2026 13:30:05 +0200"
@@ -14,6 +19,11 @@
       "title": "Zwei Radfahrerinnen bei Unfällen in Berlin schwerst verletzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-hellersdorf-friedrichshain-radfahrerin-unfaelle-verletzt.html",
       "date": "Sun, 12 Jul 2026 12:27:00 +0200"
+    },
+    {
+      "title": "Jam-Skaterin Oumi Janta: \"Beyoncés Mutter hat das geteilt\"",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/rollschuh-tanzen-influencerin-skate-tempelhofer-feld-oumi-janta-interview.html",
+      "date": "Sun, 12 Jul 2026 12:10:26 +0200"
     },
     {
       "title": "Brandenburger Feuerwehr bekämpft größere Feldbrände - auch Waldbrandgefahr steigt",
@@ -46,22 +56,17 @@
       "date": "Sun, 12 Jul 2026 09:23:00 +0200"
     },
     {
-      "title": "Ökonom Rammler erklärt, wie Bäume für Hitzeschutz in der Stadt sorgen",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/07/interview-klimawandel-hitze-wetter-hitzeschutz-berlin-baeume.html",
-      "date": "Sun, 12 Jul 2026 07:12:18 +0200"
-    },
-    {
-      "title": "Mehrere Gewässer im Spreewald wegen Eichenprozessionsspinner gesperrt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/spreewald-eichenprozessionsspinner-einzelne-gewaesser-gesperrt.html",
-      "date": "Sat, 11 Jul 2026 21:17:04 +0200"
-    },
-    {
       "title": "Rassismus-Eklat und Spielabbruch bei Test von Energie Cottbus gegen Halle",
       "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-2-liga-testspiel-energie-cottbus-hallescher-fc-rassismus-spielabbruch-king-manu.html",
       "date": "Sat, 11 Jul 2026 20:46:19 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Farbschmierereien an Fahrzeugen und Hausfassaden - Festnahme",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692332.php",
+      "date": "Sun, 12 Jul 2026 14:01:47 +0200"
+    },
     {
       "title": "Mit Schusswaffe bedroht - Festnahmen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692331.php",
@@ -116,11 +121,6 @@
       "title": "Verkehrsunfall mit Rettungswagen bei Sonder- und Wegerechtsfahrt im Kreuzungsbereich",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1691725.php",
       "date": "Thu, 09 Jul 2026 14:35:57 +0200"
-    },
-    {
-      "title": "Moscheemauer mit Farbschmierereien beschädigt – Tatverdächtiger festgenommen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1691710.php",
-      "date": "Thu, 09 Jul 2026 14:24:12 +0200"
     }
   ],
   "free_events": [],
