@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Berlin: Einhub-Arbeiten an der Ringbahnbrücke noch am späten Sonntagabend",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/kran-autobahn-bruecke-teile-bauarbeiten-sperrung-ringbahn-feuerw.html",
+      "date": "Sun, 12 Jul 2026 21:32:30 +0200"
+    },
+    {
       "title": "Radsport: Niederländischer Dreifach-Triumph bei der Oderrundfahrt",
       "link": "https://www.rbb24.de/sport/beitrag/2026/07/radsport-45-oderrundfahrt-niederlaendischer-dreifach-triumph.html",
       "date": "Sun, 12 Jul 2026 20:23:16 +0200"
@@ -54,11 +59,6 @@
       "title": "Kolumne: Was war das denn? - Lost in Google Maps",
       "link": "https://www.rbb24.de/panorama/thema/was-war-das-denn/kolumne-google-maps-karte-orientierung.html",
       "date": "Sun, 12 Jul 2026 16:20:00 +0200"
-    },
-    {
-      "title": "Sprach Wegner während Stromausfall mit Merz? Dissens um Telefonat",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/07/berlin-regierender-buergermeister-wegner-telefonat-kanzleramt-merz-stromausfall.html",
-      "date": "Sun, 12 Jul 2026 15:41:00 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Berlin: Einhub-Arbeiten an der Ringbahnbrücke noch am späten Sonntagabend",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/kran-autobahn-bruecke-teile-bauarbeiten-sperrung-ringbahn-feuerw.html",
+      "date": "Sun, 12 Jul 2026 21:32:30 +0200"
+    },
+    {
       "title": "Berlin-Marienfelde: Richter verhängt Untersuchungshaft für mutmaßlichen Geiselnehmer",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/haftbefehl-berlin-geiselnahme-marienfelde-polizei-supermarkt.html",
       "date": "Sun, 12 Jul 2026 20:05:00 +0200"
@@ -181,11 +186,6 @@
       "title": "Mehrere Gewässer im Spreewald wegen Eichenprozessionsspinner gesperrt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/spreewald-eichenprozessionsspinner-einzelne-gewaesser-gesperrt.html",
       "date": "Sat, 11 Jul 2026 21:17:04 +0200"
-    },
-    {
-      "title": "Hunderte feiern CSD in Cottbus mit erhöhten Sicherheitsvorkehrungen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-cottbus-niederlausitz-pride-vielfalt.html",
-      "date": "Sat, 11 Jul 2026 19:46:00 +0200"
     }
   ]
 }
