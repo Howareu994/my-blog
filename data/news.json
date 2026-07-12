@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Sprach Wegner während Stromausfall mit Merz? Dissenz um Telefonat",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/07/berlin-regierender-buergermeister-wegner-telefonat-kanzleramt-merz-stromausfall.html",
+      "date": "Sun, 12 Jul 2026 13:30:05 +0200"
+    },
+    {
+      "title": "Cannabis-Kekse: Fünf Menschen in Berliner Klinik eingeliefert",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-marzahn-cannabis-kekse-fuenf-menschen-klinik.html",
+      "date": "Sun, 12 Jul 2026 12:48:24 +0200"
+    },
+    {
+      "title": "Zwei Radfahrerinnen bei Unfällen in Berlin schwerst verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-hellersdorf-friedrichshain-radfahrerin-unfaelle-verletzt.html",
+      "date": "Sun, 12 Jul 2026 12:27:00 +0200"
+    },
+    {
       "title": "Brandenburger Feuerwehr bekämpft größere Feldbrände - auch Waldbrandgefahr steigt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-feuerwehr-trockenheit-hitze-ernte-felder-waldbrand-gefahr.html",
       "date": "Sun, 12 Jul 2026 11:37:52 +0200"
@@ -18,7 +33,7 @@
     {
       "title": "Genossenschaft will in Südbrandenburg eigenen Strom produzieren",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/brandenburg-calau-vetschau-energiegenossenschaft-gegruendet.html",
-      "date": "Sun, 12 Jul 2026 10:27:07 +0200"
+      "date": "Sun, 12 Jul 2026 10:27:00 +0200"
     },
     {
       "title": "Geiselnahme in Berliner Supermarkt beendet - neue Details zum Täter",
@@ -44,24 +59,14 @@
       "title": "Rassismus-Eklat und Spielabbruch bei Test von Energie Cottbus gegen Halle",
       "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-2-liga-testspiel-energie-cottbus-hallescher-fc-rassismus-spielabbruch-king-manu.html",
       "date": "Sat, 11 Jul 2026 20:46:19 +0200"
-    },
-    {
-      "title": "Ein Freibad als Brennpunkt? Ein Ferientag im Berliner Columbiabad",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/07/sommerbad-neukoelln-columbiabad-freibad-berlin-gewalt-security-ferien.html",
-      "date": "Sat, 11 Jul 2026 20:42:00 +0200"
-    },
-    {
-      "title": "Hunderte feiern CSD in Cottbus mit erhöhten Sicherheitsvorkehrungen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-cottbus-niederlausitz-pride-vielfalt.html",
-      "date": "Sat, 11 Jul 2026 19:46:00 +0200"
-    },
-    {
-      "title": "Berlin-Wannsee: Schwerer Unfall im Strandbad - Rettungshubschrauber gelandet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-standbad-wannsee-unfall.html",
-      "date": "Sat, 11 Jul 2026 18:59:27 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Mit Schusswaffe bedroht - Festnahmen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692331.php",
+      "date": "Sun, 12 Jul 2026 13:40:23 +0200"
+    },
     {
       "title": "Fahrradfahrerin nach Verkehrsunfall erheblich verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692329.php",
@@ -116,17 +121,22 @@
       "title": "Moscheemauer mit Farbschmierereien beschädigt – Tatverdächtiger festgenommen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1691710.php",
       "date": "Thu, 09 Jul 2026 14:24:12 +0200"
-    },
-    {
-      "title": "Jugendliche E-Scooter-Fahrer verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1691705.php",
-      "date": "Thu, 09 Jul 2026 14:18:23 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Cannabis-Kekse: Fünf Menschen in Berliner Klinik eingeliefert",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-marzahn-cannabis-kekse-fuenf-menschen-klinik.html",
+      "date": "Sun, 12 Jul 2026 12:48:24 +0200"
+    },
+    {
+      "title": "Zwei Radfahrerinnen bei Unfällen in Berlin schwerst verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-hellersdorf-friedrichshain-radfahrerin-unfaelle-verletzt.html",
+      "date": "Sun, 12 Jul 2026 12:27:00 +0200"
+    },
     {
       "title": "Brandenburger Feuerwehr bekämpft größere Feldbrände - auch Waldbrandgefahr steigt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-feuerwehr-trockenheit-hitze-ernte-felder-waldbrand-gefahr.html",
@@ -176,16 +186,6 @@
       "title": "Video | Berlin: Debatte um zusätzliche Mauer vor der East Side Gallery entbrannt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/video-berlin-eastside-gallery-umbau.html",
       "date": "Sat, 11 Jul 2026 12:42:00 +0200"
-    },
-    {
-      "title": "Klimawandel zwingt Landwirte zu neuen Anbaustrategien",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-muencheberg-gramzow-klimawandel-neue-landwirtschaft-anbau-soja-mais-kichererbsen.html",
-      "date": "Sat, 11 Jul 2026 07:30:42 +0200"
-    },
-    {
-      "title": "Neues Gesetz nimmt bei E-Scooter-Unfällen Vermieter mit in die Haftung",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/e-scooter-roller-strengere-haftungsregeln-vermieter-unfall.html",
-      "date": "Fri, 10 Jul 2026 20:44:00 +0200"
     }
   ]
 }
