@@ -1,14 +1,19 @@
 {
   "traffic": [
     {
+      "title": "Sprach Wegner während Stromausfall mit Merz? Dissens um Telefonat",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/07/berlin-regierender-buergermeister-wegner-telefonat-kanzleramt-merz-stromausfall.html",
+      "date": "Sun, 12 Jul 2026 15:41:00 +0200"
+    },
+    {
+      "title": "Brand auf Industriegelände in Berlin-Grünau",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-gruenau-industriegelaende-brand-grauammerpfad.html",
+      "date": "Sun, 12 Jul 2026 15:10:14 +0200"
+    },
+    {
       "title": "150 Jahre Rudern in Berlin: Ein Gentlemen-Sport in der Hauptstadt",
       "link": "https://www.rbb24.de/sport/beitrag/2026/07/rudern-berlin-150-jahre-olympia-wannsee.html",
       "date": "Sun, 12 Jul 2026 14:32:22 +0200"
-    },
-    {
-      "title": "Sprach Wegner während Stromausfall mit Merz? Dissenz um Telefonat",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/07/berlin-regierender-buergermeister-wegner-telefonat-kanzleramt-merz-stromausfall.html",
-      "date": "Sun, 12 Jul 2026 13:30:05 +0200"
     },
     {
       "title": "Cannabis-Kekse: Fünf Menschen in Berliner Klinik eingeliefert",
@@ -54,14 +59,14 @@
       "title": "Neun Tote im Juni: DLRG warnt vor Gefahren an Seen und Flüssen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-dlrg-warnung-seen-fluesse-sommerferien.html",
       "date": "Sun, 12 Jul 2026 09:23:00 +0200"
-    },
-    {
-      "title": "Rassismus-Eklat und Spielabbruch bei Test von Energie Cottbus gegen Halle",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-2-liga-testspiel-energie-cottbus-hallescher-fc-rassismus-spielabbruch-king-manu.html",
-      "date": "Sat, 11 Jul 2026 20:46:19 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Verletzter nach Schussabgabe",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692338.php",
+      "date": "Sun, 12 Jul 2026 15:17:31 +0200"
+    },
     {
       "title": "Farbschmierereien an Fahrzeugen und Hausfassaden - Festnahme",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692332.php",
@@ -116,17 +121,22 @@
       "title": "Ermittlungen wegen queerfeindlichen Angriffs und Beleidigung",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692043.php",
       "date": "Fri, 10 Jul 2026 11:02:21 +0200"
-    },
-    {
-      "title": "Verkehrsunfall mit Rettungswagen bei Sonder- und Wegerechtsfahrt im Kreuzungsbereich",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1691725.php",
-      "date": "Thu, 09 Jul 2026 14:35:57 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Kolumne: Was war das denn? - Lost in Google Maps",
+      "link": "https://www.rbb24.de/panorama/thema/was-war-das-denn/kolumne-google-maps-karte-orientierung.html",
+      "date": "Sun, 12 Jul 2026 16:20:37 +0200"
+    },
+    {
+      "title": "Brand auf Industriegelände in Berlin-Grünau",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-gruenau-industriegelaende-brand-grauammerpfad.html",
+      "date": "Sun, 12 Jul 2026 15:10:14 +0200"
+    },
     {
       "title": "Cannabis-Kekse: Fünf Menschen in Berliner Klinik eingeliefert",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-marzahn-cannabis-kekse-fuenf-menschen-klinik.html",
@@ -176,16 +186,6 @@
       "title": "An der Tanke in Brandenburg: \"Auf Usedom war mir zu viel Tourismus\"",
       "link": "https://www.rbb24.de/panorama/thema/an-der-tanke/brandenburg-an-der-tanke-wurstwerk-verkaeuferin-usedom.html",
       "date": "Sat, 11 Jul 2026 17:28:08 +0200"
-    },
-    {
-      "title": "Berlin im Sommer: Angebote umsonst und (meistens) draußen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-sommerferien-unternehmungen-kostenlos-umsonst.html",
-      "date": "Sat, 11 Jul 2026 15:27:00 +0200"
-    },
-    {
-      "title": "Video | Berlin: Debatte um zusätzliche Mauer vor der East Side Gallery entbrannt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/video-berlin-eastside-gallery-umbau.html",
-      "date": "Sat, 11 Jul 2026 12:42:00 +0200"
     }
   ]
 }
