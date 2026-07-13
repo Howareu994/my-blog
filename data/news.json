@@ -1,6 +1,31 @@
 {
   "traffic": [
     {
+      "title": "Erneut Proteste gegen Rheinmetall mit Greta Thunberg",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/07/berlin-mitte-protest-rheinmetall-greta-thunberg.html",
+      "date": "Mon, 13 Jul 2026 13:42:41 +0200"
+    },
+    {
+      "title": "Maskierte stehlen Geldautomaten aus Späti in Berlin-Neukölln",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-polizei-diebe-spaeti-geldautomat.html",
+      "date": "Mon, 13 Jul 2026 13:39:08 +0200"
+    },
+    {
+      "title": "Kraftstoffversorgung: PCK Raffinerie Schwedt erhält über Polen Öl aus Südamerika",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/pck-oel-lieferung-polen-suedamerika-schwedt-raffinerie-tanker.html",
+      "date": "Mon, 13 Jul 2026 12:57:39 +0200"
+    },
+    {
+      "title": "Berlin-Marienfelde: Richter verhängt Untersuchungshaft für mutmaßlichen Geiselnehmer",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/haftbefehl-berlin-geiselnahme-marienfelde-polizei-supermarkt.html",
+      "date": "Mon, 13 Jul 2026 12:06:31 +0200"
+    },
+    {
+      "title": "Lausitz: Teilnahmerekord beim Sorbisch Intensivkurs in Cottbus",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/07/brandenburg-cottbus-intensivkurs-sorbisch-erwachsene-teilnahme-rekord.html",
+      "date": "Mon, 13 Jul 2026 11:55:32 +0200"
+    },
+    {
       "title": "Hochsommer mit leichtem Gewitterrisiko in Berlin und Brandenburg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/Sommer-Berlin-Brandenburg-Gewitter-moeglich.html",
       "date": "Mon, 13 Jul 2026 10:05:01 +0200"
@@ -21,11 +46,6 @@
       "date": "Sun, 12 Jul 2026 20:23:16 +0200"
     },
     {
-      "title": "Berlin-Marienfelde: Richter verhängt Untersuchungshaft für mutmaßlichen Geiselnehmer",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/haftbefehl-berlin-geiselnahme-marienfelde-polizei-supermarkt.html",
-      "date": "Sun, 12 Jul 2026 20:05:00 +0200"
-    },
-    {
       "title": "Saisoneröffnung bei Hertha BSC: Das Warten geht weiter",
       "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-hertha-bsc-saisoneroeffnung-2-bundesliga-fans-transfers-trainingslager.html",
       "date": "Sun, 12 Jul 2026 19:03:28 +0200"
@@ -39,113 +59,37 @@
       "title": "Brandenburger Feuerwehr bekämpft größere Feldbrände - auch Waldbrandgefahr steigt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-feuerwehr-trockenheit-hitze-ernte-felder-waldbrand-gefahr.html",
       "date": "Sun, 12 Jul 2026 18:39:50 +0200"
-    },
-    {
-      "title": "Wasserentnahmeverbote im Havelland ab Montag",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-havelland-wasserentnahme-verbot-knappheit-trockenheit.html",
-      "date": "Sun, 12 Jul 2026 17:55:55 +0200"
-    },
-    {
-      "title": "Neun Badetote im Juni: DLRG warnt vor Gefahren an Seen und Flüssen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-dlrg-warnung-seen-fluesse-sommerferien.html",
-      "date": "Sun, 12 Jul 2026 17:15:26 +0200"
-    },
-    {
-      "title": "Geiselnahme in Berliner Supermarkt beendet - neue Details zum Täter",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-geiselnahme-marienfelde-polizei-supermarkt.html",
-      "date": "Sun, 12 Jul 2026 16:55:46 +0200"
-    },
-    {
-      "title": "Brand auf Industriegelände in Berlin-Grünau",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-gruenau-industriegelaende-brand-grauammerpfad.html",
-      "date": "Sun, 12 Jul 2026 16:28:29 +0200"
     }
   ],
-  "police": [
-    {
-      "title": "Verdacht des erpresserischen Menschenraubes im Supermarkt - Untersuchungshaft",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692401.php",
-      "date": "Mon, 13 Jul 2026 09:19:26 +0200"
-    },
-    {
-      "title": "Verletzter nach Schussabgabe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692338.php",
-      "date": "Sun, 12 Jul 2026 15:17:31 +0200"
-    },
-    {
-      "title": "Farbschmierereien an Fahrzeugen und Hausfassaden - Festnahme",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692332.php",
-      "date": "Sun, 12 Jul 2026 14:01:47 +0200"
-    },
-    {
-      "title": "Mit Schusswaffe bedroht - Festnahmen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692331.php",
-      "date": "Sun, 12 Jul 2026 13:40:23 +0200"
-    },
-    {
-      "title": "Fahrradfahrerin nach Verkehrsunfall erheblich verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692329.php",
-      "date": "Sun, 12 Jul 2026 12:15:29 +0200"
-    },
-    {
-      "title": "Scharfe Schusswaffe bei Personenüberprüfung im Hosenbund gefunden – Haftbefehl erlassen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692328.php",
-      "date": "Sun, 12 Jul 2026 11:07:13 +0200"
-    },
-    {
-      "title": "E-Scooter-Fahrer und unerlaubt mitfahrende Sozia bei Verkehrsunfall verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692319.php",
-      "date": "Sat, 11 Jul 2026 14:52:00 +0200"
-    },
-    {
-      "title": "Kind bei Zusammenstoß mit Radfahrer verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692318.php",
-      "date": "Sat, 11 Jul 2026 14:49:37 +0200"
-    },
-    {
-      "title": "Senior in Kleingartenanlage überfallen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692316.php",
-      "date": "Sat, 11 Jul 2026 14:10:00 +0200"
-    },
-    {
-      "title": "Streit eskaliert – Angriff mit Schlagring auf jungen Mann",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692314.php",
-      "date": "Sat, 11 Jul 2026 13:55:00 +0200"
-    },
-    {
-      "title": "Unbekannte greifen Parkbesucher an",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692313.php",
-      "date": "Sat, 11 Jul 2026 13:52:32 +0200"
-    },
-    {
-      "title": "Radfahrerin nach Verkehrsunfall mit Sattelzugmaschine notoperiert",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692312.php",
-      "date": "Sat, 11 Jul 2026 12:44:02 +0200"
-    }
-  ],
+  "police": [],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Maskierte stehlen Geldautomaten aus Späti in Berlin-Neukölln",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-polizei-diebe-spaeti-geldautomat.html",
+      "date": "Mon, 13 Jul 2026 13:39:08 +0200"
+    },
+    {
+      "title": "Hautkrebs-Screening: \"Bezahlt uns doch einfach wie Handwerker\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-hautarzt-krebs-screening-vorsorge-beschraenkung-interview.html",
+      "date": "Mon, 13 Jul 2026 12:08:46 +0200"
+    },
+    {
+      "title": "Berlin-Marienfelde: Richter verhängt Untersuchungshaft für mutmaßlichen Geiselnehmer",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/haftbefehl-berlin-geiselnahme-marienfelde-polizei-supermarkt.html",
+      "date": "Mon, 13 Jul 2026 12:06:31 +0200"
+    },
     {
       "title": "Hochsommer mit leichtem Gewitterrisiko in Berlin und Brandenburg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/Sommer-Berlin-Brandenburg-Gewitter-moeglich.html",
       "date": "Mon, 13 Jul 2026 10:05:01 +0200"
     },
     {
-      "title": "Hautkrebs-Screening: \"Bezahlt uns doch einfach wie Handwerker\"",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-hautarzt-krebs-screening-vorsorge-beschraenkung-interview.html",
-      "date": "Mon, 13 Jul 2026 08:41:50 +0200"
-    },
-    {
       "title": "Brückenneubau: Ringbahn fährt im Westen Berlins wieder durch",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/kran-autobahn-bruecke-teile-bauarbeiten-sperrung-ringbahn-feuerw.html",
       "date": "Mon, 13 Jul 2026 07:37:02 +0200"
-    },
-    {
-      "title": "Berlin-Marienfelde: Richter verhängt Untersuchungshaft für mutmaßlichen Geiselnehmer",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/haftbefehl-berlin-geiselnahme-marienfelde-polizei-supermarkt.html",
-      "date": "Sun, 12 Jul 2026 20:05:00 +0200"
     },
     {
       "title": "Brandenburger Feuerwehr bekämpft größere Feldbrände - auch Waldbrandgefahr steigt",
@@ -181,11 +125,6 @@
       "title": "Cannabis-Kekse: Fünf Menschen in Berliner Klinik eingeliefert",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-marzahn-cannabis-kekse-fuenf-menschen-klinik.html",
       "date": "Sun, 12 Jul 2026 12:48:24 +0200"
-    },
-    {
-      "title": "Zwei Radfahrerinnen bei Unfällen in Berlin schwerst verletzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-hellersdorf-friedrichshain-radfahrerin-unfaelle-verletzt.html",
-      "date": "Sun, 12 Jul 2026 12:27:00 +0200"
     }
   ]
 }
