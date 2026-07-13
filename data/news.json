@@ -1,9 +1,19 @@
 {
   "traffic": [
     {
+      "title": "Hochsommer mit leichtem Gewitterrisiko in Berlin und Brandenburg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/Sommer-Berlin-Brandenburg-Gewitter-moeglich.html",
+      "date": "Mon, 13 Jul 2026 10:05:01 +0200"
+    },
+    {
+      "title": "Pet Shop Boys in Berlin: B-Seiten entfalten den größeren Zauber",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/07/pet-shop-boys-konzerte-berlin-waldbuehne-huxleys.html",
+      "date": "Mon, 13 Jul 2026 09:40:00 +0200"
+    },
+    {
       "title": "Brückenneubau: Ringbahn fährt im Westen Berlins wieder durch",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/kran-autobahn-bruecke-teile-bauarbeiten-sperrung-ringbahn-feuerw.html",
-      "date": "Mon, 13 Jul 2026 06:35:00 +0200"
+      "date": "Mon, 13 Jul 2026 07:37:02 +0200"
     },
     {
       "title": "Radsport: Niederländischer Dreifach-Triumph bei der Oderrundfahrt",
@@ -49,19 +59,14 @@
       "title": "Brand auf Industriegelände in Berlin-Grünau",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-gruenau-industriegelaende-brand-grauammerpfad.html",
       "date": "Sun, 12 Jul 2026 16:28:29 +0200"
-    },
-    {
-      "title": "Rassismus-Eklat und Spielabbruch bei Test von Energie Cottbus gegen Halle",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-2-liga-testspiel-energie-cottbus-hallescher-fc-rassismus-spielabbruch-king-manu.html",
-      "date": "Sun, 12 Jul 2026 16:24:06 +0200"
-    },
-    {
-      "title": "Kolumne: Was war das denn? - Lost in Google Maps",
-      "link": "https://www.rbb24.de/panorama/thema/was-war-das-denn/kolumne-google-maps-karte-orientierung.html",
-      "date": "Sun, 12 Jul 2026 16:20:00 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Verdacht des erpresserischen Menschenraubes im Supermarkt - Untersuchungshaft",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692401.php",
+      "date": "Mon, 13 Jul 2026 09:19:26 +0200"
+    },
     {
       "title": "Verletzter nach Schussabgabe",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692338.php",
@@ -116,11 +121,6 @@
       "title": "Radfahrerin nach Verkehrsunfall mit Sattelzugmaschine notoperiert",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692312.php",
       "date": "Sat, 11 Jul 2026 12:44:02 +0200"
-    },
-    {
-      "title": "Ermittlungen wegen queerfeindlichen Angriffs und Beleidigung",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692043.php",
-      "date": "Fri, 10 Jul 2026 11:02:21 +0200"
     }
   ],
   "free_events": [],
@@ -128,14 +128,19 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Hochsommer mit leichtem Gewitterrisiko in Berlin und Brandenburg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/Sommer-Berlin-Brandenburg-Gewitter-moeglich.html",
+      "date": "Mon, 13 Jul 2026 10:05:01 +0200"
+    },
+    {
       "title": "Hautkrebs-Screening: \"Bezahlt uns doch einfach wie Handwerker\"",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-hautarzt-krebs-screening-vorsorge-beschraenkung-interview.html",
-      "date": "Mon, 13 Jul 2026 06:37:57 +0200"
+      "date": "Mon, 13 Jul 2026 08:41:50 +0200"
     },
     {
       "title": "Brückenneubau: Ringbahn fährt im Westen Berlins wieder durch",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/kran-autobahn-bruecke-teile-bauarbeiten-sperrung-ringbahn-feuerw.html",
-      "date": "Mon, 13 Jul 2026 06:35:00 +0200"
+      "date": "Mon, 13 Jul 2026 07:37:02 +0200"
     },
     {
       "title": "Berlin-Marienfelde: Richter verhängt Untersuchungshaft für mutmaßlichen Geiselnehmer",
@@ -181,11 +186,6 @@
       "title": "Zwei Radfahrerinnen bei Unfällen in Berlin schwerst verletzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-hellersdorf-friedrichshain-radfahrerin-unfaelle-verletzt.html",
       "date": "Sun, 12 Jul 2026 12:27:00 +0200"
-    },
-    {
-      "title": "Coli-Bakterien: Abkochgebot für Trinkwasser in Buckow angeordnet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/abkochgebot-trinkwasser-in-buckow-maerkisch-oderland.html",
-      "date": "Sun, 12 Jul 2026 11:23:36 +0200"
     }
   ]
 }
