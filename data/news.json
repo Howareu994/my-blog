@@ -3,12 +3,27 @@
     {
       "title": "Schwere IT-Störung bei der Berliner Justiz",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-richter-digitalisierung-stoerung-it-justiz.html",
-      "date": "Mon, 13 Jul 2026 19:07:03 +0200"
+      "date": "Mon, 13 Jul 2026 20:43:05 +0200"
     },
     {
       "title": "Stefan Evers zum neuen Spitzenkandidaten der Berliner CDU gewählt",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/cdu-landesverband-stefan-evers-spitzenkandidat-kuer.html",
-      "date": "Mon, 13 Jul 2026 18:47:10 +0200"
+      "date": "Mon, 13 Jul 2026 20:17:31 +0200"
+    },
+    {
+      "title": "BVG feiert Spatenstich für Neubau des Waisentunnels nach acht Jahren Sperrung",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/berlin-bvg-verkehr-waisentunnel-neubau-ubahn.html",
+      "date": "Mon, 13 Jul 2026 20:00:20 +0200"
+    },
+    {
+      "title": "Geothermie: Warmes Wasser einen Kilometer unter Potsdam",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/brandenburg-potsdam-geothermie-waermeversorgung.html",
+      "date": "Mon, 13 Jul 2026 19:57:12 +0200"
+    },
+    {
+      "title": "Prignitz: Deutscher Wetterdienst warnt vor schwerem Gewitter mit Hagel",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/Sommer-Berlin-Brandenburg-Gewitter-moeglich.html",
+      "date": "Mon, 13 Jul 2026 19:52:46 +0200"
     },
     {
       "title": "Gericht: BVG muss \"Nius\"-Werbekampagne fortsetzen - und legt Beschwerde ein",
@@ -19,11 +34,6 @@
       "title": "Diskussion um Leerfahrten: Doch keine Gebühren für Rettungsdienst in Märkisch-Oderland",
       "link": "https://www.rbb24.de/politik/beitrag/2026/07/rettungsdienst-leerfahrten-gebuehren-maerkischoderland-brandenburg-.html",
       "date": "Mon, 13 Jul 2026 17:58:32 +0200"
-    },
-    {
-      "title": "Geothermie: Warmes Wasser einen Kilometer unter Potsdam",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/brandenburg-potsdam-geothermie-waermeversorgung.html",
-      "date": "Mon, 13 Jul 2026 17:38:09 +0200"
     },
     {
       "title": "Brand am Truppenübungsplatz Jüterbog-West: Warnung vor Rauch",
@@ -49,16 +59,6 @@
       "title": "Einzelhandel-Arbeitgeber legen Tarifrunde in fünf Bundesländern auf Eis",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/berlin-brandenburg-tarifverhandlungen-handel-arbeitgeber.html",
       "date": "Mon, 13 Jul 2026 16:15:34 +0200"
-    },
-    {
-      "title": "Live: rbb24 spezial zum Wahlkampf in Berlin mit Spitzenpolitiker:innen",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/rbb24-spezial-startschuss-berliner-wahlkampf-kandidaten.html",
-      "date": "Mon, 13 Jul 2026 15:53:00 +0200"
-    },
-    {
-      "title": "Kranarbeiten an A100 abgeschlossen - Ringbahn fährt im Westen wieder durch",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/kran-autobahn-bruecke-teile-bauarbeiten-sperrung-ringbahn-feuerw.html",
-      "date": "Mon, 13 Jul 2026 15:50:48 +0200"
     }
   ],
   "police": [
@@ -130,7 +130,12 @@
     {
       "title": "Schwere IT-Störung bei der Berliner Justiz",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-richter-digitalisierung-stoerung-it-justiz.html",
-      "date": "Mon, 13 Jul 2026 19:07:03 +0200"
+      "date": "Mon, 13 Jul 2026 20:43:05 +0200"
+    },
+    {
+      "title": "Prignitz: Deutscher Wetterdienst warnt vor schwerem Gewitter mit Hagel",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/Sommer-Berlin-Brandenburg-Gewitter-moeglich.html",
+      "date": "Mon, 13 Jul 2026 19:52:46 +0200"
     },
     {
       "title": "Gericht: BVG muss \"Nius\"-Werbekampagne fortsetzen - und legt Beschwerde ein",
@@ -181,11 +186,6 @@
       "title": "Berlin-Marienfelde: Mutmaßlicher Täter schweigt zu Geiselnahme in Berlin",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/haftbefehl-berlin-geiselnahme-marienfelde-polizei-supermarkt.html",
       "date": "Mon, 13 Jul 2026 14:06:55 +0200"
-    },
-    {
-      "title": "Maskierte stehlen Geldautomaten aus Späti in Berlin-Neukölln",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-polizei-diebe-spaeti-geldautomat.html",
-      "date": "Mon, 13 Jul 2026 13:39:08 +0200"
     }
   ]
 }
