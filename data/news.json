@@ -1,19 +1,54 @@
 {
   "traffic": [
     {
-      "title": "Stefan Evers zum neuen Spitzenkandidaten der Berliner CDU gewählt",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/cdu-landesverband-stefan-evers-spitzenkandidat-kuer.html",
-      "date": "Tue, 14 Jul 2026 08:28:57 +0200"
+      "title": "Sieben Verletzte nach Unfall auf A15",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/verletzte-unfall-autobahn-15.html",
+      "date": "Tue, 14 Jul 2026 11:39:28 +0200"
     },
     {
-      "title": "Wie ist Brandenburg beim Hochwasserschutz aufgestellt?",
+      "title": "Berliner soll bewusstlose Frauen vergewaltigt und gefilmt haben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-anklage-68-jaehriger-frauen-vergewaltigt-gefilmt-schlafmittel-alkohol.html",
+      "date": "Tue, 14 Jul 2026 11:37:00 +0200"
+    },
+    {
+      "title": "Oberspreewald-Lausitz erneuert Schutz gegen Afrikanische Schweinepest",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/afrikanische-schweinepest-schutz-oberspreewald-lausitz.html",
+      "date": "Tue, 14 Jul 2026 11:10:59 +0200"
+    },
+    {
+      "title": "Gericht: BVG muss \"Nius\"-Werbekampagne fortsetzen - und legt Beschwerde ein",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-verwaltungsgericht-beschluss-nius-werbekampagne-bvg-fortsetzung.html",
+      "date": "Tue, 14 Jul 2026 11:04:17 +0200"
+    },
+    {
+      "title": "Brandenburg: \"Hochwasser-Risiko geschaffen, indem wir Auen bebaut haben\"",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/hochwasserschutz-brandenburg-jahrestag-ahrtal-flut.html",
-      "date": "Tue, 14 Jul 2026 07:05:57 +0200"
+      "date": "Tue, 14 Jul 2026 10:41:52 +0200"
+    },
+    {
+      "title": "Wetter in Berlin und Brandenburg: Gewitter und Starkregen erwartet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/Sommer-Berlin-Brandenburg-Gewitter-moeglich.html",
+      "date": "Tue, 14 Jul 2026 10:23:01 +0200"
+    },
+    {
+      "title": "Schwere IT-Störung bei der Berliner Justiz",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-richter-digitalisierung-stoerung-it-justiz.html",
+      "date": "Tue, 14 Jul 2026 10:12:12 +0200"
+    },
+    {
+      "title": "Mehrere Brandenburger Kreise verbieten die Wasserentnahme",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-havelland-wasserentnahme-verbot-knappheit-trockenheit.html",
+      "date": "Tue, 14 Jul 2026 10:06:30 +0200"
     },
     {
       "title": "Brand am Truppenübungsplatz Jüterbog-West weitgehend unter Kontrolle",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-jueterbog-waldbrand-gefahrenmeldung.html",
-      "date": "Tue, 14 Jul 2026 06:49:27 +0200"
+      "date": "Tue, 14 Jul 2026 09:19:45 +0200"
+    },
+    {
+      "title": "Stefan Evers zum neuen Spitzenkandidaten der Berliner CDU gewählt",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/cdu-landesverband-stefan-evers-spitzenkandidat-kuer.html",
+      "date": "Tue, 14 Jul 2026 08:28:57 +0200"
     },
     {
       "title": "Berliner Staatsanwalt: \"Risiko, entdeckt zu werden, ist nicht besonders groß\"",
@@ -24,44 +59,14 @@
       "title": "Organisierte Wirtschaftskriminalität: Gewerbeüberwachung in Berlin: Geringes Risiko für Täter",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/berlin-gewerbe-ueberwachung-organisierte-kriminalitaet-kontrollen-probleme.html",
       "date": "Tue, 14 Jul 2026 06:10:00 +0200"
-    },
-    {
-      "title": "Gas auf Klinikgelände in Zehlendorf ausgetreten",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/gas-austritt-berlin-zehlendorf-krankenhaus-feuerwehr.html",
-      "date": "Mon, 13 Jul 2026 22:18:30 +0200"
-    },
-    {
-      "title": "rbb spezial: \"Startschuss in den Wahlkampf\" zum nachschauen",
-      "link": "https://www.rbb24.de/politik/wahl/abgeordnetenhaus/agh-2026/beitraege/rbb-spezial-startschuss-fuer-berliner-wahlkampf.html",
-      "date": "Mon, 13 Jul 2026 21:13:32 +0200"
-    },
-    {
-      "title": "Schwere IT-Störung bei der Berliner Justiz",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-richter-digitalisierung-stoerung-it-justiz.html",
-      "date": "Mon, 13 Jul 2026 20:43:05 +0200"
-    },
-    {
-      "title": "BVG feiert Spatenstich für Neubau des Waisentunnels nach acht Jahren Sperrung",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/berlin-bvg-verkehr-waisentunnel-neubau-ubahn.html",
-      "date": "Mon, 13 Jul 2026 20:00:20 +0200"
-    },
-    {
-      "title": "Geothermie: Warmes Wasser einen Kilometer unter Potsdam",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/brandenburg-potsdam-geothermie-waermeversorgung.html",
-      "date": "Mon, 13 Jul 2026 19:57:12 +0200"
-    },
-    {
-      "title": "Prignitz: Deutscher Wetterdienst warnt vor schwerem Gewitter mit Hagel",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/Sommer-Berlin-Brandenburg-Gewitter-moeglich.html",
-      "date": "Mon, 13 Jul 2026 19:52:46 +0200"
-    },
-    {
-      "title": "Gericht: BVG muss \"Nius\"-Werbekampagne fortsetzen - und legt Beschwerde ein",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-verwaltungsgericht-beschluss-nius-werbekampagne-bvg-fortsetzung.html",
-      "date": "Mon, 13 Jul 2026 18:16:01 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Autofahrer fährt Radfahrer an",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692936.php",
+      "date": "Tue, 14 Jul 2026 09:44:30 +0200"
+    },
     {
       "title": "Autofahrer bei Verkehrsunfall verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692784.php",
@@ -116,11 +121,6 @@
       "title": "Fahrradfahrerin nach Verkehrsunfall erheblich verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692329.php",
       "date": "Sun, 12 Jul 2026 12:15:29 +0200"
-    },
-    {
-      "title": "Scharfe Schusswaffe bei Personenüberprüfung im Hosenbund gefunden – Haftbefehl erlassen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692328.php",
-      "date": "Sun, 12 Jul 2026 11:07:13 +0200"
     }
   ],
   "free_events": [],
@@ -128,14 +128,54 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Wie ist Brandenburg beim Hochwasserschutz aufgestellt?",
+      "title": "Sieben Verletzte nach Unfall auf A15",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/verletzte-unfall-autobahn-15.html",
+      "date": "Tue, 14 Jul 2026 11:39:28 +0200"
+    },
+    {
+      "title": "Berliner soll bewusstlose Frauen vergewaltigt und gefilmt haben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-anklage-68-jaehriger-frauen-vergewaltigt-gefilmt-schlafmittel-alkohol.html",
+      "date": "Tue, 14 Jul 2026 11:37:00 +0200"
+    },
+    {
+      "title": "Oberspreewald-Lausitz erneuert Schutz gegen Afrikanische Schweinepest",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/afrikanische-schweinepest-schutz-oberspreewald-lausitz.html",
+      "date": "Tue, 14 Jul 2026 11:10:59 +0200"
+    },
+    {
+      "title": "Gericht: BVG muss \"Nius\"-Werbekampagne fortsetzen - und legt Beschwerde ein",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-verwaltungsgericht-beschluss-nius-werbekampagne-bvg-fortsetzung.html",
+      "date": "Tue, 14 Jul 2026 11:04:17 +0200"
+    },
+    {
+      "title": "Brandenburg: \"Hochwasser-Risiko geschaffen, indem wir Auen bebaut haben\"",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/hochwasserschutz-brandenburg-jahrestag-ahrtal-flut.html",
-      "date": "Tue, 14 Jul 2026 07:05:57 +0200"
+      "date": "Tue, 14 Jul 2026 10:41:52 +0200"
+    },
+    {
+      "title": "Wetter in Berlin und Brandenburg: Gewitter und Starkregen erwartet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/Sommer-Berlin-Brandenburg-Gewitter-moeglich.html",
+      "date": "Tue, 14 Jul 2026 10:23:01 +0200"
+    },
+    {
+      "title": "Schwere IT-Störung bei der Berliner Justiz",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-richter-digitalisierung-stoerung-it-justiz.html",
+      "date": "Tue, 14 Jul 2026 10:12:12 +0200"
+    },
+    {
+      "title": "Mehrere Brandenburger Kreise verbieten die Wasserentnahme",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-havelland-wasserentnahme-verbot-knappheit-trockenheit.html",
+      "date": "Tue, 14 Jul 2026 10:06:30 +0200"
+    },
+    {
+      "title": "Coli-Bakterien: Trinkwasser in Buckow muss abgekocht werden",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/abkochgebot-trinkwasser-in-buckow-maerkisch-oderland.html",
+      "date": "Tue, 14 Jul 2026 09:49:44 +0200"
     },
     {
       "title": "Brand am Truppenübungsplatz Jüterbog-West weitgehend unter Kontrolle",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-jueterbog-waldbrand-gefahrenmeldung.html",
-      "date": "Tue, 14 Jul 2026 06:49:27 +0200"
+      "date": "Tue, 14 Jul 2026 09:19:45 +0200"
     },
     {
       "title": "Gas auf Klinikgelände in Zehlendorf ausgetreten",
@@ -143,49 +183,9 @@
       "date": "Mon, 13 Jul 2026 22:18:30 +0200"
     },
     {
-      "title": "Schwere IT-Störung bei der Berliner Justiz",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-richter-digitalisierung-stoerung-it-justiz.html",
-      "date": "Mon, 13 Jul 2026 20:43:05 +0200"
-    },
-    {
-      "title": "Prignitz: Deutscher Wetterdienst warnt vor schwerem Gewitter mit Hagel",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/Sommer-Berlin-Brandenburg-Gewitter-moeglich.html",
-      "date": "Mon, 13 Jul 2026 19:52:46 +0200"
-    },
-    {
-      "title": "Gericht: BVG muss \"Nius\"-Werbekampagne fortsetzen - und legt Beschwerde ein",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-verwaltungsgericht-beschluss-nius-werbekampagne-bvg-fortsetzung.html",
-      "date": "Mon, 13 Jul 2026 18:16:01 +0200"
-    },
-    {
       "title": "Gymnasiasten sollen intime Fotos von Mitschülerinnen gemacht haben",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/potsdam-fotos-gymnasium-polizei-ermittlungen.html",
       "date": "Mon, 13 Jul 2026 16:53:42 +0200"
-    },
-    {
-      "title": "Kranarbeiten an A100 abgeschlossen - Ringbahn fährt im Westen wieder durch",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/kran-autobahn-bruecke-teile-bauarbeiten-sperrung-ringbahn-feuerw.html",
-      "date": "Mon, 13 Jul 2026 15:50:48 +0200"
-    },
-    {
-      "title": "49-jähriger Motorradfahrer stirbt nach Kollision mit Auto bei Storkow (Oder-Spree)",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/unfall-motorrad-storkow-fahrer-gestorben-brandenburg-oderspree-auto-polizei.html",
-      "date": "Mon, 13 Jul 2026 15:50:44 +0200"
-    },
-    {
-      "title": "Wasserentnahmeverbote im Havelland ab Montag",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-havelland-wasserentnahme-verbot-knappheit-trockenheit.html",
-      "date": "Mon, 13 Jul 2026 15:26:31 +0200"
-    },
-    {
-      "title": "Mobile Landärztin soll Havelland versorgen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/havelland-friesack-landarzt-medizin-versorgung.html",
-      "date": "Mon, 13 Jul 2026 15:15:15 +0200"
-    },
-    {
-      "title": "Wittenberge: Zwei Männer nach Attacke in Untersuchungshaft",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/wittenberge-messerangriff-untersuchungshaft.html",
-      "date": "Mon, 13 Jul 2026 15:09:34 +0200"
     }
   ]
 }
