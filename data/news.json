@@ -1,14 +1,34 @@
 {
   "traffic": [
     {
+      "title": "Stefan Evers zum neuen Spitzenkandidaten der Berliner CDU gewählt",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/cdu-landesverband-stefan-evers-spitzenkandidat-kuer.html",
+      "date": "Tue, 14 Jul 2026 08:28:57 +0200"
+    },
+    {
+      "title": "Wie ist Brandenburg beim Hochwasserschutz aufgestellt?",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/hochwasserschutz-brandenburg-jahrestag-ahrtal-flut.html",
+      "date": "Tue, 14 Jul 2026 07:05:57 +0200"
+    },
+    {
+      "title": "Brand am Truppenübungsplatz Jüterbog-West weitgehend unter Kontrolle",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-jueterbog-waldbrand-gefahrenmeldung.html",
+      "date": "Tue, 14 Jul 2026 06:49:27 +0200"
+    },
+    {
+      "title": "Berliner Staatsanwalt: \"Risiko, entdeckt zu werden, ist nicht besonders groß\"",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/berlin-gewerbe-ueberwachung-staatsanwaltschaft-organisierte-kriminalitaet-heller-interview.html",
+      "date": "Tue, 14 Jul 2026 06:11:46 +0200"
+    },
+    {
+      "title": "Organisierte Wirtschaftskriminalität: Gewerbeüberwachung in Berlin: Geringes Risiko für Täter",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/berlin-gewerbe-ueberwachung-organisierte-kriminalitaet-kontrollen-probleme.html",
+      "date": "Tue, 14 Jul 2026 06:10:00 +0200"
+    },
+    {
       "title": "Gas auf Klinikgelände in Zehlendorf ausgetreten",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/gas-austritt-berlin-zehlendorf-krankenhaus-feuerwehr.html",
       "date": "Mon, 13 Jul 2026 22:18:30 +0200"
-    },
-    {
-      "title": "Stefan Evers zum neuen Spitzenkandidaten der Berliner CDU gewählt",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/cdu-landesverband-stefan-evers-spitzenkandidat-kuer.html",
-      "date": "Mon, 13 Jul 2026 21:29:43 +0200"
     },
     {
       "title": "rbb spezial: \"Startschuss in den Wahlkampf\" zum nachschauen",
@@ -39,26 +59,6 @@
       "title": "Gericht: BVG muss \"Nius\"-Werbekampagne fortsetzen - und legt Beschwerde ein",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-verwaltungsgericht-beschluss-nius-werbekampagne-bvg-fortsetzung.html",
       "date": "Mon, 13 Jul 2026 18:16:01 +0200"
-    },
-    {
-      "title": "Diskussion um Leerfahrten: Doch keine Gebühren für Rettungsdienst in Märkisch-Oderland",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/07/rettungsdienst-leerfahrten-gebuehren-maerkischoderland-brandenburg-.html",
-      "date": "Mon, 13 Jul 2026 17:58:32 +0200"
-    },
-    {
-      "title": "Brand am Truppenübungsplatz Jüterbog-West: Warnung vor Rauch",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-jueterbog-waldbrand-gefahrenmeldung.html",
-      "date": "Mon, 13 Jul 2026 17:38:01 +0200"
-    },
-    {
-      "title": "Ukraine-Tagebuch: “Das wird nicht für uns enden. Das wird für sie enden.”",
-      "link": "https://www.rbb24.de/politik/thema/Ukraine/beitraege/ukraine-tagebuch-russland-arzt-front-yefimkina.html",
-      "date": "Mon, 13 Jul 2026 17:07:00 +0200"
-    },
-    {
-      "title": "Kraftstoffversorgung: PCK Raffinerie Schwedt erhält über Polen Öl aus Südamerika",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/pck-oel-lieferung-polen-suedamerika-schwedt-raffinerie-tanker.html",
-      "date": "Mon, 13 Jul 2026 16:54:59 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,16 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Wie ist Brandenburg beim Hochwasserschutz aufgestellt?",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/hochwasserschutz-brandenburg-jahrestag-ahrtal-flut.html",
+      "date": "Tue, 14 Jul 2026 07:05:57 +0200"
+    },
+    {
+      "title": "Brand am Truppenübungsplatz Jüterbog-West weitgehend unter Kontrolle",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-jueterbog-waldbrand-gefahrenmeldung.html",
+      "date": "Tue, 14 Jul 2026 06:49:27 +0200"
+    },
+    {
       "title": "Gas auf Klinikgelände in Zehlendorf ausgetreten",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/gas-austritt-berlin-zehlendorf-krankenhaus-feuerwehr.html",
       "date": "Mon, 13 Jul 2026 22:18:30 +0200"
@@ -146,11 +156,6 @@
       "title": "Gericht: BVG muss \"Nius\"-Werbekampagne fortsetzen - und legt Beschwerde ein",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-verwaltungsgericht-beschluss-nius-werbekampagne-bvg-fortsetzung.html",
       "date": "Mon, 13 Jul 2026 18:16:01 +0200"
-    },
-    {
-      "title": "Brand am Truppenübungsplatz Jüterbog-West: Warnung vor Rauch",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-jueterbog-waldbrand-gefahrenmeldung.html",
-      "date": "Mon, 13 Jul 2026 17:38:01 +0200"
     },
     {
       "title": "Gymnasiasten sollen intime Fotos von Mitschülerinnen gemacht haben",
@@ -181,11 +186,6 @@
       "title": "Wittenberge: Zwei Männer nach Attacke in Untersuchungshaft",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/wittenberge-messerangriff-untersuchungshaft.html",
       "date": "Mon, 13 Jul 2026 15:09:34 +0200"
-    },
-    {
-      "title": "Coli-Bakterien: Trinkwasser in Buckow muss abgekocht werden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/abkochgebot-trinkwasser-in-buckow-maerkisch-oderland.html",
-      "date": "Mon, 13 Jul 2026 14:23:06 +0200"
     }
   ]
 }
