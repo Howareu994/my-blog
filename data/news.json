@@ -1,6 +1,26 @@
 {
   "traffic": [
     {
+      "title": "Drei Brüder nach tödlichen Schüssen in Berlin-Weißensee angeklagt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/anklage-schuesse-brueder-cousin-rache.html",
+      "date": "Wed, 15 Jul 2026 12:37:47 +0200"
+    },
+    {
+      "title": "Drogen-Razzia: Polizei und Zoll durchsuchen Lagerhalle in Ludwigsfelde",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-razzia-zoll-polizei-einsatz-ludwigsfelde.html",
+      "date": "Wed, 15 Jul 2026 12:27:01 +0200"
+    },
+    {
+      "title": "Japanischer Knöterich soll mit Stromschlägen bekämpft werden",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/rooterwave-verfahren-strom-impuls-pflanze-schutz.html",
+      "date": "Wed, 15 Jul 2026 12:11:22 +0200"
+    },
+    {
+      "title": "Mellowpark soll weltweit erste klimaneutrale BMX-Halle erhalten",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/mellowpark-skatepark-neue-bmx-halle-olympia-treptow-koepenick.html",
+      "date": "Wed, 15 Jul 2026 11:40:31 +0200"
+    },
+    {
       "title": "Barnim: Vermisster 20-Jähriger wird weiter im Werbellinsee gesucht",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/barnim-werbellinsee-altenhof-mann-nach-schwimmen-vermisst-tretboot-.html",
       "date": "Wed, 15 Jul 2026 11:37:49 +0200"
@@ -39,29 +59,19 @@
       "title": "Doekhi zu Lazio Rom: Ex-Unioner Verteidiger mit Italienern einig",
       "link": "https://www.rbb24.de/sport/beitrag/2026/07/ex-union-berlin-abwehrspieler-danilho-doekhi-lazio-rom.html",
       "date": "Tue, 14 Jul 2026 20:18:12 +0200"
-    },
-    {
-      "title": "Polizei Berlin bekommt neues Kriminaltechnisches Institut in Johannisthal",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/07/polizei-berlin-neues-kriminaltechnisches-institut-johannisthal.html",
-      "date": "Tue, 14 Jul 2026 19:45:16 +0200"
-    },
-    {
-      "title": "InnoBB 2035: Wie innovativ ist die Innovationsstrategie?",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/brandenburg-berlin-innovationsstrategie-wirtschaft-wissenschaft-hauptstadtregion-internationaler-wettbewerb.html",
-      "date": "Tue, 14 Jul 2026 18:55:32 +0200"
-    },
-    {
-      "title": "Neuartiger \"Grün-Feucht-Kühl-Index\" sieht Region unter Druck",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brandenburg-gruen-feucht-kuehl-index-econics-institut-niedrige-werte.html",
-      "date": "Tue, 14 Jul 2026 18:21:00 +0200"
-    },
-    {
-      "title": "Kinderschutzambulanz am Klinikum Frankfurt (Oder) eröffnet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/frankfurt-oder-kinderschutz-ambulanz-eroeffnet-Kinder-Gewalt.html",
-      "date": "Tue, 14 Jul 2026 17:52:40 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Vom Unfallort geflüchtet und weiteren Unfall verursacht",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1693949.php",
+      "date": "Wed, 15 Jul 2026 12:34:01 +0200"
+    },
+    {
+      "title": "E-Scooter-Fahrer nach Verkehrsunfall verstorben",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1693938.php",
+      "date": "Wed, 15 Jul 2026 12:22:47 +0200"
+    },
     {
       "title": "Letzter Tatverdächtiger nach Schüssen auf ein Wohnhaus festgenommen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1643062.php",
@@ -111,22 +121,27 @@
       "title": "Geldausgabeautomat aus Spätkauf entwendet",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692490.php",
       "date": "Mon, 13 Jul 2026 11:02:49 +0200"
-    },
-    {
-      "title": "Verdacht des erpresserischen Menschenraubes im Supermarkt - Untersuchungshaft",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692401.php",
-      "date": "Mon, 13 Jul 2026 09:19:26 +0200"
-    },
-    {
-      "title": "Verletzter nach Schussabgabe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692338.php",
-      "date": "Sun, 12 Jul 2026 15:17:31 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Drei Brüder nach tödlichen Schüssen in Berlin-Weißensee angeklagt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/anklage-schuesse-brueder-cousin-rache.html",
+      "date": "Wed, 15 Jul 2026 12:37:47 +0200"
+    },
+    {
+      "title": "Drogen-Razzia: Polizei und Zoll durchsuchen Lagerhalle in Ludwigsfelde",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-razzia-zoll-polizei-einsatz-ludwigsfelde.html",
+      "date": "Wed, 15 Jul 2026 12:27:01 +0200"
+    },
+    {
+      "title": "Japanischer Knöterich soll mit Stromschlägen bekämpft werden",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/rooterwave-verfahren-strom-impuls-pflanze-schutz.html",
+      "date": "Wed, 15 Jul 2026 12:11:22 +0200"
+    },
     {
       "title": "Barnim: Vermisster 20-Jähriger wird weiter im Werbellinsee gesucht",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/barnim-werbellinsee-altenhof-mann-nach-schwimmen-vermisst-tretboot-.html",
@@ -171,21 +186,6 @@
       "title": "Schwarzarbeit: Berliner Zoll nimmt fünf Verdächtige wegen Millionenbetrugs fest",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-justiz-zoll-haftbefehl-schwarzarbeit-reinigungsunternehmer.html",
       "date": "Tue, 14 Jul 2026 17:09:25 +0200"
-    },
-    {
-      "title": "Schüler bemalen Häuserfassade in Fürstenberg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/fuerstenberg-havel-ferien-projekt-hausfassade.html",
-      "date": "Tue, 14 Jul 2026 16:47:53 +0200"
-    },
-    {
-      "title": "Schöneiche: Unbekannte sprengen Geldautomat",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/oder-spree-schoeneiche-geldautomat-gesprengt-keine-beute.html",
-      "date": "Tue, 14 Jul 2026 15:45:33 +0200"
-    },
-    {
-      "title": "Helfer über Flut-Katastrophe: \"Wir sind mit 150 Bautrocknern ins Ahrtal gefahren\"",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/interview-helfer-ahrtal-brandenburg-sebastian-frenkel.html",
-      "date": "Tue, 14 Jul 2026 15:30:41 +0200"
     }
   ]
 }
