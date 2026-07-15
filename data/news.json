@@ -1,6 +1,26 @@
 {
   "traffic": [
     {
+      "title": "Razzia in Ludwigsfelde: Drogenlabor in Lagerhalle ausgehoben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-razzia-zoll-polizei-einsatz-ludwigsfelde.html",
+      "date": "Wed, 15 Jul 2026 20:50:24 +0200"
+    },
+    {
+      "title": "Italo im Fernverkehr: Brandenburg als Bremsklotz für die roten Flitzer?",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/brandenburg-bahn-konkurrent-italo-fernverkehr-debatte-crumbach.html",
+      "date": "Wed, 15 Jul 2026 20:30:05 +0200"
+    },
+    {
+      "title": "Fußball-Testspiel: Energie Cottbus unterliegt Mlada Boleslav",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-testspiele-vorbereitung-energie-cottbus-mlada-boleslav-rb-salzburg.html",
+      "date": "Wed, 15 Jul 2026 20:20:12 +0200"
+    },
+    {
+      "title": "Anstoßzeiten terminiert: Hertha wieder unter Flutlicht in Dresden",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-union-berlin-hertha-bsc-energie-cottbus-spielplan-bunde.html",
+      "date": "Wed, 15 Jul 2026 19:15:35 +0200"
+    },
+    {
       "title": "Basketball: Alba Berlin verpflichtet US-Amerikaner Brandon Angel",
       "link": "https://www.rbb24.de/sport/beitrag/2026/07/basketball-bundesliga-alba-berlin-neuzugang-us-amerikaner-brandon-angel.html",
       "date": "Wed, 15 Jul 2026 18:57:58 +0200"
@@ -8,17 +28,12 @@
     {
       "title": "Krankenhausreform: Brandenburger Geburtskliniken stehen unter wirtschaftlichem Druck",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/brandenburg-gesundheit-krankenhausreform-gesundheit-geburtskliniken-unter-druck.html",
-      "date": "Wed, 15 Jul 2026 18:31:03 +0200"
+      "date": "Wed, 15 Jul 2026 18:31:00 +0200"
     },
     {
       "title": "Vermisster 20-Jähriger wird weiter im Werbellinsee gesucht",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/barnim-werbellinsee-altenhof-mann-nach-schwimmen-vermisst-tretboot-.html",
       "date": "Wed, 15 Jul 2026 17:34:37 +0200"
-    },
-    {
-      "title": "Razzia in Ludwigsfelde: Drogenlabor in Lagerhalle ausgehoben",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-razzia-zoll-polizei-einsatz-ludwigsfelde.html",
-      "date": "Wed, 15 Jul 2026 17:28:50 +0200"
     },
     {
       "title": "Deutsche Bahn: Zugchef kauft Toilettenpapier - ICE legt Extra-Stopp ein",
@@ -36,45 +51,91 @@
       "date": "Wed, 15 Jul 2026 16:30:37 +0200"
     },
     {
-      "title": "Anstoßzeiten terminiert: Hertha wieder unter Flutlicht in Dresden",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-union-berlin-hertha-bsc-energie-cottbus-spielplan-bunde.html",
-      "date": "Wed, 15 Jul 2026 16:18:56 +0200"
+      "title": "Olympia-Aus der Nordischen Kombination schockt Bad Freienwalde",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/nordische-kombination-olympia-aus-brandenburg-bad-freienwalde.html",
+      "date": "Wed, 15 Jul 2026 16:16:25 +0200"
     },
     {
       "title": "Brandenburgs Verkehrsminister: Crumbach warnt vor Italo-Einstieg ins deutsche Fernbahngeschäft",
       "link": "https://www.rbb24.de/politik/beitrag/2026/07/italo-fernzuege-brandenburgs-verkehrsminister-robert-crumbach.html",
       "date": "Wed, 15 Jul 2026 16:16:03 +0200"
-    },
-    {
-      "title": "Bekämpfung des Riesenbärenklaus wird in der Uckermark getestet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/uckermark-riesenbaerenklau-pflanze-bekaempfung-gesundheit-gefahr.html",
-      "date": "Wed, 15 Jul 2026 16:13:39 +0200"
-    },
-    {
-      "title": "BR Volleys spielen in der Champions League gegen Galatasaray und Panathinaikos",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/07/volleyball-champions-league-br-volleys.html",
-      "date": "Wed, 15 Jul 2026 15:27:55 +0200"
-    },
-    {
-      "title": "Berlin und Brandenburg (Havel) nehmen Millionen mit Blitzern ein",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brandenburg-havel-blitzer-verstoesse-einnahmen-millionen.html",
-      "date": "Wed, 15 Jul 2026 14:49:03 +0200"
     }
   ],
-  "police": [],
+  "police": [
+    {
+      "title": "Mann durch Schussabgaben verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1694112.php",
+      "date": "Wed, 15 Jul 2026 15:14:27 +0200"
+    },
+    {
+      "title": "Vom Unfallort geflüchtet und weiteren Unfall verursacht",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1693949.php",
+      "date": "Wed, 15 Jul 2026 12:34:01 +0200"
+    },
+    {
+      "title": "E-Scooter-Fahrer nach Verkehrsunfall verstorben",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1693938.php",
+      "date": "Wed, 15 Jul 2026 12:22:47 +0200"
+    },
+    {
+      "title": "Letzter Tatverdächtiger nach Schüssen auf ein Wohnhaus festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1643062.php",
+      "date": "Tue, 14 Jul 2026 15:52:00 +0200"
+    },
+    {
+      "title": "Jugendlichen ins Gleisbett geschleudert – Öffentlichkeitsfahndung erledigt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2025/pressemitteilung.1534014.php",
+      "date": "Tue, 14 Jul 2026 13:12:00 +0200"
+    },
+    {
+      "title": "Alkoholisierter Kleintransporterfahrer ohne Fahrerlaubnis fährt gegen Motorrad",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1693106.php",
+      "date": "Tue, 14 Jul 2026 12:06:44 +0200"
+    },
+    {
+      "title": "Autofahrer fährt Radfahrer an",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692936.php",
+      "date": "Tue, 14 Jul 2026 09:44:30 +0200"
+    },
+    {
+      "title": "Autofahrer bei Verkehrsunfall verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692784.php",
+      "date": "Mon, 13 Jul 2026 15:26:06 +0200"
+    },
+    {
+      "title": "Überprüfung im Straßenverkehr führt zu Schusswaffenfund",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692777.php",
+      "date": "Mon, 13 Jul 2026 15:20:49 +0200"
+    },
+    {
+      "title": "Ausschreitungen in der Rigaer Straße – Strafermittlungsverfahren eingeleitet",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692768.php",
+      "date": "Mon, 13 Jul 2026 15:00:28 +0200"
+    },
+    {
+      "title": "Zwei mutmaßliche Drogendealer festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692732.php",
+      "date": "Mon, 13 Jul 2026 14:31:00 +0200"
+    },
+    {
+      "title": "Motorradfahrer nach Unfall verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692511.php",
+      "date": "Mon, 13 Jul 2026 11:30:20 +0200"
+    }
+  ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Razzia in Ludwigsfelde: Drogenlabor in Lagerhalle ausgehoben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-razzia-zoll-polizei-einsatz-ludwigsfelde.html",
+      "date": "Wed, 15 Jul 2026 20:50:24 +0200"
+    },
+    {
       "title": "Vermisster 20-Jähriger wird weiter im Werbellinsee gesucht",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/barnim-werbellinsee-altenhof-mann-nach-schwimmen-vermisst-tretboot-.html",
       "date": "Wed, 15 Jul 2026 17:34:37 +0200"
-    },
-    {
-      "title": "Razzia in Ludwigsfelde: Drogenlabor in Lagerhalle ausgehoben",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-razzia-zoll-polizei-einsatz-ludwigsfelde.html",
-      "date": "Wed, 15 Jul 2026 17:28:50 +0200"
     },
     {
       "title": "Deutsche Bahn: Zugchef kauft Toilettenpapier - ICE legt Extra-Stopp ein",
