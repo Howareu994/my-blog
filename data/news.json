@@ -1,14 +1,34 @@
 {
   "traffic": [
     {
+      "title": "Anstoßzeiten terminiert: Hertha wieder unter Flutlicht in Dresden",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-union-berlin-hertha-bsc-energie-cottbus-spielplan-bunde.html",
+      "date": "Wed, 15 Jul 2026 14:57:04 +0200"
+    },
+    {
+      "title": "Berlin und Brandenburg (Havel) nehmen Millionen mit Blitzern ein",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brandenburg-havel-blitzer-verstoesse-einnahmen-millionen.html",
+      "date": "Wed, 15 Jul 2026 14:49:03 +0200"
+    },
+    {
+      "title": "Razzia in Ludwigsfelde: Polizei und Zoll finden Drogenlabor in Lagerhalle in Ludwigsfelde",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-razzia-zoll-polizei-einsatz-ludwigsfelde.html",
+      "date": "Wed, 15 Jul 2026 14:43:48 +0200"
+    },
+    {
+      "title": "18-Jähriger erleidet schwerste Verletzungen auf Bahngelände",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-jueterbog-jugendlicher-gueterwaggon-bahn-gelaende-unfall.html",
+      "date": "Wed, 15 Jul 2026 14:39:22 +0200"
+    },
+    {
+      "title": "E-Scooter-Fahrer stirbt bei Unfall in Berlin-Kreuzberg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-kreuzberg-e-scooter-fahrer-stirbt-unfall-auto.html",
+      "date": "Wed, 15 Jul 2026 13:38:07 +0200"
+    },
+    {
       "title": "Drei Brüder nach tödlichen Schüssen in Berlin-Weißensee angeklagt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/anklage-schuesse-brueder-cousin-rache.html",
       "date": "Wed, 15 Jul 2026 12:37:47 +0200"
-    },
-    {
-      "title": "Drogen-Razzia: Polizei und Zoll durchsuchen Lagerhalle in Ludwigsfelde",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-razzia-zoll-polizei-einsatz-ludwigsfelde.html",
-      "date": "Wed, 15 Jul 2026 12:27:01 +0200"
     },
     {
       "title": "Japanischer Knöterich soll mit Stromschlägen bekämpft werden",
@@ -39,26 +59,6 @@
       "title": "Trinkwasser in 14 Prignitzer Orten wird kommende Nacht abgestellt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/prignitz-trinkwasser-sanierungsarbeiten.html",
       "date": "Wed, 15 Jul 2026 10:23:00 +0200"
-    },
-    {
-      "title": "Motorradfahrer im Oderbruch tot aufgefunden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-motoradfahrer-tot-unfall-oderbruch-maerkisch-oderland.html",
-      "date": "Wed, 15 Jul 2026 09:51:39 +0200"
-    },
-    {
-      "title": "Marillion in Berlin: Zuhören wie in der Oper",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/07/marillion-konzertkritik-tempodrom.html",
-      "date": "Wed, 15 Jul 2026 08:56:58 +0200"
-    },
-    {
-      "title": "E-Scooter-Fahrer stirbt bei Unfall in Berlin-Kreuzberg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-kreuzberg-e-scooter-fahrer-stirbt-unfall-auto.html",
-      "date": "Wed, 15 Jul 2026 07:50:13 +0200"
-    },
-    {
-      "title": "Doekhi zu Lazio Rom: Ex-Unioner Verteidiger mit Italienern einig",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/07/ex-union-berlin-abwehrspieler-danilho-doekhi-lazio-rom.html",
-      "date": "Tue, 14 Jul 2026 20:18:12 +0200"
     }
   ],
   "police": [
@@ -128,14 +128,29 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Berlin und Brandenburg (Havel) nehmen Millionen mit Blitzern ein",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brandenburg-havel-blitzer-verstoesse-einnahmen-millionen.html",
+      "date": "Wed, 15 Jul 2026 14:49:03 +0200"
+    },
+    {
+      "title": "Razzia in Ludwigsfelde: Polizei und Zoll finden Drogenlabor in Lagerhalle in Ludwigsfelde",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-razzia-zoll-polizei-einsatz-ludwigsfelde.html",
+      "date": "Wed, 15 Jul 2026 14:43:48 +0200"
+    },
+    {
+      "title": "18-Jähriger erleidet schwerste Verletzungen auf Bahngelände",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-jueterbog-jugendlicher-gueterwaggon-bahn-gelaende-unfall.html",
+      "date": "Wed, 15 Jul 2026 14:39:22 +0200"
+    },
+    {
+      "title": "E-Scooter-Fahrer stirbt bei Unfall in Berlin-Kreuzberg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-kreuzberg-e-scooter-fahrer-stirbt-unfall-auto.html",
+      "date": "Wed, 15 Jul 2026 13:38:07 +0200"
+    },
+    {
       "title": "Drei Brüder nach tödlichen Schüssen in Berlin-Weißensee angeklagt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/anklage-schuesse-brueder-cousin-rache.html",
       "date": "Wed, 15 Jul 2026 12:37:47 +0200"
-    },
-    {
-      "title": "Drogen-Razzia: Polizei und Zoll durchsuchen Lagerhalle in Ludwigsfelde",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-razzia-zoll-polizei-einsatz-ludwigsfelde.html",
-      "date": "Wed, 15 Jul 2026 12:27:01 +0200"
     },
     {
       "title": "Japanischer Knöterich soll mit Stromschlägen bekämpft werden",
@@ -163,11 +178,6 @@
       "date": "Wed, 15 Jul 2026 09:51:39 +0200"
     },
     {
-      "title": "E-Scooter-Fahrer stirbt bei Unfall in Berlin-Kreuzberg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-kreuzberg-e-scooter-fahrer-stirbt-unfall-auto.html",
-      "date": "Wed, 15 Jul 2026 07:50:13 +0200"
-    },
-    {
       "title": "Neuartiger \"Grün-Feucht-Kühl-Index\" sieht Region unter Druck",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brandenburg-gruen-feucht-kuehl-index-econics-institut-niedrige-werte.html",
       "date": "Tue, 14 Jul 2026 18:21:00 +0200"
@@ -176,16 +186,6 @@
       "title": "Kinderschutzambulanz am Klinikum Frankfurt (Oder) eröffnet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/frankfurt-oder-kinderschutz-ambulanz-eroeffnet-Kinder-Gewalt.html",
       "date": "Tue, 14 Jul 2026 17:52:40 +0200"
-    },
-    {
-      "title": "Am Späti in Berlin-Marienfelde: \"Ich wollte nicht im Dorf bleiben\"",
-      "link": "https://www.rbb24.de/panorama/thema/spaeti/berlin-marienfelde-am-spaeti-brandenburgerin-dorf.html",
-      "date": "Tue, 14 Jul 2026 17:19:16 +0200"
-    },
-    {
-      "title": "Schwarzarbeit: Berliner Zoll nimmt fünf Verdächtige wegen Millionenbetrugs fest",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-justiz-zoll-haftbefehl-schwarzarbeit-reinigungsunternehmer.html",
-      "date": "Tue, 14 Jul 2026 17:09:25 +0200"
     }
   ]
 }
