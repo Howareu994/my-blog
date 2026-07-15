@@ -1,9 +1,14 @@
 {
   "traffic": [
     {
+      "title": "Marillion in Berlin: Zuhören wie in der Oper",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/07/marillion-konzertkritik-tempodrom.html",
+      "date": "Wed, 15 Jul 2026 08:56:58 +0200"
+    },
+    {
       "title": "E-Scooter-Fahrer stirbt bei Unfall in Berlin-Kreuzberg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-kreuzberg-e-scooter-fahrer-stirbt-unfall-auto.html",
-      "date": "Wed, 15 Jul 2026 06:32:37 +0200"
+      "date": "Wed, 15 Jul 2026 07:50:13 +0200"
     },
     {
       "title": "Doekhi zu Lazio Rom: Ex-Unioner Verteidiger mit Italienern einig",
@@ -54,11 +59,6 @@
       "title": "Cottbuser Oberbürgermeister beanstandet Beschluss zu Gender-Sprachregelung",
       "link": "https://www.rbb24.de/politik/beitrag/2026/07/gender-regelung-verwaltung-cottbus-beanstandung-ober-buergermeister.html",
       "date": "Tue, 14 Jul 2026 17:05:46 +0200"
-    },
-    {
-      "title": "Schöneiche: Unbekannte sprengen Geldautomat",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/oder-spree-schoeneiche-geldautomat-gesprengt-keine-beute.html",
-      "date": "Tue, 14 Jul 2026 15:45:33 +0200"
     }
   ],
   "police": [
@@ -130,7 +130,7 @@
     {
       "title": "E-Scooter-Fahrer stirbt bei Unfall in Berlin-Kreuzberg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-kreuzberg-e-scooter-fahrer-stirbt-unfall-auto.html",
-      "date": "Wed, 15 Jul 2026 06:32:37 +0200"
+      "date": "Wed, 15 Jul 2026 07:50:13 +0200"
     },
     {
       "title": "Neuartiger \"Grün-Feucht-Kühl-Index\" sieht Region unter Druck",
