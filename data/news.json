@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "E-Scooter-Fahrer stirbt bei Unfall in Berlin-Kreuzberg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-kreuzberg-e-scooter-fahrer-stirbt-unfall-auto.html",
+      "date": "Wed, 15 Jul 2026 06:32:37 +0200"
+    },
+    {
       "title": "Doekhi zu Lazio Rom: Ex-Unioner Verteidiger mit Italienern einig",
       "link": "https://www.rbb24.de/sport/beitrag/2026/07/ex-union-berlin-abwehrspieler-danilho-doekhi-lazio-rom.html",
       "date": "Tue, 14 Jul 2026 20:18:12 +0200"
@@ -54,11 +59,6 @@
       "title": "Schöneiche: Unbekannte sprengen Geldautomat",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/oder-spree-schoeneiche-geldautomat-gesprengt-keine-beute.html",
       "date": "Tue, 14 Jul 2026 15:45:33 +0200"
-    },
-    {
-      "title": "Barnim: Vermisster Mann wird weiter im Werbellinsee gesucht",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/barnim-werbellinsee-altenhof-mann-nach-schwimmen-vermisst-tretboot-.html",
-      "date": "Tue, 14 Jul 2026 15:20:09 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "E-Scooter-Fahrer stirbt bei Unfall in Berlin-Kreuzberg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-kreuzberg-e-scooter-fahrer-stirbt-unfall-auto.html",
+      "date": "Wed, 15 Jul 2026 06:32:37 +0200"
+    },
+    {
       "title": "Neuartiger \"Grün-Feucht-Kühl-Index\" sieht Region unter Druck",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brandenburg-gruen-feucht-kuehl-index-econics-institut-niedrige-werte.html",
       "date": "Tue, 14 Jul 2026 18:21:00 +0200"
@@ -181,11 +186,6 @@
       "title": "Jugendlicher ins Gleisbett gestoßen: Polizei ermittelt nach rbb-Sendung Tatverdächtigen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-jugendlicher-in-gleisbett-gestossen-tatverdaechtiger-ermittelt.html",
       "date": "Tue, 14 Jul 2026 15:04:46 +0200"
-    },
-    {
-      "title": "Oberspreewald-Lausitz und Spree-Neiße erneuern Pufferzone gegen ASP",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/afrikanische-schweinepest-schutz-oberspreewald-lausitz.html",
-      "date": "Tue, 14 Jul 2026 13:56:47 +0200"
     }
   ]
 }
