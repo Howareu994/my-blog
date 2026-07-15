@@ -1,19 +1,44 @@
 {
   "traffic": [
     {
+      "title": "Jahrelange Haftstrafen für Paar nach versuchtem Mord in Cottbus",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-cottbus-versuchter-mord-paar-fleischklopfer-urteil.html",
+      "date": "Wed, 15 Jul 2026 16:56:07 +0200"
+    },
+    {
+      "title": "Partnerin an Weihnachten getötet: Mann aus Ludwigsfelde verurteilt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-ludwigsfelde-totschlag-partnerin-urteil-freiheitsstrafe.html",
+      "date": "Wed, 15 Jul 2026 16:30:37 +0200"
+    },
+    {
       "title": "Anstoßzeiten terminiert: Hertha wieder unter Flutlicht in Dresden",
       "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-union-berlin-hertha-bsc-energie-cottbus-spielplan-bunde.html",
-      "date": "Wed, 15 Jul 2026 14:57:04 +0200"
+      "date": "Wed, 15 Jul 2026 16:18:56 +0200"
+    },
+    {
+      "title": "Brandenburgs Verkehrsminister: Crumbach warnt vor Italo-Einstieg ins deutsche Fernbahngeschäft",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/07/italo-fernzuege-brandenburgs-verkehrsminister-robert-crumbach.html",
+      "date": "Wed, 15 Jul 2026 16:16:03 +0200"
+    },
+    {
+      "title": "Bekämpfung des Riesenbärenklaus wird in der Uckermark getestet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/uckermark-riesenbaerenklau-pflanze-bekaempfung-gesundheit-gefahr.html",
+      "date": "Wed, 15 Jul 2026 16:13:39 +0200"
+    },
+    {
+      "title": "Razzia in Ludwigsfelde: Drogenlabor in Lagerhalle ausgehoben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-razzia-zoll-polizei-einsatz-ludwigsfelde.html",
+      "date": "Wed, 15 Jul 2026 15:37:00 +0200"
+    },
+    {
+      "title": "BR Volleys spielen in der Champions League gegen Galatasaray und Panathinaikos",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/volleyball-champions-league-br-volleys.html",
+      "date": "Wed, 15 Jul 2026 15:27:55 +0200"
     },
     {
       "title": "Berlin und Brandenburg (Havel) nehmen Millionen mit Blitzern ein",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brandenburg-havel-blitzer-verstoesse-einnahmen-millionen.html",
       "date": "Wed, 15 Jul 2026 14:49:03 +0200"
-    },
-    {
-      "title": "Razzia in Ludwigsfelde: Polizei und Zoll finden Drogenlabor in Lagerhalle in Ludwigsfelde",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-razzia-zoll-polizei-einsatz-ludwigsfelde.html",
-      "date": "Wed, 15 Jul 2026 14:43:48 +0200"
     },
     {
       "title": "18-Jähriger erleidet schwerste Verletzungen auf Bahngelände",
@@ -34,34 +59,14 @@
       "title": "Japanischer Knöterich soll mit Stromschlägen bekämpft werden",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/rooterwave-verfahren-strom-impuls-pflanze-schutz.html",
       "date": "Wed, 15 Jul 2026 12:11:22 +0200"
-    },
-    {
-      "title": "Mellowpark soll weltweit erste klimaneutrale BMX-Halle erhalten",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/07/mellowpark-skatepark-neue-bmx-halle-olympia-treptow-koepenick.html",
-      "date": "Wed, 15 Jul 2026 11:40:31 +0200"
-    },
-    {
-      "title": "Barnim: Vermisster 20-Jähriger wird weiter im Werbellinsee gesucht",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/barnim-werbellinsee-altenhof-mann-nach-schwimmen-vermisst-tretboot-.html",
-      "date": "Wed, 15 Jul 2026 11:37:49 +0200"
-    },
-    {
-      "title": "Mehrere Brandenburger Kreise verbieten die Wasserentnahme",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-havelland-wasserentnahme-verbot-knappheit-trockenheit.html",
-      "date": "Wed, 15 Jul 2026 11:36:52 +0200"
-    },
-    {
-      "title": "XXL-Straßenbahn Urbanliner geht auf M4-Strecke in den Regelbetrieb",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/berlin-bvg-strassenbahn-m4-urbanliner-offizieller-start.html",
-      "date": "Wed, 15 Jul 2026 10:47:54 +0200"
-    },
-    {
-      "title": "Trinkwasser in 14 Prignitzer Orten wird kommende Nacht abgestellt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/prignitz-trinkwasser-sanierungsarbeiten.html",
-      "date": "Wed, 15 Jul 2026 10:23:00 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Mann durch Schussabgaben verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1694112.php",
+      "date": "Wed, 15 Jul 2026 15:14:27 +0200"
+    },
     {
       "title": "Vom Unfallort geflüchtet und weiteren Unfall verursacht",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1693949.php",
@@ -116,11 +121,6 @@
       "title": "Motorradfahrer nach Unfall verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692511.php",
       "date": "Mon, 13 Jul 2026 11:30:20 +0200"
-    },
-    {
-      "title": "Geldausgabeautomat aus Spätkauf entwendet",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692490.php",
-      "date": "Mon, 13 Jul 2026 11:02:49 +0200"
     }
   ],
   "free_events": [],
@@ -128,14 +128,34 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Deutsche Bahn: Zugchef kauft Toilettenpapier - ICE legt Extra-Stopp ein",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brandenburg-zugchef-kauft-toilettenpapier-ice-extrastopp.html",
+      "date": "Wed, 15 Jul 2026 17:18:00 +0200"
+    },
+    {
+      "title": "Jahrelange Haftstrafen für Paar nach versuchtem Mord in Cottbus",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-cottbus-versuchter-mord-paar-fleischklopfer-urteil.html",
+      "date": "Wed, 15 Jul 2026 16:56:07 +0200"
+    },
+    {
+      "title": "Partnerin an Weihnachten getötet: Mann aus Ludwigsfelde verurteilt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-ludwigsfelde-totschlag-partnerin-urteil-freiheitsstrafe.html",
+      "date": "Wed, 15 Jul 2026 16:30:37 +0200"
+    },
+    {
+      "title": "Bekämpfung des Riesenbärenklaus wird in der Uckermark getestet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/uckermark-riesenbaerenklau-pflanze-bekaempfung-gesundheit-gefahr.html",
+      "date": "Wed, 15 Jul 2026 16:13:39 +0200"
+    },
+    {
+      "title": "Razzia in Ludwigsfelde: Drogenlabor in Lagerhalle ausgehoben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-razzia-zoll-polizei-einsatz-ludwigsfelde.html",
+      "date": "Wed, 15 Jul 2026 15:37:00 +0200"
+    },
+    {
       "title": "Berlin und Brandenburg (Havel) nehmen Millionen mit Blitzern ein",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brandenburg-havel-blitzer-verstoesse-einnahmen-millionen.html",
       "date": "Wed, 15 Jul 2026 14:49:03 +0200"
-    },
-    {
-      "title": "Razzia in Ludwigsfelde: Polizei und Zoll finden Drogenlabor in Lagerhalle in Ludwigsfelde",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-razzia-zoll-polizei-einsatz-ludwigsfelde.html",
-      "date": "Wed, 15 Jul 2026 14:43:48 +0200"
     },
     {
       "title": "18-Jähriger erleidet schwerste Verletzungen auf Bahngelände",
@@ -166,26 +186,6 @@
       "title": "Mehrere Brandenburger Kreise verbieten die Wasserentnahme",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-havelland-wasserentnahme-verbot-knappheit-trockenheit.html",
       "date": "Wed, 15 Jul 2026 11:36:52 +0200"
-    },
-    {
-      "title": "Trinkwasser in 14 Prignitzer Orten wird kommende Nacht abgestellt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/prignitz-trinkwasser-sanierungsarbeiten.html",
-      "date": "Wed, 15 Jul 2026 10:23:00 +0200"
-    },
-    {
-      "title": "Motorradfahrer im Oderbruch tot aufgefunden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-motoradfahrer-tot-unfall-oderbruch-maerkisch-oderland.html",
-      "date": "Wed, 15 Jul 2026 09:51:39 +0200"
-    },
-    {
-      "title": "Neuartiger \"Grün-Feucht-Kühl-Index\" sieht Region unter Druck",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brandenburg-gruen-feucht-kuehl-index-econics-institut-niedrige-werte.html",
-      "date": "Tue, 14 Jul 2026 18:21:00 +0200"
-    },
-    {
-      "title": "Kinderschutzambulanz am Klinikum Frankfurt (Oder) eröffnet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/frankfurt-oder-kinderschutz-ambulanz-eroeffnet-Kinder-Gewalt.html",
-      "date": "Tue, 14 Jul 2026 17:52:40 +0200"
     }
   ]
 }
