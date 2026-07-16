@@ -1,9 +1,44 @@
 {
   "traffic": [
     {
+      "title": "Berlin bekommt 350 neue S-Bahnen",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/s-bahn-bestellt-wagen-stadler-vertraege-vergabe-berlin-brandenburg.html",
+      "date": "Thu, 16 Jul 2026 17:22:07 +0200"
+    },
+    {
+      "title": "An der Tanke in Brandenburg: \"Nein, nein, nein. Ich hasse Berlin.\"",
+      "link": "https://www.rbb24.de/panorama/thema/an-der-tanke/brandenburg-an-der-tanke-barnim-hochseefischer.html",
+      "date": "Thu, 16 Jul 2026 17:17:02 +0200"
+    },
+    {
       "title": "Mann legt Feuer in Behörde in Finsterwalde - mehrere Mitarbeiter verletzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/angriff-kreisverwaltung-elbe-elster-finsterwalde-mitarbeiter-verletzt.html",
-      "date": "Thu, 16 Jul 2026 15:10:30 +0200"
+      "date": "Thu, 16 Jul 2026 17:04:35 +0200"
+    },
+    {
+      "title": "Rettungsdienste während Hitzewelle sehr stark belastet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/studie-hitzewelle-rettungsdienste-freie-universitaet-berlin.html",
+      "date": "Thu, 16 Jul 2026 16:26:16 +0200"
+    },
+    {
+      "title": "Berliner CSD wird erstmals an zwei Tagen gefeiert",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-christopher-street-day-berlin.html",
+      "date": "Thu, 16 Jul 2026 16:25:05 +0200"
+    },
+    {
+      "title": "B1 zwischen Seelow und Manschnow bis Ende September voll gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/b1-zwischen-seelow-und-manschnow-voll-gesperrt.html",
+      "date": "Thu, 16 Jul 2026 16:21:05 +0200"
+    },
+    {
+      "title": "Illegales Drogenlabor in Ludwigsfelde zur Herstellung von Crystal Meth genutzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/drogen-labor-ludwigsfelde-produktion-crystal-meth-mehrere-festnahmen.html",
+      "date": "Thu, 16 Jul 2026 15:39:12 +0200"
+    },
+    {
+      "title": "Erstes Fließ im Unterspreewald wieder freigegeben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/sperrung-fliesse-unterspreewald-freigabe-schlepzig-eichenprozessionsspinner.html",
+      "date": "Thu, 16 Jul 2026 15:36:26 +0200"
     },
     {
       "title": "Gründer des Potsdamer Geoforschungszentrums gestorben",
@@ -21,44 +56,9 @@
       "date": "Thu, 16 Jul 2026 14:11:00 +0200"
     },
     {
-      "title": "Berlin bekommt 350 neue S-Bahnen",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/s-bahn-bestellt-wagen-stadler-vertraege-vergabe-berlin-brandenburg.html",
-      "date": "Thu, 16 Jul 2026 13:33:22 +0200"
-    },
-    {
       "title": "Trinkwasser in 14 Prignitzer Orten läuft wieder",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/prignitz-trinkwasser-sanierungsarbeiten.html",
       "date": "Thu, 16 Jul 2026 12:41:31 +0200"
-    },
-    {
-      "title": "Schwere Gewitter erwartet - Starkregen und Hagel möglich",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brandenburg-gewitter-wetter-starkregen-freitag.html",
-      "date": "Thu, 16 Jul 2026 12:32:14 +0200"
-    },
-    {
-      "title": "Unterhaltsvorschuss bis 16 Jahre: Berliner Familiensenatorin dagegen",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/07/unterhaltsvorschuss-kinder-berlin-streit-cdu.html",
-      "date": "Thu, 16 Jul 2026 12:18:20 +0200"
-    },
-    {
-      "title": "Geflüchtetenunterkunft in Falkensee wird abgebaut",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/havelland-falkensee-gefluechtetenunterkunft-rueckbau.html",
-      "date": "Thu, 16 Jul 2026 11:26:09 +0200"
-    },
-    {
-      "title": "S-Bahnhof Wedding: Ringbahn fährt wieder nach Brand an elektrischer Anlage",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/elektrische-anlage-brennt-ringbahn-unterbrochen-berlin-s41-s42-s15.html",
-      "date": "Thu, 16 Jul 2026 11:14:50 +0200"
-    },
-    {
-      "title": "Muddy-Angel-Run: \"Alle, die ins Ziel kommen, sind Gewinnerinnen\"",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/07/muddy-angel-run-trabrennbahn-karlshorst-frauen-matsch.html",
-      "date": "Thu, 16 Jul 2026 11:13:00 +0200"
-    },
-    {
-      "title": "Berliner Bezirke sollen mehr Unterstützung gegen Eichenprozessionsspinner bekommen",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/07/eichenprozessionsspinner-berlin-bezirke-unterstuetzung-land.html",
-      "date": "Thu, 16 Jul 2026 11:04:41 +0200"
     }
   ],
   "police": [
@@ -128,14 +128,44 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "An der Tanke in Brandenburg: \"Nein, nein, nein. Ich hasse Berlin.\"",
+      "link": "https://www.rbb24.de/panorama/thema/an-der-tanke/brandenburg-an-der-tanke-barnim-hochseefischer.html",
+      "date": "Thu, 16 Jul 2026 17:17:02 +0200"
+    },
+    {
       "title": "Mann legt Feuer in Behörde in Finsterwalde - mehrere Mitarbeiter verletzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/angriff-kreisverwaltung-elbe-elster-finsterwalde-mitarbeiter-verletzt.html",
-      "date": "Thu, 16 Jul 2026 15:10:30 +0200"
+      "date": "Thu, 16 Jul 2026 17:04:35 +0200"
     },
     {
       "title": "Rettungsdienste während Hitzewelle sehr stark belastet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/studie-hitzewelle-rettungsdienste-freie-universitaet-berlin.html",
-      "date": "Thu, 16 Jul 2026 15:04:14 +0200"
+      "date": "Thu, 16 Jul 2026 16:26:16 +0200"
+    },
+    {
+      "title": "Berliner CSD wird erstmals an zwei Tagen gefeiert",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-christopher-street-day-berlin.html",
+      "date": "Thu, 16 Jul 2026 16:25:05 +0200"
+    },
+    {
+      "title": "B1 zwischen Seelow und Manschnow bis Ende September voll gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/b1-zwischen-seelow-und-manschnow-voll-gesperrt.html",
+      "date": "Thu, 16 Jul 2026 16:21:05 +0200"
+    },
+    {
+      "title": "83-Jährige fährt gegen Hauptgebäude der Viadrina-Universität",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/auto-unfall-83-jaehrige-frankfurt-oder-viadrina.html",
+      "date": "Thu, 16 Jul 2026 16:19:10 +0200"
+    },
+    {
+      "title": "Illegales Drogenlabor in Ludwigsfelde zur Herstellung von Crystal Meth genutzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/drogen-labor-ludwigsfelde-produktion-crystal-meth-mehrere-festnahmen.html",
+      "date": "Thu, 16 Jul 2026 15:39:12 +0200"
+    },
+    {
+      "title": "Erstes Fließ im Unterspreewald wieder freigegeben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/sperrung-fliesse-unterspreewald-freigabe-schlepzig-eichenprozessionsspinner.html",
+      "date": "Thu, 16 Jul 2026 15:36:26 +0200"
     },
     {
       "title": "Waldbrand im Müritz-Nationalpark: Prignitz unterstützt",
@@ -156,36 +186,6 @@
       "title": "Schwere Gewitter erwartet - Starkregen und Hagel möglich",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brandenburg-gewitter-wetter-starkregen-freitag.html",
       "date": "Thu, 16 Jul 2026 12:32:14 +0200"
-    },
-    {
-      "title": "Geflüchtetenunterkunft in Falkensee wird abgebaut",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/havelland-falkensee-gefluechtetenunterkunft-rueckbau.html",
-      "date": "Thu, 16 Jul 2026 11:26:09 +0200"
-    },
-    {
-      "title": "S-Bahnhof Wedding: Ringbahn fährt wieder nach Brand an elektrischer Anlage",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/elektrische-anlage-brennt-ringbahn-unterbrochen-berlin-s41-s42-s15.html",
-      "date": "Thu, 16 Jul 2026 11:14:50 +0200"
-    },
-    {
-      "title": "Erstes Fließ im Unterspreewald wieder freigegeben",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/sperrung-fliesse-unterspreewald-freigabe-schlepzig-eichenprozessionsspinner.html",
-      "date": "Thu, 16 Jul 2026 11:00:46 +0200"
-    },
-    {
-      "title": "Brandenburger Baumärkte sollen mit Mähroboter-Infos Igel schützen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/maehroboter-baumaerkte-brandenburg-gefahren-igel-information.html",
-      "date": "Thu, 16 Jul 2026 09:23:00 +0200"
-    },
-    {
-      "title": "Razzia in Ludwigsfelde: Drogenlabor in Lagerhalle ausgehoben",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-razzia-zoll-polizei-einsatz-ludwigsfelde.html",
-      "date": "Thu, 16 Jul 2026 07:51:05 +0200"
-    },
-    {
-      "title": "Hitze in Wohnungen: Warum eine Berliner Familie die Klimaanlage will",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/klimaanlage-wohnung-hitze-berlin-kuehlen.html",
-      "date": "Thu, 16 Jul 2026 06:15:00 +0200"
     }
   ]
 }
