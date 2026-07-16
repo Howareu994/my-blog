@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Zwölf Jahre Haft nach tödlicher Messerattacke in Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/urteil-haft-messerattacke.html",
+      "date": "Thu, 16 Jul 2026 21:30:23 +0200"
+    },
+    {
       "title": "Unterhaltsvorschuss bis 16 Jahre: Berlin und Brandenburg sind dagegen",
       "link": "https://www.rbb24.de/politik/beitrag/2026/07/unterhaltsvorschuss-kinder-berlin-streit-cdu.html",
       "date": "Thu, 16 Jul 2026 20:12:08 +0200"
@@ -54,11 +59,6 @@
       "title": "Berliner CSD wird erstmals an zwei Tagen gefeiert",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-christopher-street-day-berlin.html",
       "date": "Thu, 16 Jul 2026 16:25:05 +0200"
-    },
-    {
-      "title": "B1 zwischen Seelow und Manschnow bis Ende September voll gesperrt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/b1-zwischen-seelow-und-manschnow-voll-gesperrt.html",
-      "date": "Thu, 16 Jul 2026 16:21:05 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Zwölf Jahre Haft nach tödlicher Messerattacke in Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/urteil-haft-messerattacke.html",
+      "date": "Thu, 16 Jul 2026 21:30:23 +0200"
+    },
+    {
       "title": "Erneut Schüsse in Potsdam - diesmal auf anderen Späti",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/schuesse-spaetkauf-einschussloecher.html",
       "date": "Thu, 16 Jul 2026 20:03:07 +0200"
@@ -181,11 +186,6 @@
       "title": "Uckermark: Angermünde bleibt staatlich anerkannter Erholungsort",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-angermuende-erhoelungsort-staatlich-anerkannt.html",
       "date": "Thu, 16 Jul 2026 14:11:00 +0200"
-    },
-    {
-      "title": "Trinkwasser in 14 Prignitzer Orten läuft wieder",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/prignitz-trinkwasser-sanierungsarbeiten.html",
-      "date": "Thu, 16 Jul 2026 12:41:31 +0200"
     }
   ]
 }
