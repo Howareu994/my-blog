@@ -1,9 +1,29 @@
 {
   "traffic": [
     {
-      "title": "35-Jähriger greift Verwaltungsmitarbeiterin in Finsterwalde an - mehrere Verletzte",
+      "title": "Berlin bekommt 350 neue S-Bahnen",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/s-bahn-bestellt-wagen-stadler-vertraege-vergabe-berlin-brandenburg.html",
+      "date": "Thu, 16 Jul 2026 13:33:22 +0200"
+    },
+    {
+      "title": "35-Jähriger legt Feuer in Behörde in Finsterwalde - mehrere Verletzte",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/angriff-kreisverwaltung-elbe-elster-finsterwalde-mitarbeiter-verletzt.html",
-      "date": "Thu, 16 Jul 2026 11:48:00 +0200"
+      "date": "Thu, 16 Jul 2026 12:47:28 +0200"
+    },
+    {
+      "title": "Trinkwasser in 14 Prignitzer Orten läuft wieder",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/prignitz-trinkwasser-sanierungsarbeiten.html",
+      "date": "Thu, 16 Jul 2026 12:41:31 +0200"
+    },
+    {
+      "title": "Schwere Gewitter erwartet - Starkregen und Hagel möglich",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brandenburg-gewitter-wetter-starkregen-freitag.html",
+      "date": "Thu, 16 Jul 2026 12:32:14 +0200"
+    },
+    {
+      "title": "Unterhaltsvorschuss bis 16 Jahre: Berliner Familiensenatorin dagegen",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/07/unterhaltsvorschuss-kinder-berlin-streit-cdu.html",
+      "date": "Thu, 16 Jul 2026 12:18:20 +0200"
     },
     {
       "title": "Geflüchtetenunterkunft in Falkensee wird abgebaut",
@@ -36,29 +56,9 @@
       "date": "Thu, 16 Jul 2026 10:40:40 +0200"
     },
     {
-      "title": "Schwere Gewitter am Freitag erwartet - Starkregen und Hagel möglich",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brandenburg-gewitter-wetter-starkregen-freitag.html",
-      "date": "Thu, 16 Jul 2026 10:28:00 +0200"
-    },
-    {
       "title": "Anstoßzeiten terminiert: Hertha wieder unter Flutlicht in Dresden",
       "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-union-berlin-hertha-bsc-energie-cottbus-spielplan-bunde.html",
       "date": "Thu, 16 Jul 2026 10:22:42 +0200"
-    },
-    {
-      "title": "L/Ost Poetry-Festival startet in Cottbus mit Musik, Poesie und Kunst",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/07/start-festival-lost-poetry-cottbus-interview.html",
-      "date": "Thu, 16 Jul 2026 09:36:04 +0200"
-    },
-    {
-      "title": "Brandenburger Baumärkte sollen mit Mähroboter-Infos Igel schützen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/maehroboter-baumaerkte-brandenburg-gefahren-igel-information.html",
-      "date": "Thu, 16 Jul 2026 09:23:00 +0200"
-    },
-    {
-      "title": "Uber übernimmt Berliner Lieferdienst Delivery Hero",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/berlin-uber-uebernahme-delivery-hero-essen-lieferdienst.html",
-      "date": "Thu, 16 Jul 2026 09:20:30 +0200"
     }
   ],
   "police": [
@@ -128,9 +128,19 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "35-Jähriger greift Verwaltungsmitarbeiterin in Finsterwalde an - mehrere Verletzte",
+      "title": "35-Jähriger legt Feuer in Behörde in Finsterwalde - mehrere Verletzte",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/angriff-kreisverwaltung-elbe-elster-finsterwalde-mitarbeiter-verletzt.html",
-      "date": "Thu, 16 Jul 2026 11:48:00 +0200"
+      "date": "Thu, 16 Jul 2026 12:47:28 +0200"
+    },
+    {
+      "title": "Trinkwasser in 14 Prignitzer Orten läuft wieder",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/prignitz-trinkwasser-sanierungsarbeiten.html",
+      "date": "Thu, 16 Jul 2026 12:41:31 +0200"
+    },
+    {
+      "title": "Schwere Gewitter erwartet - Starkregen und Hagel möglich",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brandenburg-gewitter-wetter-starkregen-freitag.html",
+      "date": "Thu, 16 Jul 2026 12:32:14 +0200"
     },
     {
       "title": "Geflüchtetenunterkunft in Falkensee wird abgebaut",
@@ -146,11 +156,6 @@
       "title": "Erstes Fließ im Unterspreewald wieder freigegeben",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/sperrung-fliesse-unterspreewald-freigabe-schlepzig-eichenprozessionsspinner.html",
       "date": "Thu, 16 Jul 2026 11:00:46 +0200"
-    },
-    {
-      "title": "Schwere Gewitter am Freitag erwartet - Starkregen und Hagel möglich",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brandenburg-gewitter-wetter-starkregen-freitag.html",
-      "date": "Thu, 16 Jul 2026 10:28:00 +0200"
     },
     {
       "title": "Brandenburger Baumärkte sollen mit Mähroboter-Infos Igel schützen",
@@ -181,11 +186,6 @@
       "title": "Jahrelange Haftstrafen für Paar nach versuchtem Mord in Cottbus",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-cottbus-versuchter-mord-paar-fleischklopfer-urteil.html",
       "date": "Wed, 15 Jul 2026 16:56:07 +0200"
-    },
-    {
-      "title": "Partnerin an Weihnachten getötet: Mann aus Ludwigsfelde verurteilt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-ludwigsfelde-totschlag-partnerin-urteil-freiheitsstrafe.html",
-      "date": "Wed, 15 Jul 2026 16:30:37 +0200"
     }
   ]
 }
