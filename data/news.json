@@ -1,6 +1,26 @@
 {
   "traffic": [
     {
+      "title": "Unterhaltsvorschuss bis 16 Jahre: Berlin und Brandenburg sind dagegen",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/07/unterhaltsvorschuss-kinder-berlin-streit-cdu.html",
+      "date": "Thu, 16 Jul 2026 20:12:08 +0200"
+    },
+    {
+      "title": "Erneut Schüsse in Potsdam - diesmal auf anderen Späti",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/schuesse-spaetkauf-einschussloecher.html",
+      "date": "Thu, 16 Jul 2026 20:03:07 +0200"
+    },
+    {
+      "title": "Start der Legacy Series: Die Baller League des Basketballs?",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/basketball-legacy-series-lgcy-franz-wagner-dennis-schroeder.html",
+      "date": "Thu, 16 Jul 2026 19:27:56 +0200"
+    },
+    {
+      "title": "Brandenburg will Akteneinsicht und Informationszugang ebenfalls einschränken",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/07/brandenburg-akten-einsicht-einschraenkungen-informationsfreiheitsgesetz.html",
+      "date": "Thu, 16 Jul 2026 19:26:02 +0200"
+    },
+    {
       "title": "BerlinTrend: CDU legt nach Spitzenkandidat-Wechsel zu, Linke führt Umfrage an",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-trend-sonntagsfrage-abgeordnetenhaus-wahl.html",
       "date": "Thu, 16 Jul 2026 18:54:44 +0200"
@@ -39,26 +59,6 @@
       "title": "B1 zwischen Seelow und Manschnow bis Ende September voll gesperrt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/b1-zwischen-seelow-und-manschnow-voll-gesperrt.html",
       "date": "Thu, 16 Jul 2026 16:21:05 +0200"
-    },
-    {
-      "title": "Erstes Fließ im Unterspreewald wieder freigegeben",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/sperrung-fliesse-unterspreewald-freigabe-schlepzig-eichenprozessionsspinner.html",
-      "date": "Thu, 16 Jul 2026 15:36:26 +0200"
-    },
-    {
-      "title": "Gründer des Potsdamer Geoforschungszentrums gestorben",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/trauer-gruendungsdirektor-helmholtz-gfz-zentrum-emmermann-gestor.html",
-      "date": "Thu, 16 Jul 2026 14:48:15 +0200"
-    },
-    {
-      "title": "Waldbrand im Müritz-Nationalpark: Prignitz unterstützt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-prignitz-mueritz-nationalpark-waldbrand.html",
-      "date": "Thu, 16 Jul 2026 14:26:32 +0200"
-    },
-    {
-      "title": "Uckermark: Angermünde bleibt staatlich anerkannter Erholungsort",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-angermuende-erhoelungsort-staatlich-anerkannt.html",
-      "date": "Thu, 16 Jul 2026 14:11:00 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Erneut Schüsse in Potsdam - diesmal auf anderen Späti",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/schuesse-spaetkauf-einschussloecher.html",
+      "date": "Thu, 16 Jul 2026 20:03:07 +0200"
+    },
+    {
       "title": "Illegales Drogenlabor in Ludwigsfelde zur Herstellung von Crystal Meth genutzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/drogen-labor-ludwigsfelde-produktion-crystal-meth-mehrere-festnahmen.html",
       "date": "Thu, 16 Jul 2026 17:38:07 +0200"
@@ -181,11 +186,6 @@
       "title": "Trinkwasser in 14 Prignitzer Orten läuft wieder",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/prignitz-trinkwasser-sanierungsarbeiten.html",
       "date": "Thu, 16 Jul 2026 12:41:31 +0200"
-    },
-    {
-      "title": "Schwere Gewitter erwartet - Starkregen und Hagel möglich",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brandenburg-gewitter-wetter-starkregen-freitag.html",
-      "date": "Thu, 16 Jul 2026 12:32:14 +0200"
     }
   ]
 }
