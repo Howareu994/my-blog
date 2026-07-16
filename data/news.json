@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "BerlinTrend: CDU legt nach Spitzenkandidat-Wechsel zu, Linke führt Umfrage an",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-trend-sonntagsfrage-abgeordnetenhaus-wahl.html",
+      "date": "Thu, 16 Jul 2026 18:54:44 +0200"
+    },
+    {
+      "title": "Illegales Drogenlabor in Ludwigsfelde zur Herstellung von Crystal Meth genutzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/drogen-labor-ludwigsfelde-produktion-crystal-meth-mehrere-festnahmen.html",
+      "date": "Thu, 16 Jul 2026 17:38:07 +0200"
+    },
+    {
       "title": "Berlin bekommt 350 neue S-Bahnen",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/s-bahn-bestellt-wagen-stadler-vertraege-vergabe-berlin-brandenburg.html",
       "date": "Thu, 16 Jul 2026 17:22:07 +0200"
@@ -31,11 +41,6 @@
       "date": "Thu, 16 Jul 2026 16:21:05 +0200"
     },
     {
-      "title": "Illegales Drogenlabor in Ludwigsfelde zur Herstellung von Crystal Meth genutzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/drogen-labor-ludwigsfelde-produktion-crystal-meth-mehrere-festnahmen.html",
-      "date": "Thu, 16 Jul 2026 15:39:12 +0200"
-    },
-    {
       "title": "Erstes Fließ im Unterspreewald wieder freigegeben",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/sperrung-fliesse-unterspreewald-freigabe-schlepzig-eichenprozessionsspinner.html",
       "date": "Thu, 16 Jul 2026 15:36:26 +0200"
@@ -54,11 +59,6 @@
       "title": "Uckermark: Angermünde bleibt staatlich anerkannter Erholungsort",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-angermuende-erhoelungsort-staatlich-anerkannt.html",
       "date": "Thu, 16 Jul 2026 14:11:00 +0200"
-    },
-    {
-      "title": "Trinkwasser in 14 Prignitzer Orten läuft wieder",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/prignitz-trinkwasser-sanierungsarbeiten.html",
-      "date": "Thu, 16 Jul 2026 12:41:31 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Illegales Drogenlabor in Ludwigsfelde zur Herstellung von Crystal Meth genutzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/drogen-labor-ludwigsfelde-produktion-crystal-meth-mehrere-festnahmen.html",
+      "date": "Thu, 16 Jul 2026 17:38:07 +0200"
+    },
+    {
       "title": "An der Tanke in Brandenburg: \"Nein, nein, nein. Ich hasse Berlin.\"",
       "link": "https://www.rbb24.de/panorama/thema/an-der-tanke/brandenburg-an-der-tanke-barnim-hochseefischer.html",
       "date": "Thu, 16 Jul 2026 17:17:02 +0200"
@@ -156,11 +161,6 @@
       "title": "83-Jährige fährt gegen Hauptgebäude der Viadrina-Universität",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/auto-unfall-83-jaehrige-frankfurt-oder-viadrina.html",
       "date": "Thu, 16 Jul 2026 16:19:10 +0200"
-    },
-    {
-      "title": "Illegales Drogenlabor in Ludwigsfelde zur Herstellung von Crystal Meth genutzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/drogen-labor-ludwigsfelde-produktion-crystal-meth-mehrere-festnahmen.html",
-      "date": "Thu, 16 Jul 2026 15:39:12 +0200"
     },
     {
       "title": "Erstes Fließ im Unterspreewald wieder freigegeben",
