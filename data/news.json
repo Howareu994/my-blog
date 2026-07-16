@@ -1,14 +1,19 @@
 {
   "traffic": [
     {
-      "title": "Hitze in Wohnungen: Warum eine Berliner Familie die Klimaanlage will",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/klimaanlage-wohnung-hitze-berlin-kuehlen.html",
-      "date": "Thu, 16 Jul 2026 06:15:00 +0200"
+      "title": "S-Bahnhof Wedding: Elektrische Anlage brennt - Ringbahn und S15 unterbrochen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/elektrische-anlage-brennt-ringbahn-unterbrochen-berlin-s41-s42-s15.html",
+      "date": "Thu, 16 Jul 2026 09:15:02 +0200"
     },
     {
       "title": "Razzia in Ludwigsfelde: Drogenlabor in Lagerhalle ausgehoben",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-razzia-zoll-polizei-einsatz-ludwigsfelde.html",
-      "date": "Wed, 15 Jul 2026 20:50:24 +0200"
+      "date": "Thu, 16 Jul 2026 07:51:05 +0200"
+    },
+    {
+      "title": "Hitze in Wohnungen: Warum eine Berliner Familie die Klimaanlage will",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/klimaanlage-wohnung-hitze-berlin-kuehlen.html",
+      "date": "Thu, 16 Jul 2026 06:15:00 +0200"
     },
     {
       "title": "Italo im Fernverkehr: Brandenburg als Bremsklotz für die roten Flitzer?",
@@ -49,19 +54,14 @@
       "title": "Jahrelange Haftstrafen für Paar nach versuchtem Mord in Cottbus",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-cottbus-versuchter-mord-paar-fleischklopfer-urteil.html",
       "date": "Wed, 15 Jul 2026 16:56:07 +0200"
-    },
-    {
-      "title": "Partnerin an Weihnachten getötet: Mann aus Ludwigsfelde verurteilt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-ludwigsfelde-totschlag-partnerin-urteil-freiheitsstrafe.html",
-      "date": "Wed, 15 Jul 2026 16:30:37 +0200"
-    },
-    {
-      "title": "Olympia-Aus der Nordischen Kombination schockt Bad Freienwalde",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/07/nordische-kombination-olympia-aus-brandenburg-bad-freienwalde.html",
-      "date": "Wed, 15 Jul 2026 16:16:25 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Mann nach räuberischem Diebstahl im Juweliergeschäft gesucht – Polizei bittet um Mithilfe",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1694278.php",
+      "date": "Thu, 16 Jul 2026 08:56:45 +0200"
+    },
     {
       "title": "Mann durch Schussabgaben verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1694112.php",
@@ -116,11 +116,6 @@
       "title": "Zwei mutmaßliche Drogendealer festgenommen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692732.php",
       "date": "Mon, 13 Jul 2026 14:31:00 +0200"
-    },
-    {
-      "title": "Motorradfahrer nach Unfall verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692511.php",
-      "date": "Mon, 13 Jul 2026 11:30:20 +0200"
     }
   ],
   "free_events": [],
@@ -128,14 +123,19 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Hitze in Wohnungen: Warum eine Berliner Familie die Klimaanlage will",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/klimaanlage-wohnung-hitze-berlin-kuehlen.html",
-      "date": "Thu, 16 Jul 2026 06:15:00 +0200"
+      "title": "S-Bahnhof Wedding: Elektrische Anlage brennt - Ringbahn und S15 unterbrochen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/elektrische-anlage-brennt-ringbahn-unterbrochen-berlin-s41-s42-s15.html",
+      "date": "Thu, 16 Jul 2026 09:15:02 +0200"
     },
     {
       "title": "Razzia in Ludwigsfelde: Drogenlabor in Lagerhalle ausgehoben",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-razzia-zoll-polizei-einsatz-ludwigsfelde.html",
-      "date": "Wed, 15 Jul 2026 20:50:24 +0200"
+      "date": "Thu, 16 Jul 2026 07:51:05 +0200"
+    },
+    {
+      "title": "Hitze in Wohnungen: Warum eine Berliner Familie die Klimaanlage will",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/klimaanlage-wohnung-hitze-berlin-kuehlen.html",
+      "date": "Thu, 16 Jul 2026 06:15:00 +0200"
     },
     {
       "title": "Vermisster 20-Jähriger wird weiter im Werbellinsee gesucht",
@@ -181,11 +181,6 @@
       "title": "Drei Brüder nach tödlichen Schüssen in Berlin-Weißensee angeklagt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/anklage-schuesse-brueder-cousin-rache.html",
       "date": "Wed, 15 Jul 2026 12:37:47 +0200"
-    },
-    {
-      "title": "Japanischer Knöterich soll mit Stromschlägen bekämpft werden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/rooterwave-verfahren-strom-impuls-pflanze-schutz.html",
-      "date": "Wed, 15 Jul 2026 12:11:22 +0200"
     }
   ]
 }
