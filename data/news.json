@@ -1,19 +1,29 @@
 {
   "traffic": [
     {
+      "title": "Mann stirbt bei Badeunfall in Brandenburg an der Havel",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-havel-badeunfall-tot.html",
+      "date": "Fri, 17 Jul 2026 14:52:39 +0200"
+    },
+    {
+      "title": "Angriff im Jugendamt in Finsterwalde: Verdächtiger in Untersuchungshaft",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-finsterwalde-verdaechtiger-haftrichter-angriff-jugendamt.html",
+      "date": "Fri, 17 Jul 2026 13:45:12 +0200"
+    },
+    {
+      "title": "Straßentunnel am Berliner Alexanderplatz wieder offen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-alexanderplatz-strassentunnel-offen-nach-bauarbeiten.html",
+      "date": "Fri, 17 Jul 2026 13:42:57 +0200"
+    },
+    {
       "title": "Regisseur Frank Castorf wird 75 Jahre: Experte für die ostdeutsche Mentalität",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/07/frank-castorf-theater-regisseur-75-geburtstag-berlin.html",
-      "date": "Fri, 17 Jul 2026 12:49:02 +0200"
+      "date": "Fri, 17 Jul 2026 13:26:55 +0200"
     },
     {
       "title": "Bundesnetzagentur bestätigt Pläne: Mehr Wettbewerb auf der Schiene ab 2028",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/bahn-fernverkehr-schiene-mehr-wettbewerb-konkurrenz-bundesnetzagentur.html",
       "date": "Fri, 17 Jul 2026 12:45:59 +0200"
-    },
-    {
-      "title": "Angriff im Jugendamt in Finsterwalde: Verdächtiger vor Haftrichter",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-finsterwalde-verdaechtiger-haftrichter-angriff-jugendamt.html",
-      "date": "Fri, 17 Jul 2026 11:47:44 +0200"
     },
     {
       "title": "Hertha BSC verlängert mit Eigengewächs Julian Eitschberger",
@@ -49,19 +59,24 @@
       "title": "BerlinTrend: CDU legt nach Spitzenkandidat-Wechsel zu, Linke führt Umfrage an",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-trend-sonntagsfrage-abgeordnetenhaus-wahl.html",
       "date": "Thu, 16 Jul 2026 22:30:58 +0200"
-    },
-    {
-      "title": "Zwölf Jahre Haft nach tödlicher Messerattacke in Berlin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/urteil-haft-messerattacke.html",
-      "date": "Thu, 16 Jul 2026 21:30:23 +0200"
-    },
-    {
-      "title": "Unterhaltsvorschuss bis 16 Jahre: Berlin und Brandenburg sind dagegen",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/07/unterhaltsvorschuss-kinder-berlin-streit-cdu.html",
-      "date": "Thu, 16 Jul 2026 20:12:08 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Festnahme nach mutmaßlich homophober Beleidigung und Bedrohung",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695102.php",
+      "date": "Fri, 17 Jul 2026 14:35:42 +0200"
+    },
+    {
+      "title": "Radfahrer bei Ausweichmanöver gegen geparktes Auto geprallt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695094.php",
+      "date": "Fri, 17 Jul 2026 14:28:49 +0200"
+    },
+    {
+      "title": "Senior in Wohnung beraubt und verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695048.php",
+      "date": "Fri, 17 Jul 2026 13:20:19 +0200"
+    },
     {
       "title": "Pyrotechnik explodiert – Mehrere Verletzte",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1694957.php",
@@ -106,21 +121,6 @@
       "title": "Jugendlichen ins Gleisbett geschleudert – Öffentlichkeitsfahndung erledigt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2025/pressemitteilung.1534014.php",
       "date": "Tue, 14 Jul 2026 13:12:00 +0200"
-    },
-    {
-      "title": "Alkoholisierter Kleintransporterfahrer ohne Fahrerlaubnis fährt gegen Motorrad",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1693106.php",
-      "date": "Tue, 14 Jul 2026 12:06:44 +0200"
-    },
-    {
-      "title": "Autofahrer fährt Radfahrer an",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692936.php",
-      "date": "Tue, 14 Jul 2026 09:44:30 +0200"
-    },
-    {
-      "title": "Autofahrer bei Verkehrsunfall verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692784.php",
-      "date": "Mon, 13 Jul 2026 15:26:06 +0200"
     }
   ],
   "free_events": [],
@@ -128,14 +128,29 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Mann stirbt bei Badeunfall in Brandenburg an der Havel",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-havel-badeunfall-tot.html",
+      "date": "Fri, 17 Jul 2026 14:52:39 +0200"
+    },
+    {
+      "title": "Durchsuchungen in Ludwigsfelde Teil einer Serie von Drogenrazzien in der Region",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/drogen-labor-ludwigsfelde-produktion-crystal-meth-bilanz-razzia.html",
+      "date": "Fri, 17 Jul 2026 14:42:13 +0200"
+    },
+    {
+      "title": "Angriff im Jugendamt in Finsterwalde: Verdächtiger in Untersuchungshaft",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-finsterwalde-verdaechtiger-haftrichter-angriff-jugendamt.html",
+      "date": "Fri, 17 Jul 2026 13:45:12 +0200"
+    },
+    {
+      "title": "Straßentunnel am Berliner Alexanderplatz wieder offen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-alexanderplatz-strassentunnel-offen-nach-bauarbeiten.html",
+      "date": "Fri, 17 Jul 2026 13:42:57 +0200"
+    },
+    {
       "title": "Finsterwalde: Angriff in Jugendamt löst Debatte um Schutz aus",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/reaktionen-angriff-kreisverwaltung-jugendamt-finsterwalde-elbe-elster-debatte.html",
       "date": "Fri, 17 Jul 2026 12:16:17 +0200"
-    },
-    {
-      "title": "Angriff im Jugendamt in Finsterwalde: Verdächtiger vor Haftrichter",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-finsterwalde-verdaechtiger-haftrichter-angriff-jugendamt.html",
-      "date": "Fri, 17 Jul 2026 11:47:44 +0200"
     },
     {
       "title": "Schwere Gewitter ab Freitagmittag erwartet - Starkregen und Hagel möglich",
@@ -171,21 +186,6 @@
       "title": "Erneut Schüsse in Potsdam - diesmal auf anderen Späti",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/schuesse-spaetkauf-einschussloecher.html",
       "date": "Thu, 16 Jul 2026 20:03:07 +0200"
-    },
-    {
-      "title": "Illegales Drogenlabor in Ludwigsfelde zur Herstellung von Crystal Meth genutzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/drogen-labor-ludwigsfelde-produktion-crystal-meth-mehrere-festnahmen.html",
-      "date": "Thu, 16 Jul 2026 17:38:07 +0200"
-    },
-    {
-      "title": "An der Tanke in Brandenburg: \"Nein, nein, nein. Ich hasse Berlin.\"",
-      "link": "https://www.rbb24.de/panorama/thema/an-der-tanke/brandenburg-an-der-tanke-barnim-hochseefischer.html",
-      "date": "Thu, 16 Jul 2026 17:17:02 +0200"
-    },
-    {
-      "title": "Mann legt Feuer in Behörde in Finsterwalde - mehrere Mitarbeiter verletzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/angriff-kreisverwaltung-elbe-elster-finsterwalde-mitarbeiter-verletzt.html",
-      "date": "Thu, 16 Jul 2026 17:04:35 +0200"
     }
   ]
 }
