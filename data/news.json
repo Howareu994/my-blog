@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Wetter: Schwere Gewitter ziehen über Brandenburg und Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brandenburg-gewitter-wetter-starkregen-freitag.html",
+      "date": "Fri, 17 Jul 2026 20:31:47 +0200"
+    },
+    {
+      "title": "Hunderte Menschen protestieren in Potsdam gegen Kürzungen im Gesundheitswesen",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/07/brandenburg-potsdam-protest-gesundheitswesen-kuerzungen.html",
+      "date": "Fri, 17 Jul 2026 19:48:22 +0200"
+    },
+    {
       "title": "Brandenburg muss Schadenersatz für Schließung von Haasenburg-Heimen zahlen",
       "link": "https://www.rbb24.de/politik/beitrag/2026/07/brandenburg-schliessung-haasenburg-schadensersatz.html",
       "date": "Fri, 17 Jul 2026 18:23:49 +0200"
@@ -9,11 +19,6 @@
       "title": "Sondereinheiten \"Ferrum\" und \"Telum\": Drei Festnahmen nach Schüssen auf Haus in Berlin-Spandau im Mai",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-polizei-ferrum-telum-festnahme.html",
       "date": "Fri, 17 Jul 2026 18:17:45 +0200"
-    },
-    {
-      "title": "Wetter: Schwere Gewitter ziehen über Brandenburg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brandenburg-gewitter-wetter-starkregen-freitag.html",
-      "date": "Fri, 17 Jul 2026 17:47:50 +0200"
     },
     {
       "title": "Debatte über ZDF-Ausladung von Danger Dan",
@@ -54,11 +59,6 @@
       "title": "Brandenburgs Datenschutzbeauftragte kritisiert Einschränkung des Informationszugangs",
       "link": "https://www.rbb24.de/politik/beitrag/2026/07/brandenburg-informationsfreiheit-aig-datenschutzbeauftragte.html",
       "date": "Fri, 17 Jul 2026 15:42:50 +0200"
-    },
-    {
-      "title": "Mann stirbt bei Badeunfall in Brandenburg an der Havel",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-havel-badeunfall-tot.html",
-      "date": "Fri, 17 Jul 2026 14:52:39 +0200"
     }
   ],
   "police": [
@@ -128,14 +128,14 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Wetter: Schwere Gewitter ziehen über Brandenburg und Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brandenburg-gewitter-wetter-starkregen-freitag.html",
+      "date": "Fri, 17 Jul 2026 20:31:47 +0200"
+    },
+    {
       "title": "Sondereinheiten \"Ferrum\" und \"Telum\": Drei Festnahmen nach Schüssen auf Haus in Berlin-Spandau im Mai",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-polizei-ferrum-telum-festnahme.html",
       "date": "Fri, 17 Jul 2026 18:17:45 +0200"
-    },
-    {
-      "title": "Wetter: Schwere Gewitter ziehen über Brandenburg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brandenburg-gewitter-wetter-starkregen-freitag.html",
-      "date": "Fri, 17 Jul 2026 17:47:50 +0200"
     },
     {
       "title": "Bakterienbefall: Trinkwasser in Buckow muss weiter abgekocht werden",
