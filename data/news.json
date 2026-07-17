@@ -1,14 +1,44 @@
 {
   "traffic": [
     {
+      "title": "Angriff im Jugendamt in Finsterwalde: Verdächtiger in Untersuchungshaft",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-finsterwalde-verdaechtiger-haftrichter-angriff-jugendamt.html",
+      "date": "Fri, 17 Jul 2026 17:00:01 +0200"
+    },
+    {
+      "title": "Beatsteaks spielen auf Burg Beeskow für Jugendarbeit und gegen Hass",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/07/beatsteaks-konzert-beeskow-jugendclub-pier13-engagement-brandenburg-berlin-benefits.html",
+      "date": "Fri, 17 Jul 2026 16:32:49 +0200"
+    },
+    {
+      "title": "Polizei nimmt Tatverdächtigen nach Schüssen auf Spätis in Potsdam fest",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/festnahme-schuesse-spaetkauf-potsdam.html",
+      "date": "Fri, 17 Jul 2026 16:17:02 +0200"
+    },
+    {
+      "title": "Barnim: Vermisster Mann im Werbellinsee tot aufgefunden",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/werbellinsee-vermisster-gefunden-polizei-brandenburg-ertrunken.html",
+      "date": "Fri, 17 Jul 2026 16:04:54 +0200"
+    },
+    {
+      "title": "Schwere Gewitter ab Freitagnachmittag erwartet - Starkregen und Hagel möglich",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brandenburg-gewitter-wetter-starkregen-freitag.html",
+      "date": "Fri, 17 Jul 2026 15:51:27 +0200"
+    },
+    {
+      "title": "Brandenburgs Datenschutzbeauftragte kritisiert Einschränkung des Informationszugangs",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/07/brandenburg-informationsfreiheit-aig-datenschutzbeauftragte.html",
+      "date": "Fri, 17 Jul 2026 15:42:50 +0200"
+    },
+    {
+      "title": "Brandenburg muss Schadensersatz für Schließung von Haasenburg-Heimen zahlen",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/07/brandenburg-schliessung-haasenburg-schadensersatz.html",
+      "date": "Fri, 17 Jul 2026 15:42:25 +0200"
+    },
+    {
       "title": "Mann stirbt bei Badeunfall in Brandenburg an der Havel",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-havel-badeunfall-tot.html",
       "date": "Fri, 17 Jul 2026 14:52:39 +0200"
-    },
-    {
-      "title": "Angriff im Jugendamt in Finsterwalde: Verdächtiger in Untersuchungshaft",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-finsterwalde-verdaechtiger-haftrichter-angriff-jugendamt.html",
-      "date": "Fri, 17 Jul 2026 13:45:12 +0200"
     },
     {
       "title": "Straßentunnel am Berliner Alexanderplatz wieder offen",
@@ -29,39 +59,24 @@
       "title": "Hertha BSC verlängert mit Eigengewächs Julian Eitschberger",
       "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-2-liga-hertha-bsc-julian-eitschberger-vertrag-verlaengerung.html",
       "date": "Fri, 17 Jul 2026 11:19:18 +0200"
-    },
-    {
-      "title": "Schwere Gewitter ab Freitagmittag erwartet - Starkregen und Hagel möglich",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brandenburg-gewitter-wetter-starkregen-freitag.html",
-      "date": "Fri, 17 Jul 2026 11:01:31 +0200"
-    },
-    {
-      "title": "Urteil: Wohnungseigentümer dürfen Klimaanlage auf Balkon einbauen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-bgh-klimaanlage-balkon-bundesgerichtshof-urteil.html",
-      "date": "Fri, 17 Jul 2026 10:31:44 +0200"
-    },
-    {
-      "title": "Warnung vor Astabbrüchen in Parks in Berlin und Brandenburg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brandenburg-warnung-astabbrueche-parks.html",
-      "date": "Fri, 17 Jul 2026 09:53:00 +0200"
-    },
-    {
-      "title": "\"Studycamp\" in Sachsenhausen: Unkraut rupfen für die Erinnerungskultur",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/oranienburg-sachsenhausen-studycamps-austausch-erinnerungskultur.html",
-      "date": "Fri, 17 Jul 2026 07:16:00 +0200"
-    },
-    {
-      "title": "Öffentliche Spielplätze in Berlin: Trotz des Ausbaus fehlt weiter Platz für Kinder",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-oeffentliche-spielplaetze-hitzeschutz-wald-umweltverwaltung-kosten.html",
-      "date": "Fri, 17 Jul 2026 07:04:30 +0200"
-    },
-    {
-      "title": "BerlinTrend: CDU legt nach Spitzenkandidat-Wechsel zu, Linke führt Umfrage an",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-trend-sonntagsfrage-abgeordnetenhaus-wahl.html",
-      "date": "Thu, 16 Jul 2026 22:30:58 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Festnahmen und Durchsuchungen in Berlin nach Schussabgaben",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695177.php",
+      "date": "Fri, 17 Jul 2026 16:54:00 +0200"
+    },
+    {
+      "title": "Mann bei Messerangriff am Auge verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695161.php",
+      "date": "Fri, 17 Jul 2026 15:49:18 +0200"
+    },
+    {
+      "title": "Jugendliche vermisst – Polizei bittet um Mithilfe",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695113.php",
+      "date": "Fri, 17 Jul 2026 14:59:47 +0200"
+    },
     {
       "title": "Festnahme nach mutmaßlich homophober Beleidigung und Bedrohung",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695102.php",
@@ -106,21 +121,6 @@
       "title": "Vom Unfallort geflüchtet und weiteren Unfall verursacht",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1693949.php",
       "date": "Wed, 15 Jul 2026 12:34:01 +0200"
-    },
-    {
-      "title": "E-Scooter-Fahrer nach Verkehrsunfall verstorben",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1693938.php",
-      "date": "Wed, 15 Jul 2026 12:22:47 +0200"
-    },
-    {
-      "title": "Letzter Tatverdächtiger nach Schüssen auf ein Wohnhaus festgenommen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1643062.php",
-      "date": "Tue, 14 Jul 2026 15:52:00 +0200"
-    },
-    {
-      "title": "Jugendlichen ins Gleisbett geschleudert – Öffentlichkeitsfahndung erledigt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2025/pressemitteilung.1534014.php",
-      "date": "Tue, 14 Jul 2026 13:12:00 +0200"
     }
   ],
   "free_events": [],
@@ -128,19 +128,34 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Mann stirbt bei Badeunfall in Brandenburg an der Havel",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-havel-badeunfall-tot.html",
-      "date": "Fri, 17 Jul 2026 14:52:39 +0200"
+      "title": "Angriff im Jugendamt in Finsterwalde: Verdächtiger in Untersuchungshaft",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-finsterwalde-verdaechtiger-haftrichter-angriff-jugendamt.html",
+      "date": "Fri, 17 Jul 2026 17:00:01 +0200"
+    },
+    {
+      "title": "Polizei nimmt Tatverdächtigen nach Schüssen auf Spätis in Potsdam fest",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/festnahme-schuesse-spaetkauf-potsdam.html",
+      "date": "Fri, 17 Jul 2026 16:17:02 +0200"
+    },
+    {
+      "title": "Barnim: Vermisster Mann im Werbellinsee tot aufgefunden",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/werbellinsee-vermisster-gefunden-polizei-brandenburg-ertrunken.html",
+      "date": "Fri, 17 Jul 2026 16:04:54 +0200"
+    },
+    {
+      "title": "Schwere Gewitter ab Freitagnachmittag erwartet - Starkregen und Hagel möglich",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brandenburg-gewitter-wetter-starkregen-freitag.html",
+      "date": "Fri, 17 Jul 2026 15:51:27 +0200"
     },
     {
       "title": "Durchsuchungen in Ludwigsfelde Teil einer Serie von Drogenrazzien in der Region",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/drogen-labor-ludwigsfelde-produktion-crystal-meth-bilanz-razzia.html",
-      "date": "Fri, 17 Jul 2026 14:42:13 +0200"
+      "date": "Fri, 17 Jul 2026 15:14:56 +0200"
     },
     {
-      "title": "Angriff im Jugendamt in Finsterwalde: Verdächtiger in Untersuchungshaft",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-finsterwalde-verdaechtiger-haftrichter-angriff-jugendamt.html",
-      "date": "Fri, 17 Jul 2026 13:45:12 +0200"
+      "title": "Mann stirbt bei Badeunfall in Brandenburg an der Havel",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-havel-badeunfall-tot.html",
+      "date": "Fri, 17 Jul 2026 14:52:39 +0200"
     },
     {
       "title": "Straßentunnel am Berliner Alexanderplatz wieder offen",
@@ -151,11 +166,6 @@
       "title": "Finsterwalde: Angriff in Jugendamt löst Debatte um Schutz aus",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/reaktionen-angriff-kreisverwaltung-jugendamt-finsterwalde-elbe-elster-debatte.html",
       "date": "Fri, 17 Jul 2026 12:16:17 +0200"
-    },
-    {
-      "title": "Schwere Gewitter ab Freitagmittag erwartet - Starkregen und Hagel möglich",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brandenburg-gewitter-wetter-starkregen-freitag.html",
-      "date": "Fri, 17 Jul 2026 11:01:31 +0200"
     },
     {
       "title": "Urteil: Wohnungseigentümer dürfen Klimaanlage auf Balkon einbauen",
@@ -176,16 +186,6 @@
       "title": "Öffentliche Spielplätze in Berlin: Trotz des Ausbaus fehlt weiter Platz für Kinder",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-oeffentliche-spielplaetze-hitzeschutz-wald-umweltverwaltung-kosten.html",
       "date": "Fri, 17 Jul 2026 07:04:30 +0200"
-    },
-    {
-      "title": "Zwölf Jahre Haft nach tödlicher Messerattacke in Berlin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/urteil-haft-messerattacke.html",
-      "date": "Thu, 16 Jul 2026 21:30:23 +0200"
-    },
-    {
-      "title": "Erneut Schüsse in Potsdam - diesmal auf anderen Späti",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/schuesse-spaetkauf-einschussloecher.html",
-      "date": "Thu, 16 Jul 2026 20:03:07 +0200"
     }
   ]
 }
