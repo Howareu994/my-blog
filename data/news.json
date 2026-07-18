@@ -1,24 +1,29 @@
 {
   "traffic": [
     {
+      "title": "Lollapalooza beginnt - bis zu 50.000 Gäste und Pitbull am Samstag erwartet",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/07/berlin-lollapalooza-festival-olympiastadion-samstag-sonntag-.html",
+      "date": "Sat, 18 Jul 2026 17:42:28 +0200"
+    },
+    {
+      "title": "Geschäft und Wohnungen in Schöneberg wegen giftigen Dämpfen geräumt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/schoeneberg-giftige-daempfe-haeuser-geraeumt.html",
+      "date": "Sat, 18 Jul 2026 17:28:51 +0200"
+    },
+    {
+      "title": "Am Späti \"Wir sind noch nicht verheiratet, aber ich darf auch nicht fragen\"",
+      "link": "https://www.rbb24.de/panorama/thema/spaeti/berlin-altglienicke-am-spaeti-supermarkt-verkaeuferin-eigenheim.html",
+      "date": "Sat, 18 Jul 2026 17:18:32 +0200"
+    },
+    {
       "title": "Berliner Leichtathlet Emil Agyekum mit neuem deutschen Rekord",
       "link": "https://www.rbb24.de/sport/beitrag/2026/07/berliner-emil-agyekum-knackt-44-jahre-alten-huerdenrekord.html",
       "date": "Sat, 18 Jul 2026 16:15:27 +0200"
     },
     {
-      "title": "Geschäft und Wohnungen in Schöneberg wegen giftigen Dämpfen geräumt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/schoeneberg-giftige-daempfe-haeuser-geraeumt.html",
-      "date": "Sat, 18 Jul 2026 14:38:56 +0200"
-    },
-    {
       "title": "Meisterschale der Füchse soll nur aus Jux geklaut worden sein",
       "link": "https://www.rbb24.de/sport/beitrag/2026/07/meisterschale-der-fuechse-geklaut-anwalt-klaert-auf.html",
       "date": "Sat, 18 Jul 2026 13:45:13 +0200"
-    },
-    {
-      "title": "Lollapalooza beginnt - bis zu 50.000 Gäste und Pitbull am Samstag erwartet",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/07/berlin-lollapalooza-festival-olympiastadion-samstag-sonntag-.html",
-      "date": "Sat, 18 Jul 2026 11:49:38 +0200"
     },
     {
       "title": "Das 32. Lesbisch-schwule Stadtfest beginnt in Schöneberg",
@@ -54,11 +59,6 @@
       "title": "Hunderte Menschen protestieren in Potsdam gegen Kürzungen im Gesundheitswesen",
       "link": "https://www.rbb24.de/politik/beitrag/2026/07/brandenburg-potsdam-protest-gesundheitswesen-kuerzungen.html",
       "date": "Fri, 17 Jul 2026 19:48:22 +0200"
-    },
-    {
-      "title": "Debatte über ZDF-Ausladung von Danger Dan",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/07/danger-dan-zdf-die-anstalt-ausladung.html",
-      "date": "Fri, 17 Jul 2026 17:40:27 +0200"
     }
   ],
   "police": [
@@ -130,7 +130,12 @@
     {
       "title": "Geschäft und Wohnungen in Schöneberg wegen giftigen Dämpfen geräumt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/schoeneberg-giftige-daempfe-haeuser-geraeumt.html",
-      "date": "Sat, 18 Jul 2026 14:38:56 +0200"
+      "date": "Sat, 18 Jul 2026 17:28:51 +0200"
+    },
+    {
+      "title": "Am Späti \"Wir sind noch nicht verheiratet, aber ich darf auch nicht fragen\"",
+      "link": "https://www.rbb24.de/panorama/thema/spaeti/berlin-altglienicke-am-spaeti-supermarkt-verkaeuferin-eigenheim.html",
+      "date": "Sat, 18 Jul 2026 17:18:32 +0200"
     },
     {
       "title": "Das 32. Lesbisch-schwule Stadtfest beginnt in Schöneberg",
@@ -181,11 +186,6 @@
       "title": "Barnim: Vermisster Mann im Werbellinsee tot aufgefunden",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/werbellinsee-vermisster-gefunden-polizei-brandenburg-ertrunken.html",
       "date": "Fri, 17 Jul 2026 16:04:54 +0200"
-    },
-    {
-      "title": "Durchsuchungen in Ludwigsfelde Teil einer Serie von Drogenrazzien in der Region",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/drogen-labor-ludwigsfelde-produktion-crystal-meth-bilanz-razzia.html",
-      "date": "Fri, 17 Jul 2026 15:14:56 +0200"
     }
   ]
 }
