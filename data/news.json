@@ -63,6 +63,16 @@
   ],
   "police": [
     {
+      "title": "Fußgänger bei Verkehrsunfall erheblich verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695214.php",
+      "date": "Sat, 18 Jul 2026 12:35:00 +0200"
+    },
+    {
+      "title": "Mit Messer und Baseballschläger lebensbedrohlich verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695213.php",
+      "date": "Sat, 18 Jul 2026 12:16:00 +0200"
+    },
+    {
       "title": "Zwei Männer nach Messerangriffen im Krankenhaus",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695212.php",
       "date": "Sat, 18 Jul 2026 11:40:00 +0200"
@@ -111,16 +121,6 @@
       "title": "Scharfe Schusswaffe sichergestellt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1694916.php",
       "date": "Fri, 17 Jul 2026 09:55:59 +0200"
-    },
-    {
-      "title": "Flucht vor der Polizei – Fahrer nach Verkehrsunfall festgenommen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1694737.php",
-      "date": "Thu, 16 Jul 2026 14:47:00 +0200"
-    },
-    {
-      "title": "Mann nach räuberischem Diebstahl im Juweliergeschäft gesucht – Polizei bittet um Mithilfe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1694278.php",
-      "date": "Thu, 16 Jul 2026 08:56:45 +0200"
     }
   ],
   "free_events": [],
