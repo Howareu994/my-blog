@@ -1,19 +1,9 @@
 {
   "traffic": [
     {
-      "title": "Geringe Gewitter-Schäden in Berlin und Brandenburg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brandenburg-gewitter-wetter-starkregen-freitag.html",
-      "date": "Sat, 18 Jul 2026 08:12:00 +0200"
-    },
-    {
       "title": "Strompreiszone mit Polen: Woidke träumt von 5 statt 25 Cent pro Kilowattstunde",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/brandenburg-strompreiszone-polen-energie.html",
       "date": "Sat, 18 Jul 2026 07:24:39 +0200"
-    },
-    {
-      "title": "Der Feuerwehrnachwuchs macht sich bereit",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/havelland-jugendfeuerwehr-waldbrand-nachwuchs.html",
-      "date": "Sat, 18 Jul 2026 07:19:54 +0200"
     },
     {
       "title": "Gesundheitsgefahr: Zehntausende landeseigene Wohnungen in Berlin wohl mit Asbest belastet",
@@ -41,11 +31,6 @@
       "date": "Fri, 17 Jul 2026 19:48:22 +0200"
     },
     {
-      "title": "Brandenburg muss Schadenersatz für Schließung von Haasenburg-Heimen zahlen",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/07/brandenburg-schliessung-haasenburg-schadensersatz.html",
-      "date": "Fri, 17 Jul 2026 18:23:49 +0200"
-    },
-    {
       "title": "Debatte über ZDF-Ausladung von Danger Dan",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/07/danger-dan-zdf-die-anstalt-ausladung.html",
       "date": "Fri, 17 Jul 2026 17:40:27 +0200"
@@ -59,6 +44,16 @@
       "title": "Angriff im Jugendamt in Finsterwalde: Verdächtiger in Untersuchungshaft",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-finsterwalde-verdaechtiger-haftrichter-angriff-jugendamt.html",
       "date": "Fri, 17 Jul 2026 17:00:01 +0200"
+    },
+    {
+      "title": "Beatsteaks spielen auf Burg Beeskow für Jugendarbeit und gegen Hass",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/07/beatsteaks-konzert-beeskow-jugendclub-pier13-engagement-brandenburg-berlin-benefits.html",
+      "date": "Fri, 17 Jul 2026 16:32:49 +0200"
+    },
+    {
+      "title": "Polizei nimmt Tatverdächtigen nach Schüssen auf Spätis in Potsdam fest",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/festnahme-schuesse-spaetkauf-potsdam.html",
+      "date": "Fri, 17 Jul 2026 16:17:02 +0200"
     }
   ],
   "police": [
@@ -128,19 +123,24 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Geringe Gewitter-Schäden in Berlin und Brandenburg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brandenburg-gewitter-wetter-starkregen-freitag.html",
-      "date": "Sat, 18 Jul 2026 08:12:00 +0200"
+      "title": "BVG will KI-gestützte Videoüberwachung an Bahnhöfen ausbauen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/bvg-kameraueberwachung-bahnhoefe-gleisbett-bereiche-ausbau.html",
+      "date": "Sat, 18 Jul 2026 10:20:02 +0200"
     },
     {
-      "title": "Der Feuerwehrnachwuchs macht sich bereit",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/havelland-jugendfeuerwehr-waldbrand-nachwuchs.html",
-      "date": "Sat, 18 Jul 2026 07:19:54 +0200"
+      "title": "Geringe Gewitter-Schäden in Berlin und Brandenburg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brandenburg-gewitter-wetter-starkregen-freitag.html",
+      "date": "Sat, 18 Jul 2026 09:56:15 +0200"
     },
     {
       "title": "Gesundheitsgefahr: Zehntausende landeseigene Wohnungen in Berlin wohl mit Asbest belastet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/asbest-gesundheit-bau-berufskrankheit-todesursache.html",
       "date": "Sat, 18 Jul 2026 07:19:43 +0200"
+    },
+    {
+      "title": "Der Feuerwehrnachwuchs macht sich bereit",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/havelland-jugendfeuerwehr-waldbrand-nachwuchs.html",
+      "date": "Sat, 18 Jul 2026 07:19:00 +0200"
     },
     {
       "title": "Sondereinheiten \"Ferrum\" und \"Telum\": Drei Festnahmen nach Schüssen auf Haus in Berlin-Spandau im Mai",
@@ -181,11 +181,6 @@
       "title": "Straßentunnel am Berliner Alexanderplatz wieder offen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-alexanderplatz-strassentunnel-offen-nach-bauarbeiten.html",
       "date": "Fri, 17 Jul 2026 13:42:57 +0200"
-    },
-    {
-      "title": "Finsterwalde: Angriff in Jugendamt löst Debatte um Schutz aus",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/reaktionen-angriff-kreisverwaltung-jugendamt-finsterwalde-elbe-elster-debatte.html",
-      "date": "Fri, 17 Jul 2026 12:16:17 +0200"
     }
   ]
 }
