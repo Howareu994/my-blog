@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Motorradfahrer kommt bei Unfall in Berlin-Schöneberg ums Leben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/toedlicher-motorradunfall-berlin-schoeneberg.html",
+      "date": "Sat, 18 Jul 2026 18:18:11 +0200"
+    },
+    {
+      "title": "Das 32. Lesbisch-schwule Stadtfest beginnt in Schöneberg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/lesbisch-schwules-stadtfest-schoeneberg.html",
+      "date": "Sat, 18 Jul 2026 17:49:48 +0200"
+    },
+    {
       "title": "Lollapalooza beginnt - bis zu 50.000 Gäste und Pitbull am Samstag erwartet",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/07/berlin-lollapalooza-festival-olympiastadion-samstag-sonntag-.html",
       "date": "Sat, 18 Jul 2026 17:42:28 +0200"
@@ -26,11 +36,6 @@
       "date": "Sat, 18 Jul 2026 13:45:13 +0200"
     },
     {
-      "title": "Das 32. Lesbisch-schwule Stadtfest beginnt in Schöneberg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/lesbisch-schwules-stadtfest-schoeneberg.html",
-      "date": "Sat, 18 Jul 2026 11:33:21 +0200"
-    },
-    {
       "title": "Strompreiszone mit Polen: Woidke träumt von 5 statt 25 Cent pro Kilowattstunde",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/brandenburg-strompreiszone-polen-energie.html",
       "date": "Sat, 18 Jul 2026 07:24:39 +0200"
@@ -54,11 +59,6 @@
       "title": "Sondereinheiten \"Ferrum\" und \"Telum\": Drei Festnahmen nach Schüssen auf Haus in Berlin-Spandau im Mai",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-polizei-ferrum-telum-festnahme.html",
       "date": "Fri, 17 Jul 2026 21:10:20 +0200"
-    },
-    {
-      "title": "Hunderte Menschen protestieren in Potsdam gegen Kürzungen im Gesundheitswesen",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/07/brandenburg-potsdam-protest-gesundheitswesen-kuerzungen.html",
-      "date": "Fri, 17 Jul 2026 19:48:22 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,21 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Auto kollidierte mit LKW: Mann nach Unfall auf A24 bei Neuruppin gestorben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/unfall-a24-neuruppin-gestorben.html",
+      "date": "Sat, 18 Jul 2026 18:24:19 +0200"
+    },
+    {
+      "title": "Motorradfahrer kommt bei Unfall in Berlin-Schöneberg ums Leben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/toedlicher-motorradunfall-berlin-schoeneberg.html",
+      "date": "Sat, 18 Jul 2026 18:18:11 +0200"
+    },
+    {
+      "title": "Das 32. Lesbisch-schwule Stadtfest beginnt in Schöneberg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/lesbisch-schwules-stadtfest-schoeneberg.html",
+      "date": "Sat, 18 Jul 2026 17:49:48 +0200"
+    },
+    {
       "title": "Geschäft und Wohnungen in Schöneberg wegen giftigen Dämpfen geräumt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/schoeneberg-giftige-daempfe-haeuser-geraeumt.html",
       "date": "Sat, 18 Jul 2026 17:28:51 +0200"
@@ -136,11 +151,6 @@
       "title": "Am Späti \"Wir sind noch nicht verheiratet, aber ich darf auch nicht fragen\"",
       "link": "https://www.rbb24.de/panorama/thema/spaeti/berlin-altglienicke-am-spaeti-supermarkt-verkaeuferin-eigenheim.html",
       "date": "Sat, 18 Jul 2026 17:18:32 +0200"
-    },
-    {
-      "title": "Das 32. Lesbisch-schwule Stadtfest beginnt in Schöneberg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/lesbisch-schwules-stadtfest-schoeneberg.html",
-      "date": "Sat, 18 Jul 2026 11:33:21 +0200"
     },
     {
       "title": "BVG will KI-gestützte Videoüberwachung an Bahnhöfen ausbauen",
@@ -176,16 +186,6 @@
       "title": "Angriff im Jugendamt in Finsterwalde: Verdächtiger in Untersuchungshaft",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-finsterwalde-verdaechtiger-haftrichter-angriff-jugendamt.html",
       "date": "Fri, 17 Jul 2026 17:00:01 +0200"
-    },
-    {
-      "title": "Polizei nimmt Tatverdächtigen nach Schüssen auf Spätis in Potsdam fest",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/festnahme-schuesse-spaetkauf-potsdam.html",
-      "date": "Fri, 17 Jul 2026 16:17:02 +0200"
-    },
-    {
-      "title": "Barnim: Vermisster Mann im Werbellinsee tot aufgefunden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/werbellinsee-vermisster-gefunden-polizei-brandenburg-ertrunken.html",
-      "date": "Fri, 17 Jul 2026 16:04:54 +0200"
     }
   ]
 }
