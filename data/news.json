@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Berliner Leichtathlet Emil Agyekum mit neuem deutschen Rekord",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/berliner-emil-agyekum-knackt-44-jahre-alten-huerdenrekord.html",
+      "date": "Sat, 18 Jul 2026 16:15:27 +0200"
+    },
+    {
       "title": "Geschäft und Wohnungen in Schöneberg wegen giftigen Dämpfen geräumt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/schoeneberg-giftige-daempfe-haeuser-geraeumt.html",
       "date": "Sat, 18 Jul 2026 14:38:56 +0200"
@@ -54,14 +59,19 @@
       "title": "Debatte über ZDF-Ausladung von Danger Dan",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/07/danger-dan-zdf-die-anstalt-ausladung.html",
       "date": "Fri, 17 Jul 2026 17:40:27 +0200"
-    },
-    {
-      "title": "Bakterienbefall: Trinkwasser in Buckow muss weiter abgekocht werden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/trinkwasser-bakterien-buckow.html",
-      "date": "Fri, 17 Jul 2026 17:07:48 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Auf Fahrbahnen zugerannt und Widerstand geleistet – DEIG-Einsatz",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695216.php",
+      "date": "Sat, 18 Jul 2026 15:25:00 +0200"
+    },
+    {
+      "title": "Mann mit Messer angegriffen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695215.php",
+      "date": "Sat, 18 Jul 2026 15:03:59 +0200"
+    },
     {
       "title": "Fußgänger bei Verkehrsunfall erheblich verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695214.php",
@@ -111,16 +121,6 @@
       "title": "Senior in Wohnung beraubt und verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695048.php",
       "date": "Fri, 17 Jul 2026 13:20:19 +0200"
-    },
-    {
-      "title": "Pyrotechnik explodiert – Mehrere Verletzte",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1694957.php",
-      "date": "Fri, 17 Jul 2026 11:02:21 +0200"
-    },
-    {
-      "title": "Scharfe Schusswaffe sichergestellt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1694916.php",
-      "date": "Fri, 17 Jul 2026 09:55:59 +0200"
     }
   ],
   "free_events": [],
