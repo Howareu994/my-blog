@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Lollapalooza beginnt - bis zu 50.000 Gäste und Pitbull am Samstag erwartet",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/07/berlin-lollapalooza-festival-olympiastadion-samstag-sonntag-.html",
+      "date": "Sat, 18 Jul 2026 11:49:38 +0200"
+    },
+    {
+      "title": "Das 32. Lesbisch-schwule Stadtfest beginnt in Schöneberg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/lesbisch-schwules-stadtfest-schoeneberg.html",
+      "date": "Sat, 18 Jul 2026 11:33:21 +0200"
+    },
+    {
       "title": "Strompreiszone mit Polen: Woidke träumt von 5 statt 25 Cent pro Kilowattstunde",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/brandenburg-strompreiszone-polen-energie.html",
       "date": "Sat, 18 Jul 2026 07:24:39 +0200"
@@ -49,14 +59,19 @@
       "title": "Beatsteaks spielen auf Burg Beeskow für Jugendarbeit und gegen Hass",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/07/beatsteaks-konzert-beeskow-jugendclub-pier13-engagement-brandenburg-berlin-benefits.html",
       "date": "Fri, 17 Jul 2026 16:32:49 +0200"
-    },
-    {
-      "title": "Polizei nimmt Tatverdächtigen nach Schüssen auf Spätis in Potsdam fest",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/festnahme-schuesse-spaetkauf-potsdam.html",
-      "date": "Fri, 17 Jul 2026 16:17:02 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Zwei Männer nach Messerangriffen im Krankenhaus",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695212.php",
+      "date": "Sat, 18 Jul 2026 11:40:00 +0200"
+    },
+    {
+      "title": "Rassistisch beleidigt und geschlagen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695211.php",
+      "date": "Sat, 18 Jul 2026 11:16:28 +0200"
+    },
     {
       "title": "Festnahmen und Durchsuchungen in Berlin nach Schussabgaben",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695177.php",
@@ -106,22 +121,17 @@
       "title": "Mann nach räuberischem Diebstahl im Juweliergeschäft gesucht – Polizei bittet um Mithilfe",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1694278.php",
       "date": "Thu, 16 Jul 2026 08:56:45 +0200"
-    },
-    {
-      "title": "Mann durch Schussabgaben verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1694112.php",
-      "date": "Wed, 15 Jul 2026 15:14:27 +0200"
-    },
-    {
-      "title": "Vom Unfallort geflüchtet und weiteren Unfall verursacht",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1693949.php",
-      "date": "Wed, 15 Jul 2026 12:34:01 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Das 32. Lesbisch-schwule Stadtfest beginnt in Schöneberg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/lesbisch-schwules-stadtfest-schoeneberg.html",
+      "date": "Sat, 18 Jul 2026 11:33:21 +0200"
+    },
     {
       "title": "BVG will KI-gestützte Videoüberwachung an Bahnhöfen ausbauen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/bvg-kameraueberwachung-bahnhoefe-gleisbett-bereiche-ausbau.html",
@@ -176,11 +186,6 @@
       "title": "Mann stirbt bei Badeunfall in Brandenburg an der Havel",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-havel-badeunfall-tot.html",
       "date": "Fri, 17 Jul 2026 14:52:39 +0200"
-    },
-    {
-      "title": "Straßentunnel am Berliner Alexanderplatz wieder offen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-alexanderplatz-strassentunnel-offen-nach-bauarbeiten.html",
-      "date": "Fri, 17 Jul 2026 13:42:57 +0200"
     }
   ]
 }
