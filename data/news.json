@@ -1,9 +1,24 @@
 {
   "traffic": [
     {
-      "title": "Gewitter über Berlin und Brandenburg: S-Bahn prallt gegen Baum",
+      "title": "Geringe Gewitter-Schäden in Berlin und Brandenburg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brandenburg-gewitter-wetter-starkregen-freitag.html",
-      "date": "Fri, 17 Jul 2026 23:13:00 +0200"
+      "date": "Sat, 18 Jul 2026 08:12:00 +0200"
+    },
+    {
+      "title": "Strompreiszone mit Polen: Woidke träumt von 5 statt 25 Cent pro Kilowattstunde",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/brandenburg-strompreiszone-polen-energie.html",
+      "date": "Sat, 18 Jul 2026 07:24:39 +0200"
+    },
+    {
+      "title": "Der Feuerwehrnachwuchs macht sich bereit",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/havelland-jugendfeuerwehr-waldbrand-nachwuchs.html",
+      "date": "Sat, 18 Jul 2026 07:19:54 +0200"
+    },
+    {
+      "title": "Gesundheitsgefahr: Zehntausende landeseigene Wohnungen in Berlin wohl mit Asbest belastet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/asbest-gesundheit-bau-berufskrankheit-todesursache.html",
+      "date": "Sat, 18 Jul 2026 07:19:43 +0200"
     },
     {
       "title": "1:1 gegen Winterthur: Union zum dritten Mal in Serie sieglos",
@@ -36,11 +51,6 @@
       "date": "Fri, 17 Jul 2026 17:40:27 +0200"
     },
     {
-      "title": "Bundesnetzagentur bestätigt Pläne: mehr Wettbewerb auf der Schiene ab 2028",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/bahn-fernverkehr-schiene-mehr-wettbewerb-konkurrenz-bundesnetzagentur.html",
-      "date": "Fri, 17 Jul 2026 17:15:30 +0200"
-    },
-    {
       "title": "Bakterienbefall: Trinkwasser in Buckow muss weiter abgekocht werden",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/trinkwasser-bakterien-buckow.html",
       "date": "Fri, 17 Jul 2026 17:07:48 +0200"
@@ -49,16 +59,6 @@
       "title": "Angriff im Jugendamt in Finsterwalde: Verdächtiger in Untersuchungshaft",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-finsterwalde-verdaechtiger-haftrichter-angriff-jugendamt.html",
       "date": "Fri, 17 Jul 2026 17:00:01 +0200"
-    },
-    {
-      "title": "Beatsteaks spielen auf Burg Beeskow für Jugendarbeit und gegen Hass",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/07/beatsteaks-konzert-beeskow-jugendclub-pier13-engagement-brandenburg-berlin-benefits.html",
-      "date": "Fri, 17 Jul 2026 16:32:49 +0200"
-    },
-    {
-      "title": "Polizei nimmt Tatverdächtigen nach Schüssen auf Spätis in Potsdam fest",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/festnahme-schuesse-spaetkauf-potsdam.html",
-      "date": "Fri, 17 Jul 2026 16:17:02 +0200"
     }
   ],
   "police": [
@@ -128,9 +128,19 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Gewitter über Berlin und Brandenburg: S-Bahn prallt gegen Baum",
+      "title": "Geringe Gewitter-Schäden in Berlin und Brandenburg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brandenburg-gewitter-wetter-starkregen-freitag.html",
-      "date": "Fri, 17 Jul 2026 23:13:00 +0200"
+      "date": "Sat, 18 Jul 2026 08:12:00 +0200"
+    },
+    {
+      "title": "Der Feuerwehrnachwuchs macht sich bereit",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/havelland-jugendfeuerwehr-waldbrand-nachwuchs.html",
+      "date": "Sat, 18 Jul 2026 07:19:54 +0200"
+    },
+    {
+      "title": "Gesundheitsgefahr: Zehntausende landeseigene Wohnungen in Berlin wohl mit Asbest belastet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/asbest-gesundheit-bau-berufskrankheit-todesursache.html",
+      "date": "Sat, 18 Jul 2026 07:19:43 +0200"
     },
     {
       "title": "Sondereinheiten \"Ferrum\" und \"Telum\": Drei Festnahmen nach Schüssen auf Haus in Berlin-Spandau im Mai",
@@ -176,16 +186,6 @@
       "title": "Finsterwalde: Angriff in Jugendamt löst Debatte um Schutz aus",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/reaktionen-angriff-kreisverwaltung-jugendamt-finsterwalde-elbe-elster-debatte.html",
       "date": "Fri, 17 Jul 2026 12:16:17 +0200"
-    },
-    {
-      "title": "Urteil: Wohnungseigentümer dürfen Klimaanlage auf Balkon einbauen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-bgh-klimaanlage-balkon-bundesgerichtshof-urteil.html",
-      "date": "Fri, 17 Jul 2026 10:31:44 +0200"
-    },
-    {
-      "title": "Warnung vor Astabbrüchen in Parks in Berlin und Brandenburg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brandenburg-warnung-astabbrueche-parks.html",
-      "date": "Fri, 17 Jul 2026 09:53:00 +0200"
     }
   ]
 }
