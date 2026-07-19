@@ -128,6 +128,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Berlin-Spandau: Autofahrer bedroht Zivilpolizisten mit vermeintlicher Waffe",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berliner-zivilpolizisten-autofahrer-waffe-bedroht.html",
+      "date": "Sun, 19 Jul 2026 21:33:46 +0200"
+    },
+    {
       "title": "Grabendorfer See im Spreewald: Beachparty-Gäste versprühen Reizgas während Schlägerei",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-oberspreewald-lausitz-vetschau-schlaegerei-reizgas-verletzte.html",
       "date": "Sun, 19 Jul 2026 17:43:00 +0200"
@@ -181,11 +186,6 @@
       "title": "Geringe Gewitter-Schäden in Berlin und Brandenburg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brandenburg-gewitter-wetter-starkregen-freitag.html",
       "date": "Sat, 18 Jul 2026 09:56:15 +0200"
-    },
-    {
-      "title": "Gesundheitsgefahr: Zehntausende landeseigene Wohnungen in Berlin wohl mit Asbest belastet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/asbest-gesundheit-bau-berufskrankheit-todesursache.html",
-      "date": "Sat, 18 Jul 2026 07:19:43 +0200"
     }
   ]
 }
