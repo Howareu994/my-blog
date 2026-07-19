@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Knapper Sieg für Viktoria im Testspiel gegen Hertha-Frauen",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-testspiel-hertha-frauen-viktoria-berlin-trainingslager.html",
+      "date": "Sun, 19 Jul 2026 18:02:57 +0200"
+    },
+    {
+      "title": "Grabendorfer See im Spreewald: Beachparty-Gäste versprühen Reizgas während Schlägerei",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-oberspreewald-lausitz-vetschau-schlaegerei-reizgas-verletzte.html",
+      "date": "Sun, 19 Jul 2026 17:43:00 +0200"
+    },
+    {
       "title": "Deutscher Rad-Nachwuchs: \"Unsere Talente haben keine Lobby\"",
       "link": "https://www.rbb24.de/sport/beitrag/2026/07/radsport-tour-de-france-max-kanter-lidl-trek-bora-hansgrohe-rsc-cottbus.html",
       "date": "Sun, 19 Jul 2026 17:26:00 +0200"
@@ -49,16 +59,6 @@
       "title": "Strafstoß-Festival: Union Berlin verliert Testspiel gegen Aarau",
       "link": "https://www.rbb24.de/sport/beitrag/2026/07/union-berlin-verliert-testspiel-gegen-aarau.html",
       "date": "Sat, 18 Jul 2026 19:41:10 +0200"
-    },
-    {
-      "title": "Motorradfahrer kommt bei Unfall in Berlin-Schöneberg ums Leben",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/toedlicher-motorradunfall-berlin-schoeneberg.html",
-      "date": "Sat, 18 Jul 2026 18:18:11 +0200"
-    },
-    {
-      "title": "Das 32. Lesbisch-schwule Stadtfest beginnt in Schöneberg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/lesbisch-schwules-stadtfest-schoeneberg.html",
-      "date": "Sat, 18 Jul 2026 17:49:48 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Grabendorfer See im Spreewald: Beachparty-Gäste versprühen Reizgas während Schlägerei",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-oberspreewald-lausitz-vetschau-schlaegerei-reizgas-verletzte.html",
+      "date": "Sun, 19 Jul 2026 17:43:00 +0200"
+    },
+    {
       "title": "Mann bedroht Feiernde mit seiner Axt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-mann-bedroht-feiernde-mit-axt.html",
       "date": "Sun, 19 Jul 2026 14:03:00 +0200"
@@ -181,11 +186,6 @@
       "title": "Gesundheitsgefahr: Zehntausende landeseigene Wohnungen in Berlin wohl mit Asbest belastet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/asbest-gesundheit-bau-berufskrankheit-todesursache.html",
       "date": "Sat, 18 Jul 2026 07:19:43 +0200"
-    },
-    {
-      "title": "Der Feuerwehrnachwuchs macht sich bereit",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/havelland-jugendfeuerwehr-waldbrand-nachwuchs.html",
-      "date": "Sat, 18 Jul 2026 07:19:00 +0200"
     }
   ]
 }
