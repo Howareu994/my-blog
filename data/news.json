@@ -1,14 +1,29 @@
 {
   "traffic": [
     {
+      "title": "Bauhaus in Berlin-Zehlendorf: Unesco berät über Aufnahme von Waldsiedlung in Welterbeliste",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/07/berlin-waldsiedlung-zehlendorf-unesco-welterbe.html",
+      "date": "Sun, 19 Jul 2026 13:38:46 +0200"
+    },
+    {
+      "title": "Waldsiedlung Zehlendorf für Unesco-Welterbe nominiert",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/07/waldsiedlung-zehlendorf-berlin-nominierung-unesco-welterbe.html",
+      "date": "Sun, 19 Jul 2026 13:32:54 +0200"
+    },
+    {
       "title": "Neuzugang bei der Hertha: Andreas Schuhmacher neuer Co-Trainer",
       "link": "https://www.rbb24.de/sport/beitrag/2026/07/neuer-hertha-co-trainer-an-der-seite-von-leitl-.html",
-      "date": "Sun, 19 Jul 2026 11:49:00 +0200"
+      "date": "Sun, 19 Jul 2026 13:29:02 +0200"
+    },
+    {
+      "title": "Wriezener Stadtverwaltung ist Opfer von Cyberangriff",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/cyberangriff-auf-stadtverwaltung-wriezen.html",
+      "date": "Sun, 19 Jul 2026 13:03:35 +0200"
     },
     {
       "title": "Elon Musk will Tesla-Werk in Grünheide weiter ausbauen",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/tesla-will-in-deutschland-expandieren.html",
-      "date": "Sun, 19 Jul 2026 11:46:21 +0200"
+      "date": "Sun, 19 Jul 2026 11:46:00 +0200"
     },
     {
       "title": "Mit Tanz-Therapie \"Booty Therapy\" gegen Traumata ankämpfen",
@@ -44,24 +59,19 @@
       "title": "Das 32. Lesbisch-schwule Stadtfest beginnt in Schöneberg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/lesbisch-schwules-stadtfest-schoeneberg.html",
       "date": "Sat, 18 Jul 2026 17:49:48 +0200"
-    },
-    {
-      "title": "Lollapalooza beginnt - bis zu 50.000 Gäste und Pitbull am Samstag erwartet",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/07/berlin-lollapalooza-festival-olympiastadion-samstag-sonntag-.html",
-      "date": "Sat, 18 Jul 2026 17:42:28 +0200"
-    },
-    {
-      "title": "Geschäft und Wohnungen in Schöneberg wegen giftigen Dämpfen geräumt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/schoeneberg-giftige-daempfe-haeuser-geraeumt.html",
-      "date": "Sat, 18 Jul 2026 17:28:51 +0200"
-    },
-    {
-      "title": "Am Späti \"Wir sind noch nicht verheiratet, aber ich darf auch nicht fragen\"",
-      "link": "https://www.rbb24.de/panorama/thema/spaeti/berlin-altglienicke-am-spaeti-supermarkt-verkaeuferin-eigenheim.html",
-      "date": "Sat, 18 Jul 2026 17:18:00 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Auseinandersetzung im Bus mit Pfefferspray",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695242.php",
+      "date": "Sun, 19 Jul 2026 12:55:44 +0200"
+    },
+    {
+      "title": "Motorradfahrer bei Verkehrsunfall tödlich verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695241.php",
+      "date": "Sun, 19 Jul 2026 12:48:02 +0200"
+    },
     {
       "title": "Auf Fahrbahnen zugerannt und Widerstand geleistet – DEIG-Einsatz",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695216.php",
@@ -111,22 +121,22 @@
       "title": "Festnahme nach mutmaßlich homophober Beleidigung und Bedrohung",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695102.php",
       "date": "Fri, 17 Jul 2026 14:35:42 +0200"
-    },
-    {
-      "title": "Radfahrer bei Ausweichmanöver gegen geparktes Auto geprallt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695094.php",
-      "date": "Fri, 17 Jul 2026 14:28:49 +0200"
-    },
-    {
-      "title": "Senior in Wohnung beraubt und verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695048.php",
-      "date": "Fri, 17 Jul 2026 13:20:19 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Mann bedroht Feiernde mit seiner Axt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-mann-bedroht-feiernde-mit-axt.html",
+      "date": "Sun, 19 Jul 2026 13:48:28 +0200"
+    },
+    {
+      "title": "Wriezener Stadtverwaltung ist Opfer von Cyberangriff",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/cyberangriff-auf-stadtverwaltung-wriezen.html",
+      "date": "Sun, 19 Jul 2026 13:03:35 +0200"
+    },
     {
       "title": "PMDS: Wenn der Zyklus die Psyche aus dem Gleichgewicht bringt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/pmds-frauengesundheit-menstruation-zyklus-psyche.html",
@@ -176,16 +186,6 @@
       "title": "Der Feuerwehrnachwuchs macht sich bereit",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/havelland-jugendfeuerwehr-waldbrand-nachwuchs.html",
       "date": "Sat, 18 Jul 2026 07:19:00 +0200"
-    },
-    {
-      "title": "Sondereinheiten \"Ferrum\" und \"Telum\": Drei Festnahmen nach Schüssen auf Haus in Berlin-Spandau im Mai",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-polizei-ferrum-telum-festnahme.html",
-      "date": "Fri, 17 Jul 2026 21:10:20 +0200"
-    },
-    {
-      "title": "Bakterienbefall: Trinkwasser in Buckow muss weiter abgekocht werden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/trinkwasser-bakterien-buckow.html",
-      "date": "Fri, 17 Jul 2026 17:07:48 +0200"
     }
   ]
 }
