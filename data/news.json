@@ -16,6 +16,11 @@
       "date": "Sun, 19 Jul 2026 17:26:00 +0200"
     },
     {
+      "title": "Energie Cottbus im Trainingslager: Ehrlich währt am längsten",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-energie-cottbus-trainingslager-unzufriedenheit-fehlende-ablaeufe.html",
+      "date": "Sun, 19 Jul 2026 15:49:31 +0200"
+    },
+    {
       "title": "Mann bedroht Feiernde mit seiner Axt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-mann-bedroht-feiernde-mit-axt.html",
       "date": "Sun, 19 Jul 2026 14:03:00 +0200"
@@ -54,11 +59,6 @@
       "title": "Energie Cottbus kassiert deutliche Niederlage im Test gegen Salzburg",
       "link": "https://www.rbb24.de/sport/beitrag/2026/07/energie-cottbus-verliert-deutlich-im-test-gegen-salzburg.html",
       "date": "Sat, 18 Jul 2026 20:14:00 +0200"
-    },
-    {
-      "title": "Strafstoß-Festival: Union Berlin verliert Testspiel gegen Aarau",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/07/union-berlin-verliert-testspiel-gegen-aarau.html",
-      "date": "Sat, 18 Jul 2026 19:41:10 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,21 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "45 Jahre beim Zoll: \"Ich habe die lebenden Tiere lieber\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/Zoll-Boehm-Asservatenkammer-Interview.html",
+      "date": "Mon, 20 Jul 2026 06:25:09 +0200"
+    },
+    {
+      "title": "Unterwegs mit dem Zoll am BER: Schnüffeln auf Anordnung",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/flughafen-ber-schmuggel-zoll-spuerhunde-drogen-tabak-bargeld-berlin-brandenburg.html",
+      "date": "Mon, 20 Jul 2026 06:20:17 +0200"
+    },
+    {
+      "title": "Rekord für den Zoll am BER: Mehr Kontrollen, deutlich mehr gefundene Drogen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/flughafen-ber-zoll-kontrollen-bilanz-2025-rekord-drogen-bargeld--spuerhunde.html",
+      "date": "Mon, 20 Jul 2026 06:16:50 +0200"
+    },
+    {
       "title": "Berlin-Spandau: Autofahrer bedroht Zivilpolizisten mit vermeintlicher Waffe",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berliner-zivilpolizisten-autofahrer-waffe-bedroht.html",
       "date": "Sun, 19 Jul 2026 21:33:46 +0200"
@@ -171,21 +186,6 @@
       "title": "Geschäft und Wohnungen in Schöneberg wegen giftigen Dämpfen geräumt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/schoeneberg-giftige-daempfe-haeuser-geraeumt.html",
       "date": "Sat, 18 Jul 2026 17:28:51 +0200"
-    },
-    {
-      "title": "Am Späti \"Wir sind noch nicht verheiratet, aber ich darf auch nicht fragen\"",
-      "link": "https://www.rbb24.de/panorama/thema/spaeti/berlin-altglienicke-am-spaeti-supermarkt-verkaeuferin-eigenheim.html",
-      "date": "Sat, 18 Jul 2026 17:18:00 +0200"
-    },
-    {
-      "title": "BVG will KI-gestützte Videoüberwachung an Bahnhöfen ausbauen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/bvg-kameraueberwachung-bahnhoefe-gleisbett-bereiche-ausbau.html",
-      "date": "Sat, 18 Jul 2026 10:20:02 +0200"
-    },
-    {
-      "title": "Geringe Gewitter-Schäden in Berlin und Brandenburg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brandenburg-gewitter-wetter-starkregen-freitag.html",
-      "date": "Sat, 18 Jul 2026 09:56:15 +0200"
     }
   ]
 }
