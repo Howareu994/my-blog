@@ -1,9 +1,29 @@
 {
   "traffic": [
     {
+      "title": "Zalando will offenbar weitere Stellen am Firmensitz Berlin abbauen",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/zalando-stellen-abbau-firmensitz-berlin-keine-kuendigungen.html",
+      "date": "Mon, 20 Jul 2026 18:40:15 +0200"
+    },
+    {
+      "title": "Fördermittelaffäre: CDU und SPD sehen Rechtsverstöße bei Kulturverwaltung",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/07/berlin-foerdermittel-affaere-bilanz-u-ausschuss-abgeordnetenhaus-vorwurf-unzulaessig-einflussnahme.html",
+      "date": "Mon, 20 Jul 2026 18:22:29 +0200"
+    },
+    {
+      "title": "Ukraine-Tagebuch: \"Am Ende wird es vier Billionen Euro kosten und dreißig Jahre dauern\"",
+      "link": "https://www.rbb24.de/politik/thema/Ukraine/beitraege/ukraine-tagebuch-kyjiw-michael-kanada-wiederaufbau.html",
+      "date": "Mon, 20 Jul 2026 18:11:30 +0200"
+    },
+    {
       "title": "Ausladung aus \"Die Anstalt\": Danger Dan in Berliner Columbiatheater",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/07/berlin-danger-dan-igor-levit-auftritt-columbiatheater-ausladung-zd-anstalt.html",
-      "date": "Mon, 20 Jul 2026 17:01:02 +0200"
+      "date": "Mon, 20 Jul 2026 17:33:08 +0200"
+    },
+    {
+      "title": "Eklat wegen Kranz von AfD bei Stauffenberg-Gedenken",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/07/eklat-stauffenberg-gedenken-berlin-afd-bundestagsfraktion-bonhoeffer.html",
+      "date": "Mon, 20 Jul 2026 17:07:00 +0200"
     },
     {
       "title": "U-Bahnhof Bismarckstraße frühestens im Juni 2029 fertig",
@@ -39,26 +59,6 @@
       "title": "Insgesamt weniger Straftaten im Berliner Nahverkehr - aber mehr Sexualdelikte",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/straftat-oepnv-nahverkehr-berlin.html",
       "date": "Mon, 20 Jul 2026 16:07:40 +0200"
-    },
-    {
-      "title": "Güterschiffe können auf der Oder teils nicht mehr fahren",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/elbe-oder-pegelstand-niedrigwasser-schifffahrt-eingestellt-wittenberge-lenzen-eisenhuettenstadt-frankfurt.html",
-      "date": "Mon, 20 Jul 2026 15:39:51 +0200"
-    },
-    {
-      "title": "Brandenburger CDU sieht Rücktritt von Spahn als Chance",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/07/brandenburger-cdu-jens-spahn-ruecktritt-chance.html",
-      "date": "Mon, 20 Jul 2026 15:09:30 +0200"
-    },
-    {
-      "title": "Mehrere Wege im Branitzer Park in Cottbus gesperrt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-cottbus-branitzer-park-sperrungen-wege-baeume.html",
-      "date": "Mon, 20 Jul 2026 14:41:10 +0200"
-    },
-    {
-      "title": "In Deutschland brüten so viele Störche wie noch nie",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/weissstorch-vogel-brut-artenschutz.html",
-      "date": "Mon, 20 Jul 2026 14:21:19 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Neuer Eigentümer will Bahnhofs-Passage in Bernau wieder attraktiv machen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/bahnhofspassage-bernau--brandenburg-einkaufen-rettung-insolvenz-einkaufsmall-medimax-schliesst.html",
+      "date": "Mon, 20 Jul 2026 17:29:14 +0200"
+    },
+    {
       "title": "U-Bahnhof Bismarckstraße frühestens im Juni 2029 fertig",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/u-bahnhof-bismarckstrasse-sanierung-baustelle-fertigstellung-bvg-berlin.html",
       "date": "Mon, 20 Jul 2026 16:44:36 +0200"
@@ -181,11 +186,6 @@
       "title": "Gräbendorfer See: Beachparty-Gäste versprühen Reizgas während Schlägerei",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-oberspreewald-lausitz-vetschau-schlaegerei-reizgas-verletzte.html",
       "date": "Mon, 20 Jul 2026 08:27:22 +0200"
-    },
-    {
-      "title": "45 Jahre beim Zoll: \"Ich habe die lebenden Tiere lieber\"",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/Zoll-Boehm-Asservatenkammer-Interview.html",
-      "date": "Mon, 20 Jul 2026 06:25:00 +0200"
     }
   ]
 }
