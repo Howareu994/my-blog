@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Starke weibliche Stimmen in den Nordischen Botschaften - Ausstellung \"The Sound of Courage\"",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/07/ausstellung-sound-of-courage-nordische-botschaften-berlin.html",
+      "date": "Tue, 21 Jul 2026 20:08:45 +0200"
+    },
+    {
+      "title": "Eichenprozessionsspinner: Mehrere Wasserwege im Spreewald wieder freigegeben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/eichenprozessionsspinner-spreewald-sperrungen-aufgehoben.html",
+      "date": "Tue, 21 Jul 2026 19:13:00 +0200"
+    },
+    {
       "title": "An der Tanke in Brandenburg: \"Manchmal staune ich selber, wie ich das alles schaffe\"",
       "link": "https://www.rbb24.de/panorama/thema/an-der-tanke/brandenburg-an-der-tanke-barnim-pflegerin.html",
       "date": "Tue, 21 Jul 2026 18:10:26 +0200"
@@ -36,11 +46,6 @@
       "date": "Tue, 21 Jul 2026 16:59:02 +0200"
     },
     {
-      "title": "Altglienicke, BFC Dynamo, Preussen und RSV Eintracht im Teamcheck",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/07/berlin-brandenburg-fussball-regionalliga-vorschau-altglienicke-bfc-dynamo-preussen-rsv-eintracht.html",
-      "date": "Tue, 21 Jul 2026 16:48:26 +0200"
-    },
-    {
       "title": "Mann lebt in Berliner Hotel ohne zu zahlen - Haftstrafe",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-prozess-mann-wohnt-in-hotel-zahlt-nicht-haftstrafe.html",
       "date": "Tue, 21 Jul 2026 16:24:45 +0200"
@@ -54,11 +59,6 @@
       "title": "Bahn: ICE stoppt wegen aggressiven Passagiers",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-bahn-ice-stopp-aggressiver-passagiert.html",
       "date": "Tue, 21 Jul 2026 15:44:14 +0200"
-    },
-    {
-      "title": "Konzert | Zig-Zag-Jazz-Festival: Mit 76 Jahren rockt Dee Dee Bridgewater den Gasometer",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/07/konzert-berlin-gasometer-zig-zag-jazz-festival-bridgewater-dee-quartett-saengerin.html",
-      "date": "Tue, 21 Jul 2026 15:35:19 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Eichenprozessionsspinner: Mehrere Wasserwege im Spreewald wieder freigegeben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/eichenprozessionsspinner-spreewald-sperrungen-aufgehoben.html",
+      "date": "Tue, 21 Jul 2026 19:13:00 +0200"
+    },
+    {
       "title": "An der Tanke in Brandenburg: \"Manchmal staune ich selber, wie ich das alles schaffe\"",
       "link": "https://www.rbb24.de/panorama/thema/an-der-tanke/brandenburg-an-der-tanke-barnim-pflegerin.html",
       "date": "Tue, 21 Jul 2026 18:10:26 +0200"
@@ -181,11 +186,6 @@
       "title": "Trend bei Ausbildungen: Handwerk statt Hochschule",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-ausbildung-handwerk-bewerbung-abitur.html",
       "date": "Tue, 21 Jul 2026 14:43:00 +0200"
-    },
-    {
-      "title": "Deutsche Bahn verbietet Alkohol an allen Bahnhöfen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/deutsche-bahn-alkoholverbot-an-bahnhoefen.html",
-      "date": "Tue, 21 Jul 2026 14:12:00 +0200"
     }
   ]
 }
