@@ -1,6 +1,41 @@
 {
   "traffic": [
     {
+      "title": "An der Tanke in Brandenburg: \"Manchmal staune ich selber, wie ich das alles schaffe\"",
+      "link": "https://www.rbb24.de/panorama/thema/an-der-tanke/brandenburg-an-der-tanke-barnim-pflegerin.html",
+      "date": "Tue, 21 Jul 2026 18:10:26 +0200"
+    },
+    {
+      "title": "Basketball-Bundesliga: Alba Berlin holt BBL-Star Joe Wieskamp",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/transfer-basketball-bundesliga-champions-league-alba-berlin-joe-wieskamp.html",
+      "date": "Tue, 21 Jul 2026 17:56:54 +0200"
+    },
+    {
+      "title": "Mann aus Storkow wegen schweren sexuellen Missbrauchs am Landgericht Frankfurt (Oder) verurteilt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/frankfurt-oder-prozess-sexueller-missbrauch-vater-kind-landgericht.html",
+      "date": "Tue, 21 Jul 2026 17:52:48 +0200"
+    },
+    {
+      "title": "Wie alte Gebäude neu aufgeputzt werden",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-havel-bauruine-renovierung-stadtbad.html",
+      "date": "Tue, 21 Jul 2026 17:37:47 +0200"
+    },
+    {
+      "title": "\"Besucherstollen\" soll Lausitzer Strukturwandel erlebbar machen",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/07/brandenburg-grossraeschen-millionen-foerdermittel-besucherstollen-strukturwandel.html",
+      "date": "Tue, 21 Jul 2026 17:16:12 +0200"
+    },
+    {
+      "title": "Geburtenrate in Berlin und Brandenburg auf tiefstem Stand seit Jahren",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/geburten-statistik-berlin-brandenburg-tiefstand.html",
+      "date": "Tue, 21 Jul 2026 17:10:55 +0200"
+    },
+    {
+      "title": "Bahnstrecke zwischen Berlin und Frankfurt (Oder) ab Freitag wochenlang gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/re-1-sperrung-frankfurt-oder-berlin-juli-august-bus-ersatz-flughafen-erkner.html",
+      "date": "Tue, 21 Jul 2026 16:59:02 +0200"
+    },
+    {
       "title": "Altglienicke, BFC Dynamo, Preussen und RSV Eintracht im Teamcheck",
       "link": "https://www.rbb24.de/sport/beitrag/2026/07/berlin-brandenburg-fussball-regionalliga-vorschau-altglienicke-bfc-dynamo-preussen-rsv-eintracht.html",
       "date": "Tue, 21 Jul 2026 16:48:26 +0200"
@@ -24,41 +59,6 @@
       "title": "Konzert | Zig-Zag-Jazz-Festival: Mit 76 Jahren rockt Dee Dee Bridgewater den Gasometer",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/07/konzert-berlin-gasometer-zig-zag-jazz-festival-bridgewater-dee-quartett-saengerin.html",
       "date": "Tue, 21 Jul 2026 15:35:19 +0200"
-    },
-    {
-      "title": "300 Drogentote in Berlin - Tendenz steigend",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/drogen-tote-berlin-gedenken-kreuzberg.html",
-      "date": "Tue, 21 Jul 2026 15:25:43 +0200"
-    },
-    {
-      "title": "Ökologe zur Waldbrandgefahr: \"Das Problem ist, dass der überwiegende Teil der Wälder in privater Hand liegt\"",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-klimawandel-mischwald-umbau-oekologe-staatliche-foederung-eberswalde.html",
-      "date": "Tue, 21 Jul 2026 14:46:46 +0200"
-    },
-    {
-      "title": "Trend bei Ausbildungen: Handwerk statt Hochschule",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-ausbildung-handwerk-bewerbung-abitur.html",
-      "date": "Tue, 21 Jul 2026 14:43:00 +0200"
-    },
-    {
-      "title": "Deutsche Bahn verbietet Alkohol an allen Bahnhöfen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/deutsche-bahn-alkoholverbot-an-bahnhoefen.html",
-      "date": "Tue, 21 Jul 2026 14:12:00 +0200"
-    },
-    {
-      "title": "Störung der Totenruhe: Vetschau schließt einen Friedhofseingang",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/07/brandenburg-vetschau-friedhof-stoerung-totenruhe-eingang-geschlossen.html",
-      "date": "Tue, 21 Jul 2026 13:52:43 +0200"
-    },
-    {
-      "title": "Queerfeindlichkeit: Verein erhält 4.000 Hasskommentare in zwei Wochen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/queer-queersave-interview-lesben-schwulen-verband-csd-csdberlin.html",
-      "date": "Tue, 21 Jul 2026 12:36:38 +0200"
-    },
-    {
-      "title": "Verfahren wegen Kindeswohlgefährdung nehmen zu",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/mehr-verfahren-kindeswohlgefaehrdung-berlin-brandenburg.html",
-      "date": "Tue, 21 Jul 2026 11:43:12 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,31 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "An der Tanke in Brandenburg: \"Manchmal staune ich selber, wie ich das alles schaffe\"",
+      "link": "https://www.rbb24.de/panorama/thema/an-der-tanke/brandenburg-an-der-tanke-barnim-pflegerin.html",
+      "date": "Tue, 21 Jul 2026 18:10:26 +0200"
+    },
+    {
+      "title": "Mann aus Storkow wegen schweren sexuellen Missbrauchs am Landgericht Frankfurt (Oder) verurteilt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/frankfurt-oder-prozess-sexueller-missbrauch-vater-kind-landgericht.html",
+      "date": "Tue, 21 Jul 2026 17:52:48 +0200"
+    },
+    {
+      "title": "Wie alte Gebäude neu aufgeputzt werden",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-havel-bauruine-renovierung-stadtbad.html",
+      "date": "Tue, 21 Jul 2026 17:37:47 +0200"
+    },
+    {
+      "title": "Geburtenrate in Berlin und Brandenburg auf tiefstem Stand seit Jahren",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/geburten-statistik-berlin-brandenburg-tiefstand.html",
+      "date": "Tue, 21 Jul 2026 17:10:55 +0200"
+    },
+    {
+      "title": "Bahnstrecke zwischen Berlin und Frankfurt (Oder) ab Freitag wochenlang gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/re-1-sperrung-frankfurt-oder-berlin-juli-august-bus-ersatz-flughafen-erkner.html",
+      "date": "Tue, 21 Jul 2026 16:59:02 +0200"
+    },
+    {
       "title": "Mann lebt in Berliner Hotel ohne zu zahlen - Haftstrafe",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-prozess-mann-wohnt-in-hotel-zahlt-nicht-haftstrafe.html",
       "date": "Tue, 21 Jul 2026 16:24:45 +0200"
@@ -161,31 +186,6 @@
       "title": "Deutsche Bahn verbietet Alkohol an allen Bahnhöfen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/deutsche-bahn-alkoholverbot-an-bahnhoefen.html",
       "date": "Tue, 21 Jul 2026 14:12:00 +0200"
-    },
-    {
-      "title": "Queerfeindlichkeit: Verein erhält 4.000 Hasskommentare in zwei Wochen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/queer-queersave-interview-lesben-schwulen-verband-csd-csdberlin.html",
-      "date": "Tue, 21 Jul 2026 12:36:38 +0200"
-    },
-    {
-      "title": "Verfahren wegen Kindeswohlgefährdung nehmen zu",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/mehr-verfahren-kindeswohlgefaehrdung-berlin-brandenburg.html",
-      "date": "Tue, 21 Jul 2026 11:43:12 +0200"
-    },
-    {
-      "title": "Finsterwalde: Kreisverwaltung öffnet nach Angriff teilweise wieder",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-finsterwalde-kreisverwaltung-jugendamt-angriff-oeffnung.html",
-      "date": "Tue, 21 Jul 2026 09:52:16 +0200"
-    },
-    {
-      "title": "16-jährige Fahrschülerin stirbt bei Unfall auf A24",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-ostprignitz-ruppin-a24-fahrschuelerin-tot.html",
-      "date": "Tue, 21 Jul 2026 08:50:57 +0200"
-    },
-    {
-      "title": "Neuer Eigentümer will Bahnhofs-Passage in Bernau wieder attraktiv machen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/bahnhofspassage-bernau--brandenburg-einkaufen-rettung-insolvenz-einkaufsmall-medimax-schliesst.html",
-      "date": "Mon, 20 Jul 2026 17:29:14 +0200"
     }
   ]
 }
