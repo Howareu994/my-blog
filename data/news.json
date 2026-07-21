@@ -1,6 +1,26 @@
 {
   "traffic": [
     {
+      "title": "Deutsche Bahn verbietet Alkohol an allen Bahnhöfen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/deutsche-bahn-alkoholverbot-an-bahnhoefen.html",
+      "date": "Tue, 21 Jul 2026 10:05:59 +0200"
+    },
+    {
+      "title": "16-jährige Fahrschülerin stirbt bei Unfall auf A24",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-ostprignitz-ruppin-a24-fahrschuelerin-tot.html",
+      "date": "Tue, 21 Jul 2026 08:50:57 +0200"
+    },
+    {
+      "title": "Konzert: La Delio Valdez im Columbia-Theater: Ekstase im Cumbia-Theater",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/07/konzert-berlin-la-delio-valdez-cumbia-band-argentinien-columbia-theater-.html",
+      "date": "Tue, 21 Jul 2026 08:38:11 +0200"
+    },
+    {
+      "title": "Eklat wegen Kranz von AfD bei Stauffenberg-Gedenken",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/07/eklat-stauffenberg-gedenken-berlin-afd-bundestagsfraktion-bonhoeffer.html",
+      "date": "Tue, 21 Jul 2026 08:25:37 +0200"
+    },
+    {
       "title": "German passport holders, EU citizens, refugees: Your voting rights in Berlin's upcoming elections",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/voting-rights-foreigner-citizen-state-parliament-district-assembly-participation.html",
       "date": "Tue, 21 Jul 2026 06:48:55 +0200"
@@ -14,11 +34,6 @@
       "title": "Basketball: Moses Wood verlässt Alba und wechselt nach Frankreich",
       "link": "https://www.rbb24.de/sport/beitrag/2026/07/basketball-bbl-alba-berlin-moses-wood-verlaesst-den-verein.html",
       "date": "Mon, 20 Jul 2026 21:43:47 +0200"
-    },
-    {
-      "title": "16-jährige Fahrschülerin stirbt bei Unfall auf A24",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-ostprignitz-ruppin-a24-fahrschuelerin-tot.html",
-      "date": "Mon, 20 Jul 2026 21:19:31 +0200"
     },
     {
       "title": "WM-Kolumne: Das ist die Lehre des spanischen Weltmeistertitels",
@@ -44,21 +59,6 @@
       "title": "Ausladung aus \"Die Anstalt\": Danger Dan in Berliner Columbiatheater",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/07/berlin-danger-dan-igor-levit-auftritt-columbiatheater-ausladung-zd-anstalt.html",
       "date": "Mon, 20 Jul 2026 17:33:08 +0200"
-    },
-    {
-      "title": "Eklat wegen Kranz von AfD bei Stauffenberg-Gedenken",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/07/eklat-stauffenberg-gedenken-berlin-afd-bundestagsfraktion-bonhoeffer.html",
-      "date": "Mon, 20 Jul 2026 17:07:00 +0200"
-    },
-    {
-      "title": "U-Bahnhof Bismarckstraße frühestens im Juni 2029 fertig",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/u-bahnhof-bismarckstrasse-sanierung-baustelle-fertigstellung-bvg-berlin.html",
-      "date": "Mon, 20 Jul 2026 16:44:36 +0200"
-    },
-    {
-      "title": "Finsterwalde: Kreisverwaltungs-Außenstelle öffnet nach Angriff teilweise wieder",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-finsterwalde-kreisverwaltung-jugendamt-angriff-oeffnung.html",
-      "date": "Mon, 20 Jul 2026 16:43:01 +0200"
     }
   ],
   "police": [
@@ -128,14 +128,24 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Queerfeindlichkeit: Verein erhält 4.000 Hasskommentare in zwei Wochen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/queer-queersave-interview-lesben-schwulen-verband-csd-csdberlin.html",
-      "date": "Tue, 21 Jul 2026 06:17:58 +0200"
+      "title": "Deutsche Bahn verbietet Alkohol an allen Bahnhöfen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/deutsche-bahn-alkoholverbot-an-bahnhoefen.html",
+      "date": "Tue, 21 Jul 2026 10:08:57 +0200"
+    },
+    {
+      "title": "Finsterwalde: Kreisverwaltung öffnet nach Angriff teilweise wieder",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-finsterwalde-kreisverwaltung-jugendamt-angriff-oeffnung.html",
+      "date": "Tue, 21 Jul 2026 09:52:16 +0200"
     },
     {
       "title": "16-jährige Fahrschülerin stirbt bei Unfall auf A24",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-ostprignitz-ruppin-a24-fahrschuelerin-tot.html",
-      "date": "Mon, 20 Jul 2026 21:19:31 +0200"
+      "date": "Tue, 21 Jul 2026 08:50:57 +0200"
+    },
+    {
+      "title": "Queerfeindlichkeit: Verein erhält 4.000 Hasskommentare in zwei Wochen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/queer-queersave-interview-lesben-schwulen-verband-csd-csdberlin.html",
+      "date": "Tue, 21 Jul 2026 06:17:58 +0200"
     },
     {
       "title": "Neuer Eigentümer will Bahnhofs-Passage in Bernau wieder attraktiv machen",
@@ -146,11 +156,6 @@
       "title": "U-Bahnhof Bismarckstraße frühestens im Juni 2029 fertig",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/u-bahnhof-bismarckstrasse-sanierung-baustelle-fertigstellung-bvg-berlin.html",
       "date": "Mon, 20 Jul 2026 16:44:36 +0200"
-    },
-    {
-      "title": "Finsterwalde: Kreisverwaltungs-Außenstelle öffnet nach Angriff teilweise wieder",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-finsterwalde-kreisverwaltung-jugendamt-angriff-oeffnung.html",
-      "date": "Mon, 20 Jul 2026 16:43:01 +0200"
     },
     {
       "title": "Insgesamt weniger Straftaten im Berliner Nahverkehr - aber mehr Sexualdelikte",
@@ -181,11 +186,6 @@
       "title": "Zahl der Schlachtungen in Brandenburg gesunken",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-weniger-tier-schlachtungen-.html",
       "date": "Mon, 20 Jul 2026 14:06:06 +0200"
-    },
-    {
-      "title": "Dachstuhlbrand in der Lausitz - Blitzeinschlag vermutet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-kolkwitz-feuer-dachstuhl-wetter-blitzschlag-kriminaltechnik.html",
-      "date": "Mon, 20 Jul 2026 12:05:10 +0200"
     }
   ]
 }
