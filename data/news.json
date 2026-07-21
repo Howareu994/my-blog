@@ -3,17 +3,37 @@
     {
       "title": "Deutsche Bahn verbietet Alkohol an allen Bahnhöfen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/deutsche-bahn-alkoholverbot-an-bahnhoefen.html",
-      "date": "Tue, 21 Jul 2026 10:05:59 +0200"
+      "date": "Tue, 21 Jul 2026 12:43:31 +0200"
+    },
+    {
+      "title": "Queerfeindlichkeit: Verein erhält 4.000 Hasskommentare in zwei Wochen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/queer-queersave-interview-lesben-schwulen-verband-csd-csdberlin.html",
+      "date": "Tue, 21 Jul 2026 12:36:38 +0200"
+    },
+    {
+      "title": "Verfahren wegen Kindeswohlgefährdung nehmen zu",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/mehr-verfahren-kindeswohlgefaehrdung-berlin-brandenburg.html",
+      "date": "Tue, 21 Jul 2026 11:43:12 +0200"
+    },
+    {
+      "title": "Konzert | Zig-Zag-Jazz-Festival: Mit 76 Jahren rockt Dee Dee Bridgewater den Gasometer",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/07/konzert-berlin-gasometer-zig-zag-jazz-festival-bridgewater-dee-quartett-saengerin.html",
+      "date": "Tue, 21 Jul 2026 11:07:40 +0200"
+    },
+    {
+      "title": "Konzertkritik: Cumbia-Band La Delio Valdez im Columbia-Theater",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/07/konzert-berlin-la-delio-valdez-cumbia-band-argentinien-columbia-theater-.html",
+      "date": "Tue, 21 Jul 2026 10:32:45 +0200"
+    },
+    {
+      "title": "WM-Kolumne: Das ist die Lehre des spanischen Weltmeistertitels",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-weltmeisterschaft-kolumne-die-lehre-der-wm-spanien-deutschland-klopp-de-la-fuente.html",
+      "date": "Tue, 21 Jul 2026 10:16:55 +0200"
     },
     {
       "title": "16-jährige Fahrschülerin stirbt bei Unfall auf A24",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-ostprignitz-ruppin-a24-fahrschuelerin-tot.html",
       "date": "Tue, 21 Jul 2026 08:50:57 +0200"
-    },
-    {
-      "title": "Konzert: La Delio Valdez im Columbia-Theater: Ekstase im Cumbia-Theater",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/07/konzert-berlin-la-delio-valdez-cumbia-band-argentinien-columbia-theater-.html",
-      "date": "Tue, 21 Jul 2026 08:38:11 +0200"
     },
     {
       "title": "Eklat wegen Kranz von AfD bei Stauffenberg-Gedenken",
@@ -26,19 +46,9 @@
       "date": "Tue, 21 Jul 2026 06:48:55 +0200"
     },
     {
-      "title": "Queerfeindlichkeit: Verein erhält 4.000 Hasskommentare in zwei Wochen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/queer-queersave-interview-lesben-schwulen-verband-csd-csdberlin.html",
-      "date": "Tue, 21 Jul 2026 06:17:58 +0200"
-    },
-    {
       "title": "Basketball: Moses Wood verlässt Alba und wechselt nach Frankreich",
       "link": "https://www.rbb24.de/sport/beitrag/2026/07/basketball-bbl-alba-berlin-moses-wood-verlaesst-den-verein.html",
       "date": "Mon, 20 Jul 2026 21:43:47 +0200"
-    },
-    {
-      "title": "WM-Kolumne: Das ist die Lehre des spanischen Weltmeistertitels",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-weltmeisterschaft-kolumne-die-lehre-der-wm-spanien-deutschland-klopp-de-la-fuente.html",
-      "date": "Mon, 20 Jul 2026 19:31:02 +0200"
     },
     {
       "title": "Zalando will offenbar weitere Stellen am Firmensitz Berlin abbauen",
@@ -49,19 +59,19 @@
       "title": "Fördermittelaffäre: CDU und SPD sehen Rechtsverstöße bei Kulturverwaltung",
       "link": "https://www.rbb24.de/politik/beitrag/2026/07/berlin-foerdermittel-affaere-bilanz-u-ausschuss-abgeordnetenhaus-vorwurf-unzulaessig-einflussnahme.html",
       "date": "Mon, 20 Jul 2026 18:22:29 +0200"
-    },
-    {
-      "title": "Ukraine-Tagebuch: \"Am Ende wird es vier Billionen Euro kosten und dreißig Jahre dauern\"",
-      "link": "https://www.rbb24.de/politik/thema/Ukraine/beitraege/ukraine-tagebuch-kyjiw-michael-kanada-wiederaufbau.html",
-      "date": "Mon, 20 Jul 2026 18:11:30 +0200"
-    },
-    {
-      "title": "Ausladung aus \"Die Anstalt\": Danger Dan in Berliner Columbiatheater",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/07/berlin-danger-dan-igor-levit-auftritt-columbiatheater-ausladung-zd-anstalt.html",
-      "date": "Mon, 20 Jul 2026 17:33:08 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Verkehrsunfall – Radfahrer verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695967.php",
+      "date": "Tue, 21 Jul 2026 12:51:13 +0200"
+    },
+    {
+      "title": "Toter identifiziert",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1424822.php",
+      "date": "Tue, 21 Jul 2026 11:00:00 +0200"
+    },
     {
       "title": "Streit im Straßenverkehr eskaliert",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695713.php",
@@ -111,16 +121,6 @@
       "title": "Mann mit Messer angegriffen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695215.php",
       "date": "Sat, 18 Jul 2026 15:03:59 +0200"
-    },
-    {
-      "title": "Fußgänger bei Verkehrsunfall erheblich verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695214.php",
-      "date": "Sat, 18 Jul 2026 12:35:00 +0200"
-    },
-    {
-      "title": "Mit Messer und Baseballschläger lebensbedrohlich verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695213.php",
-      "date": "Sat, 18 Jul 2026 12:16:00 +0200"
     }
   ],
   "free_events": [],
@@ -130,7 +130,17 @@
     {
       "title": "Deutsche Bahn verbietet Alkohol an allen Bahnhöfen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/deutsche-bahn-alkoholverbot-an-bahnhoefen.html",
-      "date": "Tue, 21 Jul 2026 10:08:57 +0200"
+      "date": "Tue, 21 Jul 2026 12:43:31 +0200"
+    },
+    {
+      "title": "Queerfeindlichkeit: Verein erhält 4.000 Hasskommentare in zwei Wochen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/queer-queersave-interview-lesben-schwulen-verband-csd-csdberlin.html",
+      "date": "Tue, 21 Jul 2026 12:36:38 +0200"
+    },
+    {
+      "title": "Verfahren wegen Kindeswohlgefährdung nehmen zu",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/mehr-verfahren-kindeswohlgefaehrdung-berlin-brandenburg.html",
+      "date": "Tue, 21 Jul 2026 11:43:12 +0200"
     },
     {
       "title": "Finsterwalde: Kreisverwaltung öffnet nach Angriff teilweise wieder",
@@ -141,11 +151,6 @@
       "title": "16-jährige Fahrschülerin stirbt bei Unfall auf A24",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-ostprignitz-ruppin-a24-fahrschuelerin-tot.html",
       "date": "Tue, 21 Jul 2026 08:50:57 +0200"
-    },
-    {
-      "title": "Queerfeindlichkeit: Verein erhält 4.000 Hasskommentare in zwei Wochen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/queer-queersave-interview-lesben-schwulen-verband-csd-csdberlin.html",
-      "date": "Tue, 21 Jul 2026 06:17:58 +0200"
     },
     {
       "title": "Neuer Eigentümer will Bahnhofs-Passage in Bernau wieder attraktiv machen",
@@ -181,11 +186,6 @@
       "title": "Studierendenbeschluss für Boykott: Berliner Humboldt-Universität will weiter mit Israel kooperieren",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/humboldt-uni-gegen-israel-boykott-beschluss-studierendenparlament.html",
       "date": "Mon, 20 Jul 2026 14:07:47 +0200"
-    },
-    {
-      "title": "Zahl der Schlachtungen in Brandenburg gesunken",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-weniger-tier-schlachtungen-.html",
-      "date": "Mon, 20 Jul 2026 14:06:06 +0200"
     }
   ]
 }
