@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "German passport holders, EU citizens, refugees: Your voting rights in Berlin's upcoming elections",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/voting-rights-foreigner-citizen-state-parliament-district-assembly-participation.html",
+      "date": "Tue, 21 Jul 2026 06:48:55 +0200"
+    },
+    {
+      "title": "Queerfeindlichkeit: Verein erhält 4.000 Hasskommentare in zwei Wochen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/queer-queersave-interview-lesben-schwulen-verband-csd-csdberlin.html",
+      "date": "Tue, 21 Jul 2026 06:17:58 +0200"
+    },
+    {
       "title": "Basketball: Moses Wood verlässt Alba und wechselt nach Frankreich",
       "link": "https://www.rbb24.de/sport/beitrag/2026/07/basketball-bbl-alba-berlin-moses-wood-verlaesst-den-verein.html",
       "date": "Mon, 20 Jul 2026 21:43:47 +0200"
@@ -49,16 +59,6 @@
       "title": "Finsterwalde: Kreisverwaltungs-Außenstelle öffnet nach Angriff teilweise wieder",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-finsterwalde-kreisverwaltung-jugendamt-angriff-oeffnung.html",
       "date": "Mon, 20 Jul 2026 16:43:01 +0200"
-    },
-    {
-      "title": "Ehemaliger Hertha-Kapitän Holger Brück gestorben",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-zweite-liga-hertha-bsc-holger-brueck-verstorben.html",
-      "date": "Mon, 20 Jul 2026 16:29:12 +0200"
-    },
-    {
-      "title": "Havelbrüder bei den Finals 2026: Kanupolo-Team jagt Titel-Hattrick",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/07/speed-kanupolo-ksvh-berlin-havelbrueder-finals-2026-hannover.html",
-      "date": "Mon, 20 Jul 2026 16:16:57 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Queerfeindlichkeit: Verein erhält 4.000 Hasskommentare in zwei Wochen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/queer-queersave-interview-lesben-schwulen-verband-csd-csdberlin.html",
+      "date": "Tue, 21 Jul 2026 06:17:58 +0200"
+    },
+    {
       "title": "16-jährige Fahrschülerin stirbt bei Unfall auf A24",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-ostprignitz-ruppin-a24-fahrschuelerin-tot.html",
       "date": "Mon, 20 Jul 2026 21:19:31 +0200"
@@ -181,11 +186,6 @@
       "title": "Dachstuhlbrand in der Lausitz - Blitzeinschlag vermutet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-kolkwitz-feuer-dachstuhl-wetter-blitzschlag-kriminaltechnik.html",
       "date": "Mon, 20 Jul 2026 12:05:10 +0200"
-    },
-    {
-      "title": "Rekordjahr für den Zoll am BER: Mehr Kontrollen, größere Drogenmengen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/flughafen-ber-zoll-kontrollen-bilanz-2025-rekord-drogen-bargeld--spuerhunde.html",
-      "date": "Mon, 20 Jul 2026 10:14:00 +0200"
     }
   ]
 }
