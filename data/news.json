@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Wie der Nahost-Konflikt Berlins linke Szene spaltet",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/07/berlin-hellersdorf-eskalation-linke-szene-nahost-konflikt-israel-palaestina.html",
+      "date": "Wed, 22 Jul 2026 17:46:53 +0200"
+    },
+    {
+      "title": "Regionaliga Nordost: Teamcheck Babelsberg, Luckenwalde, Tasmania, Hertha II",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-regionalliga-nordost-berlin-brandenburg-babelsberg-luckenwalde-tasmania-hertha-teamcheck.html",
+      "date": "Wed, 22 Jul 2026 17:04:42 +0200"
+    },
+    {
       "title": "Berliner Kantstraße: Teil des Radwegs soll entfernt werden",
       "link": "https://www.rbb24.de/politik/beitrag/2026/07/berlin-charlottenburg-kantstrasse-radweg-busspur.html",
       "date": "Wed, 22 Jul 2026 16:35:26 +0200"
@@ -23,7 +33,7 @@
     {
       "title": "Crumbach schließt Kürzungen im Regionalverkehr nicht aus",
       "link": "https://www.rbb24.de/politik/beitrag/2026/07/crumbach-regionalverkehr-bahn-kuerzung.html",
-      "date": "Wed, 22 Jul 2026 15:10:09 +0200"
+      "date": "Wed, 22 Jul 2026 15:10:00 +0200"
     },
     {
       "title": "PCK Schwedt: Bund prüft Ausbau von Pipeline neu",
@@ -49,16 +59,6 @@
       "title": "Durchgangsstraße wird saniert - Anwohner teils verärgert über späte Vorwarnung",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/oberhavel-marwitz-l17-strassenbau-baustelle.html",
       "date": "Wed, 22 Jul 2026 14:00:37 +0200"
-    },
-    {
-      "title": "Mann soll in Berlin-Mariendorf seine Mutter erstochen haben",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-mariendorf-sohn-ersticht-toetet-mutter-polizei.html",
-      "date": "Wed, 22 Jul 2026 13:50:42 +0200"
-    },
-    {
-      "title": "Wohnungslose Frau in Berlin mit Messer angegriffen und angezündet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-schoeneberg-wohnungslose-unterkunft-angriff-messer-brand-gewalt.html",
-      "date": "Wed, 22 Jul 2026 13:31:49 +0200"
     }
   ],
   "police": [
