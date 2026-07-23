@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Euro-Scheine: Bürger stimmen über neue Motive ab",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/banknoten-euro-geldscheine-eu-buerger-abstimmung.html",
+      "date": "Thu, 23 Jul 2026 09:28:07 +0200"
+    },
+    {
+      "title": "CSD: Sarah Connor singt Samstag am Brandenburger Tor",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/07/sarah-connor-brandenburger-tor-csd-berlin.html",
+      "date": "Thu, 23 Jul 2026 09:27:00 +0200"
+    },
+    {
+      "title": "O2 will Stellen streichen und rund 60 Shops schließen",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/o2-telefonica-stellenabbau-shops-schliessungen.html",
+      "date": "Thu, 23 Jul 2026 08:52:40 +0200"
+    },
+    {
       "title": "80 Jahre Defa: Filmmuseum Potsdam zeigt DDR-Alltag im Spielfilm",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/07/potsdam-filmmuseum-defa-ausstellung-jubilaeum.html",
       "date": "Thu, 23 Jul 2026 06:25:11 +0200"
@@ -8,7 +23,7 @@
     {
       "title": "Klage gegen Bundesregierung: Ehefrau eines Berliners sitzt in Gaza fest",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/gaza-berlin-ehefrau-nachzug-auswaertiges-amt-klage.html",
-      "date": "Thu, 23 Jul 2026 06:12:28 +0200"
+      "date": "Thu, 23 Jul 2026 06:12:00 +0200"
     },
     {
       "title": "Cottbuser Stadtverordnete revidieren Beschluss zu Gendersprache",
@@ -44,24 +59,14 @@
       "title": "Berliner Kantstraße: Teil des Radwegs soll entfernt werden",
       "link": "https://www.rbb24.de/politik/beitrag/2026/07/berlin-charlottenburg-kantstrasse-radweg-busspur.html",
       "date": "Wed, 22 Jul 2026 16:35:26 +0200"
-    },
-    {
-      "title": "Buckower müssen Trinkwasser nicht mehr abkochen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/buckow-maerkisch-oderland-trinkwasser-wieder-sauber-brandenburg.html",
-      "date": "Wed, 22 Jul 2026 16:23:34 +0200"
-    },
-    {
-      "title": "Ein umgedrehtes Kanu wird zum Multifunktionsgebäude am Sedlitzer See",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/brandenburg-sedlitz-sedlitzer-see-kanu-multifunktionsgebaeude-richtfest.html",
-      "date": "Wed, 22 Jul 2026 16:11:18 +0200"
-    },
-    {
-      "title": "Crumbach schließt Kürzungen im Regionalverkehr nicht aus",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/07/crumbach-regionalverkehr-bahn-kuerzung.html",
-      "date": "Wed, 22 Jul 2026 15:10:00 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Mann von mehreren Unbekannten angegriffen und verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1696736.php",
+      "date": "Thu, 23 Jul 2026 09:34:00 +0200"
+    },
     {
       "title": "Frau stirbt nach Messerangriff",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1696399.php",
@@ -116,11 +121,6 @@
       "title": "Festnahmen nach Wohnungseinbruch",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695515.php",
       "date": "Mon, 20 Jul 2026 12:04:47 +0200"
-    },
-    {
-      "title": "Kind bei Verkehrsunfall verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695398.php",
-      "date": "Mon, 20 Jul 2026 10:07:31 +0200"
     }
   ],
   "free_events": [],
@@ -130,7 +130,7 @@
     {
       "title": "Klage gegen Bundesregierung: Ehefrau eines Berliners sitzt in Gaza fest",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/gaza-berlin-ehefrau-nachzug-auswaertiges-amt-klage.html",
-      "date": "Thu, 23 Jul 2026 06:12:28 +0200"
+      "date": "Thu, 23 Jul 2026 06:12:00 +0200"
     },
     {
       "title": "Cottbuser Stadtverordnete revidieren Beschluss zu Gendersprache",
