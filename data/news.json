@@ -1,6 +1,41 @@
 {
   "traffic": [
     {
+      "title": "Das verspricht sich Hertha von Neuzugang Oluwaseun Adewumi",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-zweite-bundesliga-hertha-bsc-transfer-oluwaseun-adewumi-analyse.html",
+      "date": "Fri, 24 Jul 2026 20:05:44 +0200"
+    },
+    {
+      "title": "Reparatur bremst Berliner S-Bahn aus - Streckensperrung ab Freitagabend",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-s-bahn-sperrung-reparatur.html",
+      "date": "Fri, 24 Jul 2026 18:51:00 +0200"
+    },
+    {
+      "title": "Hertha-Frauen gewinnen Testspiel vor Zweitliga-Start",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-frauen-2-bundesliga-hertha-bsc-lech-posen-testspiel-ergebnis.html",
+      "date": "Fri, 24 Jul 2026 18:36:47 +0200"
+    },
+    {
+      "title": "Christopher Street Day in Berlin mit Drag March gestartet",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/07/berlin-christopher-street-day-parade.html",
+      "date": "Fri, 24 Jul 2026 18:20:26 +0200"
+    },
+    {
+      "title": "Wolfsabschuss: Welche Regeln plant Brandenburg im Jagdgesetz?",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-jagdgesetz-abschuss-woelfe-debatte.html",
+      "date": "Fri, 24 Jul 2026 18:13:09 +0200"
+    },
+    {
+      "title": "Wolletzsee in Angermünde von Blaualgen befallen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/blaualge-wolletzsee-baden-angermuende-uckermark-brandenburg.html",
+      "date": "Fri, 24 Jul 2026 18:12:56 +0200"
+    },
+    {
+      "title": "Warnung vor Astabbrüchen in Parks in Berlin und Brandenburg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brandenburg-warnung-astabbrueche-parks.html",
+      "date": "Fri, 24 Jul 2026 17:36:12 +0200"
+    },
+    {
       "title": "Erster Neuzugang: Hertha BSC leiht Oluwaseun Adewumi aus",
       "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-2-bundesliga-hertha-bsc-transfer-oluwaseun-adewumi-neuzugang.html",
       "date": "Fri, 24 Jul 2026 15:55:37 +0200"
@@ -24,41 +59,6 @@
       "title": "Warum die Berliner Feuerwehr Bedenken beim Tramausbau hat",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-tram-strassenbahn-ausbau-feuerwehr-sicherheit-m10.html",
       "date": "Fri, 24 Jul 2026 14:42:41 +0200"
-    },
-    {
-      "title": "Wilke verteidigt Stationsschließungen in Potsdamer Kliniken",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/07/brandenburg-potsdam-krankenhaus-stationsschliessung.html",
-      "date": "Fri, 24 Jul 2026 14:39:10 +0200"
-    },
-    {
-      "title": "Im August Sonnenfinsternis und Perseiden-Schauer über Berlin und Brandenburg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brandenburg-sonnenfinsternis.html",
-      "date": "Fri, 24 Jul 2026 14:37:10 +0200"
-    },
-    {
-      "title": "Vier von 21 Parteien nicht zur Berliner Abgeordnetenhauswahl zugelassen",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/landeswahlausschuss-parteien-landeslisten-bezirkslisten.html",
-      "date": "Fri, 24 Jul 2026 13:43:31 +0200"
-    },
-    {
-      "title": "Asiatische Hornisse: Erstmals Nest in Brandenburg entfernt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-eisenhuettenstadt-asiatische-hornisse.html",
-      "date": "Fri, 24 Jul 2026 13:38:00 +0200"
-    },
-    {
-      "title": "CSD in Berlin: So sehen Demo-Route und Programm aus",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-christopher-street-day-berlin.html",
-      "date": "Fri, 24 Jul 2026 13:35:25 +0200"
-    },
-    {
-      "title": "Diese Verkehrseinschränkungen gelten während des Berliner CSDs",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-christopher-street-day-csd-demo-route-sperrung-programm.html",
-      "date": "Fri, 24 Jul 2026 13:17:51 +0200"
-    },
-    {
-      "title": "Camperkirche in Blüthen: Übernachten am Friedhof",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/07/brandenburg-prignitz-bluethen-camping-kirche.html",
-      "date": "Fri, 24 Jul 2026 12:27:53 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,26 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Reparatur bremst Berliner S-Bahn aus - Streckensperrung ab Freitagabend",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-s-bahn-sperrung-reparatur.html",
+      "date": "Fri, 24 Jul 2026 18:51:00 +0200"
+    },
+    {
+      "title": "Wolfsabschuss: Welche Regeln plant Brandenburg im Jagdgesetz?",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-jagdgesetz-abschuss-woelfe-debatte.html",
+      "date": "Fri, 24 Jul 2026 18:13:09 +0200"
+    },
+    {
+      "title": "Wolletzsee in Angermünde von Blaualgen befallen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/blaualge-wolletzsee-baden-angermuende-uckermark-brandenburg.html",
+      "date": "Fri, 24 Jul 2026 18:12:56 +0200"
+    },
+    {
+      "title": "Warnung vor Astabbrüchen in Parks in Berlin und Brandenburg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brandenburg-warnung-astabbrueche-parks.html",
+      "date": "Fri, 24 Jul 2026 17:36:12 +0200"
+    },
+    {
       "title": "Legionellen-Befall: Keine Ermittlungen der Staatsanwaltschaft nach Todesfällen im Seniorenheim",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-tegel-seniorenheim-legionellen-tote.html",
       "date": "Fri, 24 Jul 2026 15:32:38 +0200"
@@ -166,26 +186,6 @@
       "title": "Diese Verkehrseinschränkungen gelten während des Berliner CSDs",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-christopher-street-day-csd-demo-route-sperrung-programm.html",
       "date": "Fri, 24 Jul 2026 13:17:51 +0200"
-    },
-    {
-      "title": "Reparatur bremst Berliner S-Bahn aus - Streckensperrung ab Freitagabend",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-s-bahn-sperrung-reparatur.html",
-      "date": "Fri, 24 Jul 2026 11:55:15 +0200"
-    },
-    {
-      "title": "Livestream vom Christopher Street Day 2026 in Berlin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/livestream-csd-christopher-street-day-berlin.html",
-      "date": "Fri, 24 Jul 2026 10:21:57 +0200"
-    },
-    {
-      "title": "Queere Eltern: Wenn der Staat die zweite Mutter ignoriert",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/queer-regenbogen-familien-diskriminierung-abstammungsrecht-berlin.html",
-      "date": "Fri, 24 Jul 2026 07:19:32 +0200"
-    },
-    {
-      "title": "RE1-Strecke zwischen Berlin und Frankfurt (Oder) wochenlang gesperrt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/re-1-sperrung-frankfurt-oder-berlin-juli-august-bus-ersatz-flughafen-erkner.html",
-      "date": "Fri, 24 Jul 2026 07:17:49 +0200"
     }
   ]
 }
