@@ -1,19 +1,24 @@
 {
   "traffic": [
     {
+      "title": "Kneipe in Bürgerhand: Neues Konzept für Kranhaus Wittenberge",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/prignitz-wittenberge-kneipe-genossenschaft-kranhaus.html",
+      "date": "Fri, 24 Jul 2026 06:02:07 +0200"
+    },
+    {
+      "title": "Queere Eltern: Wenn der Staat die zweite Mutter ignoriert",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/queer-regenbogen-familien-diskriminierung-abstammungsrecht-berlin.html",
+      "date": "Fri, 24 Jul 2026 06:01:55 +0200"
+    },
+    {
       "title": "Legionellen-Befall in Berliner Seniorenheim - Todesfälle werden überprüft",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-tegel-seniorenheim-legionellen-tote.html",
       "date": "Thu, 23 Jul 2026 21:19:33 +0200"
     },
     {
-      "title": "Einbürgerung: Brandenburgs Sozialminister für verschärfte Regeln",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/07/brandenburg-einbuergerung-staatsbuergerschaft-wilke.html",
-      "date": "Thu, 23 Jul 2026 20:23:07 +0200"
-    },
-    {
-      "title": "\"Feel Festival\" in Lichterfeld startet: Unz-Unz, Yo-Yo und Acro-Yoga",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/07/brandenburg-bergheider-see-lichterfeld-feel-festival-musik-besucher-bergwerk-f60.html",
-      "date": "Thu, 23 Jul 2026 19:50:28 +0200"
+      "title": "Jugendorganisation der \"Heimat\" verzeichnet deutlichen Mitgliederzuwachs",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/07/die-heimat-junge-nationalisten-rechtsextremismus-parteimitglieder.html",
+      "date": "Thu, 23 Jul 2026 20:34:36 +0200"
     },
     {
       "title": "Hoffnungsträger Brekalo verlängert bei Hertha BSC bis 2028",
@@ -44,21 +49,6 @@
       "title": "Chefarchitekt Ost-Berlins Roland Korn mit 96 Jahren gestorben",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/roland-korn-architekt-gestorben.html",
       "date": "Thu, 23 Jul 2026 17:58:00 +0200"
-    },
-    {
-      "title": "Am Späti in Berlin-Marienfelde: \"Auf Arbeit nennen sie mich Flummi\"",
-      "link": "https://www.rbb24.de/panorama/thema/spaeti/berlin-marienfelde-am-spaeti-koch-altenheim.html",
-      "date": "Thu, 23 Jul 2026 17:45:00 +0200"
-    },
-    {
-      "title": "Brandenburg will Abschiebungen nach Afghanistan ausweiten",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/07/brandenburg-abschiebungen-afghanistan-taliban-wilke.html",
-      "date": "Thu, 23 Jul 2026 17:31:25 +0200"
-    },
-    {
-      "title": "In Steglitzer Albrechtstraße muss wieder Tempo 30 gelten",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/07/berlin-steglitz-albrechtstrasse-tempo-30-gericht-umwelthilfe-senat.html",
-      "date": "Thu, 23 Jul 2026 17:28:16 +0200"
     }
   ],
   "police": [
@@ -128,6 +118,16 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Kneipe in Bürgerhand: Neues Konzept für Kranhaus Wittenberge",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/prignitz-wittenberge-kneipe-genossenschaft-kranhaus.html",
+      "date": "Fri, 24 Jul 2026 06:02:07 +0200"
+    },
+    {
+      "title": "Queere Eltern: Wenn der Staat die zweite Mutter ignoriert",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/queer-regenbogen-familien-diskriminierung-abstammungsrecht-berlin.html",
+      "date": "Fri, 24 Jul 2026 06:01:55 +0200"
+    },
+    {
       "title": "Legionellen-Befall in Berliner Seniorenheim - Todesfälle werden überprüft",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-tegel-seniorenheim-legionellen-tote.html",
       "date": "Thu, 23 Jul 2026 21:19:33 +0200"
@@ -176,16 +176,6 @@
       "title": "Warum ein Restaurant in Wandlitz Mahlzeiten an Bedürftige verschenkt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/restaurant-wandlitz-barnim-kostenloses-essen-beduerftige.html",
       "date": "Thu, 23 Jul 2026 12:05:00 +0200"
-    },
-    {
-      "title": "Motorradfahrer stirbt bei Unfall in Flecken Zechlin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-ostprignitz-ruppin-flecken-zechlin-unfall-motorrad.html",
-      "date": "Thu, 23 Jul 2026 11:57:59 +0200"
-    },
-    {
-      "title": "Cottbuser Stadtverordnete revidieren Beschluss zu Gendersprache",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-cottbusstadtverordnete-bschluss-sprachregelung-revidiert.html",
-      "date": "Wed, 22 Jul 2026 20:26:02 +0200"
     }
   ]
 }
