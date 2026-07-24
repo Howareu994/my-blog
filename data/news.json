@@ -1,24 +1,44 @@
 {
   "traffic": [
     {
+      "title": "Christopher Street Day in Berlin mit Demokratiefest gestartet",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/07/berlin-christopher-street-day-parade.html",
+      "date": "Fri, 24 Jul 2026 22:03:44 +0200"
+    },
+    {
+      "title": "BFC Dynamo kassierte herbe Auftaktpleite, Luckenwalde verliert",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-regionalliga-nordost-rlno-auftakt-erfurt-bfc-dynamo-luckenwalde-lok-leipzig-spieltag-1.html",
+      "date": "Fri, 24 Jul 2026 21:50:48 +0200"
+    },
+    {
+      "title": "Überfall bei Autogeschäft: Drei Jahre Haft für Berliner Polizisten",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-landgericht-falscher-polizist-beamter-autokauf-ueberfall-urteil.html",
+      "date": "Fri, 24 Jul 2026 21:05:30 +0200"
+    },
+    {
+      "title": "RE1-Strecke zwischen Berlin und Frankfurt (Oder) wochenlang gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/re-1-sperrung-frankfurt-oder-berlin-juli-august-bus-ersatz-flughafen-erkner.html",
+      "date": "Fri, 24 Jul 2026 21:00:00 +0200"
+    },
+    {
+      "title": "\"Finals 2026\": Potsdamer dominieren Schwimm-Meisterschaften",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/berlin-brandenburg-finals-tag-2-hannover-schwimmen-coastal-rowing.html",
+      "date": "Fri, 24 Jul 2026 20:58:32 +0200"
+    },
+    {
+      "title": "Reparatur bremst Berliner S-Bahn aus - Streckensperrung ab Freitagabend",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-s-bahn-sperrung-reparatur.html",
+      "date": "Fri, 24 Jul 2026 20:13:20 +0200"
+    },
+    {
       "title": "Das verspricht sich Hertha von Neuzugang Oluwaseun Adewumi",
       "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-zweite-bundesliga-hertha-bsc-transfer-oluwaseun-adewumi-analyse.html",
       "date": "Fri, 24 Jul 2026 20:05:44 +0200"
     },
     {
-      "title": "Reparatur bremst Berliner S-Bahn aus - Streckensperrung ab Freitagabend",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-s-bahn-sperrung-reparatur.html",
-      "date": "Fri, 24 Jul 2026 18:51:00 +0200"
-    },
-    {
       "title": "Hertha-Frauen gewinnen Testspiel vor Zweitliga-Start",
       "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-frauen-2-bundesliga-hertha-bsc-lech-posen-testspiel-ergebnis.html",
       "date": "Fri, 24 Jul 2026 18:36:47 +0200"
-    },
-    {
-      "title": "Christopher Street Day in Berlin mit Drag March gestartet",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/07/berlin-christopher-street-day-parade.html",
-      "date": "Fri, 24 Jul 2026 18:20:26 +0200"
     },
     {
       "title": "Wolfsabschuss: Welche Regeln plant Brandenburg im Jagdgesetz?",
@@ -39,26 +59,6 @@
       "title": "Erster Neuzugang: Hertha BSC leiht Oluwaseun Adewumi aus",
       "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-2-bundesliga-hertha-bsc-transfer-oluwaseun-adewumi-neuzugang.html",
       "date": "Fri, 24 Jul 2026 15:55:37 +0200"
-    },
-    {
-      "title": "Legionellen-Befall: Keine Ermittlungen der Staatsanwaltschaft nach Todesfällen im Seniorenheim",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-tegel-seniorenheim-legionellen-tote.html",
-      "date": "Fri, 24 Jul 2026 15:32:38 +0200"
-    },
-    {
-      "title": "76 Jahre alter Berliner stürzt im Karwendelgebirge in den Tod",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-oberbayern-karwendelgebirge-tot-wandern-berge.html",
-      "date": "Fri, 24 Jul 2026 14:59:59 +0200"
-    },
-    {
-      "title": "Erster Fund in Brandenburg: So gefährlich ist die Asiatische Hornisse",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/asiatische-hornisse-faq-neue-heimische-art.html",
-      "date": "Fri, 24 Jul 2026 14:55:23 +0200"
-    },
-    {
-      "title": "Warum die Berliner Feuerwehr Bedenken beim Tramausbau hat",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-tram-strassenbahn-ausbau-feuerwehr-sicherheit-m10.html",
-      "date": "Fri, 24 Jul 2026 14:42:41 +0200"
     }
   ],
   "police": [
@@ -128,9 +128,19 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Überfall bei Autogeschäft: Drei Jahre Haft für Berliner Polizisten",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-landgericht-falscher-polizist-beamter-autokauf-ueberfall-urteil.html",
+      "date": "Fri, 24 Jul 2026 21:05:30 +0200"
+    },
+    {
+      "title": "RE1-Strecke zwischen Berlin und Frankfurt (Oder) wochenlang gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/re-1-sperrung-frankfurt-oder-berlin-juli-august-bus-ersatz-flughafen-erkner.html",
+      "date": "Fri, 24 Jul 2026 21:00:00 +0200"
+    },
+    {
       "title": "Reparatur bremst Berliner S-Bahn aus - Streckensperrung ab Freitagabend",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-s-bahn-sperrung-reparatur.html",
-      "date": "Fri, 24 Jul 2026 18:51:00 +0200"
+      "date": "Fri, 24 Jul 2026 20:13:20 +0200"
     },
     {
       "title": "Wolfsabschuss: Welche Regeln plant Brandenburg im Jagdgesetz?",
@@ -176,16 +186,6 @@
       "title": "Asiatische Hornisse: Erstmals Nest in Brandenburg entfernt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-eisenhuettenstadt-asiatische-hornisse.html",
       "date": "Fri, 24 Jul 2026 13:38:00 +0200"
-    },
-    {
-      "title": "CSD in Berlin: So sehen Demo-Route und Programm aus",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-christopher-street-day-berlin.html",
-      "date": "Fri, 24 Jul 2026 13:35:25 +0200"
-    },
-    {
-      "title": "Diese Verkehrseinschränkungen gelten während des Berliner CSDs",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-christopher-street-day-csd-demo-route-sperrung-programm.html",
-      "date": "Fri, 24 Jul 2026 13:17:51 +0200"
     }
   ]
 }
