@@ -1,14 +1,29 @@
 {
   "traffic": [
     {
-      "title": "Reparatur bremst Berliner S-Bahn aus - Streckensperrung ab Freitagabend",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-s-bahn-sperrung-reparatur.html",
-      "date": "Fri, 24 Jul 2026 09:53:29 +0200"
+      "title": "Camperkirche in Blüthen: Übernachten am Friedhof",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/07/brandenburg-prignitz-bluethen-camping-kirche.html",
+      "date": "Fri, 24 Jul 2026 12:27:53 +0200"
     },
     {
-      "title": "Christopher-Street-Day: Erste CSD-Veranstaltungen in Berlin starten",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/07/berlin-christopher-street-day-parade.html",
-      "date": "Fri, 24 Jul 2026 08:38:00 +0200"
+      "title": "Vier von 21 Parteien nicht zur Berliner Abgeordnetenhauswahl zugelassen",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/landeswahlausschuss-parteien-landeslisten-bezirkslisten.html",
+      "date": "Fri, 24 Jul 2026 12:19:24 +0200"
+    },
+    {
+      "title": "CSD in Berlin: So sehen Demo-Route und Programm aus",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-christopher-street-day-berlin.html",
+      "date": "Fri, 24 Jul 2026 12:04:30 +0200"
+    },
+    {
+      "title": "Reparatur bremst Berliner S-Bahn aus - Streckensperrung ab Freitagabend",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-s-bahn-sperrung-reparatur.html",
+      "date": "Fri, 24 Jul 2026 11:55:15 +0200"
+    },
+    {
+      "title": "Finals: Barfuß ins Ziel nach Schuh-Verwechslung mit Potsdamer",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/finals-triathlon-barfuss-luis-ruehl-schuh-verwechselt-scott-kosl.html",
+      "date": "Fri, 24 Jul 2026 10:27:42 +0200"
     },
     {
       "title": "Spezialeinsatz gegen die Asiatische Hornisse in Eisenhüttenstadt",
@@ -19,11 +34,6 @@
       "title": "Jugendorganisation der \"Heimat\" verzeichnet deutlichen Mitgliederzuwachs",
       "link": "https://www.rbb24.de/politik/beitrag/2026/07/die-heimat-junge-nationalisten-rechtsextremismus-parteimitglieder.html",
       "date": "Fri, 24 Jul 2026 07:33:26 +0200"
-    },
-    {
-      "title": "Berlin-Wahl: Wahlausschuss berät über Zulassung von 21 Parteien",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/landeswahlausschuss-parteien-landeslisten-bezirkslisten.html",
-      "date": "Fri, 24 Jul 2026 07:32:25 +0200"
     },
     {
       "title": "Queere Eltern: Wenn der Staat die zweite Mutter ignoriert",
@@ -44,19 +54,24 @@
       "title": "Legionellen-Befall in Berliner Seniorenheim - Todesfälle werden überprüft",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-tegel-seniorenheim-legionellen-tote.html",
       "date": "Thu, 23 Jul 2026 21:19:33 +0200"
-    },
-    {
-      "title": "Hoffnungsträger Brekalo verlängert bei Hertha BSC bis 2028",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-hertha-bsc-josip-brekalo-vertrag-verlaengerung.html",
-      "date": "Thu, 23 Jul 2026 19:31:51 +0200"
-    },
-    {
-      "title": "Euro-Scheine: Bürger stimmen über neue Motive ab",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/banknoten-euro-geldscheine-eu-buerger-abstimmung.html",
-      "date": "Thu, 23 Jul 2026 19:19:11 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Mann bespuckt und beleidigt Passanten und Polizeikräfte",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697302.php",
+      "date": "Fri, 24 Jul 2026 12:43:31 +0200"
+    },
+    {
+      "title": "Senior nach Verkehrsunfall verstorben – Polizei sucht Ersthelfer und weitere Zeugen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697207.php",
+      "date": "Fri, 24 Jul 2026 10:18:21 +0200"
+    },
+    {
+      "title": "Gedenktafel beschmiert",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697204.php",
+      "date": "Fri, 24 Jul 2026 10:08:00 +0200"
+    },
     {
       "title": "Transfrau ins Gesicht gespuckt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697199.php",
@@ -101,21 +116,6 @@
       "title": "Mann durch wegrollendes Auto verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1696371.php",
       "date": "Wed, 22 Jul 2026 11:38:51 +0200"
-    },
-    {
-      "title": "Mann und Hund von Autofahrer angefahren",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1696363.php",
-      "date": "Wed, 22 Jul 2026 11:29:00 +0200"
-    },
-    {
-      "title": "Mann mit Hammer angegriffen und ausgeraubt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1696358.php",
-      "date": "Wed, 22 Jul 2026 11:20:00 +0200"
-    },
-    {
-      "title": "Frau mit Messer angegriffen und angezündet",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1696348.php",
-      "date": "Wed, 22 Jul 2026 11:05:00 +0200"
     }
   ],
   "free_events": [],
@@ -123,9 +123,19 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "CSD in Berlin: So sehen Demo-Route und Programm aus",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-christopher-street-day-berlin.html",
+      "date": "Fri, 24 Jul 2026 12:04:30 +0200"
+    },
+    {
       "title": "Reparatur bremst Berliner S-Bahn aus - Streckensperrung ab Freitagabend",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-s-bahn-sperrung-reparatur.html",
-      "date": "Fri, 24 Jul 2026 09:53:29 +0200"
+      "date": "Fri, 24 Jul 2026 11:55:15 +0200"
+    },
+    {
+      "title": "Livestream vom Christopher Street Day 2026 in Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/livestream-csd-christopher-street-day-berlin.html",
+      "date": "Fri, 24 Jul 2026 10:21:57 +0200"
     },
     {
       "title": "Spezialeinsatz gegen die Asiatische Hornisse in Eisenhüttenstadt",
@@ -171,16 +181,6 @@
       "title": "Asiatische Hornisse erstmals in Brandenburg festgestellt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/asiatische-hornisse-brandenburg-festgestellt-invasiv.html",
       "date": "Thu, 23 Jul 2026 16:57:50 +0200"
-    },
-    {
-      "title": "Geburtenrate in Berlin und Brandenburg auf tiefstem Stand seit Jahren",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/geburten-statistik-berlin-brandenburg-tiefstand.html",
-      "date": "Thu, 23 Jul 2026 16:39:52 +0200"
-    },
-    {
-      "title": "Reinickendorf erinnert an durch Neonazis ermordete Beate Fischer",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-reinickendorf-mord-gedenktafel-beate-fischer-neonazis.html",
-      "date": "Thu, 23 Jul 2026 15:51:57 +0200"
     }
   ]
 }
