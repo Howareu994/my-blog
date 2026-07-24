@@ -1,24 +1,49 @@
 {
   "traffic": [
     {
+      "title": "Reparatur bremst Berliner S-Bahn aus - Streckensperrung ab Freitagabend",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-s-bahn-sperrung-reparatur.html",
+      "date": "Fri, 24 Jul 2026 09:53:29 +0200"
+    },
+    {
+      "title": "Christopher-Street-Day: Erste CSD-Veranstaltungen in Berlin starten",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/07/berlin-christopher-street-day-parade.html",
+      "date": "Fri, 24 Jul 2026 08:38:00 +0200"
+    },
+    {
+      "title": "Spezialeinsatz gegen die Asiatische Hornisse in Eisenhüttenstadt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-eisenhuettenstadt-asiatische-hornisse.html",
+      "date": "Fri, 24 Jul 2026 08:16:18 +0200"
+    },
+    {
+      "title": "Jugendorganisation der \"Heimat\" verzeichnet deutlichen Mitgliederzuwachs",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/07/die-heimat-junge-nationalisten-rechtsextremismus-parteimitglieder.html",
+      "date": "Fri, 24 Jul 2026 07:33:26 +0200"
+    },
+    {
+      "title": "Berlin-Wahl: Wahlausschuss berät über Zulassung von 21 Parteien",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/landeswahlausschuss-parteien-landeslisten-bezirkslisten.html",
+      "date": "Fri, 24 Jul 2026 07:32:25 +0200"
+    },
+    {
+      "title": "Queere Eltern: Wenn der Staat die zweite Mutter ignoriert",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/queer-regenbogen-familien-diskriminierung-abstammungsrecht-berlin.html",
+      "date": "Fri, 24 Jul 2026 07:19:32 +0200"
+    },
+    {
+      "title": "RE1-Strecke zwischen Berlin und Frankfurt (Oder) wochenlang gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/re-1-sperrung-frankfurt-oder-berlin-juli-august-bus-ersatz-flughafen-erkner.html",
+      "date": "Fri, 24 Jul 2026 07:17:49 +0200"
+    },
+    {
       "title": "Kneipe in Bürgerhand: Neues Konzept für Kranhaus Wittenberge",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/prignitz-wittenberge-kneipe-genossenschaft-kranhaus.html",
       "date": "Fri, 24 Jul 2026 06:02:07 +0200"
     },
     {
-      "title": "Queere Eltern: Wenn der Staat die zweite Mutter ignoriert",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/queer-regenbogen-familien-diskriminierung-abstammungsrecht-berlin.html",
-      "date": "Fri, 24 Jul 2026 06:01:55 +0200"
-    },
-    {
       "title": "Legionellen-Befall in Berliner Seniorenheim - Todesfälle werden überprüft",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-tegel-seniorenheim-legionellen-tote.html",
       "date": "Thu, 23 Jul 2026 21:19:33 +0200"
-    },
-    {
-      "title": "Jugendorganisation der \"Heimat\" verzeichnet deutlichen Mitgliederzuwachs",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/07/die-heimat-junge-nationalisten-rechtsextremismus-parteimitglieder.html",
-      "date": "Thu, 23 Jul 2026 20:34:36 +0200"
     },
     {
       "title": "Hoffnungsträger Brekalo verlängert bei Hertha BSC bis 2028",
@@ -29,29 +54,14 @@
       "title": "Euro-Scheine: Bürger stimmen über neue Motive ab",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/banknoten-euro-geldscheine-eu-buerger-abstimmung.html",
       "date": "Thu, 23 Jul 2026 19:19:11 +0200"
-    },
-    {
-      "title": "Cottbuser Stelmakh gewinnt Gold bei Turn-Meisterschaften",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/07/berlin-brandenburg-finals-tag-1-hannover-turnen-triathlon-schwimmen.html",
-      "date": "Thu, 23 Jul 2026 18:47:31 +0200"
-    },
-    {
-      "title": "Aufstiegsfeier mit Pyro: Energie Cottbus muss Strafe zahlen",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-energie-cottbus-aufstieg-pyrotechnik-geldstrafe-meisterfeier-dfb-fans.html",
-      "date": "Thu, 23 Jul 2026 18:45:42 +0200"
-    },
-    {
-      "title": "Wacklige ZLB-Pläne für Galeria am Alex: Besitzer arbeitet an Alternativlösung",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/berlin-alexanderplatz-galeria-kaufhaus-commerzreal-zlb-ece-plaene.html",
-      "date": "Thu, 23 Jul 2026 18:27:00 +0200"
-    },
-    {
-      "title": "Chefarchitekt Ost-Berlins Roland Korn mit 96 Jahren gestorben",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/roland-korn-architekt-gestorben.html",
-      "date": "Thu, 23 Jul 2026 17:58:00 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Transfrau ins Gesicht gespuckt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697199.php",
+      "date": "Fri, 24 Jul 2026 10:03:30 +0200"
+    },
     {
       "title": "Sachbeschädigung durch Farbschmiererei an Moschee",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697085.php",
@@ -106,11 +116,6 @@
       "title": "Frau mit Messer angegriffen und angezündet",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1696348.php",
       "date": "Wed, 22 Jul 2026 11:05:00 +0200"
-    },
-    {
-      "title": "Bei Auseinandersetzung mit Messer verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1696343.php",
-      "date": "Wed, 22 Jul 2026 10:57:52 +0200"
     }
   ],
   "free_events": [],
@@ -118,14 +123,29 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Kneipe in Bürgerhand: Neues Konzept für Kranhaus Wittenberge",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/prignitz-wittenberge-kneipe-genossenschaft-kranhaus.html",
-      "date": "Fri, 24 Jul 2026 06:02:07 +0200"
+      "title": "Reparatur bremst Berliner S-Bahn aus - Streckensperrung ab Freitagabend",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-s-bahn-sperrung-reparatur.html",
+      "date": "Fri, 24 Jul 2026 09:53:29 +0200"
+    },
+    {
+      "title": "Spezialeinsatz gegen die Asiatische Hornisse in Eisenhüttenstadt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-eisenhuettenstadt-asiatische-hornisse.html",
+      "date": "Fri, 24 Jul 2026 08:16:18 +0200"
     },
     {
       "title": "Queere Eltern: Wenn der Staat die zweite Mutter ignoriert",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/queer-regenbogen-familien-diskriminierung-abstammungsrecht-berlin.html",
-      "date": "Fri, 24 Jul 2026 06:01:55 +0200"
+      "date": "Fri, 24 Jul 2026 07:19:32 +0200"
+    },
+    {
+      "title": "RE1-Strecke zwischen Berlin und Frankfurt (Oder) wochenlang gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/re-1-sperrung-frankfurt-oder-berlin-juli-august-bus-ersatz-flughafen-erkner.html",
+      "date": "Fri, 24 Jul 2026 07:17:49 +0200"
+    },
+    {
+      "title": "Kneipe in Bürgerhand: Neues Konzept für Kranhaus Wittenberge",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/prignitz-wittenberge-kneipe-genossenschaft-kranhaus.html",
+      "date": "Fri, 24 Jul 2026 06:02:07 +0200"
     },
     {
       "title": "Legionellen-Befall in Berliner Seniorenheim - Todesfälle werden überprüft",
@@ -161,21 +181,6 @@
       "title": "Reinickendorf erinnert an durch Neonazis ermordete Beate Fischer",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-reinickendorf-mord-gedenktafel-beate-fischer-neonazis.html",
       "date": "Thu, 23 Jul 2026 15:51:57 +0200"
-    },
-    {
-      "title": "Breitband-Ausbau: Internet in Spree-Neiße soll schneller werden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-spree-neisse-ausbau-breitband-schnelles-internet-graue-flecken.html",
-      "date": "Thu, 23 Jul 2026 15:41:14 +0200"
-    },
-    {
-      "title": "Ernte in Brandenburg: weniger Spargel, mehr Erdbeeren",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-landwirtschaft-spargel-erdbeeren-ernte.html",
-      "date": "Thu, 23 Jul 2026 14:21:29 +0200"
-    },
-    {
-      "title": "Warum ein Restaurant in Wandlitz Mahlzeiten an Bedürftige verschenkt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/restaurant-wandlitz-barnim-kostenloses-essen-beduerftige.html",
-      "date": "Thu, 23 Jul 2026 12:05:00 +0200"
     }
   ]
 }
