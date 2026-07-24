@@ -1,19 +1,29 @@
 {
   "traffic": [
     {
-      "title": "Camperkirche in Blüthen: Übernachten am Friedhof",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/07/brandenburg-prignitz-bluethen-camping-kirche.html",
-      "date": "Fri, 24 Jul 2026 12:27:53 +0200"
-    },
-    {
       "title": "Vier von 21 Parteien nicht zur Berliner Abgeordnetenhauswahl zugelassen",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/landeswahlausschuss-parteien-landeslisten-bezirkslisten.html",
-      "date": "Fri, 24 Jul 2026 12:19:24 +0200"
+      "date": "Fri, 24 Jul 2026 13:43:31 +0200"
+    },
+    {
+      "title": "Erstes Nest der Asiatischen Hornisse in Brandenburg entfernt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-eisenhuettenstadt-asiatische-hornisse.html",
+      "date": "Fri, 24 Jul 2026 13:38:00 +0200"
     },
     {
       "title": "CSD in Berlin: So sehen Demo-Route und Programm aus",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-christopher-street-day-berlin.html",
-      "date": "Fri, 24 Jul 2026 12:04:30 +0200"
+      "date": "Fri, 24 Jul 2026 13:35:25 +0200"
+    },
+    {
+      "title": "Diese Verkehrseinschränkungen gelten während des Berliner CSDs",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-christopher-street-day-csd-demo-route-sperrung-programm.html",
+      "date": "Fri, 24 Jul 2026 13:17:51 +0200"
+    },
+    {
+      "title": "Camperkirche in Blüthen: Übernachten am Friedhof",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/07/brandenburg-prignitz-bluethen-camping-kirche.html",
+      "date": "Fri, 24 Jul 2026 12:27:53 +0200"
     },
     {
       "title": "Reparatur bremst Berliner S-Bahn aus - Streckensperrung ab Freitagabend",
@@ -21,14 +31,9 @@
       "date": "Fri, 24 Jul 2026 11:55:15 +0200"
     },
     {
-      "title": "Finals: Barfuß ins Ziel nach Schuh-Verwechslung mit Potsdamer",
+      "title": "\"Finals 2026\": Barfuß ins Ziel nach Schuh-Verwechslung mit Potsdamer",
       "link": "https://www.rbb24.de/sport/beitrag/2026/07/finals-triathlon-barfuss-luis-ruehl-schuh-verwechselt-scott-kosl.html",
-      "date": "Fri, 24 Jul 2026 10:27:42 +0200"
-    },
-    {
-      "title": "Spezialeinsatz gegen die Asiatische Hornisse in Eisenhüttenstadt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-eisenhuettenstadt-asiatische-hornisse.html",
-      "date": "Fri, 24 Jul 2026 08:16:18 +0200"
+      "date": "Fri, 24 Jul 2026 10:27:00 +0200"
     },
     {
       "title": "Jugendorganisation der \"Heimat\" verzeichnet deutlichen Mitgliederzuwachs",
@@ -123,9 +128,19 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Erstes Nest der Asiatischen Hornisse in Brandenburg entfernt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-eisenhuettenstadt-asiatische-hornisse.html",
+      "date": "Fri, 24 Jul 2026 13:38:00 +0200"
+    },
+    {
       "title": "CSD in Berlin: So sehen Demo-Route und Programm aus",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-christopher-street-day-berlin.html",
-      "date": "Fri, 24 Jul 2026 12:04:30 +0200"
+      "date": "Fri, 24 Jul 2026 13:35:25 +0200"
+    },
+    {
+      "title": "Diese Verkehrseinschränkungen gelten während des Berliner CSDs",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-christopher-street-day-csd-demo-route-sperrung-programm.html",
+      "date": "Fri, 24 Jul 2026 13:17:51 +0200"
     },
     {
       "title": "Reparatur bremst Berliner S-Bahn aus - Streckensperrung ab Freitagabend",
@@ -136,11 +151,6 @@
       "title": "Livestream vom Christopher Street Day 2026 in Berlin",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/livestream-csd-christopher-street-day-berlin.html",
       "date": "Fri, 24 Jul 2026 10:21:57 +0200"
-    },
-    {
-      "title": "Spezialeinsatz gegen die Asiatische Hornisse in Eisenhüttenstadt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-eisenhuettenstadt-asiatische-hornisse.html",
-      "date": "Fri, 24 Jul 2026 08:16:18 +0200"
     },
     {
       "title": "Queere Eltern: Wenn der Staat die zweite Mutter ignoriert",
@@ -176,11 +186,6 @@
       "title": "Klage gegen Bundesregierung: Ehefrau eines Berliners sitzt in Gaza fest",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/gaza-berlin-ehefrau-nachzug-auswaertiges-amt-klage.html",
       "date": "Thu, 23 Jul 2026 17:40:02 +0200"
-    },
-    {
-      "title": "Asiatische Hornisse erstmals in Brandenburg festgestellt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/asiatische-hornisse-brandenburg-festgestellt-invasiv.html",
-      "date": "Thu, 23 Jul 2026 16:57:50 +0200"
     }
   ]
 }
