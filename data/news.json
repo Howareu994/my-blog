@@ -1,14 +1,19 @@
 {
   "traffic": [
     {
+      "title": "Hunderttausende beim Berliner CSD-Umzug - eine Festnahme bei Gegenprotest",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-christopher-street-day-samstag-demo.html",
+      "date": "Sat, 25 Jul 2026 19:49:07 +0200"
+    },
+    {
+      "title": "Finals 2026: Goldregen im Wasser für Berlin-Brandenburg",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/berlin-brandenburg-finals-tag-3-hannover-Stelmakh-achter-schwimmen-br-volleys-triathlon.html",
+      "date": "Sat, 25 Jul 2026 19:22:37 +0200"
+    },
+    {
       "title": "Union-Frauen spielen Unentschieden gegen den HSV",
       "link": "https://www.rbb24.de/sport/beitrag/2026/07/berlin-fussball-frauen-union-hamburg-hsv-testspiel.html",
       "date": "Sat, 25 Jul 2026 18:51:57 +0200"
-    },
-    {
-      "title": "Hunderttausende beim Berliner CSD-Umzug - eine Festnahme bei Gegenprotest",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-christopher-street-day-samstag-demo.html",
-      "date": "Sat, 25 Jul 2026 18:42:00 +0200"
     },
     {
       "title": "Hertha kassiert Packung, Altglienicke vermeidet Fehlstart",
@@ -54,11 +59,6 @@
       "title": "Berliner CSD: Diese Verkehrseinschränkungen gelten am Samstag",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-christopher-street-day-csd-demo-route-sperrung-programm.html",
       "date": "Sat, 25 Jul 2026 09:43:00 +0200"
-    },
-    {
-      "title": "Unterspreewald: Wie künftig umgehen mit dem Eichenprozessionsspinner?",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/07/brandenburg-unterspreewald-sperrung-fliesse-eichenprozessionsspinner-massnahmen-kritik.html",
-      "date": "Sat, 25 Jul 2026 07:17:19 +0200"
     }
   ],
   "police": [
@@ -130,7 +130,7 @@
     {
       "title": "Hunderttausende beim Berliner CSD-Umzug - eine Festnahme bei Gegenprotest",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-christopher-street-day-samstag-demo.html",
-      "date": "Sat, 25 Jul 2026 18:42:00 +0200"
+      "date": "Sat, 25 Jul 2026 19:49:07 +0200"
     },
     {
       "title": "An der Tanke in Brandenburg: \"Man muss mit den Bauern reden, dann geht mit den Bauern viel\"",
