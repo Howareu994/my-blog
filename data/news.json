@@ -1,9 +1,19 @@
 {
   "traffic": [
     {
-      "title": "\"Haltung ist hot\": Hunderttausende am Samstag beim Berliner CSD erwartet",
+      "title": "\"Haltung ist hot\": Hunderttausende zum Berliner CSD erwartet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-christopher-street-day-samstag-demo.html",
-      "date": "Sat, 25 Jul 2026 09:47:40 +0200"
+      "date": "Sat, 25 Jul 2026 11:17:30 +0200"
+    },
+    {
+      "title": "Zwei Tote in Ortrand - weitere Person schwer verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-ortrand-oberspreewald-lausitz-tote-verletzter.html",
+      "date": "Sat, 25 Jul 2026 10:49:09 +0200"
+    },
+    {
+      "title": "Christopher Street Day in Berlin mit Demokratiefest gestartet",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/07/berlin-christopher-street-day-parade.html",
+      "date": "Sat, 25 Jul 2026 10:17:57 +0200"
     },
     {
       "title": "Berliner CSD: Diese Verkehrseinschränkungen gelten am Samstag",
@@ -21,14 +31,9 @@
       "date": "Sat, 25 Jul 2026 07:13:20 +0200"
     },
     {
-      "title": "Christopher Street Day in Berlin mit Demokratiefest gestartet",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/07/berlin-christopher-street-day-parade.html",
-      "date": "Fri, 24 Jul 2026 22:03:44 +0200"
-    },
-    {
-      "title": "BFC Dynamo kassierte herbe Auftaktpleite, Luckenwalde verliert",
+      "title": "BFC Dynamo kassiert herbe Auftaktpleite, Luckenwalde verliert",
       "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-regionalliga-nordost-rlno-auftakt-erfurt-bfc-dynamo-luckenwalde-lok-leipzig-spieltag-1.html",
-      "date": "Fri, 24 Jul 2026 21:50:48 +0200"
+      "date": "Fri, 24 Jul 2026 21:50:00 +0200"
     },
     {
       "title": "Überfall bei Autogeschäft: Drei Jahre Haft für Berliner Polizisten",
@@ -49,11 +54,6 @@
       "title": "Reparatur bremst Berliner S-Bahn aus - Streckensperrung ab Freitagabend",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-s-bahn-sperrung-reparatur.html",
       "date": "Fri, 24 Jul 2026 20:13:20 +0200"
-    },
-    {
-      "title": "Das verspricht sich Hertha von Neuzugang Oluwaseun Adewumi",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-zweite-bundesliga-hertha-bsc-transfer-oluwaseun-adewumi-analyse.html",
-      "date": "Fri, 24 Jul 2026 20:05:44 +0200"
     }
   ],
   "police": [
@@ -123,9 +123,14 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "\"Haltung ist hot\": Hunderttausende am Samstag beim Berliner CSD erwartet",
+      "title": "\"Haltung ist hot\": Hunderttausende zum Berliner CSD erwartet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-christopher-street-day-samstag-demo.html",
-      "date": "Sat, 25 Jul 2026 09:47:40 +0200"
+      "date": "Sat, 25 Jul 2026 11:17:30 +0200"
+    },
+    {
+      "title": "Zwei Tote in Ortrand - weitere Person schwer verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-ortrand-oberspreewald-lausitz-tote-verletzter.html",
+      "date": "Sat, 25 Jul 2026 10:49:09 +0200"
     },
     {
       "title": "Berliner CSD: Diese Verkehrseinschränkungen gelten am Samstag",
@@ -176,11 +181,6 @@
       "title": "Erster Fund in Brandenburg: So gefährlich ist die Asiatische Hornisse",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/asiatische-hornisse-faq-neue-heimische-art.html",
       "date": "Fri, 24 Jul 2026 14:55:23 +0200"
-    },
-    {
-      "title": "Warum die Berliner Feuerwehr Bedenken beim Tramausbau hat",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-tram-strassenbahn-ausbau-feuerwehr-sicherheit-m10.html",
-      "date": "Fri, 24 Jul 2026 14:42:41 +0200"
     }
   ]
 }
