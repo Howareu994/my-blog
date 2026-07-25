@@ -1,14 +1,24 @@
 {
   "traffic": [
     {
-      "title": "\"Haltung ist hot\": Hunderttausende zum Berliner CSD erwartet",
+      "title": "Berliner CSD am Samstag gestartet – Hunderttausende erwartet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-christopher-street-day-samstag-demo.html",
-      "date": "Sat, 25 Jul 2026 11:17:30 +0200"
+      "date": "Sat, 25 Jul 2026 12:48:05 +0200"
+    },
+    {
+      "title": "Jens Voigt: \"Der Asphalt ist unser Büro. Und das betritt man nicht.\"",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/radsport-tour-de-france-jens-voigt-interview-pogacar-seixas-kanter.html",
+      "date": "Sat, 25 Jul 2026 12:40:30 +0200"
+    },
+    {
+      "title": "Dahme-Spreewald: Drei Menschen bei Brand bei Calau schwer verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-dahme-spreewald-kreblitz-calau-haus-brand-verletzte.html",
+      "date": "Sat, 25 Jul 2026 11:50:06 +0200"
     },
     {
       "title": "Zwei Tote in Ortrand - weitere Person schwer verletzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-ortrand-oberspreewald-lausitz-tote-verletzter.html",
-      "date": "Sat, 25 Jul 2026 10:49:09 +0200"
+      "date": "Sat, 25 Jul 2026 11:42:07 +0200"
     },
     {
       "title": "Christopher Street Day in Berlin mit Demokratiefest gestartet",
@@ -49,11 +59,6 @@
       "title": "\"Finals 2026\": Potsdamer dominieren Schwimm-Meisterschaften",
       "link": "https://www.rbb24.de/sport/beitrag/2026/07/berlin-brandenburg-finals-tag-2-hannover-schwimmen-coastal-rowing.html",
       "date": "Fri, 24 Jul 2026 20:58:32 +0200"
-    },
-    {
-      "title": "Reparatur bremst Berliner S-Bahn aus - Streckensperrung ab Freitagabend",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-s-bahn-sperrung-reparatur.html",
-      "date": "Fri, 24 Jul 2026 20:13:20 +0200"
     }
   ],
   "police": [
@@ -123,14 +128,19 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "\"Haltung ist hot\": Hunderttausende zum Berliner CSD erwartet",
+      "title": "Berliner CSD am Samstag gestartet – Hunderttausende erwartet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-christopher-street-day-samstag-demo.html",
-      "date": "Sat, 25 Jul 2026 11:17:30 +0200"
+      "date": "Sat, 25 Jul 2026 12:48:05 +0200"
+    },
+    {
+      "title": "Dahme-Spreewald: Drei Menschen bei Brand bei Calau schwer verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-dahme-spreewald-kreblitz-calau-haus-brand-verletzte.html",
+      "date": "Sat, 25 Jul 2026 11:50:06 +0200"
     },
     {
       "title": "Zwei Tote in Ortrand - weitere Person schwer verletzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-ortrand-oberspreewald-lausitz-tote-verletzter.html",
-      "date": "Sat, 25 Jul 2026 10:49:09 +0200"
+      "date": "Sat, 25 Jul 2026 11:42:07 +0200"
     },
     {
       "title": "Berliner CSD: Diese Verkehrseinschränkungen gelten am Samstag",
@@ -176,11 +186,6 @@
       "title": "76 Jahre alter Berliner stürzt im Karwendelgebirge in den Tod",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-oberbayern-karwendelgebirge-tot-wandern-berge.html",
       "date": "Fri, 24 Jul 2026 14:59:59 +0200"
-    },
-    {
-      "title": "Erster Fund in Brandenburg: So gefährlich ist die Asiatische Hornisse",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/asiatische-hornisse-faq-neue-heimische-art.html",
-      "date": "Fri, 24 Jul 2026 14:55:23 +0200"
     }
   ]
 }
