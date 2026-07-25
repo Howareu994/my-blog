@@ -1,9 +1,24 @@
 {
   "traffic": [
     {
+      "title": "Laura Lindemann gewinnt ihren sechsten Meistertitel im Triathlon",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/potsdam-finals-tag-3-laura-lindemann-triathlon-sprint-meisterschaft.html",
+      "date": "Sat, 25 Jul 2026 13:50:22 +0200"
+    },
+    {
       "title": "Berliner CSD am Samstag gestartet – Hunderttausende erwartet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-christopher-street-day-samstag-demo.html",
-      "date": "Sat, 25 Jul 2026 12:48:05 +0200"
+      "date": "Sat, 25 Jul 2026 13:31:55 +0200"
+    },
+    {
+      "title": "Säumige Eltern: Berlin und Brandenburg bleiben meist auf Unterhaltsvorschuss sitzen",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/07/berlin-brandenburg-alleinerziehend-unterhaltspflicht-unterhaltsvorschuss-kinder.html",
+      "date": "Sat, 25 Jul 2026 13:11:04 +0200"
+    },
+    {
+      "title": "Livestream vom Christopher Street Day 2026 in Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/livestream-csd-christopher-street-day-berlin.html",
+      "date": "Sat, 25 Jul 2026 13:10:10 +0200"
     },
     {
       "title": "Jens Voigt: \"Der Asphalt ist unser Büro. Und das betritt man nicht.\"",
@@ -28,7 +43,7 @@
     {
       "title": "Berliner CSD: Diese Verkehrseinschränkungen gelten am Samstag",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-christopher-street-day-csd-demo-route-sperrung-programm.html",
-      "date": "Sat, 25 Jul 2026 09:43:29 +0200"
+      "date": "Sat, 25 Jul 2026 09:43:00 +0200"
     },
     {
       "title": "Unterspreewald: Wie künftig umgehen mit dem Eichenprozessionsspinner?",
@@ -44,21 +59,6 @@
       "title": "BFC Dynamo kassiert herbe Auftaktpleite, Luckenwalde verliert",
       "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-regionalliga-nordost-rlno-auftakt-erfurt-bfc-dynamo-luckenwalde-lok-leipzig-spieltag-1.html",
       "date": "Fri, 24 Jul 2026 21:50:00 +0200"
-    },
-    {
-      "title": "Überfall bei Autogeschäft: Drei Jahre Haft für Berliner Polizisten",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-landgericht-falscher-polizist-beamter-autokauf-ueberfall-urteil.html",
-      "date": "Fri, 24 Jul 2026 21:05:30 +0200"
-    },
-    {
-      "title": "RE1-Strecke zwischen Berlin und Frankfurt (Oder) wochenlang gesperrt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/re-1-sperrung-frankfurt-oder-berlin-juli-august-bus-ersatz-flughafen-erkner.html",
-      "date": "Fri, 24 Jul 2026 21:00:00 +0200"
-    },
-    {
-      "title": "\"Finals 2026\": Potsdamer dominieren Schwimm-Meisterschaften",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/07/berlin-brandenburg-finals-tag-2-hannover-schwimmen-coastal-rowing.html",
-      "date": "Fri, 24 Jul 2026 20:58:32 +0200"
     }
   ],
   "police": [
@@ -130,7 +130,12 @@
     {
       "title": "Berliner CSD am Samstag gestartet – Hunderttausende erwartet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-christopher-street-day-samstag-demo.html",
-      "date": "Sat, 25 Jul 2026 12:48:05 +0200"
+      "date": "Sat, 25 Jul 2026 13:31:55 +0200"
+    },
+    {
+      "title": "Livestream vom Christopher Street Day 2026 in Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/livestream-csd-christopher-street-day-berlin.html",
+      "date": "Sat, 25 Jul 2026 13:10:10 +0200"
     },
     {
       "title": "Dahme-Spreewald: Drei Menschen bei Brand bei Calau schwer verletzt",
@@ -145,7 +150,7 @@
     {
       "title": "Berliner CSD: Diese Verkehrseinschränkungen gelten am Samstag",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-christopher-street-day-csd-demo-route-sperrung-programm.html",
-      "date": "Sat, 25 Jul 2026 09:43:29 +0200"
+      "date": "Sat, 25 Jul 2026 09:43:00 +0200"
     },
     {
       "title": "Überfall bei Autogeschäft: Drei Jahre Haft für Berliner Polizisten",
@@ -181,11 +186,6 @@
       "title": "Legionellen-Befall: Keine Ermittlungen der Staatsanwaltschaft nach Todesfällen im Seniorenheim",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-tegel-seniorenheim-legionellen-tote.html",
       "date": "Fri, 24 Jul 2026 15:32:38 +0200"
-    },
-    {
-      "title": "76 Jahre alter Berliner stürzt im Karwendelgebirge in den Tod",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-oberbayern-karwendelgebirge-tot-wandern-berge.html",
-      "date": "Fri, 24 Jul 2026 14:59:59 +0200"
     }
   ]
 }
