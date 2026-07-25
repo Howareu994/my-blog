@@ -1,9 +1,14 @@
 {
   "traffic": [
     {
-      "title": "Hunderttausende beim Berliner CSD-Umzug",
+      "title": "Zwei Tote in Ortrand - weitere Person schwer verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-ortrand-oberspreewald-lausitz-tote-verletzter.html",
+      "date": "Sat, 25 Jul 2026 17:22:50 +0200"
+    },
+    {
+      "title": "Hunderttausende beim Berliner CSD-Umzug - eine Festnahme bei Gegenprotest",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-christopher-street-day-samstag-demo.html",
-      "date": "Sat, 25 Jul 2026 15:32:00 +0200"
+      "date": "Sat, 25 Jul 2026 17:10:00 +0200"
     },
     {
       "title": "Laura Lindemann gewinnt ihren sechsten Meistertitel im Triathlon",
@@ -21,14 +26,9 @@
       "date": "Sat, 25 Jul 2026 12:40:30 +0200"
     },
     {
-      "title": "Dahme-Spreewald: Drei Menschen bei Brand bei Calau schwer verletzt",
+      "title": "Dahme-Spreewald: Drei Menschen bei Brand bei Luckau schwer verletzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-dahme-spreewald-kreblitz-calau-haus-brand-verletzte.html",
-      "date": "Sat, 25 Jul 2026 11:50:06 +0200"
-    },
-    {
-      "title": "Zwei Tote in Ortrand - weitere Person schwer verletzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-ortrand-oberspreewald-lausitz-tote-verletzter.html",
-      "date": "Sat, 25 Jul 2026 11:42:07 +0200"
+      "date": "Sat, 25 Jul 2026 11:50:00 +0200"
     },
     {
       "title": "Christopher Street Day in Berlin mit Demokratiefest gestartet",
@@ -128,9 +128,14 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Hunderttausende beim Berliner CSD-Umzug",
+      "title": "Zwei Tote in Ortrand - weitere Person schwer verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-ortrand-oberspreewald-lausitz-tote-verletzter.html",
+      "date": "Sat, 25 Jul 2026 17:22:50 +0200"
+    },
+    {
+      "title": "Hunderttausende beim Berliner CSD-Umzug - eine Festnahme bei Gegenprotest",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-christopher-street-day-samstag-demo.html",
-      "date": "Sat, 25 Jul 2026 15:32:00 +0200"
+      "date": "Sat, 25 Jul 2026 17:10:00 +0200"
     },
     {
       "title": "Ostprignitz-Ruppin warnt vor Raupen des Kiefernprozessionsspinners",
@@ -138,19 +143,14 @@
       "date": "Sat, 25 Jul 2026 15:07:27 +0200"
     },
     {
-      "title": "Livestream vom Christopher Street Day 2026 in Berlin",
+      "title": "Video: Die Parade des Christopher Street Day 2026 in Berlin",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/livestream-csd-christopher-street-day-berlin.html",
-      "date": "Sat, 25 Jul 2026 13:10:10 +0200"
+      "date": "Sat, 25 Jul 2026 13:10:00 +0200"
     },
     {
-      "title": "Dahme-Spreewald: Drei Menschen bei Brand bei Calau schwer verletzt",
+      "title": "Dahme-Spreewald: Drei Menschen bei Brand bei Luckau schwer verletzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-dahme-spreewald-kreblitz-calau-haus-brand-verletzte.html",
-      "date": "Sat, 25 Jul 2026 11:50:06 +0200"
-    },
-    {
-      "title": "Zwei Tote in Ortrand - weitere Person schwer verletzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-ortrand-oberspreewald-lausitz-tote-verletzter.html",
-      "date": "Sat, 25 Jul 2026 11:42:07 +0200"
+      "date": "Sat, 25 Jul 2026 11:50:00 +0200"
     },
     {
       "title": "Berliner CSD: Diese Verkehrseinschränkungen gelten am Samstag",
