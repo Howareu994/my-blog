@@ -1,14 +1,29 @@
 {
   "traffic": [
     {
-      "title": "Zwei Tote in Ortrand - weitere Person schwer verletzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-ortrand-oberspreewald-lausitz-tote-verletzter.html",
-      "date": "Sat, 25 Jul 2026 17:22:50 +0200"
+      "title": "Union-Frauen spielen Unentschieden gegen den HSV",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/berlin-fussball-frauen-union-hamburg-hsv-testspiel.html",
+      "date": "Sat, 25 Jul 2026 18:51:57 +0200"
     },
     {
       "title": "Hunderttausende beim Berliner CSD-Umzug - eine Festnahme bei Gegenprotest",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-christopher-street-day-samstag-demo.html",
-      "date": "Sat, 25 Jul 2026 17:10:00 +0200"
+      "date": "Sat, 25 Jul 2026 18:42:00 +0200"
+    },
+    {
+      "title": "Hertha kassiert Packung, Altglienicke vermeidet Fehlstart",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/berlin-brandenburg-fussball-regionalliga-altglienicke-hertha-tasmania-preussen-stahnsdorf.html",
+      "date": "Sat, 25 Jul 2026 18:01:56 +0200"
+    },
+    {
+      "title": "Dresden und Cottbus jeweils mit einem Sieg im XXL-Test",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/brandenburg-cottbus-fussball-energie-testspiel-dynamo-dresden.html",
+      "date": "Sat, 25 Jul 2026 18:00:55 +0200"
+    },
+    {
+      "title": "Zwei Tote in Ortrand - weitere Person schwer verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-ortrand-oberspreewald-lausitz-tote-verletzter.html",
+      "date": "Sat, 25 Jul 2026 17:22:50 +0200"
     },
     {
       "title": "Laura Lindemann gewinnt ihren sechsten Meistertitel im Triathlon",
@@ -44,21 +59,6 @@
       "title": "Unterspreewald: Wie künftig umgehen mit dem Eichenprozessionsspinner?",
       "link": "https://www.rbb24.de/politik/beitrag/2026/07/brandenburg-unterspreewald-sperrung-fliesse-eichenprozessionsspinner-massnahmen-kritik.html",
       "date": "Sat, 25 Jul 2026 07:17:19 +0200"
-    },
-    {
-      "title": "Queere Orte in Berlin kämpfen ums Überleben",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/07/queere-orte-in-berlin-bedrohung-verdraengung-queerfeindlichkeit.html",
-      "date": "Sat, 25 Jul 2026 07:13:20 +0200"
-    },
-    {
-      "title": "BFC Dynamo kassiert herbe Auftaktpleite, Luckenwalde verliert",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-regionalliga-nordost-rlno-auftakt-erfurt-bfc-dynamo-luckenwalde-lok-leipzig-spieltag-1.html",
-      "date": "Fri, 24 Jul 2026 21:50:00 +0200"
-    },
-    {
-      "title": "Überfall bei Autogeschäft: Drei Jahre Haft für Berliner Polizisten",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-landgericht-falscher-polizist-beamter-autokauf-ueberfall-urteil.html",
-      "date": "Fri, 24 Jul 2026 21:05:30 +0200"
     }
   ],
   "police": [
@@ -128,14 +128,19 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Hunderttausende beim Berliner CSD-Umzug - eine Festnahme bei Gegenprotest",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-christopher-street-day-samstag-demo.html",
+      "date": "Sat, 25 Jul 2026 18:42:00 +0200"
+    },
+    {
+      "title": "An der Tanke in Brandenburg: \"Man muss mit den Bauern reden, dann geht mit den Bauern viel\"",
+      "link": "https://www.rbb24.de/panorama/thema/an-der-tanke/brandenburg-an-der-tanke-barnim-forst-schmetterlinge.html",
+      "date": "Sat, 25 Jul 2026 18:28:48 +0200"
+    },
+    {
       "title": "Zwei Tote in Ortrand - weitere Person schwer verletzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-ortrand-oberspreewald-lausitz-tote-verletzter.html",
       "date": "Sat, 25 Jul 2026 17:22:50 +0200"
-    },
-    {
-      "title": "Hunderttausende beim Berliner CSD-Umzug - eine Festnahme bei Gegenprotest",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-christopher-street-day-samstag-demo.html",
-      "date": "Sat, 25 Jul 2026 17:10:00 +0200"
     },
     {
       "title": "Ostprignitz-Ruppin warnt vor Raupen des Kiefernprozessionsspinners",
@@ -181,11 +186,6 @@
       "title": "Wolletzsee in Angermünde von Blaualgen befallen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/blaualge-wolletzsee-baden-angermuende-uckermark-brandenburg.html",
       "date": "Fri, 24 Jul 2026 18:12:56 +0200"
-    },
-    {
-      "title": "Warnung vor Astabbrüchen in Parks in Berlin und Brandenburg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brandenburg-warnung-astabbrueche-parks.html",
-      "date": "Fri, 24 Jul 2026 17:36:12 +0200"
     }
   ]
 }
