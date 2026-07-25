@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "\"Haltung ist hot\": Hunderttausende am Samstag beim Berliner CSD erwartet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-christopher-street-day-samstag-demo.html",
+      "date": "Sat, 25 Jul 2026 09:47:40 +0200"
+    },
+    {
+      "title": "Berliner CSD: Diese Verkehrseinschränkungen gelten am Samstag",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-christopher-street-day-csd-demo-route-sperrung-programm.html",
+      "date": "Sat, 25 Jul 2026 09:43:29 +0200"
+    },
+    {
       "title": "Unterspreewald: Wie künftig umgehen mit dem Eichenprozessionsspinner?",
       "link": "https://www.rbb24.de/politik/beitrag/2026/07/brandenburg-unterspreewald-sperrung-fliesse-eichenprozessionsspinner-massnahmen-kritik.html",
       "date": "Sat, 25 Jul 2026 07:17:19 +0200"
@@ -44,21 +54,6 @@
       "title": "Das verspricht sich Hertha von Neuzugang Oluwaseun Adewumi",
       "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-zweite-bundesliga-hertha-bsc-transfer-oluwaseun-adewumi-analyse.html",
       "date": "Fri, 24 Jul 2026 20:05:44 +0200"
-    },
-    {
-      "title": "Hertha-Frauen gewinnen Testspiel vor Zweitliga-Start",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-frauen-2-bundesliga-hertha-bsc-lech-posen-testspiel-ergebnis.html",
-      "date": "Fri, 24 Jul 2026 18:36:47 +0200"
-    },
-    {
-      "title": "Wolfsabschuss: Welche Regeln plant Brandenburg im Jagdgesetz?",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-jagdgesetz-abschuss-woelfe-debatte.html",
-      "date": "Fri, 24 Jul 2026 18:13:09 +0200"
-    },
-    {
-      "title": "Wolletzsee in Angermünde von Blaualgen befallen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/blaualge-wolletzsee-baden-angermuende-uckermark-brandenburg.html",
-      "date": "Fri, 24 Jul 2026 18:12:56 +0200"
     }
   ],
   "police": [
@@ -128,6 +123,16 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "\"Haltung ist hot\": Hunderttausende am Samstag beim Berliner CSD erwartet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-christopher-street-day-samstag-demo.html",
+      "date": "Sat, 25 Jul 2026 09:47:40 +0200"
+    },
+    {
+      "title": "Berliner CSD: Diese Verkehrseinschränkungen gelten am Samstag",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-christopher-street-day-csd-demo-route-sperrung-programm.html",
+      "date": "Sat, 25 Jul 2026 09:43:29 +0200"
+    },
+    {
       "title": "Überfall bei Autogeschäft: Drei Jahre Haft für Berliner Polizisten",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-landgericht-falscher-polizist-beamter-autokauf-ueberfall-urteil.html",
       "date": "Fri, 24 Jul 2026 21:05:30 +0200"
@@ -176,16 +181,6 @@
       "title": "Warum die Berliner Feuerwehr Bedenken beim Tramausbau hat",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-tram-strassenbahn-ausbau-feuerwehr-sicherheit-m10.html",
       "date": "Fri, 24 Jul 2026 14:42:41 +0200"
-    },
-    {
-      "title": "Im August Sonnenfinsternis und Perseiden-Schauer über Berlin und Brandenburg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brandenburg-sonnenfinsternis.html",
-      "date": "Fri, 24 Jul 2026 14:37:10 +0200"
-    },
-    {
-      "title": "Asiatische Hornisse: Erstmals Nest in Brandenburg entfernt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-eisenhuettenstadt-asiatische-hornisse.html",
-      "date": "Fri, 24 Jul 2026 13:38:00 +0200"
     }
   ]
 }
