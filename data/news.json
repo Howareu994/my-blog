@@ -1,9 +1,19 @@
 {
   "traffic": [
     {
-      "title": "Liveticker: Auto fahrt bei CSD Berlin in Menschen - Toter und Verletzte",
+      "title": "Liveticker: Auto fährt bei CSD Berlin in Menschen - Toter und Verletzte",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/live-ticker-csd-berlin-auto-tiergarten-verletzte-tot.html",
-      "date": "Sun, 26 Jul 2026 01:51:34 +0200"
+      "date": "Sun, 26 Jul 2026 03:48:02 +0200"
+    },
+    {
+      "title": "Bildergalerie zum CSD: Auto fährt in Menschenmenge",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/bildergalerie-csd-berlin-auto-tiergarten.html",
+      "date": "Sun, 26 Jul 2026 02:38:55 +0200"
+    },
+    {
+      "title": "Hunderttausende beim Berliner CSD-Umzug - 7.000 bei Protest in Gesundbrunnen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-christopher-street-day-samstag-demo-veranstaltung-abgebrochen.html",
+      "date": "Sat, 25 Jul 2026 22:40:00 +0200"
     },
     {
       "title": "Teltow-Fläming: Brand auf ehemaligen Militärgelände in Jüterbog",
@@ -49,16 +59,6 @@
       "title": "Jens Voigt: \"Der Asphalt ist unser Büro. Und das betritt man nicht.\"",
       "link": "https://www.rbb24.de/sport/beitrag/2026/07/radsport-tour-de-france-jens-voigt-interview-pogacar-seixas-kanter.html",
       "date": "Sat, 25 Jul 2026 12:40:30 +0200"
-    },
-    {
-      "title": "Dahme-Spreewald: Vier Menschen bei Brand bei Luckau verletzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-dahme-spreewald-kreblitz-calau-haus-brand-verletzte.html",
-      "date": "Sat, 25 Jul 2026 11:50:00 +0200"
-    },
-    {
-      "title": "Unterspreewald: Wie künftig umgehen mit dem Eichenprozessionsspinner?",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/07/brandenburg-unterspreewald-sperrung-fliesse-eichenprozessionsspinner-massnahmen-kritik.html",
-      "date": "Sat, 25 Jul 2026 07:17:19 +0200"
     }
   ],
   "police": [
@@ -128,14 +128,19 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Liveticker: Auto fahrt bei CSD Berlin in Menschen - Toter und Verletzte",
+      "title": "Liveticker: Auto fährt bei CSD Berlin in Menschen - Toter und Verletzte",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/live-ticker-csd-berlin-auto-tiergarten-verletzte-tot.html",
-      "date": "Sun, 26 Jul 2026 01:51:34 +0200"
+      "date": "Sun, 26 Jul 2026 03:48:02 +0200"
     },
     {
       "title": "CSD Berlin: Auto fährt in Menschen - ein Toter und 17 Verletzte",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-christopher-street-day-samstag-demo1.html",
       "date": "Sun, 26 Jul 2026 01:36:42 +0200"
+    },
+    {
+      "title": "Hunderttausende beim Berliner CSD-Umzug - 7.000 bei Protest in Gesundbrunnen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-christopher-street-day-samstag-demo-veranstaltung-abgebrochen.html",
+      "date": "Sat, 25 Jul 2026 22:40:00 +0200"
     },
     {
       "title": "Teltow-Fläming: Brand auf ehemaligen Militärgelände in Jüterbog",
@@ -181,11 +186,6 @@
       "title": "RE1-Strecke zwischen Berlin und Frankfurt (Oder) wochenlang gesperrt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/re-1-sperrung-frankfurt-oder-berlin-juli-august-bus-ersatz-flughafen-erkner.html",
       "date": "Fri, 24 Jul 2026 21:00:00 +0200"
-    },
-    {
-      "title": "Reparatur bremst Berliner S-Bahn aus - Streckensperrung ab Freitagabend",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-s-bahn-sperrung-reparatur.html",
-      "date": "Fri, 24 Jul 2026 20:13:20 +0200"
     }
   ]
 }
