@@ -1,19 +1,24 @@
 {
   "traffic": [
     {
-      "title": "+++ Anschlag beim CSD: Geflüchteter mutmaßlicher Täter erschossen +++",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/live-ticker-csd-berlin-auto-tiergarten-verletzte-tot.html",
-      "date": "Sun, 26 Jul 2026 20:43:45 +0200"
+      "title": "Finals 2026: Zeckenbisse, Triple-Gold und Rekord-Premieren",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/finals-deutsche-meisterschaften-hoehepunkte-berlin-brandenburg-lueckenkemper-lemke-stelmakh-agyekum-jagsch-alsalami-gose-bredau.html",
+      "date": "Sun, 26 Jul 2026 21:12:58 +0200"
     },
     {
       "title": "Anschlag bei Berliner CSD: Was über den Tatverdächtigen Abdul B. bekannt ist",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-csd-anschlag-verdaechtiger-abdul-b-hintergrund.html",
-      "date": "Sun, 26 Jul 2026 19:51:01 +0200"
+      "date": "Sun, 26 Jul 2026 21:07:08 +0200"
     },
     {
-      "title": "Bildergalerie zum CSD: Auto fährt in Menschenmenge",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/bildergalerie-csd-berlin-auto-tiergarten.html",
-      "date": "Sun, 26 Jul 2026 18:11:08 +0200"
+      "title": "Livestream zum Nachschauen: ARD Brennpunkt \"Terroranschlag auf den CSD - Trauer in Berlin\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/livestream-ard-brennpunkt-csd-anschlag-verdaechtiger-erschossen-berlin.html",
+      "date": "Sun, 26 Jul 2026 21:02:36 +0200"
+    },
+    {
+      "title": "+++ Anschlag beim Berliner CSD: Geflüchteter mutmaßlicher Täter erschossen +++",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/live-ticker-csd-berlin-auto-tiergarten-verletzte-tot.html",
+      "date": "Sun, 26 Jul 2026 20:43:00 +0200"
     },
     {
       "title": "Bildergalerie: Berlin trauert nach Anschlag beim CSD",
@@ -54,11 +59,6 @@
       "title": "Teltow-Fläming: Brand auf ehemaligen Militärgelände in Jüterbog",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-teltow-flaeming-waldbrand-militaer-feuer.html",
       "date": "Sat, 25 Jul 2026 20:11:31 +0200"
-    },
-    {
-      "title": "Union-Frauen spielen Unentschieden gegen den HSV",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/07/berlin-fussball-frauen-union-hamburg-hsv-testspiel.html",
-      "date": "Sat, 25 Jul 2026 18:51:57 +0200"
     }
   ],
   "police": [
@@ -128,19 +128,19 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "+++ Anschlag beim CSD: Geflüchteter mutmaßlicher Täter erschossen +++",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/live-ticker-csd-berlin-auto-tiergarten-verletzte-tot.html",
-      "date": "Sun, 26 Jul 2026 20:43:45 +0200"
-    },
-    {
-      "title": "Livestream: ARD Brennpunkt \"Terroranschlag auf den CSD - Trauer in Berlin\"",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/livestream-ard-brennpunkt-csd-anschlag-verdaechtiger-erschossen-berlin.html",
-      "date": "Sun, 26 Jul 2026 20:08:00 +0200"
-    },
-    {
       "title": "Anschlag bei Berliner CSD: Was über den Tatverdächtigen Abdul B. bekannt ist",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-csd-anschlag-verdaechtiger-abdul-b-hintergrund.html",
-      "date": "Sun, 26 Jul 2026 19:51:01 +0200"
+      "date": "Sun, 26 Jul 2026 21:07:08 +0200"
+    },
+    {
+      "title": "Livestream zum Nachschauen: ARD Brennpunkt \"Terroranschlag auf den CSD - Trauer in Berlin\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/livestream-ard-brennpunkt-csd-anschlag-verdaechtiger-erschossen-berlin.html",
+      "date": "Sun, 26 Jul 2026 21:02:36 +0200"
+    },
+    {
+      "title": "+++ Anschlag beim Berliner CSD: Geflüchteter mutmaßlicher Täter erschossen +++",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/live-ticker-csd-berlin-auto-tiergarten-verletzte-tot.html",
+      "date": "Sun, 26 Jul 2026 20:43:00 +0200"
     },
     {
       "title": "Livestream zum Nachschauen: rbb24 Spezial \"Nach dem Anschlag auf den CSD in Berlin\"",
