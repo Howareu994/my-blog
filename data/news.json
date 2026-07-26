@@ -1,14 +1,14 @@
 {
   "traffic": [
     {
+      "title": "+++ Anschlag beim CSD: Geflüchteter mutmaßlicher Täter erschossen +++",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/live-ticker-csd-berlin-auto-tiergarten-verletzte-tot.html",
+      "date": "Sun, 26 Jul 2026 20:43:45 +0200"
+    },
+    {
       "title": "Anschlag bei Berliner CSD: Was über den Tatverdächtigen Abdul B. bekannt ist",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-csd-anschlag-verdaechtiger-abdul-b-hintergrund.html",
       "date": "Sun, 26 Jul 2026 19:51:01 +0200"
-    },
-    {
-      "title": "+++ Anschlag beim CSD: Geflüchteter mutmaßlicher Täter erschossen +++",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/live-ticker-csd-berlin-auto-tiergarten-verletzte-tot.html",
-      "date": "Sun, 26 Jul 2026 19:44:58 +0200"
     },
     {
       "title": "Bildergalerie zum CSD: Auto fährt in Menschenmenge",
@@ -63,9 +63,9 @@
   ],
   "police": [
     {
-      "title": "Anschlag im Umfeld des Christopher Street Day - Wer kennt diesen Mann",
+      "title": "Anschlag im Umfeld des Christopher Street Day - Tatverdächtiger bei Polizeieinsatz erschossen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697457.php",
-      "date": "Sun, 26 Jul 2026 04:30:13 +0200"
+      "date": "Sun, 26 Jul 2026 20:23:00 +0200"
     },
     {
       "title": "Flucht vor der Polizei endet in Sackgasse",
@@ -128,14 +128,19 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "+++ Anschlag beim CSD: Geflüchteter mutmaßlicher Täter erschossen +++",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/live-ticker-csd-berlin-auto-tiergarten-verletzte-tot.html",
+      "date": "Sun, 26 Jul 2026 20:43:45 +0200"
+    },
+    {
+      "title": "Livestream: ARD Brennpunkt \"Terroranschlag auf den CSD - Trauer in Berlin\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/livestream-ard-brennpunkt-csd-anschlag-verdaechtiger-erschossen-berlin.html",
+      "date": "Sun, 26 Jul 2026 20:08:00 +0200"
+    },
+    {
       "title": "Anschlag bei Berliner CSD: Was über den Tatverdächtigen Abdul B. bekannt ist",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-csd-anschlag-verdaechtiger-abdul-b-hintergrund.html",
       "date": "Sun, 26 Jul 2026 19:51:01 +0200"
-    },
-    {
-      "title": "+++ Anschlag beim CSD: Geflüchteter mutmaßlicher Täter erschossen +++",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/live-ticker-csd-berlin-auto-tiergarten-verletzte-tot.html",
-      "date": "Sun, 26 Jul 2026 19:44:58 +0200"
     },
     {
       "title": "Livestream zum Nachschauen: rbb24 Spezial \"Nach dem Anschlag auf den CSD in Berlin\"",
@@ -155,7 +160,7 @@
     {
       "title": "Livestream zum Nachschauen: rbb24 Spezial \"Anschlag auf Berliner CSD\"",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/spezial-rbb-csd-anschlag-islamistisch-tiergarten-berlin.html",
-      "date": "Sun, 26 Jul 2026 11:49:11 +0200"
+      "date": "Sun, 26 Jul 2026 11:49:00 +0200"
     },
     {
       "title": "Spürhunde suchen nach mit ASP infizierten Wildschweinen",
@@ -181,11 +186,6 @@
       "title": "An der Tanke in Brandenburg: \"Man muss mit den Bauern reden, dann geht mit den Bauern viel\"",
       "link": "https://www.rbb24.de/panorama/thema/an-der-tanke/brandenburg-an-der-tanke-barnim-forst-schmetterlinge.html",
       "date": "Sat, 25 Jul 2026 18:28:48 +0200"
-    },
-    {
-      "title": "Zwei Tote in Ortrand - weitere Person schwer verletzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-ortrand-oberspreewald-lausitz-tote-verletzter.html",
-      "date": "Sat, 25 Jul 2026 17:22:50 +0200"
     }
   ]
 }
