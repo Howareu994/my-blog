@@ -1,19 +1,34 @@
 {
   "traffic": [
     {
-      "title": "Liveticker zum Angriff auf CSD: +++ Polizei fahndet nach 21-Jährigem +++",
+      "title": "Liveticker zum Angriff auf CSD: +++ Mutmaßlicher Beifahrer gefasst +++",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/live-ticker-csd-berlin-auto-tiergarten-verletzte-tot.html",
-      "date": "Sun, 26 Jul 2026 12:23:28 +0200"
+      "date": "Sun, 26 Jul 2026 13:49:13 +0200"
+    },
+    {
+      "title": "Anschlag bei Berliner CSD: Wer ist der Tatverdächtige Abdul B.?",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-csd-anschlag-verdaechtiger-abdul-b-hintergrund.html",
+      "date": "Sun, 26 Jul 2026 13:07:41 +0200"
+    },
+    {
+      "title": "Finals 2026: Gold-Medaillen im Wassersport",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/berlin-brandenburg-finals-tag-3-hannover-Stelmakh-achter-schwimmen-br-volleys-triathlon.html",
+      "date": "Sun, 26 Jul 2026 12:52:37 +0200"
+    },
+    {
+      "title": "Bildergalerie zum CSD: Auto fährt in Menschenmenge",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/bildergalerie-csd-berlin-auto-tiergarten.html",
+      "date": "Sun, 26 Jul 2026 12:30:00 +0200"
+    },
+    {
+      "title": "Reaktionen auf CSD-Anschlag: \"Angriff auf freie und weltoffene Gesellschaft\"",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/07/reaktionen-politik-angriff-csd-berlin.html",
+      "date": "Sun, 26 Jul 2026 12:28:14 +0200"
     },
     {
       "title": "Vor 130 Jahren strahlte Treptow mit einer Gewerbeaustellung globalen Glanz aus",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/gewerbeausstellung-colonial-treptow-130-jahre-berlin.html",
       "date": "Sun, 26 Jul 2026 12:06:50 +0200"
-    },
-    {
-      "title": "Bildergalerie zum CSD: Auto fährt in Menschenmenge",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/bildergalerie-csd-berlin-auto-tiergarten.html",
-      "date": "Sun, 26 Jul 2026 11:58:56 +0200"
     },
     {
       "title": "Spürhunde suchen nach mit ASP infizierten Wildschweinen",
@@ -26,19 +41,9 @@
       "date": "Sun, 26 Jul 2026 11:40:01 +0200"
     },
     {
-      "title": "Reaktionen auf CSD-Anschlag: \"Angriff auf freie und weltoffene Gesellschaft\"",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/07/reaktionen-politik-angriff-csd-berlin.html",
-      "date": "Sun, 26 Jul 2026 11:14:43 +0200"
-    },
-    {
       "title": "Teltow-Fläming: Brand auf ehemaligen Militärgelände in Jüterbog",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-teltow-flaeming-waldbrand-militaer-feuer.html",
       "date": "Sat, 25 Jul 2026 20:11:31 +0200"
-    },
-    {
-      "title": "Finals 2026: Goldregen im Wasser für Berlin-Brandenburg",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/07/berlin-brandenburg-finals-tag-3-hannover-Stelmakh-achter-schwimmen-br-volleys-triathlon.html",
-      "date": "Sat, 25 Jul 2026 19:22:37 +0200"
     },
     {
       "title": "Union-Frauen spielen Unentschieden gegen den HSV",
@@ -54,11 +59,6 @@
       "title": "Dresden und Cottbus jeweils mit einem Sieg im XXL-Test",
       "link": "https://www.rbb24.de/sport/beitrag/2026/07/brandenburg-cottbus-fussball-energie-testspiel-dynamo-dresden.html",
       "date": "Sat, 25 Jul 2026 18:00:55 +0200"
-    },
-    {
-      "title": "Zwei Tote in Ortrand - weitere Person schwer verletzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-ortrand-oberspreewald-lausitz-tote-verletzter.html",
-      "date": "Sat, 25 Jul 2026 17:22:50 +0200"
     }
   ],
   "police": [
@@ -128,9 +128,14 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Liveticker zum Angriff auf CSD: +++ Polizei fahndet nach 21-Jährigem +++",
+      "title": "Liveticker zum Angriff auf CSD: +++ Mutmaßlicher Beifahrer gefasst +++",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/live-ticker-csd-berlin-auto-tiergarten-verletzte-tot.html",
-      "date": "Sun, 26 Jul 2026 12:23:28 +0200"
+      "date": "Sun, 26 Jul 2026 13:49:13 +0200"
+    },
+    {
+      "title": "Anschlag bei Berliner CSD: Wer ist der Tatverdächtige Abdul B.?",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-csd-anschlag-verdaechtiger-abdul-b-hintergrund.html",
+      "date": "Sun, 26 Jul 2026 13:07:41 +0200"
     },
     {
       "title": "Vor 130 Jahren strahlte Treptow mit einer Gewerbeaustellung globalen Glanz aus",
@@ -181,11 +186,6 @@
       "title": "Video: Die Parade des Christopher Street Day 2026 in Berlin",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/livestream-csd-christopher-street-day-berlin.html",
       "date": "Sat, 25 Jul 2026 13:10:00 +0200"
-    },
-    {
-      "title": "Dahme-Spreewald: Vier Menschen bei Brand bei Luckau verletzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-dahme-spreewald-kreblitz-calau-haus-brand-verletzte.html",
-      "date": "Sat, 25 Jul 2026 11:50:00 +0200"
     }
   ]
 }
