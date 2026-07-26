@@ -1,9 +1,9 @@
 {
   "traffic": [
     {
-      "title": "Liveticker: Auto fährt bei CSD Berlin in Menschen - Toter und Verletzte",
+      "title": "Liveticker: Auto fährt bei CSD in Menschen - eine Tote, Fahndung nach Tatverdächtigem",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/live-ticker-csd-berlin-auto-tiergarten-verletzte-tot.html",
-      "date": "Sun, 26 Jul 2026 03:48:02 +0200"
+      "date": "Sun, 26 Jul 2026 06:54:00 +0200"
     },
     {
       "title": "Bildergalerie zum CSD: Auto fährt in Menschenmenge",
@@ -63,6 +63,11 @@
   ],
   "police": [
     {
+      "title": "Anschlag im Umfeld des Christopher Street Day - Wer kennt diesen Mann",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697457.php",
+      "date": "Sun, 26 Jul 2026 04:30:13 +0200"
+    },
+    {
       "title": "Flucht vor der Polizei endet in Sackgasse",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697361.php",
       "date": "Fri, 24 Jul 2026 14:49:46 +0200"
@@ -116,11 +121,6 @@
       "title": "Mann bei Streit mit Messer verletzt – Tatverdächtiger festgenommen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1696803.php",
       "date": "Thu, 23 Jul 2026 10:28:00 +0200"
-    },
-    {
-      "title": "Mann von mehreren Unbekannten angegriffen und verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1696736.php",
-      "date": "Thu, 23 Jul 2026 09:34:00 +0200"
     }
   ],
   "free_events": [],
@@ -128,9 +128,9 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Liveticker: Auto fährt bei CSD Berlin in Menschen - Toter und Verletzte",
+      "title": "Liveticker: Auto fährt bei CSD in Menschen - eine Tote, Fahndung nach Tatverdächtigem",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/live-ticker-csd-berlin-auto-tiergarten-verletzte-tot.html",
-      "date": "Sun, 26 Jul 2026 03:48:02 +0200"
+      "date": "Sun, 26 Jul 2026 06:54:00 +0200"
     },
     {
       "title": "CSD Berlin: Auto fährt in Menschen - ein Toter und 17 Verletzte",
