@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Berlin und die queere Community gedenken der Opfer des Anschlags",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-berlin-anschlag-trauer-gedenken.html",
+      "date": "Sun, 26 Jul 2026 22:32:48 +0200"
+    },
+    {
       "title": "Finals 2026: Zeckenbisse, Triple-Gold und Rekord-Premieren",
       "link": "https://www.rbb24.de/sport/beitrag/2026/07/finals-deutsche-meisterschaften-hoehepunkte-berlin-brandenburg-lueckenkemper-lemke-stelmakh-agyekum-jagsch-alsalami-gose-bredau.html",
       "date": "Sun, 26 Jul 2026 21:12:58 +0200"
@@ -11,19 +16,14 @@
       "date": "Sun, 26 Jul 2026 21:07:08 +0200"
     },
     {
-      "title": "Livestream zum Nachschauen: ARD Brennpunkt \"Terroranschlag auf den CSD - Trauer in Berlin\"",
+      "title": "Zum Nachschauen: ARD Brennpunkt \"Terroranschlag auf den CSD - Trauer in Berlin\"",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/livestream-ard-brennpunkt-csd-anschlag-verdaechtiger-erschossen-berlin.html",
-      "date": "Sun, 26 Jul 2026 21:02:36 +0200"
+      "date": "Sun, 26 Jul 2026 21:02:00 +0200"
     },
     {
       "title": "+++ Anschlag beim Berliner CSD: Geflüchteter mutmaßlicher Täter erschossen +++",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/live-ticker-csd-berlin-auto-tiergarten-verletzte-tot.html",
       "date": "Sun, 26 Jul 2026 20:43:00 +0200"
-    },
-    {
-      "title": "Bildergalerie: Berlin trauert nach Anschlag beim CSD",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/bildergalerie-csd-berlin-anschlag-trauer-queere-community.html",
-      "date": "Sun, 26 Jul 2026 17:58:29 +0200"
     },
     {
       "title": "Dank Doppelpacker Ebel: Babelsberg siegt in Leipzig",
@@ -33,7 +33,7 @@
     {
       "title": "Politische Reaktionen auf CSD-Anschlag: \"Angriff auf offene Gesellschaft\"",
       "link": "https://www.rbb24.de/politik/beitrag/2026/07/reaktionen-politik-angriff-csd-berlin.html",
-      "date": "Sun, 26 Jul 2026 15:25:41 +0200"
+      "date": "Sun, 26 Jul 2026 15:25:00 +0200"
     },
     {
       "title": "Finals 2026: Gold-Medaillen im Wassersport",
@@ -128,14 +128,19 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Berlin und die queere Community gedenken der Opfer des Anschlags",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-berlin-anschlag-trauer-gedenken.html",
+      "date": "Sun, 26 Jul 2026 22:32:48 +0200"
+    },
+    {
       "title": "Anschlag bei Berliner CSD: Was über den Tatverdächtigen Abdul B. bekannt ist",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-csd-anschlag-verdaechtiger-abdul-b-hintergrund.html",
       "date": "Sun, 26 Jul 2026 21:07:08 +0200"
     },
     {
-      "title": "Livestream zum Nachschauen: ARD Brennpunkt \"Terroranschlag auf den CSD - Trauer in Berlin\"",
+      "title": "Zum Nachschauen: ARD Brennpunkt \"Terroranschlag auf den CSD - Trauer in Berlin\"",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/livestream-ard-brennpunkt-csd-anschlag-verdaechtiger-erschossen-berlin.html",
-      "date": "Sun, 26 Jul 2026 21:02:36 +0200"
+      "date": "Sun, 26 Jul 2026 21:02:00 +0200"
     },
     {
       "title": "+++ Anschlag beim Berliner CSD: Geflüchteter mutmaßlicher Täter erschossen +++",
@@ -181,11 +186,6 @@
       "title": "Teltow-Fläming: Brand auf ehemaligen Militärgelände in Jüterbog",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-teltow-flaeming-waldbrand-militaer-feuer.html",
       "date": "Sat, 25 Jul 2026 20:11:31 +0200"
-    },
-    {
-      "title": "An der Tanke in Brandenburg: \"Man muss mit den Bauern reden, dann geht mit den Bauern viel\"",
-      "link": "https://www.rbb24.de/panorama/thema/an-der-tanke/brandenburg-an-der-tanke-barnim-forst-schmetterlinge.html",
-      "date": "Sat, 25 Jul 2026 18:28:48 +0200"
     }
   ]
 }
