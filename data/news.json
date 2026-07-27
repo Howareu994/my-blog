@@ -1,6 +1,26 @@
 {
   "traffic": [
     {
+      "title": "Ausstellung \"Körperwelten\": Gunther von Hagens gestorben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/gunther-von-hagens-gestorben-koerperwelten.html",
+      "date": "Mon, 27 Jul 2026 14:23:40 +0200"
+    },
+    {
+      "title": "Wetter in Berlin und Brandenburg: Auf den Regen folgt eine neue Hitzewelle",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/wetter-sonne-regen-hitzewelle-berlin-brandenburg.html",
+      "date": "Mon, 27 Jul 2026 14:13:44 +0200"
+    },
+    {
+      "title": "Ticker zum CSD-Anschlag: +++ Todesopfer stammt aus Polen +++",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-attentat-ticker-berlin-auto-tiergarten.html",
+      "date": "Mon, 27 Jul 2026 14:03:51 +0200"
+    },
+    {
+      "title": "Anschlag bei Berliner CSD: Was über den Tatverdächtigen Abdul B. bekannt ist",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-csd-anschlag-verdaechtiger-abdul-b-hintergrund.html",
+      "date": "Mon, 27 Jul 2026 13:23:20 +0200"
+    },
+    {
       "title": "Delay-Klatsche, Max Kruse und immer Stress mit dem Verband",
       "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-berlin-brandenburg-tennis-borussia-delay-sports-max-kurse-nofv.html",
       "date": "Mon, 27 Jul 2026 10:48:08 +0200"
@@ -8,22 +28,12 @@
     {
       "title": "Erster DDR-Olympiasieger Wolfgang Behrendt gestorben",
       "link": "https://www.rbb24.de/sport/beitrag/2026/07/boxen-berlin-ddr-olympiasieger-wolfgang-behrendt-gestorben.html",
-      "date": "Mon, 27 Jul 2026 10:43:21 +0200"
-    },
-    {
-      "title": "Vorgeschichte des mutmaßlichen CSD-Attentäters wirft Fragen auf",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/anschlag-csd-taeter-vorgeschichte-behoerden-diskussion.html",
-      "date": "Mon, 27 Jul 2026 10:38:40 +0200"
+      "date": "Mon, 27 Jul 2026 10:43:00 +0200"
     },
     {
       "title": "Kritik an Kurzzügen bei der BVG",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/kurzzug-bvg-u-bahn-berlin-kritik-fahrgastverband-igeb.html",
       "date": "Mon, 27 Jul 2026 08:50:12 +0200"
-    },
-    {
-      "title": "Anschlag bei Berliner CSD: Was über den Tatverdächtigen Abdul B. bekannt ist",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-csd-anschlag-verdaechtiger-abdul-b-hintergrund.html",
-      "date": "Mon, 27 Jul 2026 06:39:06 +0200"
     },
     {
       "title": "Berlin und die queere Community gedenken der Opfer des Anschlags",
@@ -36,19 +46,9 @@
       "date": "Sun, 26 Jul 2026 21:12:58 +0200"
     },
     {
-      "title": "Zum Nachschauen: ARD Brennpunkt \"Terroranschlag auf den CSD - Trauer in Berlin\"",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/livestream-ard-brennpunkt-csd-anschlag-verdaechtiger-erschossen-berlin.html",
-      "date": "Sun, 26 Jul 2026 21:02:00 +0200"
-    },
-    {
       "title": "Dank Doppelpacker Ebel: Babelsberg siegt in Leipzig",
       "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-regionalliga-erster-spieltag-chemie-leipzig.html",
       "date": "Sun, 26 Jul 2026 16:45:36 +0200"
-    },
-    {
-      "title": "Politische Reaktionen auf CSD-Anschlag: \"Angriff auf offene Gesellschaft\"",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/07/reaktionen-politik-angriff-csd-berlin.html",
-      "date": "Sun, 26 Jul 2026 15:25:00 +0200"
     },
     {
       "title": "Finals 2026: Gold-Medaillen im Wassersport",
@@ -62,6 +62,26 @@
     }
   ],
   "police": [
+    {
+      "title": "Mit Luftdruckgewehr auf Passanten geschossen – Tatverdächtiger vorläufig festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697717.php",
+      "date": "Mon, 27 Jul 2026 14:33:31 +0200"
+    },
+    {
+      "title": "Mutmaßlicher Brandstifter greift Polizeikräfte an – Schusswaffengebrauch",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697688.php",
+      "date": "Mon, 27 Jul 2026 13:35:40 +0200"
+    },
+    {
+      "title": "Streit eskaliert – zwei Männer erleiden Stichverletzungen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697665.php",
+      "date": "Mon, 27 Jul 2026 13:01:22 +0200"
+    },
+    {
+      "title": "Auffahrunfall mit mehreren beteiligten Polizeifahrzeugen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697661.php",
+      "date": "Mon, 27 Jul 2026 12:53:19 +0200"
+    },
     {
       "title": "Anschlag im Umfeld des Christopher Street Day - Tatverdächtiger bei Polizeieinsatz erschossen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697457.php",
@@ -101,26 +121,6 @@
       "title": "Sachbeschädigung durch Farbschmiererei an Moschee",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697085.php",
       "date": "Thu, 23 Jul 2026 17:21:00 +0200"
-    },
-    {
-      "title": "Zwei Festnahmen nach mutmaßlichem Raub",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1696980.php",
-      "date": "Thu, 23 Jul 2026 14:24:29 +0200"
-    },
-    {
-      "title": "Mann rast durch die Stadt – vorläufige Festnahme",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1696947.php",
-      "date": "Thu, 23 Jul 2026 13:40:00 +0200"
-    },
-    {
-      "title": "Mann schießt mit Schreckschusswaffe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1696832.php",
-      "date": "Thu, 23 Jul 2026 11:01:00 +0200"
-    },
-    {
-      "title": "Mann bei Streit mit Messer verletzt – Tatverdächtiger festgenommen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1696803.php",
-      "date": "Thu, 23 Jul 2026 10:28:00 +0200"
     }
   ],
   "free_events": [],
@@ -128,19 +128,34 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Ticker zum CSD-Anschlag: ++ Wegner fordert Fußfesseln für Gefährder ++",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-attentat-ticker-berlin-auto-tiergarten.html",
-      "date": "Mon, 27 Jul 2026 12:21:43 +0200"
+      "title": "CSD-Anschlag: Interview mit Deradikalisierungs-Helfer über Abdul B.",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/interview-deradikalisierung-violence-prevention-network-abdul-b-extremismus.html",
+      "date": "Mon, 27 Jul 2026 15:28:21 +0200"
+    },
+    {
+      "title": "Ausstellung \"Körperwelten\": Gunther von Hagens gestorben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/gunther-von-hagens-gestorben-koerperwelten.html",
+      "date": "Mon, 27 Jul 2026 14:23:40 +0200"
     },
     {
       "title": "Vorgeschichte des mutmaßlichen CSD-Attentäters wirft Fragen auf",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/anschlag-csd-taeter-vorgeschichte-behoerden-diskussion.html",
-      "date": "Mon, 27 Jul 2026 10:38:40 +0200"
+      "date": "Mon, 27 Jul 2026 14:18:57 +0200"
+    },
+    {
+      "title": "Wetter in Berlin und Brandenburg: Auf den Regen folgt eine neue Hitzewelle",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/wetter-sonne-regen-hitzewelle-berlin-brandenburg.html",
+      "date": "Mon, 27 Jul 2026 14:13:44 +0200"
+    },
+    {
+      "title": "Ticker zum CSD-Anschlag: +++ Todesopfer stammt aus Polen +++",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-attentat-ticker-berlin-auto-tiergarten.html",
+      "date": "Mon, 27 Jul 2026 14:03:51 +0200"
     },
     {
       "title": "Anschlag bei Berliner CSD: Was über den Tatverdächtigen Abdul B. bekannt ist",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-csd-anschlag-verdaechtiger-abdul-b-hintergrund.html",
-      "date": "Mon, 27 Jul 2026 06:39:06 +0200"
+      "date": "Mon, 27 Jul 2026 13:23:20 +0200"
     },
     {
       "title": "+++ Anschlag beim Berliner CSD: Geflüchteter mutmaßlicher Täter erschossen +++",
@@ -171,21 +186,6 @@
       "title": "Vor 130 Jahren strahlte Treptow mit einer Gewerbeaustellung globalen Glanz aus",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/gewerbeausstellung-colonial-treptow-130-jahre-berlin.html",
       "date": "Sun, 26 Jul 2026 12:06:50 +0200"
-    },
-    {
-      "title": "Livestream zum Nachschauen: rbb24 Spezial \"Anschlag auf Berliner CSD\"",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/spezial-rbb-csd-anschlag-islamistisch-tiergarten-berlin.html",
-      "date": "Sun, 26 Jul 2026 11:49:00 +0200"
-    },
-    {
-      "title": "Spürhunde suchen nach mit ASP infizierten Wildschweinen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/afrikanische-schweinepest-spuerhunde-brandenburg-uckermark.html",
-      "date": "Sun, 26 Jul 2026 11:44:28 +0200"
-    },
-    {
-      "title": "CSD Berlin: Auto fährt in Menschen - ein Toter und 17 Verletzte",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-christopher-street-day-samstag-demo1.html",
-      "date": "Sun, 26 Jul 2026 01:36:42 +0200"
     }
   ]
 }
