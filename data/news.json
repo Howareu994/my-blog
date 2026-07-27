@@ -1,24 +1,44 @@
 {
   "traffic": [
     {
-      "title": "Pflegeverbände in Brandenburg protestieren beim landesweiten Aktionstag gegen geplante Pflegereform",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/protest-pflegereform-pflegeverbaende-ffo.html",
-      "date": "Mon, 27 Jul 2026 18:07:41 +0200"
+      "title": "Vorgeschichte des mutmaßlichen CSD-Attentäters wirft Fragen auf",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/anschlag-csd-taeter-vorgeschichte-behoerden-diskussion.html",
+      "date": "Mon, 27 Jul 2026 20:06:35 +0200"
     },
     {
-      "title": "Hochglanz-Paket des FC Barcelona für Familien - mehr als nur ein Kinder-Fußballcamp?",
+      "title": "Ticker zum CSD-Anschlag: ++ Abdul B. war als \"Hochrisiko-Gefährder\" eingestuft ++",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-attentat-ticker-berlin-auto-tiergarten.html",
+      "date": "Mon, 27 Jul 2026 19:45:18 +0200"
+    },
+    {
+      "title": "FC Barcelona veranstaltet Kinder-Fußballcamp in Lichtenberg",
       "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-berlin-lichtenberg-fc-barcelona-feriencamp-sparta.html",
-      "date": "Mon, 27 Jul 2026 18:01:04 +0200"
+      "date": "Mon, 27 Jul 2026 19:28:56 +0200"
+    },
+    {
+      "title": "Waldbrand auf früherem Militärgelände in Jüterbog unter Kontrolle",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-teltow-flaeming-waldbrand-militaer-feuer.html",
+      "date": "Mon, 27 Jul 2026 19:14:00 +0200"
+    },
+    {
+      "title": "Mutmaßlicher CSD-Attentäter galt als \"reifeverzögert\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-attentat-tatverdaechtiger-reifeverzoegert-jugendstrafrecht.html",
+      "date": "Mon, 27 Jul 2026 19:11:48 +0200"
+    },
+    {
+      "title": "Sechs Polizeitransporter krachen auf A115 in Berlin ineinander",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/polizeitransporter-krachen-berlin-unfall-a115.html",
+      "date": "Mon, 27 Jul 2026 18:43:00 +0200"
+    },
+    {
+      "title": "Landesweiter Aktionstag gegen geplante Pflegereform: Pflegeverbände in Brandenburg protestieren",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/protest-pflegereform-pflegeverbaende-ffo.html",
+      "date": "Mon, 27 Jul 2026 18:07:00 +0200"
     },
     {
       "title": "World Liberty Congress: Iranische Dissidentin leitet neues Zentrum für Demokratie-Aktivisten",
       "link": "https://www.rbb24.de/politik/beitrag/2026/07/berlin-world-liberty-congress-dissidenten-freiheit-demokratie.html",
       "date": "Mon, 27 Jul 2026 17:57:43 +0200"
-    },
-    {
-      "title": "Ticker zum CSD-Anschlag: +++ Todesopfer stammt aus Polen +++",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-attentat-ticker-berlin-auto-tiergarten.html",
-      "date": "Mon, 27 Jul 2026 17:56:04 +0200"
     },
     {
       "title": "Expressbus soll Pendler zwischen Berlin und Frankfurt (Oder) während RE1-Sperrung entlasten",
@@ -31,11 +51,6 @@
       "date": "Mon, 27 Jul 2026 17:34:34 +0200"
     },
     {
-      "title": "Mutmaßlicher CSD-Attentäter galt als \"reifeverzögert\"",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-attentat-tatverdaechtiger-reifeverzoegert-jugendstrafrecht.html",
-      "date": "Mon, 27 Jul 2026 17:33:35 +0200"
-    },
-    {
       "title": "Wetter in Berlin und Brandenburg: Auf den Regen folgt eine neue Hitzewelle",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/wetter-sonne-regen-hitzewelle-berlin-brandenburg.html",
       "date": "Mon, 27 Jul 2026 17:31:40 +0200"
@@ -44,21 +59,6 @@
       "title": "Grundstücke in Brandenburg werden teurer - auch über den Speckgürtel hinaus",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/brandenburg-immobilienpreise-gestiegen-grundstuecksmarktbericht.html",
       "date": "Mon, 27 Jul 2026 17:21:40 +0200"
-    },
-    {
-      "title": "Umbau des Ex-Flughafens Tegel zur Uni gestartet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/spatenstich-umbau-ex-flughafen-tegel-uni.html",
-      "date": "Mon, 27 Jul 2026 17:17:50 +0200"
-    },
-    {
-      "title": "Mutmaßlicher CSD-Attentäter: Berliner Justiz verteidigt Aufhebung eines früheren Haftbefehls gegen Abdul B.",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-justiz-verteidigt-aufhebung-haftbefehl-csd-attentaeter.html",
-      "date": "Mon, 27 Jul 2026 16:53:08 +0200"
-    },
-    {
-      "title": "Zwei Tote in Ortrand - weitere Person schwer verletzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-ortrand-oberspreewald-lausitz-tote-verletzter.html",
-      "date": "Mon, 27 Jul 2026 16:50:27 +0200"
     }
   ],
   "police": [
@@ -128,14 +128,39 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Pflegeverbände in Brandenburg protestieren beim landesweiten Aktionstag gegen geplante Pflegereform",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/protest-pflegereform-pflegeverbaende-ffo.html",
-      "date": "Mon, 27 Jul 2026 18:07:41 +0200"
+      "title": "Vorgeschichte des mutmaßlichen CSD-Attentäters wirft Fragen auf",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/anschlag-csd-taeter-vorgeschichte-behoerden-diskussion.html",
+      "date": "Mon, 27 Jul 2026 20:06:35 +0200"
     },
     {
-      "title": "Ticker zum CSD-Anschlag: +++ Todesopfer stammt aus Polen +++",
+      "title": "Ticker zum CSD-Anschlag: ++ Abdul B. war als \"Hochrisiko-Gefährder\" eingestuft ++",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-attentat-ticker-berlin-auto-tiergarten.html",
-      "date": "Mon, 27 Jul 2026 17:56:04 +0200"
+      "date": "Mon, 27 Jul 2026 19:45:18 +0200"
+    },
+    {
+      "title": "Jetzt im Livestream: rbb24 Spezial \"Nach dem CSD-Anschlag: Welche Folgen hat die Tat?\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/livestream-rbb-spezial-csd-anschlag-abdul-b-gefaehrder-debatte.html",
+      "date": "Mon, 27 Jul 2026 19:31:00 +0200"
+    },
+    {
+      "title": "Waldbrand auf früherem Militärgelände in Jüterbog unter Kontrolle",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-teltow-flaeming-waldbrand-militaer-feuer.html",
+      "date": "Mon, 27 Jul 2026 19:14:00 +0200"
+    },
+    {
+      "title": "Mutmaßlicher CSD-Attentäter galt als \"reifeverzögert\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-attentat-tatverdaechtiger-reifeverzoegert-jugendstrafrecht.html",
+      "date": "Mon, 27 Jul 2026 19:11:48 +0200"
+    },
+    {
+      "title": "Sechs Polizeitransporter krachen auf A115 in Berlin ineinander",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/polizeitransporter-krachen-berlin-unfall-a115.html",
+      "date": "Mon, 27 Jul 2026 18:43:00 +0200"
+    },
+    {
+      "title": "Landesweiter Aktionstag gegen geplante Pflegereform: Pflegeverbände in Brandenburg protestieren",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/protest-pflegereform-pflegeverbaende-ffo.html",
+      "date": "Mon, 27 Jul 2026 18:07:00 +0200"
     },
     {
       "title": "Expressbus soll Pendler zwischen Berlin und Frankfurt (Oder) während RE1-Sperrung entlasten",
@@ -146,11 +171,6 @@
       "title": "Anschlag bei Berliner CSD: Was über den Tatverdächtigen Abdul B. bekannt ist",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-csd-anschlag-verdaechtiger-abdul-b-hintergrund.html",
       "date": "Mon, 27 Jul 2026 17:34:34 +0200"
-    },
-    {
-      "title": "Mutmaßlicher CSD-Attentäter galt als \"reifeverzögert\"",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-attentat-tatverdaechtiger-reifeverzoegert-jugendstrafrecht.html",
-      "date": "Mon, 27 Jul 2026 17:33:35 +0200"
     },
     {
       "title": "Wetter in Berlin und Brandenburg: Auf den Regen folgt eine neue Hitzewelle",
@@ -166,26 +186,6 @@
       "title": "Mutmaßlicher CSD-Attentäter: Berliner Justiz verteidigt Aufhebung eines früheren Haftbefehls gegen Abdul B.",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-justiz-verteidigt-aufhebung-haftbefehl-csd-attentaeter.html",
       "date": "Mon, 27 Jul 2026 16:53:08 +0200"
-    },
-    {
-      "title": "Zwei Tote in Ortrand - weitere Person schwer verletzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-ortrand-oberspreewald-lausitz-tote-verletzter.html",
-      "date": "Mon, 27 Jul 2026 16:50:27 +0200"
-    },
-    {
-      "title": "rbb24 Spezial \"Nach dem CSD-Anschlag - Welche Folgen hat die Tat?\"",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/livestream-rbb-spezial-csd-anschlag-abdul-b-gefaehrder-debatte.html",
-      "date": "Mon, 27 Jul 2026 16:49:58 +0200"
-    },
-    {
-      "title": "Vorgeschichte des mutmaßlichen CSD-Attentäters wirft Fragen auf",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/anschlag-csd-taeter-vorgeschichte-behoerden-diskussion.html",
-      "date": "Mon, 27 Jul 2026 16:41:00 +0200"
-    },
-    {
-      "title": "CSD-Anschlag: Interview mit Deradikalisierungs-Helfer über Abdul B.",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/interview-deradikalisierung-violence-prevention-network-abdul-b-extremismus.html",
-      "date": "Mon, 27 Jul 2026 16:36:57 +0200"
     }
   ]
 }
