@@ -1,19 +1,29 @@
 {
   "traffic": [
     {
+      "title": "Delay-Klatsche, Max Kruse und immer Stress mit dem Verband",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-berlin-brandenburg-tennis-borussia-delay-sports-max-kurse-nofv.html",
+      "date": "Mon, 27 Jul 2026 10:48:08 +0200"
+    },
+    {
+      "title": "Erster DDR-Olympiasieger Wolfgang Behrendt gestorben",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/boxen-berlin-ddr-olympiasieger-wolfgang-behrendt-gestorben.html",
+      "date": "Mon, 27 Jul 2026 10:43:21 +0200"
+    },
+    {
+      "title": "Vorgeschichte des mutmaßlichen CSD-Attentäters wirft Fragen auf",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/anschlag-csd-taeter-vorgeschichte-behoerden-diskussion.html",
+      "date": "Mon, 27 Jul 2026 10:38:40 +0200"
+    },
+    {
       "title": "Kritik an Kurzzügen bei der BVG",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/kurzzug-bvg-u-bahn-berlin-kritik-fahrgastverband-igeb.html",
-      "date": "Mon, 27 Jul 2026 07:26:36 +0200"
+      "date": "Mon, 27 Jul 2026 08:50:12 +0200"
     },
     {
       "title": "Anschlag bei Berliner CSD: Was über den Tatverdächtigen Abdul B. bekannt ist",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-csd-anschlag-verdaechtiger-abdul-b-hintergrund.html",
       "date": "Mon, 27 Jul 2026 06:39:06 +0200"
-    },
-    {
-      "title": "Vorgeschichte des mutmaßlichen CSD-Attentäters wirft Fragen auf",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/anschlag-csd-taeter-vorgeschichte-behoerden-diskussion.html",
-      "date": "Mon, 27 Jul 2026 06:15:00 +0200"
     },
     {
       "title": "Berlin und die queere Community gedenken der Opfer des Anschlags",
@@ -49,16 +59,6 @@
       "title": "Vor 130 Jahren strahlte Treptow mit einer Gewerbeaustellung globalen Glanz aus",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/gewerbeausstellung-colonial-treptow-130-jahre-berlin.html",
       "date": "Sun, 26 Jul 2026 12:06:50 +0200"
-    },
-    {
-      "title": "Spürhunde suchen nach mit ASP infizierten Wildschweinen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/afrikanische-schweinepest-spuerhunde-brandenburg-uckermark.html",
-      "date": "Sun, 26 Jul 2026 11:44:28 +0200"
-    },
-    {
-      "title": "Waldsiedlung in Berlin-Zehlendorf ist jetzt Unesco-Welterbe",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/07/berlin-unesco-welterbe-waldsiedlung-zehlendorf-moderne.html",
-      "date": "Sun, 26 Jul 2026 11:40:01 +0200"
     }
   ],
   "police": [
@@ -128,9 +128,14 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "+++ Anschlag beim Berliner CSD: Geflüchteter mutmaßlicher Täter erschossen +++",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/live-ticker-csd-berlin-auto-tiergarten-verletzte-tot.html",
-      "date": "Mon, 27 Jul 2026 07:41:14 +0200"
+      "title": "Ticker zum CSD-Anschlag: ++ Wegner fordert Fußfesseln für Gefährder ++",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-attentat-ticker-berlin-auto-tiergarten.html",
+      "date": "Mon, 27 Jul 2026 12:21:43 +0200"
+    },
+    {
+      "title": "Vorgeschichte des mutmaßlichen CSD-Attentäters wirft Fragen auf",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/anschlag-csd-taeter-vorgeschichte-behoerden-diskussion.html",
+      "date": "Mon, 27 Jul 2026 10:38:40 +0200"
     },
     {
       "title": "Anschlag bei Berliner CSD: Was über den Tatverdächtigen Abdul B. bekannt ist",
@@ -138,9 +143,9 @@
       "date": "Mon, 27 Jul 2026 06:39:06 +0200"
     },
     {
-      "title": "Vorgeschichte des mutmaßlichen CSD-Attentäters wirft Fragen auf",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/anschlag-csd-taeter-vorgeschichte-behoerden-diskussion.html",
-      "date": "Mon, 27 Jul 2026 06:15:00 +0200"
+      "title": "+++ Anschlag beim Berliner CSD: Geflüchteter mutmaßlicher Täter erschossen +++",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/live-ticker-csd-berlin-auto-tiergarten-verletzte-tot.html",
+      "date": "Sun, 26 Jul 2026 23:59:00 +0200"
     },
     {
       "title": "Berlin und die queere Community gedenken der Opfer des Anschlags",
@@ -181,11 +186,6 @@
       "title": "CSD Berlin: Auto fährt in Menschen - ein Toter und 17 Verletzte",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-christopher-street-day-samstag-demo1.html",
       "date": "Sun, 26 Jul 2026 01:36:42 +0200"
-    },
-    {
-      "title": "Hunderttausende beim Berliner CSD-Umzug - 7.000 bei Protest in Gesundbrunnen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-christopher-street-day-samstag-demo-veranstaltung-abgebrochen.html",
-      "date": "Sat, 25 Jul 2026 22:40:00 +0200"
     }
   ]
 }
