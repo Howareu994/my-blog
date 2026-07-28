@@ -1,24 +1,29 @@
 {
   "traffic": [
     {
+      "title": "Ticker zum CSD-Anschlag: +++ Drei weitere Personen in Gewahrsam +++",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-anschlag-ticker-berlin-auto-tiergarten.html",
+      "date": "Tue, 28 Jul 2026 09:25:30 +0200"
+    },
+    {
+      "title": "Wildschweine in Brandenburg an der Havel: So geht die Stadt vor",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-havel-wildschweine-wohngebiete-problem.html",
+      "date": "Tue, 28 Jul 2026 08:55:26 +0200"
+    },
+    {
+      "title": "Lenny Kravitz in der Uber Arena: Ein konservierter Rockstar",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/07/konzert-lenny-kravitz-uber-arena-berlin.html",
+      "date": "Tue, 28 Jul 2026 08:33:22 +0200"
+    },
+    {
+      "title": "Lehrermangel: Brandenburger Bildungsminister hofft auf Bewerbungen",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/07/brandenburg-gordon-hoffmann-bewerbung-lehrer-beamtenbezuege.html",
+      "date": "Tue, 28 Jul 2026 08:14:29 +0200"
+    },
+    {
       "title": "Neue Gesetze und Regeln: Das ändert sich im August",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brandenburg-august-neue-gesetze-regeln-termine.html",
       "date": "Tue, 28 Jul 2026 06:02:00 +0200"
-    },
-    {
-      "title": "Vorgeschichte des mutmaßlichen CSD-Attentäters wirft Fragen auf",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/anschlag-csd-taeter-vorgeschichte-behoerden-diskussion.html",
-      "date": "Mon, 27 Jul 2026 21:32:20 +0200"
-    },
-    {
-      "title": "Ticker zum CSD-Anschlag: ++ Abdul B. war als \"Hochrisiko-Gefährder\" eingestuft ++",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-attentat-ticker-berlin-auto-tiergarten.html",
-      "date": "Mon, 27 Jul 2026 21:10:32 +0200"
-    },
-    {
-      "title": "Anschlag bei Berliner CSD: Was über den Tatverdächtigen Abdul B. bekannt ist",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-csd-anschlag-verdaechtiger-abdul-b-hintergrund.html",
-      "date": "Mon, 27 Jul 2026 21:02:33 +0200"
     },
     {
       "title": "Mutmaßlicher CSD-Attentäter: Berliner Justiz verteidigt Aufhebung eines früheren Haftbefehls gegen Abdul B.",
@@ -54,11 +59,6 @@
       "title": "World Liberty Congress: Iranische Dissidentin leitet neues Zentrum für Demokratie-Aktivisten",
       "link": "https://www.rbb24.de/politik/beitrag/2026/07/berlin-world-liberty-congress-dissidenten-freiheit-demokratie.html",
       "date": "Mon, 27 Jul 2026 17:57:43 +0200"
-    },
-    {
-      "title": "Expressbus soll Pendler zwischen Berlin und Frankfurt (Oder) während RE1-Sperrung entlasten",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/expressbus-schienenersatzverkehr-re1-frankfurt-oder-berlin-erfahrungen.html",
-      "date": "Mon, 27 Jul 2026 17:48:06 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,16 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Ticker zum CSD-Anschlag: +++ Drei weitere Personen in Gewahrsam +++",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-anschlag-ticker-berlin-auto-tiergarten.html",
+      "date": "Tue, 28 Jul 2026 09:25:30 +0200"
+    },
+    {
+      "title": "Wildschweine in Brandenburg an der Havel: So geht die Stadt vor",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-havel-wildschweine-wohngebiete-problem.html",
+      "date": "Tue, 28 Jul 2026 08:55:26 +0200"
+    },
+    {
       "title": "Neue Gesetze und Regeln: Das ändert sich im August",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brandenburg-august-neue-gesetze-regeln-termine.html",
       "date": "Tue, 28 Jul 2026 06:02:00 +0200"
@@ -176,16 +186,6 @@
       "title": "Sechs Polizeitransporter krachen auf A115 in Berlin ineinander",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/polizeitransporter-krachen-berlin-unfall-a115.html",
       "date": "Mon, 27 Jul 2026 18:43:00 +0200"
-    },
-    {
-      "title": "Landesweiter Aktionstag gegen geplante Pflegereform: Pflegeverbände in Brandenburg protestieren",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/protest-pflegereform-pflegeverbaende-ffo.html",
-      "date": "Mon, 27 Jul 2026 18:07:00 +0200"
-    },
-    {
-      "title": "Expressbus soll Pendler zwischen Berlin und Frankfurt (Oder) während RE1-Sperrung entlasten",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/expressbus-schienenersatzverkehr-re1-frankfurt-oder-berlin-erfahrungen.html",
-      "date": "Mon, 27 Jul 2026 17:48:06 +0200"
     }
   ]
 }
