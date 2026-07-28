@@ -3,7 +3,17 @@
     {
       "title": "Ticker zum CSD-Anschlag: ++ Gedenkort im Tiergarten beschädigt ++",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-anschlag-ticker-berlin-auto-tiergarten.html",
-      "date": "Tue, 28 Jul 2026 17:05:31 +0200"
+      "date": "Tue, 28 Jul 2026 19:20:18 +0200"
+    },
+    {
+      "title": "Berlin und Brandenburg verzeichnen Bevölkerungszuwachs",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brandenburg-zuzuege-abwanderung-mehr-menschen-abwanderung.html",
+      "date": "Tue, 28 Jul 2026 18:32:46 +0200"
+    },
+    {
+      "title": "Alba Berlin: Martin Hermannsson verlängert bis 2029",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/basketball-alba-berlin-martin-hermannsson-vertrag-verlaengerung.html",
+      "date": "Tue, 28 Jul 2026 18:20:13 +0200"
     },
     {
       "title": "Expressbus soll Pendler zwischen Berlin und Frankfurt (Oder) während RE1-Sperrung entlasten",
@@ -49,16 +59,6 @@
       "title": "Zwei Tote in Ortrand: Staatsanwaltschaft ermittelt gegen 80-Jährigen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/zwei-tote-ortrand-tatverdaechtiger-80-jaehriger-staatsanwaltschaft.html",
       "date": "Tue, 28 Jul 2026 13:31:54 +0200"
-    },
-    {
-      "title": "Trockenheit: Länder beraten über Wassermangel in der Spree",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/spree-berlin-brandenburg-trockenheit-niedrigwasser-pegel-klimawandel-regen-hitze.html",
-      "date": "Tue, 28 Jul 2026 13:30:52 +0200"
-    },
-    {
-      "title": "Wetter in Berlin und Brandenburg: Hitze bis zu 37 Grad erwartet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/wetter-sonne-regen-hitzewelle-berlin-brandenburg.html",
-      "date": "Tue, 28 Jul 2026 13:00:36 +0200"
     }
   ],
   "police": [
@@ -128,14 +128,19 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Ticker zum CSD-Anschlag: ++ Gedenkort im Tiergarten beschädigt ++",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-anschlag-ticker-berlin-auto-tiergarten.html",
+      "date": "Tue, 28 Jul 2026 19:20:18 +0200"
+    },
+    {
+      "title": "Berlin und Brandenburg verzeichnen Bevölkerungszuwachs",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brandenburg-zuzuege-abwanderung-mehr-menschen-abwanderung.html",
+      "date": "Tue, 28 Jul 2026 18:32:46 +0200"
+    },
+    {
       "title": "Queere Szene in Brandenburg gedenkt und wappnet sich",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-potsdam-csd-gedenken-queer.html",
       "date": "Tue, 28 Jul 2026 17:23:42 +0200"
-    },
-    {
-      "title": "Ticker zum CSD-Anschlag: ++ Gedenkort im Tiergarten beschädigt ++",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-anschlag-ticker-berlin-auto-tiergarten.html",
-      "date": "Tue, 28 Jul 2026 17:05:31 +0200"
     },
     {
       "title": "Expressbus soll Pendler zwischen Berlin und Frankfurt (Oder) während RE1-Sperrung entlasten",
@@ -181,11 +186,6 @@
       "title": "Landesweiter Aktionstag gegen geplante Pflegereform: Pflegeverbände in Brandenburg protestieren",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/protest-pflegereform-pflegeverbaende-ffo.html",
       "date": "Tue, 28 Jul 2026 12:26:48 +0200"
-    },
-    {
-      "title": "Interview mit Eren Güvercin: \"Muslime müssen Haltung gegen Queerfeindlichkeit zeigen\"",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-anschlag-berlin-islam-islamismus-queerfeindlich-religion.html",
-      "date": "Tue, 28 Jul 2026 11:53:00 +0200"
     }
   ]
 }
