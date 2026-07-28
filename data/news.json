@@ -1,6 +1,36 @@
 {
   "traffic": [
     {
+      "title": "Opferbeauftragter nach CSD-Anschlag im Interview",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/anschlag-csd-roland-weber-opferbeauftragter-berlin.html",
+      "date": "Tue, 28 Jul 2026 14:52:07 +0200"
+    },
+    {
+      "title": "Ticker zum CSD-Anschlag: +++ Wegner spricht von islamistischem Terroranschlag +++",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-anschlag-ticker-berlin-auto-tiergarten.html",
+      "date": "Tue, 28 Jul 2026 14:51:06 +0200"
+    },
+    {
+      "title": "Brandsatz auf Berliner Flüchtlingsunterkunft geworfen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/fluechtlingsunterkunft-berlin-hellersdorf-brandsatz-ermittlungen.html",
+      "date": "Tue, 28 Jul 2026 14:24:47 +0200"
+    },
+    {
+      "title": "Bakterien in der Ostsee: Drei Berliner mit Vibrionen-Infektionen - ein Todesfall",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-vibrionen-infektion-ostsee-senior-gestorben.html",
+      "date": "Tue, 28 Jul 2026 14:01:05 +0200"
+    },
+    {
+      "title": "Zwei Tote in Ortrand: Staatsanwaltschaft ermittelt gegen 80-Jährigen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/zwei-tote-ortrand-tatverdaechtiger-80-jaehriger-staatsanwaltschaft.html",
+      "date": "Tue, 28 Jul 2026 13:31:54 +0200"
+    },
+    {
+      "title": "Trockenheit: Länder beraten über Wassermangel in der Spree",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/spree-berlin-brandenburg-trockenheit-niedrigwasser-pegel-klimawandel-regen-hitze.html",
+      "date": "Tue, 28 Jul 2026 13:30:52 +0200"
+    },
+    {
       "title": "Wetter in Berlin und Brandenburg: Hitze bis zu 37 Grad erwartet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/wetter-sonne-regen-hitzewelle-berlin-brandenburg.html",
       "date": "Tue, 28 Jul 2026 13:00:36 +0200"
@@ -9,11 +39,6 @@
       "title": "Landesweiter Aktionstag gegen geplante Pflegereform: Pflegeverbände in Brandenburg protestieren",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/protest-pflegereform-pflegeverbaende-ffo.html",
       "date": "Tue, 28 Jul 2026 12:26:48 +0200"
-    },
-    {
-      "title": "Zwei Tote in Ortrand: Staatsanwaltschaft ermittelt gegen 80-Jährigen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/zwei-tote-ortrand-tatverdaechtiger-80-jaehriger-staatsanwaltschaft.html",
-      "date": "Tue, 28 Jul 2026 12:12:40 +0200"
     },
     {
       "title": "Interview mit Eren Güvercin: \"Muslime müssen Haltung gegen Queerfeindlichkeit zeigen\"",
@@ -34,34 +59,19 @@
       "title": "Lehrermangel: Brandenburger Bildungsminister hofft auf Bewerbungen",
       "link": "https://www.rbb24.de/politik/beitrag/2026/07/brandenburg-gordon-hoffmann-bewerbung-lehrer-beamtenbezuege.html",
       "date": "Tue, 28 Jul 2026 08:14:29 +0200"
-    },
-    {
-      "title": "Neue Gesetze und Regeln: Das ändert sich im August",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brandenburg-august-neue-gesetze-regeln-termine.html",
-      "date": "Tue, 28 Jul 2026 06:02:00 +0200"
-    },
-    {
-      "title": "Anschlag bei Berliner CSD: Was über den Tatverdächtigen Abdul B. bekannt ist",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-csd-anschlag-verdaechtiger-abdul-b-hintergrund.html",
-      "date": "Mon, 27 Jul 2026 21:02:33 +0200"
-    },
-    {
-      "title": "Mutmaßlicher CSD-Attentäter: Berliner Justiz verteidigt Aufhebung eines früheren Haftbefehls gegen Abdul B.",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-justiz-verteidigt-aufhebung-haftbefehl-csd-attentaeter.html",
-      "date": "Mon, 27 Jul 2026 20:42:01 +0200"
-    },
-    {
-      "title": "FC Barcelona veranstaltet Kinder-Fußballcamp in Lichtenberg",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-berlin-lichtenberg-fc-barcelona-feriencamp-sparta.html",
-      "date": "Mon, 27 Jul 2026 19:28:56 +0200"
-    },
-    {
-      "title": "Waldbrand auf früherem Militärgelände in Jüterbog unter Kontrolle",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-teltow-flaeming-waldbrand-militaer-feuer.html",
-      "date": "Mon, 27 Jul 2026 19:14:00 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Denkmal mit Hakenkreuz beschmiert",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698106.php",
+      "date": "Tue, 28 Jul 2026 15:20:17 +0200"
+    },
+    {
+      "title": "Ermittlungen nach Schussabgaben führen zur Festnahme eines Tatverdächtigen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698054.php",
+      "date": "Tue, 28 Jul 2026 14:18:30 +0200"
+    },
     {
       "title": "Knallgeräusch löst Polizeieinsatz aus",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697990.php",
@@ -111,16 +121,6 @@
       "title": "Flucht vor der Polizei endet in Sackgasse",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697361.php",
       "date": "Fri, 24 Jul 2026 14:49:46 +0200"
-    },
-    {
-      "title": "Körperliche Auseinandersetzung zwischen mehreren Personen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697355.php",
-      "date": "Fri, 24 Jul 2026 14:32:32 +0200"
-    },
-    {
-      "title": "Mann bespuckt und beleidigt Passanten und Polizeikräfte",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697302.php",
-      "date": "Fri, 24 Jul 2026 12:43:31 +0200"
     }
   ],
   "free_events": [],
@@ -128,9 +128,39 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Ticker zum CSD-Anschlag: +++ Drei weitere Personen in Gewahrsam +++",
+      "title": "Bund und Berlin schalten Hilfetelefone für Betroffene des CSD-Anschlags",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-csd-anschlag-betroffene-hilfetelefone.html",
+      "date": "Tue, 28 Jul 2026 15:37:27 +0200"
+    },
+    {
+      "title": "Opferbeauftragter nach CSD-Anschlag im Interview",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/anschlag-csd-roland-weber-opferbeauftragter-berlin.html",
+      "date": "Tue, 28 Jul 2026 14:52:07 +0200"
+    },
+    {
+      "title": "Ticker zum CSD-Anschlag: +++ Wegner spricht von islamistischem Terroranschlag +++",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-anschlag-ticker-berlin-auto-tiergarten.html",
-      "date": "Tue, 28 Jul 2026 13:06:59 +0200"
+      "date": "Tue, 28 Jul 2026 14:51:06 +0200"
+    },
+    {
+      "title": "Brandsatz auf Berliner Flüchtlingsunterkunft geworfen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/fluechtlingsunterkunft-berlin-hellersdorf-brandsatz-ermittlungen.html",
+      "date": "Tue, 28 Jul 2026 14:24:47 +0200"
+    },
+    {
+      "title": "Bakterien in der Ostsee: Drei Berliner mit Vibrionen-Infektionen - ein Todesfall",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-vibrionen-infektion-ostsee-senior-gestorben.html",
+      "date": "Tue, 28 Jul 2026 14:01:05 +0200"
+    },
+    {
+      "title": "Zwei Tote in Ortrand: Staatsanwaltschaft ermittelt gegen 80-Jährigen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/zwei-tote-ortrand-tatverdaechtiger-80-jaehriger-staatsanwaltschaft.html",
+      "date": "Tue, 28 Jul 2026 13:31:54 +0200"
+    },
+    {
+      "title": "Trockenheit: Länder beraten über Wassermangel in der Spree",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/spree-berlin-brandenburg-trockenheit-niedrigwasser-pegel-klimawandel-regen-hitze.html",
+      "date": "Tue, 28 Jul 2026 13:30:52 +0200"
     },
     {
       "title": "Wetter in Berlin und Brandenburg: Hitze bis zu 37 Grad erwartet",
@@ -141,11 +171,6 @@
       "title": "Landesweiter Aktionstag gegen geplante Pflegereform: Pflegeverbände in Brandenburg protestieren",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/protest-pflegereform-pflegeverbaende-ffo.html",
       "date": "Tue, 28 Jul 2026 12:26:48 +0200"
-    },
-    {
-      "title": "Zwei Tote in Ortrand: Staatsanwaltschaft ermittelt gegen 80-Jährigen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/zwei-tote-ortrand-tatverdaechtiger-80-jaehriger-staatsanwaltschaft.html",
-      "date": "Tue, 28 Jul 2026 12:12:40 +0200"
     },
     {
       "title": "Interview mit Eren Güvercin: \"Muslime müssen Haltung gegen Queerfeindlichkeit zeigen\"",
@@ -161,31 +186,6 @@
       "title": "Neue Gesetze und Regeln: Das ändert sich im August",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-brandenburg-august-neue-gesetze-regeln-termine.html",
       "date": "Tue, 28 Jul 2026 06:02:00 +0200"
-    },
-    {
-      "title": "Vorgeschichte des mutmaßlichen CSD-Attentäters wirft Fragen auf",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/anschlag-csd-taeter-vorgeschichte-behoerden-diskussion.html",
-      "date": "Mon, 27 Jul 2026 21:32:20 +0200"
-    },
-    {
-      "title": "Hauptumbau des Ex-Flughafens Tegel zur Uni hat begonnen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/spatenstich-umbau-ex-flughafen-tegel-uni.html",
-      "date": "Mon, 27 Jul 2026 21:30:49 +0200"
-    },
-    {
-      "title": "Livestream zum Nachschauen: rbb24 Spezial \"Nach dem CSD-Anschlag: Welche Folgen hat die Tat?\"",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/livestream-rbb-spezial-csd-anschlag-abdul-b-gefaehrder-debatte.html",
-      "date": "Mon, 27 Jul 2026 21:23:30 +0200"
-    },
-    {
-      "title": "Ticker zum CSD-Anschlag: ++ Abdul B. war als \"Hochrisiko-Gefährder\" eingestuft ++",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-attentat-ticker-berlin-auto-tiergarten.html",
-      "date": "Mon, 27 Jul 2026 21:10:00 +0200"
-    },
-    {
-      "title": "Anschlag bei Berliner CSD: Was über den Tatverdächtigen Abdul B. bekannt ist",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-csd-anschlag-verdaechtiger-abdul-b-hintergrund.html",
-      "date": "Mon, 27 Jul 2026 21:02:33 +0200"
     }
   ]
 }
