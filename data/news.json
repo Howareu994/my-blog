@@ -1,19 +1,14 @@
 {
   "traffic": [
     {
-      "title": "Bund und Berlin schalten Hilfetelefone für Betroffene des CSD-Anschlags",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-csd-anschlag-betroffene-hilfetelefone.html",
-      "date": "Wed, 29 Jul 2026 12:50:24 +0200"
+      "title": "Ticker zum CSD-Anschlag: +++ Sondersitzung im Innenausschuss +++",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-anschlag-ticker-berlin-ermittlungen-folgen.html",
+      "date": "Wed, 29 Jul 2026 15:39:38 +0200"
     },
     {
       "title": "Plagiatsvorwurf gegen Brosius-Gersdorf nicht bestätigt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brosius-gersdorf-potsdam-verfassungsgericht-richterin-plagiatsvorwurf-nicht-bestaetigt.html",
       "date": "Wed, 29 Jul 2026 12:47:23 +0200"
-    },
-    {
-      "title": "Anschlag auf Berliner CSD: In eigener Sache",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-csd-anschlag-in-eigener-sache.html",
-      "date": "Wed, 29 Jul 2026 12:42:00 +0200"
     },
     {
       "title": "Badewarnung nach Blaualgenbefall am Wolletzsee in Angermünde aufgehoben",
@@ -29,6 +24,11 @@
       "title": "CSD-Organisatorin nach Anschlag in Berlin im Interview",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-berlin-anschlag-interview-vorstand-queer-team.html",
       "date": "Wed, 29 Jul 2026 10:26:00 +0200"
+    },
+    {
+      "title": "Tour-de-France-Debütant Kanter: \"Kann ich irgendwann Enkeln erzählen\"",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/radsport-tour-de-france-max-kanter-sprinter-bilanz-cottbus-lausitz.html",
+      "date": "Wed, 29 Jul 2026 10:06:14 +0200"
     },
     {
       "title": "Unglücksfall: Geschäftsführer von Wasserverband stirbt bei Flugzeugabsturz",
@@ -62,6 +62,11 @@
     }
   ],
   "police": [
+    {
+      "title": "Autofahrer bei Zusammenstoß mit Straßenbahn erheblich verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1698345.php",
+      "date": "Wed, 29 Jul 2026 13:10:43 +0200"
+    },
     {
       "title": "Sachbeschädigung durch Brand auf Schulgelände",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1698292.php",
@@ -116,11 +121,6 @@
       "title": "Streit eskaliert – zwei Männer erleiden Stichverletzungen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697665.php",
       "date": "Mon, 27 Jul 2026 13:01:22 +0200"
-    },
-    {
-      "title": "Auffahrunfall mit mehreren beteiligten Polizeifahrzeugen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697661.php",
-      "date": "Mon, 27 Jul 2026 12:53:19 +0200"
     }
   ],
   "free_events": [],
@@ -130,7 +130,12 @@
     {
       "title": "Ticker zum CSD-Anschlag: +++ Sondersitzung im Innenausschuss +++",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-anschlag-ticker-berlin-ermittlungen-folgen.html",
-      "date": "Wed, 29 Jul 2026 12:51:00 +0200"
+      "date": "Wed, 29 Jul 2026 15:39:38 +0200"
+    },
+    {
+      "title": "Havelland: Falkensee leidet unter Trockenheit",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-havelland-wasser-niedrigwasser-trockenheit.html",
+      "date": "Wed, 29 Jul 2026 13:53:50 +0200"
     },
     {
       "title": "Bund und Berlin schalten Hilfetelefone für Betroffene des CSD-Anschlags",
@@ -141,11 +146,6 @@
       "title": "Plagiatsvorwurf gegen Brosius-Gersdorf nicht bestätigt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brosius-gersdorf-potsdam-verfassungsgericht-richterin-plagiatsvorwurf-nicht-bestaetigt.html",
       "date": "Wed, 29 Jul 2026 12:47:23 +0200"
-    },
-    {
-      "title": "Anschlag auf Berliner CSD: In eigener Sache",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-csd-anschlag-in-eigener-sache.html",
-      "date": "Wed, 29 Jul 2026 12:42:00 +0200"
     },
     {
       "title": "Badewarnung nach Blaualgenbefall am Wolletzsee in Angermünde aufgehoben",
