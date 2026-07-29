@@ -1,19 +1,29 @@
 {
   "traffic": [
     {
+      "title": "Unglücksfall: Geschäftsführer von Wasserverband stirbt bei Flugzeugabsturz",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-bremen-geschaeftsfueherer-wasserverband-flugzeug-absturz-tot.html",
+      "date": "Wed, 29 Jul 2026 09:51:02 +0200"
+    },
+    {
+      "title": "Lkw-Fahrer bei Unfall in Tschernitz gestorben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/unfall-tschernitz-lkw-fahrer-tot.html",
+      "date": "Wed, 29 Jul 2026 09:19:32 +0200"
+    },
+    {
+      "title": "Ticker zum CSD-Anschlag: +++ Sondersitzung im Innenausschuss +++",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-anschlag-ticker-berlin-ermittlungen-folgen.html",
+      "date": "Wed, 29 Jul 2026 08:46:43 +0200"
+    },
+    {
       "title": "Ausstellung \"Die Berge Tirols\": Alpenidylle, Gletschermüll und Klimakrise",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/07/alpen-europaeische-kulturtage-gletscher-klimawandel-tirol-berlin.html",
-      "date": "Wed, 29 Jul 2026 06:26:47 +0200"
+      "date": "Wed, 29 Jul 2026 08:01:13 +0200"
     },
     {
       "title": "Jugendstrafrecht: Berlin und Brandenburg uneins über Verschärfung",
       "link": "https://www.rbb24.de/politik/beitrag/2026/07/csd-anschlag-berlin-brandenburg-debatte-jugendstrafrecht.html",
       "date": "Tue, 28 Jul 2026 19:41:10 +0200"
-    },
-    {
-      "title": "Ticker zum CSD-Anschlag: ++ Gedenkort im Tiergarten beschädigt ++",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-anschlag-ticker-berlin-auto-tiergarten.html",
-      "date": "Tue, 28 Jul 2026 19:20:18 +0200"
     },
     {
       "title": "Berlin und Brandenburg verzeichnen Bevölkerungszuwachs",
@@ -49,16 +59,6 @@
       "title": "Neustädter Pferdesommer: \"Für viele Reiter ein absolutes Jahreshighlight\"",
       "link": "https://www.rbb24.de/sport/beitrag/2026/07/brandenburg-neustadt-dosse-reitsport-dressur-pferdesommer.html",
       "date": "Tue, 28 Jul 2026 15:33:04 +0200"
-    },
-    {
-      "title": "Opferbeauftragter nach CSD-Anschlag im Interview",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/anschlag-csd-roland-weber-opferbeauftragter-berlin.html",
-      "date": "Tue, 28 Jul 2026 14:52:00 +0200"
-    },
-    {
-      "title": "Brandsatz auf Berliner Flüchtlingsunterkunft geworfen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/fluechtlingsunterkunft-berlin-hellersdorf-brandsatz-ermittlungen.html",
-      "date": "Tue, 28 Jul 2026 14:24:47 +0200"
     }
   ],
   "police": [
@@ -128,14 +128,29 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Gerichtsentscheidung: Starker Cannabiskonsum kann Zweifel an Fahreignung begründen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-verwaltungsgericht-starker-cannabiskonsum-zweifel-fahreignung.html",
-      "date": "Wed, 29 Jul 2026 07:01:01 +0200"
+      "title": "Unglücksfall: Geschäftsführer von Wasserverband stirbt bei Flugzeugabsturz",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-bremen-geschaeftsfueherer-wasserverband-flugzeug-absturz-tot.html",
+      "date": "Wed, 29 Jul 2026 09:51:02 +0200"
+    },
+    {
+      "title": "Lkw-Fahrer bei Unfall in Tschernitz gestorben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/unfall-tschernitz-lkw-fahrer-tot.html",
+      "date": "Wed, 29 Jul 2026 09:19:32 +0200"
+    },
+    {
+      "title": "Ticker zum CSD-Anschlag: +++ Sondersitzung im Innenausschuss +++",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-anschlag-ticker-berlin-ermittlungen-folgen.html",
+      "date": "Wed, 29 Jul 2026 08:46:43 +0200"
     },
     {
       "title": "Ticker zum CSD-Anschlag: ++ Gedenkort im Tiergarten beschädigt ++",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-anschlag-ticker-berlin-auto-tiergarten.html",
-      "date": "Tue, 28 Jul 2026 19:20:18 +0200"
+      "date": "Wed, 29 Jul 2026 08:27:08 +0200"
+    },
+    {
+      "title": "Gerichtsentscheidung: Starker Cannabiskonsum kann Zweifel an Fahreignung begründen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-verwaltungsgericht-starker-cannabiskonsum-zweifel-fahreignung.html",
+      "date": "Wed, 29 Jul 2026 07:01:01 +0200"
     },
     {
       "title": "Berlin und Brandenburg verzeichnen Bevölkerungszuwachs",
@@ -171,21 +186,6 @@
       "title": "Bakterien in der Ostsee: Drei Berliner mit Vibrionen-Infektionen - ein Todesfall",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-vibrionen-infektion-ostsee-senior-gestorben.html",
       "date": "Tue, 28 Jul 2026 14:01:05 +0200"
-    },
-    {
-      "title": "Zwei Tote in Ortrand: Staatsanwaltschaft ermittelt gegen 80-Jährigen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/zwei-tote-ortrand-tatverdaechtiger-80-jaehriger-staatsanwaltschaft.html",
-      "date": "Tue, 28 Jul 2026 13:31:54 +0200"
-    },
-    {
-      "title": "Trockenheit: Länder beraten über Wassermangel in der Spree",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/spree-berlin-brandenburg-trockenheit-niedrigwasser-pegel-klimawandel-regen-hitze.html",
-      "date": "Tue, 28 Jul 2026 13:30:52 +0200"
-    },
-    {
-      "title": "Wetter in Berlin und Brandenburg: Hitze bis zu 37 Grad erwartet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/wetter-sonne-regen-hitzewelle-berlin-brandenburg.html",
-      "date": "Tue, 28 Jul 2026 13:00:36 +0200"
     }
   ]
 }
