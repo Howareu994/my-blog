@@ -1,9 +1,24 @@
 {
   "traffic": [
     {
+      "title": "Islamismus in Brandenburg: Immer mehr junge Menschen werden im Netz rekrutiert",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/07/islamismus-brandenburg-rekrutierung-gewaltbereit-tiktok.html",
+      "date": "Wed, 29 Jul 2026 21:46:50 +0200"
+    },
+    {
       "title": "Nach Anschlag auf CSD: Berliner \"Zug der Liebe\" abgesagt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-zug-der-liebe-absage.html",
-      "date": "Wed, 29 Jul 2026 20:49:09 +0200"
+      "date": "Wed, 29 Jul 2026 21:10:10 +0200"
+    },
+    {
+      "title": "Ticker zum CSD-Anschlag: +++ \"Zug der Liebe\" abgesagt +++",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-anschlag-ticker-berlin-ermittlungen-folgen.html",
+      "date": "Wed, 29 Jul 2026 21:02:31 +0200"
+    },
+    {
+      "title": "Brandenburger Verfassungsschutz: Mehr junge Menschen \"online radikalisiert\"",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/07/brandenburg-islamismus-verfassungsschutz-chef-peters.html",
+      "date": "Wed, 29 Jul 2026 20:14:01 +0200"
     },
     {
       "title": "Was über die Verurteilungen von Abdul B. bekannt ist",
@@ -31,11 +46,6 @@
       "date": "Wed, 29 Jul 2026 16:44:05 +0200"
     },
     {
-      "title": "Ticker zum CSD-Anschlag: +++ Sondersitzung im Innenausschuss +++",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-anschlag-ticker-berlin-ermittlungen-folgen.html",
-      "date": "Wed, 29 Jul 2026 16:41:31 +0200"
-    },
-    {
       "title": "Bad Freienwalde behält Kurort-Status",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/bad-freienwalde-maerkisch-oderland-kurort-zertifizierung-brandenburg.html",
       "date": "Wed, 29 Jul 2026 16:23:55 +0200"
@@ -49,16 +59,6 @@
       "title": "Badewarnung nach Blaualgenbefall am Wolletzsee in Angermünde aufgehoben",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/blaualge-entwarnung-wolletzsee-baden-angermuende-uckermark-brandenburg.html",
       "date": "Wed, 29 Jul 2026 11:11:41 +0200"
-    },
-    {
-      "title": "Für drei Monate: Keine Fähre zwischen Kiewitt und Hermannswerder",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/potsdam-faehre-f1-kiewitt-hermannswerder-wartung.html",
-      "date": "Wed, 29 Jul 2026 10:34:56 +0200"
-    },
-    {
-      "title": "CSD-Organisatorin nach Anschlag in Berlin im Interview",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-berlin-anschlag-interview-vorstand-queer-team.html",
-      "date": "Wed, 29 Jul 2026 10:26:00 +0200"
     }
   ],
   "police": [
@@ -130,7 +130,12 @@
     {
       "title": "Nach Anschlag auf CSD: Berliner \"Zug der Liebe\" abgesagt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-zug-der-liebe-absage.html",
-      "date": "Wed, 29 Jul 2026 20:49:09 +0200"
+      "date": "Wed, 29 Jul 2026 21:10:10 +0200"
+    },
+    {
+      "title": "Ticker zum CSD-Anschlag: +++ \"Zug der Liebe\" abgesagt +++",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-anschlag-ticker-berlin-ermittlungen-folgen.html",
+      "date": "Wed, 29 Jul 2026 21:02:31 +0200"
     },
     {
       "title": "Was über die Verurteilungen von Abdul B. bekannt ist",
@@ -151,11 +156,6 @@
       "title": "Fast jeder dritte RE3-Zug war im Juni verspätet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/re-3-verspaetung-zugausfall-bauarbeiten-urlaubszeit-schwedt-angermuende-brandenburg.html",
       "date": "Wed, 29 Jul 2026 17:18:57 +0200"
-    },
-    {
-      "title": "Ticker zum CSD-Anschlag: +++ Sondersitzung im Innenausschuss +++",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-anschlag-ticker-berlin-ermittlungen-folgen.html",
-      "date": "Wed, 29 Jul 2026 16:41:31 +0200"
     },
     {
       "title": "Bad Freienwalde behält Kurort-Status",
