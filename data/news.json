@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Nach Anschlag auf CSD: Berliner \"Zug der Liebe\" abgesagt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-zug-der-liebe-absage.html",
+      "date": "Wed, 29 Jul 2026 20:49:09 +0200"
+    },
+    {
       "title": "Was über die Verurteilungen von Abdul B. bekannt ist",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/abdul-b-anschlag-csd-urteil-haft-vorbewaehrung-auflagen.html",
       "date": "Wed, 29 Jul 2026 18:44:52 +0200"
@@ -54,11 +59,6 @@
       "title": "CSD-Organisatorin nach Anschlag in Berlin im Interview",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-berlin-anschlag-interview-vorstand-queer-team.html",
       "date": "Wed, 29 Jul 2026 10:26:00 +0200"
-    },
-    {
-      "title": "Tour-de-France-Debütant Kanter: \"Kann ich irgendwann Enkeln erzählen\"",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/07/radsport-tour-de-france-max-kanter-sprinter-bilanz-cottbus-lausitz.html",
-      "date": "Wed, 29 Jul 2026 10:06:14 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Nach Anschlag auf CSD: Berliner \"Zug der Liebe\" abgesagt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-zug-der-liebe-absage.html",
+      "date": "Wed, 29 Jul 2026 20:49:09 +0200"
+    },
+    {
       "title": "Was über die Verurteilungen von Abdul B. bekannt ist",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/abdul-b-anschlag-csd-urteil-haft-vorbewaehrung-auflagen.html",
       "date": "Wed, 29 Jul 2026 18:44:52 +0200"
@@ -181,11 +186,6 @@
       "title": "Badewarnung nach Blaualgenbefall am Wolletzsee in Angermünde aufgehoben",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/blaualge-entwarnung-wolletzsee-baden-angermuende-uckermark-brandenburg.html",
       "date": "Wed, 29 Jul 2026 11:11:41 +0200"
-    },
-    {
-      "title": "Für drei Monate: Keine Fähre zwischen Kiewitt und Hermannswerder",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/potsdam-faehre-f1-kiewitt-hermannswerder-wartung.html",
-      "date": "Wed, 29 Jul 2026 10:34:56 +0200"
     }
   ]
 }
