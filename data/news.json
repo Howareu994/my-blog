@@ -1,14 +1,34 @@
 {
   "traffic": [
     {
-      "title": "Gedenkmarsch für gefallene Soldaten endet am Donnerstag in Berlin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/bundeswehr-gedenkmarsch-berlin-brandenburg-lehnin-kladow.html",
-      "date": "Thu, 30 Jul 2026 09:05:31 +0200"
+      "title": "Kokainschmuggel in Berlin: 70-Jähriger angeklagt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-justiz-drogen-schmuggel-kokain-anklage-staatsanwaltschaft-landgericht.html",
+      "date": "Thu, 30 Jul 2026 12:11:33 +0200"
     },
     {
       "title": "Anschlag auf Berliner CSD: +++ Senatorin fordert von Merz Einsatz gegen Queerfeindlichkeit +++ Grüne fordern Konsequenzen +",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-anschlag-ticker-berlin-weitere-entwicklungen.html",
-      "date": "Thu, 30 Jul 2026 08:09:55 +0200"
+      "date": "Thu, 30 Jul 2026 12:07:06 +0200"
+    },
+    {
+      "title": "Mann ertrinkt nach Sprung in Rummelsburger Bucht",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-rummelsburger-bucht-mann-sprung-wasser-gestorben.html",
+      "date": "Thu, 30 Jul 2026 11:59:59 +0200"
+    },
+    {
+      "title": "Fall Abdul B.: Wie Salafisten junge Menschen in Berlin radikalisieren",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/salafisten-berlin-csd-anschlag-abdul-b-islamismus.html",
+      "date": "Thu, 30 Jul 2026 11:27:13 +0200"
+    },
+    {
+      "title": "Gedenkmarsch für gefallene Soldaten endet am Donnerstag in Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/bundeswehr-gedenkmarsch-berlin-brandenburg-lehnin-kladow.html",
+      "date": "Thu, 30 Jul 2026 09:05:00 +0200"
+    },
+    {
+      "title": "Berlin und Brandenburg: Bis zu 38 Grad - abends Gewitter",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/wetter-temperaturen-hitze-berlin-brandenburg-unwetter-gewitter-starkregen.html",
+      "date": "Thu, 30 Jul 2026 07:50:57 +0200"
     },
     {
       "title": "Islamismus in Brandenburg: Immer mehr junge Menschen werden im Netz rekrutiert",
@@ -26,11 +46,6 @@
       "date": "Wed, 29 Jul 2026 20:14:01 +0200"
     },
     {
-      "title": "Was über die Verurteilungen von Abdul B. bekannt ist",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/abdul-b-anschlag-csd-urteil-haft-vorbewaehrung-auflagen.html",
-      "date": "Wed, 29 Jul 2026 18:44:52 +0200"
-    },
-    {
       "title": "Autofahrer lässt sich von Wespe ablenken und fährt gegen Laterne",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/spremberg-wespe-unfall-schaden.html",
       "date": "Wed, 29 Jul 2026 18:08:50 +0200"
@@ -44,24 +59,24 @@
       "title": "Plagiatsvorwurf gegen Brosius-Gersdorf nicht bestätigt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brosius-gersdorf-potsdam-verfassungsgericht-richterin-plagiatsvorwurf-nicht-bestaetigt.html",
       "date": "Wed, 29 Jul 2026 17:59:47 +0200"
-    },
-    {
-      "title": "Bewerbung übergeben: Berlin will Tour-de-France-Start 2029",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/07/radsport-tour-de-france-grand-depart-2029-berlin-ostdeutschland.html",
-      "date": "Wed, 29 Jul 2026 16:44:05 +0200"
-    },
-    {
-      "title": "Bad Freienwalde behält Kurort-Status",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/bad-freienwalde-maerkisch-oderland-kurort-zertifizierung-brandenburg.html",
-      "date": "Wed, 29 Jul 2026 16:23:55 +0200"
-    },
-    {
-      "title": "Anschlag auf Berliner CSD: Wie der rbb über den mutmaßlichen Attentäter berichtet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-csd-anschlag-rbb-tatverdaechtiger-namensnennung-fahndungsfoto.html",
-      "date": "Wed, 29 Jul 2026 15:54:42 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Umfangreiche Einsatzmaßnahmen zur Bekämpfung der Schusswaffenkriminalität – BAO Ferrum und EG Telum vollstrecken Durchsuchungsbeschlüsse",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698642.php",
+      "date": "Thu, 30 Jul 2026 11:30:00 +0200"
+    },
+    {
+      "title": "Kind bei Unfall verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698626.php",
+      "date": "Thu, 30 Jul 2026 11:25:24 +0200"
+    },
+    {
+      "title": "Polizei Berlin erlässt Allgemeinverfügung zum 2. August 2026",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698585.php",
+      "date": "Thu, 30 Jul 2026 10:46:49 +0200"
+    },
     {
       "title": "Autofahrer bei Zusammenstoß mit Straßenbahn erheblich verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1698345.php",
@@ -106,21 +121,6 @@
       "title": "Mann durch Schuss aus mutmaßlicher Schreckschusswaffe und Reizgas verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697957.php",
       "date": "Tue, 28 Jul 2026 11:40:25 +0200"
-    },
-    {
-      "title": "Mit Luftdruckgewehr auf Passanten geschossen – Tatverdächtiger vorläufig festgenommen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697717.php",
-      "date": "Mon, 27 Jul 2026 14:33:31 +0200"
-    },
-    {
-      "title": "Mutmaßlicher Brandstifter greift Polizeikräfte an – Schusswaffengebrauch",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697688.php",
-      "date": "Mon, 27 Jul 2026 13:35:40 +0200"
-    },
-    {
-      "title": "Streit eskaliert – zwei Männer erleiden Stichverletzungen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697665.php",
-      "date": "Mon, 27 Jul 2026 13:01:22 +0200"
     }
   ],
   "free_events": [],
@@ -128,24 +128,39 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Gedenkmarsch für gefallene Soldaten endet am Donnerstag in Berlin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/bundeswehr-gedenkmarsch-berlin-brandenburg-lehnin-kladow.html",
-      "date": "Thu, 30 Jul 2026 09:05:31 +0200"
-    },
-    {
-      "title": "Ticker zum CSD-Anschlag: +++ \"Zug der Liebe\" abgesagt +++",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-anschlag-ticker-berlin-ermittlungen-folgen.html",
-      "date": "Thu, 30 Jul 2026 08:13:58 +0200"
+      "title": "Kokainschmuggel in Berlin: 70-Jähriger angeklagt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-justiz-drogen-schmuggel-kokain-anklage-staatsanwaltschaft-landgericht.html",
+      "date": "Thu, 30 Jul 2026 12:11:33 +0200"
     },
     {
       "title": "Anschlag auf Berliner CSD: +++ Senatorin fordert von Merz Einsatz gegen Queerfeindlichkeit +++ Grüne fordern Konsequenzen +",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-anschlag-ticker-berlin-weitere-entwicklungen.html",
-      "date": "Thu, 30 Jul 2026 08:09:55 +0200"
+      "date": "Thu, 30 Jul 2026 12:07:06 +0200"
+    },
+    {
+      "title": "Mann ertrinkt nach Sprung in Rummelsburger Bucht",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-rummelsburger-bucht-mann-sprung-wasser-gestorben.html",
+      "date": "Thu, 30 Jul 2026 11:59:59 +0200"
+    },
+    {
+      "title": "Fall Abdul B.: Wie Salafisten junge Menschen in Berlin radikalisieren",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/salafisten-berlin-csd-anschlag-abdul-b-islamismus.html",
+      "date": "Thu, 30 Jul 2026 11:27:13 +0200"
+    },
+    {
+      "title": "Gedenkmarsch für gefallene Soldaten endet am Donnerstag in Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/bundeswehr-gedenkmarsch-berlin-brandenburg-lehnin-kladow.html",
+      "date": "Thu, 30 Jul 2026 09:05:00 +0200"
     },
     {
       "title": "Berlin und Brandenburg: Bis zu 38 Grad - abends Gewitter",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/wetter-temperaturen-hitze-berlin-brandenburg-unwetter-gewitter-starkregen.html",
       "date": "Thu, 30 Jul 2026 07:50:57 +0200"
+    },
+    {
+      "title": "Ticker zum CSD-Anschlag: +++ \"Zug der Liebe\" abgesagt +++",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-anschlag-ticker-berlin-ermittlungen-folgen.html",
+      "date": "Wed, 29 Jul 2026 23:59:00 +0200"
     },
     {
       "title": "Nach Anschlag auf CSD: Berliner \"Zug der Liebe\" abgesagt",
@@ -171,21 +186,6 @@
       "title": "Fast jeder dritte RE3-Zug war im Juni verspätet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/re-3-verspaetung-zugausfall-bauarbeiten-urlaubszeit-schwedt-angermuende-brandenburg.html",
       "date": "Wed, 29 Jul 2026 17:18:57 +0200"
-    },
-    {
-      "title": "Bad Freienwalde behält Kurort-Status",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/bad-freienwalde-maerkisch-oderland-kurort-zertifizierung-brandenburg.html",
-      "date": "Wed, 29 Jul 2026 16:23:55 +0200"
-    },
-    {
-      "title": "Abdul B.: Berliner LKA nennt Details zur Observierung",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-anschlag-abdul-b-landeskriminalamt-berlin-lka-observation-ueberwachung.html",
-      "date": "Wed, 29 Jul 2026 16:11:26 +0200"
-    },
-    {
-      "title": "Anschlag auf Berliner CSD: Wie der rbb über den mutmaßlichen Attentäter berichtet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-csd-anschlag-rbb-tatverdaechtiger-namensnennung-fahndungsfoto.html",
-      "date": "Wed, 29 Jul 2026 15:54:42 +0200"
     }
   ]
 }
