@@ -1,14 +1,29 @@
 {
   "traffic": [
     {
+      "title": "Zehn Büffel laufen durch die Straßen von Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-bueffel-strasse-polizeieinsatz-marzahn-hohenschoenhausen.html",
+      "date": "Thu, 30 Jul 2026 14:16:45 +0200"
+    },
+    {
+      "title": "Cottbus: Knallgeräusche lösen SEK-Einsatz in Neu-Schmellwitz aus",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/sek-einsatz-neu-schmellwitz-knallgeraeusche.html",
+      "date": "Thu, 30 Jul 2026 14:16:28 +0200"
+    },
+    {
+      "title": "Madlower See in Cottbus stark von Blaualgen belastet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/blaualgen-madlower-see-cottbus-befall.html",
+      "date": "Thu, 30 Jul 2026 14:05:48 +0200"
+    },
+    {
+      "title": "+++ Berliner CSD-Verein auf Hamburger Pride +++ Senatorin fordert von Merz Einsatz gegen Queerfeindlichkeit  +++",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-anschlag-ticker-berlin-weitere-entwicklungen.html",
+      "date": "Thu, 30 Jul 2026 13:09:08 +0200"
+    },
+    {
       "title": "Kokainschmuggel in Berlin: 70-Jähriger angeklagt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-justiz-drogen-schmuggel-kokain-anklage-staatsanwaltschaft-landgericht.html",
       "date": "Thu, 30 Jul 2026 12:11:33 +0200"
-    },
-    {
-      "title": "Anschlag auf Berliner CSD: +++ Senatorin fordert von Merz Einsatz gegen Queerfeindlichkeit +++ Grüne fordern Konsequenzen +",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-anschlag-ticker-berlin-weitere-entwicklungen.html",
-      "date": "Thu, 30 Jul 2026 12:07:06 +0200"
     },
     {
       "title": "Mann ertrinkt nach Sprung in Rummelsburger Bucht",
@@ -44,24 +59,14 @@
       "title": "Brandenburger Verfassungsschutz: Mehr junge Menschen \"online radikalisiert\"",
       "link": "https://www.rbb24.de/politik/beitrag/2026/07/brandenburg-islamismus-verfassungsschutz-chef-peters.html",
       "date": "Wed, 29 Jul 2026 20:14:01 +0200"
-    },
-    {
-      "title": "Autofahrer lässt sich von Wespe ablenken und fährt gegen Laterne",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/spremberg-wespe-unfall-schaden.html",
-      "date": "Wed, 29 Jul 2026 18:08:50 +0200"
-    },
-    {
-      "title": "Tamara Danz wird mit Sammelmünze gewürdigt",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/07/berlin-rockstar-tamara-danz-ehrung-sammelmuenze-praegung.html",
-      "date": "Wed, 29 Jul 2026 18:00:12 +0200"
-    },
-    {
-      "title": "Plagiatsvorwurf gegen Brosius-Gersdorf nicht bestätigt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brosius-gersdorf-potsdam-verfassungsgericht-richterin-plagiatsvorwurf-nicht-bestaetigt.html",
-      "date": "Wed, 29 Jul 2026 17:59:47 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Radfahrer von Lastwagen angefahren",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698711.php",
+      "date": "Thu, 30 Jul 2026 13:41:01 +0200"
+    },
     {
       "title": "Umfangreiche Einsatzmaßnahmen zur Bekämpfung der Schusswaffenkriminalität – BAO Ferrum und EG Telum vollstrecken Durchsuchungsbeschlüsse",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698642.php",
@@ -116,11 +121,6 @@
       "title": "Mit Maschinenpistole bedroht – Tatverdächtiger festgenommen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697966.php",
       "date": "Tue, 28 Jul 2026 11:55:46 +0200"
-    },
-    {
-      "title": "Mann durch Schuss aus mutmaßlicher Schreckschusswaffe und Reizgas verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697957.php",
-      "date": "Tue, 28 Jul 2026 11:40:25 +0200"
     }
   ],
   "free_events": [],
@@ -128,14 +128,29 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Zehn Büffel laufen durch die Straßen von Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-bueffel-strasse-polizeieinsatz-marzahn-hohenschoenhausen.html",
+      "date": "Thu, 30 Jul 2026 14:16:45 +0200"
+    },
+    {
+      "title": "Cottbus: Knallgeräusche lösen SEK-Einsatz in Neu-Schmellwitz aus",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/sek-einsatz-neu-schmellwitz-knallgeraeusche.html",
+      "date": "Thu, 30 Jul 2026 14:16:28 +0200"
+    },
+    {
+      "title": "Madlower See in Cottbus stark von Blaualgen belastet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/blaualgen-madlower-see-cottbus-befall.html",
+      "date": "Thu, 30 Jul 2026 14:05:48 +0200"
+    },
+    {
+      "title": "+++ Berliner CSD-Verein auf Hamburger Pride +++ Senatorin fordert von Merz Einsatz gegen Queerfeindlichkeit  +++",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-anschlag-ticker-berlin-weitere-entwicklungen.html",
+      "date": "Thu, 30 Jul 2026 13:09:08 +0200"
+    },
+    {
       "title": "Kokainschmuggel in Berlin: 70-Jähriger angeklagt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-justiz-drogen-schmuggel-kokain-anklage-staatsanwaltschaft-landgericht.html",
       "date": "Thu, 30 Jul 2026 12:11:33 +0200"
-    },
-    {
-      "title": "Anschlag auf Berliner CSD: +++ Senatorin fordert von Merz Einsatz gegen Queerfeindlichkeit +++ Grüne fordern Konsequenzen +",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-anschlag-ticker-berlin-weitere-entwicklungen.html",
-      "date": "Thu, 30 Jul 2026 12:07:06 +0200"
     },
     {
       "title": "Mann ertrinkt nach Sprung in Rummelsburger Bucht",
@@ -171,21 +186,6 @@
       "title": "Was über die Verurteilungen von Abdul B. bekannt ist",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/abdul-b-anschlag-csd-urteil-haft-vorbewaehrung-auflagen.html",
       "date": "Wed, 29 Jul 2026 18:44:52 +0200"
-    },
-    {
-      "title": "Autofahrer lässt sich von Wespe ablenken und fährt gegen Laterne",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/spremberg-wespe-unfall-schaden.html",
-      "date": "Wed, 29 Jul 2026 18:08:50 +0200"
-    },
-    {
-      "title": "Plagiatsvorwurf gegen Brosius-Gersdorf nicht bestätigt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brosius-gersdorf-potsdam-verfassungsgericht-richterin-plagiatsvorwurf-nicht-bestaetigt.html",
-      "date": "Wed, 29 Jul 2026 17:59:47 +0200"
-    },
-    {
-      "title": "Fast jeder dritte RE3-Zug war im Juni verspätet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/re-3-verspaetung-zugausfall-bauarbeiten-urlaubszeit-schwedt-angermuende-brandenburg.html",
-      "date": "Wed, 29 Jul 2026 17:18:57 +0200"
     }
   ]
 }
