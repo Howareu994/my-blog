@@ -1,9 +1,14 @@
 {
   "traffic": [
     {
-      "title": "Brand: Behörden ordnen Evakuierung von Neuruppin-Treskow an",
+      "title": "Brand auf Truppenübungsplatz bei Jüterbog - Warnung vor Rauch",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/jueterbog-truppenuebungsplatz-treuenbrietzen-luckenwalde-brand-rauchentwicklung.html",
+      "date": "Thu, 30 Jul 2026 22:54:20 +0200"
+    },
+    {
+      "title": "Ostprignitz-Ruppin: Feldbrand bei Neuruppin unter Kontrolle - Evakuierung ausgesetzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-neuruppin-treskow-brand-evakuierung.html",
-      "date": "Thu, 30 Jul 2026 21:07:08 +0200"
+      "date": "Thu, 30 Jul 2026 22:17:46 +0200"
     },
     {
       "title": "Brand von 90-Hektar-Feld bei Rheinsberg gelöscht",
@@ -31,11 +36,6 @@
       "date": "Thu, 30 Jul 2026 16:43:15 +0200"
     },
     {
-      "title": "Teltow-Fläming: Brand auf Truppenübungsplatz - Warnung vor Rauch",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/jueterbog-truppenuebungsplatz-treuenbrietzen-luckenwalde-brand-rauchentwicklung.html",
-      "date": "Thu, 30 Jul 2026 15:51:33 +0200"
-    },
-    {
       "title": "Kiefernprozessionsspinner: Vorkommen in Brandenburg nimmt zu",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/kiefernprozessionsspinner-nimmt-zu-brandenburg.html",
       "date": "Thu, 30 Jul 2026 15:46:08 +0200"
@@ -54,11 +54,6 @@
       "title": "Zehn Büffel laufen durch die Straßen von Berlin",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-bueffel-strasse-polizeieinsatz-marzahn-hohenschoenhausen.html",
       "date": "Thu, 30 Jul 2026 14:16:45 +0200"
-    },
-    {
-      "title": "Cottbus: Knallgeräusche lösen SEK-Einsatz in Neu-Schmellwitz aus",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/sek-einsatz-neu-schmellwitz-knallgeraeusche.html",
-      "date": "Thu, 30 Jul 2026 14:16:28 +0200"
     }
   ],
   "police": [
@@ -128,9 +123,14 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Brand: Behörden ordnen Evakuierung von Neuruppin-Treskow an",
+      "title": "Brand auf Truppenübungsplatz bei Jüterbog - Warnung vor Rauch",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/jueterbog-truppenuebungsplatz-treuenbrietzen-luckenwalde-brand-rauchentwicklung.html",
+      "date": "Thu, 30 Jul 2026 22:54:20 +0200"
+    },
+    {
+      "title": "Ostprignitz-Ruppin: Feldbrand bei Neuruppin unter Kontrolle - Evakuierung ausgesetzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-neuruppin-treskow-brand-evakuierung.html",
-      "date": "Thu, 30 Jul 2026 21:07:08 +0200"
+      "date": "Thu, 30 Jul 2026 22:17:46 +0200"
     },
     {
       "title": "Brand von 90-Hektar-Feld bei Rheinsberg gelöscht",
@@ -156,11 +156,6 @@
       "title": "Berlin und Brandenburg: Bis zu 38 Grad - abends Gewitter",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/wetter-temperaturen-hitze-berlin-brandenburg-unwetter-gewitter-starkregen.html",
       "date": "Thu, 30 Jul 2026 16:43:15 +0200"
-    },
-    {
-      "title": "Teltow-Fläming: Brand auf Truppenübungsplatz - Warnung vor Rauch",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/jueterbog-truppenuebungsplatz-treuenbrietzen-luckenwalde-brand-rauchentwicklung.html",
-      "date": "Thu, 30 Jul 2026 15:51:33 +0200"
     },
     {
       "title": "Kiefernprozessionsspinner: Vorkommen in Brandenburg nimmt zu",
