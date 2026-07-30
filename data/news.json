@@ -1,19 +1,24 @@
 {
   "traffic": [
     {
+      "title": "Gedenkmarsch für gefallene Soldaten endet am Donnerstag in Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/bundeswehr-gedenkmarsch-berlin-brandenburg-lehnin-kladow.html",
+      "date": "Thu, 30 Jul 2026 09:05:31 +0200"
+    },
+    {
+      "title": "Anschlag auf Berliner CSD: +++ Senatorin fordert von Merz Einsatz gegen Queerfeindlichkeit +++ Grüne fordern Konsequenzen +",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-anschlag-ticker-berlin-weitere-entwicklungen.html",
+      "date": "Thu, 30 Jul 2026 08:09:55 +0200"
+    },
+    {
       "title": "Islamismus in Brandenburg: Immer mehr junge Menschen werden im Netz rekrutiert",
       "link": "https://www.rbb24.de/politik/beitrag/2026/07/islamismus-brandenburg-rekrutierung-gewaltbereit-tiktok.html",
-      "date": "Wed, 29 Jul 2026 21:46:50 +0200"
+      "date": "Thu, 30 Jul 2026 07:06:12 +0200"
     },
     {
       "title": "Nach Anschlag auf CSD: Berliner \"Zug der Liebe\" abgesagt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-zug-der-liebe-absage.html",
       "date": "Wed, 29 Jul 2026 21:10:10 +0200"
-    },
-    {
-      "title": "Ticker zum CSD-Anschlag: +++ \"Zug der Liebe\" abgesagt +++",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-anschlag-ticker-berlin-ermittlungen-folgen.html",
-      "date": "Wed, 29 Jul 2026 21:02:31 +0200"
     },
     {
       "title": "Brandenburger Verfassungsschutz: Mehr junge Menschen \"online radikalisiert\"",
@@ -54,11 +59,6 @@
       "title": "Anschlag auf Berliner CSD: Wie der rbb über den mutmaßlichen Attentäter berichtet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-csd-anschlag-rbb-tatverdaechtiger-namensnennung-fahndungsfoto.html",
       "date": "Wed, 29 Jul 2026 15:54:42 +0200"
-    },
-    {
-      "title": "Badewarnung nach Blaualgenbefall am Wolletzsee in Angermünde aufgehoben",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/blaualge-entwarnung-wolletzsee-baden-angermuende-uckermark-brandenburg.html",
-      "date": "Wed, 29 Jul 2026 11:11:41 +0200"
     }
   ],
   "police": [
@@ -128,14 +128,29 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Nach Anschlag auf CSD: Berliner \"Zug der Liebe\" abgesagt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-zug-der-liebe-absage.html",
-      "date": "Wed, 29 Jul 2026 21:10:10 +0200"
+      "title": "Gedenkmarsch für gefallene Soldaten endet am Donnerstag in Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/bundeswehr-gedenkmarsch-berlin-brandenburg-lehnin-kladow.html",
+      "date": "Thu, 30 Jul 2026 09:05:31 +0200"
     },
     {
       "title": "Ticker zum CSD-Anschlag: +++ \"Zug der Liebe\" abgesagt +++",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-anschlag-ticker-berlin-ermittlungen-folgen.html",
-      "date": "Wed, 29 Jul 2026 21:02:31 +0200"
+      "date": "Thu, 30 Jul 2026 08:13:58 +0200"
+    },
+    {
+      "title": "Anschlag auf Berliner CSD: +++ Senatorin fordert von Merz Einsatz gegen Queerfeindlichkeit +++ Grüne fordern Konsequenzen +",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-anschlag-ticker-berlin-weitere-entwicklungen.html",
+      "date": "Thu, 30 Jul 2026 08:09:55 +0200"
+    },
+    {
+      "title": "Berlin und Brandenburg: Bis zu 38 Grad - abends Gewitter",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/wetter-temperaturen-hitze-berlin-brandenburg-unwetter-gewitter-starkregen.html",
+      "date": "Thu, 30 Jul 2026 07:50:57 +0200"
+    },
+    {
+      "title": "Nach Anschlag auf CSD: Berliner \"Zug der Liebe\" abgesagt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-zug-der-liebe-absage.html",
+      "date": "Wed, 29 Jul 2026 21:10:10 +0200"
     },
     {
       "title": "Was über die Verurteilungen von Abdul B. bekannt ist",
@@ -171,21 +186,6 @@
       "title": "Anschlag auf Berliner CSD: Wie der rbb über den mutmaßlichen Attentäter berichtet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-csd-anschlag-rbb-tatverdaechtiger-namensnennung-fahndungsfoto.html",
       "date": "Wed, 29 Jul 2026 15:54:42 +0200"
-    },
-    {
-      "title": "Havelland: Falkensee leidet unter Trockenheit",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-havelland-wasser-niedrigwasser-trockenheit.html",
-      "date": "Wed, 29 Jul 2026 13:53:50 +0200"
-    },
-    {
-      "title": "Bund und Berlin schalten Hilfetelefone für Betroffene des CSD-Anschlags",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-csd-anschlag-betroffene-hilfetelefone.html",
-      "date": "Wed, 29 Jul 2026 12:50:24 +0200"
-    },
-    {
-      "title": "Badewarnung nach Blaualgenbefall am Wolletzsee in Angermünde aufgehoben",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/blaualge-entwarnung-wolletzsee-baden-angermuende-uckermark-brandenburg.html",
-      "date": "Wed, 29 Jul 2026 11:11:41 +0200"
     }
   ]
 }
