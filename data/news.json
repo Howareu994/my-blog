@@ -1,9 +1,24 @@
 {
   "traffic": [
     {
-      "title": "Fall Abdul B.: Wie Salafisten junge Menschen in Berlin radikalisieren",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/salafisten-berlin-csd-anschlag-abdul-b-islamismus.html",
-      "date": "Thu, 30 Jul 2026 16:59:36 +0200"
+      "title": "\"Rente mit 63\": Woidke warnt vor Abschaffung des Modells",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/07/dietmar-woidke-abschlagsfreie-rente-45-beitragsjahre-rentenreform.html",
+      "date": "Thu, 30 Jul 2026 18:38:48 +0200"
+    },
+    {
+      "title": "Mehr Ausbildungsverträge: Warum KI junge Menschen ins Handwerk führt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/ostbrandenburg-handwerk-azubis-ki-frankfurt-briesen-oder-spree.html",
+      "date": "Thu, 30 Jul 2026 17:41:32 +0200"
+    },
+    {
+      "title": "Nach Anschlag in Berlin: CSDs in Brandenburg sollen stattfinden",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-brandenburg-nach-anschlag-in-berlin-veranstaltungen.html",
+      "date": "Thu, 30 Jul 2026 17:23:01 +0200"
+    },
+    {
+      "title": "90 Hektar Feld brennen bei Rheinsberg - Bevölkerung wird gewarnt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/braunsberg-ostprignitz-ruppin-feldbrand-maeharbeiten-amtliche-warnung.html",
+      "date": "Thu, 30 Jul 2026 17:06:43 +0200"
     },
     {
       "title": "Berlin und Brandenburg: Bis zu 38 Grad - abends Gewitter",
@@ -44,24 +59,14 @@
       "title": "Madlower See in Cottbus stark von Blaualgen belastet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/blaualgen-madlower-see-cottbus-befall.html",
       "date": "Thu, 30 Jul 2026 14:05:48 +0200"
-    },
-    {
-      "title": "+++ Berliner CSD-Verein auf Hamburger Pride +++ Senatorin fordert von Merz Einsatz gegen Queerfeindlichkeit  +++",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-anschlag-ticker-berlin-weitere-entwicklungen.html",
-      "date": "Thu, 30 Jul 2026 13:09:08 +0200"
-    },
-    {
-      "title": "Kokainschmuggel in Berlin: 70-Jähriger angeklagt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-justiz-drogen-schmuggel-kokain-anklage-staatsanwaltschaft-landgericht.html",
-      "date": "Thu, 30 Jul 2026 12:11:33 +0200"
-    },
-    {
-      "title": "Mann ertrinkt nach Sprung in Rummelsburger Bucht",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-rummelsburger-bucht-mann-sprung-wasser-gestorben.html",
-      "date": "Thu, 30 Jul 2026 11:59:59 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Vermisster Senior ist wieder da",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662158.php",
+      "date": "Thu, 30 Jul 2026 18:22:00 +0200"
+    },
     {
       "title": "Öffentlichkeitsfahndung erfolgreich - Tatverdächtiger ermittelt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1674407.php",
@@ -116,17 +121,27 @@
       "title": "Ermittlungen nach Schussabgaben führen zur Festnahme eines Tatverdächtigen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698054.php",
       "date": "Tue, 28 Jul 2026 14:18:30 +0200"
-    },
-    {
-      "title": "Knallgeräusch löst Polizeieinsatz aus",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697990.php",
-      "date": "Tue, 28 Jul 2026 12:19:27 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Mehr Ausbildungsverträge: Warum KI junge Menschen ins Handwerk führt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/ostbrandenburg-handwerk-azubis-ki-frankfurt-briesen-oder-spree.html",
+      "date": "Thu, 30 Jul 2026 17:41:32 +0200"
+    },
+    {
+      "title": "Nach Anschlag in Berlin: CSDs in Brandenburg sollen stattfinden",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-brandenburg-nach-anschlag-in-berlin-veranstaltungen.html",
+      "date": "Thu, 30 Jul 2026 17:23:01 +0200"
+    },
+    {
+      "title": "90 Hektar Feld brennen bei Rheinsberg - Bevölkerung wird gewarnt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/braunsberg-ostprignitz-ruppin-feldbrand-maeharbeiten-amtliche-warnung.html",
+      "date": "Thu, 30 Jul 2026 17:06:43 +0200"
+    },
     {
       "title": "Fall Abdul B.: Wie Salafisten junge Menschen in Berlin radikalisieren",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/salafisten-berlin-csd-anschlag-abdul-b-islamismus.html",
@@ -171,21 +186,6 @@
       "title": "+++ Berliner CSD-Verein auf Hamburger Pride +++ Senatorin fordert von Merz Einsatz gegen Queerfeindlichkeit  +++",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-anschlag-ticker-berlin-weitere-entwicklungen.html",
       "date": "Thu, 30 Jul 2026 13:09:08 +0200"
-    },
-    {
-      "title": "Kokainschmuggel in Berlin: 70-Jähriger angeklagt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-justiz-drogen-schmuggel-kokain-anklage-staatsanwaltschaft-landgericht.html",
-      "date": "Thu, 30 Jul 2026 12:11:33 +0200"
-    },
-    {
-      "title": "Mann ertrinkt nach Sprung in Rummelsburger Bucht",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-rummelsburger-bucht-mann-sprung-wasser-gestorben.html",
-      "date": "Thu, 30 Jul 2026 11:59:59 +0200"
-    },
-    {
-      "title": "Gedenkmarsch für gefallene Soldaten endet am Donnerstag in Berlin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/bundeswehr-gedenkmarsch-berlin-brandenburg-lehnin-kladow.html",
-      "date": "Thu, 30 Jul 2026 09:05:00 +0200"
     }
   ]
 }
