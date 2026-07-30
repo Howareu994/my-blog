@@ -1,6 +1,36 @@
 {
   "traffic": [
     {
+      "title": "Fall Abdul B.: Wie Salafisten junge Menschen in Berlin radikalisieren",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/salafisten-berlin-csd-anschlag-abdul-b-islamismus.html",
+      "date": "Thu, 30 Jul 2026 16:59:36 +0200"
+    },
+    {
+      "title": "Berlin und Brandenburg: Bis zu 38 Grad - abends Gewitter",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/wetter-temperaturen-hitze-berlin-brandenburg-unwetter-gewitter-starkregen.html",
+      "date": "Thu, 30 Jul 2026 16:43:15 +0200"
+    },
+    {
+      "title": "Teltow-Fläming: Brand auf Truppenübungsplatz - Warnung vor Rauch",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/jueterbog-truppenuebungsplatz-treuenbrietzen-luckenwalde-brand-rauchentwicklung.html",
+      "date": "Thu, 30 Jul 2026 15:51:33 +0200"
+    },
+    {
+      "title": "Kiefernprozessionsspinner: Vorkommen in Brandenburg nimmt zu",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/kiefernprozessionsspinner-nimmt-zu-brandenburg.html",
+      "date": "Thu, 30 Jul 2026 15:46:08 +0200"
+    },
+    {
+      "title": "Krankenhaus-Azubis in Uckermark und Barnim bekommen mehr Geld",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/glg-verdi-klinik-auszubildende-lohnerhoehung-barnim-eberswalde-brandenburg.html",
+      "date": "Thu, 30 Jul 2026 15:41:15 +0200"
+    },
+    {
+      "title": "BVG: Sanierung der U6 verzögert sich erneut bis Sommer 2027",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-bvg-sanierung-u6-eroeffnung-august-2027.html",
+      "date": "Thu, 30 Jul 2026 14:54:18 +0200"
+    },
+    {
       "title": "Zehn Büffel laufen durch die Straßen von Berlin",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-bueffel-strasse-polizeieinsatz-marzahn-hohenschoenhausen.html",
       "date": "Thu, 30 Jul 2026 14:16:45 +0200"
@@ -29,39 +59,19 @@
       "title": "Mann ertrinkt nach Sprung in Rummelsburger Bucht",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-rummelsburger-bucht-mann-sprung-wasser-gestorben.html",
       "date": "Thu, 30 Jul 2026 11:59:59 +0200"
-    },
-    {
-      "title": "Fall Abdul B.: Wie Salafisten junge Menschen in Berlin radikalisieren",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/salafisten-berlin-csd-anschlag-abdul-b-islamismus.html",
-      "date": "Thu, 30 Jul 2026 11:27:13 +0200"
-    },
-    {
-      "title": "Gedenkmarsch für gefallene Soldaten endet am Donnerstag in Berlin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/bundeswehr-gedenkmarsch-berlin-brandenburg-lehnin-kladow.html",
-      "date": "Thu, 30 Jul 2026 09:05:00 +0200"
-    },
-    {
-      "title": "Berlin und Brandenburg: Bis zu 38 Grad - abends Gewitter",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/wetter-temperaturen-hitze-berlin-brandenburg-unwetter-gewitter-starkregen.html",
-      "date": "Thu, 30 Jul 2026 07:50:57 +0200"
-    },
-    {
-      "title": "Islamismus in Brandenburg: Immer mehr junge Menschen werden im Netz rekrutiert",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/07/islamismus-brandenburg-rekrutierung-gewaltbereit-tiktok.html",
-      "date": "Thu, 30 Jul 2026 07:06:12 +0200"
-    },
-    {
-      "title": "Nach Anschlag auf CSD: Berliner \"Zug der Liebe\" abgesagt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-zug-der-liebe-absage.html",
-      "date": "Wed, 29 Jul 2026 21:10:10 +0200"
-    },
-    {
-      "title": "Brandenburger Verfassungsschutz: Mehr junge Menschen \"online radikalisiert\"",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/07/brandenburg-islamismus-verfassungsschutz-chef-peters.html",
-      "date": "Wed, 29 Jul 2026 20:14:01 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Öffentlichkeitsfahndung erfolgreich - Tatverdächtiger ermittelt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1674407.php",
+      "date": "Thu, 30 Jul 2026 16:11:00 +0200"
+    },
+    {
+      "title": "Senior angegriffen und erheblich verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698754.php",
+      "date": "Thu, 30 Jul 2026 14:37:31 +0200"
+    },
     {
       "title": "Radfahrer von Lastwagen angefahren",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698711.php",
@@ -111,22 +121,37 @@
       "title": "Knallgeräusch löst Polizeieinsatz aus",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697990.php",
       "date": "Tue, 28 Jul 2026 12:19:27 +0200"
-    },
-    {
-      "title": "Brand an Gemeinschaftsunterkunft",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697987.php",
-      "date": "Tue, 28 Jul 2026 12:07:38 +0200"
-    },
-    {
-      "title": "Mit Maschinenpistole bedroht – Tatverdächtiger festgenommen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697966.php",
-      "date": "Tue, 28 Jul 2026 11:55:46 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Fall Abdul B.: Wie Salafisten junge Menschen in Berlin radikalisieren",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/salafisten-berlin-csd-anschlag-abdul-b-islamismus.html",
+      "date": "Thu, 30 Jul 2026 16:59:36 +0200"
+    },
+    {
+      "title": "Berlin und Brandenburg: Bis zu 38 Grad - abends Gewitter",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/wetter-temperaturen-hitze-berlin-brandenburg-unwetter-gewitter-starkregen.html",
+      "date": "Thu, 30 Jul 2026 16:43:15 +0200"
+    },
+    {
+      "title": "Teltow-Fläming: Brand auf Truppenübungsplatz - Warnung vor Rauch",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/jueterbog-truppenuebungsplatz-treuenbrietzen-luckenwalde-brand-rauchentwicklung.html",
+      "date": "Thu, 30 Jul 2026 15:51:33 +0200"
+    },
+    {
+      "title": "Kiefernprozessionsspinner: Vorkommen in Brandenburg nimmt zu",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/kiefernprozessionsspinner-nimmt-zu-brandenburg.html",
+      "date": "Thu, 30 Jul 2026 15:46:08 +0200"
+    },
+    {
+      "title": "BVG: Sanierung der U6 verzögert sich erneut bis Sommer 2027",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-bvg-sanierung-u6-eroeffnung-august-2027.html",
+      "date": "Thu, 30 Jul 2026 14:54:18 +0200"
+    },
     {
       "title": "Zehn Büffel laufen durch die Straßen von Berlin",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-bueffel-strasse-polizeieinsatz-marzahn-hohenschoenhausen.html",
@@ -158,34 +183,9 @@
       "date": "Thu, 30 Jul 2026 11:59:59 +0200"
     },
     {
-      "title": "Fall Abdul B.: Wie Salafisten junge Menschen in Berlin radikalisieren",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/salafisten-berlin-csd-anschlag-abdul-b-islamismus.html",
-      "date": "Thu, 30 Jul 2026 11:27:13 +0200"
-    },
-    {
       "title": "Gedenkmarsch für gefallene Soldaten endet am Donnerstag in Berlin",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/bundeswehr-gedenkmarsch-berlin-brandenburg-lehnin-kladow.html",
       "date": "Thu, 30 Jul 2026 09:05:00 +0200"
-    },
-    {
-      "title": "Berlin und Brandenburg: Bis zu 38 Grad - abends Gewitter",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/wetter-temperaturen-hitze-berlin-brandenburg-unwetter-gewitter-starkregen.html",
-      "date": "Thu, 30 Jul 2026 07:50:57 +0200"
-    },
-    {
-      "title": "Ticker zum CSD-Anschlag: +++ \"Zug der Liebe\" abgesagt +++",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-anschlag-ticker-berlin-ermittlungen-folgen.html",
-      "date": "Wed, 29 Jul 2026 23:59:00 +0200"
-    },
-    {
-      "title": "Nach Anschlag auf CSD: Berliner \"Zug der Liebe\" abgesagt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-zug-der-liebe-absage.html",
-      "date": "Wed, 29 Jul 2026 21:10:10 +0200"
-    },
-    {
-      "title": "Was über die Verurteilungen von Abdul B. bekannt ist",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/abdul-b-anschlag-csd-urteil-haft-vorbewaehrung-auflagen.html",
-      "date": "Wed, 29 Jul 2026 18:44:52 +0200"
     }
   ]
 }
