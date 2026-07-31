@@ -1,9 +1,39 @@
 {
   "traffic": [
     {
+      "title": "Kind durch Kugelbombe schwer verletzt: 19-Jähriger angeklagt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/kugelbombe-19-jaehriger-angeklagt-berlin-tegel.html",
+      "date": "Fri, 31 Jul 2026 13:14:00 +0200"
+    },
+    {
       "title": "Brand auf Truppenübungsplatz bei Jüterbog eingedämmt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/jueterbog-truppenuebungsplatz-treuenbrietzen-luckenwalde-brand-rauchentwicklung.html",
-      "date": "Fri, 31 Jul 2026 10:12:59 +0200"
+      "date": "Fri, 31 Jul 2026 13:12:58 +0200"
+    },
+    {
+      "title": "Brand von 90-Hektar-Feld bei Rheinsberg gelöscht",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/braunsberg-ostprignitz-ruppin-feldbrand-maeharbeiten-amtliche-warnung.html",
+      "date": "Fri, 31 Jul 2026 12:27:30 +0200"
+    },
+    {
+      "title": "Ostprignitz-Ruppin: Feldbrand bei Neuruppin gelöscht",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-neuruppin-treskow-brand-evakuierung.html",
+      "date": "Fri, 31 Jul 2026 12:24:36 +0200"
+    },
+    {
+      "title": "Lageso warnt vor Blaualgen an der Havel",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/blaualgen-badestellen-havel-breitehorn-radfahrerwiese-warnung-lageso-sichttiefe.html",
+      "date": "Fri, 31 Jul 2026 11:24:09 +0200"
+    },
+    {
+      "title": "Mehr Arbeitslose im Juli in Brandenburg - bundesweit mehr als drei Millionen",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/arbeitslosigkeit-brandenburg-berlin-juli.html",
+      "date": "Fri, 31 Jul 2026 11:12:32 +0200"
+    },
+    {
+      "title": "A100: Baufirma Deges kündigt nächtlichen Baulärm an der Westendbrücke an",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/bauarbeiten-anfang-august-a-100-ersatzneubau-westendbruecke.html",
+      "date": "Fri, 31 Jul 2026 10:43:08 +0200"
     },
     {
       "title": "Verbraucher haben jetzt Recht auf Reparatur für Elektrogeräte",
@@ -26,42 +56,27 @@
       "date": "Fri, 31 Jul 2026 08:06:00 +0200"
     },
     {
-      "title": "Ostprignitz-Ruppin: Feldbrand bei Neuruppin gelöscht",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-neuruppin-treskow-brand-evakuierung.html",
-      "date": "Fri, 31 Jul 2026 06:41:43 +0200"
-    },
-    {
       "title": "Die Möglichkeiten und Probleme von präventivem Polizeigewahrsam",
       "link": "https://www.rbb24.de/politik/beitrag/2026/07/paeventives-polizeigewahrsam-verschaefung-polizeigesetz-csd-berlin-gefahrenabwehr-terror.html",
       "date": "Fri, 31 Jul 2026 06:09:26 +0200"
-    },
-    {
-      "title": "Unwetter in der Prignitz - Temperaturen bis 38 Grad in der Region",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/wetter-temperaturen-hitze-berlin-brandenburg-unwetter-gewitter-starkregen.html",
-      "date": "Thu, 30 Jul 2026 23:01:44 +0200"
-    },
-    {
-      "title": "\"Rente mit 63\": Woidke warnt vor Abschaffung des Modells",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/07/dietmar-woidke-abschlagsfreie-rente-45-beitragsjahre-rentenreform.html",
-      "date": "Thu, 30 Jul 2026 18:38:48 +0200"
-    },
-    {
-      "title": "Mehr Ausbildungsverträge: Warum KI junge Menschen ins Handwerk führt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/ostbrandenburg-handwerk-azubis-ki-frankfurt-briesen-oder-spree.html",
-      "date": "Thu, 30 Jul 2026 17:41:32 +0200"
-    },
-    {
-      "title": "Nach Anschlag in Berlin: CSDs in Brandenburg sollen stattfinden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-brandenburg-nach-anschlag-in-berlin-veranstaltungen.html",
-      "date": "Thu, 30 Jul 2026 17:23:01 +0200"
-    },
-    {
-      "title": "Kiefernprozessionsspinner: Vorkommen in Brandenburg nimmt zu",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/kiefernprozessionsspinner-nimmt-zu-brandenburg.html",
-      "date": "Thu, 30 Jul 2026 15:46:08 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Fahrzeuge durch Brand beschädigt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699168.php",
+      "date": "Fri, 31 Jul 2026 13:06:18 +0200"
+    },
+    {
+      "title": "Schüsse auf Imbiss",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699091.php",
+      "date": "Fri, 31 Jul 2026 12:12:13 +0200"
+    },
+    {
+      "title": "Trickbetrug durch falsche Polizeibeamte – Wer erkennt den Tatverdächtigen?",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698958.php",
+      "date": "Fri, 31 Jul 2026 10:20:10 +0200"
+    },
     {
       "title": "Vermisster Senior ist wieder da",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662158.php",
@@ -106,21 +121,6 @@
       "title": "Sachbeschädigung durch Brand auf Schulgelände",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1698292.php",
       "date": "Wed, 29 Jul 2026 11:34:49 +0200"
-    },
-    {
-      "title": "Sachbeschädigung in Parkanlage",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698121.php",
-      "date": "Tue, 28 Jul 2026 16:18:14 +0200"
-    },
-    {
-      "title": "Denkmal mit Hakenkreuz beschmiert",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698106.php",
-      "date": "Tue, 28 Jul 2026 15:20:17 +0200"
-    },
-    {
-      "title": "Ermittlungen nach Schussabgaben führen zur Festnahme eines Tatverdächtigen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698054.php",
-      "date": "Tue, 28 Jul 2026 14:18:30 +0200"
     }
   ],
   "free_events": [],
@@ -128,14 +128,34 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Kind durch Kugelbombe schwer verletzt: 19-Jähriger angeklagt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/kugelbombe-19-jaehriger-angeklagt-berlin-tegel.html",
+      "date": "Fri, 31 Jul 2026 13:14:00 +0200"
+    },
+    {
       "title": "Brand auf Truppenübungsplatz bei Jüterbog eingedämmt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/jueterbog-truppenuebungsplatz-treuenbrietzen-luckenwalde-brand-rauchentwicklung.html",
-      "date": "Fri, 31 Jul 2026 10:12:59 +0200"
+      "date": "Fri, 31 Jul 2026 13:12:58 +0200"
+    },
+    {
+      "title": "Brand von 90-Hektar-Feld bei Rheinsberg gelöscht",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/braunsberg-ostprignitz-ruppin-feldbrand-maeharbeiten-amtliche-warnung.html",
+      "date": "Fri, 31 Jul 2026 12:27:30 +0200"
     },
     {
       "title": "Ostprignitz-Ruppin: Feldbrand bei Neuruppin gelöscht",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-neuruppin-treskow-brand-evakuierung.html",
-      "date": "Fri, 31 Jul 2026 06:41:43 +0200"
+      "date": "Fri, 31 Jul 2026 12:24:36 +0200"
+    },
+    {
+      "title": "Lageso warnt vor Blaualgen an der Havel",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/blaualgen-badestellen-havel-breitehorn-radfahrerwiese-warnung-lageso-sichttiefe.html",
+      "date": "Fri, 31 Jul 2026 11:24:09 +0200"
+    },
+    {
+      "title": "A100: Baufirma Deges kündigt nächtlichen Baulärm an der Westendbrücke an",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/bauarbeiten-anfang-august-a-100-ersatzneubau-westendbruecke.html",
+      "date": "Fri, 31 Jul 2026 10:43:08 +0200"
     },
     {
       "title": "Unwetter in der Prignitz - Temperaturen bis 38 Grad in der Region",
@@ -166,26 +186,6 @@
       "title": "BVG: Sanierung der U6 verzögert sich erneut bis Sommer 2027",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-bvg-sanierung-u6-eroeffnung-august-2027.html",
       "date": "Thu, 30 Jul 2026 14:54:18 +0200"
-    },
-    {
-      "title": "Zehn Büffel laufen durch die Straßen von Berlin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-bueffel-strasse-polizeieinsatz-marzahn-hohenschoenhausen.html",
-      "date": "Thu, 30 Jul 2026 14:16:45 +0200"
-    },
-    {
-      "title": "Cottbus: Knallgeräusche lösen SEK-Einsatz in Neu-Schmellwitz aus",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/sek-einsatz-neu-schmellwitz-knallgeraeusche.html",
-      "date": "Thu, 30 Jul 2026 14:16:28 +0200"
-    },
-    {
-      "title": "Madlower See in Cottbus stark von Blaualgen belastet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/blaualgen-madlower-see-cottbus-befall.html",
-      "date": "Thu, 30 Jul 2026 14:05:48 +0200"
-    },
-    {
-      "title": "+++ Berliner CSD-Verein auf Hamburger Pride +++ Senatorin fordert von Merz Einsatz gegen Queerfeindlichkeit  +++",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-anschlag-ticker-berlin-weitere-entwicklungen.html",
-      "date": "Thu, 30 Jul 2026 13:09:08 +0200"
     }
   ]
 }
