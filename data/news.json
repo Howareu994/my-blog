@@ -1,24 +1,29 @@
 {
   "traffic": [
     {
+      "title": "Brand auf Truppenübungsplatz bei Jüterbog - Warnung vor Rauch",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/jueterbog-truppenuebungsplatz-treuenbrietzen-luckenwalde-brand-rauchentwicklung.html",
+      "date": "Fri, 31 Jul 2026 07:16:49 +0200"
+    },
+    {
+      "title": "Ostprignitz-Ruppin: Feldbrand bei Neuruppin gelöscht",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-neuruppin-treskow-brand-evakuierung.html",
+      "date": "Fri, 31 Jul 2026 06:41:43 +0200"
+    },
+    {
+      "title": "Die Möglichkeiten und Probleme von präventivem Polizeigewahrsam",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/07/paeventives-polizeigewahrsam-verschaefung-polizeigesetz-csd-berlin-gefahrenabwehr-terror.html",
+      "date": "Fri, 31 Jul 2026 06:09:26 +0200"
+    },
+    {
       "title": "Unwetter in der Prignitz - Temperaturen bis 38 Grad in der Region",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/wetter-temperaturen-hitze-berlin-brandenburg-unwetter-gewitter-starkregen.html",
       "date": "Thu, 30 Jul 2026 23:01:44 +0200"
     },
     {
-      "title": "Brand auf Truppenübungsplatz bei Jüterbog - Warnung vor Rauch",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/jueterbog-truppenuebungsplatz-treuenbrietzen-luckenwalde-brand-rauchentwicklung.html",
-      "date": "Thu, 30 Jul 2026 22:54:20 +0200"
-    },
-    {
-      "title": "Ostprignitz-Ruppin: Feldbrand bei Neuruppin unter Kontrolle - Evakuierung ausgesetzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-neuruppin-treskow-brand-evakuierung.html",
-      "date": "Thu, 30 Jul 2026 22:17:46 +0200"
-    },
-    {
       "title": "Brand von 90-Hektar-Feld bei Rheinsberg gelöscht",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/braunsberg-ostprignitz-ruppin-feldbrand-maeharbeiten-amtliche-warnung.html",
-      "date": "Thu, 30 Jul 2026 19:55:59 +0200"
+      "date": "Thu, 30 Jul 2026 19:55:00 +0200"
     },
     {
       "title": "\"Rente mit 63\": Woidke warnt vor Abschaffung des Modells",
@@ -54,11 +59,6 @@
       "title": "Zehn Büffel laufen durch die Straßen von Berlin",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-bueffel-strasse-polizeieinsatz-marzahn-hohenschoenhausen.html",
       "date": "Thu, 30 Jul 2026 14:16:45 +0200"
-    },
-    {
-      "title": "Cottbus: Knallgeräusche lösen SEK-Einsatz in Neu-Schmellwitz aus",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/sek-einsatz-neu-schmellwitz-knallgeraeusche.html",
-      "date": "Thu, 30 Jul 2026 14:16:28 +0200"
     }
   ],
   "police": [
@@ -128,24 +128,24 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Brand auf Truppenübungsplatz bei Jüterbog - Warnung vor Rauch",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/jueterbog-truppenuebungsplatz-treuenbrietzen-luckenwalde-brand-rauchentwicklung.html",
+      "date": "Fri, 31 Jul 2026 07:16:49 +0200"
+    },
+    {
+      "title": "Ostprignitz-Ruppin: Feldbrand bei Neuruppin gelöscht",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-neuruppin-treskow-brand-evakuierung.html",
+      "date": "Fri, 31 Jul 2026 06:41:43 +0200"
+    },
+    {
       "title": "Unwetter in der Prignitz - Temperaturen bis 38 Grad in der Region",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/wetter-temperaturen-hitze-berlin-brandenburg-unwetter-gewitter-starkregen.html",
       "date": "Thu, 30 Jul 2026 23:01:44 +0200"
     },
     {
-      "title": "Brand auf Truppenübungsplatz bei Jüterbog - Warnung vor Rauch",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/jueterbog-truppenuebungsplatz-treuenbrietzen-luckenwalde-brand-rauchentwicklung.html",
-      "date": "Thu, 30 Jul 2026 22:54:20 +0200"
-    },
-    {
-      "title": "Ostprignitz-Ruppin: Feldbrand bei Neuruppin unter Kontrolle - Evakuierung ausgesetzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-neuruppin-treskow-brand-evakuierung.html",
-      "date": "Thu, 30 Jul 2026 22:17:46 +0200"
-    },
-    {
       "title": "Brand von 90-Hektar-Feld bei Rheinsberg gelöscht",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/braunsberg-ostprignitz-ruppin-feldbrand-maeharbeiten-amtliche-warnung.html",
-      "date": "Thu, 30 Jul 2026 19:55:59 +0200"
+      "date": "Thu, 30 Jul 2026 19:55:00 +0200"
     },
     {
       "title": "Mehr Ausbildungsverträge: Warum KI junge Menschen ins Handwerk führt",
