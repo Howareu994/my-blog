@@ -1,14 +1,44 @@
 {
   "traffic": [
     {
+      "title": "Berliner Mietenkataster: Regelbetrieb wohl erst in mehreren Jahren",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/datenbank-mieten-mietenkataster-berlin-senat.html",
+      "date": "Fri, 31 Jul 2026 15:22:57 +0200"
+    },
+    {
+      "title": "Zweitliga-Teamcheck: Viktoria Berlin, Hertha BSC & Turbine Potsdam",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-frauen-zweite-liga-hertha-bsc-viktoria-turbine-potsdam-saisonvorschau-prognose-meistertipp.html",
+      "date": "Fri, 31 Jul 2026 15:02:07 +0200"
+    },
+    {
+      "title": "Schafe halten Wiesen rund um Solarpark in Märkisch-Oderland kurz",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/schafe-solarpark-maerkisch-oderland.html",
+      "date": "Fri, 31 Jul 2026 14:45:37 +0200"
+    },
+    {
+      "title": "Berliner Straßenbäumen geht es wieder besser",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/baeume-strassen-berlin-gesund.html",
+      "date": "Fri, 31 Jul 2026 13:49:08 +0200"
+    },
+    {
+      "title": "\"Openart Lausitz Biennale\": 67 Arbeiten an elf Orten",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/07/kunst-ausstellung-openart-lausitz-biennale.html",
+      "date": "Fri, 31 Jul 2026 13:29:50 +0200"
+    },
+    {
+      "title": "Brand auf Truppenübungsplatz bei Jüterbog unter Kontrolle",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/jueterbog-truppenuebungsplatz-treuenbrietzen-luckenwalde-brand-rauchentwicklung.html",
+      "date": "Fri, 31 Jul 2026 13:26:30 +0200"
+    },
+    {
+      "title": "Ex-Füchse-Trainer Siewert: \"Ganz gut, das Kapitel Berlin zu schließen\"",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/berlin-handball-fuechse-interview-jaron-siewert-melsungen-trainer-schlaganfall.html",
+      "date": "Fri, 31 Jul 2026 13:15:33 +0200"
+    },
+    {
       "title": "Kind durch Kugelbombe schwer verletzt: 19-Jähriger angeklagt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/kugelbombe-19-jaehriger-angeklagt-berlin-tegel.html",
       "date": "Fri, 31 Jul 2026 13:14:00 +0200"
-    },
-    {
-      "title": "Brand auf Truppenübungsplatz bei Jüterbog eingedämmt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/jueterbog-truppenuebungsplatz-treuenbrietzen-luckenwalde-brand-rauchentwicklung.html",
-      "date": "Fri, 31 Jul 2026 13:12:58 +0200"
     },
     {
       "title": "Brand von 90-Hektar-Feld bei Rheinsberg gelöscht",
@@ -29,39 +59,14 @@
       "title": "Mehr Arbeitslose im Juli in Brandenburg - bundesweit mehr als drei Millionen",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/arbeitslosigkeit-brandenburg-berlin-juli.html",
       "date": "Fri, 31 Jul 2026 11:12:32 +0200"
-    },
-    {
-      "title": "A100: Baufirma Deges kündigt nächtlichen Baulärm an der Westendbrücke an",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/bauarbeiten-anfang-august-a-100-ersatzneubau-westendbruecke.html",
-      "date": "Fri, 31 Jul 2026 10:43:08 +0200"
-    },
-    {
-      "title": "Verbraucher haben jetzt Recht auf Reparatur für Elektrogeräte",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/europaweit-neues-recht-reparatur-verbraucher-elektroschrott-vermeiden-ressourcen-anspruch-hersteller-defekte-geraete-berlin-brandenburg.html",
-      "date": "Fri, 31 Jul 2026 10:08:35 +0200"
-    },
-    {
-      "title": "\"Openart Lausitz Biennale\": 67 Arbeiten an elf Orten",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/07/kunst-ausstellung-openart-lausitz-biennale.html",
-      "date": "Fri, 31 Jul 2026 09:33:00 +0200"
-    },
-    {
-      "title": "AGH-Wahl: Landeswahlleiter sieht Berlin gut auf Wahl vorbereitet",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/vorbereitung-landeswahlleiter-broechler.html",
-      "date": "Fri, 31 Jul 2026 09:15:37 +0200"
-    },
-    {
-      "title": "Plakatwahlkampf zwischen Kabelbinder-Ästhetik und Guerilla-Taktik",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahlkampf-plakate-wahl-2026.html",
-      "date": "Fri, 31 Jul 2026 08:06:00 +0200"
-    },
-    {
-      "title": "Die Möglichkeiten und Probleme von präventivem Polizeigewahrsam",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/07/paeventives-polizeigewahrsam-verschaefung-polizeigesetz-csd-berlin-gefahrenabwehr-terror.html",
-      "date": "Fri, 31 Jul 2026 06:09:26 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Festnahme von mutmaßlichen Fahrraddieben - Mehrere verletzte Polizeikräfte",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699272.php",
+      "date": "Fri, 31 Jul 2026 15:10:09 +0200"
+    },
     {
       "title": "Fahrzeuge durch Brand beschädigt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699168.php",
@@ -116,11 +121,6 @@
       "title": "Autofahrer bei Zusammenstoß mit Straßenbahn erheblich verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1698345.php",
       "date": "Wed, 29 Jul 2026 13:10:43 +0200"
-    },
-    {
-      "title": "Sachbeschädigung durch Brand auf Schulgelände",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1698292.php",
-      "date": "Wed, 29 Jul 2026 11:34:49 +0200"
     }
   ],
   "free_events": [],
@@ -128,14 +128,19 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Berliner Straßenbäumen geht es wieder besser",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/baeume-strassen-berlin-gesund.html",
+      "date": "Fri, 31 Jul 2026 13:49:08 +0200"
+    },
+    {
+      "title": "Brand auf Truppenübungsplatz bei Jüterbog unter Kontrolle",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/jueterbog-truppenuebungsplatz-treuenbrietzen-luckenwalde-brand-rauchentwicklung.html",
+      "date": "Fri, 31 Jul 2026 13:26:30 +0200"
+    },
+    {
       "title": "Kind durch Kugelbombe schwer verletzt: 19-Jähriger angeklagt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/kugelbombe-19-jaehriger-angeklagt-berlin-tegel.html",
       "date": "Fri, 31 Jul 2026 13:14:00 +0200"
-    },
-    {
-      "title": "Brand auf Truppenübungsplatz bei Jüterbog eingedämmt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/jueterbog-truppenuebungsplatz-treuenbrietzen-luckenwalde-brand-rauchentwicklung.html",
-      "date": "Fri, 31 Jul 2026 13:12:58 +0200"
     },
     {
       "title": "Brand von 90-Hektar-Feld bei Rheinsberg gelöscht",
@@ -181,11 +186,6 @@
       "title": "Kiefernprozessionsspinner: Vorkommen in Brandenburg nimmt zu",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/kiefernprozessionsspinner-nimmt-zu-brandenburg.html",
       "date": "Thu, 30 Jul 2026 15:46:08 +0200"
-    },
-    {
-      "title": "BVG: Sanierung der U6 verzögert sich erneut bis Sommer 2027",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-bvg-sanierung-u6-eroeffnung-august-2027.html",
-      "date": "Thu, 30 Jul 2026 14:54:18 +0200"
     }
   ]
 }
