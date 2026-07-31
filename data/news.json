@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Bundesstraße 101 bei Thyrow nach Brückenrissen voll gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/b101-gesperrt-thyrow-teltow-flaeming-risse-bruecke-umleitung.html",
+      "date": "Fri, 31 Jul 2026 19:17:51 +0200"
+    },
+    {
+      "title": "Wenders schneidet Nacktszene mit 13-jähriger Kinski aus Film",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/07/wim-wenders-schneidet-nacktszene-aus-film-nastassia-kinski.html",
+      "date": "Fri, 31 Jul 2026 18:56:48 +0200"
+    },
+    {
+      "title": "Selbstbestimmungsgesetz: Tausende ändern Geschlechtseintrag in Berlin und Brandenburg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/tausende-aendern-geschlechtseintrag-selbstbestimmungsgesetz-berlin-brandenburg.html",
+      "date": "Fri, 31 Jul 2026 18:32:45 +0200"
+    },
+    {
       "title": "BVG-Straßenbahnlinie M1 ab Samstag wochenlang verkürzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-bvg-strassenbahn-m1-verkuerzt-bauarbeiten.html",
       "date": "Fri, 31 Jul 2026 16:24:45 +0200"
@@ -18,7 +33,7 @@
     {
       "title": "CSD-Anschlag: Polizei stellt Poller am Tatort im Tiergarten auf",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/polizei-stellt-poller-auf-csd-berlin-anschlagsort-tiergarten.html",
-      "date": "Fri, 31 Jul 2026 16:07:56 +0200"
+      "date": "Fri, 31 Jul 2026 16:07:00 +0200"
     },
     {
       "title": "Berliner Mietenkataster: Regelbetrieb wohl erst in mehreren Jahren",
@@ -44,21 +59,6 @@
       "title": "Brand auf Truppenübungsplatz bei Jüterbog unter Kontrolle",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/jueterbog-truppenuebungsplatz-treuenbrietzen-luckenwalde-brand-rauchentwicklung.html",
       "date": "Fri, 31 Jul 2026 13:26:30 +0200"
-    },
-    {
-      "title": "Kind durch Kugelbombe schwer verletzt: 19-Jähriger angeklagt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/kugelbombe-19-jaehriger-angeklagt-berlin-tegel.html",
-      "date": "Fri, 31 Jul 2026 13:14:00 +0200"
-    },
-    {
-      "title": "Brand von 90-Hektar-Feld bei Rheinsberg gelöscht",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/braunsberg-ostprignitz-ruppin-feldbrand-maeharbeiten-amtliche-warnung.html",
-      "date": "Fri, 31 Jul 2026 12:27:30 +0200"
-    },
-    {
-      "title": "Lageso warnt vor Blaualgen an der Havel",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/blaualgen-badestellen-havel-breitehorn-radfahrerwiese-warnung-lageso-sichttiefe.html",
-      "date": "Fri, 31 Jul 2026 11:24:09 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,16 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Bundesstraße 101 bei Thyrow nach Brückenrissen voll gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/b101-gesperrt-thyrow-teltow-flaeming-risse-bruecke-umleitung.html",
+      "date": "Fri, 31 Jul 2026 19:17:51 +0200"
+    },
+    {
+      "title": "Selbstbestimmungsgesetz: Tausende ändern Geschlechtseintrag in Berlin und Brandenburg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/tausende-aendern-geschlechtseintrag-selbstbestimmungsgesetz-berlin-brandenburg.html",
+      "date": "Fri, 31 Jul 2026 18:32:45 +0200"
+    },
+    {
       "title": "BVG-Straßenbahnlinie M1 ab Samstag wochenlang verkürzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-bvg-strassenbahn-m1-verkuerzt-bauarbeiten.html",
       "date": "Fri, 31 Jul 2026 16:24:45 +0200"
@@ -135,7 +145,7 @@
     {
       "title": "CSD-Anschlag: Polizei stellt Poller am Tatort im Tiergarten auf",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/polizei-stellt-poller-auf-csd-berlin-anschlagsort-tiergarten.html",
-      "date": "Fri, 31 Jul 2026 16:07:56 +0200"
+      "date": "Fri, 31 Jul 2026 16:07:00 +0200"
     },
     {
       "title": "Berliner Straßenbäumen geht es wieder besser",
@@ -176,16 +186,6 @@
       "title": "Unwetter in der Prignitz - Temperaturen bis 38 Grad in der Region",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/wetter-temperaturen-hitze-berlin-brandenburg-unwetter-gewitter-starkregen.html",
       "date": "Thu, 30 Jul 2026 23:01:44 +0200"
-    },
-    {
-      "title": "Mehr Ausbildungsverträge: Warum KI junge Menschen ins Handwerk führt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/ostbrandenburg-handwerk-azubis-ki-frankfurt-briesen-oder-spree.html",
-      "date": "Thu, 30 Jul 2026 17:41:32 +0200"
-    },
-    {
-      "title": "Nach Anschlag in Berlin: CSDs in Brandenburg sollen stattfinden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-brandenburg-nach-anschlag-in-berlin-veranstaltungen.html",
-      "date": "Thu, 30 Jul 2026 17:23:00 +0200"
     }
   ]
 }
