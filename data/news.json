@@ -1,14 +1,29 @@
 {
   "traffic": [
     {
+      "title": "BVG-Straßenbahnlinie M1 ab Samstag wochenlang verkürzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-bvg-strassenbahn-m1-verkuerzt-bauarbeiten.html",
+      "date": "Fri, 31 Jul 2026 16:24:45 +0200"
+    },
+    {
+      "title": "Allrounderin für Alba: Kanadieren Wallack wechselt nach Berlin",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/alba-berlin-frauen-tara-wallack-kanada-neuzugang-dbbl.html",
+      "date": "Fri, 31 Jul 2026 16:11:07 +0200"
+    },
+    {
+      "title": "Berliner holen 2:2 im Testspiel gegen Bundesligist Köln",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-hertha-berlin-testspiel-koeln.html",
+      "date": "Fri, 31 Jul 2026 16:10:20 +0200"
+    },
+    {
+      "title": "CSD-Anschlag: Polizei stellt Poller am Tatort im Tiergarten auf",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/polizei-stellt-poller-auf-csd-berlin-anschlagsort-tiergarten.html",
+      "date": "Fri, 31 Jul 2026 16:07:56 +0200"
+    },
+    {
       "title": "Berliner Mietenkataster: Regelbetrieb wohl erst in mehreren Jahren",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/datenbank-mieten-mietenkataster-berlin-senat.html",
       "date": "Fri, 31 Jul 2026 15:22:57 +0200"
-    },
-    {
-      "title": "Zweitliga-Teamcheck: Viktoria Berlin, Hertha BSC & Turbine Potsdam",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-frauen-zweite-liga-hertha-bsc-viktoria-turbine-potsdam-saisonvorschau-prognose-meistertipp.html",
-      "date": "Fri, 31 Jul 2026 15:02:07 +0200"
     },
     {
       "title": "Schafe halten Wiesen rund um Solarpark in Märkisch-Oderland kurz",
@@ -31,11 +46,6 @@
       "date": "Fri, 31 Jul 2026 13:26:30 +0200"
     },
     {
-      "title": "Ex-Füchse-Trainer Siewert: \"Ganz gut, das Kapitel Berlin zu schließen\"",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/07/berlin-handball-fuechse-interview-jaron-siewert-melsungen-trainer-schlaganfall.html",
-      "date": "Fri, 31 Jul 2026 13:15:33 +0200"
-    },
-    {
       "title": "Kind durch Kugelbombe schwer verletzt: 19-Jähriger angeklagt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/kugelbombe-19-jaehriger-angeklagt-berlin-tegel.html",
       "date": "Fri, 31 Jul 2026 13:14:00 +0200"
@@ -46,22 +56,17 @@
       "date": "Fri, 31 Jul 2026 12:27:30 +0200"
     },
     {
-      "title": "Ostprignitz-Ruppin: Feldbrand bei Neuruppin gelöscht",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-neuruppin-treskow-brand-evakuierung.html",
-      "date": "Fri, 31 Jul 2026 12:24:36 +0200"
-    },
-    {
       "title": "Lageso warnt vor Blaualgen an der Havel",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/blaualgen-badestellen-havel-breitehorn-radfahrerwiese-warnung-lageso-sichttiefe.html",
       "date": "Fri, 31 Jul 2026 11:24:09 +0200"
-    },
-    {
-      "title": "Mehr Arbeitslose im Juli in Brandenburg - bundesweit mehr als drei Millionen",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/arbeitslosigkeit-brandenburg-berlin-juli.html",
-      "date": "Fri, 31 Jul 2026 11:12:32 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Bedrohung mit Messer – DEIG-Einsatz",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699292.php",
+      "date": "Fri, 31 Jul 2026 15:44:54 +0200"
+    },
     {
       "title": "Festnahme von mutmaßlichen Fahrraddieben - Mehrere verletzte Polizeikräfte",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699272.php",
@@ -116,17 +121,22 @@
       "title": "Polizei Berlin erlässt Allgemeinverfügung zum 2. August 2026",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698585.php",
       "date": "Thu, 30 Jul 2026 10:46:49 +0200"
-    },
-    {
-      "title": "Autofahrer bei Zusammenstoß mit Straßenbahn erheblich verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1698345.php",
-      "date": "Wed, 29 Jul 2026 13:10:43 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "BVG-Straßenbahnlinie M1 ab Samstag wochenlang verkürzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-bvg-strassenbahn-m1-verkuerzt-bauarbeiten.html",
+      "date": "Fri, 31 Jul 2026 16:24:45 +0200"
+    },
+    {
+      "title": "CSD-Anschlag: Polizei stellt Poller am Tatort im Tiergarten auf",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/polizei-stellt-poller-auf-csd-berlin-anschlagsort-tiergarten.html",
+      "date": "Fri, 31 Jul 2026 16:07:56 +0200"
+    },
     {
       "title": "Berliner Straßenbäumen geht es wieder besser",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/baeume-strassen-berlin-gesund.html",
@@ -175,17 +185,7 @@
     {
       "title": "Nach Anschlag in Berlin: CSDs in Brandenburg sollen stattfinden",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-brandenburg-nach-anschlag-in-berlin-veranstaltungen.html",
-      "date": "Thu, 30 Jul 2026 17:23:01 +0200"
-    },
-    {
-      "title": "Fall Abdul B.: Wie Salafisten junge Menschen in Berlin radikalisieren",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/salafisten-berlin-csd-anschlag-abdul-b-islamismus.html",
-      "date": "Thu, 30 Jul 2026 16:59:36 +0200"
-    },
-    {
-      "title": "Kiefernprozessionsspinner: Vorkommen in Brandenburg nimmt zu",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/kiefernprozessionsspinner-nimmt-zu-brandenburg.html",
-      "date": "Thu, 30 Jul 2026 15:46:08 +0200"
+      "date": "Thu, 30 Jul 2026 17:23:00 +0200"
     }
   ]
 }
