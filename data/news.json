@@ -1,9 +1,29 @@
 {
   "traffic": [
     {
-      "title": "Brand auf Truppenübungsplatz bei Jüterbog - Warnung vor Rauch",
+      "title": "Brand auf Truppenübungsplatz bei Jüterbog eingedämmt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/jueterbog-truppenuebungsplatz-treuenbrietzen-luckenwalde-brand-rauchentwicklung.html",
-      "date": "Fri, 31 Jul 2026 07:16:49 +0200"
+      "date": "Fri, 31 Jul 2026 10:12:59 +0200"
+    },
+    {
+      "title": "Verbraucher haben jetzt Recht auf Reparatur für Elektrogeräte",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/europaweit-neues-recht-reparatur-verbraucher-elektroschrott-vermeiden-ressourcen-anspruch-hersteller-defekte-geraete-berlin-brandenburg.html",
+      "date": "Fri, 31 Jul 2026 10:08:35 +0200"
+    },
+    {
+      "title": "\"Openart Lausitz Biennale\": 67 Arbeiten an elf Orten",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/07/kunst-ausstellung-openart-lausitz-biennale.html",
+      "date": "Fri, 31 Jul 2026 09:33:00 +0200"
+    },
+    {
+      "title": "AGH-Wahl: Landeswahlleiter sieht Berlin gut auf Wahl vorbereitet",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/vorbereitung-landeswahlleiter-broechler.html",
+      "date": "Fri, 31 Jul 2026 09:15:37 +0200"
+    },
+    {
+      "title": "Plakatwahlkampf zwischen Kabelbinder-Ästhetik und Guerilla-Taktik",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahlkampf-plakate-wahl-2026.html",
+      "date": "Fri, 31 Jul 2026 08:06:00 +0200"
     },
     {
       "title": "Ostprignitz-Ruppin: Feldbrand bei Neuruppin gelöscht",
@@ -19,11 +39,6 @@
       "title": "Unwetter in der Prignitz - Temperaturen bis 38 Grad in der Region",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/wetter-temperaturen-hitze-berlin-brandenburg-unwetter-gewitter-starkregen.html",
       "date": "Thu, 30 Jul 2026 23:01:44 +0200"
-    },
-    {
-      "title": "Brand von 90-Hektar-Feld bei Rheinsberg gelöscht",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/braunsberg-ostprignitz-ruppin-feldbrand-maeharbeiten-amtliche-warnung.html",
-      "date": "Thu, 30 Jul 2026 19:55:00 +0200"
     },
     {
       "title": "\"Rente mit 63\": Woidke warnt vor Abschaffung des Modells",
@@ -44,21 +59,6 @@
       "title": "Kiefernprozessionsspinner: Vorkommen in Brandenburg nimmt zu",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/kiefernprozessionsspinner-nimmt-zu-brandenburg.html",
       "date": "Thu, 30 Jul 2026 15:46:08 +0200"
-    },
-    {
-      "title": "Krankenhaus-Azubis in Uckermark und Barnim bekommen mehr Geld",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/glg-verdi-klinik-auszubildende-lohnerhoehung-barnim-eberswalde-brandenburg.html",
-      "date": "Thu, 30 Jul 2026 15:41:15 +0200"
-    },
-    {
-      "title": "BVG: Sanierung der U6 verzögert sich erneut bis Sommer 2027",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-bvg-sanierung-u6-eroeffnung-august-2027.html",
-      "date": "Thu, 30 Jul 2026 14:54:18 +0200"
-    },
-    {
-      "title": "Zehn Büffel laufen durch die Straßen von Berlin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-bueffel-strasse-polizeieinsatz-marzahn-hohenschoenhausen.html",
-      "date": "Thu, 30 Jul 2026 14:16:45 +0200"
     }
   ],
   "police": [
@@ -128,9 +128,9 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Brand auf Truppenübungsplatz bei Jüterbog - Warnung vor Rauch",
+      "title": "Brand auf Truppenübungsplatz bei Jüterbog eingedämmt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/jueterbog-truppenuebungsplatz-treuenbrietzen-luckenwalde-brand-rauchentwicklung.html",
-      "date": "Fri, 31 Jul 2026 07:16:49 +0200"
+      "date": "Fri, 31 Jul 2026 10:12:59 +0200"
     },
     {
       "title": "Ostprignitz-Ruppin: Feldbrand bei Neuruppin gelöscht",
@@ -141,11 +141,6 @@
       "title": "Unwetter in der Prignitz - Temperaturen bis 38 Grad in der Region",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/wetter-temperaturen-hitze-berlin-brandenburg-unwetter-gewitter-starkregen.html",
       "date": "Thu, 30 Jul 2026 23:01:44 +0200"
-    },
-    {
-      "title": "Brand von 90-Hektar-Feld bei Rheinsberg gelöscht",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/braunsberg-ostprignitz-ruppin-feldbrand-maeharbeiten-amtliche-warnung.html",
-      "date": "Thu, 30 Jul 2026 19:55:00 +0200"
     },
     {
       "title": "Mehr Ausbildungsverträge: Warum KI junge Menschen ins Handwerk führt",
@@ -186,6 +181,11 @@
       "title": "Madlower See in Cottbus stark von Blaualgen belastet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/blaualgen-madlower-see-cottbus-befall.html",
       "date": "Thu, 30 Jul 2026 14:05:48 +0200"
+    },
+    {
+      "title": "+++ Berliner CSD-Verein auf Hamburger Pride +++ Senatorin fordert von Merz Einsatz gegen Queerfeindlichkeit  +++",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/csd-anschlag-ticker-berlin-weitere-entwicklungen.html",
+      "date": "Thu, 30 Jul 2026 13:09:08 +0200"
     }
   ]
 }
