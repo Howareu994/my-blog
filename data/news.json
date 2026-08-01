@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Mehr junge Menschen suchen Ausbildungsplatz in Berlin",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/08/ausbildungsplatzsuche-mehr-menschen-wenige-stellen-ausbildung.html",
+      "date": "Sat, 01 Aug 2026 12:07:39 +0200"
+    },
+    {
+      "title": "Bundesopferbeauftragter verspricht schnelle Finanzhilfe für Terroropfer",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-csd-anschlag-finanzhilfe-fuer-opfer-bundesopferbeauftragter.html",
+      "date": "Sat, 01 Aug 2026 10:12:02 +0200"
+    },
+    {
       "title": "Wetterdienst hebt Unwetterwarnung im Nordwesten Brandenburgs auf",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-unwetter-warnung-havelland-prignitz.html",
       "date": "Fri, 31 Jul 2026 22:50:22 +0200"
@@ -49,19 +59,14 @@
       "title": "Allrounderin für Alba: Kanadieren Wallack wechselt nach Berlin",
       "link": "https://www.rbb24.de/sport/beitrag/2026/07/alba-berlin-frauen-tara-wallack-kanada-neuzugang-dbbl.html",
       "date": "Fri, 31 Jul 2026 16:11:07 +0200"
-    },
-    {
-      "title": "Berliner holen 2:2 im Testspiel gegen Bundesligist Köln",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-hertha-berlin-testspiel-koeln.html",
-      "date": "Fri, 31 Jul 2026 16:10:20 +0200"
-    },
-    {
-      "title": "Berliner Mietenkataster: Regelbetrieb wohl erst in mehreren Jahren",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/datenbank-mieten-mietenkataster-berlin-senat.html",
-      "date": "Fri, 31 Jul 2026 15:22:57 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Schüsse auf Wohnhaus",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699318.php",
+      "date": "Sat, 01 Aug 2026 11:44:03 +0200"
+    },
     {
       "title": "Bedrohung mit Messer – DEIG-Einsatz",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699292.php",
@@ -116,11 +121,6 @@
       "title": "Kind bei Unfall verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698626.php",
       "date": "Thu, 30 Jul 2026 11:25:24 +0200"
-    },
-    {
-      "title": "Polizei Berlin erlässt Allgemeinverfügung zum 2. August 2026",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698585.php",
-      "date": "Thu, 30 Jul 2026 10:46:49 +0200"
     }
   ],
   "free_events": [],
@@ -130,7 +130,7 @@
     {
       "title": "Bundesopferbeauftragter verspricht schnelle Finanzhilfe für Terroropfer",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-csd-anschlag-finanzhilfe-fuer-opfer-bundesopferbeauftragter.html",
-      "date": "Sat, 01 Aug 2026 10:05:17 +0200"
+      "date": "Sat, 01 Aug 2026 10:12:02 +0200"
     },
     {
       "title": "Mehr Einfluss, neue Möglichkeiten",
