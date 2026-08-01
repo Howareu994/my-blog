@@ -1,6 +1,26 @@
 {
   "traffic": [
     {
+      "title": "Straßensperrungen rund um Kurfürstendamm wegen Laufveranstaltung",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-lauf-veranstaltung-sperrungen-city-west-kurfuerstendamm.html",
+      "date": "Sat, 01 Aug 2026 13:51:50 +0200"
+    },
+    {
+      "title": "589 queerfeindliche Vorfälle 2025 in Brandenburg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-queerfeindliche-angriffe-angestiegen-2025-beleidigungen-bedrohungen.html",
+      "date": "Sat, 01 Aug 2026 13:36:13 +0200"
+    },
+    {
+      "title": "Brand auf Truppenübungsplatz bei Jüterbog dank des Regens gelöscht",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/jueterbog-truppenuebungsplatz-treuenbrietzen-luckenwalde-brand-rauchentwicklung.html",
+      "date": "Sat, 01 Aug 2026 13:30:50 +0200"
+    },
+    {
+      "title": "Hertha-Chef Peter Görlich im Interview: \"Berliner Weg auch leben\"",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-hertha-berlin-zweite-liga-interview.html",
+      "date": "Sat, 01 Aug 2026 12:52:00 +0200"
+    },
+    {
       "title": "Mehr junge Menschen suchen Ausbildungsplatz in Berlin",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/08/ausbildungsplatzsuche-mehr-menschen-wenige-stellen-ausbildung.html",
       "date": "Sat, 01 Aug 2026 12:07:39 +0200"
@@ -21,11 +41,6 @@
       "date": "Fri, 31 Jul 2026 22:17:00 +0200"
     },
     {
-      "title": "Brand in Jüterbog eingedämmt - aber noch nicht komplett aus",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/jueterbog-truppenuebungsplatz-treuenbrietzen-luckenwalde-brand-rauchentwicklung.html",
-      "date": "Fri, 31 Jul 2026 20:42:10 +0200"
-    },
-    {
       "title": "Schwedt verhängt nächtliches Alkoholverbot in Innenstadt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/uckermark-schwedt-zentrum-alkoholverbot-nachts.html",
       "date": "Fri, 31 Jul 2026 19:45:55 +0200"
@@ -44,21 +59,6 @@
       "title": "Wenders schneidet Nacktszene mit 13-jähriger Kinski aus Film",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/07/wim-wenders-schneidet-nacktszene-aus-film-nastassia-kinski.html",
       "date": "Fri, 31 Jul 2026 18:56:48 +0200"
-    },
-    {
-      "title": "Selbstbestimmungsgesetz: Tausende ändern Geschlechtseintrag in Berlin und Brandenburg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/tausende-aendern-geschlechtseintrag-selbstbestimmungsgesetz-berlin-brandenburg.html",
-      "date": "Fri, 31 Jul 2026 18:32:45 +0200"
-    },
-    {
-      "title": "BVG-Straßenbahnlinie M1 ab Samstag wochenlang verkürzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-bvg-strassenbahn-m1-verkuerzt-bauarbeiten.html",
-      "date": "Fri, 31 Jul 2026 16:24:45 +0200"
-    },
-    {
-      "title": "Allrounderin für Alba: Kanadieren Wallack wechselt nach Berlin",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/07/alba-berlin-frauen-tara-wallack-kanada-neuzugang-dbbl.html",
-      "date": "Fri, 31 Jul 2026 16:11:07 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,21 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Straßensperrungen rund um Kurfürstendamm wegen Laufveranstaltung",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-lauf-veranstaltung-sperrungen-city-west-kurfuerstendamm.html",
+      "date": "Sat, 01 Aug 2026 13:55:59 +0200"
+    },
+    {
+      "title": "589 queerfeindliche Vorfälle 2025 in Brandenburg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-queerfeindliche-angriffe-angestiegen-2025-beleidigungen-bedrohungen.html",
+      "date": "Sat, 01 Aug 2026 13:36:13 +0200"
+    },
+    {
+      "title": "Brand auf Truppenübungsplatz bei Jüterbog dank des Regens gelöscht",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/jueterbog-truppenuebungsplatz-treuenbrietzen-luckenwalde-brand-rauchentwicklung.html",
+      "date": "Sat, 01 Aug 2026 13:30:50 +0200"
+    },
+    {
       "title": "Bundesopferbeauftragter verspricht schnelle Finanzhilfe für Terroropfer",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-csd-anschlag-finanzhilfe-fuer-opfer-bundesopferbeauftragter.html",
       "date": "Sat, 01 Aug 2026 10:12:02 +0200"
@@ -141,11 +156,6 @@
       "title": "Wetterdienst hebt Unwetterwarnung im Nordwesten Brandenburgs auf",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-unwetter-warnung-havelland-prignitz.html",
       "date": "Fri, 31 Jul 2026 22:50:22 +0200"
-    },
-    {
-      "title": "Brand in Jüterbog eingedämmt - aber noch nicht komplett aus",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/jueterbog-truppenuebungsplatz-treuenbrietzen-luckenwalde-brand-rauchentwicklung.html",
-      "date": "Fri, 31 Jul 2026 20:42:10 +0200"
     },
     {
       "title": "Schwedt verhängt nächtliches Alkoholverbot in Innenstadt",
@@ -176,16 +186,6 @@
       "title": "Berliner Straßenbäumen geht es wieder besser",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/baeume-strassen-berlin-gesund.html",
       "date": "Fri, 31 Jul 2026 13:49:08 +0200"
-    },
-    {
-      "title": "Kind durch Kugelbombe schwer verletzt: 19-Jähriger angeklagt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/kugelbombe-19-jaehriger-angeklagt-berlin-tegel.html",
-      "date": "Fri, 31 Jul 2026 13:14:00 +0200"
-    },
-    {
-      "title": "Brand von 90-Hektar-Feld bei Rheinsberg gelöscht",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/braunsberg-ostprignitz-ruppin-feldbrand-maeharbeiten-amtliche-warnung.html",
-      "date": "Fri, 31 Jul 2026 12:27:30 +0200"
     }
   ]
 }
