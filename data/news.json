@@ -128,6 +128,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Bundesopferbeauftragter verspricht schnelle Finanzhilfe für Terroropfer",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-csd-anschlag-finanzhilfe-fuer-opfer-bundesopferbeauftragter.html",
+      "date": "Sat, 01 Aug 2026 10:05:17 +0200"
+    },
+    {
       "title": "Mehr Einfluss, neue Möglichkeiten",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/busverkehr-verkehrsgesellschaft-prignitz-vgp-brandenburg-mobilit.html",
       "date": "Sat, 01 Aug 2026 07:16:25 +0200"
@@ -181,11 +186,6 @@
       "title": "Brand von 90-Hektar-Feld bei Rheinsberg gelöscht",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/braunsberg-ostprignitz-ruppin-feldbrand-maeharbeiten-amtliche-warnung.html",
       "date": "Fri, 31 Jul 2026 12:27:30 +0200"
-    },
-    {
-      "title": "Ostprignitz-Ruppin: Feldbrand bei Neuruppin gelöscht",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-neuruppin-treskow-brand-evakuierung.html",
-      "date": "Fri, 31 Jul 2026 12:24:36 +0200"
     }
   ]
 }
