@@ -6,6 +6,11 @@
       "date": "Fri, 31 Jul 2026 22:50:22 +0200"
     },
     {
+      "title": "Regio Nordost: Tasmania unterlieg Aue, später Babelsberg-K.o.",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/regionalliga-nordost-bfc-preussen-babelsberg-jena-tasmania-aue.html",
+      "date": "Fri, 31 Jul 2026 22:17:00 +0200"
+    },
+    {
       "title": "Brand in Jüterbog eingedämmt - aber noch nicht komplett aus",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/jueterbog-truppenuebungsplatz-treuenbrietzen-luckenwalde-brand-rauchentwicklung.html",
       "date": "Fri, 31 Jul 2026 20:42:10 +0200"
@@ -54,11 +59,6 @@
       "title": "Berliner Mietenkataster: Regelbetrieb wohl erst in mehreren Jahren",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/datenbank-mieten-mietenkataster-berlin-senat.html",
       "date": "Fri, 31 Jul 2026 15:22:57 +0200"
-    },
-    {
-      "title": "Schafe halten Wiesen rund um Solarpark in Märkisch-Oderland kurz",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/07/schafe-solarpark-maerkisch-oderland.html",
-      "date": "Fri, 31 Jul 2026 14:45:37 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Mehr Einfluss, neue Möglichkeiten",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/busverkehr-verkehrsgesellschaft-prignitz-vgp-brandenburg-mobilit.html",
+      "date": "Sat, 01 Aug 2026 07:16:25 +0200"
+    },
+    {
       "title": "Wetterdienst hebt Unwetterwarnung im Nordwesten Brandenburgs auf",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-unwetter-warnung-havelland-prignitz.html",
       "date": "Fri, 31 Jul 2026 22:50:22 +0200"
@@ -181,11 +186,6 @@
       "title": "Ostprignitz-Ruppin: Feldbrand bei Neuruppin gelöscht",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-neuruppin-treskow-brand-evakuierung.html",
       "date": "Fri, 31 Jul 2026 12:24:36 +0200"
-    },
-    {
-      "title": "Lageso warnt vor Blaualgen an der Havel",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/blaualgen-badestellen-havel-breitehorn-radfahrerwiese-warnung-lageso-sichttiefe.html",
-      "date": "Fri, 31 Jul 2026 11:24:09 +0200"
     }
   ]
 }
