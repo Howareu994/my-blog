@@ -61,7 +61,68 @@
       "date": "Fri, 31 Jul 2026 22:17:00 +0200"
     }
   ],
-  "police": [],
+  "police": [
+    {
+      "title": "Gefährliche Körperverletzung mit Messer",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699326.php",
+      "date": "Sat, 01 Aug 2026 14:24:57 +0200"
+    },
+    {
+      "title": "Schüsse auf Wohnhaus",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699318.php",
+      "date": "Sat, 01 Aug 2026 11:44:03 +0200"
+    },
+    {
+      "title": "Bedrohung mit Messer – DEIG-Einsatz",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699292.php",
+      "date": "Fri, 31 Jul 2026 15:44:54 +0200"
+    },
+    {
+      "title": "Festnahme von mutmaßlichen Fahrraddieben - Mehrere verletzte Polizeikräfte",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699272.php",
+      "date": "Fri, 31 Jul 2026 15:10:09 +0200"
+    },
+    {
+      "title": "Fahrzeuge durch Brand beschädigt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699168.php",
+      "date": "Fri, 31 Jul 2026 13:06:18 +0200"
+    },
+    {
+      "title": "Schüsse auf Imbiss",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699091.php",
+      "date": "Fri, 31 Jul 2026 12:12:13 +0200"
+    },
+    {
+      "title": "Trickbetrug durch falsche Polizeibeamte – Wer erkennt den Tatverdächtigen?",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698958.php",
+      "date": "Fri, 31 Jul 2026 10:20:10 +0200"
+    },
+    {
+      "title": "Vermisster Senior ist wieder da",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662158.php",
+      "date": "Thu, 30 Jul 2026 18:22:00 +0200"
+    },
+    {
+      "title": "Öffentlichkeitsfahndung erfolgreich - Tatverdächtiger ermittelt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1674407.php",
+      "date": "Thu, 30 Jul 2026 16:11:00 +0200"
+    },
+    {
+      "title": "Senior angegriffen und erheblich verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698754.php",
+      "date": "Thu, 30 Jul 2026 14:37:31 +0200"
+    },
+    {
+      "title": "Radfahrer von Lastwagen angefahren",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698711.php",
+      "date": "Thu, 30 Jul 2026 13:41:01 +0200"
+    },
+    {
+      "title": "Umfangreiche Einsatzmaßnahmen zur Bekämpfung der Schusswaffenkriminalität – BAO Ferrum und EG Telum vollstrecken Durchsuchungsbeschlüsse",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698642.php",
+      "date": "Thu, 30 Jul 2026 11:30:00 +0200"
+    }
+  ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
