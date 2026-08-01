@@ -126,5 +126,66 @@
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
-  "ethics": []
+  "ethics": [
+    {
+      "title": "Hamburger CSD mit mehr Sicherheitsvorkehrungen - und Berliner Beteiligung",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-csd-christopher-street-day-hamburg-anschlag-sicherheit-protest-zug.html",
+      "date": "Sat, 01 Aug 2026 15:47:58 +0200"
+    },
+    {
+      "title": "\"Speedweek\": Polizei kontrolliert ab Montag verstärkt auf Brandenburgs Straßen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-mehr-verkehrskontrollen-polizei-speedweek.html",
+      "date": "Sat, 01 Aug 2026 14:45:23 +0200"
+    },
+    {
+      "title": "Straßensperrungen rund um Kurfürstendamm wegen Laufveranstaltung",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-lauf-veranstaltung-sperrungen-city-west-kurfuerstendamm.html",
+      "date": "Sat, 01 Aug 2026 13:55:59 +0200"
+    },
+    {
+      "title": "589 queerfeindliche Vorfälle 2025 in Brandenburg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-queerfeindliche-angriffe-angestiegen-2025-beleidigungen-bedrohungen.html",
+      "date": "Sat, 01 Aug 2026 13:36:13 +0200"
+    },
+    {
+      "title": "Brand auf Truppenübungsplatz bei Jüterbog dank des Regens gelöscht",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/jueterbog-truppenuebungsplatz-treuenbrietzen-luckenwalde-brand-rauchentwicklung.html",
+      "date": "Sat, 01 Aug 2026 13:30:50 +0200"
+    },
+    {
+      "title": "Bundesopferbeauftragter verspricht schnelle Finanzhilfe für Terroropfer",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-csd-anschlag-finanzhilfe-fuer-opfer-bundesopferbeauftragter.html",
+      "date": "Sat, 01 Aug 2026 10:12:02 +0200"
+    },
+    {
+      "title": "Mehr Einfluss, neue Möglichkeiten",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/busverkehr-verkehrsgesellschaft-prignitz-vgp-brandenburg-mobilit.html",
+      "date": "Sat, 01 Aug 2026 07:16:25 +0200"
+    },
+    {
+      "title": "Wetterdienst hebt Unwetterwarnung im Nordwesten Brandenburgs auf",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-unwetter-warnung-havelland-prignitz.html",
+      "date": "Fri, 31 Jul 2026 22:50:22 +0200"
+    },
+    {
+      "title": "Schwedt verhängt nächtliches Alkoholverbot in Innenstadt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/uckermark-schwedt-zentrum-alkoholverbot-nachts.html",
+      "date": "Fri, 31 Jul 2026 19:45:55 +0200"
+    },
+    {
+      "title": "CSD-Anschlag: Polizei stellt Poller am Tatort im Tiergarten auf",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/polizei-stellt-poller-auf-csd-berlin-anschlagsort-tiergarten.html",
+      "date": "Fri, 31 Jul 2026 19:32:03 +0200"
+    },
+    {
+      "title": "Bundesstraße 101 bei Thyrow nach Brückenrissen voll gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/b101-gesperrt-thyrow-teltow-flaeming-risse-bruecke-umleitung.html",
+      "date": "Fri, 31 Jul 2026 19:17:51 +0200"
+    },
+    {
+      "title": "Selbstbestimmungsgesetz: Tausende ändern Geschlechtseintrag in Berlin und Brandenburg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/tausende-aendern-geschlechtseintrag-selbstbestimmungsgesetz-berlin-brandenburg.html",
+      "date": "Fri, 31 Jul 2026 18:32:45 +0200"
+    }
+  ]
 }
