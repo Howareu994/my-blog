@@ -1,9 +1,19 @@
 {
   "traffic": [
     {
+      "title": "\"Speedweek\": Polizei kontrolliert ab Montag verstärkt auf Brandenburgs Straßen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-mehr-verkehrskontrollen-polizei-speedweek.html",
+      "date": "Sat, 01 Aug 2026 14:45:23 +0200"
+    },
+    {
+      "title": "Deutsches Team erfolgreich am zweiten Tag der Ruder-EM in Varese",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/rudern-europameisterschaft-varese-deutsche-medaillen-berlin-bran.html",
+      "date": "Sat, 01 Aug 2026 14:40:07 +0200"
+    },
+    {
       "title": "Straßensperrungen rund um Kurfürstendamm wegen Laufveranstaltung",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-lauf-veranstaltung-sperrungen-city-west-kurfuerstendamm.html",
-      "date": "Sat, 01 Aug 2026 13:51:50 +0200"
+      "date": "Sat, 01 Aug 2026 13:55:59 +0200"
     },
     {
       "title": "589 queerfeindliche Vorfälle 2025 in Brandenburg",
@@ -14,11 +24,6 @@
       "title": "Brand auf Truppenübungsplatz bei Jüterbog dank des Regens gelöscht",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/jueterbog-truppenuebungsplatz-treuenbrietzen-luckenwalde-brand-rauchentwicklung.html",
       "date": "Sat, 01 Aug 2026 13:30:50 +0200"
-    },
-    {
-      "title": "Hertha-Chef Peter Görlich im Interview: \"Berliner Weg auch leben\"",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-hertha-berlin-zweite-liga-interview.html",
-      "date": "Sat, 01 Aug 2026 12:52:00 +0200"
     },
     {
       "title": "Mehr junge Menschen suchen Ausbildungsplatz in Berlin",
@@ -54,14 +59,14 @@
       "title": "Bundesstraße 101 bei Thyrow nach Brückenrissen voll gesperrt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/b101-gesperrt-thyrow-teltow-flaeming-risse-bruecke-umleitung.html",
       "date": "Fri, 31 Jul 2026 19:17:51 +0200"
-    },
-    {
-      "title": "Wenders schneidet Nacktszene mit 13-jähriger Kinski aus Film",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/07/wim-wenders-schneidet-nacktszene-aus-film-nastassia-kinski.html",
-      "date": "Fri, 31 Jul 2026 18:56:48 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Gefährliche Körperverletzung mit Messer",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699326.php",
+      "date": "Sat, 01 Aug 2026 14:24:57 +0200"
+    },
     {
       "title": "Schüsse auf Wohnhaus",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699318.php",
@@ -116,17 +121,22 @@
       "title": "Umfangreiche Einsatzmaßnahmen zur Bekämpfung der Schusswaffenkriminalität – BAO Ferrum und EG Telum vollstrecken Durchsuchungsbeschlüsse",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698642.php",
       "date": "Thu, 30 Jul 2026 11:30:00 +0200"
-    },
-    {
-      "title": "Kind bei Unfall verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698626.php",
-      "date": "Thu, 30 Jul 2026 11:25:24 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Hamburger CSD mit mehr Sicherheitsvorkehrungen - und Berliner Beteiligung",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-csd-christopher-street-day-hamburg-anschlag-sicherheit-protest-zug.html",
+      "date": "Sat, 01 Aug 2026 15:03:54 +0200"
+    },
+    {
+      "title": "\"Speedweek\": Polizei kontrolliert ab Montag verstärkt auf Brandenburgs Straßen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-mehr-verkehrskontrollen-polizei-speedweek.html",
+      "date": "Sat, 01 Aug 2026 14:45:23 +0200"
+    },
     {
       "title": "Straßensperrungen rund um Kurfürstendamm wegen Laufveranstaltung",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-lauf-veranstaltung-sperrungen-city-west-kurfuerstendamm.html",
@@ -176,16 +186,6 @@
       "title": "Selbstbestimmungsgesetz: Tausende ändern Geschlechtseintrag in Berlin und Brandenburg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/tausende-aendern-geschlechtseintrag-selbstbestimmungsgesetz-berlin-brandenburg.html",
       "date": "Fri, 31 Jul 2026 18:32:45 +0200"
-    },
-    {
-      "title": "BVG-Straßenbahnlinie M1 ab Samstag wochenlang verkürzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/berlin-bvg-strassenbahn-m1-verkuerzt-bauarbeiten.html",
-      "date": "Fri, 31 Jul 2026 16:24:45 +0200"
-    },
-    {
-      "title": "Berliner Straßenbäumen geht es wieder besser",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/baeume-strassen-berlin-gesund.html",
-      "date": "Fri, 31 Jul 2026 13:49:08 +0200"
     }
   ]
 }
