@@ -1,14 +1,19 @@
 {
   "traffic": [
     {
-      "title": "Vier Dinge, die Union für den Bundesliga-Start noch fehlen",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-union-berlin-mauro-lustrinelli-saisonvorbereitung-testspiele-trainingslager-bundesliga.html",
-      "date": "Sun, 02 Aug 2026 20:31:47 +0200"
+      "title": "In Berlin und Brandenburg wird an Ermordung von Sinti und Roma erinnert",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/sinti-und-roma-gedenken-opfer-nationalsozialismus.html",
+      "date": "Sun, 02 Aug 2026 21:47:32 +0200"
     },
     {
       "title": "Mahnwache im Tiergarten erinnert an Opfer des CSD-Anschlags",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-mahnwache-opfer-csd-anschlag-tiergarten.html",
-      "date": "Sun, 02 Aug 2026 20:19:19 +0200"
+      "date": "Sun, 02 Aug 2026 21:05:01 +0200"
+    },
+    {
+      "title": "Vier Dinge, die Union für den Bundesliga-Start noch fehlen",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-union-berlin-mauro-lustrinelli-saisonvorbereitung-testspiele-trainingslager-bundesliga.html",
+      "date": "Sun, 02 Aug 2026 20:31:47 +0200"
     },
     {
       "title": "Union Berlin holt Ivorer Latte Lath auf Leihbasis aus den USA",
@@ -54,11 +59,6 @@
       "title": "Silber für Wasserspringerinnen Pfeif und Waffen bei Schwimm-EM",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/wasserspringen-em-berlinerinnen-wassen-pfeif-silber.html",
       "date": "Sun, 02 Aug 2026 14:45:45 +0200"
-    },
-    {
-      "title": "Tickets für \"Volksbad\" der Berliner Volksbühne ab Dienstag erhältlich",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/08/volksbad-volksbuehne-berlin-rosa-luxemburg-platz.html",
-      "date": "Sun, 02 Aug 2026 14:42:06 +0200"
     }
   ],
   "police": [
@@ -128,9 +128,14 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "In Berlin und Brandenburg wird an Ermordung von Sinti und Roma erinnert",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/sinti-und-roma-gedenken-opfer-nationalsozialismus.html",
+      "date": "Sun, 02 Aug 2026 21:47:32 +0200"
+    },
+    {
       "title": "Mahnwache im Tiergarten erinnert an Opfer des CSD-Anschlags",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-mahnwache-opfer-csd-anschlag-tiergarten.html",
-      "date": "Sun, 02 Aug 2026 20:19:19 +0200"
+      "date": "Sun, 02 Aug 2026 21:05:01 +0200"
     },
     {
       "title": "Es wird wieder heiß: Dienstag bis zu 36 Grad",
@@ -181,11 +186,6 @@
       "title": "589 queerfeindliche Vorfälle 2025 in Brandenburg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-queerfeindliche-angriffe-angestiegen-2025-beleidigungen-bedrohungen.html",
       "date": "Sat, 01 Aug 2026 13:36:13 +0200"
-    },
-    {
-      "title": "Brand auf Truppenübungsplatz bei Jüterbog dank des Regens gelöscht",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/jueterbog-truppenuebungsplatz-treuenbrietzen-luckenwalde-brand-rauchentwicklung.html",
-      "date": "Sat, 01 Aug 2026 13:30:50 +0200"
     }
   ]
 }
