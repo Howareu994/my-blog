@@ -1,14 +1,14 @@
 {
   "traffic": [
     {
+      "title": "Mahnwache will am Abend der Opfer des CSD-Anschlags gedenken",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-mahnwache-opfer-csd-anschlag-tiergarten.html",
+      "date": "Sun, 02 Aug 2026 12:51:08 +0200"
+    },
+    {
       "title": "Drei Verletzte nach Schlägerei mit Messer und Baseballschläger in Berlin-Schöneberg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-schoeneberg-baseballschlaeger-messer-polizei.html",
       "date": "Sun, 02 Aug 2026 12:21:03 +0200"
-    },
-    {
-      "title": "Mahnwache gedenkt Opfern des CSD-Anschlags in Berlin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-mahnwache-opfer-csd-anschlag-tiergarten.html",
-      "date": "Sun, 02 Aug 2026 11:42:28 +0200"
     },
     {
       "title": "Parteien starten Plakat-Kampagnen zur Berlin-Wahl frühzeitig",
@@ -18,7 +18,7 @@
     {
       "title": "Warum Berlin läuft: Jogging-Boom zeigt sich auf Tempelhofer Feld",
       "link": "https://www.rbb24.de/sport/beitrag/2026/07/boom-laufen-joggen-marathon-strava-statistik-ingo-froboese.html",
-      "date": "Sun, 02 Aug 2026 07:24:13 +0200"
+      "date": "Sun, 02 Aug 2026 07:24:00 +0200"
     },
     {
       "title": "Elektroautos: Zahl der Ladepunkte in Berlin steigt - Preise intransparent",
@@ -57,6 +57,11 @@
     }
   ],
   "police": [
+    {
+      "title": "Verkehrsunfall mit mehreren Verletzten",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1699333.php",
+      "date": "Sun, 02 Aug 2026 13:29:21 +0200"
+    },
     {
       "title": "Gefährliche Körperverletzung mit Messer",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699326.php",
@@ -111,11 +116,6 @@
       "title": "Radfahrer von Lastwagen angefahren",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698711.php",
       "date": "Thu, 30 Jul 2026 13:41:01 +0200"
-    },
-    {
-      "title": "Umfangreiche Einsatzmaßnahmen zur Bekämpfung der Schusswaffenkriminalität – BAO Ferrum und EG Telum vollstrecken Durchsuchungsbeschlüsse",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698642.php",
-      "date": "Thu, 30 Jul 2026 11:30:00 +0200"
     }
   ],
   "free_events": [],
@@ -123,14 +123,19 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Juli-Wetter im Langzeitvergleich: Statistisch am Soll, örtlich extrem",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/wetter-klima-klimawandel-temperaturen-niederschlag-juli.html",
+      "date": "Sun, 02 Aug 2026 13:25:05 +0200"
+    },
+    {
+      "title": "Mahnwache will am Abend der Opfer des CSD-Anschlags gedenken",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-mahnwache-opfer-csd-anschlag-tiergarten.html",
+      "date": "Sun, 02 Aug 2026 12:51:08 +0200"
+    },
+    {
       "title": "Drei Verletzte nach Schlägerei mit Messer und Baseballschläger in Berlin-Schöneberg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-schoeneberg-baseballschlaeger-messer-polizei.html",
       "date": "Sun, 02 Aug 2026 12:21:03 +0200"
-    },
-    {
-      "title": "Mahnwache gedenkt Opfern des CSD-Anschlags in Berlin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-mahnwache-opfer-csd-anschlag-tiergarten.html",
-      "date": "Sun, 02 Aug 2026 11:42:28 +0200"
     },
     {
       "title": "Hamburger CSD mit mehr Sicherheitsvorkehrungen - und Berliner Beteiligung",
@@ -176,11 +181,6 @@
       "title": "Schwedt verhängt nächtliches Alkoholverbot in Innenstadt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/uckermark-schwedt-zentrum-alkoholverbot-nachts.html",
       "date": "Fri, 31 Jul 2026 19:45:55 +0200"
-    },
-    {
-      "title": "CSD-Anschlag: Polizei stellt Poller am Tatort im Tiergarten auf",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/polizei-stellt-poller-auf-csd-berlin-anschlagsort-tiergarten.html",
-      "date": "Fri, 31 Jul 2026 19:32:03 +0200"
     }
   ]
 }
