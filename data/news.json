@@ -1,6 +1,36 @@
 {
   "traffic": [
     {
+      "title": "Deutschland-Achter holt Silber bei Ruder-EM in Varese",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/rudern-europameisterschaft-varese-deutsche-medaillen-berlin-bran.html",
+      "date": "Sun, 02 Aug 2026 14:47:58 +0200"
+    },
+    {
+      "title": "Silber für Wasserspringerinnen Pfeif und Waffen bei Schwimm-EM",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/wasserspringen-em-berlinerinnen-wassen-pfeif-silber.html",
+      "date": "Sun, 02 Aug 2026 14:45:45 +0200"
+    },
+    {
+      "title": "Tickets für \"Volksbad\" der Berliner Volksbühne ab Dienstag erhältlich",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/08/volksbad-volksbuehne-berlin-rosa-luxemburg-platz.html",
+      "date": "Sun, 02 Aug 2026 14:42:06 +0200"
+    },
+    {
+      "title": "Parteien starten Plakat-Kampagnen zur Berlin-Wahl frühzeitig",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/wahlwerbung-plakate-plakatierung-wahlkampf.html",
+      "date": "Sun, 02 Aug 2026 14:04:52 +0200"
+    },
+    {
+      "title": "Berliner Nahverkehr: Ringbahn und S46/47 eine Woche lang unterbrochen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-sbahn-ringbahn-s41-s42-s46-s47-bauarbeiten-ersatzverkehr.html",
+      "date": "Sun, 02 Aug 2026 13:56:54 +0200"
+    },
+    {
+      "title": "Juli-Wetter im Langzeitvergleich: Statistisch am Soll, örtlich extrem",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/wetter-klima-klimawandel-temperaturen-niederschlag-juli.html",
+      "date": "Sun, 02 Aug 2026 13:25:05 +0200"
+    },
+    {
       "title": "Mahnwache will am Abend der Opfer des CSD-Anschlags gedenken",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-mahnwache-opfer-csd-anschlag-tiergarten.html",
       "date": "Sun, 02 Aug 2026 12:51:08 +0200"
@@ -9,11 +39,6 @@
       "title": "Drei Verletzte nach Schlägerei mit Messer und Baseballschläger in Berlin-Schöneberg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-schoeneberg-baseballschlaeger-messer-polizei.html",
       "date": "Sun, 02 Aug 2026 12:21:03 +0200"
-    },
-    {
-      "title": "Parteien starten Plakat-Kampagnen zur Berlin-Wahl frühzeitig",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/wahlwerbung-plakate-plakatierung-wahlkampf.html",
-      "date": "Sun, 02 Aug 2026 11:35:18 +0200"
     },
     {
       "title": "Warum Berlin läuft: Jogging-Boom zeigt sich auf Tempelhofer Feld",
@@ -34,29 +59,19 @@
       "title": "Fünf Erkenntnisse aus Cottbus-Generalprobe gegen Bremen",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/brandenburg-fussball-energie-cottbus-werder-bremen-testspiel-analyse-wollitz.html",
       "date": "Sat, 01 Aug 2026 19:28:00 +0200"
-    },
-    {
-      "title": "BFC Dynamo und RSV Eintracht feiern Siege in der Regionalliga",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/regionalliga-nordost-bfc-dynamo-altglienicke-luckenwalde-stahnsdorf.html",
-      "date": "Sat, 01 Aug 2026 18:34:00 +0200"
-    },
-    {
-      "title": "1:2-Niederlage für Union Berlin in Dresden",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-union-berlin-testspiel-dynamo-dresden.html",
-      "date": "Sat, 01 Aug 2026 17:04:00 +0200"
-    },
-    {
-      "title": "Festival \"Klassik ohne Grenzen\" startet wieder beiderseits der Oder",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/08/klassik-ohne-grenzen-frankfurt-oder-slubice.html",
-      "date": "Sat, 01 Aug 2026 16:02:19 +0200"
-    },
-    {
-      "title": "Hamburger CSD mit mehr Sicherheitsvorkehrungen - und Berliner Beteiligung",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-csd-christopher-street-day-hamburg-anschlag-sicherheit-protest-zug.html",
-      "date": "Sat, 01 Aug 2026 15:47:58 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Fahrradfahrer umgefahren und geflüchtet",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1699335.php",
+      "date": "Sun, 02 Aug 2026 14:08:54 +0200"
+    },
+    {
+      "title": "Mehrere Verletzte nach Auseinandersetzung",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1699334.php",
+      "date": "Sun, 02 Aug 2026 13:46:25 +0200"
+    },
     {
       "title": "Verkehrsunfall mit mehreren Verletzten",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1699333.php",
@@ -106,22 +121,17 @@
       "title": "Öffentlichkeitsfahndung erfolgreich - Tatverdächtiger ermittelt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1674407.php",
       "date": "Thu, 30 Jul 2026 16:11:00 +0200"
-    },
-    {
-      "title": "Senior angegriffen und erheblich verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698754.php",
-      "date": "Thu, 30 Jul 2026 14:37:31 +0200"
-    },
-    {
-      "title": "Radfahrer von Lastwagen angefahren",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698711.php",
-      "date": "Thu, 30 Jul 2026 13:41:01 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Berliner Nahverkehr: Ringbahn und S46/47 eine Woche lang unterbrochen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-sbahn-ringbahn-s41-s42-s46-s47-bauarbeiten-ersatzverkehr.html",
+      "date": "Sun, 02 Aug 2026 13:56:54 +0200"
+    },
     {
       "title": "Juli-Wetter im Langzeitvergleich: Statistisch am Soll, örtlich extrem",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/wetter-klima-klimawandel-temperaturen-niederschlag-juli.html",
@@ -176,11 +186,6 @@
       "title": "Wetterdienst hebt Unwetterwarnung im Nordwesten Brandenburgs auf",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-unwetter-warnung-havelland-prignitz.html",
       "date": "Fri, 31 Jul 2026 22:50:22 +0200"
-    },
-    {
-      "title": "Schwedt verhängt nächtliches Alkoholverbot in Innenstadt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/uckermark-schwedt-zentrum-alkoholverbot-nachts.html",
-      "date": "Fri, 31 Jul 2026 19:45:55 +0200"
     }
   ]
 }
