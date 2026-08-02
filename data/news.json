@@ -1,14 +1,49 @@
 {
   "traffic": [
     {
-      "title": "Dynamo und Stahnsdorf mit Siegen in Regionalliga",
+      "title": "Warum Berlin läuft: Jogging-Boom zeigt sich auf Tempelhofer Feld",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/boom-laufen-joggen-marathon-strava-statistik-ingo-froboese.html",
+      "date": "Sun, 02 Aug 2026 07:24:13 +0200"
+    },
+    {
+      "title": "Elektroautos: Zahl der Ladepunkte in Berlin steigt - Preise intransparent",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/08/e-auto-ladesaeulen-preise-berlin-intransparent.html",
+      "date": "Sun, 02 Aug 2026 07:19:45 +0200"
+    },
+    {
+      "title": "Hertha: Durch Co-Trainer Schumacher endlich stark bei Standards?",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/07/fussball-berlin-2-bundesliga-hertha-bsc-co-trainer-andreas-schumacher-standards-analyse-klopp.html",
+      "date": "Sat, 01 Aug 2026 20:01:10 +0200"
+    },
+    {
+      "title": "Fünf Erkenntnisse aus Cottbus-Generalprobe gegen Bremen",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/brandenburg-fussball-energie-cottbus-werder-bremen-testspiel-analyse-wollitz.html",
+      "date": "Sat, 01 Aug 2026 19:28:00 +0200"
+    },
+    {
+      "title": "BFC Dynamo und RSV Eintracht feiern Siege in der Regionalliga",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/regionalliga-nordost-bfc-dynamo-altglienicke-luckenwalde-stahnsdorf.html",
-      "date": "Sat, 01 Aug 2026 18:34:30 +0200"
+      "date": "Sat, 01 Aug 2026 18:34:00 +0200"
+    },
+    {
+      "title": "1:2-Niederlage für Union Berlin in Dresden",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-union-berlin-testspiel-dynamo-dresden.html",
+      "date": "Sat, 01 Aug 2026 17:04:00 +0200"
     },
     {
       "title": "Festival \"Klassik ohne Grenzen\" startet wieder beiderseits der Oder",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/08/klassik-ohne-grenzen-frankfurt-oder-slubice.html",
       "date": "Sat, 01 Aug 2026 16:02:19 +0200"
+    },
+    {
+      "title": "Hamburger CSD mit mehr Sicherheitsvorkehrungen - und Berliner Beteiligung",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-csd-christopher-street-day-hamburg-anschlag-sicherheit-protest-zug.html",
+      "date": "Sat, 01 Aug 2026 15:47:58 +0200"
+    },
+    {
+      "title": "Hertha-Chef Peter Görlich im Interview: \"Berliner Weg auch leben\"",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-hertha-berlin-zweite-liga-interview.html",
+      "date": "Sat, 01 Aug 2026 15:42:00 +0200"
     },
     {
       "title": "Deutsches Team erfolgreich am zweiten Tag der Ruder-EM in Varese",
@@ -24,41 +59,6 @@
       "title": "Straßensperrungen rund um Kurfürstendamm wegen Laufveranstaltung",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-lauf-veranstaltung-sperrungen-city-west-kurfuerstendamm.html",
       "date": "Sat, 01 Aug 2026 13:55:59 +0200"
-    },
-    {
-      "title": "589 queerfeindliche Vorfälle 2025 in Brandenburg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-queerfeindliche-angriffe-angestiegen-2025-beleidigungen-bedrohungen.html",
-      "date": "Sat, 01 Aug 2026 13:36:13 +0200"
-    },
-    {
-      "title": "Brand auf Truppenübungsplatz bei Jüterbog dank des Regens gelöscht",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/jueterbog-truppenuebungsplatz-treuenbrietzen-luckenwalde-brand-rauchentwicklung.html",
-      "date": "Sat, 01 Aug 2026 13:30:50 +0200"
-    },
-    {
-      "title": "Mehr junge Menschen suchen Ausbildungsplatz in Berlin",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/08/ausbildungsplatzsuche-mehr-menschen-wenige-stellen-ausbildung.html",
-      "date": "Sat, 01 Aug 2026 12:07:39 +0200"
-    },
-    {
-      "title": "Bundesopferbeauftragter verspricht schnelle Finanzhilfe für Terroropfer",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-csd-anschlag-finanzhilfe-fuer-opfer-bundesopferbeauftragter.html",
-      "date": "Sat, 01 Aug 2026 10:12:02 +0200"
-    },
-    {
-      "title": "Informationen in Leichter Sprache: Wahlen in Berlin",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/leichte-sprache/wahl-zum-abgeordnetenhaus-wahlen-in-berlin.html",
-      "date": "Sat, 01 Aug 2026 07:43:23 +0200"
-    },
-    {
-      "title": "Wetterdienst hebt Unwetterwarnung im Nordwesten Brandenburgs auf",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/brandenburg-unwetter-warnung-havelland-prignitz.html",
-      "date": "Fri, 31 Jul 2026 22:50:22 +0200"
-    },
-    {
-      "title": "Regio Nordost: Tasmania unterlieg Aue, später Babelsberg-K.o.",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/07/regionalliga-nordost-bfc-preussen-babelsberg-jena-tasmania-aue.html",
-      "date": "Fri, 31 Jul 2026 22:17:00 +0200"
     }
   ],
   "police": [
