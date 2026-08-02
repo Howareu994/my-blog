@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Es wird wieder heiß: Dienstag bis zu 36 Grad",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/wetter-berlin-brandenburg-hitze-gewitter.html",
+      "date": "Sun, 02 Aug 2026 16:55:25 +0200"
+    },
+    {
       "title": "Hunger Games: Small-Plate-Menüs – wenn nur das Auge satt wird",
       "link": "https://www.rbb24.de/panorama/thema/was-war-das-denn/small-plates-dinner-gemeinsam-essen-gastronomie.html",
       "date": "Sun, 02 Aug 2026 16:42:35 +0200"
@@ -54,11 +59,6 @@
       "title": "Warum Berlin läuft: Jogging-Boom zeigt sich auf Tempelhofer Feld",
       "link": "https://www.rbb24.de/sport/beitrag/2026/07/boom-laufen-joggen-marathon-strava-statistik-ingo-froboese.html",
       "date": "Sun, 02 Aug 2026 07:24:00 +0200"
-    },
-    {
-      "title": "Elektroautos: Zahl der Ladepunkte in Berlin steigt - Preise intransparent",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/08/e-auto-ladesaeulen-preise-berlin-intransparent.html",
-      "date": "Sun, 02 Aug 2026 07:19:45 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Es wird wieder heiß: Dienstag bis zu 36 Grad",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/wetter-berlin-brandenburg-hitze-gewitter.html",
+      "date": "Sun, 02 Aug 2026 16:55:25 +0200"
+    },
+    {
       "title": "Hunger Games: Small-Plate-Menüs – wenn nur das Auge satt wird",
       "link": "https://www.rbb24.de/panorama/thema/was-war-das-denn/small-plates-dinner-gemeinsam-essen-gastronomie.html",
       "date": "Sun, 02 Aug 2026 16:42:35 +0200"
@@ -181,11 +186,6 @@
       "title": "Brand auf Truppenübungsplatz bei Jüterbog dank des Regens gelöscht",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/jueterbog-truppenuebungsplatz-treuenbrietzen-luckenwalde-brand-rauchentwicklung.html",
       "date": "Sat, 01 Aug 2026 13:30:50 +0200"
-    },
-    {
-      "title": "Bundesopferbeauftragter verspricht schnelle Finanzhilfe für Terroropfer",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-csd-anschlag-finanzhilfe-fuer-opfer-bundesopferbeauftragter.html",
-      "date": "Sat, 01 Aug 2026 10:12:02 +0200"
     }
   ]
 }
