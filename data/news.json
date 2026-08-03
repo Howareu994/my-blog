@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "S-Bahn Berlin: Ringbahn und S46/47 eine Woche lang unterbrochen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-sbahn-ringbahn-s41-s42-s46-s47-bauarbeiten-ersatzverkehr.html",
+      "date": "Mon, 03 Aug 2026 07:28:37 +0200"
+    },
+    {
+      "title": "Queere Jugendliche nach dem CSD-Anschlag: Zu Besuch in einem Jugendclub in Berlin-Neukölln",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/queere-jugendliche-nach-csd-anschlag-berlin.html",
+      "date": "Mon, 03 Aug 2026 06:15:00 +0200"
+    },
+    {
+      "title": "Das planen die Berliner Parteien in der Wohnungspolitik",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/wahlprogramme/wohnen-bauen-mieten-check.html",
+      "date": "Mon, 03 Aug 2026 06:10:00 +0200"
+    },
+    {
       "title": "In Berlin und Brandenburg wird an Ermordung von Sinti und Roma erinnert",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/sinti-und-roma-gedenken-opfer-nationalsozialismus.html",
       "date": "Sun, 02 Aug 2026 21:47:32 +0200"
@@ -44,21 +59,6 @@
       "title": "Hunger Games: Small-Plate-Menüs – wenn nur das Auge satt wird",
       "link": "https://www.rbb24.de/panorama/thema/was-war-das-denn/small-plates-dinner-gemeinsam-essen-gastronomie.html",
       "date": "Sun, 02 Aug 2026 16:42:35 +0200"
-    },
-    {
-      "title": "Motorradfahrer stirbt nach Wildunfall bei Casekow",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-motorradfahrer-stirbt-wildunfall-casekow-uckermark.html",
-      "date": "Sun, 02 Aug 2026 16:05:46 +0200"
-    },
-    {
-      "title": "Deutschland-Achter holt Silber bei Ruder-EM in Varese",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/rudern-europameisterschaft-varese-deutsche-medaillen-berlin-bran.html",
-      "date": "Sun, 02 Aug 2026 14:47:58 +0200"
-    },
-    {
-      "title": "Silber für Wasserspringerinnen Pfeif und Waffen bei Schwimm-EM",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/wasserspringen-em-berlinerinnen-wassen-pfeif-silber.html",
-      "date": "Sun, 02 Aug 2026 14:45:45 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,16 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "S-Bahn Berlin: Ringbahn und S46/47 eine Woche lang unterbrochen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-sbahn-ringbahn-s41-s42-s46-s47-bauarbeiten-ersatzverkehr.html",
+      "date": "Mon, 03 Aug 2026 07:28:37 +0200"
+    },
+    {
+      "title": "Queere Jugendliche nach dem CSD-Anschlag: Zu Besuch in einem Jugendclub in Berlin-Neukölln",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/queere-jugendliche-nach-csd-anschlag-berlin.html",
+      "date": "Mon, 03 Aug 2026 06:15:00 +0200"
+    },
+    {
       "title": "In Berlin und Brandenburg wird an Ermordung von Sinti und Roma erinnert",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/sinti-und-roma-gedenken-opfer-nationalsozialismus.html",
       "date": "Sun, 02 Aug 2026 21:47:32 +0200"
@@ -153,11 +163,6 @@
       "date": "Sun, 02 Aug 2026 16:05:46 +0200"
     },
     {
-      "title": "Berliner Nahverkehr: Ringbahn und S46/47 eine Woche lang unterbrochen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-sbahn-ringbahn-s41-s42-s46-s47-bauarbeiten-ersatzverkehr.html",
-      "date": "Sun, 02 Aug 2026 13:56:54 +0200"
-    },
-    {
       "title": "Juli-Wetter im Langzeitvergleich: Statistisch am Soll, örtlich extrem",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/wetter-klima-klimawandel-temperaturen-niederschlag-juli.html",
       "date": "Sun, 02 Aug 2026 13:25:05 +0200"
@@ -181,11 +186,6 @@
       "title": "Straßensperrungen rund um Kurfürstendamm wegen Laufveranstaltung",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-lauf-veranstaltung-sperrungen-city-west-kurfuerstendamm.html",
       "date": "Sat, 01 Aug 2026 13:55:59 +0200"
-    },
-    {
-      "title": "589 queerfeindliche Vorfälle 2025 in Brandenburg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-queerfeindliche-angriffe-angestiegen-2025-beleidigungen-bedrohungen.html",
-      "date": "Sat, 01 Aug 2026 13:36:13 +0200"
     }
   ]
 }
