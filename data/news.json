@@ -1,19 +1,49 @@
 {
   "traffic": [
     {
+      "title": "Hitzewarnung für Montag und Dienstag - örtlich Unwettergefahr in Berlin und Brandenburg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/wetter-berlin-brandenburg-hitze-gewitter.html",
+      "date": "Mon, 03 Aug 2026 11:12:48 +0200"
+    },
+    {
+      "title": "Großer Baum in Berlin-Gesundbrunnen auf Brücke gestürzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-baum-umgestuerzt-bruecke-gesundbrunnen-einsatz-feuerwehr.html",
+      "date": "Mon, 03 Aug 2026 10:56:01 +0200"
+    },
+    {
+      "title": "Eiskunstlauf-Paar Hocke/Kunkel trainiert wieder in Berlin",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/eiskunstlauf-paar-annika-hocke-robert-kunkel-traning-berlin.html",
+      "date": "Mon, 03 Aug 2026 10:38:20 +0200"
+    },
+    {
+      "title": "\"Speedweek\": Polizei kontrolliert ab Montag verstärkt - auch auf Berlins und Brandenburgs Straßen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-mehr-verkehrskontrollen-polizei-speedweek.html",
+      "date": "Mon, 03 Aug 2026 10:09:02 +0200"
+    },
+    {
+      "title": "Wahlprogramme zum Thema Wohnen: Das planen die Berliner Parteien",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/wahlprogramme/wohnen-bauen-mieten-check.html",
+      "date": "Mon, 03 Aug 2026 09:13:00 +0200"
+    },
+    {
+      "title": "EM-Bronze für Berliner Wasserspringer Hentschel und Avila Sanchez",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/wasserspringen-em-mixed-synchron-berliner-bronze-hentschel-avila-sanchez.html",
+      "date": "Mon, 03 Aug 2026 08:39:15 +0200"
+    },
+    {
+      "title": "Treptow-Köpenick scheitert mit Begrenzung der Wahlplakate",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/treptow-koepenick-scheitert-begrenzung-wahlplakate-bezirksamt-be.html",
+      "date": "Mon, 03 Aug 2026 08:36:15 +0200"
+    },
+    {
       "title": "S-Bahn Berlin: Ringbahn und S46/47 eine Woche lang unterbrochen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-sbahn-ringbahn-s41-s42-s46-s47-bauarbeiten-ersatzverkehr.html",
-      "date": "Mon, 03 Aug 2026 07:28:37 +0200"
+      "date": "Mon, 03 Aug 2026 07:48:00 +0200"
     },
     {
-      "title": "Queere Jugendliche nach dem CSD-Anschlag: Zu Besuch in einem Jugendclub in Berlin-Neukölln",
+      "title": "Nach CSD-Anschlag: Zu Besuch in einem Jugendclub in Berlin-Neukölln",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/queere-jugendliche-nach-csd-anschlag-berlin.html",
       "date": "Mon, 03 Aug 2026 06:15:00 +0200"
-    },
-    {
-      "title": "Das planen die Berliner Parteien in der Wohnungspolitik",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/wahlprogramme/wohnen-bauen-mieten-check.html",
-      "date": "Mon, 03 Aug 2026 06:10:00 +0200"
     },
     {
       "title": "In Berlin und Brandenburg wird an Ermordung von Sinti und Roma erinnert",
@@ -29,39 +59,14 @@
       "title": "Vier Dinge, die Union für den Bundesliga-Start noch fehlen",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-union-berlin-mauro-lustrinelli-saisonvorbereitung-testspiele-trainingslager-bundesliga.html",
       "date": "Sun, 02 Aug 2026 20:31:47 +0200"
-    },
-    {
-      "title": "Union Berlin holt Ivorer Latte Lath auf Leihbasis aus den USA",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-bundesliga-1-fc-union-berlin-leihe-stuermer-emmanuel-latte-lath.html",
-      "date": "Sun, 02 Aug 2026 19:23:07 +0200"
-    },
-    {
-      "title": "2. Liga: Herthas Fußballerinnen verlieren Zweitliga-Auftakt",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-frauen-2-liga-auftakt-hertha-bsc-viktoria-berlin-turbine-potsdam.html",
-      "date": "Sun, 02 Aug 2026 18:55:00 +0200"
-    },
-    {
-      "title": "Claudia Pechstein bleibt auch langfristig Eisschnelllauf-Bundestrainerin",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/claudia-pechstein-bundestrainerin-eisschnelllauf.html",
-      "date": "Sun, 02 Aug 2026 18:01:59 +0200"
-    },
-    {
-      "title": "Ultra-Radmarathon-Teilnehmer: \"Übermüdet vom Rad fallen, wird mir niemals passieren\"",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/interview-radmarathon-berlin-muenchen-super-brevet.html",
-      "date": "Sun, 02 Aug 2026 17:58:25 +0200"
-    },
-    {
-      "title": "Es wird wieder heiß: Dienstag bis zu 36 Grad",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/wetter-berlin-brandenburg-hitze-gewitter.html",
-      "date": "Sun, 02 Aug 2026 16:55:25 +0200"
-    },
-    {
-      "title": "Hunger Games: Small-Plate-Menüs – wenn nur das Auge satt wird",
-      "link": "https://www.rbb24.de/panorama/thema/was-war-das-denn/small-plates-dinner-gemeinsam-essen-gastronomie.html",
-      "date": "Sun, 02 Aug 2026 16:42:35 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Motorradfahrer bei Unfall verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699427.php",
+      "date": "Mon, 03 Aug 2026 10:48:18 +0200"
+    },
     {
       "title": "Störung beim Anbringen von Wahlplakaten",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1699336.php",
@@ -116,11 +121,6 @@
       "title": "Trickbetrug durch falsche Polizeibeamte – Wer erkennt den Tatverdächtigen?",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698958.php",
       "date": "Fri, 31 Jul 2026 10:20:10 +0200"
-    },
-    {
-      "title": "Vermisster Senior ist wieder da",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662158.php",
-      "date": "Thu, 30 Jul 2026 18:22:00 +0200"
     }
   ],
   "free_events": [],
@@ -128,12 +128,27 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "S-Bahn Berlin: Ringbahn und S46/47 eine Woche lang unterbrochen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-sbahn-ringbahn-s41-s42-s46-s47-bauarbeiten-ersatzverkehr.html",
-      "date": "Mon, 03 Aug 2026 07:28:37 +0200"
+      "title": "Hitzewarnung für Montag und Dienstag - örtlich Unwettergefahr in Berlin und Brandenburg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/wetter-berlin-brandenburg-hitze-gewitter.html",
+      "date": "Mon, 03 Aug 2026 11:12:48 +0200"
     },
     {
-      "title": "Queere Jugendliche nach dem CSD-Anschlag: Zu Besuch in einem Jugendclub in Berlin-Neukölln",
+      "title": "Großer Baum in Berlin-Gesundbrunnen auf Brücke gestürzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-baum-umgestuerzt-bruecke-gesundbrunnen-einsatz-feuerwehr.html",
+      "date": "Mon, 03 Aug 2026 10:56:01 +0200"
+    },
+    {
+      "title": "\"Speedweek\": Polizei kontrolliert ab Montag verstärkt - auch auf Berlins und Brandenburgs Straßen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-mehr-verkehrskontrollen-polizei-speedweek.html",
+      "date": "Mon, 03 Aug 2026 10:09:02 +0200"
+    },
+    {
+      "title": "S-Bahn Berlin: Ringbahn und S46/47 eine Woche lang unterbrochen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-sbahn-ringbahn-s41-s42-s46-s47-bauarbeiten-ersatzverkehr.html",
+      "date": "Mon, 03 Aug 2026 07:48:00 +0200"
+    },
+    {
+      "title": "Nach CSD-Anschlag: Zu Besuch in einem Jugendclub in Berlin-Neukölln",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/queere-jugendliche-nach-csd-anschlag-berlin.html",
       "date": "Mon, 03 Aug 2026 06:15:00 +0200"
     },
@@ -146,11 +161,6 @@
       "title": "Mahnwache im Tiergarten erinnert an Opfer des CSD-Anschlags",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-mahnwache-opfer-csd-anschlag-tiergarten.html",
       "date": "Sun, 02 Aug 2026 21:05:01 +0200"
-    },
-    {
-      "title": "Es wird wieder heiß: Dienstag bis zu 36 Grad",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/wetter-berlin-brandenburg-hitze-gewitter.html",
-      "date": "Sun, 02 Aug 2026 16:55:25 +0200"
     },
     {
       "title": "Hunger Games: Small-Plate-Menüs – wenn nur das Auge satt wird",
@@ -176,16 +186,6 @@
       "title": "Hamburger CSD mit mehr Sicherheitsvorkehrungen - und Berliner Beteiligung",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-csd-christopher-street-day-hamburg-anschlag-sicherheit-protest-zug.html",
       "date": "Sat, 01 Aug 2026 15:47:58 +0200"
-    },
-    {
-      "title": "\"Speedweek\": Polizei kontrolliert ab Montag verstärkt auf Brandenburgs Straßen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-mehr-verkehrskontrollen-polizei-speedweek.html",
-      "date": "Sat, 01 Aug 2026 14:45:23 +0200"
-    },
-    {
-      "title": "Straßensperrungen rund um Kurfürstendamm wegen Laufveranstaltung",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-lauf-veranstaltung-sperrungen-city-west-kurfuerstendamm.html",
-      "date": "Sat, 01 Aug 2026 13:55:59 +0200"
     }
   ]
 }
