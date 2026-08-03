@@ -1,6 +1,26 @@
 {
   "traffic": [
     {
+      "title": "Studio Babelsberg schreibt trotz Umsatzplus rote Zahlen",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/08/brandenburg-babelsberg-studio-rote-zahlen-umsatzplus.html",
+      "date": "Mon, 03 Aug 2026 19:01:42 +0200"
+    },
+    {
+      "title": "Zwei Unfälle innerhalb von 24 Stunden auf A24 bei Fehrbellin - insgesamt 14 Verletzte",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/unfall-a24-autobahn-verkehr-stauende-fehrbellin-ostprignitz-ruppin.html",
+      "date": "Mon, 03 Aug 2026 18:59:51 +0200"
+    },
+    {
+      "title": "Bundesstraße 101 bei Thyrow bleibt wegen Brückenrissen vorerst voll gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/b101-gesperrt-thyrow-teltow-flaeming-risse-bruecke-umleitung.html",
+      "date": "Mon, 03 Aug 2026 18:58:48 +0200"
+    },
+    {
+      "title": "KI-unterstützte Videoüberwachung am Kottbusser Tor startet",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/08/videokameras-ki-kottbusser-tor-berlin-polizei-ueberwachung.html",
+      "date": "Mon, 03 Aug 2026 18:42:48 +0200"
+    },
+    {
       "title": "Grundsicherung und Wohngeld: Mehr Ältere in Berlin betroffen",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/08/berlin-altersarmut-grundsicherung-wohngeld-aeltere-menschen-rentner.html",
       "date": "Mon, 03 Aug 2026 17:02:35 +0200"
@@ -39,26 +59,6 @@
       "title": "Radweg Unter den Eichen: Verkehrsverwaltung ordnet Rückbau an",
       "link": "https://www.rbb24.de/politik/beitrag/2026/08/radweg-unter-den-eichen-berlin-steglitz-zehlendorf-rueckbau.html",
       "date": "Mon, 03 Aug 2026 14:06:20 +0200"
-    },
-    {
-      "title": "Dritte Runde Probewohnen gestartet: Guben will neue Einwohner anlocken",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-guben-start-dritte-runde-probewohnen-einwohner.html",
-      "date": "Mon, 03 Aug 2026 13:51:10 +0200"
-    },
-    {
-      "title": "KI-unterstützte Videoüberwachung am Kottbusser Tor startet",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/08/videokameras-ki-kottbusser-tor-berlin-polizei-ueberwachung.html",
-      "date": "Mon, 03 Aug 2026 13:01:00 +0200"
-    },
-    {
-      "title": "Nur zwei öffentliche Trinkbrunnen in Potsdam",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/oeffentliche-trinkbrunnen-potsdam-hauptbahnhof-karl-liebknecht-strasse.html",
-      "date": "Mon, 03 Aug 2026 12:27:48 +0200"
-    },
-    {
-      "title": "Großer Baum in Berlin-Gesundbrunnen auf Brücke gestürzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-baum-umgestuerzt-bruecke-gesundbrunnen-einsatz-feuerwehr.html",
-      "date": "Mon, 03 Aug 2026 12:17:00 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,16 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Zwei Unfälle innerhalb von 24 Stunden auf A24 bei Fehrbellin - insgesamt 14 Verletzte",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/unfall-a24-autobahn-verkehr-stauende-fehrbellin-ostprignitz-ruppin.html",
+      "date": "Mon, 03 Aug 2026 18:59:51 +0200"
+    },
+    {
+      "title": "Bundesstraße 101 bei Thyrow bleibt wegen Brückenrissen vorerst voll gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/b101-gesperrt-thyrow-teltow-flaeming-risse-bruecke-umleitung.html",
+      "date": "Mon, 03 Aug 2026 18:58:48 +0200"
+    },
+    {
       "title": "Warum es in der Berliner Charité eine Endometriose-Nurse gibt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-charite-krankenhaus-endometriose-nurse-patientinnen.html",
       "date": "Mon, 03 Aug 2026 15:39:58 +0200"
@@ -158,11 +168,6 @@
       "date": "Mon, 03 Aug 2026 12:17:00 +0200"
     },
     {
-      "title": "Sieben Verletzte nach Unfall auf A24 bei Fehrbellin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/unfall-a24-autobahn-verkehr-stauende-fehrbellin-ostprignitz-ruppin.html",
-      "date": "Mon, 03 Aug 2026 11:43:39 +0200"
-    },
-    {
       "title": "Hitzewarnung für Montag und Dienstag - örtlich Unwettergefahr in Berlin und Brandenburg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/wetter-berlin-brandenburg-hitze-gewitter.html",
       "date": "Mon, 03 Aug 2026 11:12:48 +0200"
@@ -181,11 +186,6 @@
       "title": "Nach CSD-Anschlag: Zu Besuch in einem Jugendclub in Berlin-Neukölln",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/queere-jugendliche-nach-csd-anschlag-berlin.html",
       "date": "Mon, 03 Aug 2026 06:15:00 +0200"
-    },
-    {
-      "title": "In Berlin und Brandenburg wird an Ermordung von Sinti und Roma erinnert",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/sinti-und-roma-gedenken-opfer-nationalsozialismus.html",
-      "date": "Sun, 02 Aug 2026 21:47:32 +0200"
     }
   ]
 }
