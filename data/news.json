@@ -1,9 +1,34 @@
 {
   "traffic": [
     {
+      "title": "Afrikanische Schweinepest: Weiterer Fall in der Uckermark",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/asp-schweinepest-uckermark-weiterer-fund-brandenburg-wildschwein.html",
+      "date": "Tue, 04 Aug 2026 16:15:28 +0200"
+    },
+    {
+      "title": "Bundesstraße 101: Sperrung wegen Rissen in Brücke bleibt bestehen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/b101-gesperrt-thyrow-teltow-flaeming-risse-bruecke-umleitung.html",
+      "date": "Tue, 04 Aug 2026 16:05:24 +0200"
+    },
+    {
+      "title": "Schöffin befangen: Sterbehilfe-Prozess gegen 77 Jahre alten Arzt vertagt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/prozess-potsdam-sterbehilfe-anklage-arzt.html",
+      "date": "Tue, 04 Aug 2026 15:41:09 +0200"
+    },
+    {
+      "title": "Betrunkener soll Ausstellung in Cottbus beschädigt haben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-cottbus-beschaedigung-ausstellung-bahnhof-ns-geschichte.html",
+      "date": "Tue, 04 Aug 2026 15:24:31 +0200"
+    },
+    {
+      "title": "Nur drei Personen wollen in Hennigsdorf als Sicherheitspartner arbeiten",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/08/brandenburg-hennigsdorf-sicherheitspartnerschaft-wenig-interesse.html",
+      "date": "Tue, 04 Aug 2026 15:03:48 +0200"
+    },
+    {
       "title": "Künftiger Füchse-Boss Paul Drux: \"Bin ein anderer Typ als Bob\"",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/handball-fuechse-berlin-geschaeftsfuehrung-bob-hanning-nachfolger-paul-drux.html",
-      "date": "Tue, 04 Aug 2026 14:47:48 +0200"
+      "date": "Tue, 04 Aug 2026 14:47:00 +0200"
     },
     {
       "title": "Zahl der Ausländer in Brandenburg verdreifacht - Stabilisator für Arbeitsmarkt",
@@ -34,34 +59,14 @@
       "title": "Wahlprogramme zum Thema Wohnen: Das planen die Berliner Parteien",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/wahlprogramme/wohnen-bauen-mieten-check.html",
       "date": "Tue, 04 Aug 2026 13:26:52 +0200"
-    },
-    {
-      "title": "Polizei ermittelt nach Waldbrand in Jüterbog wegen Brandstiftung",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/waldbrand-feuer-polizei-jueterbog-ermittlungen-verdacht-brandstiftung.html",
-      "date": "Tue, 04 Aug 2026 12:32:00 +0200"
-    },
-    {
-      "title": "A13-Anschlussstelle Duben Richtung Dresden in mehreren Nächten gesperrt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-duben-a13-sperrung-autobahn-auffahrt-abfahrt-richtung-dresden.html",
-      "date": "Tue, 04 Aug 2026 12:24:07 +0200"
-    },
-    {
-      "title": "Bundesstraße 101 bleibt bei Thyrow wegen Rissen in Grünbrücke vorerst voll gesperrt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/b101-gesperrt-thyrow-teltow-flaeming-risse-bruecke-umleitung.html",
-      "date": "Tue, 04 Aug 2026 12:13:24 +0200"
-    },
-    {
-      "title": "\"Volksbad\" der Berliner Volksbühne wird zum politischen Pool",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/08/berlin-mitte-volksbuehne-volksbad-schwimmbad-kunst.html",
-      "date": "Tue, 04 Aug 2026 12:03:14 +0200"
-    },
-    {
-      "title": "Trassenpreise: Brandenburg prüft Klagemöglichkeiten",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/08/bahn-robert-crumbach-brandenburg-klage-db-infrago-trassenpreise-bundeslaender.html",
-      "date": "Tue, 04 Aug 2026 11:58:49 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Festnahme nach mutmaßlichem Drogenhandel",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699865.php",
+      "date": "Tue, 04 Aug 2026 15:01:18 +0200"
+    },
     {
       "title": "Verbleib von gesuchter 16-Jähriger geklärt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695113.php",
@@ -116,17 +121,32 @@
       "title": "Fahrzeuge durch Brand beschädigt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699168.php",
       "date": "Fri, 31 Jul 2026 13:06:18 +0200"
-    },
-    {
-      "title": "Schüsse auf Imbiss",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699091.php",
-      "date": "Fri, 31 Jul 2026 12:12:13 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Afrikanische Schweinepest: Weiterer Fall in der Uckermark",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/asp-schweinepest-uckermark-weiterer-fund-brandenburg-wildschwein.html",
+      "date": "Tue, 04 Aug 2026 16:15:28 +0200"
+    },
+    {
+      "title": "Bundesstraße 101: Sperrung wegen Rissen in Brücke bleibt bestehen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/b101-gesperrt-thyrow-teltow-flaeming-risse-bruecke-umleitung.html",
+      "date": "Tue, 04 Aug 2026 16:05:24 +0200"
+    },
+    {
+      "title": "Schöffin befangen: Sterbehilfe-Prozess gegen 77 Jahre alten Arzt vertagt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/prozess-potsdam-sterbehilfe-anklage-arzt.html",
+      "date": "Tue, 04 Aug 2026 15:41:09 +0200"
+    },
+    {
+      "title": "Betrunkener soll Ausstellung in Cottbus beschädigt haben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-cottbus-beschaedigung-ausstellung-bahnhof-ns-geschichte.html",
+      "date": "Tue, 04 Aug 2026 15:24:31 +0200"
+    },
     {
       "title": "Herzspezialisten: Sana-Kliniken Niederlausitz als Weiterbildungsstätte offiziell anerkannt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-sana-kliniken-niederlausitz-herz-spezialisten-weiterbildung-anerkennung-gesellschaft-kardiologie.html",
@@ -148,11 +168,6 @@
       "date": "Tue, 04 Aug 2026 12:24:07 +0200"
     },
     {
-      "title": "Bundesstraße 101 bleibt bei Thyrow wegen Rissen in Grünbrücke vorerst voll gesperrt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/b101-gesperrt-thyrow-teltow-flaeming-risse-bruecke-umleitung.html",
-      "date": "Tue, 04 Aug 2026 12:13:24 +0200"
-    },
-    {
       "title": "Potsdam prüft Einrichtung einer neuen Babyklappe",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/neue-babyklappe-potsdam-schliessung-st-josefs-krankenhaus.html",
       "date": "Tue, 04 Aug 2026 11:27:00 +0200"
@@ -163,11 +178,6 @@
       "date": "Tue, 04 Aug 2026 11:06:27 +0200"
     },
     {
-      "title": "Sterbehilfe: Prozess gegen 75-jährigen Arzt beginnt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/prozess-potsdam-sterbehilfe-anklage-arzt.html",
-      "date": "Tue, 04 Aug 2026 10:29:24 +0200"
-    },
-    {
       "title": "88-jähriger Radfahrer stirbt nach Kollision mit Kleintransporter in Frankfurt (Oder)",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/unfall-fahrrad-radfahrer-gestorben-kollision-frankfurtoder-brandenburg-plizei.html",
       "date": "Tue, 04 Aug 2026 10:26:43 +0200"
@@ -176,16 +186,6 @@
       "title": "Warum es den Flüssen an Wasser fehlt - und was das bedeutet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/wassermangel-fluesse-grundwasser-brandenburg.html",
       "date": "Mon, 03 Aug 2026 19:58:00 +0200"
-    },
-    {
-      "title": "Zwei Unfälle innerhalb von 24 Stunden auf A24 bei Fehrbellin - insgesamt 14 Verletzte",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/unfall-a24-autobahn-verkehr-stauende-fehrbellin-ostprignitz-ruppin.html",
-      "date": "Mon, 03 Aug 2026 18:59:51 +0200"
-    },
-    {
-      "title": "Warum es in der Berliner Charité eine Endometriose-Nurse gibt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-charite-krankenhaus-endometriose-nurse-patientinnen.html",
-      "date": "Mon, 03 Aug 2026 15:39:58 +0200"
     }
   ]
 }
