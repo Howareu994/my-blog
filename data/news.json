@@ -1,9 +1,29 @@
 {
   "traffic": [
     {
+      "title": "An der Tanke in Brandenburg: \"Wölfe sehen wir gerne im Wald, Jäger nicht so gerne\"",
+      "link": "https://www.rbb24.de/panorama/thema/an-der-tanke/brandenburg-an-der-tanke-paar-heavy-metal-woelfe.html",
+      "date": "Tue, 04 Aug 2026 19:20:27 +0200"
+    },
+    {
+      "title": "Badestellen in der Region mehrheitlich zum Baden geeignet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-brandenburg-blaualgen-zerkarien-gewaesser-baden-schwimmen.html",
+      "date": "Tue, 04 Aug 2026 19:04:52 +0200"
+    },
+    {
+      "title": "CSD-Anschlag: Nach Sondersitzung im Bundestag bleiben offene Fragen",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/08/berlin-csd-anschlag-innenausschuss-bundestag.html",
+      "date": "Tue, 04 Aug 2026 18:52:06 +0200"
+    },
+    {
       "title": "Afrikanische Schweinepest: Weiterer Fall in der Uckermark",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/asp-schweinepest-uckermark-weiterer-fund-brandenburg-wildschwein.html",
-      "date": "Tue, 04 Aug 2026 16:15:28 +0200"
+      "date": "Tue, 04 Aug 2026 17:40:36 +0200"
+    },
+    {
+      "title": "Berlin-Pankow: Auto und Straßenbahn stoßen frontal zusammen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/unfall-strassenbahn-auto-berlin-pankow-verletzte.html",
+      "date": "Tue, 04 Aug 2026 17:29:55 +0200"
     },
     {
       "title": "Bundesstraße 101: Sperrung wegen Rissen in Brücke bleibt bestehen",
@@ -39,26 +59,6 @@
       "title": "Klimawandel: Hitzeschutz in Barcelona",
       "link": "https://www.rbb24.de/politik/beitrag/2026/08/hitzeschutz-berlin-barcelona-klimawandel-klimakrise.html",
       "date": "Tue, 04 Aug 2026 14:25:19 +0200"
-    },
-    {
-      "title": "Berliner Hotel Adlon soll verkauft werden",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/08/berlin-mitte-adlon-hotel-verkauf-investoren-kempinski.html",
-      "date": "Tue, 04 Aug 2026 14:10:47 +0200"
-    },
-    {
-      "title": "Hitze und Unwetter sollen vor allem Brandenburg treffen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/wetter-berlin-brandenburg-hitze-gewitter.html",
-      "date": "Tue, 04 Aug 2026 14:06:16 +0200"
-    },
-    {
-      "title": "Wahlprogramme zum Thema Verkehr: Das planen die Berliner Parteien",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/wahlprogramme/verkehr-sbahn-tram-strasse-check.html",
-      "date": "Tue, 04 Aug 2026 13:31:01 +0200"
-    },
-    {
-      "title": "Wahlprogramme zum Thema Wohnen: Das planen die Berliner Parteien",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/wahlprogramme/wohnen-bauen-mieten-check.html",
-      "date": "Tue, 04 Aug 2026 13:26:52 +0200"
     }
   ],
   "police": [
@@ -128,9 +128,24 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "An der Tanke in Brandenburg: \"Wölfe sehen wir gerne im Wald, Jäger nicht so gerne\"",
+      "link": "https://www.rbb24.de/panorama/thema/an-der-tanke/brandenburg-an-der-tanke-paar-heavy-metal-woelfe.html",
+      "date": "Tue, 04 Aug 2026 19:20:27 +0200"
+    },
+    {
+      "title": "Badestellen in der Region mehrheitlich zum Baden geeignet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-brandenburg-blaualgen-zerkarien-gewaesser-baden-schwimmen.html",
+      "date": "Tue, 04 Aug 2026 19:04:52 +0200"
+    },
+    {
       "title": "Afrikanische Schweinepest: Weiterer Fall in der Uckermark",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/asp-schweinepest-uckermark-weiterer-fund-brandenburg-wildschwein.html",
-      "date": "Tue, 04 Aug 2026 16:15:28 +0200"
+      "date": "Tue, 04 Aug 2026 17:40:36 +0200"
+    },
+    {
+      "title": "Berlin-Pankow: Auto und Straßenbahn stoßen frontal zusammen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/unfall-strassenbahn-auto-berlin-pankow-verletzte.html",
+      "date": "Tue, 04 Aug 2026 17:29:55 +0200"
     },
     {
       "title": "Bundesstraße 101: Sperrung wegen Rissen in Brücke bleibt bestehen",
@@ -171,21 +186,6 @@
       "title": "Potsdam prüft Einrichtung einer neuen Babyklappe",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/neue-babyklappe-potsdam-schliessung-st-josefs-krankenhaus.html",
       "date": "Tue, 04 Aug 2026 11:27:00 +0200"
-    },
-    {
-      "title": "Lausitz: Behördennummer 115 nun auch für Senftenberg erreichbar",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-senftenberg-start-behoerdennummer-115-buergertelefon.html",
-      "date": "Tue, 04 Aug 2026 11:06:27 +0200"
-    },
-    {
-      "title": "88-jähriger Radfahrer stirbt nach Kollision mit Kleintransporter in Frankfurt (Oder)",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/unfall-fahrrad-radfahrer-gestorben-kollision-frankfurtoder-brandenburg-plizei.html",
-      "date": "Tue, 04 Aug 2026 10:26:43 +0200"
-    },
-    {
-      "title": "Warum es den Flüssen an Wasser fehlt - und was das bedeutet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/wassermangel-fluesse-grundwasser-brandenburg.html",
-      "date": "Mon, 03 Aug 2026 19:58:00 +0200"
     }
   ]
 }
