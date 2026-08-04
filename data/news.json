@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Wahlplakate in Berlin: Viele Verstöße beim Aufhängen registriert",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-abgeordnetenhauswahl-verstoesse-wahlplakate-wahlkampf.html",
+      "date": "Tue, 04 Aug 2026 19:47:00 +0200"
+    },
+    {
       "title": "An der Tanke in Brandenburg: \"Wölfe sehen wir gerne im Wald, Jäger nicht so gerne\"",
       "link": "https://www.rbb24.de/panorama/thema/an-der-tanke/brandenburg-an-der-tanke-paar-heavy-metal-woelfe.html",
       "date": "Tue, 04 Aug 2026 19:20:27 +0200"
@@ -8,7 +13,7 @@
     {
       "title": "Badestellen in der Region mehrheitlich zum Baden geeignet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-brandenburg-blaualgen-zerkarien-gewaesser-baden-schwimmen.html",
-      "date": "Tue, 04 Aug 2026 19:04:52 +0200"
+      "date": "Tue, 04 Aug 2026 19:04:00 +0200"
     },
     {
       "title": "CSD-Anschlag: Nach Sondersitzung im Bundestag bleiben offene Fragen",
@@ -54,11 +59,6 @@
       "title": "Zahl der Ausländer in Brandenburg verdreifacht - Stabilisator für Arbeitsmarkt",
       "link": "https://www.rbb24.de/politik/beitrag/2026/08/lagebericht-zuwanderung-integration-brandenburg-daten.html",
       "date": "Tue, 04 Aug 2026 14:30:14 +0200"
-    },
-    {
-      "title": "Klimawandel: Hitzeschutz in Barcelona",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/08/hitzeschutz-berlin-barcelona-klimawandel-klimakrise.html",
-      "date": "Tue, 04 Aug 2026 14:25:19 +0200"
     }
   ],
   "police": [
@@ -135,7 +135,7 @@
     {
       "title": "Badestellen in der Region mehrheitlich zum Baden geeignet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-brandenburg-blaualgen-zerkarien-gewaesser-baden-schwimmen.html",
-      "date": "Tue, 04 Aug 2026 19:04:52 +0200"
+      "date": "Tue, 04 Aug 2026 19:04:00 +0200"
     },
     {
       "title": "Afrikanische Schweinepest: Weiterer Fall in der Uckermark",
