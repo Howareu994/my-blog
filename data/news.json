@@ -1,6 +1,36 @@
 {
   "traffic": [
     {
+      "title": "Hitzeschutz: Wie Singapur dem Klimawandel begegnet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/hitzeschutz-singapur-berlin-klimawandel-klimakrise.html",
+      "date": "Wed, 05 Aug 2026 16:54:39 +0200"
+    },
+    {
+      "title": "Teamcheck Energie Cottbus: Gekommen, um zu bleiben",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-2-liga-teamcheck-fc-energie-cottbus-aufstieg-klassenerhalt-personal-transfers.html",
+      "date": "Wed, 05 Aug 2026 16:44:35 +0200"
+    },
+    {
+      "title": "Berliner Polizei schließt Hinweisportal zu CSD-Anschlag",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-csd-anschlag-polizei-schliesst-hinweisportal.html",
+      "date": "Wed, 05 Aug 2026 16:32:16 +0200"
+    },
+    {
+      "title": "Haftstrafen im Prozess um rechtsextreme \"Letzte Verteidigungswelle\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-altdoebern-grossraeschen-urteil-letzte-verteidigungswelle-oberlandesgericht-hamburg.html",
+      "date": "Wed, 05 Aug 2026 16:29:49 +0200"
+    },
+    {
+      "title": "Wasser aus dem Brunnen: Umweltschützer testen in Brandenburg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/wasser-proben-nitrat-garten-brunnen-test-wasserqualitaet-bernau-barnim-landwirtschaft-garten.html",
+      "date": "Wed, 05 Aug 2026 15:38:01 +0200"
+    },
+    {
+      "title": "Berlin erinnert mit Installation an Beginn des Mauerbaus vor 65 Jahren",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-65-jahre-mauerbau-installation-brandenburger-tor.html",
+      "date": "Wed, 05 Aug 2026 14:47:20 +0200"
+    },
+    {
       "title": "Reese-Nachfolger: Brekalo ist neuer Kapitän von Hertha BSC",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-zweite-bundesliga-hertha-bsc-kapitaen-josip-brekalo.html",
       "date": "Wed, 05 Aug 2026 14:41:31 +0200"
@@ -16,11 +46,6 @@
       "date": "Wed, 05 Aug 2026 13:52:00 +0200"
     },
     {
-      "title": "Haftstrafen im Prozess um rechtsextreme \"Letzte Verteidigungswelle\"",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-altdoebern-grossraeschen-urteil-letzte-verteidigungswelle-oberlandesgericht-hamburg.html",
-      "date": "Wed, 05 Aug 2026 13:44:13 +0200"
-    },
-    {
       "title": "1. FC Union: Stadionbesuch für Menschen mit Demenz",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-stadionfuehrung-demenz-union-berlin-malteser.html",
       "date": "Wed, 05 Aug 2026 13:06:00 +0200"
@@ -34,31 +59,6 @@
       "title": "Teamcheck Hertha: Aus der Not eine Jugend machen",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/berlin-fussball-hertha-bsc-teamcheck-analyse-leitl-liga-2-goerlich.html",
       "date": "Wed, 05 Aug 2026 12:04:22 +0200"
-    },
-    {
-      "title": "CSD-Anschlag: Bezirk pflanzt neuen Baum und stellt Bank auf",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-anschlag-csd-baumpflanzung-gedenkort.html",
-      "date": "Wed, 05 Aug 2026 11:39:33 +0200"
-    },
-    {
-      "title": "Bombentschärfung in Oranienburg: 4.700 Menschen im Sperrkreis betroffen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-oberhavel-oranienburg-bombe-entschaerfung-sperrkreis-bahnhof.html",
-      "date": "Wed, 05 Aug 2026 11:36:34 +0200"
-    },
-    {
-      "title": "Nach Tod von Jörg Rakete: Döbern sucht Bürgermeister per Ausschreibung",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/08/brandenburg-amt-doebern-buergermeister-ausschreibung-bewerbung-joerg-rakete.html",
-      "date": "Wed, 05 Aug 2026 10:53:00 +0200"
-    },
-    {
-      "title": "Wetter in Berlin und Brandenburg: Mittwoch brodeln nochmal Gewitter",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/wetter-berlin-brandenburg-hitze-gewitter.html",
-      "date": "Wed, 05 Aug 2026 10:47:00 +0200"
-    },
-    {
-      "title": "Afrikanische Schweinepest: Weiterer Fall in der Uckermark",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/asp-schweinepest-uckermark-weiterer-fund-brandenburg-wildschwein.html",
-      "date": "Wed, 05 Aug 2026 10:09:50 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,26 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Hitzeschutz: Wie Singapur dem Klimawandel begegnet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/hitzeschutz-singapur-berlin-klimawandel-klimakrise.html",
+      "date": "Wed, 05 Aug 2026 16:54:39 +0200"
+    },
+    {
+      "title": "Berliner Polizei schließt Hinweisportal zu CSD-Anschlag",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-csd-anschlag-polizei-schliesst-hinweisportal.html",
+      "date": "Wed, 05 Aug 2026 16:32:16 +0200"
+    },
+    {
+      "title": "Haftstrafen im Prozess um rechtsextreme \"Letzte Verteidigungswelle\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-altdoebern-grossraeschen-urteil-letzte-verteidigungswelle-oberlandesgericht-hamburg.html",
+      "date": "Wed, 05 Aug 2026 16:29:49 +0200"
+    },
+    {
+      "title": "Wasser aus dem Brunnen: Umweltschützer testen in Brandenburg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/wasser-proben-nitrat-garten-brunnen-test-wasserqualitaet-bernau-barnim-landwirtschaft-garten.html",
+      "date": "Wed, 05 Aug 2026 15:38:01 +0200"
+    },
+    {
       "title": "Berlin erinnert mit Installation an Beginn des Mauerbaus vor 65 Jahren",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-65-jahre-mauerbau-installation-brandenburger-tor.html",
       "date": "Wed, 05 Aug 2026 14:47:20 +0200"
@@ -141,11 +161,6 @@
       "title": "Private SRH University streicht Stellen und Studienplätze",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-srh-university-streicht-stellen-und-studienplaetze.html",
       "date": "Wed, 05 Aug 2026 13:52:00 +0200"
-    },
-    {
-      "title": "Haftstrafen im Prozess um rechtsextreme \"Letzte Verteidigungswelle\"",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-altdoebern-grossraeschen-urteil-letzte-verteidigungswelle-oberlandesgericht-hamburg.html",
-      "date": "Wed, 05 Aug 2026 13:44:13 +0200"
     },
     {
       "title": "CSD-Anschlag: Bezirk pflanzt neuen Baum und stellt Bank auf",
@@ -171,21 +186,6 @@
       "title": "Prozess nach Brandanschlag auf Berliner Kältebus startet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-kaeltbus-brandstiftung-prozess-beginn.html",
       "date": "Wed, 05 Aug 2026 08:22:17 +0200"
-    },
-    {
-      "title": "Vogelschlag in Berlin: Tod durch Glas",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/vogelschlag-berlin-glasscheiben-nabu-tote-voegel.html",
-      "date": "Wed, 05 Aug 2026 06:14:38 +0200"
-    },
-    {
-      "title": "An der Tanke in Brandenburg: \"Wölfe sehen wir gerne im Wald, Jäger nicht so gerne\"",
-      "link": "https://www.rbb24.de/panorama/thema/an-der-tanke/brandenburg-an-der-tanke-paar-heavy-metal-woelfe.html",
-      "date": "Tue, 04 Aug 2026 19:20:27 +0200"
-    },
-    {
-      "title": "Badestellen in der Region mehrheitlich zum Baden geeignet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-brandenburg-blaualgen-zerkarien-gewaesser-baden-schwimmen.html",
-      "date": "Tue, 04 Aug 2026 19:04:00 +0200"
     }
   ]
 }
