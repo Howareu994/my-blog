@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Frauen-Radsport in Berlin: \"Sichtbarkeit erzeugt Nachfrage\"",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/radsport-frauen-berlin-brandenburg-tour-de-france-femmes-wheel-divas-romy-kasper.html",
+      "date": "Wed, 05 Aug 2026 08:35:17 +0200"
+    },
+    {
+      "title": "Prozess nach Brandanschlag auf Berliner Kältebus startet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-kaeltbus-brandstiftung-prozess-beginn.html",
+      "date": "Wed, 05 Aug 2026 08:22:17 +0200"
+    },
+    {
+      "title": "Wetter in Berlin und Brandenburg: Mittwoch wird schwül-heiß",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/wetter-berlin-brandenburg-hitze-gewitter.html",
+      "date": "Wed, 05 Aug 2026 07:21:07 +0200"
+    },
+    {
       "title": "Vogelschlag in Berlin: Tod durch Glas",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/vogelschlag-berlin-glasscheiben-nabu-tote-voegel.html",
       "date": "Wed, 05 Aug 2026 06:14:38 +0200"
@@ -9,11 +24,6 @@
       "title": "Regionalliga Nordost: Altglienicke schockt Babelsberg",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-regionalliga-nordost-hertha-bsc-u23-greifswald-babelsberg-altglienicke-jena-rsv-eintracht-stahnsdorf-magdeburg-ii-luckenwalde-spielberichte-ergebnisse.html",
       "date": "Tue, 04 Aug 2026 21:36:43 +0200"
-    },
-    {
-      "title": "Wetter in Berlin und Brandenburg: Mittwoch wird schwül-heiß",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/wetter-berlin-brandenburg-hitze-gewitter.html",
-      "date": "Tue, 04 Aug 2026 21:22:33 +0200"
     },
     {
       "title": "Wahlplakate in Berlin: Viele Verstöße beim Aufhängen registriert",
@@ -49,16 +59,6 @@
       "title": "Bundesstraße 101: Sperrung wegen Rissen in Brücke bleibt bestehen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/07/b101-gesperrt-thyrow-teltow-flaeming-risse-bruecke-umleitung.html",
       "date": "Tue, 04 Aug 2026 16:05:24 +0200"
-    },
-    {
-      "title": "Schöffin befangen: Sterbehilfe-Prozess gegen 77 Jahre alten Arzt vertagt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/prozess-potsdam-sterbehilfe-anklage-arzt.html",
-      "date": "Tue, 04 Aug 2026 15:41:09 +0200"
-    },
-    {
-      "title": "Betrunkener soll Ausstellung in Cottbus beschädigt haben",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-cottbus-beschaedigung-ausstellung-bahnhof-ns-geschichte.html",
-      "date": "Tue, 04 Aug 2026 15:24:31 +0200"
     }
   ],
   "police": [
@@ -128,14 +128,19 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Vogelschlag in Berlin: Tod durch Glas",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/vogelschlag-berlin-glasscheiben-nabu-tote-voegel.html",
-      "date": "Wed, 05 Aug 2026 06:14:38 +0200"
+      "title": "Prozess nach Brandanschlag auf Berliner Kältebus startet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-kaeltbus-brandstiftung-prozess-beginn.html",
+      "date": "Wed, 05 Aug 2026 08:22:17 +0200"
     },
     {
       "title": "Wetter in Berlin und Brandenburg: Mittwoch wird schwül-heiß",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/wetter-berlin-brandenburg-hitze-gewitter.html",
-      "date": "Tue, 04 Aug 2026 21:22:33 +0200"
+      "date": "Wed, 05 Aug 2026 07:21:07 +0200"
+    },
+    {
+      "title": "Vogelschlag in Berlin: Tod durch Glas",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/vogelschlag-berlin-glasscheiben-nabu-tote-voegel.html",
+      "date": "Wed, 05 Aug 2026 06:14:38 +0200"
     },
     {
       "title": "An der Tanke in Brandenburg: \"Wölfe sehen wir gerne im Wald, Jäger nicht so gerne\"",
@@ -181,11 +186,6 @@
       "title": "Polizei ermittelt nach Waldbrand in Jüterbog wegen Brandstiftung",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/waldbrand-feuer-polizei-jueterbog-ermittlungen-verdacht-brandstiftung.html",
       "date": "Tue, 04 Aug 2026 12:32:00 +0200"
-    },
-    {
-      "title": "A13-Anschlussstelle Duben Richtung Dresden in mehreren Nächten gesperrt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-duben-a13-sperrung-autobahn-auffahrt-abfahrt-richtung-dresden.html",
-      "date": "Tue, 04 Aug 2026 12:24:07 +0200"
     }
   ]
 }
