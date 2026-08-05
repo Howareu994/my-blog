@@ -1,6 +1,36 @@
 {
   "traffic": [
     {
+      "title": "Reese-Nachfolger: Brekalo ist neuer Kapitän von Hertha BSC",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-zweite-bundesliga-hertha-bsc-kapitaen-josip-brekalo.html",
+      "date": "Wed, 05 Aug 2026 14:41:31 +0200"
+    },
+    {
+      "title": "Berlin-Schöneberg: Protest für mehr Frauenhäuser",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-frauenhaus-demonstration-gewalt-frauen.html",
+      "date": "Wed, 05 Aug 2026 14:15:16 +0200"
+    },
+    {
+      "title": "Private SRH University streicht Stellen und Studienplätze",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-srh-university-streicht-stellen-und-studienplaetze.html",
+      "date": "Wed, 05 Aug 2026 13:52:00 +0200"
+    },
+    {
+      "title": "Haftstrafen im Prozess um rechtsextreme \"Letzte Verteidigungswelle\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-altdoebern-grossraeschen-urteil-letzte-verteidigungswelle-oberlandesgericht-hamburg.html",
+      "date": "Wed, 05 Aug 2026 13:44:13 +0200"
+    },
+    {
+      "title": "1. FC Union: Stadionbesuch für Menschen mit Demenz",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-stadionfuehrung-demenz-union-berlin-malteser.html",
+      "date": "Wed, 05 Aug 2026 13:06:00 +0200"
+    },
+    {
+      "title": "Eisbären Berlin holen Nachwuchs-Nationalspieler Tobias Krestan",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/eishockey-del-eisbaeren-berlin-nezugang-tobias-krestan-la-kings-nhl.html",
+      "date": "Wed, 05 Aug 2026 12:42:06 +0200"
+    },
+    {
       "title": "Teamcheck Hertha: Aus der Not eine Jugend machen",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/berlin-fussball-hertha-bsc-teamcheck-analyse-leitl-liga-2-goerlich.html",
       "date": "Wed, 05 Aug 2026 12:04:22 +0200"
@@ -18,7 +48,7 @@
     {
       "title": "Nach Tod von Jörg Rakete: Döbern sucht Bürgermeister per Ausschreibung",
       "link": "https://www.rbb24.de/politik/beitrag/2026/08/brandenburg-amt-doebern-buergermeister-ausschreibung-bewerbung-joerg-rakete.html",
-      "date": "Wed, 05 Aug 2026 10:53:41 +0200"
+      "date": "Wed, 05 Aug 2026 10:53:00 +0200"
     },
     {
       "title": "Wetter in Berlin und Brandenburg: Mittwoch brodeln nochmal Gewitter",
@@ -29,36 +59,6 @@
       "title": "Afrikanische Schweinepest: Weiterer Fall in der Uckermark",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/asp-schweinepest-uckermark-weiterer-fund-brandenburg-wildschwein.html",
       "date": "Wed, 05 Aug 2026 10:09:50 +0200"
-    },
-    {
-      "title": "Lara Hulo protestiert stimmgewaltig gegen Beziehungsgewalt",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/08/lara-hulo-konzert-berlin-treptow-kritik.html",
-      "date": "Wed, 05 Aug 2026 10:02:59 +0200"
-    },
-    {
-      "title": "Frauen-Radsport in Berlin: \"Sichtbarkeit erzeugt Nachfrage\"",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/radsport-frauen-berlin-brandenburg-tour-de-france-femmes-wheel-divas-romy-kasper.html",
-      "date": "Wed, 05 Aug 2026 08:35:00 +0200"
-    },
-    {
-      "title": "Prozess nach Brandanschlag auf Berliner Kältebus startet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-kaeltbus-brandstiftung-prozess-beginn.html",
-      "date": "Wed, 05 Aug 2026 08:22:17 +0200"
-    },
-    {
-      "title": "Wahlprogramme zum Thema Sicherheit: Das planen die Berliner Parteien",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/wahlprogramme/sicherheit-polizei-ueberwachung-kriminalitaet-check.html",
-      "date": "Wed, 05 Aug 2026 07:50:00 +0200"
-    },
-    {
-      "title": "Vogelschlag in Berlin: Tod durch Glas",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/vogelschlag-berlin-glasscheiben-nabu-tote-voegel.html",
-      "date": "Wed, 05 Aug 2026 06:14:38 +0200"
-    },
-    {
-      "title": "Regionalliga Nordost: Altglienicke schockt Babelsberg",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-regionalliga-nordost-hertha-bsc-u23-greifswald-babelsberg-altglienicke-jena-rsv-eintracht-stahnsdorf-magdeburg-ii-luckenwalde-spielberichte-ergebnisse.html",
-      "date": "Tue, 04 Aug 2026 21:36:43 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,26 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Berlin erinnert mit Installation an Beginn des Mauerbaus vor 65 Jahren",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-65-jahre-mauerbau-installation-brandenburger-tor.html",
+      "date": "Wed, 05 Aug 2026 14:47:20 +0200"
+    },
+    {
+      "title": "Berlin-Schöneberg: Protest für mehr Frauenhäuser",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-frauenhaus-demonstration-gewalt-frauen.html",
+      "date": "Wed, 05 Aug 2026 14:15:16 +0200"
+    },
+    {
+      "title": "Private SRH University streicht Stellen und Studienplätze",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-srh-university-streicht-stellen-und-studienplaetze.html",
+      "date": "Wed, 05 Aug 2026 13:52:00 +0200"
+    },
+    {
+      "title": "Haftstrafen im Prozess um rechtsextreme \"Letzte Verteidigungswelle\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-altdoebern-grossraeschen-urteil-letzte-verteidigungswelle-oberlandesgericht-hamburg.html",
+      "date": "Wed, 05 Aug 2026 13:44:13 +0200"
+    },
+    {
       "title": "CSD-Anschlag: Bezirk pflanzt neuen Baum und stellt Bank auf",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-anschlag-csd-baumpflanzung-gedenkort.html",
       "date": "Wed, 05 Aug 2026 11:39:33 +0200"
@@ -166,26 +186,6 @@
       "title": "Badestellen in der Region mehrheitlich zum Baden geeignet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-brandenburg-blaualgen-zerkarien-gewaesser-baden-schwimmen.html",
       "date": "Tue, 04 Aug 2026 19:04:00 +0200"
-    },
-    {
-      "title": "Berlin-Pankow: Auto und Straßenbahn stoßen frontal zusammen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/unfall-strassenbahn-auto-berlin-pankow-verletzte.html",
-      "date": "Tue, 04 Aug 2026 17:29:55 +0200"
-    },
-    {
-      "title": "Bundesstraße 101: Sperrung wegen Rissen in Brücke bleibt bestehen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/b101-gesperrt-thyrow-teltow-flaeming-risse-bruecke-umleitung.html",
-      "date": "Tue, 04 Aug 2026 16:05:24 +0200"
-    },
-    {
-      "title": "Schöffin befangen: Sterbehilfe-Prozess gegen 77 Jahre alten Arzt vertagt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/prozess-potsdam-sterbehilfe-anklage-arzt.html",
-      "date": "Tue, 04 Aug 2026 15:41:09 +0200"
-    },
-    {
-      "title": "Betrunkener soll Ausstellung in Cottbus beschädigt haben",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-cottbus-beschaedigung-ausstellung-bahnhof-ns-geschichte.html",
-      "date": "Tue, 04 Aug 2026 15:24:31 +0200"
     }
   ]
 }
