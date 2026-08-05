@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Handball: Härtetest der Füchse gegen Aalborg endet unentschieden",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/handball-bundesliga-hbl-testspiel-fuechse-berlin-aalborg.html",
+      "date": "Wed, 05 Aug 2026 22:44:00 +0200"
+    },
+    {
+      "title": "Schwimm-EM in Paris: Pauline Pfeif gewinnt dritte Silbermedaille",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/wasserspringen-em-paris-pauline-pfeif-ole-roesler-moritz-wesemann.html",
+      "date": "Wed, 05 Aug 2026 22:41:34 +0200"
+    },
+    {
+      "title": "Fußball-Regionalliga Nordost: Preussen und Tasmania früh im Tabellenkeller",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-regionalliga-nordost-bfc-preussen-lok-leipzig-erfurt-tasmania-berlin.html",
+      "date": "Wed, 05 Aug 2026 21:25:06 +0200"
+    },
+    {
       "title": "Nach Vorfall am Flughafen Leipzig/Halle: Innenminister Redmann sieht \"ganz neue Eskalation\"",
       "link": "https://www.rbb24.de/politik/beitrag/2026/08/brandenburg-drohnenabwehr-polizeigesetz-redmann.html",
       "date": "Wed, 05 Aug 2026 21:04:38 +0200"
@@ -44,24 +59,70 @@
       "title": "Teamcheck Energie Cottbus: Gekommen, um zu bleiben",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-2-liga-teamcheck-fc-energie-cottbus-aufstieg-klassenerhalt-personal-transfers.html",
       "date": "Wed, 05 Aug 2026 16:44:35 +0200"
-    },
-    {
-      "title": "Berliner Polizei schließt Hinweisportal zu CSD-Anschlag",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-csd-anschlag-polizei-schliesst-hinweisportal.html",
-      "date": "Wed, 05 Aug 2026 16:32:16 +0200"
-    },
-    {
-      "title": "Berlin erinnert mit Installation an Beginn des Mauerbaus vor 65 Jahren",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-65-jahre-mauerbau-installation-brandenburger-tor.html",
-      "date": "Wed, 05 Aug 2026 14:47:20 +0200"
-    },
-    {
-      "title": "Reese-Nachfolger: Brekalo ist neuer Kapitän von Hertha BSC",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-zweite-bundesliga-hertha-bsc-kapitaen-josip-brekalo.html",
-      "date": "Wed, 05 Aug 2026 14:41:31 +0200"
     }
   ],
-  "police": [],
+  "police": [
+    {
+      "title": "Festnahme nach mutmaßlichem Drogenhandel",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699865.php",
+      "date": "Tue, 04 Aug 2026 15:01:18 +0200"
+    },
+    {
+      "title": "Verbleib von gesuchter 16-Jähriger geklärt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695113.php",
+      "date": "Tue, 04 Aug 2026 12:03:00 +0200"
+    },
+    {
+      "title": "Motorradfahrer bei Unfall verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699427.php",
+      "date": "Mon, 03 Aug 2026 10:48:18 +0200"
+    },
+    {
+      "title": "Störung beim Anbringen von Wahlplakaten",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1699336.php",
+      "date": "Sun, 02 Aug 2026 17:59:45 +0200"
+    },
+    {
+      "title": "Fahrradfahrer umgefahren und geflüchtet",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1699335.php",
+      "date": "Sun, 02 Aug 2026 14:08:54 +0200"
+    },
+    {
+      "title": "Mehrere Verletzte nach Auseinandersetzung",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1699334.php",
+      "date": "Sun, 02 Aug 2026 13:46:25 +0200"
+    },
+    {
+      "title": "Verkehrsunfall mit mehreren Verletzten",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1699333.php",
+      "date": "Sun, 02 Aug 2026 13:29:21 +0200"
+    },
+    {
+      "title": "Gefährliche Körperverletzung mit Messer",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699326.php",
+      "date": "Sat, 01 Aug 2026 14:24:57 +0200"
+    },
+    {
+      "title": "Schüsse auf Wohnhaus",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699318.php",
+      "date": "Sat, 01 Aug 2026 11:44:03 +0200"
+    },
+    {
+      "title": "Bedrohung mit Messer – DEIG-Einsatz",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699292.php",
+      "date": "Fri, 31 Jul 2026 15:44:54 +0200"
+    },
+    {
+      "title": "Festnahme von mutmaßlichen Fahrraddieben - Mehrere verletzte Polizeikräfte",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699272.php",
+      "date": "Fri, 31 Jul 2026 15:10:09 +0200"
+    },
+    {
+      "title": "Fahrzeuge durch Brand beschädigt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699168.php",
+      "date": "Fri, 31 Jul 2026 13:06:18 +0200"
+    }
+  ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
