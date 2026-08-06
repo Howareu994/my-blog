@@ -1,9 +1,24 @@
 {
   "traffic": [
     {
-      "title": "\"Dass Kinder lernen müssen, wie man schwere Blutungen stoppt, finde ich persönlich einen Albtraum\"",
+      "title": "Wahlen: Berlin druckt mehr als 7,7 Millionen Stimmzettel",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/7-millionen-stimmzettel-druck-wahl-abgeordnetenhaus-bezirksverordnetenversammlung.html",
+      "date": "Thu, 06 Aug 2026 08:33:26 +0200"
+    },
+    {
+      "title": "Zivildienst-Pläne des Bundes: Skepsis bei Verbänden",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/08/bundesregierung-wehrpflicht-zivildienst-traeger-skepsis-kritik.html",
+      "date": "Thu, 06 Aug 2026 07:58:26 +0200"
+    },
+    {
+      "title": "Krieg gegen die Ukraine: Interview zu Erste-Hilfe-Kurse für Kinder",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/ukraine-drohnen-angriffe-kinder-erste-hilfe.html",
-      "date": "Thu, 06 Aug 2026 06:19:35 +0200"
+      "date": "Thu, 06 Aug 2026 07:35:03 +0200"
+    },
+    {
+      "title": "Wahlprogramme zum Thema Bildung: Das planen die Berliner Parteien",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/wahlprogramme/bildung-schulen-lernen-check.html",
+      "date": "Thu, 06 Aug 2026 06:16:00 +0200"
     },
     {
       "title": "Handball: Härtetest der Füchse gegen Aalborg endet unentschieden",
@@ -38,27 +53,12 @@
     {
       "title": "RE1-Linie: Bauarbeiten verzögern sich",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-fangschleuse-bauarbeiten-bahn-re1-frankfurt-oder.html",
-      "date": "Wed, 05 Aug 2026 18:38:39 +0200"
+      "date": "Wed, 05 Aug 2026 18:38:00 +0200"
     },
     {
-      "title": "Basketball: Deeshya Thomas verlängert Vertrag bei Alba Berlin",
+      "title": "Basketball: Deeshyra Thomas verlängert Vertrag bei Alba Berlin",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/damen-basketball-bundesliga-alba-berlin-deeshyra-thomas-vertrag.html",
-      "date": "Wed, 05 Aug 2026 18:14:08 +0200"
-    },
-    {
-      "title": "Angeklagter gesteht in Prozess um Brandanschlag auf Berliner Kältebus",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-kaeltbus-brandstiftung-prozess-beginn.html",
-      "date": "Wed, 05 Aug 2026 17:46:22 +0200"
-    },
-    {
-      "title": "Hitzeschutz: Wie Singapur dem Klimawandel begegnet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/hitzeschutz-singapur-berlin-klimawandel-klimakrise.html",
-      "date": "Wed, 05 Aug 2026 17:21:29 +0200"
-    },
-    {
-      "title": "Haftstrafen im Prozess um rechtsextreme \"Letzte Verteidigungswelle\"",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-altdoebern-grossraeschen-urteil-letzte-verteidigungswelle-oberlandesgericht-hamburg.html",
-      "date": "Wed, 05 Aug 2026 17:20:42 +0200"
+      "date": "Wed, 05 Aug 2026 18:14:00 +0200"
     }
   ],
   "police": [
@@ -128,9 +128,9 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "\"Dass Kinder lernen müssen, wie man schwere Blutungen stoppt, finde ich persönlich einen Albtraum\"",
+      "title": "Krieg gegen die Ukraine: Interview zu Erste-Hilfe-Kurse für Kinder",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/ukraine-drohnen-angriffe-kinder-erste-hilfe.html",
-      "date": "Thu, 06 Aug 2026 06:19:35 +0200"
+      "date": "Thu, 06 Aug 2026 07:35:03 +0200"
     },
     {
       "title": "Kein S-Bahnverkehr zwischen Tiergarten und Charlottenburg ab 20 Uhr",
@@ -140,7 +140,7 @@
     {
       "title": "RE1-Linie: Bauarbeiten verzögern sich",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-fangschleuse-bauarbeiten-bahn-re1-frankfurt-oder.html",
-      "date": "Wed, 05 Aug 2026 18:38:39 +0200"
+      "date": "Wed, 05 Aug 2026 18:38:00 +0200"
     },
     {
       "title": "Wetter in Berlin und Brandenburg: Neue Gewitter erwartet",
@@ -155,7 +155,7 @@
     {
       "title": "Hitzeschutz: Wie Singapur dem Klimawandel begegnet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/hitzeschutz-singapur-berlin-klimawandel-klimakrise.html",
-      "date": "Wed, 05 Aug 2026 17:21:29 +0200"
+      "date": "Wed, 05 Aug 2026 17:21:00 +0200"
     },
     {
       "title": "Haftstrafen im Prozess um rechtsextreme \"Letzte Verteidigungswelle\"",
