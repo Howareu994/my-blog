@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Angeklagter gesteht Serie von Vergewaltigungen in Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-prozess-68-jaehriger-frauen-vergewaltigt-gefilmt-schlafmittel-alkohol.html",
+      "date": "Thu, 06 Aug 2026 11:53:26 +0200"
+    },
+    {
+      "title": "Neunjähriges Mädchen in Freibad Vetschau reanimiert",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-vetschau-rettungskraefte-reanimation-achtjaehriges-maedchen-freibad.html",
+      "date": "Thu, 06 Aug 2026 11:36:12 +0200"
+    },
+    {
+      "title": "DLRG: Mehr Badetote in Berlin, Zahl in Brandenburg halbiert",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/badetote-bilanz-dlrg-berlin-brandenburg-ertrunken.html",
+      "date": "Thu, 06 Aug 2026 11:01:03 +0200"
+    },
+    {
       "title": "Wahlen: Berlin druckt mehr als 7,7 Millionen Stimmzettel",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/7-millionen-stimmzettel-druck-wahl-abgeordnetenhaus-bezirksverordnetenversammlung.html",
       "date": "Thu, 06 Aug 2026 08:33:26 +0200"
@@ -44,24 +59,19 @@
       "title": "2. Bundesliga: Das ist Herthas Kapitän und Hoffnungsträger Brekalo",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-2-bundesliga-auftakt-bochum-hertha-bsc-kapitaen-josip-brekalo.html",
       "date": "Wed, 05 Aug 2026 19:28:39 +0200"
-    },
-    {
-      "title": "Kein S-Bahnverkehr zwischen Tiergarten und Charlottenburg ab 20 Uhr",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/baumassnahmen-stadtbahn-einschraenkungen-mittwochtiergarten.html",
-      "date": "Wed, 05 Aug 2026 19:04:12 +0200"
-    },
-    {
-      "title": "RE1-Linie: Bauarbeiten verzögern sich",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-fangschleuse-bauarbeiten-bahn-re1-frankfurt-oder.html",
-      "date": "Wed, 05 Aug 2026 18:38:00 +0200"
-    },
-    {
-      "title": "Basketball: Deeshyra Thomas verlängert Vertrag bei Alba Berlin",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/damen-basketball-bundesliga-alba-berlin-deeshyra-thomas-vertrag.html",
-      "date": "Wed, 05 Aug 2026 18:14:00 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Mann durch Messerstiche verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700263.php",
+      "date": "Thu, 06 Aug 2026 11:19:02 +0200"
+    },
+    {
+      "title": "Zahlungsstreit endet mit Messerangriff",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700187.php",
+      "date": "Thu, 06 Aug 2026 09:48:09 +0200"
+    },
     {
       "title": "Festnahme nach mutmaßlichem Drogenhandel",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699865.php",
@@ -111,22 +121,27 @@
       "title": "Bedrohung mit Messer – DEIG-Einsatz",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699292.php",
       "date": "Fri, 31 Jul 2026 15:44:54 +0200"
-    },
-    {
-      "title": "Festnahme von mutmaßlichen Fahrraddieben - Mehrere verletzte Polizeikräfte",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699272.php",
-      "date": "Fri, 31 Jul 2026 15:10:09 +0200"
-    },
-    {
-      "title": "Fahrzeuge durch Brand beschädigt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699168.php",
-      "date": "Fri, 31 Jul 2026 13:06:18 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Angeklagter gesteht Serie von Vergewaltigungen in Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-prozess-68-jaehriger-frauen-vergewaltigt-gefilmt-schlafmittel-alkohol.html",
+      "date": "Thu, 06 Aug 2026 11:53:26 +0200"
+    },
+    {
+      "title": "Neunjähriges Mädchen in Freibad Vetschau reanimiert",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-vetschau-rettungskraefte-reanimation-achtjaehriges-maedchen-freibad.html",
+      "date": "Thu, 06 Aug 2026 11:36:12 +0200"
+    },
+    {
+      "title": "DLRG: Mehr Badetote in Berlin, Zahl in Brandenburg halbiert",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/badetote-bilanz-dlrg-berlin-brandenburg-ertrunken.html",
+      "date": "Thu, 06 Aug 2026 11:01:03 +0200"
+    },
     {
       "title": "Krieg gegen die Ukraine: Interview zu Erste-Hilfe-Kurse für Kinder",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/ukraine-drohnen-angriffe-kinder-erste-hilfe.html",
@@ -171,21 +186,6 @@
       "title": "Wasser aus dem Brunnen: Umweltschützer testen in Brandenburg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/wasser-proben-nitrat-garten-brunnen-test-wasserqualitaet-bernau-barnim-landwirtschaft-garten.html",
       "date": "Wed, 05 Aug 2026 15:38:01 +0200"
-    },
-    {
-      "title": "Berlin erinnert mit Installation an Beginn des Mauerbaus vor 65 Jahren",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-65-jahre-mauerbau-installation-brandenburger-tor.html",
-      "date": "Wed, 05 Aug 2026 14:47:20 +0200"
-    },
-    {
-      "title": "Berlin-Schöneberg: Protest für mehr Frauenhäuser",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-frauenhaus-demonstration-gewalt-frauen.html",
-      "date": "Wed, 05 Aug 2026 14:15:16 +0200"
-    },
-    {
-      "title": "Private SRH University streicht Stellen und Studienplätze",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-srh-university-streicht-stellen-und-studienplaetze.html",
-      "date": "Wed, 05 Aug 2026 13:52:00 +0200"
     }
   ]
 }
