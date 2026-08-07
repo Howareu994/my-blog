@@ -1,6 +1,36 @@
 {
   "traffic": [
     {
+      "title": "Brandenburgs Innenministerium arbeitet an neuem Sicherheitspaket",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/08/innenministerium-brandenburg-sicherheitspaket-sicherheitsgesetze-drohnenabwehr-polizei.html",
+      "date": "Fri, 07 Aug 2026 10:03:58 +0200"
+    },
+    {
+      "title": "Endgültiges Aus für letzten europäischen Solarglasproduzenten GMB in Tschernitz",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/08/brandenburg-tschernitz-gmb-glasmanufaktur-endgueltig-ende-insolvenzverwalter.html",
+      "date": "Fri, 07 Aug 2026 09:40:52 +0200"
+    },
+    {
+      "title": "900.000 Euro an Hotelkosten nach großem Stromausfall in Berlin erstattet",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/08/hotelkosten-stromausfall-berlin-januar-erstattet-900000-euro.html",
+      "date": "Fri, 07 Aug 2026 09:08:00 +0200"
+    },
+    {
+      "title": "Sämtliche Trams der BVG sollen bis 2032 mit Klimaanlagen ausgestattet sein",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-bvg-tram-klimaanlage-bis-2032-neue-fahrzeuge.html",
+      "date": "Fri, 07 Aug 2026 08:59:52 +0200"
+    },
+    {
+      "title": "Tausende Fahrzeuge in Brandenburg wieder mit alten Kfz-Kennzeichen unterwegs",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-kfz-kennzeichen-nummernschild-heimat.html",
+      "date": "Fri, 07 Aug 2026 08:11:56 +0200"
+    },
+    {
+      "title": "Queeres Parkfest in Berlin: Sicherheitsvorkehrungen verstärkt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/queerer-parkfest-friedrichshain-berlin-sicherheitsvorkehrungen-f.html",
+      "date": "Fri, 07 Aug 2026 06:17:00 +0200"
+    },
+    {
       "title": "Berliner Wahlkämpfer verheddern sich in roten Linien",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-abgeordnetenhaus-wahlkampf-koalitionen-bedingungen-spd-linke-gruene-cdu.html",
       "date": "Fri, 07 Aug 2026 06:13:38 +0200"
@@ -29,36 +59,6 @@
       "title": "Erneut Wildkatze in Brandenburg nachgewiesen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-wildkatze-nachgewiesen-naturpark-dahme-heideseen.html",
       "date": "Thu, 06 Aug 2026 20:35:54 +0200"
-    },
-    {
-      "title": "Brand auf Getreidefeld nahe Flughafen BER",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-brandenburg-flughafen-ber-brand-feld-feuerwehr.html",
-      "date": "Thu, 06 Aug 2026 20:32:44 +0200"
-    },
-    {
-      "title": "Warum Brandenburg die \"Rente mit 63\" retten will",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/08/rente-63-brandenburg-debatte-abschaffung.html",
-      "date": "Thu, 06 Aug 2026 20:29:33 +0200"
-    },
-    {
-      "title": "Union Berlin im Trainingslager: Schwitzen, Singen, Steiermark",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-bundesliga-union-berlin-trainingslager-oesterreich-steiermark.html",
-      "date": "Thu, 06 Aug 2026 18:35:59 +0200"
-    },
-    {
-      "title": "Prozess zu mutmaßlichen Vergewaltigungen lässt in Abgrund blicken",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/landgericht-berlin-prozess-vergewaltigung-sedierung-gefilmt.html",
-      "date": "Thu, 06 Aug 2026 18:26:00 +0200"
-    },
-    {
-      "title": "Am Späti in Lichtenberg: \"Es wird nur für die Wirtschaft was hochgezogen\"",
-      "link": "https://www.rbb24.de/panorama/thema/spaeti/berlin-lichtenberg-am-spaeti-clubkultur.html",
-      "date": "Thu, 06 Aug 2026 17:18:47 +0200"
-    },
-    {
-      "title": "Geschäftsführer des Elbe-Elster-Klinikums von Aufgaben entbunden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-elbe-elster-klinikum-geschaeftsfuehrer-winkler.html",
-      "date": "Thu, 06 Aug 2026 17:09:46 +0200"
     }
   ],
   "police": [
@@ -128,9 +128,19 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Sämtliche Trams der BVG sollen bis 2032 mit Klimaanlagen ausgestattet sein",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-bvg-tram-klimaanlage-bis-2032-neue-fahrzeuge.html",
+      "date": "Fri, 07 Aug 2026 08:59:52 +0200"
+    },
+    {
+      "title": "Tausende Fahrzeuge in Brandenburg wieder mit alten Kfz-Kennzeichen unterwegs",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-kfz-kennzeichen-nummernschild-heimat.html",
+      "date": "Fri, 07 Aug 2026 08:11:56 +0200"
+    },
+    {
       "title": "Queeres Parkfest in Berlin: Sicherheitsvorkehrungen verstärkt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/queerer-parkfest-friedrichshain-berlin-sicherheitsvorkehrungen-f.html",
-      "date": "Fri, 07 Aug 2026 06:17:55 +0200"
+      "date": "Fri, 07 Aug 2026 06:17:00 +0200"
     },
     {
       "title": "Erneut Wildkatze in Brandenburg nachgewiesen",
@@ -155,7 +165,7 @@
     {
       "title": "Geschäftsführer des Elbe-Elster-Klinikums von Aufgaben entbunden",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-elbe-elster-klinikum-geschaeftsfuehrer-winkler.html",
-      "date": "Thu, 06 Aug 2026 17:09:46 +0200"
+      "date": "Thu, 06 Aug 2026 17:09:00 +0200"
     },
     {
       "title": "DLRG: Mehr Badetote in Berlin, Zahl in Brandenburg halbiert",
@@ -176,16 +186,6 @@
       "title": "Angeklagter gesteht Serie von Vergewaltigungen in Berlin",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-prozess-68-jaehriger-frauen-vergewaltigt-gefilmt-schlafmittel-alkohol.html",
       "date": "Thu, 06 Aug 2026 16:14:40 +0200"
-    },
-    {
-      "title": "CSD-Anschlag: Neuer Baum und Bank erinnern an Opfer",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-anschlag-csd-baumpflanzung-gedenkort.html",
-      "date": "Thu, 06 Aug 2026 13:38:19 +0200"
-    },
-    {
-      "title": "Drohnen könnten für mehr Bade-Sicherheit an Lausitzer Seen sorgen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-btu-cottbus-senftenberg-drohnen-sicherheit-lausitzer-seen-rettung.html",
-      "date": "Thu, 06 Aug 2026 13:20:47 +0200"
     }
   ]
 }
