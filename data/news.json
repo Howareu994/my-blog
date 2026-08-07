@@ -1,14 +1,19 @@
 {
   "traffic": [
     {
+      "title": "Zweite Liga: Grönning beschert Hertha Traumstart in Bochum",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-zweite-bundesliga-vfl-bochum-hertha-bsc-audiostream-liveticker-spielbericht.html",
+      "date": "Fri, 07 Aug 2026 22:27:16 +0200"
+    },
+    {
+      "title": "Eine Person bei Schüssen in Kreuzberger Graefestraße verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-kreuzberg-schuesse-graefestrasse-polizeieinsatz.html",
+      "date": "Fri, 07 Aug 2026 22:11:18 +0200"
+    },
+    {
       "title": "Keine Infos zum Netzwerk des Abdul B.: Das Schweigen des BND",
       "link": "https://www.rbb24.de/politik/beitrag/2026/08/berlin-csd-anschlag-bundesnachrichtendienst-abdul-b.html",
       "date": "Fri, 07 Aug 2026 21:09:00 +0200"
-    },
-    {
-      "title": "Jetzt live hören und im Ticker: Herthas Saisonstart in Bochum",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-zweite-bundesliga-vfl-bochum-hertha-bsc-audiostream-liveticker-spielbericht.html",
-      "date": "Fri, 07 Aug 2026 20:26:15 +0200"
     },
     {
       "title": "Brandenburgischer Kunstpreis wird nur noch alle zwei Jahre verliehen",
@@ -54,11 +59,6 @@
       "title": "Landkreis Oberspreewald-Lausitz verfügt über Sirenen mit Sprachdurchsagen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/oberspreewald-lausitz-sirenen-warntag-probealarme.html",
       "date": "Fri, 07 Aug 2026 18:00:45 +0200"
-    },
-    {
-      "title": "Elbenwald-Festival: Cottbus wird Treffpunkt für Film-, Fantasy- und Gamefans",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-cottbus-elbenwald-festival-start-kostendruck.html",
-      "date": "Fri, 07 Aug 2026 17:51:01 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Eine Person bei Schüssen in Kreuzberger Graefestraße verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-kreuzberg-schuesse-graefestrasse-polizeieinsatz.html",
+      "date": "Fri, 07 Aug 2026 22:11:18 +0200"
+    },
+    {
       "title": "Gottesanbeterin breitet sich in Berlin aus",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-insekt-gottesanbeterin-breitet-sich-aus.html",
       "date": "Fri, 07 Aug 2026 20:03:03 +0200"
@@ -181,11 +186,6 @@
       "title": "Teure Spezialwerkzeuge aus Gerätehaus der Nauener Feuerwehr geklaut",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/spezialwerkzeug-feuerwehr-geklaut-nauen-boernicke-brandenburg-havelland.html",
       "date": "Fri, 07 Aug 2026 12:21:24 +0200"
-    },
-    {
-      "title": "65-Jähriger wegen sexuellen Missbrauchs von Jugendlichen vor Gericht",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/prozess-landgericht-frankfurt-oder-sexueller-missbruach.html",
-      "date": "Fri, 07 Aug 2026 11:23:28 +0200"
     }
   ]
 }
