@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Nach NBA-Draft: Alba Berlin holt Starspieler Jack Kayil zurück",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/alba-berlin-basketball-bbl-rueckkehr-jack-kayil-nba-serbien.html",
+      "date": "Fri, 07 Aug 2026 14:12:13 +0200"
+    },
+    {
+      "title": "Brandenburgischer Kunstpreis wird nur noch alle zwei Jahre verliehen",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/08/brandenburgischer-kunstpreis-preistraeger-aenderungen-zweijaehri.html",
+      "date": "Fri, 07 Aug 2026 13:46:18 +0200"
+    },
+    {
       "title": "Queeres Parkfest in Berlin: Sicherheitsvorkehrungen verstärkt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/queerer-parkfest-friedrichshain-berlin-sicherheitsvorkehrungen-f.html",
       "date": "Fri, 07 Aug 2026 13:27:29 +0200"
@@ -49,16 +59,6 @@
       "title": "Berliner Wahlkämpfer verheddern sich in roten Linien",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-abgeordnetenhaus-wahlkampf-koalitionen-bedingungen-spd-linke-gruene-cdu.html",
       "date": "Fri, 07 Aug 2026 06:13:38 +0200"
-    },
-    {
-      "title": "Wahlprogramme zum Thema Kultur: Das planen die Berliner Parteien",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/wahlprogramme/kultur-politik-foerderung-szene-check.html",
-      "date": "Fri, 07 Aug 2026 06:10:59 +0200"
-    },
-    {
-      "title": "Schwimm-EM in Paris: Berlinerin Hentschel jubelt über EM-Bronze",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/schwimm-em-paris-wasserspringen-synchron-bronze-lena-hentschel.html",
-      "date": "Thu, 06 Aug 2026 21:34:00 +0200"
     }
   ],
   "police": [
