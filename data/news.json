@@ -1,14 +1,39 @@
 {
   "traffic": [
     {
+      "title": "\"World Naked Bike Ride\" in Berlin: Interview mit Organisator",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/world-naked-bike-ride-nackt-radeln-berlin.html",
+      "date": "Fri, 07 Aug 2026 17:28:52 +0200"
+    },
+    {
+      "title": "\"World Naked Bike Ride\": Nackt wollen durch Berlin radeln",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-naturisten-radtour-nackt-world-naked-bike-ride.html",
+      "date": "Fri, 07 Aug 2026 17:20:23 +0200"
+    },
+    {
+      "title": "ICE Berlin-Paris fällt wegen technischer Probleme vorerst aus",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/zug-berlin-paris-ausfall-technische-probleme.html",
+      "date": "Fri, 07 Aug 2026 16:44:39 +0200"
+    },
+    {
+      "title": "Studie sieht Berliner Clubszene wirtschaftlich unter Druck",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/08/berlin-clubkultur-kostendeckung-clubcommission-studie.html",
+      "date": "Fri, 07 Aug 2026 16:25:11 +0200"
+    },
+    {
+      "title": "IAV-Standort in Berlin bleibt bestehen",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/08/iav-standort-in-berlin-bleibt-bestehen.html",
+      "date": "Fri, 07 Aug 2026 16:24:11 +0200"
+    },
+    {
+      "title": "Ex-Frankfurterinnen: Veit und Gräwe wollen Union voranbringen",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/union-berlin-frauen-transfers-eintracht-frankfurt-veit-graewe-et.html",
+      "date": "Fri, 07 Aug 2026 16:17:41 +0200"
+    },
+    {
       "title": "Berlin Circus Festival: Absurdes Zirkustheater mit unsicherer Zukunft",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/08/berlin-circus-festival-tempelhofer-feld.html",
       "date": "Fri, 07 Aug 2026 15:58:00 +0200"
-    },
-    {
-      "title": "Elbenwald-Festival: Cottbus wird Treffpunkt für Film-, Fantasy- und Gamefans",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-cottbus-elbenwald-festival-start-kostendruck.html",
-      "date": "Fri, 07 Aug 2026 15:44:51 +0200"
     },
     {
       "title": "Verkehrsminister drohen im Streit um Schienenmaut mit Klage",
@@ -26,11 +51,6 @@
       "date": "Fri, 07 Aug 2026 15:34:56 +0200"
     },
     {
-      "title": "\"World Naked Bike Ride\": Nackt wollen durch Berlin radeln",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-naturisten-radtour-nackt-world-naked-bike-ride.html",
-      "date": "Fri, 07 Aug 2026 15:26:35 +0200"
-    },
-    {
       "title": "Cottbus: Turbolader während Fahrt auf der Autobahn 15",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-cottbus-autobahn-explosion-turbolader-auto-feuer-bundespolizei.html",
       "date": "Fri, 07 Aug 2026 15:18:30 +0200"
@@ -39,26 +59,6 @@
       "title": "Sprint-Star Lückenkemper vor EM: \"Dankbar, überhaupt laufen zu können\"",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/leichtathletik-em-birmingham-gina-lueckenkemper-zeckenbiss-hochzeit.html",
       "date": "Fri, 07 Aug 2026 15:14:00 +0200"
-    },
-    {
-      "title": "Temporäres Schwimmbecken vor Berliner Volksbühne eröffnet",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/08/berlin-mitte-volksbuehne-volksbad-schwimmbad-eroeffnung.html",
-      "date": "Fri, 07 Aug 2026 14:48:24 +0200"
-    },
-    {
-      "title": "Nach NBA-Draft: Alba Berlin holt Starspieler Jack Kayil zurück",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/alba-berlin-basketball-bbl-rueckkehr-jack-kayil-nba-serbien.html",
-      "date": "Fri, 07 Aug 2026 14:12:13 +0200"
-    },
-    {
-      "title": "Brandenburgischer Kunstpreis wird nur noch alle zwei Jahre verliehen",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/08/brandenburgischer-kunstpreis-preistraeger-aenderungen-zweijaehri.html",
-      "date": "Fri, 07 Aug 2026 13:46:18 +0200"
-    },
-    {
-      "title": "Queeres Parkfest in Berlin: Sicherheitsvorkehrungen verstärkt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/queerer-parkfest-friedrichshain-berlin-sicherheitsvorkehrungen-f.html",
-      "date": "Fri, 07 Aug 2026 13:27:29 +0200"
     }
   ],
   "police": [
@@ -128,9 +128,24 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "\"World Naked Bike Ride\" in Berlin: Interview mit Organisator",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/world-naked-bike-ride-nackt-radeln-berlin.html",
+      "date": "Fri, 07 Aug 2026 17:28:52 +0200"
+    },
+    {
+      "title": "\"World Naked Bike Ride\": Nackt wollen durch Berlin radeln",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-naturisten-radtour-nackt-world-naked-bike-ride.html",
+      "date": "Fri, 07 Aug 2026 17:20:23 +0200"
+    },
+    {
       "title": "Elbenwald-Festival: Cottbus wird Treffpunkt für Film-, Fantasy- und Gamefans",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-cottbus-elbenwald-festival-start-kostendruck.html",
-      "date": "Fri, 07 Aug 2026 15:44:51 +0200"
+      "date": "Fri, 07 Aug 2026 16:49:29 +0200"
+    },
+    {
+      "title": "ICE Berlin-Paris fällt wegen technischer Probleme vorerst aus",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/zug-berlin-paris-ausfall-technische-probleme.html",
+      "date": "Fri, 07 Aug 2026 16:44:39 +0200"
     },
     {
       "title": "Sämtliche Trams der BVG sollen bis 2032 mit Klimaanlagen ausgestattet sein",
@@ -141,11 +156,6 @@
       "title": "Tausende Fahrzeuge in Brandenburg wieder mit alten Kfz-Kennzeichen unterwegs",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-kfz-kennzeichen-nummernschild-heimat.html",
       "date": "Fri, 07 Aug 2026 15:34:56 +0200"
-    },
-    {
-      "title": "\"World Naked Bike Ride\": Nackt wollen durch Berlin radeln",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-naturisten-radtour-nackt-world-naked-bike-ride.html",
-      "date": "Fri, 07 Aug 2026 15:26:35 +0200"
     },
     {
       "title": "Cottbus: Turbolader während Fahrt auf der Autobahn 15",
@@ -176,16 +186,6 @@
       "title": "Brand auf Getreidefeld nahe Flughafen BER",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-brandenburg-flughafen-ber-brand-feld-feuerwehr.html",
       "date": "Thu, 06 Aug 2026 20:32:44 +0200"
-    },
-    {
-      "title": "Prozess zu mutmaßlichen Vergewaltigungen lässt in Abgrund blicken",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/landgericht-berlin-prozess-vergewaltigung-sedierung-gefilmt.html",
-      "date": "Thu, 06 Aug 2026 18:26:00 +0200"
-    },
-    {
-      "title": "Am Späti in Lichtenberg: \"Es wird nur für die Wirtschaft was hochgezogen\"",
-      "link": "https://www.rbb24.de/panorama/thema/spaeti/berlin-lichtenberg-am-spaeti-clubkultur.html",
-      "date": "Thu, 06 Aug 2026 17:18:47 +0200"
     }
   ]
 }
