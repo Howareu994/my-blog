@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Nur jeder vierte Zug zwischen Berlin und Hamburg pünktlich",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/bahn-strecke-berlin-hamburg-jeder-vierte-zug-puenktlich.html",
+      "date": "Sat, 08 Aug 2026 20:52:56 +0200"
+    },
+    {
       "title": "Zahlreiche Besucher bei queerem Parkfest in Berlin-Friedrichshain",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-friedrichshain-queeres-parkfest.html",
       "date": "Sat, 08 Aug 2026 20:03:00 +0200"
@@ -14,11 +19,6 @@
       "title": "Unions Friedrich: Gladbach vergessen und wieder Abwehrchef werden",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-1-fc-union-berlin-marvin-friedrich-rueckkehr.html",
       "date": "Sat, 08 Aug 2026 19:28:56 +0200"
-    },
-    {
-      "title": "Nur jeder vierte Zug zwischen Berlin und Hamburg pünktlich",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/bahn-strecke-berlin-hamburg-jeder-vierte-zug-puenktlich.html",
-      "date": "Sat, 08 Aug 2026 18:07:45 +0200"
     },
     {
       "title": "Am Späti in Berlin-Altglienicke: \"Ich mache alles für den Kiez\"",
@@ -128,14 +128,14 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Nur jeder vierte Zug zwischen Berlin und Hamburg pünktlich",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/bahn-strecke-berlin-hamburg-jeder-vierte-zug-puenktlich.html",
+      "date": "Sat, 08 Aug 2026 20:52:56 +0200"
+    },
+    {
       "title": "Zahlreiche Besucher bei queerem Parkfest in Berlin-Friedrichshain",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-friedrichshain-queeres-parkfest.html",
       "date": "Sat, 08 Aug 2026 20:03:00 +0200"
-    },
-    {
-      "title": "Nur jeder vierte Zug zwischen Berlin und Hamburg pünktlich",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/bahn-strecke-berlin-hamburg-jeder-vierte-zug-puenktlich.html",
-      "date": "Sat, 08 Aug 2026 18:07:45 +0200"
     },
     {
       "title": "Am Späti in Berlin-Altglienicke: \"Ich mache alles für den Kiez\"",
