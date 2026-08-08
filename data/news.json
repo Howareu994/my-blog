@@ -1,14 +1,14 @@
 {
   "traffic": [
     {
+      "title": "Wahlprogramme zum Thema Sport: Das planen die Berliner Parteien",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/wahlprogramme/sport-staetten-stadien-olympia-check.html",
+      "date": "Sat, 08 Aug 2026 13:18:33 +0200"
+    },
+    {
       "title": "22-Jähriger bei Schüssen im Kreuzberger Graefekiez verletzt - Polizei fahndet nach Täter",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-kreuzberg-schuesse-graefestrasse-polizeieinsatz.html",
       "date": "Sat, 08 Aug 2026 12:03:29 +0200"
-    },
-    {
-      "title": "Wahlprogramme zum Thema Sport: Das planen die Berliner Parteien",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/wahlprogramme/sport-staetten-stadien-olympia-check.html",
-      "date": "Sat, 08 Aug 2026 11:57:34 +0200"
     },
     {
       "title": "Oberhavel: Behörden warnen vor Gasautritt in Bergfelde",
@@ -63,6 +63,11 @@
   ],
   "police": [
     {
+      "title": "Autofahrerin fährt Radfahrer an",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701003.php",
+      "date": "Sat, 08 Aug 2026 12:40:16 +0200"
+    },
+    {
       "title": "Wahlkampfhelfer beim Plakatieren angefahren",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700998.php",
       "date": "Sat, 08 Aug 2026 11:46:50 +0200"
@@ -116,11 +121,6 @@
       "title": "Mann durch Messerstiche verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700263.php",
       "date": "Thu, 06 Aug 2026 11:19:02 +0200"
-    },
-    {
-      "title": "Zahlungsstreit endet mit Messerangriff",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700187.php",
-      "date": "Thu, 06 Aug 2026 09:48:09 +0200"
     }
   ],
   "free_events": [],
