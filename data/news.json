@@ -1,9 +1,39 @@
 {
   "traffic": [
     {
+      "title": "Lesen im Strobolicht: Thrillerautor Sebastian Fitzek feiert Jubiläum in der Waldbühne",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/08/berlin-triller-autor-sebastian-fitzek-lesung-waldbuehne.html",
+      "date": "Sat, 08 Aug 2026 14:21:14 +0200"
+    },
+    {
+      "title": "Oberhavel: Gasaustritt auf Baustelle in Bergfelde gestoppt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-bergfelde-gas-austritt-warnung-oberhavel.html",
+      "date": "Sat, 08 Aug 2026 14:09:40 +0200"
+    },
+    {
+      "title": "A13 in Richtung Berlin nach Unfall stundenlang gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-autobahn-13-gesperrt-unfall.html",
+      "date": "Sat, 08 Aug 2026 14:00:25 +0200"
+    },
+    {
+      "title": "Berlin-Adlershof: Wahlkampfhelfer bei Attacke von Radfahrer verletzt",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/wahlkampfhelfer-verletzt-attacke-von-radfahrer-adlershof.html",
+      "date": "Sat, 08 Aug 2026 13:41:17 +0200"
+    },
+    {
+      "title": "Union-Profi Burcu: \"Wollen den Offensiv-Fußball in die Alte Försterei bringen\"",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/interview-livan-burcu-fussball-bundesliga-union-berlin-trainingslager-oestrreich.html",
+      "date": "Sat, 08 Aug 2026 13:34:00 +0200"
+    },
+    {
       "title": "Wahlprogramme zum Thema Sport: Das planen die Berliner Parteien",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/wahlprogramme/sport-staetten-stadien-olympia-check.html",
-      "date": "Sat, 08 Aug 2026 13:18:33 +0200"
+      "date": "Sat, 08 Aug 2026 13:28:56 +0200"
+    },
+    {
+      "title": "Cottbus-Präsident: \"Einen Namen in Fußball-Deutschland gemacht\"",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-brandenburg-cottbus-energie-interview-praesident-sebastian-lemke-zweite-liga.html",
+      "date": "Sat, 08 Aug 2026 12:48:15 +0200"
     },
     {
       "title": "22-Jähriger bei Schüssen im Kreuzberger Graefekiez verletzt - Polizei fahndet nach Täter",
@@ -11,24 +41,9 @@
       "date": "Sat, 08 Aug 2026 12:03:29 +0200"
     },
     {
-      "title": "Oberhavel: Behörden warnen vor Gasautritt in Bergfelde",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-bergfelde-gas-austritt-warnung-oberhavel.html",
-      "date": "Sat, 08 Aug 2026 11:42:34 +0200"
-    },
-    {
-      "title": "Lesen im Strobolicht: Thrillerautor Sebastian Fitzek feiert Jubiläum in der Waldbühne",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/08/berlin-triller-autor-sebastian-fitzek-lesung-waldbuehne.html",
-      "date": "Sat, 08 Aug 2026 11:14:12 +0200"
-    },
-    {
       "title": "Sexualisierte Gewalt: Warum Dating nur eine von vielen gefährlichen Situationen ist",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/lara-missbrauch-sedierung-frauen-beratung-anzeige-umgang.html",
       "date": "Sat, 08 Aug 2026 10:11:12 +0200"
-    },
-    {
-      "title": "Oberspreewald-Lausitz: A13 bei Ortrand in Richtung Berlin nach Unfall gesperrt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-autobahn-13-gesperrt-unfall.html",
-      "date": "Sat, 08 Aug 2026 09:56:31 +0200"
     },
     {
       "title": "Auftaktsieg in Bochum: Hertha gewinnt gegen die Zweifel",
@@ -44,21 +59,6 @@
       "title": "Handball: Füchse verlieren zweites Testspiel gegen Aalborg",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/handball-testspiel-aalborg-fuechse-berlin.html",
       "date": "Fri, 07 Aug 2026 23:21:53 +0200"
-    },
-    {
-      "title": "Fußball-Regionalliga: Altglienicke feiert in Greifswald ersten Saisonsieg",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-regionalliga-nordost-vsg-altglienicke-greifswalder-fc-spielbericht.html",
-      "date": "Fri, 07 Aug 2026 23:20:06 +0200"
-    },
-    {
-      "title": "Keine Infos zum Netzwerk des Abdul B.: Das Schweigen des BND",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/08/berlin-csd-anschlag-bundesnachrichtendienst-abdul-b.html",
-      "date": "Fri, 07 Aug 2026 21:09:00 +0200"
-    },
-    {
-      "title": "Brandenburgischer Kunstpreis wird nur noch alle zwei Jahre verliehen",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/08/brandenburgischer-kunstpreis-preistraeger-aenderungen-zweijaehri.html",
-      "date": "Fri, 07 Aug 2026 20:25:59 +0200"
     }
   ],
   "police": [
@@ -128,24 +128,24 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Oberhavel: Gasaustritt auf Baustelle in Bergfelde gestoppt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-bergfelde-gas-austritt-warnung-oberhavel.html",
+      "date": "Sat, 08 Aug 2026 14:09:40 +0200"
+    },
+    {
+      "title": "A13 in Richtung Berlin nach Unfall stundenlang gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-autobahn-13-gesperrt-unfall.html",
+      "date": "Sat, 08 Aug 2026 14:00:25 +0200"
+    },
+    {
       "title": "22-Jähriger bei Schüssen im Kreuzberger Graefekiez verletzt - Polizei fahndet nach Täter",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-kreuzberg-schuesse-graefestrasse-polizeieinsatz.html",
       "date": "Sat, 08 Aug 2026 12:03:29 +0200"
     },
     {
-      "title": "Oberhavel: Behörden warnen vor Gasautritt in Bergfelde",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-bergfelde-gas-austritt-warnung-oberhavel.html",
-      "date": "Sat, 08 Aug 2026 11:42:34 +0200"
-    },
-    {
       "title": "Sexualisierte Gewalt: Warum Dating nur eine von vielen gefährlichen Situationen ist",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/lara-missbrauch-sedierung-frauen-beratung-anzeige-umgang.html",
       "date": "Sat, 08 Aug 2026 10:11:12 +0200"
-    },
-    {
-      "title": "Oberspreewald-Lausitz: A13 bei Ortrand in Richtung Berlin nach Unfall gesperrt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-autobahn-13-gesperrt-unfall.html",
-      "date": "Sat, 08 Aug 2026 09:56:31 +0200"
     },
     {
       "title": "Gottesanbeterin breitet sich in Berlin aus",
