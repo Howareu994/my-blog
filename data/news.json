@@ -1,6 +1,26 @@
 {
   "traffic": [
     {
+      "title": "Sexualisierte Gewalt: Warum Dating nur eine von vielen gefährlichen Situationen ist",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/lara-missbrauch-sedierung-frauen-beratung-anzeige-umgang.html",
+      "date": "Sat, 08 Aug 2026 10:11:12 +0200"
+    },
+    {
+      "title": "Oberspreewald-Lausitz: A13 bei Ortrand in Richtung Berlin nach Unfall gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-autobahn-13-gesperrt-unfall.html",
+      "date": "Sat, 08 Aug 2026 09:56:31 +0200"
+    },
+    {
+      "title": "Auftaktsieg in Bochum: Hertha gewinnt gegen die Zweifel",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/berlin-fussball-hertha-bsc-vfl-bochum-analyse-leitl-goerlich-gouram-groenning.html",
+      "date": "Sat, 08 Aug 2026 09:54:30 +0200"
+    },
+    {
+      "title": "Lesen im Strobolicht: Thrillerautor Sebastian Fitzek feiert Jubiläum in der Waldbühne",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/08/berlin-triller-autor-sebastian-fitzek-lesung-waldbuehne.html",
+      "date": "Sat, 08 Aug 2026 09:28:47 +0200"
+    },
+    {
       "title": "\"Everybody\" im Georg-Kolbe-Museum: Über Leib und Leben",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/08/berlin-ausstellung-everybody-georg-kolbe-museum.html",
       "date": "Sat, 08 Aug 2026 09:18:12 +0200"
@@ -11,24 +31,9 @@
       "date": "Sat, 08 Aug 2026 08:10:15 +0200"
     },
     {
-      "title": "Sexualisierte Gewalt: Warum Dating nur eine von vielen gefährlichen Situationen ist",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/lara-missbrauch-sedierung-frauen-beratung-anzeige-umgang.html",
-      "date": "Sat, 08 Aug 2026 07:59:03 +0200"
-    },
-    {
-      "title": "Oberspreewald-Lausitz: A13 bei Ortrand in Richtung Berlin nach Unfall gesperrt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-autobahn-13-gesperrt-unfall.html",
-      "date": "Sat, 08 Aug 2026 07:55:40 +0200"
-    },
-    {
       "title": "Wahlprogramme zum Thema Sport: Das planen die Berliner Parteien",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/wahlprogramme/sport-staetten-stadien-olympia-check.html",
       "date": "Sat, 08 Aug 2026 07:19:18 +0200"
-    },
-    {
-      "title": "Zweite Liga: Grönning beschert Hertha Traumstart in Bochum",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-zweite-bundesliga-vfl-bochum-hertha-bsc-audiostream-liveticker-spielbericht.html",
-      "date": "Fri, 07 Aug 2026 23:57:03 +0200"
     },
     {
       "title": "Handball: Füchse verlieren zweites Testspiel gegen Aalborg",
@@ -54,11 +59,6 @@
       "title": "Gottesanbeterin breitet sich in Berlin aus",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-insekt-gottesanbeterin-breitet-sich-aus.html",
       "date": "Fri, 07 Aug 2026 20:03:03 +0200"
-    },
-    {
-      "title": "Studie sieht Berliner Clubszene wirtschaftlich unter Druck",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/08/berlin-clubkultur-kostendeckung-clubcommission-studie.html",
-      "date": "Fri, 07 Aug 2026 19:20:05 +0200"
     }
   ],
   "police": [
@@ -128,19 +128,19 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "22-Jähriger bei Schüssen in Kreuzberger Graefestraße verletzt - Polizei fahndet nach Täter",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-kreuzberg-schuesse-graefestrasse-polizeieinsatz.html",
-      "date": "Sat, 08 Aug 2026 08:10:15 +0200"
-    },
-    {
       "title": "Sexualisierte Gewalt: Warum Dating nur eine von vielen gefährlichen Situationen ist",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/lara-missbrauch-sedierung-frauen-beratung-anzeige-umgang.html",
-      "date": "Sat, 08 Aug 2026 07:59:03 +0200"
+      "date": "Sat, 08 Aug 2026 10:11:12 +0200"
     },
     {
       "title": "Oberspreewald-Lausitz: A13 bei Ortrand in Richtung Berlin nach Unfall gesperrt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-autobahn-13-gesperrt-unfall.html",
-      "date": "Sat, 08 Aug 2026 07:55:40 +0200"
+      "date": "Sat, 08 Aug 2026 09:56:31 +0200"
+    },
+    {
+      "title": "22-Jähriger bei Schüssen in Kreuzberger Graefestraße verletzt - Polizei fahndet nach Täter",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-kreuzberg-schuesse-graefestrasse-polizeieinsatz.html",
+      "date": "Sat, 08 Aug 2026 08:10:15 +0200"
     },
     {
       "title": "Gottesanbeterin breitet sich in Berlin aus",
