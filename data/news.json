@@ -1,14 +1,14 @@
 {
   "traffic": [
     {
+      "title": "Oberhavel: Gasleck auf Baustelle in Bergfelde geschlossen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-bergfelde-gas-austritt-warnung-oberhavel.html",
+      "date": "Sat, 08 Aug 2026 14:46:40 +0200"
+    },
+    {
       "title": "Lesen im Strobolicht: Thrillerautor Sebastian Fitzek feiert Jubiläum in der Waldbühne",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/08/berlin-triller-autor-sebastian-fitzek-lesung-waldbuehne.html",
       "date": "Sat, 08 Aug 2026 14:21:14 +0200"
-    },
-    {
-      "title": "Oberhavel: Gasaustritt auf Baustelle in Bergfelde gestoppt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-bergfelde-gas-austritt-warnung-oberhavel.html",
-      "date": "Sat, 08 Aug 2026 14:09:40 +0200"
     },
     {
       "title": "A13 in Richtung Berlin nach Unfall stundenlang gesperrt",
@@ -128,9 +128,9 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Oberhavel: Gasaustritt auf Baustelle in Bergfelde gestoppt",
+      "title": "Oberhavel: Gasleck auf Baustelle in Bergfelde geschlossen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-bergfelde-gas-austritt-warnung-oberhavel.html",
-      "date": "Sat, 08 Aug 2026 14:09:40 +0200"
+      "date": "Sat, 08 Aug 2026 14:46:40 +0200"
     },
     {
       "title": "A13 in Richtung Berlin nach Unfall stundenlang gesperrt",
