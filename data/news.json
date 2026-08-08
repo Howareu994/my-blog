@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Lesen im Strobolicht: Thrillerautor Sebastian Fitzek feiert Jubiläum in der Waldbühne",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/08/berlin-triller-autor-sebastian-fitzek-lesung-waldbuehne.html",
+      "date": "Sat, 08 Aug 2026 11:14:12 +0200"
+    },
+    {
+      "title": "22-Jähriger bei Schüssen im Kreuzberger Graefekiez verletzt - Polizei fahndet nach Täter",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-kreuzberg-schuesse-graefestrasse-polizeieinsatz.html",
+      "date": "Sat, 08 Aug 2026 10:40:41 +0200"
+    },
+    {
+      "title": "Oberhavel: Behörden warnen vor Gasautritt in Bergfelde",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-bergfelde-gas-austritt-warnung-oberhavel.html",
+      "date": "Sat, 08 Aug 2026 10:38:59 +0200"
+    },
+    {
       "title": "Sexualisierte Gewalt: Warum Dating nur eine von vielen gefährlichen Situationen ist",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/lara-missbrauch-sedierung-frauen-beratung-anzeige-umgang.html",
       "date": "Sat, 08 Aug 2026 10:11:12 +0200"
@@ -13,22 +28,12 @@
     {
       "title": "Auftaktsieg in Bochum: Hertha gewinnt gegen die Zweifel",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/berlin-fussball-hertha-bsc-vfl-bochum-analyse-leitl-goerlich-gouram-groenning.html",
-      "date": "Sat, 08 Aug 2026 09:54:30 +0200"
-    },
-    {
-      "title": "Lesen im Strobolicht: Thrillerautor Sebastian Fitzek feiert Jubiläum in der Waldbühne",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/08/berlin-triller-autor-sebastian-fitzek-lesung-waldbuehne.html",
-      "date": "Sat, 08 Aug 2026 09:28:47 +0200"
+      "date": "Sat, 08 Aug 2026 09:54:00 +0200"
     },
     {
       "title": "\"Everybody\" im Georg-Kolbe-Museum: Über Leib und Leben",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/08/berlin-ausstellung-everybody-georg-kolbe-museum.html",
       "date": "Sat, 08 Aug 2026 09:18:12 +0200"
-    },
-    {
-      "title": "22-Jähriger bei Schüssen in Kreuzberger Graefestraße verletzt - Polizei fahndet nach Täter",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-kreuzberg-schuesse-graefestrasse-polizeieinsatz.html",
-      "date": "Sat, 08 Aug 2026 08:10:15 +0200"
     },
     {
       "title": "Wahlprogramme zum Thema Sport: Das planen die Berliner Parteien",
@@ -54,14 +59,19 @@
       "title": "Brandenburgischer Kunstpreis wird nur noch alle zwei Jahre verliehen",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/08/brandenburgischer-kunstpreis-preistraeger-aenderungen-zweijaehri.html",
       "date": "Fri, 07 Aug 2026 20:25:59 +0200"
-    },
-    {
-      "title": "Gottesanbeterin breitet sich in Berlin aus",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-insekt-gottesanbeterin-breitet-sich-aus.html",
-      "date": "Fri, 07 Aug 2026 20:03:03 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Unbekannter entwendet Regenbogenflaggen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700987.php",
+      "date": "Sat, 08 Aug 2026 11:04:31 +0200"
+    },
+    {
+      "title": "Versuchter Totschlag – Mann vor Café angeschossen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700985.php",
+      "date": "Sat, 08 Aug 2026 10:30:18 +0200"
+    },
     {
       "title": "Motorradfahrer bei Verkehrsunfall verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700814.php",
@@ -111,22 +121,22 @@
       "title": "Verbleib von gesuchter 16-Jähriger geklärt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695113.php",
       "date": "Tue, 04 Aug 2026 12:03:00 +0200"
-    },
-    {
-      "title": "Motorradfahrer bei Unfall verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699427.php",
-      "date": "Mon, 03 Aug 2026 10:48:18 +0200"
-    },
-    {
-      "title": "Störung beim Anbringen von Wahlplakaten",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1699336.php",
-      "date": "Sun, 02 Aug 2026 17:59:45 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "22-Jähriger bei Schüssen im Kreuzberger Graefekiez verletzt - Polizei fahndet nach Täter",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-kreuzberg-schuesse-graefestrasse-polizeieinsatz.html",
+      "date": "Sat, 08 Aug 2026 10:40:41 +0200"
+    },
+    {
+      "title": "Oberhavel: Behörden warnen vor Gasautritt in Bergfelde",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-bergfelde-gas-austritt-warnung-oberhavel.html",
+      "date": "Sat, 08 Aug 2026 10:38:59 +0200"
+    },
     {
       "title": "Sexualisierte Gewalt: Warum Dating nur eine von vielen gefährlichen Situationen ist",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/lara-missbrauch-sedierung-frauen-beratung-anzeige-umgang.html",
@@ -136,11 +146,6 @@
       "title": "Oberspreewald-Lausitz: A13 bei Ortrand in Richtung Berlin nach Unfall gesperrt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-autobahn-13-gesperrt-unfall.html",
       "date": "Sat, 08 Aug 2026 09:56:31 +0200"
-    },
-    {
-      "title": "22-Jähriger bei Schüssen in Kreuzberger Graefestraße verletzt - Polizei fahndet nach Täter",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-kreuzberg-schuesse-graefestrasse-polizeieinsatz.html",
-      "date": "Sat, 08 Aug 2026 08:10:15 +0200"
     },
     {
       "title": "Gottesanbeterin breitet sich in Berlin aus",
@@ -181,11 +186,6 @@
       "title": "Tausende Fahrzeuge in Brandenburg wieder mit alten Kfz-Kennzeichen unterwegs",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-kfz-kennzeichen-nummernschild-heimat.html",
       "date": "Fri, 07 Aug 2026 15:34:56 +0200"
-    },
-    {
-      "title": "Cottbus: Turbolader während Fahrt auf der Autobahn 15",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-cottbus-autobahn-explosion-turbolader-auto-feuer-bundespolizei.html",
-      "date": "Fri, 07 Aug 2026 15:18:30 +0200"
     }
   ]
 }
