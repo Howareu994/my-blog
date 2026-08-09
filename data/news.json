@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Spezialeinsatzkommando stürmt Wohnung in Wittenberge",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-wittenberge-sek-sondereinsatzkommando-stuermt-wohnung.html",
+      "date": "Sun, 09 Aug 2026 21:53:53 +0200"
+    },
+    {
       "title": "RE2 mit 500 Fahrgästen nach Fußballspiel evakuiert",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/cottbus-berlin-regionalexpress-re2-evakuiert-hannover-96.html",
       "date": "Sun, 09 Aug 2026 21:15:12 +0200"
@@ -54,11 +59,6 @@
       "title": "Was war das denn? Berlin muss mal",
       "link": "https://www.rbb24.de/panorama/thema/was-war-das-denn/kolumne-oeffentliche-toiletten-urinale-wildurinieren-berlin.html",
       "date": "Sun, 09 Aug 2026 16:14:18 +0200"
-    },
-    {
-      "title": "Berlin-Altglienicke: Männer nach Streit von Auto angefahren",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-altglienicke-streit-auto-angefahren-polizei.html",
-      "date": "Sun, 09 Aug 2026 16:03:23 +0200"
     }
   ],
   "police": [
@@ -128,14 +128,19 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "RE2 mit 500 Fahrgästen nach Fußballspiel evakuiert",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/cottbus-berlin-regionalexpress-re2-evakuiert-hannover-96.html",
-      "date": "Sun, 09 Aug 2026 21:15:12 +0200"
+      "title": "Spezialeinsatzkommando stürmt Wohnung in Wittenberge",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-wittenberge-sek-sondereinsatzkommando-stuermt-wohnung.html",
+      "date": "Sun, 09 Aug 2026 21:53:53 +0200"
     },
     {
       "title": "Brandenburg an der Havel: Sprengstoff und Knochen auf leerstehendem Hof entdeckt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-sprengstoff-knochen-fund-leerstehender-hof-aufraeumarbeiten.html",
-      "date": "Sun, 09 Aug 2026 20:07:26 +0200"
+      "date": "Sun, 09 Aug 2026 21:27:12 +0200"
+    },
+    {
+      "title": "RE2 mit 500 Fahrgästen nach Fußballspiel evakuiert",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/cottbus-berlin-regionalexpress-re2-evakuiert-hannover-96.html",
+      "date": "Sun, 09 Aug 2026 21:15:12 +0200"
     },
     {
       "title": "Berlin: 25-Jähriger im Strandbad Halensee ertrunken",
@@ -166,11 +171,6 @@
       "title": "Zukunft von Schloss Meseberg soll sich noch im August klären",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-schloss-meseberg-noch-keine-nachnutzung.html",
       "date": "Sun, 09 Aug 2026 15:31:58 +0200"
-    },
-    {
-      "title": "Spezialeinsatzkommando stürmt Wohnung in Wittenberge",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-wittenberge-sek-sondereinsatzkommando-stuermt-wohnung.html",
-      "date": "Sun, 09 Aug 2026 13:47:00 +0200"
     },
     {
       "title": "Schüsse auf Friseurladen in Marzahn-Hellersdorf abgegeben",
