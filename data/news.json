@@ -1,6 +1,26 @@
 {
   "traffic": [
     {
+      "title": "Parteibüro der Grünen in Eberswalde beschmiert",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/08/brandenburg-parteibuero-gruene-beschmiert-eberswalde.html",
+      "date": "Sun, 09 Aug 2026 13:06:07 +0200"
+    },
+    {
+      "title": "Schüsse auf Friseurladen in Marzahn-Hellersdorf abgegeben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-schuesse-friseurladen-marzahn-hellersdorf.html",
+      "date": "Sun, 09 Aug 2026 13:03:32 +0200"
+    },
+    {
+      "title": "Frau stirbt bei Hausbrand in Lichtenrade",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/frau-stirbt-bei-hausbrand-lichtenrade.html",
+      "date": "Sun, 09 Aug 2026 12:51:38 +0200"
+    },
+    {
+      "title": "Berliner Kriminelle häufiger in Brandenburg aktiv",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berliner-kriminelle-in-brandenburg-aktiv.html",
+      "date": "Sun, 09 Aug 2026 12:37:58 +0200"
+    },
+    {
       "title": "Kung-Fu-WM in Bernau: Lokalmatador fächert sich zum Weltmeister",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/kung-fu-wm-2026-bernau-maxim-schengel-weltmeister-dirk-ritt.html",
       "date": "Sun, 09 Aug 2026 11:40:00 +0200"
@@ -11,19 +31,9 @@
       "date": "Sun, 09 Aug 2026 10:44:34 +0200"
     },
     {
-      "title": "Frau stirbt bei Hausbrand in Lichtenrade",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/frau-stirbt-bei-hausbrand-lichtenrade.html",
-      "date": "Sun, 09 Aug 2026 10:22:13 +0200"
-    },
-    {
       "title": "350 Anklagen in Berlin nach Auswertung geheimer Chats",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/350-anklagen-nach-entschluesselung-geheimer-chats.html",
       "date": "Sun, 09 Aug 2026 09:53:51 +0200"
-    },
-    {
-      "title": "Berliner Kriminelle häufiger in Brandenburg aktiv",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berliner-kriminelle-in-brandenburg-aktiv.html",
-      "date": "Sun, 09 Aug 2026 09:23:08 +0200"
     },
     {
       "title": "Tausende Menschen besuchen queeres Parkfest in Berlin-Friedrichshain",
@@ -36,6 +46,11 @@
       "date": "Sun, 09 Aug 2026 07:19:26 +0200"
     },
     {
+      "title": "Sonnenfinsternis? Nur mit Schutzbrille!",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/sonnenfinsternis-12-august-2026-spezielle-brille-netzhaut.html",
+      "date": "Sun, 09 Aug 2026 07:16:27 +0200"
+    },
+    {
       "title": "Nur jeder vierte Zug zwischen Berlin und Hamburg pünktlich",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/bahn-strecke-berlin-hamburg-jeder-vierte-zug-puenktlich.html",
       "date": "Sat, 08 Aug 2026 20:52:56 +0200"
@@ -44,24 +59,14 @@
       "title": "Regionalliga Nordost: Tasmania und Hertha II gewinnen",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-regionalliga-nordost-rsv-eintracht-chemie-leipzig-luckenwalde-tasmania-lok-leipzig-hertha-bsc-2.html",
       "date": "Sat, 08 Aug 2026 19:42:50 +0200"
-    },
-    {
-      "title": "Unions Friedrich: Gladbach vergessen und wieder Abwehrchef werden",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-1-fc-union-berlin-marvin-friedrich-rueckkehr.html",
-      "date": "Sat, 08 Aug 2026 19:28:00 +0200"
-    },
-    {
-      "title": "Hanfparade in Berlin - deutlich weniger Teilnehmer als angemeldet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-hanfparade-legalisierung-cannabis-kundgebung-teilnehmer.html",
-      "date": "Sat, 08 Aug 2026 17:32:58 +0200"
-    },
-    {
-      "title": "Fischerei in Storkow schließt nach 800 Jahren",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/storkow-fischerei-naturgut-koellnitz-insolvenz-schliesst.html",
-      "date": "Sat, 08 Aug 2026 16:28:31 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Streit zwischen mehreren Personen eskaliert",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701052.php",
+      "date": "Sun, 09 Aug 2026 12:59:26 +0200"
+    },
     {
       "title": "DEIG-Einsatz im Hotel nach tätlichem Angriff und Widerstand",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701049.php",
@@ -116,11 +121,6 @@
       "title": "Imbiss mit Waffe ausgeraubt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700502.php",
       "date": "Thu, 06 Aug 2026 16:35:00 +0200"
-    },
-    {
-      "title": "Raubüberfall auf Lebensmitteldiscounter",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700351.php",
-      "date": "Thu, 06 Aug 2026 12:53:38 +0200"
     }
   ],
   "free_events": [],
@@ -128,24 +128,34 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "\"World Naked Bike Ride\": Naturisten radeln nackt durch Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-naturisten-radtour-nackt-world-naked-bike-ride.html",
+      "date": "Sun, 09 Aug 2026 13:11:27 +0200"
+    },
+    {
+      "title": "Schüsse auf Friseurladen in Marzahn-Hellersdorf abgegeben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-schuesse-friseurladen-marzahn-hellersdorf.html",
+      "date": "Sun, 09 Aug 2026 13:03:32 +0200"
+    },
+    {
+      "title": "Frau stirbt bei Hausbrand in Lichtenrade",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/frau-stirbt-bei-hausbrand-lichtenrade.html",
+      "date": "Sun, 09 Aug 2026 12:51:38 +0200"
+    },
+    {
+      "title": "Berliner Kriminelle häufiger in Brandenburg aktiv",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berliner-kriminelle-in-brandenburg-aktiv.html",
+      "date": "Sun, 09 Aug 2026 12:37:58 +0200"
+    },
+    {
       "title": "Weniger Geldautomatensprengungen in Brandenburg gezählt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/weniger-automatensprengungen-in-brandenburg.html",
       "date": "Sun, 09 Aug 2026 10:44:34 +0200"
     },
     {
-      "title": "Frau stirbt bei Hausbrand in Lichtenrade",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/frau-stirbt-bei-hausbrand-lichtenrade.html",
-      "date": "Sun, 09 Aug 2026 10:22:13 +0200"
-    },
-    {
       "title": "350 Anklagen in Berlin nach Auswertung geheimer Chats",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/350-anklagen-nach-entschluesselung-geheimer-chats.html",
       "date": "Sun, 09 Aug 2026 09:53:51 +0200"
-    },
-    {
-      "title": "Berliner Kriminelle häufiger in Brandenburg aktiv",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berliner-kriminelle-in-brandenburg-aktiv.html",
-      "date": "Sun, 09 Aug 2026 09:23:08 +0200"
     },
     {
       "title": "Tausende Menschen besuchen queeres Parkfest in Berlin-Friedrichshain",
@@ -176,16 +186,6 @@
       "title": "Fischerei in Storkow schließt nach 800 Jahren",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/storkow-fischerei-naturgut-koellnitz-insolvenz-schliesst.html",
       "date": "Sat, 08 Aug 2026 16:28:31 +0200"
-    },
-    {
-      "title": "Oberhavel: Gasleck auf Baustelle in Bergfelde geschlossen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-bergfelde-gas-austritt-warnung-oberhavel.html",
-      "date": "Sat, 08 Aug 2026 14:46:40 +0200"
-    },
-    {
-      "title": "A13 in Richtung Berlin nach Unfall stundenlang gesperrt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-autobahn-13-gesperrt-unfall.html",
-      "date": "Sat, 08 Aug 2026 14:00:25 +0200"
     }
   ]
 }
