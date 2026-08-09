@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Energie Cottbus schlägt Hannover 3:1 bei Zweitliga-Rückkehr",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-2-liga-fc-energie-cottbus-hannover-96-liveticker-audiostream-spielbericht.html",
+      "date": "Sun, 09 Aug 2026 17:03:38 +0200"
+    },
+    {
+      "title": "BFC Dynamo holt Punkt gegen Zwickau, Preussen verliert in Aue",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-berlin-bfc-dynamo-bfc-preussen.html",
+      "date": "Sun, 09 Aug 2026 17:00:01 +0200"
+    },
+    {
+      "title": "2. Bundesliga: Hertha holt ersten Sieg, Viktoria und Turbine verlieren",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-berlin-brandenburg-potsdam-2-liga-frauen-hertha-viktoria-turbine.html",
+      "date": "Sun, 09 Aug 2026 16:44:35 +0200"
+    },
+    {
       "title": "Berlin: Altes Museum sackt langsam ab - und muss dringend saniert werden",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/08/berlin-museumsinsel-altes-museum-sanierung-schaeden.html",
       "date": "Sun, 09 Aug 2026 16:19:51 +0200"
@@ -9,11 +24,6 @@
       "title": "Was war das denn? Berlin muss mal",
       "link": "https://www.rbb24.de/panorama/thema/was-war-das-denn/kolumne-oeffentliche-toiletten-urinale-wildurinieren-berlin.html",
       "date": "Sun, 09 Aug 2026 16:14:18 +0200"
-    },
-    {
-      "title": "Energie Cottbus schlägt Hannover bei Zweitliga-Rückkehr",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-2-liga-fc-energie-cottbus-hannover-96-liveticker-audiostream-spielbericht.html",
-      "date": "Sun, 09 Aug 2026 16:12:57 +0200"
     },
     {
       "title": "Berlin-Altglienicke: Männer nach Streit von Auto angefahren",
@@ -49,16 +59,6 @@
       "title": "Frau stirbt bei Hausbrand in Lichtenrade",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/frau-stirbt-bei-hausbrand-lichtenrade.html",
       "date": "Sun, 09 Aug 2026 12:51:38 +0200"
-    },
-    {
-      "title": "Berliner Kriminelle häufiger in Brandenburg aktiv",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berliner-kriminelle-in-brandenburg-aktiv.html",
-      "date": "Sun, 09 Aug 2026 12:37:58 +0200"
-    },
-    {
-      "title": "Verkehrspolitik: Dieser Lkw wird mit Bio-Flüssiggas getankt",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/08/bio-lng-kraftstoff-lkw-brandenburg-verkehr-co2.html",
-      "date": "Sun, 09 Aug 2026 12:30:24 +0200"
     }
   ],
   "police": [
@@ -145,7 +145,7 @@
     {
       "title": "Brandenburg an der Havel: Sprengstoff und Knochen auf leerstehendem Hof entdeckt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-sprengstoff-knochen-fund-leerstehender-hof-aufraeumarbeiten.html",
-      "date": "Sun, 09 Aug 2026 15:27:41 +0200"
+      "date": "Sun, 09 Aug 2026 15:27:00 +0200"
     },
     {
       "title": "\"World Naked Bike Ride\": Naturisten radeln nackt durch Berlin",
