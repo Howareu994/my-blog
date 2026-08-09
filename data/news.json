@@ -1,6 +1,26 @@
 {
   "traffic": [
     {
+      "title": "Berlin: Altes Museum sackt langsam ab - und muss dringend saniert werden",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/08/berlin-museumsinsel-altes-museum-sanierung-schaeden.html",
+      "date": "Sun, 09 Aug 2026 16:19:51 +0200"
+    },
+    {
+      "title": "Was war das denn? Berlin muss mal",
+      "link": "https://www.rbb24.de/panorama/thema/was-war-das-denn/kolumne-oeffentliche-toiletten-urinale-wildurinieren-berlin.html",
+      "date": "Sun, 09 Aug 2026 16:14:18 +0200"
+    },
+    {
+      "title": "Energie Cottbus schlägt Hannover bei Zweitliga-Rückkehr",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-2-liga-fc-energie-cottbus-hannover-96-liveticker-audiostream-spielbericht.html",
+      "date": "Sun, 09 Aug 2026 16:12:57 +0200"
+    },
+    {
+      "title": "Berlin-Altglienicke: Männer nach Streit von Auto angefahren",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-altglienicke-streit-auto-angefahren-polizei.html",
+      "date": "Sun, 09 Aug 2026 16:03:23 +0200"
+    },
+    {
       "title": "Zukunft von Schloss Meseberg soll sich noch im August klären",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-schloss-meseberg-noch-keine-nachnutzung.html",
       "date": "Sun, 09 Aug 2026 15:31:58 +0200"
@@ -9,11 +29,6 @@
       "title": "Livestream: Frauen des 1. FC Union testen gegen Inter Mailand",
       "link": "https://www.rbb24.de/sport/hintergrund/livestream/livestream-fussball-testspiel-frauen-union-berlin-inter-mailand.html",
       "date": "Sun, 09 Aug 2026 14:37:34 +0200"
-    },
-    {
-      "title": "Jetzt live: Cottbus kehrt gegen Hannover in die 2. Liga zurück",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-2-liga-fc-energie-cottbus-hannover-96-liveticker-audiostream-spielbericht.html",
-      "date": "Sun, 09 Aug 2026 14:02:49 +0200"
     },
     {
       "title": "Spezialeinsatzkommando stürmt Wohnung in Wittenberge",
@@ -44,28 +59,84 @@
       "title": "Verkehrspolitik: Dieser Lkw wird mit Bio-Flüssiggas getankt",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/08/bio-lng-kraftstoff-lkw-brandenburg-verkehr-co2.html",
       "date": "Sun, 09 Aug 2026 12:30:24 +0200"
-    },
-    {
-      "title": "Kung-Fu-WM in Bernau: Lokalmatador fächert sich zum Weltmeister",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/kung-fu-wm-2026-bernau-maxim-schengel-weltmeister-dirk-ritt.html",
-      "date": "Sun, 09 Aug 2026 11:40:00 +0200"
-    },
-    {
-      "title": "Weniger Geldautomatensprengungen in Brandenburg gezählt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/weniger-automatensprengungen-in-brandenburg.html",
-      "date": "Sun, 09 Aug 2026 10:44:34 +0200"
-    },
-    {
-      "title": "350 Anklagen in Berlin nach Auswertung geheimer Chats",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/350-anklagen-nach-entschluesselung-geheimer-chats.html",
-      "date": "Sun, 09 Aug 2026 09:53:51 +0200"
     }
   ],
-  "police": [],
+  "police": [
+    {
+      "title": "Falscher Stromzählerableser – Auseinandersetzung nach versuchtem Trickdiebstahl",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701057.php",
+      "date": "Sun, 09 Aug 2026 14:14:31 +0200"
+    },
+    {
+      "title": "Wahlplakate beschädigt – Tatverdächtige festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701054.php",
+      "date": "Sun, 09 Aug 2026 13:47:44 +0200"
+    },
+    {
+      "title": "Streit zwischen mehreren Personen eskaliert",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701052.php",
+      "date": "Sun, 09 Aug 2026 12:59:26 +0200"
+    },
+    {
+      "title": "DEIG-Einsatz im Hotel nach tätlichem Angriff und Widerstand",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701049.php",
+      "date": "Sun, 09 Aug 2026 11:58:29 +0200"
+    },
+    {
+      "title": "Feuer in der Küche – Bewohnerin verstorben",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701046.php",
+      "date": "Sun, 09 Aug 2026 10:55:01 +0200"
+    },
+    {
+      "title": "Autofahrerin fährt Radfahrer an",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701003.php",
+      "date": "Sat, 08 Aug 2026 12:40:16 +0200"
+    },
+    {
+      "title": "Wahlkampfhelfer beim Plakatieren angefahren",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700998.php",
+      "date": "Sat, 08 Aug 2026 11:46:50 +0200"
+    },
+    {
+      "title": "E-Scooter-Fahrer nach Sturz in Lebensgefahr",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700996.php",
+      "date": "Sat, 08 Aug 2026 11:40:30 +0200"
+    },
+    {
+      "title": "Unbekannter entwendet Regenbogenflaggen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700987.php",
+      "date": "Sat, 08 Aug 2026 11:04:31 +0200"
+    },
+    {
+      "title": "Versuchter Totschlag – Mann vor Café angeschossen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700985.php",
+      "date": "Sat, 08 Aug 2026 10:30:18 +0200"
+    },
+    {
+      "title": "Motorradfahrer bei Verkehrsunfall verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700814.php",
+      "date": "Fri, 07 Aug 2026 13:15:00 +0200"
+    },
+    {
+      "title": "DEIG-Einsatz nach Widerstand",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700808.php",
+      "date": "Fri, 07 Aug 2026 13:13:00 +0200"
+    }
+  ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Was war das denn? Berlin muss mal",
+      "link": "https://www.rbb24.de/panorama/thema/was-war-das-denn/kolumne-oeffentliche-toiletten-urinale-wildurinieren-berlin.html",
+      "date": "Sun, 09 Aug 2026 16:14:18 +0200"
+    },
+    {
+      "title": "Berlin-Altglienicke: Männer nach Streit von Auto angefahren",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-altglienicke-streit-auto-angefahren-polizei.html",
+      "date": "Sun, 09 Aug 2026 16:03:23 +0200"
+    },
     {
       "title": "Zukunft von Schloss Meseberg soll sich noch im August klären",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-schloss-meseberg-noch-keine-nachnutzung.html",
@@ -115,16 +186,6 @@
       "title": "Tausende Menschen besuchen queeres Parkfest in Berlin-Friedrichshain",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-friedrichshain-queeres-parkfest.html",
       "date": "Sun, 09 Aug 2026 08:22:00 +0200"
-    },
-    {
-      "title": "Sonnenfinsternis? Nur mit Schutzbrille!",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/sonnenfinsternis-12-august-2026-spezielle-brille-netzhaut.html",
-      "date": "Sun, 09 Aug 2026 07:16:27 +0200"
-    },
-    {
-      "title": "Nur jeder vierte Zug zwischen Berlin und Hamburg pünktlich",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/bahn-strecke-berlin-hamburg-jeder-vierte-zug-puenktlich.html",
-      "date": "Sat, 08 Aug 2026 20:52:56 +0200"
     }
   ]
 }
