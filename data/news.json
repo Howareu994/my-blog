@@ -1,19 +1,24 @@
 {
   "traffic": [
     {
+      "title": "Frau stirbt bei Hausbrand in Lichtenrade",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/frau-stirbt-bei-hausbrand-lichtenrade.html",
+      "date": "Sun, 09 Aug 2026 10:22:13 +0200"
+    },
+    {
+      "title": "350 Anklagen in Berlin nach Auswertung geheimer Chats",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/350-anklagen-nach-entschluesselung-geheimer-chats.html",
+      "date": "Sun, 09 Aug 2026 09:53:51 +0200"
+    },
+    {
       "title": "Berliner Kriminelle häufiger in Brandenburg aktiv",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berliner-kriminelle-in-brandenburg-aktiv.html",
       "date": "Sun, 09 Aug 2026 09:23:08 +0200"
     },
     {
-      "title": "Tausende Menschen besuchten queeres Parkfest in Berlin-Friedrichshain",
+      "title": "Tausende Menschen besuchen queeres Parkfest in Berlin-Friedrichshain",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-friedrichshain-queeres-parkfest.html",
-      "date": "Sun, 09 Aug 2026 08:22:24 +0200"
-    },
-    {
-      "title": "Frau stirbt bei Hausbrand in Lichtenrade",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/frau-stirbt-bei-hausbrand-lichtenrade.html",
-      "date": "Sun, 09 Aug 2026 08:13:06 +0200"
+      "date": "Sun, 09 Aug 2026 08:22:00 +0200"
     },
     {
       "title": "1. FC Frankfurt in der Fußball-Oberliga: Ein Aufstieg mit Widrigkeiten",
@@ -54,11 +59,6 @@
       "title": "Lesen im Strobolicht: Thrillerautor Sebastian Fitzek feiert Jubiläum in der Waldbühne",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/08/berlin-triller-autor-sebastian-fitzek-lesung-waldbuehne.html",
       "date": "Sat, 08 Aug 2026 14:21:14 +0200"
-    },
-    {
-      "title": "A13 in Richtung Berlin nach Unfall stundenlang gesperrt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-autobahn-13-gesperrt-unfall.html",
-      "date": "Sat, 08 Aug 2026 14:00:25 +0200"
     }
   ],
   "police": [
@@ -128,19 +128,24 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Frau stirbt bei Hausbrand in Lichtenrade",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/frau-stirbt-bei-hausbrand-lichtenrade.html",
+      "date": "Sun, 09 Aug 2026 10:22:13 +0200"
+    },
+    {
+      "title": "350 Anklagen in Berlin nach Auswertung geheimer Chats",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/350-anklagen-nach-entschluesselung-geheimer-chats.html",
+      "date": "Sun, 09 Aug 2026 09:53:51 +0200"
+    },
+    {
       "title": "Berliner Kriminelle häufiger in Brandenburg aktiv",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berliner-kriminelle-in-brandenburg-aktiv.html",
       "date": "Sun, 09 Aug 2026 09:23:08 +0200"
     },
     {
-      "title": "Tausende Menschen besuchten queeres Parkfest in Berlin-Friedrichshain",
+      "title": "Tausende Menschen besuchen queeres Parkfest in Berlin-Friedrichshain",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-friedrichshain-queeres-parkfest.html",
-      "date": "Sun, 09 Aug 2026 08:22:24 +0200"
-    },
-    {
-      "title": "Frau stirbt bei Hausbrand in Lichtenrade",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/frau-stirbt-bei-hausbrand-lichtenrade.html",
-      "date": "Sun, 09 Aug 2026 08:13:06 +0200"
+      "date": "Sun, 09 Aug 2026 08:22:00 +0200"
     },
     {
       "title": "Sonnenfinsternis? Nur mit Schutzbrille!",
@@ -181,11 +186,6 @@
       "title": "22-Jähriger bei Schüssen im Kreuzberger Graefekiez verletzt - Polizei fahndet nach Täter",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-kreuzberg-schuesse-graefestrasse-polizeieinsatz.html",
       "date": "Sat, 08 Aug 2026 12:03:29 +0200"
-    },
-    {
-      "title": "Sexualisierte Gewalt: Warum Dating nur eine von vielen gefährlichen Situationen ist",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/lara-missbrauch-sedierung-frauen-beratung-anzeige-umgang.html",
-      "date": "Sat, 08 Aug 2026 10:11:12 +0200"
     }
   ]
 }
