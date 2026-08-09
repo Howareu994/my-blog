@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Großer Preis von Berlin: Tiffany triumphiert in Hoppegarten",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/136-grosser-preis-hoppgarten-pferderennen-derby-tiffany.html",
+      "date": "Sun, 09 Aug 2026 18:21:37 +0200"
+    },
+    {
+      "title": "Berlin: 25-Jähriger im Strandbad Halensee ertrunken",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-notfaelle-strandbad-halensee-mann-ertrunken.html",
+      "date": "Sun, 09 Aug 2026 18:08:59 +0200"
+    },
+    {
+      "title": "Gegen italienischen Vizemeister: Union-Frauen verlieren knapp",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/frauen-1-fc-union-berlin-saisoneroeffnung-inter-mailand-eta.html",
+      "date": "Sun, 09 Aug 2026 17:23:13 +0200"
+    },
+    {
       "title": "Energie Cottbus schlägt Hannover 3:1 bei Zweitliga-Rückkehr",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-2-liga-fc-energie-cottbus-hannover-96-liveticker-audiostream-spielbericht.html",
       "date": "Sun, 09 Aug 2026 17:03:38 +0200"
@@ -36,11 +51,6 @@
       "date": "Sun, 09 Aug 2026 15:31:58 +0200"
     },
     {
-      "title": "Livestream: Frauen des 1. FC Union testen gegen Inter Mailand",
-      "link": "https://www.rbb24.de/sport/hintergrund/livestream/livestream-fussball-testspiel-frauen-union-berlin-inter-mailand.html",
-      "date": "Sun, 09 Aug 2026 14:37:34 +0200"
-    },
-    {
       "title": "Spezialeinsatzkommando stürmt Wohnung in Wittenberge",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-wittenberge-sek-sondereinsatzkommando-stuermt-wohnung.html",
       "date": "Sun, 09 Aug 2026 13:47:00 +0200"
@@ -49,16 +59,6 @@
       "title": "Parteibüro der Grünen in Eberswalde beschmiert",
       "link": "https://www.rbb24.de/politik/beitrag/2026/08/brandenburg-parteibuero-gruene-beschmiert-eberswalde.html",
       "date": "Sun, 09 Aug 2026 13:06:07 +0200"
-    },
-    {
-      "title": "Schüsse auf Friseurladen in Marzahn-Hellersdorf abgegeben",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-schuesse-friseurladen-marzahn-hellersdorf.html",
-      "date": "Sun, 09 Aug 2026 13:03:32 +0200"
-    },
-    {
-      "title": "Frau stirbt bei Hausbrand in Lichtenrade",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/frau-stirbt-bei-hausbrand-lichtenrade.html",
-      "date": "Sun, 09 Aug 2026 12:51:38 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Berlin: 25-Jähriger im Strandbad Halensee ertrunken",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-notfaelle-strandbad-halensee-mann-ertrunken.html",
+      "date": "Sun, 09 Aug 2026 18:08:59 +0200"
+    },
+    {
       "title": "Was war das denn? Berlin muss mal",
       "link": "https://www.rbb24.de/panorama/thema/was-war-das-denn/kolumne-oeffentliche-toiletten-urinale-wildurinieren-berlin.html",
       "date": "Sun, 09 Aug 2026 16:14:18 +0200"
@@ -181,11 +186,6 @@
       "title": "350 Anklagen in Berlin nach Auswertung geheimer Chats",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/350-anklagen-nach-entschluesselung-geheimer-chats.html",
       "date": "Sun, 09 Aug 2026 09:53:51 +0200"
-    },
-    {
-      "title": "Tausende Menschen besuchen queeres Parkfest in Berlin-Friedrichshain",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-friedrichshain-queeres-parkfest.html",
-      "date": "Sun, 09 Aug 2026 08:22:00 +0200"
     }
   ]
 }
