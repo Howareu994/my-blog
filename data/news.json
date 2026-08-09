@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Berliner Kriminelle häufiger in Brandenburg aktiv",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berliner-kriminelle-in-brandenburg-aktiv.html",
+      "date": "Sun, 09 Aug 2026 09:23:08 +0200"
+    },
+    {
       "title": "Tausende Menschen besuchten queeres Parkfest in Berlin-Friedrichshain",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-friedrichshain-queeres-parkfest.html",
       "date": "Sun, 09 Aug 2026 08:22:24 +0200"
@@ -29,11 +34,6 @@
       "title": "Unions Friedrich: Gladbach vergessen und wieder Abwehrchef werden",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-1-fc-union-berlin-marvin-friedrich-rueckkehr.html",
       "date": "Sat, 08 Aug 2026 19:28:00 +0200"
-    },
-    {
-      "title": "Am Späti in Berlin-Altglienicke: \"Ich mache alles für den Kiez\"",
-      "link": "https://www.rbb24.de/panorama/thema/spaeti/berlin-altglienicke-am-spaeti-ehrenamtlicher1.html",
-      "date": "Sat, 08 Aug 2026 17:42:15 +0200"
     },
     {
       "title": "Hanfparade in Berlin - deutlich weniger Teilnehmer als angemeldet",
@@ -128,6 +128,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Berliner Kriminelle häufiger in Brandenburg aktiv",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berliner-kriminelle-in-brandenburg-aktiv.html",
+      "date": "Sun, 09 Aug 2026 09:23:08 +0200"
+    },
+    {
       "title": "Tausende Menschen besuchten queeres Parkfest in Berlin-Friedrichshain",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-friedrichshain-queeres-parkfest.html",
       "date": "Sun, 09 Aug 2026 08:22:24 +0200"
@@ -181,11 +186,6 @@
       "title": "Sexualisierte Gewalt: Warum Dating nur eine von vielen gefährlichen Situationen ist",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/lara-missbrauch-sedierung-frauen-beratung-anzeige-umgang.html",
       "date": "Sat, 08 Aug 2026 10:11:12 +0200"
-    },
-    {
-      "title": "Gottesanbeterin breitet sich in Berlin aus",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-insekt-gottesanbeterin-breitet-sich-aus.html",
-      "date": "Fri, 07 Aug 2026 20:03:03 +0200"
     }
   ]
 }
