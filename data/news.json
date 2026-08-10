@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Brandenburg an der Havel: Sprengstoff und Knochen auf leerstehendem Hof entdeckt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-sprengstoff-knochen-fund-leerstehender-hof-aufraeumarbeiten.html",
+      "date": "Mon, 10 Aug 2026 14:39:03 +0200"
+    },
+    {
       "title": "Stacheldraht, Stachelmatten und Beton - der Mauerbau in Bildern",
       "link": "https://www.rbb24.de/politik/beitrag/2026/08/mauerbau-ost-berlin-westberlin-1961.html",
       "date": "Mon, 10 Aug 2026 12:59:01 +0200"
@@ -21,9 +26,29 @@
       "date": "Mon, 10 Aug 2026 11:56:52 +0200"
     },
     {
+      "title": "\"Aus dem Wahltag sind ohne Zweifel Wahlwochen geworden\"",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/briefwahlen-interview-thorsten-faas.html",
+      "date": "Mon, 10 Aug 2026 11:55:46 +0200"
+    },
+    {
       "title": "Demografie: In Brandenburg leben die wenigsten jungen Menschen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-berlin-junge-menschen-demografie.html",
       "date": "Mon, 10 Aug 2026 11:18:28 +0200"
+    },
+    {
+      "title": "Berlin-Charlottenburg: Mann am Bahnhof Zoo erschossen - Täter flüchtig",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-bahnhof-zoo-polizei-toter-erschossen.html",
+      "date": "Mon, 10 Aug 2026 10:47:33 +0200"
+    },
+    {
+      "title": "Das sollten Sie über die Briefwahl in Berlin wissen",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/briefwahl-berlin-abgeordnetenhaus-bezirksverordnetenversammlung-bvv.html",
+      "date": "Mon, 10 Aug 2026 09:06:01 +0200"
+    },
+    {
+      "title": "Ziegenmilch-Betrieb in der Prignitz: Neue Vorwürfe wegen Arbeitsbedingungen",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/08/ziegenmilch-betrieb-prignitz-arbeitsbedingungen-vorwuerfe.html",
+      "date": "Mon, 10 Aug 2026 06:27:00 +0200"
     },
     {
       "title": "Spezialeinsatzkommando stürmt Wohnung in Wittenberge",
@@ -34,31 +59,6 @@
       "title": "RE2 mit 500 Fahrgästen nach Fußballspiel evakuiert",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/cottbus-berlin-regionalexpress-re2-evakuiert-hannover-96.html",
       "date": "Sun, 09 Aug 2026 21:15:12 +0200"
-    },
-    {
-      "title": "Großer Preis von Berlin: Tiffany triumphiert in Hoppegarten",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/136-grosser-preis-hoppgarten-pferderennen-derby-tiffany.html",
-      "date": "Sun, 09 Aug 2026 20:09:54 +0200"
-    },
-    {
-      "title": "Berlin: Hunderte Lehrer fallen wegen Krankheit dauerhaft aus",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-lehrer-krank-ausfaelle-beamte-schule.html",
-      "date": "Sun, 09 Aug 2026 18:27:14 +0200"
-    },
-    {
-      "title": "Energie Cottbus schlägt Hannover 3:1 bei Zweitliga-Rückkehr",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-2-liga-fc-energie-cottbus-hannover-96-liveticker-audiostream-spielbericht.html",
-      "date": "Sun, 09 Aug 2026 17:03:38 +0200"
-    },
-    {
-      "title": "Berlin: Altes Museum sackt langsam ab - und muss dringend saniert werden",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/08/berlin-museumsinsel-altes-museum-sanierung-schaeden.html",
-      "date": "Sun, 09 Aug 2026 16:19:51 +0200"
-    },
-    {
-      "title": "Was war das denn? Berlin muss mal",
-      "link": "https://www.rbb24.de/panorama/thema/was-war-das-denn/kolumne-oeffentliche-toiletten-urinale-wildurinieren-berlin.html",
-      "date": "Sun, 09 Aug 2026 16:14:18 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Brandenburg an der Havel: Sprengstoff und Knochen auf leerstehendem Hof entdeckt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-sprengstoff-knochen-fund-leerstehender-hof-aufraeumarbeiten.html",
+      "date": "Mon, 10 Aug 2026 14:39:03 +0200"
+    },
+    {
       "title": "Bombenfund in Oranienburg: 53 Menschen müssen Wohnungen verlassen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/bombenfund-oranienburg-adolf-damaschke-strasse.html",
       "date": "Mon, 10 Aug 2026 12:49:47 +0200"
@@ -156,11 +161,6 @@
       "title": "Spezialeinsatzkommando stürmt Wohnung in Wittenberge",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-wittenberge-sek-sondereinsatzkommando-stuermt-wohnung.html",
       "date": "Sun, 09 Aug 2026 21:53:53 +0200"
-    },
-    {
-      "title": "Brandenburg an der Havel: Sprengstoff und Knochen auf leerstehendem Hof entdeckt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-sprengstoff-knochen-fund-leerstehender-hof-aufraeumarbeiten.html",
-      "date": "Sun, 09 Aug 2026 21:27:00 +0200"
     },
     {
       "title": "RE2 mit 500 Fahrgästen nach Fußballspiel evakuiert",
