@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Stacheldraht, Stachelmatten und Beton - der Mauerbau in Bildern",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/08/mauerbau-ost-berlin-westberlin-1961.html",
+      "date": "Mon, 10 Aug 2026 11:02:26 +0200"
+    },
+    {
+      "title": "Zukunft von Schloss Meseberg soll sich noch im August klären",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-schloss-meseberg-noch-keine-nachnutzung.html",
+      "date": "Mon, 10 Aug 2026 10:53:38 +0200"
+    },
+    {
       "title": "Bezirke verschicken seit Montag Wahlbenachrichtigungen zur Berlin-Wahl",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahl-2026-wahlbenachrichtigungen.html",
       "date": "Mon, 10 Aug 2026 08:24:40 +0200"
@@ -49,19 +59,14 @@
       "title": "Berlin-Altglienicke: Männer nach Streit von Auto angefahren",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-altglienicke-streit-auto-angefahren-polizei.html",
       "date": "Sun, 09 Aug 2026 16:03:23 +0200"
-    },
-    {
-      "title": "Zukunft von Schloss Meseberg soll sich noch im August klären",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-schloss-meseberg-noch-keine-nachnutzung.html",
-      "date": "Sun, 09 Aug 2026 15:31:58 +0200"
-    },
-    {
-      "title": "Parteibüro der Grünen in Eberswalde beschmiert",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/08/brandenburg-parteibuero-gruene-beschmiert-eberswalde.html",
-      "date": "Sun, 09 Aug 2026 13:06:07 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Schüsse auf 30-Jährigen – Zeugenaufruf",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701194.php",
+      "date": "Mon, 10 Aug 2026 10:41:42 +0200"
+    },
     {
       "title": "Falscher Stromzählerableser – Auseinandersetzung nach versuchtem Trickdiebstahl",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701057.php",
@@ -116,11 +121,6 @@
       "title": "Motorradfahrer bei Verkehrsunfall verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700814.php",
       "date": "Fri, 07 Aug 2026 13:15:00 +0200"
-    },
-    {
-      "title": "DEIG-Einsatz nach Widerstand",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700808.php",
-      "date": "Fri, 07 Aug 2026 13:13:00 +0200"
     }
   ],
   "free_events": [],
@@ -128,9 +128,14 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Zukunft von Schloss Meseberg soll sich noch im August klären",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-schloss-meseberg-noch-keine-nachnutzung.html",
+      "date": "Mon, 10 Aug 2026 10:53:38 +0200"
+    },
+    {
       "title": "Berlin-Charlottenburg: Mann am Bahnhof Zoo erschossen - Täter flüchtig",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-bahnhof-zoo-polizei-toter-erschossen.html",
-      "date": "Mon, 10 Aug 2026 08:05:00 +0200"
+      "date": "Mon, 10 Aug 2026 10:47:33 +0200"
     },
     {
       "title": "Spezialeinsatzkommando stürmt Wohnung in Wittenberge",
@@ -140,7 +145,7 @@
     {
       "title": "Brandenburg an der Havel: Sprengstoff und Knochen auf leerstehendem Hof entdeckt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-sprengstoff-knochen-fund-leerstehender-hof-aufraeumarbeiten.html",
-      "date": "Sun, 09 Aug 2026 21:27:12 +0200"
+      "date": "Sun, 09 Aug 2026 21:27:00 +0200"
     },
     {
       "title": "RE2 mit 500 Fahrgästen nach Fußballspiel evakuiert",
@@ -171,11 +176,6 @@
       "title": "Berlin-Altglienicke: Männer nach Streit von Auto angefahren",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-altglienicke-streit-auto-angefahren-polizei.html",
       "date": "Sun, 09 Aug 2026 16:03:23 +0200"
-    },
-    {
-      "title": "Zukunft von Schloss Meseberg soll sich noch im August klären",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-schloss-meseberg-noch-keine-nachnutzung.html",
-      "date": "Sun, 09 Aug 2026 15:31:58 +0200"
     },
     {
       "title": "Schüsse auf Friseurladen in Marzahn-Hellersdorf abgegeben",
