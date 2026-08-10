@@ -1,6 +1,31 @@
 {
   "traffic": [
     {
+      "title": "Bahn registriert mehr Übergriffe auf Zugbegleiter",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/bahn-mehr-uebergriffe-auf-zugbegleiter-berlin-brandenburg.html",
+      "date": "Mon, 10 Aug 2026 19:19:08 +0200"
+    },
+    {
+      "title": "Zwei Motorradfahrer sterben nach Unfällen in Teltow-Fläming",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/toedliche-verkehrsunfaelle-teltow-flaeming-motorrad-brandenburg.html",
+      "date": "Mon, 10 Aug 2026 19:06:24 +0200"
+    },
+    {
+      "title": "Berlin-Charlottenburg: Mann am Bahnhof Zoo erschossen - Täter flüchtig",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-bahnhof-zoo-polizei-toter-erschossen.html",
+      "date": "Mon, 10 Aug 2026 18:50:31 +0200"
+    },
+    {
+      "title": "Mehrere Tankstellen in Berlin erhöhen offenbar unerlaubt Spritpreise",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/08/berlin-tankstellen-tanken-regelung-zwoelf-uhr-verstoesse-preis.html",
+      "date": "Mon, 10 Aug 2026 18:43:48 +0200"
+    },
+    {
+      "title": "Beachvolleyballerin Louisa Lippmann über ihren Partnerinnenwechsel",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/beachvolleyball-louisa-lippmann-partnerwechsel-melanie-paul-europameisterschaft-br-volleys.html",
+      "date": "Mon, 10 Aug 2026 18:02:42 +0200"
+    },
+    {
       "title": "Das sind die Gewinner und Verlierer des Union-Trainingslagers",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-1-fc-union-berlin-trainingslager-fazit-gewinner-verlierer-lustrinelli.html",
       "date": "Mon, 10 Aug 2026 17:51:37 +0200"
@@ -34,31 +59,6 @@
       "title": "Rekordhitze belastet Berliner Nahverkehr",
       "link": "https://www.rbb24.de/politik/beitrag/2026/08/rekordhitze-belastet-nahverkehr.html",
       "date": "Mon, 10 Aug 2026 15:36:39 +0200"
-    },
-    {
-      "title": "Berlin-Charlottenburg: Mann am Bahnhof Zoo erschossen - Täter flüchtig",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-bahnhof-zoo-polizei-toter-erschossen.html",
-      "date": "Mon, 10 Aug 2026 15:34:12 +0200"
-    },
-    {
-      "title": "Berlin: 23-Jähriger im Strandbad Halensee ertrunken",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-notfaelle-strandbad-halensee-mann-ertrunken.html",
-      "date": "Mon, 10 Aug 2026 15:04:00 +0200"
-    },
-    {
-      "title": "Auswirkungen von Hitze auf Seen: Ein Ökosystem unter Stress",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/07/seen-fluesse-hohe-wassertemperaturen-folgen-klima.html",
-      "date": "Mon, 10 Aug 2026 14:28:01 +0200"
-    },
-    {
-      "title": "Stacheldraht, Stachelmatten und Beton - der Mauerbau in Bildern",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/08/mauerbau-ost-berlin-westberlin-1961.html",
-      "date": "Mon, 10 Aug 2026 12:59:01 +0200"
-    },
-    {
-      "title": "rbb24.de führt ARD-Login für die Kommentarfunktion ein",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/rbb24-kommentarfunktion-ARD-Login.html",
-      "date": "Mon, 10 Aug 2026 12:22:06 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,21 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Bahn registriert mehr Übergriffe auf Zugbegleiter",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/bahn-mehr-uebergriffe-auf-zugbegleiter-berlin-brandenburg.html",
+      "date": "Mon, 10 Aug 2026 19:19:08 +0200"
+    },
+    {
+      "title": "Zwei Motorradfahrer sterben nach Unfällen in Teltow-Fläming",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/toedliche-verkehrsunfaelle-teltow-flaeming-motorrad-brandenburg.html",
+      "date": "Mon, 10 Aug 2026 19:06:24 +0200"
+    },
+    {
+      "title": "Berlin-Charlottenburg: Mann am Bahnhof Zoo erschossen - Täter flüchtig",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-bahnhof-zoo-polizei-toter-erschossen.html",
+      "date": "Mon, 10 Aug 2026 18:50:31 +0200"
+    },
+    {
       "title": "RE2 mit 500 Fahrgästen nach Fußballspiel evakuiert",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/cottbus-berlin-regionalexpress-re2-evakuiert-hannover-96.html",
       "date": "Mon, 10 Aug 2026 17:23:12 +0200"
@@ -141,11 +156,6 @@
       "title": "SEK stürmt Wohnung von 42-Jährigem in Wittenberge",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-wittenberge-sek-sondereinsatzkommando-stuermt-wohnung.html",
       "date": "Mon, 10 Aug 2026 15:58:47 +0200"
-    },
-    {
-      "title": "Berlin-Charlottenburg: Mann am Bahnhof Zoo erschossen - Täter flüchtig",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-bahnhof-zoo-polizei-toter-erschossen.html",
-      "date": "Mon, 10 Aug 2026 15:34:12 +0200"
     },
     {
       "title": "Berlin: 23-Jähriger im Strandbad Halensee ertrunken",
@@ -176,16 +186,6 @@
       "title": "\"World Naked Bike Ride\": Naturisten radeln nackt durch Berlin",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-naturisten-radtour-nackt-world-naked-bike-ride.html",
       "date": "Sun, 09 Aug 2026 20:00:27 +0200"
-    },
-    {
-      "title": "Berlin: Hunderte Lehrer fallen wegen Krankheit dauerhaft aus",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-lehrer-krank-ausfaelle-beamte-schule.html",
-      "date": "Sun, 09 Aug 2026 18:27:14 +0200"
-    },
-    {
-      "title": "Was war das denn? Berlin muss mal",
-      "link": "https://www.rbb24.de/panorama/thema/was-war-das-denn/kolumne-oeffentliche-toiletten-urinale-wildurinieren-berlin.html",
-      "date": "Sun, 09 Aug 2026 16:14:18 +0200"
     }
   ]
 }
