@@ -1,19 +1,29 @@
 {
   "traffic": [
     {
-      "title": "Stacheldraht, Stachelmatten und Beton - der Mauerbau in Bildern",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/08/mauerbau-ost-berlin-westberlin-1961.html",
-      "date": "Mon, 10 Aug 2026 11:02:26 +0200"
+      "title": "rbb24.de führt ARD-Login für die Kommentarfunktion ein",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/rbb24-kommentarfunktion-ARD-Login.html",
+      "date": "Mon, 10 Aug 2026 12:22:06 +0200"
     },
     {
-      "title": "Zukunft von Schloss Meseberg soll sich noch im August klären",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-schloss-meseberg-noch-keine-nachnutzung.html",
-      "date": "Mon, 10 Aug 2026 10:53:38 +0200"
+      "title": "Berlin: 23-Jähriger im Strandbad Halensee ertrunken",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-notfaelle-strandbad-halensee-mann-ertrunken.html",
+      "date": "Mon, 10 Aug 2026 12:18:36 +0200"
     },
     {
       "title": "Bezirke verschicken seit Montag Wahlbenachrichtigungen zur Berlin-Wahl",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahl-2026-wahlbenachrichtigungen.html",
-      "date": "Mon, 10 Aug 2026 08:24:40 +0200"
+      "date": "Mon, 10 Aug 2026 11:56:52 +0200"
+    },
+    {
+      "title": "Demografie: In Brandenburg leben die wenigsten jungen Menschen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-berlin-junge-menschen-demografie.html",
+      "date": "Mon, 10 Aug 2026 11:18:28 +0200"
+    },
+    {
+      "title": "Stacheldraht, Stachelmatten und Beton - der Mauerbau in Bildern",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/08/mauerbau-ost-berlin-westberlin-1961.html",
+      "date": "Mon, 10 Aug 2026 11:02:26 +0200"
     },
     {
       "title": "Spezialeinsatzkommando stürmt Wohnung in Wittenberge",
@@ -29,11 +39,6 @@
       "title": "Großer Preis von Berlin: Tiffany triumphiert in Hoppegarten",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/136-grosser-preis-hoppgarten-pferderennen-derby-tiffany.html",
       "date": "Sun, 09 Aug 2026 20:09:54 +0200"
-    },
-    {
-      "title": "Berlin: 25-Jähriger im Strandbad Halensee ertrunken",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-notfaelle-strandbad-halensee-mann-ertrunken.html",
-      "date": "Sun, 09 Aug 2026 20:03:13 +0200"
     },
     {
       "title": "Berlin: Hunderte Lehrer fallen wegen Krankheit dauerhaft aus",
@@ -54,14 +59,19 @@
       "title": "Was war das denn? Berlin muss mal",
       "link": "https://www.rbb24.de/panorama/thema/was-war-das-denn/kolumne-oeffentliche-toiletten-urinale-wildurinieren-berlin.html",
       "date": "Sun, 09 Aug 2026 16:14:18 +0200"
-    },
-    {
-      "title": "Berlin-Altglienicke: Männer nach Streit von Auto angefahren",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-altglienicke-streit-auto-angefahren-polizei.html",
-      "date": "Sun, 09 Aug 2026 16:03:23 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Mann mit Messer verletzt – Tatverdächtiger festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701262.php",
+      "date": "Mon, 10 Aug 2026 12:25:09 +0200"
+    },
+    {
+      "title": "Verhaltensauffällige Person - DEIG-Einsatz",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701214.php",
+      "date": "Mon, 10 Aug 2026 11:02:53 +0200"
+    },
     {
       "title": "Schüsse auf 30-Jährigen – Zeugenaufruf",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701194.php",
@@ -111,16 +121,6 @@
       "title": "Unbekannter entwendet Regenbogenflaggen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700987.php",
       "date": "Sat, 08 Aug 2026 11:04:31 +0200"
-    },
-    {
-      "title": "Versuchter Totschlag – Mann vor Café angeschossen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700985.php",
-      "date": "Sat, 08 Aug 2026 10:30:18 +0200"
-    },
-    {
-      "title": "Motorradfahrer bei Verkehrsunfall verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700814.php",
-      "date": "Fri, 07 Aug 2026 13:15:00 +0200"
     }
   ],
   "free_events": [],
@@ -128,9 +128,24 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Zukunft von Schloss Meseberg soll sich noch im August klären",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-schloss-meseberg-noch-keine-nachnutzung.html",
-      "date": "Mon, 10 Aug 2026 10:53:38 +0200"
+      "title": "Bombenfund in Oranienburg: 53 Menschen müssen Wohnungen verlassen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/bombenfund-oranienburg-adolf-damaschke-strasse.html",
+      "date": "Mon, 10 Aug 2026 12:49:47 +0200"
+    },
+    {
+      "title": "rbb24.de führt ARD-Login für die Kommentarfunktion ein",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/rbb24-kommentarfunktion-ARD-Login.html",
+      "date": "Mon, 10 Aug 2026 12:22:06 +0200"
+    },
+    {
+      "title": "Berlin: 23-Jähriger im Strandbad Halensee ertrunken",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-notfaelle-strandbad-halensee-mann-ertrunken.html",
+      "date": "Mon, 10 Aug 2026 12:18:36 +0200"
+    },
+    {
+      "title": "Demografie: In Brandenburg leben die wenigsten jungen Menschen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-berlin-junge-menschen-demografie.html",
+      "date": "Mon, 10 Aug 2026 11:18:28 +0200"
     },
     {
       "title": "Berlin-Charlottenburg: Mann am Bahnhof Zoo erschossen - Täter flüchtig",
@@ -153,11 +168,6 @@
       "date": "Sun, 09 Aug 2026 21:15:12 +0200"
     },
     {
-      "title": "Berlin: 25-Jähriger im Strandbad Halensee ertrunken",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-notfaelle-strandbad-halensee-mann-ertrunken.html",
-      "date": "Sun, 09 Aug 2026 20:03:13 +0200"
-    },
-    {
       "title": "\"World Naked Bike Ride\": Naturisten radeln nackt durch Berlin",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-naturisten-radtour-nackt-world-naked-bike-ride.html",
       "date": "Sun, 09 Aug 2026 20:00:27 +0200"
@@ -176,16 +186,6 @@
       "title": "Berlin-Altglienicke: Männer nach Streit von Auto angefahren",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-altglienicke-streit-auto-angefahren-polizei.html",
       "date": "Sun, 09 Aug 2026 16:03:23 +0200"
-    },
-    {
-      "title": "Schüsse auf Friseurladen in Marzahn-Hellersdorf abgegeben",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-schuesse-friseurladen-marzahn-hellersdorf.html",
-      "date": "Sun, 09 Aug 2026 13:03:32 +0200"
-    },
-    {
-      "title": "Frau stirbt bei Hausbrand in Lichtenrade",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/frau-stirbt-bei-hausbrand-lichtenrade.html",
-      "date": "Sun, 09 Aug 2026 12:51:38 +0200"
     }
   ]
 }
