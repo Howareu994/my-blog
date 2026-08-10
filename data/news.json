@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Bezirke verschicken seit Montag Wahlbenachrichtigungen zur Berlin-Wahl",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahl-2026-wahlbenachrichtigungen.html",
+      "date": "Mon, 10 Aug 2026 08:24:40 +0200"
+    },
+    {
       "title": "Spezialeinsatzkommando stürmt Wohnung in Wittenberge",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-wittenberge-sek-sondereinsatzkommando-stuermt-wohnung.html",
       "date": "Sun, 09 Aug 2026 21:53:53 +0200"
@@ -54,11 +59,6 @@
       "title": "Parteibüro der Grünen in Eberswalde beschmiert",
       "link": "https://www.rbb24.de/politik/beitrag/2026/08/brandenburg-parteibuero-gruene-beschmiert-eberswalde.html",
       "date": "Sun, 09 Aug 2026 13:06:07 +0200"
-    },
-    {
-      "title": "Schüsse auf Friseurladen in Marzahn-Hellersdorf abgegeben",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-schuesse-friseurladen-marzahn-hellersdorf.html",
-      "date": "Sun, 09 Aug 2026 13:03:32 +0200"
     }
   ],
   "police": [
@@ -128,9 +128,9 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Berlin-Charlottenburg: Mann am Bahnhof Zoo erschossen",
+      "title": "Berlin-Charlottenburg: Mann am Bahnhof Zoo erschossen - Täter flüchtig",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-bahnhof-zoo-polizei-toter-erschossen.html",
-      "date": "Mon, 10 Aug 2026 06:48:00 +0200"
+      "date": "Mon, 10 Aug 2026 08:05:00 +0200"
     },
     {
       "title": "Spezialeinsatzkommando stürmt Wohnung in Wittenberge",
