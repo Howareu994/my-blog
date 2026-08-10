@@ -1,9 +1,19 @@
 {
   "traffic": [
     {
+      "title": "RE2 mit 500 Fahrgästen nach Fußballspiel evakuiert",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/cottbus-berlin-regionalexpress-re2-evakuiert-hannover-96.html",
+      "date": "Mon, 10 Aug 2026 17:23:12 +0200"
+    },
+    {
+      "title": "Geburtshilfe am Immanuel-Klinikum Bernau schließt",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/08/bernau-barnim-geburtsklinik-schliesst-ostbrandenburg-immanuel-klinikum.html",
+      "date": "Mon, 10 Aug 2026 16:43:43 +0200"
+    },
+    {
       "title": "Beginn des Mauerbaus vor 65 Jahren: Berlin und Brandenburg erinnern",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-65-jahre-mauerbau-installation-brandenburger-tor.html",
-      "date": "Mon, 10 Aug 2026 16:13:58 +0200"
+      "date": "Mon, 10 Aug 2026 16:20:34 +0200"
     },
     {
       "title": "Brandenburger Rope Skipper treten bei EM in Oslo an",
@@ -49,19 +59,14 @@
       "title": "rbb24.de führt ARD-Login für die Kommentarfunktion ein",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/rbb24-kommentarfunktion-ARD-Login.html",
       "date": "Mon, 10 Aug 2026 12:22:06 +0200"
-    },
-    {
-      "title": "Bezirke verschicken seit Montag Wahlbenachrichtigungen zur Berlin-Wahl",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahl-2026-wahlbenachrichtigungen.html",
-      "date": "Mon, 10 Aug 2026 11:56:52 +0200"
-    },
-    {
-      "title": "\"Aus dem Wahltag sind ohne Zweifel Wahlwochen geworden\"",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/briefwahlen-interview-thorsten-faas.html",
-      "date": "Mon, 10 Aug 2026 11:55:46 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Geschwindigkeitskontrollen im Rahmen der zweiten ROADPOL-Aktionswoche „Speedweek“ 2026 – Polizei Berlin zieht Bilanz",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701388.php",
+      "date": "Mon, 10 Aug 2026 16:19:24 +0200"
+    },
     {
       "title": "Mann mit Messer verletzt – Tatverdächtiger festgenommen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701262.php",
@@ -116,11 +121,6 @@
       "title": "E-Scooter-Fahrer nach Sturz in Lebensgefahr",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700996.php",
       "date": "Sat, 08 Aug 2026 11:40:30 +0200"
-    },
-    {
-      "title": "Unbekannter entwendet Regenbogenflaggen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700987.php",
-      "date": "Sat, 08 Aug 2026 11:04:31 +0200"
     }
   ],
   "free_events": [],
@@ -128,9 +128,14 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "RE2 mit 500 Fahrgästen nach Fußballspiel evakuiert",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/cottbus-berlin-regionalexpress-re2-evakuiert-hannover-96.html",
+      "date": "Mon, 10 Aug 2026 17:23:12 +0200"
+    },
+    {
       "title": "Beginn des Mauerbaus vor 65 Jahren: Berlin und Brandenburg erinnern",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-65-jahre-mauerbau-installation-brandenburger-tor.html",
-      "date": "Mon, 10 Aug 2026 16:13:58 +0200"
+      "date": "Mon, 10 Aug 2026 16:20:34 +0200"
     },
     {
       "title": "SEK stürmt Wohnung von 42-Jährigem in Wittenberge",
@@ -166,11 +171,6 @@
       "title": "Demografie: In Brandenburg leben die wenigsten jungen Menschen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-berlin-junge-menschen-demografie.html",
       "date": "Mon, 10 Aug 2026 11:18:28 +0200"
-    },
-    {
-      "title": "RE2 mit 500 Fahrgästen nach Fußballspiel evakuiert",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/cottbus-berlin-regionalexpress-re2-evakuiert-hannover-96.html",
-      "date": "Sun, 09 Aug 2026 21:15:12 +0200"
     },
     {
       "title": "\"World Naked Bike Ride\": Naturisten radeln nackt durch Berlin",
