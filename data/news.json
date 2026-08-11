@@ -1,14 +1,49 @@
 {
   "traffic": [
     {
-      "title": "Mit kreativem Wahlkampf gegen die 5-Prozent-Hürde",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahl-2026-parteien-agh-5-prozent-huerde.html",
-      "date": "Tue, 11 Aug 2026 16:08:03 +0200"
+      "title": "Cyber-Angriff auf Stiftung Brandenburgische Gedenkstätten",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/cyber-angriff-auf-stiftung-brandenburgische-gedenkstaetten.html",
+      "date": "Tue, 11 Aug 2026 17:29:43 +0200"
     },
     {
-      "title": "Wohnungsbrand in Berlin-Biesdorf - zehn Personen verletzt",
+      "title": "RE1-Linie: Bauarbeiten verzögern sich",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-fangschleuse-bauarbeiten-bahn-re1-frankfurt-oder.html",
+      "date": "Tue, 11 Aug 2026 17:25:13 +0200"
+    },
+    {
+      "title": "Nach Ausschreitungen gegen Hertha: Dynamo kann K-Block öffnen",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-zweite-bundesliga-dynamo-dresden-k-block-strafe-ausgesetzt-dfb-hertha-bsc-krawalle.html",
+      "date": "Tue, 11 Aug 2026 17:21:31 +0200"
+    },
+    {
+      "title": "Cassiopeia & Co.: Einigung über Zukunft des RAW-Geländes erzielt",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/08/berlin-zukunft-raw-gelaende-plaene-senat-bezirk-investor.html",
+      "date": "Tue, 11 Aug 2026 17:15:48 +0200"
+    },
+    {
+      "title": "23 Jahre alte Frau stirbt nach Badeunfall am Kiessee in Bestensee",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/badeunfall-kiessee-bestensee-junge-frau-tot.html",
+      "date": "Tue, 11 Aug 2026 16:46:02 +0200"
+    },
+    {
+      "title": "Bad vor der Volksbühne bleibt zwei Tage geschlossen",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/08/volksbad-berliner-volksbuehne-geschlossen-dusche-kaputt.html",
+      "date": "Tue, 11 Aug 2026 16:44:40 +0200"
+    },
+    {
+      "title": "Nach Stromausfall: Berliner Senat will stabilen Mobilfunk",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/08/stromausfall-berlin-mobilfunk-masten-notstrom-konzept.html",
+      "date": "Tue, 11 Aug 2026 16:30:00 +0200"
+    },
+    {
+      "title": "Mit kreativem Wahlkampf gegen die 5-Prozent-Hürde",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahl-2026-parteien-agh-5-prozent-huerde.html",
+      "date": "Tue, 11 Aug 2026 16:22:00 +0200"
+    },
+    {
+      "title": "Wohnungsbrand in Berlin-Biesdorf - acht Personen im Krankenhaus",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-marzahn-hellersdorf-wohnhaus-brand.html",
-      "date": "Tue, 11 Aug 2026 16:05:38 +0200"
+      "date": "Tue, 11 Aug 2026 16:19:20 +0200"
     },
     {
       "title": "Mangan im Trinkwasser: Grenzwert in Groß Kreutz (Havel) überschritten",
@@ -24,41 +59,6 @@
       "title": "Parteibüro der Grünen in Eberswalde beschmiert",
       "link": "https://www.rbb24.de/politik/beitrag/2026/08/brandenburg-parteibuero-gruene-beschmiert-eberswalde.html",
       "date": "Tue, 11 Aug 2026 15:07:56 +0200"
-    },
-    {
-      "title": "BVG testet Pilotprojekt für mehr Sauberkeit mithilfe von Whatsapp",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/bvg-testet-pilotprojekt-sauberkeit-whatsapp.html",
-      "date": "Tue, 11 Aug 2026 15:02:18 +0200"
-    },
-    {
-      "title": "Vetschau: Neunjähriges Mädchen stirbt nach Badeunfall im Freibad",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/badeunfall-vetschau-freibad-neunjaehriges-maedchen-stirbt.html",
-      "date": "Tue, 11 Aug 2026 14:56:39 +0200"
-    },
-    {
-      "title": "RE1-Linie: Bauarbeiten verzögern sich",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-fangschleuse-bauarbeiten-bahn-re1-frankfurt-oder.html",
-      "date": "Tue, 11 Aug 2026 14:08:36 +0200"
-    },
-    {
-      "title": "Berlin: \"Rave the Planet\" soll am Samstag mit Schweigeminute starten",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/rave-the-planet-techno-parade-csd-anschlag.html",
-      "date": "Tue, 11 Aug 2026 13:38:25 +0200"
-    },
-    {
-      "title": "Sonnenfinsternis und Perseiden-Schauer am Mittwochabend",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/sonnenfinsternis-perseiden-berlin-brandenburg-wetter-brillen-orte.html",
-      "date": "Tue, 11 Aug 2026 13:32:22 +0200"
-    },
-    {
-      "title": "Polizei untersucht Konflikt nach Schüssen im Graefekiez",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-schuesse-graefestrasse-kreuzberg-polizei-zusammenhang-banden-konflikt.html",
-      "date": "Tue, 11 Aug 2026 13:11:13 +0200"
-    },
-    {
-      "title": "Niedrigwasser: Wartezeiten und Sperrungen an Schleusen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/niedrigwasser-havel-wartezeit-schleuse-boote.html",
-      "date": "Tue, 11 Aug 2026 11:42:00 +0200"
     }
   ],
   "police": [
@@ -128,9 +128,24 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Wohnungsbrand in Berlin-Biesdorf - zehn Personen verletzt",
+      "title": "Cyber-Angriff auf Stiftung Brandenburgische Gedenkstätten",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/cyber-angriff-auf-stiftung-brandenburgische-gedenkstaetten.html",
+      "date": "Tue, 11 Aug 2026 17:29:43 +0200"
+    },
+    {
+      "title": "RE1-Linie: Bauarbeiten verzögern sich",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-fangschleuse-bauarbeiten-bahn-re1-frankfurt-oder.html",
+      "date": "Tue, 11 Aug 2026 17:25:13 +0200"
+    },
+    {
+      "title": "23 Jahre alte Frau stirbt nach Badeunfall am Kiessee in Bestensee",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/badeunfall-kiessee-bestensee-junge-frau-tot.html",
+      "date": "Tue, 11 Aug 2026 16:46:02 +0200"
+    },
+    {
+      "title": "Wohnungsbrand in Berlin-Biesdorf - acht Personen im Krankenhaus",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-marzahn-hellersdorf-wohnhaus-brand.html",
-      "date": "Tue, 11 Aug 2026 16:05:38 +0200"
+      "date": "Tue, 11 Aug 2026 16:19:20 +0200"
     },
     {
       "title": "Mangan im Trinkwasser: Grenzwert in Groß Kreutz (Havel) überschritten",
@@ -153,11 +168,6 @@
       "date": "Tue, 11 Aug 2026 14:43:31 +0200"
     },
     {
-      "title": "RE1-Linie: Bauarbeiten verzögern sich",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-fangschleuse-bauarbeiten-bahn-re1-frankfurt-oder.html",
-      "date": "Tue, 11 Aug 2026 14:08:36 +0200"
-    },
-    {
       "title": "Berlin: \"Rave the Planet\" soll am Samstag mit Schweigeminute starten",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/rave-the-planet-techno-parade-csd-anschlag.html",
       "date": "Tue, 11 Aug 2026 13:38:25 +0200"
@@ -176,16 +186,6 @@
       "title": "Niedrigwasser: Wartezeiten und Sperrungen an Schleusen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/niedrigwasser-havel-wartezeit-schleuse-boote.html",
       "date": "Tue, 11 Aug 2026 11:42:00 +0200"
-    },
-    {
-      "title": "Verein \"Berliner Unterwelten\" will NS-Bunker in Mitte erhalten",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/verein-berliner-unterwelten-bunker-mitte-erhalten.html",
-      "date": "Tue, 11 Aug 2026 11:35:56 +0200"
-    },
-    {
-      "title": "Storch im Letschiner Ortsteil Groß-Neuendorf von Kirche geschossen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/letschin-gross-neuendorf-storch-abgeschossen.html",
-      "date": "Tue, 11 Aug 2026 11:15:13 +0200"
     }
   ]
 }
