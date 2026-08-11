@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Cassiopeia & Co.: Einigung über Zukunft des RAW-Geländes erzielt",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/08/berlin-zukunft-raw-gelaende-plaene-senat-bezirk-investor.html",
+      "date": "Tue, 11 Aug 2026 18:24:17 +0200"
+    },
+    {
+      "title": "Bad vor der Volksbühne bleibt zwei Tage geschlossen",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/08/volksbad-berliner-volksbuehne-geschlossen-dusche-kaputt.html",
+      "date": "Tue, 11 Aug 2026 18:15:06 +0200"
+    },
+    {
+      "title": "Storch in Letschin von Kirchdach geschossen - OP in Praxis",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/letschin-gross-neuendorf-storch-abgeschossen.html",
+      "date": "Tue, 11 Aug 2026 18:06:54 +0200"
+    },
+    {
       "title": "Cyber-Angriff auf Stiftung Brandenburgische Gedenkstätten",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/cyber-angriff-auf-stiftung-brandenburgische-gedenkstaetten.html",
       "date": "Tue, 11 Aug 2026 17:29:43 +0200"
@@ -16,19 +31,9 @@
       "date": "Tue, 11 Aug 2026 17:21:31 +0200"
     },
     {
-      "title": "Cassiopeia & Co.: Einigung über Zukunft des RAW-Geländes erzielt",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/08/berlin-zukunft-raw-gelaende-plaene-senat-bezirk-investor.html",
-      "date": "Tue, 11 Aug 2026 17:15:48 +0200"
-    },
-    {
       "title": "23 Jahre alte Frau stirbt nach Badeunfall am Kiessee in Bestensee",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/badeunfall-kiessee-bestensee-junge-frau-tot.html",
       "date": "Tue, 11 Aug 2026 16:46:02 +0200"
-    },
-    {
-      "title": "Bad vor der Volksbühne bleibt zwei Tage geschlossen",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/08/volksbad-berliner-volksbuehne-geschlossen-dusche-kaputt.html",
-      "date": "Tue, 11 Aug 2026 16:44:40 +0200"
     },
     {
       "title": "Nach Stromausfall: Berliner Senat will stabilen Mobilfunk",
@@ -54,11 +59,6 @@
       "title": "Geburtshilfe am Immanuel-Klinikum Bernau schließt",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/08/bernau-barnim-geburtsklinik-schliesst-ostbrandenburg-immanuel-klinikum.html",
       "date": "Tue, 11 Aug 2026 15:37:08 +0200"
-    },
-    {
-      "title": "Parteibüro der Grünen in Eberswalde beschmiert",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/08/brandenburg-parteibuero-gruene-beschmiert-eberswalde.html",
-      "date": "Tue, 11 Aug 2026 15:07:56 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,16 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Brandenburgs Fünf-Seen-Verbund zwischen Sandwüste und Besucherzahlen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/lausitzer-seenland-fuenf-seen-verbund-bilanz.html",
+      "date": "Tue, 11 Aug 2026 18:11:31 +0200"
+    },
+    {
+      "title": "Storch in Letschin von Kirchdach geschossen - OP in Praxis",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/letschin-gross-neuendorf-storch-abgeschossen.html",
+      "date": "Tue, 11 Aug 2026 18:06:54 +0200"
+    },
+    {
       "title": "Cyber-Angriff auf Stiftung Brandenburgische Gedenkstätten",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/cyber-angriff-auf-stiftung-brandenburgische-gedenkstaetten.html",
       "date": "Tue, 11 Aug 2026 17:29:43 +0200"
@@ -176,16 +186,6 @@
       "title": "Sonnenfinsternis und Perseiden-Schauer am Mittwochabend",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/sonnenfinsternis-perseiden-berlin-brandenburg-wetter-brillen-orte.html",
       "date": "Tue, 11 Aug 2026 13:32:22 +0200"
-    },
-    {
-      "title": "Polizei untersucht Konflikt nach Schüssen im Graefekiez",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-schuesse-graefestrasse-kreuzberg-polizei-zusammenhang-banden-konflikt.html",
-      "date": "Tue, 11 Aug 2026 13:11:13 +0200"
-    },
-    {
-      "title": "Niedrigwasser: Wartezeiten und Sperrungen an Schleusen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/niedrigwasser-havel-wartezeit-schleuse-boote.html",
-      "date": "Tue, 11 Aug 2026 11:42:00 +0200"
     }
   ]
 }
