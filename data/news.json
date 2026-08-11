@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Marzahn-Hellersdorf: Wohnungsbrand in Biesdorf greift auf Dach über",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-marzahn-hellersdorf-wohnhaus-brand.html",
+      "date": "Tue, 11 Aug 2026 12:33:28 +0200"
+    },
+    {
       "title": "Niedrigwasser: Wartezeiten und Sperrungen an Schleusen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/niedrigwasser-havel-wartezeit-schleuse-boote.html",
       "date": "Tue, 11 Aug 2026 11:42:00 +0200"
@@ -54,14 +59,19 @@
       "title": "Zwei Motorradfahrer sterben nach Unfällen in Teltow-Fläming",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/toedliche-verkehrsunfaelle-teltow-flaeming-motorrad-brandenburg.html",
       "date": "Mon, 10 Aug 2026 19:06:24 +0200"
-    },
-    {
-      "title": "Berlin-Charlottenburg: Mann am Bahnhof Zoo erschossen - Täter flüchtig",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-bahnhof-zoo-polizei-toter-erschossen.html",
-      "date": "Mon, 10 Aug 2026 18:50:31 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Fahrradfahrer verstorben",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701657.php",
+      "date": "Tue, 11 Aug 2026 12:15:05 +0200"
+    },
+    {
+      "title": "Durch Messerangriff erheblich verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701640.php",
+      "date": "Tue, 11 Aug 2026 11:52:36 +0200"
+    },
     {
       "title": "Gewerbsmäßiger Computerbetrug und Diebstahl – Wer erkennt den Tatverdächtigen?",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701498.php",
@@ -111,22 +121,17 @@
       "title": "Feuer in der Küche – Bewohnerin verstorben",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701046.php",
       "date": "Sun, 09 Aug 2026 10:55:01 +0200"
-    },
-    {
-      "title": "Autofahrerin fährt Radfahrer an",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701003.php",
-      "date": "Sat, 08 Aug 2026 12:40:16 +0200"
-    },
-    {
-      "title": "Wahlkampfhelfer beim Plakatieren angefahren",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700998.php",
-      "date": "Sat, 08 Aug 2026 11:46:50 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Marzahn-Hellersdorf: Wohnungsbrand in Biesdorf greift auf Dach über",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-marzahn-hellersdorf-wohnhaus-brand.html",
+      "date": "Tue, 11 Aug 2026 12:33:28 +0200"
+    },
     {
       "title": "Niedrigwasser: Wartezeiten und Sperrungen an Schleusen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/niedrigwasser-havel-wartezeit-schleuse-boote.html",
@@ -181,11 +186,6 @@
       "title": "SEK stürmt Wohnung von 42-Jährigem in Wittenberge",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-wittenberge-sek-sondereinsatzkommando-stuermt-wohnung.html",
       "date": "Mon, 10 Aug 2026 15:58:47 +0200"
-    },
-    {
-      "title": "Berlin: 23-Jähriger im Strandbad Halensee ertrunken",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-notfaelle-strandbad-halensee-mann-ertrunken.html",
-      "date": "Mon, 10 Aug 2026 15:04:00 +0200"
     }
   ]
 }
