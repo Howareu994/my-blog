@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Babelsberg 03 gibt Führung her - Altglienicke weiter ungeschlagen",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-regionalliga-nordost-vsg-altglienicke-hertha-bsc-ii-magdeburg-sv-babelsberg-03-spielbericht-ergebnisse.html",
+      "date": "Tue, 11 Aug 2026 21:31:13 +0200"
+    },
+    {
+      "title": "EM in Paris: Berlinerin Gose schwimmt zu Silbermedaille",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/schwimm-em-isabel-gose-silber-medaille-800-meter-freistil-werner-bronze.html",
+      "date": "Tue, 11 Aug 2026 21:30:00 +0200"
+    },
+    {
+      "title": "Neue Bienenseuche-Nachweise: Imker müssen Proben ihrer Völker einreichen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/tierseuche-amerikanische-faulbrut-bienen-imker-proben-voelker-brandenburg.html",
+      "date": "Tue, 11 Aug 2026 21:10:25 +0200"
+    },
+    {
       "title": "Cassiopeia & Co.: Einigung über Zukunft des RAW-Geländes erzielt",
       "link": "https://www.rbb24.de/politik/beitrag/2026/08/berlin-zukunft-raw-gelaende-plaene-senat-bezirk-investor.html",
       "date": "Tue, 11 Aug 2026 20:43:26 +0200"
@@ -44,21 +59,6 @@
       "title": "23 Jahre alte Frau stirbt nach Badeunfall am Kiessee in Bestensee",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/badeunfall-kiessee-bestensee-junge-frau-tot.html",
       "date": "Tue, 11 Aug 2026 16:46:02 +0200"
-    },
-    {
-      "title": "Nach Stromausfall: Berliner Senat will stabilen Mobilfunk",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/08/stromausfall-berlin-mobilfunk-masten-notstrom-konzept.html",
-      "date": "Tue, 11 Aug 2026 16:30:00 +0200"
-    },
-    {
-      "title": "Mit kreativem Wahlkampf gegen die 5-Prozent-Hürde",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahl-2026-parteien-agh-5-prozent-huerde.html",
-      "date": "Tue, 11 Aug 2026 16:22:00 +0200"
-    },
-    {
-      "title": "Wohnungsbrand in Berlin-Biesdorf - acht Personen im Krankenhaus",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-marzahn-hellersdorf-wohnhaus-brand.html",
-      "date": "Tue, 11 Aug 2026 16:19:20 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Neue Bienenseuche-Nachweise: Imker müssen Proben ihrer Völker einreichen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/tierseuche-amerikanische-faulbrut-bienen-imker-proben-voelker-brandenburg.html",
+      "date": "Tue, 11 Aug 2026 21:10:25 +0200"
+    },
+    {
       "title": "CSD-Anschlag: Bundesanwaltschaft stellt Ermittlungsverfahren gegen Abdul B. ein",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/csd-anschlag-bundesanwaltschaft-berlin-tiergarten-stellt-ermittlungsverfahren-abdul-b.html",
       "date": "Tue, 11 Aug 2026 19:07:43 +0200"
@@ -181,11 +186,6 @@
       "title": "Wie der Klostergarten Neuzelle im Klimawandel überlebt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/garten-kloster-neuzelle-klimawandel.html",
       "date": "Tue, 11 Aug 2026 14:43:31 +0200"
-    },
-    {
-      "title": "Berlin: \"Rave the Planet\" soll am Samstag mit Schweigeminute starten",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/rave-the-planet-techno-parade-csd-anschlag.html",
-      "date": "Tue, 11 Aug 2026 13:38:25 +0200"
     }
   ]
 }
