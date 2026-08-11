@@ -1,14 +1,24 @@
 {
   "traffic": [
     {
-      "title": "Aus für Gina Lückenkemper bei Leichtathletik-EM in Birmingham",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/leichtathletik-europameisterschaft-sprint-100m.html",
-      "date": "Mon, 10 Aug 2026 22:15:00 +0200"
+      "title": "Mit kreativem Wahlkampf wollen kleine Parteien ins Abgeordnetenhaus",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahl-2026-kleine-parteien.html",
+      "date": "Tue, 11 Aug 2026 08:43:47 +0200"
     },
     {
-      "title": "Zwei Berliner wollen die Zeitschrift Fußball-Woche neu beleben",
+      "title": "Zwei Berliner wollen die Zeitschrift \"Fußball-Woche\" neu beleben",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-amateurfussball-magazin-neustart.html",
-      "date": "Mon, 10 Aug 2026 21:43:00 +0200"
+      "date": "Tue, 11 Aug 2026 08:31:00 +0200"
+    },
+    {
+      "title": "Berlin: Techno-Parade soll am Samstag mit Schweigeminute beginnen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/rave-the-planet-techno-parade-csd-anschlag.html",
+      "date": "Tue, 11 Aug 2026 08:23:00 +0200"
+    },
+    {
+      "title": "Lückenkemper verpasst 100-m-Finale bei Leichtathletik-EM in Birmingham",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/leichtathletik-europameisterschaft-sprint-100m.html",
+      "date": "Mon, 10 Aug 2026 22:15:00 +0200"
     },
     {
       "title": "Vorerst keine Lufthansa-Streiks - Schlichtung vereinbart",
@@ -49,19 +59,14 @@
       "title": "Das sind die Gewinner und Verlierer des Union-Trainingslagers",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-1-fc-union-berlin-trainingslager-fazit-gewinner-verlierer-lustrinelli.html",
       "date": "Mon, 10 Aug 2026 17:51:37 +0200"
-    },
-    {
-      "title": "RE2 mit 500 Fahrgästen nach Fußballspiel evakuiert",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/cottbus-berlin-regionalexpress-re2-evakuiert-hannover-96.html",
-      "date": "Mon, 10 Aug 2026 17:23:12 +0200"
-    },
-    {
-      "title": "Geburtshilfe am Immanuel-Klinikum Bernau schließt",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/08/bernau-barnim-geburtsklinik-schliesst-ostbrandenburg-immanuel-klinikum.html",
-      "date": "Mon, 10 Aug 2026 16:43:43 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Gewerbsmäßiger Computerbetrug und Diebstahl – Wer erkennt den Tatverdächtigen?",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701498.php",
+      "date": "Tue, 11 Aug 2026 08:13:38 +0200"
+    },
     {
       "title": "Geschwindigkeitskontrollen im Rahmen der zweiten ROADPOL-Aktionswoche „Speedweek“ 2026 – Polizei Berlin zieht Bilanz",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701388.php",
@@ -116,17 +121,17 @@
       "title": "Wahlkampfhelfer beim Plakatieren angefahren",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700998.php",
       "date": "Sat, 08 Aug 2026 11:46:50 +0200"
-    },
-    {
-      "title": "E-Scooter-Fahrer nach Sturz in Lebensgefahr",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700996.php",
-      "date": "Sat, 08 Aug 2026 11:40:30 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Berlin: Techno-Parade soll am Samstag mit Schweigeminute beginnen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/rave-the-planet-techno-parade-csd-anschlag.html",
+      "date": "Tue, 11 Aug 2026 08:23:00 +0200"
+    },
     {
       "title": "Bahn registriert mehr Übergriffe auf Zugbegleiter",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/bahn-mehr-uebergriffe-auf-zugbegleiter-berlin-brandenburg.html",
@@ -181,11 +186,6 @@
       "title": "rbb24.de führt ARD-Login für die Kommentarfunktion ein",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/rbb24-kommentarfunktion-ARD-Login.html",
       "date": "Mon, 10 Aug 2026 12:22:06 +0200"
-    },
-    {
-      "title": "Demografie: In Brandenburg leben die wenigsten jungen Menschen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-berlin-junge-menschen-demografie.html",
-      "date": "Mon, 10 Aug 2026 11:18:28 +0200"
     }
   ]
 }
