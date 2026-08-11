@@ -1,17 +1,32 @@
 {
   "traffic": [
     {
+      "title": "Niedrigwasser: Wartezeiten und Sperrungen an Schleusen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/niedrigwasser-havel-wartezeit-schleuse-boote.html",
+      "date": "Tue, 11 Aug 2026 11:42:00 +0200"
+    },
+    {
+      "title": "Verein \"Berliner Unterwelten\" will NS-Bunker in Mitte erhalten",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/verein-berliner-unterwelten-bunker-mitte-erhalten.html",
+      "date": "Tue, 11 Aug 2026 11:35:56 +0200"
+    },
+    {
+      "title": "Storch im Letschiner Ortsteil Groß-Neuendorf von Kirche geschossen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/letschin-gross-neuendorf-storch-abgeschossen.html",
+      "date": "Tue, 11 Aug 2026 11:15:13 +0200"
+    },
+    {
       "title": "Mit kreativem Wahlkampf gegen die 5-Prozent-Hürde",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahl-2026-parteien-agh-5-prozent-huerde.html",
       "date": "Tue, 11 Aug 2026 09:04:44 +0200"
     },
     {
-      "title": "Zwei Berliner wollen die Zeitschrift \"Fußball-Woche\" neu beleben",
+      "title": "\"Fußball-Woche\": Zwei Berliner wollen Zeitschrift neu beleben",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-amateurfussball-magazin-neustart.html",
       "date": "Tue, 11 Aug 2026 08:31:00 +0200"
     },
     {
-      "title": "Berlin: Techno-Parade soll am Samstag mit Schweigeminute beginnen",
+      "title": "Berlin: \"Rave the Planet\" soll am Samstag mit Schweigeminute starten",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/rave-the-planet-techno-parade-csd-anschlag.html",
       "date": "Tue, 11 Aug 2026 08:23:00 +0200"
     },
@@ -44,21 +59,6 @@
       "title": "Berlin-Charlottenburg: Mann am Bahnhof Zoo erschossen - Täter flüchtig",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-bahnhof-zoo-polizei-toter-erschossen.html",
       "date": "Mon, 10 Aug 2026 18:50:31 +0200"
-    },
-    {
-      "title": "Mehrere Tankstellen in Berlin erhöhen offenbar unerlaubt Spritpreise",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/08/berlin-tankstellen-tanken-regelung-zwoelf-uhr-verstoesse-preis.html",
-      "date": "Mon, 10 Aug 2026 18:43:48 +0200"
-    },
-    {
-      "title": "Beachvolleyballerin Louisa Lippmann über ihren Partnerinnenwechsel",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/beachvolleyball-louisa-lippmann-partnerwechsel-melanie-paul-europameisterschaft-br-volleys.html",
-      "date": "Mon, 10 Aug 2026 18:02:42 +0200"
-    },
-    {
-      "title": "Das sind die Gewinner und Verlierer des Union-Trainingslagers",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-1-fc-union-berlin-trainingslager-fazit-gewinner-verlierer-lustrinelli.html",
-      "date": "Mon, 10 Aug 2026 17:51:37 +0200"
     }
   ],
   "police": [
@@ -126,5 +126,66 @@
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
-  "ethics": []
+  "ethics": [
+    {
+      "title": "Niedrigwasser: Wartezeiten und Sperrungen an Schleusen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/niedrigwasser-havel-wartezeit-schleuse-boote.html",
+      "date": "Tue, 11 Aug 2026 11:42:00 +0200"
+    },
+    {
+      "title": "Verein \"Berliner Unterwelten\" will NS-Bunker in Mitte erhalten",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/verein-berliner-unterwelten-bunker-mitte-erhalten.html",
+      "date": "Tue, 11 Aug 2026 11:35:56 +0200"
+    },
+    {
+      "title": "Storch im Letschiner Ortsteil Groß-Neuendorf von Kirche geschossen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/letschin-gross-neuendorf-storch-abgeschossen.html",
+      "date": "Tue, 11 Aug 2026 11:15:13 +0200"
+    },
+    {
+      "title": "Berlin: \"Rave the Planet\" soll am Samstag mit Schweigeminute starten",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/rave-the-planet-techno-parade-csd-anschlag.html",
+      "date": "Tue, 11 Aug 2026 08:23:00 +0200"
+    },
+    {
+      "title": "Bahn registriert mehr Übergriffe auf Zugbegleiter",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/bahn-mehr-uebergriffe-auf-zugbegleiter-berlin-brandenburg.html",
+      "date": "Mon, 10 Aug 2026 20:03:22 +0200"
+    },
+    {
+      "title": "Polizei untersucht Konflikt nach Schüssen im Graefekiez",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-schuesse-graefestrasse-kreuzberg-polizei-zusammenhang-banden-konflikt.html",
+      "date": "Mon, 10 Aug 2026 19:46:00 +0200"
+    },
+    {
+      "title": "Zwei Motorradfahrer sterben nach Unfällen in Teltow-Fläming",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/toedliche-verkehrsunfaelle-teltow-flaeming-motorrad-brandenburg.html",
+      "date": "Mon, 10 Aug 2026 19:06:24 +0200"
+    },
+    {
+      "title": "Berlin-Charlottenburg: Mann am Bahnhof Zoo erschossen - Täter flüchtig",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-bahnhof-zoo-polizei-toter-erschossen.html",
+      "date": "Mon, 10 Aug 2026 18:50:31 +0200"
+    },
+    {
+      "title": "RE2 mit 500 Fahrgästen nach Fußballspiel evakuiert",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/cottbus-berlin-regionalexpress-re2-evakuiert-hannover-96.html",
+      "date": "Mon, 10 Aug 2026 17:23:12 +0200"
+    },
+    {
+      "title": "Beginn des Mauerbaus vor 65 Jahren: Berlin und Brandenburg erinnern",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-65-jahre-mauerbau-installation-brandenburger-tor.html",
+      "date": "Mon, 10 Aug 2026 16:20:34 +0200"
+    },
+    {
+      "title": "SEK stürmt Wohnung von 42-Jährigem in Wittenberge",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-wittenberge-sek-sondereinsatzkommando-stuermt-wohnung.html",
+      "date": "Mon, 10 Aug 2026 15:58:47 +0200"
+    },
+    {
+      "title": "Berlin: 23-Jähriger im Strandbad Halensee ertrunken",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-notfaelle-strandbad-halensee-mann-ertrunken.html",
+      "date": "Mon, 10 Aug 2026 15:04:00 +0200"
+    }
+  ]
 }
