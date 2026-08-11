@@ -1,9 +1,9 @@
 {
   "traffic": [
     {
-      "title": "Mit kreativem Wahlkampf wollen kleine Parteien ins Abgeordnetenhaus",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahl-2026-kleine-parteien.html",
-      "date": "Tue, 11 Aug 2026 08:43:47 +0200"
+      "title": "Mit kreativem Wahlkampf gegen die 5-Prozent-Hürde",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahl-2026-parteien-agh-5-prozent-huerde.html",
+      "date": "Tue, 11 Aug 2026 09:04:44 +0200"
     },
     {
       "title": "Zwei Berliner wollen die Zeitschrift \"Fußball-Woche\" neu beleben",
@@ -126,66 +126,5 @@
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
-  "ethics": [
-    {
-      "title": "Berlin: Techno-Parade soll am Samstag mit Schweigeminute beginnen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/rave-the-planet-techno-parade-csd-anschlag.html",
-      "date": "Tue, 11 Aug 2026 08:23:00 +0200"
-    },
-    {
-      "title": "Bahn registriert mehr Übergriffe auf Zugbegleiter",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/bahn-mehr-uebergriffe-auf-zugbegleiter-berlin-brandenburg.html",
-      "date": "Mon, 10 Aug 2026 20:03:22 +0200"
-    },
-    {
-      "title": "Polizei untersucht Konflikt nach Schüssen im Graefekiez",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-schuesse-graefestrasse-kreuzberg-polizei-zusammenhang-banden-konflikt.html",
-      "date": "Mon, 10 Aug 2026 19:46:00 +0200"
-    },
-    {
-      "title": "Zwei Motorradfahrer sterben nach Unfällen in Teltow-Fläming",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/toedliche-verkehrsunfaelle-teltow-flaeming-motorrad-brandenburg.html",
-      "date": "Mon, 10 Aug 2026 19:06:24 +0200"
-    },
-    {
-      "title": "Berlin-Charlottenburg: Mann am Bahnhof Zoo erschossen - Täter flüchtig",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-bahnhof-zoo-polizei-toter-erschossen.html",
-      "date": "Mon, 10 Aug 2026 18:50:31 +0200"
-    },
-    {
-      "title": "RE2 mit 500 Fahrgästen nach Fußballspiel evakuiert",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/cottbus-berlin-regionalexpress-re2-evakuiert-hannover-96.html",
-      "date": "Mon, 10 Aug 2026 17:23:12 +0200"
-    },
-    {
-      "title": "Beginn des Mauerbaus vor 65 Jahren: Berlin und Brandenburg erinnern",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-65-jahre-mauerbau-installation-brandenburger-tor.html",
-      "date": "Mon, 10 Aug 2026 16:20:34 +0200"
-    },
-    {
-      "title": "SEK stürmt Wohnung von 42-Jährigem in Wittenberge",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-wittenberge-sek-sondereinsatzkommando-stuermt-wohnung.html",
-      "date": "Mon, 10 Aug 2026 15:58:47 +0200"
-    },
-    {
-      "title": "Berlin: 23-Jähriger im Strandbad Halensee ertrunken",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-notfaelle-strandbad-halensee-mann-ertrunken.html",
-      "date": "Mon, 10 Aug 2026 15:04:00 +0200"
-    },
-    {
-      "title": "Brandenburg an der Havel: Sprengstoff und Knochen auf leerstehendem Hof entdeckt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-sprengstoff-knochen-fund-leerstehender-hof-aufraeumarbeiten.html",
-      "date": "Mon, 10 Aug 2026 14:39:03 +0200"
-    },
-    {
-      "title": "Bombenfund in Oranienburg: 53 Menschen müssen Wohnungen verlassen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/bombenfund-oranienburg-adolf-damaschke-strasse.html",
-      "date": "Mon, 10 Aug 2026 12:49:47 +0200"
-    },
-    {
-      "title": "rbb24.de führt ARD-Login für die Kommentarfunktion ein",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/rbb24-kommentarfunktion-ARD-Login.html",
-      "date": "Mon, 10 Aug 2026 12:22:06 +0200"
-    }
-  ]
+  "ethics": []
 }
