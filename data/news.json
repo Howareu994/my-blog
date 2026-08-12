@@ -1,19 +1,34 @@
 {
   "traffic": [
     {
-      "title": "Bad vor der Volksbühne bleibt zwei Tage geschlossen",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/08/volksbad-berliner-volksbuehne-geschlossen-dusche-kaputt.html",
-      "date": "Wed, 12 Aug 2026 10:55:14 +0200"
+      "title": "Sonnenfinsternis: Wie man jetzt noch an eine Brille kommt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/sonnenfinsternis-brille-finden-suchen-bekommen-alternativen.html",
+      "date": "Wed, 12 Aug 2026 12:42:57 +0200"
+    },
+    {
+      "title": "Feuer in Wohnanlage in Biesdorf: Polizei ermittelt wegen Brandstiftung",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brand-biesdorf-brandstiftung-ermittlungen.html",
+      "date": "Wed, 12 Aug 2026 12:28:08 +0200"
+    },
+    {
+      "title": "Leichenfund in Eisenhüttenstadt - Polizei vermutet Verbrechen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-eisenhuettenstadt-leiche-verdacht-toetung.html",
+      "date": "Wed, 12 Aug 2026 12:11:47 +0200"
+    },
+    {
+      "title": "Mehr Geld für Gedenkstätten in Berlin und Brandenburg",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/08/gedenkstaetten-finanzierung-bund-zusaetzliches-geld-.html",
+      "date": "Wed, 12 Aug 2026 12:07:52 +0200"
+    },
+    {
+      "title": "Niedrigwasser: Berlin und Brandenburg lockern Lkw-Fahrverbot",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/08/niedrigwasser-gueterverkehr-lkw-sonntagsfahrverbot-lockerung.html",
+      "date": "Wed, 12 Aug 2026 11:13:56 +0200"
     },
     {
       "title": "Verein \"Berliner Unterwelten\" will NS-Bunker in Mitte erhalten",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/verein-berliner-unterwelten-bunker-mitte-erhalten.html",
       "date": "Wed, 12 Aug 2026 10:34:23 +0200"
-    },
-    {
-      "title": "Leichenfund in Eisenhüttenstadt - Polizei vermutet Verbrechen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-eisenhuettenstadt-leiche-verdacht-toetung.html",
-      "date": "Wed, 12 Aug 2026 10:20:47 +0200"
     },
     {
       "title": "\"Speedweek\": Rund 40.000 Geschwindigkeitsverstöße in der Region",
@@ -44,24 +59,24 @@
       "title": "Verschwörungstheorie zu Aufhebung der Schwerkraft - Interview mit Physikerin",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/project-anchor-nasa-ohne-schwerkraft-verschwoerung.html",
       "date": "Wed, 12 Aug 2026 06:28:00 +0200"
-    },
-    {
-      "title": "Traber-Derby: \"Vierbeinige Superstars\" bei \"Jahrhundertrennen\"",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/pferdesport-traber-derby-mariendorf-vorbericht-jahrundertrennen-blizzard-diamant-fragolino-rosso-heiko-lingk.html",
-      "date": "Tue, 11 Aug 2026 22:26:46 +0200"
-    },
-    {
-      "title": "EM in Paris: Berlinerin Gose schwimmt zu Silbermedaille",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/schwimm-em-isabel-gose-silber-medaille-800-meter-freistil-werner-bronze.html",
-      "date": "Tue, 11 Aug 2026 21:30:00 +0200"
-    },
-    {
-      "title": "Neue Bienenseuche-Nachweise: Imker müssen Proben ihrer Völker einreichen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/tierseuche-amerikanische-faulbrut-bienen-imker-proben-voelker-brandenburg.html",
-      "date": "Tue, 11 Aug 2026 21:10:25 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Frau vermisst – Polizei bittet um Mithilfe",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702099.php",
+      "date": "Wed, 12 Aug 2026 12:55:00 +0200"
+    },
+    {
+      "title": "Beleidigung und Volksverhetzung auf einem Spielplatz",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702158.php",
+      "date": "Wed, 12 Aug 2026 12:43:47 +0200"
+    },
+    {
+      "title": "Schüsse auf einen Mann",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702157.php",
+      "date": "Wed, 12 Aug 2026 12:41:17 +0200"
+    },
     {
       "title": "Fahrradfahrer verstorben",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701657.php",
@@ -106,21 +121,6 @@
       "title": "Wahlplakate beschädigt – Tatverdächtige festgenommen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701054.php",
       "date": "Sun, 09 Aug 2026 13:47:44 +0200"
-    },
-    {
-      "title": "Streit zwischen mehreren Personen eskaliert",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701052.php",
-      "date": "Sun, 09 Aug 2026 12:59:26 +0200"
-    },
-    {
-      "title": "DEIG-Einsatz im Hotel nach tätlichem Angriff und Widerstand",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701049.php",
-      "date": "Sun, 09 Aug 2026 11:58:29 +0200"
-    },
-    {
-      "title": "Feuer in der Küche – Bewohnerin verstorben",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701046.php",
-      "date": "Sun, 09 Aug 2026 10:55:01 +0200"
     }
   ],
   "free_events": [],
@@ -128,14 +128,24 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Verein \"Berliner Unterwelten\" will NS-Bunker in Mitte erhalten",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/verein-berliner-unterwelten-bunker-mitte-erhalten.html",
-      "date": "Wed, 12 Aug 2026 10:34:23 +0200"
+      "title": "Sonnenfinsternis: Wie man jetzt noch an eine Brille kommt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/sonnenfinsternis-brille-finden-suchen-bekommen-alternativen.html",
+      "date": "Wed, 12 Aug 2026 12:42:57 +0200"
+    },
+    {
+      "title": "Feuer in Wohnanlage in Biesdorf: Polizei ermittelt wegen Brandstiftung",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brand-biesdorf-brandstiftung-ermittlungen.html",
+      "date": "Wed, 12 Aug 2026 12:28:08 +0200"
     },
     {
       "title": "Leichenfund in Eisenhüttenstadt - Polizei vermutet Verbrechen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-eisenhuettenstadt-leiche-verdacht-toetung.html",
-      "date": "Wed, 12 Aug 2026 10:20:47 +0200"
+      "date": "Wed, 12 Aug 2026 12:11:47 +0200"
+    },
+    {
+      "title": "Verein \"Berliner Unterwelten\" will NS-Bunker in Mitte erhalten",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/verein-berliner-unterwelten-bunker-mitte-erhalten.html",
+      "date": "Wed, 12 Aug 2026 10:34:23 +0200"
     },
     {
       "title": "\"Speedweek\": Rund 40.000 Geschwindigkeitsverstöße in der Region",
@@ -176,16 +186,6 @@
       "title": "Storch in Letschin von Kirchdach geschossen - OP in Praxis",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/letschin-gross-neuendorf-storch-abgeschossen.html",
       "date": "Tue, 11 Aug 2026 18:06:54 +0200"
-    },
-    {
-      "title": "Cyber-Angriff auf Stiftung Brandenburgische Gedenkstätten",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/cyber-angriff-auf-stiftung-brandenburgische-gedenkstaetten.html",
-      "date": "Tue, 11 Aug 2026 17:29:43 +0200"
-    },
-    {
-      "title": "RE1-Linie: Bauarbeiten verzögern sich",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-fangschleuse-bauarbeiten-bahn-re1-frankfurt-oder.html",
-      "date": "Tue, 11 Aug 2026 17:25:13 +0200"
     }
   ]
 }
