@@ -8,7 +8,7 @@
     {
       "title": "Feuer in Wohnanlage in Biesdorf: Polizei ermittelt wegen Brandstiftung",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brand-biesdorf-brandstiftung-ermittlungen.html",
-      "date": "Wed, 12 Aug 2026 12:28:08 +0200"
+      "date": "Wed, 12 Aug 2026 12:28:00 +0200"
     },
     {
       "title": "Leichenfund in Eisenhüttenstadt - Polizei vermutet Verbrechen",
@@ -63,6 +63,11 @@
   ],
   "police": [
     {
+      "title": "Kontrollen gegen Arbeitsausbeutung und Menschenhandel",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702183.php",
+      "date": "Wed, 12 Aug 2026 13:27:28 +0200"
+    },
+    {
       "title": "Frau vermisst – Polizei bittet um Mithilfe",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702099.php",
       "date": "Wed, 12 Aug 2026 12:55:00 +0200"
@@ -70,12 +75,12 @@
     {
       "title": "Beleidigung und Volksverhetzung auf einem Spielplatz",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702158.php",
-      "date": "Wed, 12 Aug 2026 12:43:47 +0200"
+      "date": "Wed, 12 Aug 2026 12:37:00 +0200"
     },
     {
       "title": "Schüsse auf einen Mann",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702157.php",
-      "date": "Wed, 12 Aug 2026 12:41:17 +0200"
+      "date": "Wed, 12 Aug 2026 12:35:00 +0200"
     },
     {
       "title": "Fahrradfahrer verstorben",
@@ -116,11 +121,6 @@
       "title": "Falscher Stromzählerableser – Auseinandersetzung nach versuchtem Trickdiebstahl",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701057.php",
       "date": "Sun, 09 Aug 2026 14:14:31 +0200"
-    },
-    {
-      "title": "Wahlplakate beschädigt – Tatverdächtige festgenommen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701054.php",
-      "date": "Sun, 09 Aug 2026 13:47:44 +0200"
     }
   ],
   "free_events": [],
@@ -135,7 +135,7 @@
     {
       "title": "Feuer in Wohnanlage in Biesdorf: Polizei ermittelt wegen Brandstiftung",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brand-biesdorf-brandstiftung-ermittlungen.html",
-      "date": "Wed, 12 Aug 2026 12:28:08 +0200"
+      "date": "Wed, 12 Aug 2026 12:28:00 +0200"
     },
     {
       "title": "Leichenfund in Eisenhüttenstadt - Polizei vermutet Verbrechen",
