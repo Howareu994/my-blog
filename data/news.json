@@ -1,9 +1,19 @@
 {
   "traffic": [
     {
-      "title": "Sonnenfinsternis: Hunderte vor Zeiss-Großplanetarium in Berlin",
+      "title": "Sonnenfinsternis: Tausende vor Zeiss-Großplanetarium in Berlin",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/sonnenfinsternis-berlin-zeiss-grossplanetarium.html",
-      "date": "Wed, 12 Aug 2026 18:46:14 +0200"
+      "date": "Wed, 12 Aug 2026 19:39:29 +0200"
+    },
+    {
+      "title": "Sonnenfinsternis über Berlin und Brandenburg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/livestream-sonnenfinsternis-berlin-brandenburg.html",
+      "date": "Wed, 12 Aug 2026 19:15:00 +0200"
+    },
+    {
+      "title": "Deutsche Bahn bietet Begleitservice für Kinder von 6 bis 14 Jahren",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/08/begleitservice-bahn-kinder-tickets-begleitpauschale.html",
+      "date": "Wed, 12 Aug 2026 18:49:39 +0200"
     },
     {
       "title": "Finanzen: Haushaltssperre fürs Havelland verhängt",
@@ -46,19 +56,9 @@
       "date": "Wed, 12 Aug 2026 15:28:00 +0200"
     },
     {
-      "title": "Sonnenfinsternis über Berlin und Brandenburg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/livestream-sonnenfinsternis-berlin-brandenburg.html",
-      "date": "Wed, 12 Aug 2026 15:13:30 +0200"
-    },
-    {
       "title": "Zäune und Kameras sollen Stromnetz besser vor Anschlägen schützen",
       "link": "https://www.rbb24.de/politik/beitrag/2026/08/berlin-stromnetz-schutz-verbessert.html",
       "date": "Wed, 12 Aug 2026 14:52:35 +0200"
-    },
-    {
-      "title": "Mordkommission ermittelt nach Schüssen in Berlin-Baumschulenweg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/schuesse-mordkommission-berlin-baumschulenweg-ermittlungen.html",
-      "date": "Wed, 12 Aug 2026 14:36:33 +0200"
     }
   ],
   "police": [
@@ -128,9 +128,14 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Sonnenfinsternis: Hunderte vor Zeiss-Großplanetarium in Berlin",
+      "title": "Sonnenfinsternis: Tausende vor Zeiss-Großplanetarium in Berlin",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/sonnenfinsternis-berlin-zeiss-grossplanetarium.html",
-      "date": "Wed, 12 Aug 2026 18:46:14 +0200"
+      "date": "Wed, 12 Aug 2026 19:39:29 +0200"
+    },
+    {
+      "title": "Sonnenfinsternis über Berlin und Brandenburg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/livestream-sonnenfinsternis-berlin-brandenburg.html",
+      "date": "Wed, 12 Aug 2026 19:15:00 +0200"
     },
     {
       "title": "Klimakammern sollen Forschung zu Pflanzen in Berlin voranbringen",
@@ -146,11 +151,6 @@
       "title": "Beginn des Mauerbaus vor 65 Jahren: Berlin und Brandenburg erinnern",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-65-jahre-mauerbau-installation-brandenburger-tor.html",
       "date": "Wed, 12 Aug 2026 16:42:08 +0200"
-    },
-    {
-      "title": "Sonnenfinsternis über Berlin und Brandenburg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/livestream-sonnenfinsternis-berlin-brandenburg.html",
-      "date": "Wed, 12 Aug 2026 15:13:30 +0200"
     },
     {
       "title": "Mordkommission ermittelt nach Schüssen in Berlin-Baumschulenweg",
