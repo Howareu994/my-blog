@@ -1,9 +1,29 @@
 {
   "traffic": [
     {
+      "title": "Klimakammern sollen Forschung zu Pflanzen in Berlin voranbringen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-pflanzenschutzamt-klimakammern-millionen-investition-forschung.html",
+      "date": "Wed, 12 Aug 2026 17:46:23 +0200"
+    },
+    {
+      "title": "Feuer in Wohnanlage in Biesdorf: Polizei ermittelt wegen Brandstiftung",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brand-biesdorf-brandstiftung-ermittlungen.html",
+      "date": "Wed, 12 Aug 2026 17:10:29 +0200"
+    },
+    {
       "title": "Beginn des Mauerbaus vor 65 Jahren: Berlin und Brandenburg erinnern",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-65-jahre-mauerbau-installation-brandenburger-tor.html",
-      "date": "Wed, 12 Aug 2026 16:11:11 +0200"
+      "date": "Wed, 12 Aug 2026 16:42:08 +0200"
+    },
+    {
+      "title": "Niedrigwasser: Berlin und Brandenburg lockern Lkw-Fahrverbot",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/08/niedrigwasser-gueterverkehr-lkw-sonntagsfahrverbot-lockerung.html",
+      "date": "Wed, 12 Aug 2026 16:22:08 +0200"
+    },
+    {
+      "title": "Alba-Kapitänin verlängert: Lena Gohlisch bleibt weiteres Jahr",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/damen-basketball-bundesliga-dbbl-lena-gohlisch-vertrag-alba.html",
+      "date": "Wed, 12 Aug 2026 16:19:52 +0200"
     },
     {
       "title": "Leichtathletik-EM: 48 Jahre alter Rekord von DDR-Läufer Beyer geknackt",
@@ -26,39 +46,19 @@
       "date": "Wed, 12 Aug 2026 14:52:35 +0200"
     },
     {
-      "title": "Feuer in Wohnanlage in Biesdorf: Polizei ermittelt wegen Brandstiftung",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brand-biesdorf-brandstiftung-ermittlungen.html",
-      "date": "Wed, 12 Aug 2026 14:48:06 +0200"
-    },
-    {
       "title": "Mordkommission ermittelt nach Schüssen in Berlin-Baumschulenweg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/schuesse-mordkommission-berlin-baumschulenweg-ermittlungen.html",
       "date": "Wed, 12 Aug 2026 14:36:33 +0200"
     },
     {
+      "title": "Brandenburg an der Havel bleibt auf Kosten für Rettungsdienste sitzen",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/08/brandenburg-havel-rettungsdienst-streit-kosten-fahrten.html",
+      "date": "Wed, 12 Aug 2026 13:59:00 +0200"
+    },
+    {
       "title": "Wildbienen: 31 Arten in 25 Jahren nach Brandenburg eingewandert",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-wildbienen-arten-einwanderung-heinz-sielmann-stiftung.html",
       "date": "Wed, 12 Aug 2026 13:49:33 +0200"
-    },
-    {
-      "title": "Verpackungsmüll: Neue EU-Vorschriften greifen ab Mittwoch",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/muell-verpackungen-eu-verordnung-pfas-regeln.html",
-      "date": "Wed, 12 Aug 2026 13:43:10 +0200"
-    },
-    {
-      "title": "Sonnenfinsternis: Wie man jetzt noch an eine Brille kommt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/sonnenfinsternis-brille-finden-suchen-bekommen-alternativen.html",
-      "date": "Wed, 12 Aug 2026 12:42:57 +0200"
-    },
-    {
-      "title": "Leichenfund in Eisenhüttenstadt - Polizei vermutet Verbrechen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-eisenhuettenstadt-leiche-verdacht-toetung.html",
-      "date": "Wed, 12 Aug 2026 12:11:47 +0200"
-    },
-    {
-      "title": "Mehr Geld für Gedenkstätten in Berlin und Brandenburg",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/08/gedenkstaetten-finanzierung-bund-zusaetzliches-geld-.html",
-      "date": "Wed, 12 Aug 2026 12:07:52 +0200"
     }
   ],
   "police": [
@@ -128,19 +128,24 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Klimakammern sollen Forschung zu Pflanzen in Berlin voranbringen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-pflanzenschutzamt-klimakammern-millionen-investition-forschung.html",
+      "date": "Wed, 12 Aug 2026 17:46:23 +0200"
+    },
+    {
+      "title": "Feuer in Wohnanlage in Biesdorf: Polizei ermittelt wegen Brandstiftung",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brand-biesdorf-brandstiftung-ermittlungen.html",
+      "date": "Wed, 12 Aug 2026 17:10:29 +0200"
+    },
+    {
       "title": "Beginn des Mauerbaus vor 65 Jahren: Berlin und Brandenburg erinnern",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-65-jahre-mauerbau-installation-brandenburger-tor.html",
-      "date": "Wed, 12 Aug 2026 16:14:39 +0200"
+      "date": "Wed, 12 Aug 2026 16:42:08 +0200"
     },
     {
       "title": "Sonnenfinsternis über Berlin und Brandenburg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/livestream-sonnenfinsternis-berlin-brandenburg.html",
       "date": "Wed, 12 Aug 2026 15:13:30 +0200"
-    },
-    {
-      "title": "Feuer in Wohnanlage in Biesdorf: Polizei ermittelt wegen Brandstiftung",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brand-biesdorf-brandstiftung-ermittlungen.html",
-      "date": "Wed, 12 Aug 2026 14:48:06 +0200"
     },
     {
       "title": "Mordkommission ermittelt nach Schüssen in Berlin-Baumschulenweg",
@@ -181,11 +186,6 @@
       "title": "65 Jahre Mauerbau: \"Es war Ruhe, eine wirklich lebende Stille - das ist meine Erinnerung\"",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/65-jahre-mauerbau-interview-zeitzeuge-ddr-dieter-dombrowski.html",
       "date": "Wed, 12 Aug 2026 07:58:00 +0200"
-    },
-    {
-      "title": "Warum Wespen sich an Süßem und Salzigem bedienen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/wespen-fruehstueckstisch-wespenstich-hornisse-asiatische.html",
-      "date": "Wed, 12 Aug 2026 07:31:19 +0200"
     }
   ]
 }
