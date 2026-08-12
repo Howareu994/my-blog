@@ -1,6 +1,26 @@
 {
   "traffic": [
     {
+      "title": "Zäune und Kameras sollen Stromnetz besser vor Anschlägen schützen",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/08/berlin-stromnetz-schutz-verbessert.html",
+      "date": "Wed, 12 Aug 2026 14:43:12 +0200"
+    },
+    {
+      "title": "Mordkommission ermittelt nach Schüssen in Berlin-Baumschulenweg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/schuesse-mordkommission-berlin-baumschulenweg-ermittlungen.html",
+      "date": "Wed, 12 Aug 2026 14:36:33 +0200"
+    },
+    {
+      "title": "Wildbienen: 31 Arten in 25 Jahren nach Brandenburg eingewandert",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-wildbienen-arten-einwanderung-heinz-sielmann-stiftung.html",
+      "date": "Wed, 12 Aug 2026 13:49:33 +0200"
+    },
+    {
+      "title": "Verpackungsmüll: Neue EU-Vorschriften greifen ab Mittwoch",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/muell-verpackungen-eu-verordnung-pfas-regeln.html",
+      "date": "Wed, 12 Aug 2026 13:43:10 +0200"
+    },
+    {
       "title": "Sonnenfinsternis: Wie man jetzt noch an eine Brille kommt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/sonnenfinsternis-brille-finden-suchen-bekommen-alternativen.html",
       "date": "Wed, 12 Aug 2026 12:42:57 +0200"
@@ -39,29 +59,14 @@
       "title": "Cassiopeia & Co.: Einigung über Zukunft des RAW-Geländes erzielt",
       "link": "https://www.rbb24.de/politik/beitrag/2026/08/berlin-zukunft-raw-gelaende-plaene-senat-bezirk-investor.html",
       "date": "Wed, 12 Aug 2026 09:39:47 +0200"
-    },
-    {
-      "title": "Konzertkritik: Bonnie \"Prince\" Billy bringt Westernromantik nach Westberlin",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/08/bonnie-prince-billy-konzert-kritik-folk-country.html",
-      "date": "Wed, 12 Aug 2026 08:34:22 +0200"
-    },
-    {
-      "title": "65 Jahre Mauerbau: \"Es war Ruhe, eine wirklich lebende Stille - das ist meine Erinnerung\"",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/65-jahre-mauerbau-interview-zeitzeuge-ddr-dieter-dombrowski.html",
-      "date": "Wed, 12 Aug 2026 07:58:00 +0200"
-    },
-    {
-      "title": "Warum Wespen sich an Süßem und Salzigem bedienen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/wespen-fruehstueckstisch-wespenstich-hornisse-asiatische.html",
-      "date": "Wed, 12 Aug 2026 07:31:19 +0200"
-    },
-    {
-      "title": "Verschwörungstheorie zu Aufhebung der Schwerkraft - Interview mit Physikerin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/project-anchor-nasa-ohne-schwerkraft-verschwoerung.html",
-      "date": "Wed, 12 Aug 2026 06:28:00 +0200"
     }
   ],
   "police": [
+    {
+      "title": "E-Scooter-Fahrerin fährt Fußgänger an",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702196.php",
+      "date": "Wed, 12 Aug 2026 13:39:20 +0200"
+    },
     {
       "title": "Kontrollen gegen Arbeitsausbeutung und Menschenhandel",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702183.php",
@@ -116,17 +121,27 @@
       "title": "Schüsse auf 30-Jährigen – Zeugenaufruf",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701194.php",
       "date": "Mon, 10 Aug 2026 10:41:42 +0200"
-    },
-    {
-      "title": "Falscher Stromzählerableser – Auseinandersetzung nach versuchtem Trickdiebstahl",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701057.php",
-      "date": "Sun, 09 Aug 2026 14:14:31 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Mordkommission ermittelt nach Schüssen in Berlin-Baumschulenweg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/schuesse-mordkommission-berlin-baumschulenweg-ermittlungen.html",
+      "date": "Wed, 12 Aug 2026 14:36:33 +0200"
+    },
+    {
+      "title": "Wildbienen: 31 Arten in 25 Jahren nach Brandenburg eingewandert",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-wildbienen-arten-einwanderung-heinz-sielmann-stiftung.html",
+      "date": "Wed, 12 Aug 2026 13:49:33 +0200"
+    },
+    {
+      "title": "Verpackungsmüll: Neue EU-Vorschriften greifen ab Mittwoch",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/muell-verpackungen-eu-verordnung-pfas-regeln.html",
+      "date": "Wed, 12 Aug 2026 13:43:10 +0200"
+    },
     {
       "title": "Sonnenfinsternis: Wie man jetzt noch an eine Brille kommt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/sonnenfinsternis-brille-finden-suchen-bekommen-alternativen.html",
@@ -171,21 +186,6 @@
       "title": "Neue Bienenseuche-Nachweise: Imker müssen Proben ihrer Völker einreichen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/tierseuche-amerikanische-faulbrut-bienen-imker-proben-voelker-brandenburg.html",
       "date": "Tue, 11 Aug 2026 21:10:25 +0200"
-    },
-    {
-      "title": "CSD-Anschlag: Bundesanwaltschaft stellt Ermittlungsverfahren gegen Abdul B. ein",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/csd-anschlag-bundesanwaltschaft-berlin-tiergarten-stellt-ermittlungsverfahren-abdul-b.html",
-      "date": "Tue, 11 Aug 2026 19:07:43 +0200"
-    },
-    {
-      "title": "Brandenburgs Fünf-Seen-Verbund zwischen Sandwüste und Besucherzahlen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/lausitzer-seenland-fuenf-seen-verbund-bilanz.html",
-      "date": "Tue, 11 Aug 2026 18:11:00 +0200"
-    },
-    {
-      "title": "Storch in Letschin von Kirchdach geschossen - OP in Praxis",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/letschin-gross-neuendorf-storch-abgeschossen.html",
-      "date": "Tue, 11 Aug 2026 18:06:54 +0200"
     }
   ]
 }
