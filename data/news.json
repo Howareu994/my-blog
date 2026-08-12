@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Sonnenfinsternis: Hunderte vor Zeiss-Großplanetarium in Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/sonnenfinsternis-berlin-zeiss-grossplanetarium.html",
+      "date": "Wed, 12 Aug 2026 18:46:14 +0200"
+    },
+    {
+      "title": "Finanzen: Haushaltssperre fürs Havelland verhängt",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/08/havelland-haushaltssperre-finanzen-angespannt-ausgaben.html",
+      "date": "Wed, 12 Aug 2026 18:31:21 +0200"
+    },
+    {
       "title": "Klimakammern sollen Forschung zu Pflanzen in Berlin voranbringen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-pflanzenschutzamt-klimakammern-millionen-investition-forschung.html",
       "date": "Wed, 12 Aug 2026 17:46:23 +0200"
@@ -23,7 +33,7 @@
     {
       "title": "Alba-Kapitänin verlängert: Lena Gohlisch bleibt weiteres Jahr",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/damen-basketball-bundesliga-dbbl-lena-gohlisch-vertrag-alba.html",
-      "date": "Wed, 12 Aug 2026 16:19:52 +0200"
+      "date": "Wed, 12 Aug 2026 16:19:00 +0200"
     },
     {
       "title": "Leichtathletik-EM: 48 Jahre alter Rekord von DDR-Läufer Beyer geknackt",
@@ -49,16 +59,6 @@
       "title": "Mordkommission ermittelt nach Schüssen in Berlin-Baumschulenweg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/schuesse-mordkommission-berlin-baumschulenweg-ermittlungen.html",
       "date": "Wed, 12 Aug 2026 14:36:33 +0200"
-    },
-    {
-      "title": "Brandenburg an der Havel bleibt auf Kosten für Rettungsdienste sitzen",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/08/brandenburg-havel-rettungsdienst-streit-kosten-fahrten.html",
-      "date": "Wed, 12 Aug 2026 13:59:00 +0200"
-    },
-    {
-      "title": "Wildbienen: 31 Arten in 25 Jahren nach Brandenburg eingewandert",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-wildbienen-arten-einwanderung-heinz-sielmann-stiftung.html",
-      "date": "Wed, 12 Aug 2026 13:49:33 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Sonnenfinsternis: Hunderte vor Zeiss-Großplanetarium in Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/sonnenfinsternis-berlin-zeiss-grossplanetarium.html",
+      "date": "Wed, 12 Aug 2026 18:46:14 +0200"
+    },
+    {
       "title": "Klimakammern sollen Forschung zu Pflanzen in Berlin voranbringen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-pflanzenschutzamt-klimakammern-millionen-investition-forschung.html",
       "date": "Wed, 12 Aug 2026 17:46:23 +0200"
@@ -181,11 +186,6 @@
       "title": "\"Speedweek\": Rund 40.000 Geschwindigkeitsverstöße in der Region",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/speedweek-brandenburg-berlin-bilanz-polizei-kontrollen-verkehr.html",
       "date": "Wed, 12 Aug 2026 10:19:21 +0200"
-    },
-    {
-      "title": "65 Jahre Mauerbau: \"Es war Ruhe, eine wirklich lebende Stille - das ist meine Erinnerung\"",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/65-jahre-mauerbau-interview-zeitzeuge-ddr-dieter-dombrowski.html",
-      "date": "Wed, 12 Aug 2026 07:58:00 +0200"
     }
   ]
 }
