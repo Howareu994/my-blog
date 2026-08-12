@@ -1,14 +1,34 @@
 {
   "traffic": [
     {
-      "title": "Verschwörungstheorie zu Aufhebung der Schwerkraft - Interview mit Physikerin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/project-anchor-nasa-ohne-schwerkraft-verschwoerung.html",
-      "date": "Wed, 12 Aug 2026 06:28:12 +0200"
+      "title": "Leichenfund in Eisenhüttenstadt - Polizei vermutet Verbrechen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-eisenhuettenstadt-leiche-verdacht-toetung.html",
+      "date": "Wed, 12 Aug 2026 08:43:19 +0200"
+    },
+    {
+      "title": "Konzertkritik: Bonnie \"Prince\" Billy bringt Westernromantik nach Westberlin",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/08/bonnie-prince-billy-konzert-kritik-folk-country.html",
+      "date": "Wed, 12 Aug 2026 08:34:22 +0200"
+    },
+    {
+      "title": "Cassiopeia & Co.: Einigung über Zukunft des RAW-Geländes erzielt",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/08/berlin-zukunft-raw-gelaende-plaene-senat-bezirk-investor.html",
+      "date": "Wed, 12 Aug 2026 08:25:29 +0200"
     },
     {
       "title": "65 Jahre Mauerbau: \"Es war Ruhe, eine wirklich lebende Stille - das ist meine Erinnerung\"",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/65-jahre-mauerbau-interview-zeitzeuge-ddr-dieter-dombrowski.html",
-      "date": "Wed, 12 Aug 2026 06:13:11 +0200"
+      "date": "Wed, 12 Aug 2026 07:58:27 +0200"
+    },
+    {
+      "title": "Warum Wespen sich an Süßem und Salzigem bedienen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/wespen-fruehstueckstisch-wespenstich-hornisse-asiatische.html",
+      "date": "Wed, 12 Aug 2026 07:31:19 +0200"
+    },
+    {
+      "title": "Verschwörungstheorie zu Aufhebung der Schwerkraft - Interview mit Physikerin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/project-anchor-nasa-ohne-schwerkraft-verschwoerung.html",
+      "date": "Wed, 12 Aug 2026 06:28:00 +0200"
     },
     {
       "title": "Traber-Derby: \"Vierbeinige Superstars\" bei \"Jahrhundertrennen\"",
@@ -31,11 +51,6 @@
       "date": "Tue, 11 Aug 2026 21:10:25 +0200"
     },
     {
-      "title": "Cassiopeia & Co.: Einigung über Zukunft des RAW-Geländes erzielt",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/08/berlin-zukunft-raw-gelaende-plaene-senat-bezirk-investor.html",
-      "date": "Tue, 11 Aug 2026 20:43:26 +0200"
-    },
-    {
       "title": "\"Polizeiassistenten\"-Pilotprojekt in Brandenburg wird ausgeweitet",
       "link": "https://www.rbb24.de/politik/beitrag/2026/08/brandenburg-polizei-assistenten-pilotprojekt-zwischenbilanz.html",
       "date": "Tue, 11 Aug 2026 19:57:09 +0200"
@@ -44,21 +59,6 @@
       "title": "CSD-Anschlag: Bundesanwaltschaft stellt Ermittlungsverfahren gegen Abdul B. ein",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/csd-anschlag-bundesanwaltschaft-berlin-tiergarten-stellt-ermittlungsverfahren-abdul-b.html",
       "date": "Tue, 11 Aug 2026 19:07:43 +0200"
-    },
-    {
-      "title": "Bad vor der Volksbühne bleibt zwei Tage geschlossen",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/08/volksbad-berliner-volksbuehne-geschlossen-dusche-kaputt.html",
-      "date": "Tue, 11 Aug 2026 18:15:06 +0200"
-    },
-    {
-      "title": "Storch in Letschin von Kirchdach geschossen - OP in Praxis",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/letschin-gross-neuendorf-storch-abgeschossen.html",
-      "date": "Tue, 11 Aug 2026 18:06:54 +0200"
-    },
-    {
-      "title": "Cyber-Angriff auf Stiftung Brandenburgische Gedenkstätten",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/cyber-angriff-auf-stiftung-brandenburgische-gedenkstaetten.html",
-      "date": "Tue, 11 Aug 2026 17:29:43 +0200"
     }
   ],
   "police": [
@@ -128,14 +128,24 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Verschwörungstheorie zu Aufhebung der Schwerkraft - Interview mit Physikerin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/project-anchor-nasa-ohne-schwerkraft-verschwoerung.html",
-      "date": "Wed, 12 Aug 2026 06:28:12 +0200"
+      "title": "Leichenfund in Eisenhüttenstadt - Polizei vermutet Verbrechen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-eisenhuettenstadt-leiche-verdacht-toetung.html",
+      "date": "Wed, 12 Aug 2026 08:43:19 +0200"
     },
     {
       "title": "65 Jahre Mauerbau: \"Es war Ruhe, eine wirklich lebende Stille - das ist meine Erinnerung\"",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/65-jahre-mauerbau-interview-zeitzeuge-ddr-dieter-dombrowski.html",
-      "date": "Wed, 12 Aug 2026 06:13:11 +0200"
+      "date": "Wed, 12 Aug 2026 07:58:27 +0200"
+    },
+    {
+      "title": "Warum Wespen sich an Süßem und Salzigem bedienen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/wespen-fruehstueckstisch-wespenstich-hornisse-asiatische.html",
+      "date": "Wed, 12 Aug 2026 07:31:19 +0200"
+    },
+    {
+      "title": "Verschwörungstheorie zu Aufhebung der Schwerkraft - Interview mit Physikerin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/project-anchor-nasa-ohne-schwerkraft-verschwoerung.html",
+      "date": "Wed, 12 Aug 2026 06:28:00 +0200"
     },
     {
       "title": "Neue Bienenseuche-Nachweise: Imker müssen Proben ihrer Völker einreichen",
@@ -150,7 +160,7 @@
     {
       "title": "Brandenburgs Fünf-Seen-Verbund zwischen Sandwüste und Besucherzahlen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/lausitzer-seenland-fuenf-seen-verbund-bilanz.html",
-      "date": "Tue, 11 Aug 2026 18:11:31 +0200"
+      "date": "Tue, 11 Aug 2026 18:11:00 +0200"
     },
     {
       "title": "Storch in Letschin von Kirchdach geschossen - OP in Praxis",
@@ -176,16 +186,6 @@
       "title": "Wohnungsbrand in Berlin-Biesdorf - acht Personen im Krankenhaus",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-marzahn-hellersdorf-wohnhaus-brand.html",
       "date": "Tue, 11 Aug 2026 16:19:20 +0200"
-    },
-    {
-      "title": "Mangan im Trinkwasser: Grenzwert in Groß Kreutz (Havel) überschritten",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/mangan-trinkwasser-deetz-schmergow-havelland.html",
-      "date": "Tue, 11 Aug 2026 15:52:37 +0200"
-    },
-    {
-      "title": "BVG testet Pilotprojekt für mehr Sauberkeit mithilfe von Whatsapp",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/bvg-testet-pilotprojekt-sauberkeit-whatsapp.html",
-      "date": "Tue, 11 Aug 2026 15:02:18 +0200"
     }
   ]
 }
