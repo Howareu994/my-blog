@@ -1,14 +1,19 @@
 {
   "traffic": [
     {
-      "title": "Sonnenfinsternis: Tausende vor Zeiss-Großplanetarium in Berlin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/sonnenfinsternis-berlin-zeiss-grossplanetarium.html",
-      "date": "Wed, 12 Aug 2026 21:05:33 +0200"
+      "title": "Leichtathletik-EM: Bredau läuft über 400 Meter auf Platz fünf",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/leichtathletik-em-birmingham-400-meter-finale-jean-paul-bredau.html",
+      "date": "Wed, 12 Aug 2026 22:30:30 +0200"
     },
     {
       "title": "Im Re-Live: Sonnenfinsternis über Berlin und Brandenburg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/livestream-sonnenfinsternis-berlin-brandenburg.html",
-      "date": "Wed, 12 Aug 2026 21:00:34 +0200"
+      "date": "Wed, 12 Aug 2026 22:16:16 +0200"
+    },
+    {
+      "title": "Spektakulärer Blick auf die verschwindende Sonne - Polizeieinsatz am Zeiss-Großplanetarium",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/sonnenfinsternis-berlin-zeiss-grossplanetarium.html",
+      "date": "Wed, 12 Aug 2026 22:11:10 +0200"
     },
     {
       "title": "Bad vor der Volksbühne bleibt auch Donnerstag noch geschlossen",
@@ -54,11 +59,6 @@
       "title": "Leichtathletik-EM: 48 Jahre alter Rekord von DDR-Läufer Beyer geknackt",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/leichtathletik-800-meter-em-rekord-geknackt-ddr-olaf-beyer-mark-englisch.html",
       "date": "Wed, 12 Aug 2026 15:52:51 +0200"
-    },
-    {
-      "title": "Das ist der neue Alba-Kader: Kontinuität und Königstransfers",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/alba-berlin-kader-im-ueberblick-analyse-saison-2026-2027-.html",
-      "date": "Wed, 12 Aug 2026 15:28:00 +0200"
     }
   ],
   "police": [
@@ -128,14 +128,14 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Sonnenfinsternis: Tausende vor Zeiss-Großplanetarium in Berlin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/sonnenfinsternis-berlin-zeiss-grossplanetarium.html",
-      "date": "Wed, 12 Aug 2026 21:05:33 +0200"
-    },
-    {
       "title": "Im Re-Live: Sonnenfinsternis über Berlin und Brandenburg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/livestream-sonnenfinsternis-berlin-brandenburg.html",
-      "date": "Wed, 12 Aug 2026 21:00:34 +0200"
+      "date": "Wed, 12 Aug 2026 22:16:16 +0200"
+    },
+    {
+      "title": "Spektakulärer Blick auf die verschwindende Sonne - Polizeieinsatz am Zeiss-Großplanetarium",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/sonnenfinsternis-berlin-zeiss-grossplanetarium.html",
+      "date": "Wed, 12 Aug 2026 22:11:10 +0200"
     },
     {
       "title": "Klimakammern sollen Forschung zu Pflanzen in Berlin voranbringen",
