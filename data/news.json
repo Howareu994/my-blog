@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Bildergaleri: Die Sonnenfinsternis 2026 in Berlin und Brandenburg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/bildergalerie-sonnenfinsternis-berlin.html",
+      "date": "Thu, 13 Aug 2026 13:08:00 +0200"
+    },
+    {
       "title": "Eisenhüttenstadt: Zwei Verdächtige nach Leichenfund festgenommen",
       "link": "https://www.rbb24.de/politik/beitrag/2026/08/leiche-eisenhuettenstadt-verdaechtige-festgenommen.html",
       "date": "Thu, 13 Aug 2026 12:50:52 +0200"
@@ -54,11 +59,6 @@
       "title": "65 Jahre Mauerbau: \"Das Unrecht, eingesperrt zu werden, hat mich stark gemacht\"",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/65-jahre-mauerbau-berliner-mauer-interview-ddr-zeitzeugin-renate-werwigk-schneider.html",
       "date": "Thu, 13 Aug 2026 06:43:29 +0200"
-    },
-    {
-      "title": "Löcher, Lücken, Leere - Brandenburgs neuer Haushalt mit Käsestruktur",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/08/brandenburg-landeshaushalt-etat-2027-2028-loecher-luecken-defizit.html",
-      "date": "Thu, 13 Aug 2026 06:24:00 +0200"
     }
   ],
   "police": [
