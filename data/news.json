@@ -1,6 +1,46 @@
 {
   "traffic": [
     {
+      "title": "BVG fährt zuverlässiger - aber kaum pünktlicher",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-bvg-kaum-ausfaelle-bus-tram-u-bahn.html",
+      "date": "Thu, 13 Aug 2026 17:48:21 +0200"
+    },
+    {
+      "title": "Vergleich: Hertha zahlt wohl rund vier Millionen Euro an Bobic",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-hertha-bsc-manager-fredi-bobic-vergleich-zahlung-4-millionen.html",
+      "date": "Thu, 13 Aug 2026 17:47:32 +0200"
+    },
+    {
+      "title": "Eisenhüttenstadt: Zwei Verdächtige nach Leichenfund festgenommen",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/08/leiche-eisenhuettenstadt-verdaechtige-festgenommen.html",
+      "date": "Thu, 13 Aug 2026 17:33:59 +0200"
+    },
+    {
+      "title": "\"Volksbad\"-Veranstaltung mit Verein Eoto abgesagt",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/08/berlin-volksbuehne-schwimmbecken-eoto-schwarze-menschen-abgesagt.html",
+      "date": "Thu, 13 Aug 2026 17:26:56 +0200"
+    },
+    {
+      "title": "Landesamt bekämpft wuchernde Brombeeren am Spremberger Staudamm",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/talsperre-spremberg-chemie-gegen-brombeeren.html",
+      "date": "Thu, 13 Aug 2026 17:18:31 +0200"
+    },
+    {
+      "title": "Betrugsserie in Berlin: Früherer Polizist zu Haftstrafe verurteilt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-betrug-ehemaliger-polizist-haftstrafe-urteil-landgericht.html",
+      "date": "Thu, 13 Aug 2026 17:05:15 +0200"
+    },
+    {
+      "title": "Landwirtschaft: Gute Apfelernte in Brandenburg erwartet",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/08/apfel-ernte-brandenburg-2026-gut.html",
+      "date": "Thu, 13 Aug 2026 16:59:16 +0200"
+    },
+    {
+      "title": "Italienischer Fußballautor im Interview: Berlin hat Derby-Mangel",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/interview-autor-damiano-benzoni-derbyless-city-berlin-fussball.html",
+      "date": "Thu, 13 Aug 2026 16:25:43 +0200"
+    },
+    {
       "title": "Beginn des Mauerbaus vor 65 Jahren: Berlin und Brandenburg erinnern",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-65-jahre-mauerbau-installation-brandenburger-tor.html",
       "date": "Thu, 13 Aug 2026 15:01:15 +0200"
@@ -19,49 +59,19 @@
       "title": "Dreieck Funkturm wegen Brückenneubau für 26 Stunden teilweise gesperrt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/ringbahnbruecke-berlin-neubau-a100-halenseestrasse-sperrungen.html",
       "date": "Thu, 13 Aug 2026 14:32:53 +0200"
-    },
-    {
-      "title": "Kältebus-Anschlag in Berlin: Täter muss in psychiatrisches Krankenhaus",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/landgericht-berlin-urteil-kaeltebus-brandanschlag-angezuendet-taeter-psychiatrie.html",
-      "date": "Thu, 13 Aug 2026 14:22:31 +0200"
-    },
-    {
-      "title": "Beifahrer stirbt bei schwerem Auffahrunfall auf A15",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-autobahn-15-sperrung-autotransporter-lkw-unfall-toter.html",
-      "date": "Thu, 13 Aug 2026 14:20:50 +0200"
-    },
-    {
-      "title": "Niedrigwasser in der Oder: \"Es braucht Regen, Regen, Regen\"",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/niedrigwasser-oder-fluss-schiffe-pegel-brandenburg.html",
-      "date": "Thu, 13 Aug 2026 14:07:57 +0200"
-    },
-    {
-      "title": "Bildergaleri: Die Sonnenfinsternis 2026 in Berlin und Brandenburg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/bildergalerie-sonnenfinsternis-berlin.html",
-      "date": "Thu, 13 Aug 2026 13:08:00 +0200"
-    },
-    {
-      "title": "Eisenhüttenstadt: Zwei Verdächtige nach Leichenfund festgenommen",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/08/leiche-eisenhuettenstadt-verdaechtige-festgenommen.html",
-      "date": "Thu, 13 Aug 2026 12:50:52 +0200"
-    },
-    {
-      "title": "Sonnenfinsternis fasziniert Tausende in Berlin - Polizei am Großplanetarium",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/sonnenfinsternis-berlin-zeiss-grossplanetarium.html",
-      "date": "Thu, 13 Aug 2026 12:21:26 +0200"
-    },
-    {
-      "title": "Tödliche Schüsse am Bahnhof Zoo: Tatverdächtiger ermittelt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-bahnhof-zoo-tatverdaechtiger-ermittelt-toter-schuesse.html",
-      "date": "Thu, 13 Aug 2026 11:37:06 +0200"
-    },
-    {
-      "title": "\"Wir sehen bei der Spree eine hochvariable Wasserführung\"",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/spree-trockenheit-wasser-knappheit-interview.html",
-      "date": "Thu, 13 Aug 2026 09:02:25 +0200"
     }
   ],
   "police": [
+    {
+      "title": "19-Jähriger vermisst – Polizei bittet um Mithilfe",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702932.php",
+      "date": "Thu, 13 Aug 2026 16:24:34 +0200"
+    },
+    {
+      "title": "Festnahme einer mutmaßlichen Diebesbande auf frischer Tat",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702929.php",
+      "date": "Thu, 13 Aug 2026 16:16:26 +0200"
+    },
     {
       "title": "Spätkauf ausgeraubt – Polizei bittet um Mithilfe",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702822.php",
@@ -111,22 +121,27 @@
       "title": "Durch Messerangriff erheblich verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701640.php",
       "date": "Tue, 11 Aug 2026 11:52:36 +0200"
-    },
-    {
-      "title": "Gewerbsmäßiger Computerbetrug und Diebstahl – Wer erkennt den Tatverdächtigen?",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701498.php",
-      "date": "Tue, 11 Aug 2026 08:13:38 +0200"
-    },
-    {
-      "title": "Geschwindigkeitskontrollen im Rahmen der zweiten ROADPOL-Aktionswoche „Speedweek“ 2026 – Polizei Berlin zieht Bilanz",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701388.php",
-      "date": "Mon, 10 Aug 2026 16:19:24 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "BVG fährt zuverlässiger - aber kaum pünktlicher",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-bvg-kaum-ausfaelle-bus-tram-u-bahn.html",
+      "date": "Thu, 13 Aug 2026 17:48:21 +0200"
+    },
+    {
+      "title": "Landesamt bekämpft wuchernde Brombeeren am Spremberger Staudamm",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/talsperre-spremberg-chemie-gegen-brombeeren.html",
+      "date": "Thu, 13 Aug 2026 17:18:31 +0200"
+    },
+    {
+      "title": "Betrugsserie in Berlin: Früherer Polizist zu Haftstrafe verurteilt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-betrug-ehemaliger-polizist-haftstrafe-urteil-landgericht.html",
+      "date": "Thu, 13 Aug 2026 17:05:15 +0200"
+    },
     {
       "title": "Tauschbörse per App in Seddiner See entwickelt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/nachbarschaftstauschboerse-seddiner-see-start.html",
@@ -171,21 +186,6 @@
       "title": "Sonnenfinsternis fasziniert Tausende in Berlin - Polizei am Großplanetarium",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/sonnenfinsternis-berlin-zeiss-grossplanetarium.html",
       "date": "Thu, 13 Aug 2026 12:21:26 +0200"
-    },
-    {
-      "title": "Tödliche Schüsse am Bahnhof Zoo: Tatverdächtiger ermittelt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-bahnhof-zoo-tatverdaechtiger-ermittelt-toter-schuesse.html",
-      "date": "Thu, 13 Aug 2026 11:37:06 +0200"
-    },
-    {
-      "title": "\"Wir sehen bei der Spree eine hochvariable Wasserführung\"",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/spree-trockenheit-wasser-knappheit-interview.html",
-      "date": "Thu, 13 Aug 2026 09:02:25 +0200"
-    },
-    {
-      "title": "\"Letzte Verteidigungswelle\": Verurteilte Rechtsextreme wollen Urteil prüfen lassen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/rechtsextreme-terrorgruppe-letzte-verteidigungswelle-revision.html",
-      "date": "Thu, 13 Aug 2026 08:26:00 +0200"
     }
   ]
 }
