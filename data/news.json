@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Entscheidung über marode Grünbrücke bei Thyrow Anfang September",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/gruenbruecke-thyrow-b101-entscheidung-anfang-september.html",
+      "date": "Thu, 13 Aug 2026 20:43:32 +0200"
+    },
+    {
+      "title": "Hertha empfängt Heidenheim: Die Sehnsucht nach der Heimstärke",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-hertha-bsc-2-bundesliga-heidenheim-vorbericht-heimspiel-olympiastadion.html",
+      "date": "Thu, 13 Aug 2026 20:25:51 +0200"
+    },
+    {
+      "title": "Brandenburger Innenminister warnt vor Glorifizierung der DDR-Geschichte",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/08/brandenburg-zentrales-gedenken-mauerbau-schoenefeld.html",
+      "date": "Thu, 13 Aug 2026 20:11:22 +0200"
+    },
+    {
       "title": "App warnt vor BVG-Kontrollen - Kritik an \"Freifahren\"",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-bvg-ohne-fahrschein-app-frei-fahren-diskussion.html",
       "date": "Thu, 13 Aug 2026 19:28:54 +0200"
@@ -44,21 +59,6 @@
       "title": "Landwirtschaft: Gute Apfelernte in Brandenburg erwartet",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/08/apfel-ernte-brandenburg-2026-gut.html",
       "date": "Thu, 13 Aug 2026 16:59:16 +0200"
-    },
-    {
-      "title": "Italienischer Fußballautor im Interview: Berlin hat Derby-Mangel",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/interview-autor-damiano-benzoni-derbyless-city-berlin-fussball.html",
-      "date": "Thu, 13 Aug 2026 16:25:43 +0200"
-    },
-    {
-      "title": "Berlin führt Bezahlkarte für Geflüchtete ein",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/08/berlin-bezahlkarte-gefluechtete-beschraenkung-bargeld.html",
-      "date": "Thu, 13 Aug 2026 14:59:24 +0200"
-    },
-    {
-      "title": "Wetter: Bis zu 37 Grad in Berlin und Brandenburg am Wochenende",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-brandenburg-wetter-36-grad-hohe-waldbrandgefahr.html",
-      "date": "Thu, 13 Aug 2026 14:37:25 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Entscheidung über marode Grünbrücke bei Thyrow Anfang September",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/gruenbruecke-thyrow-b101-entscheidung-anfang-september.html",
+      "date": "Thu, 13 Aug 2026 20:43:32 +0200"
+    },
+    {
       "title": "App warnt vor BVG-Kontrollen - Kritik an \"Freifahren\"",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-bvg-ohne-fahrschein-app-frei-fahren-diskussion.html",
       "date": "Thu, 13 Aug 2026 19:28:54 +0200"
@@ -181,11 +186,6 @@
       "title": "Niedrigwasser in der Oder: \"Es braucht Regen, Regen, Regen\"",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/niedrigwasser-oder-fluss-schiffe-pegel-brandenburg.html",
       "date": "Thu, 13 Aug 2026 14:07:57 +0200"
-    },
-    {
-      "title": "Perseidenschauer: Kommende Nächte bieten gute Möglichkeiten zum Sternschnuppenzählen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/perseiden-sternschnuppen-meteorschauer.html",
-      "date": "Thu, 13 Aug 2026 14:07:40 +0200"
     }
   ]
 }
