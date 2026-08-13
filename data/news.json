@@ -1,6 +1,31 @@
 {
   "traffic": [
     {
+      "title": "Wetter: Bis zu 37 Grad in Berlin und Brandenburg am Wochenende",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-brandenburg-wetter-36-grad-hohe-waldbrandgefahr.html",
+      "date": "Thu, 13 Aug 2026 14:37:25 +0200"
+    },
+    {
+      "title": "Dreieck Funkturm wegen Brückenneubau für 26 Stunden teilweise gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/ringbahnbruecke-berlin-neubau-a100-halenseestrasse-sperrungen.html",
+      "date": "Thu, 13 Aug 2026 14:32:53 +0200"
+    },
+    {
+      "title": "Kältebus-Anschlag in Berlin: Täter muss in psychiatrisches Krankenhaus",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/landgericht-berlin-urteil-kaeltebus-brandanschlag-angezuendet-taeter-psychiatrie.html",
+      "date": "Thu, 13 Aug 2026 14:22:31 +0200"
+    },
+    {
+      "title": "Beifahrer stirbt bei schwerem Auffahrunfall auf A15",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-autobahn-15-sperrung-autotransporter-lkw-unfall-toter.html",
+      "date": "Thu, 13 Aug 2026 14:20:50 +0200"
+    },
+    {
+      "title": "Niedrigwasser in der Oder: \"Es braucht Regen, Regen, Regen\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/niedrigwasser-oder-fluss-schiffe-pegel-brandenburg.html",
+      "date": "Thu, 13 Aug 2026 14:07:57 +0200"
+    },
+    {
       "title": "Bildergaleri: Die Sonnenfinsternis 2026 in Berlin und Brandenburg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/bildergalerie-sonnenfinsternis-berlin.html",
       "date": "Thu, 13 Aug 2026 13:08:00 +0200"
@@ -16,19 +41,9 @@
       "date": "Thu, 13 Aug 2026 12:43:57 +0200"
     },
     {
-      "title": "Dreieck Funkturm wegen Brückenneubau für 26 Stunden teilweise gesperrt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/ringbahnbruecke-berlin-neubau-a100-halenseestrasse-sperrungen.html",
-      "date": "Thu, 13 Aug 2026 12:41:13 +0200"
-    },
-    {
       "title": "Sonnenfinsternis fasziniert Tausende in Berlin - Polizei am Großplanetarium",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/sonnenfinsternis-berlin-zeiss-grossplanetarium.html",
       "date": "Thu, 13 Aug 2026 12:21:26 +0200"
-    },
-    {
-      "title": "Mensch stirbt bei schwerem Auffahrunfall auf A15",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-autobahn-15-sperrung-autotransporter-lkw-unfall-toter.html",
-      "date": "Thu, 13 Aug 2026 11:44:57 +0200"
     },
     {
       "title": "Tödliche Schüsse am Bahnhof Zoo: Tatverdächtiger ermittelt",
@@ -44,24 +59,14 @@
       "title": "\"Wir sehen bei der Spree eine hochvariable Wasserführung\"",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/spree-trockenheit-wasser-knappheit-interview.html",
       "date": "Thu, 13 Aug 2026 09:02:25 +0200"
-    },
-    {
-      "title": "Am Wochenende bis zu 36 Grad in Berlin und Brandenburg erwartet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-brandenburg-wetter-36-grad-hohe-waldbrandgefahr.html",
-      "date": "Thu, 13 Aug 2026 08:46:19 +0200"
-    },
-    {
-      "title": "\"Letzte Verteidigungswelle\": Verurteilte Rechtsextreme wollen Urteil prüfen lassen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/rechtsextreme-terrorgruppe-letzte-verteidigungswelle-revision.html",
-      "date": "Thu, 13 Aug 2026 08:26:00 +0200"
-    },
-    {
-      "title": "65 Jahre Mauerbau: \"Das Unrecht, eingesperrt zu werden, hat mich stark gemacht\"",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/65-jahre-mauerbau-berliner-mauer-interview-ddr-zeitzeugin-renate-werwigk-schneider.html",
-      "date": "Thu, 13 Aug 2026 06:43:29 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Spätkauf ausgeraubt – Polizei bittet um Mithilfe",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702822.php",
+      "date": "Thu, 13 Aug 2026 14:03:41 +0200"
+    },
     {
       "title": "Wahlplakate von Laternen entfernt – Tatverdächtiger festgenommen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702668.php",
@@ -116,11 +121,6 @@
       "title": "Geschwindigkeitskontrollen im Rahmen der zweiten ROADPOL-Aktionswoche „Speedweek“ 2026 – Polizei Berlin zieht Bilanz",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701388.php",
       "date": "Mon, 10 Aug 2026 16:19:24 +0200"
-    },
-    {
-      "title": "Mann mit Messer verletzt – Tatverdächtiger festgenommen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701262.php",
-      "date": "Mon, 10 Aug 2026 12:25:09 +0200"
     }
   ],
   "free_events": [],
@@ -128,24 +128,44 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Wetter: Bis zu 37 Grad in Berlin und Brandenburg am Wochenende",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-brandenburg-wetter-36-grad-hohe-waldbrandgefahr.html",
+      "date": "Thu, 13 Aug 2026 14:37:25 +0200"
+    },
+    {
+      "title": "Dreieck Funkturm wegen Brückenneubau für 26 Stunden teilweise gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/ringbahnbruecke-berlin-neubau-a100-halenseestrasse-sperrungen.html",
+      "date": "Thu, 13 Aug 2026 14:32:53 +0200"
+    },
+    {
+      "title": "Kältebus-Anschlag in Berlin: Täter muss in psychiatrisches Krankenhaus",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/landgericht-berlin-urteil-kaeltebus-brandanschlag-angezuendet-taeter-psychiatrie.html",
+      "date": "Thu, 13 Aug 2026 14:22:31 +0200"
+    },
+    {
+      "title": "Beifahrer stirbt bei schwerem Auffahrunfall auf A15",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-autobahn-15-sperrung-autotransporter-lkw-unfall-toter.html",
+      "date": "Thu, 13 Aug 2026 14:20:50 +0200"
+    },
+    {
+      "title": "Niedrigwasser in der Oder: \"Es braucht Regen, Regen, Regen\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/niedrigwasser-oder-fluss-schiffe-pegel-brandenburg.html",
+      "date": "Thu, 13 Aug 2026 14:07:57 +0200"
+    },
+    {
+      "title": "Perseidenschauer: Kommende Nächte bieten gute Möglichkeiten zum Sternschnuppenzählen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/perseiden-sternschnuppen-meteorschauer.html",
+      "date": "Thu, 13 Aug 2026 14:07:40 +0200"
+    },
+    {
       "title": "Beginn des Mauerbaus vor 65 Jahren: Berlin und Brandenburg erinnern",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-65-jahre-mauerbau-installation-brandenburger-tor.html",
       "date": "Thu, 13 Aug 2026 12:43:57 +0200"
     },
     {
-      "title": "Dreieck Funkturm wegen Brückenneubau für 26 Stunden teilweise gesperrt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/ringbahnbruecke-berlin-neubau-a100-halenseestrasse-sperrungen.html",
-      "date": "Thu, 13 Aug 2026 12:41:13 +0200"
-    },
-    {
       "title": "Sonnenfinsternis fasziniert Tausende in Berlin - Polizei am Großplanetarium",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/sonnenfinsternis-berlin-zeiss-grossplanetarium.html",
       "date": "Thu, 13 Aug 2026 12:21:26 +0200"
-    },
-    {
-      "title": "Mensch stirbt bei schwerem Auffahrunfall auf A15",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-autobahn-15-sperrung-autotransporter-lkw-unfall-toter.html",
-      "date": "Thu, 13 Aug 2026 11:44:57 +0200"
     },
     {
       "title": "Tödliche Schüsse am Bahnhof Zoo: Tatverdächtiger ermittelt",
@@ -158,11 +178,6 @@
       "date": "Thu, 13 Aug 2026 09:02:25 +0200"
     },
     {
-      "title": "Am Wochenende bis zu 36 Grad in Berlin und Brandenburg erwartet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-brandenburg-wetter-36-grad-hohe-waldbrandgefahr.html",
-      "date": "Thu, 13 Aug 2026 08:46:19 +0200"
-    },
-    {
       "title": "\"Letzte Verteidigungswelle\": Verurteilte Rechtsextreme wollen Urteil prüfen lassen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/rechtsextreme-terrorgruppe-letzte-verteidigungswelle-revision.html",
       "date": "Thu, 13 Aug 2026 08:26:00 +0200"
@@ -171,21 +186,6 @@
       "title": "65 Jahre Mauerbau: \"Das Unrecht, eingesperrt zu werden, hat mich stark gemacht\"",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/65-jahre-mauerbau-berliner-mauer-interview-ddr-zeitzeugin-renate-werwigk-schneider.html",
       "date": "Thu, 13 Aug 2026 06:43:29 +0200"
-    },
-    {
-      "title": "Im Re-Live: Sonnenfinsternis über Berlin und Brandenburg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/livestream-sonnenfinsternis-berlin-brandenburg.html",
-      "date": "Wed, 12 Aug 2026 22:16:16 +0200"
-    },
-    {
-      "title": "Klimakammern sollen Forschung zu Pflanzen in Berlin voranbringen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-pflanzenschutzamt-klimakammern-millionen-investition-forschung.html",
-      "date": "Wed, 12 Aug 2026 17:46:23 +0200"
-    },
-    {
-      "title": "Feuer in Wohnanlage in Biesdorf: Polizei ermittelt wegen Brandstiftung",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brand-biesdorf-brandstiftung-ermittlungen.html",
-      "date": "Wed, 12 Aug 2026 17:10:29 +0200"
     }
   ]
 }
