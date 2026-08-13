@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Mensch stirbt bei schwerem Auffahrunfall auf A15",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-autobahn-15-sperrung-autotransporter-lkw-unfall-toter.html",
+      "date": "Thu, 13 Aug 2026 11:44:57 +0200"
+    },
+    {
+      "title": "Tödliche Schüsse am Bahnhof Zoo: Tatverdächtiger ermittelt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-bahnhof-zoo-tatverdaechtiger-ermittelt-toter-schuesse.html",
+      "date": "Thu, 13 Aug 2026 11:37:06 +0200"
+    },
+    {
+      "title": "Sonnenfinsternis fasziniert Tausende in Berlin - Polizei am Großplanetarium",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/sonnenfinsternis-berlin-zeiss-grossplanetarium.html",
+      "date": "Thu, 13 Aug 2026 11:30:00 +0200"
+    },
+    {
       "title": "Berlin führt Bezahlkarte für Geflüchtete ein",
       "link": "https://www.rbb24.de/politik/beitrag/2026/08/berlin-bezahlkarte-gefluechtete-beschraenkung-bargeld.html",
       "date": "Thu, 13 Aug 2026 10:00:42 +0200"
@@ -19,11 +34,6 @@
       "title": "\"Letzten Verteidigungswelle\": Verurteilte Rechtsextreme wollen Urteil prüfen lassen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/rechtsextreme-terrorgruppe-letzte-verteidigungswelle-revision.html",
       "date": "Thu, 13 Aug 2026 08:26:06 +0200"
-    },
-    {
-      "title": "Mensch stirbt bei schwerem Auffahrunfall auf A15",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-autobahn-15-sperrung-autotransporter-lkw-unfall-toter.html",
-      "date": "Thu, 13 Aug 2026 08:15:01 +0200"
     },
     {
       "title": "65 Jahre Mauerbau: \"Das Unrecht, eingesperrt zu werden, hat mich stark gemacht\"",
@@ -46,22 +56,17 @@
       "date": "Wed, 12 Aug 2026 22:16:16 +0200"
     },
     {
-      "title": "Spektakulärer Blick auf die verschwindende Sonne - Polizeieinsatz am Zeiss-Großplanetarium",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/sonnenfinsternis-berlin-zeiss-grossplanetarium.html",
-      "date": "Wed, 12 Aug 2026 22:11:10 +0200"
-    },
-    {
       "title": "Bad vor der Volksbühne bleibt auch Donnerstag noch geschlossen",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/08/volksbad-berliner-volksbuehne-geschlossen-dusche-kaputt.html",
       "date": "Wed, 12 Aug 2026 20:19:18 +0200"
-    },
-    {
-      "title": "Deutsche Bahn bietet Begleitservice für Kinder von 6 bis 14 Jahren",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/08/begleitservice-bahn-kinder-tickets-begleitpauschale.html",
-      "date": "Wed, 12 Aug 2026 18:49:39 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Wahlplakate von Laternen entfernt – Tatverdächtiger festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702668.php",
+      "date": "Thu, 13 Aug 2026 11:36:25 +0200"
+    },
     {
       "title": "Dachgeschoss abgebrannt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702256.php",
@@ -116,17 +121,27 @@
       "title": "Mann mit Messer verletzt – Tatverdächtiger festgenommen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701262.php",
       "date": "Mon, 10 Aug 2026 12:25:09 +0200"
-    },
-    {
-      "title": "Verhaltensauffällige Person - DEIG-Einsatz",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701214.php",
-      "date": "Mon, 10 Aug 2026 11:02:53 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Mensch stirbt bei schwerem Auffahrunfall auf A15",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-autobahn-15-sperrung-autotransporter-lkw-unfall-toter.html",
+      "date": "Thu, 13 Aug 2026 11:44:57 +0200"
+    },
+    {
+      "title": "Tödliche Schüsse am Bahnhof Zoo: Tatverdächtiger ermittelt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-bahnhof-zoo-tatverdaechtiger-ermittelt-toter-schuesse.html",
+      "date": "Thu, 13 Aug 2026 11:37:06 +0200"
+    },
+    {
+      "title": "Sonnenfinsternis fasziniert Tausende in Berlin - Polizei am Großplanetarium",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/sonnenfinsternis-berlin-zeiss-grossplanetarium.html",
+      "date": "Thu, 13 Aug 2026 11:30:00 +0200"
+    },
     {
       "title": "\"Wir sehen bei der Spree eine hochvariable Wasserführung\"",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/spree-trockenheit-wasser-knappheit-interview.html",
@@ -143,11 +158,6 @@
       "date": "Thu, 13 Aug 2026 08:26:06 +0200"
     },
     {
-      "title": "Mensch stirbt bei schwerem Auffahrunfall auf A15",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-autobahn-15-sperrung-autotransporter-lkw-unfall-toter.html",
-      "date": "Thu, 13 Aug 2026 08:15:01 +0200"
-    },
-    {
       "title": "65 Jahre Mauerbau: \"Das Unrecht, eingesperrt zu werden, hat mich stark gemacht\"",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/65-jahre-mauerbau-berliner-mauer-interview-ddr-zeitzeugin-renate-werwigk-schneider.html",
       "date": "Thu, 13 Aug 2026 06:43:29 +0200"
@@ -156,11 +166,6 @@
       "title": "Im Re-Live: Sonnenfinsternis über Berlin und Brandenburg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/livestream-sonnenfinsternis-berlin-brandenburg.html",
       "date": "Wed, 12 Aug 2026 22:16:16 +0200"
-    },
-    {
-      "title": "Spektakulärer Blick auf die verschwindende Sonne - Polizeieinsatz am Zeiss-Großplanetarium",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/sonnenfinsternis-berlin-zeiss-grossplanetarium.html",
-      "date": "Wed, 12 Aug 2026 22:11:10 +0200"
     },
     {
       "title": "Klimakammern sollen Forschung zu Pflanzen in Berlin voranbringen",
@@ -181,11 +186,6 @@
       "title": "Mordkommission ermittelt nach Schüssen in Berlin-Baumschulenweg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/schuesse-mordkommission-berlin-baumschulenweg-ermittlungen.html",
       "date": "Wed, 12 Aug 2026 14:36:33 +0200"
-    },
-    {
-      "title": "Wildbienen: 31 Arten in 25 Jahren nach Brandenburg eingewandert",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-wildbienen-arten-einwanderung-heinz-sielmann-stiftung.html",
-      "date": "Wed, 12 Aug 2026 13:49:33 +0200"
     }
   ]
 }
