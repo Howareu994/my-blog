@@ -1,6 +1,26 @@
 {
   "traffic": [
     {
+      "title": "Eisenhüttenstadt: Zwei Verdächtige nach Leichenfund festgenommen",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/08/leiche-eisenhuettenstadt-verdaechtige-festgenommen.html",
+      "date": "Thu, 13 Aug 2026 12:50:52 +0200"
+    },
+    {
+      "title": "Beginn des Mauerbaus vor 65 Jahren: Berlin und Brandenburg erinnern",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-65-jahre-mauerbau-installation-brandenburger-tor.html",
+      "date": "Thu, 13 Aug 2026 12:43:57 +0200"
+    },
+    {
+      "title": "Dreieck Funkturm wegen Brückenneubau für 26 Stunden teilweise gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/ringbahnbruecke-berlin-neubau-a100-halenseestrasse-sperrungen.html",
+      "date": "Thu, 13 Aug 2026 12:41:13 +0200"
+    },
+    {
+      "title": "Sonnenfinsternis fasziniert Tausende in Berlin - Polizei am Großplanetarium",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/sonnenfinsternis-berlin-zeiss-grossplanetarium.html",
+      "date": "Thu, 13 Aug 2026 12:21:26 +0200"
+    },
+    {
       "title": "Mensch stirbt bei schwerem Auffahrunfall auf A15",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-autobahn-15-sperrung-autotransporter-lkw-unfall-toter.html",
       "date": "Thu, 13 Aug 2026 11:44:57 +0200"
@@ -9,11 +29,6 @@
       "title": "Tödliche Schüsse am Bahnhof Zoo: Tatverdächtiger ermittelt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-bahnhof-zoo-tatverdaechtiger-ermittelt-toter-schuesse.html",
       "date": "Thu, 13 Aug 2026 11:37:06 +0200"
-    },
-    {
-      "title": "Sonnenfinsternis fasziniert Tausende in Berlin - Polizei am Großplanetarium",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/sonnenfinsternis-berlin-zeiss-grossplanetarium.html",
-      "date": "Thu, 13 Aug 2026 11:30:00 +0200"
     },
     {
       "title": "Berlin führt Bezahlkarte für Geflüchtete ein",
@@ -31,9 +46,9 @@
       "date": "Thu, 13 Aug 2026 08:46:19 +0200"
     },
     {
-      "title": "\"Letzten Verteidigungswelle\": Verurteilte Rechtsextreme wollen Urteil prüfen lassen",
+      "title": "\"Letzte Verteidigungswelle\": Verurteilte Rechtsextreme wollen Urteil prüfen lassen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/rechtsextreme-terrorgruppe-letzte-verteidigungswelle-revision.html",
-      "date": "Thu, 13 Aug 2026 08:26:06 +0200"
+      "date": "Thu, 13 Aug 2026 08:26:00 +0200"
     },
     {
       "title": "65 Jahre Mauerbau: \"Das Unrecht, eingesperrt zu werden, hat mich stark gemacht\"",
@@ -44,21 +59,6 @@
       "title": "Löcher, Lücken, Leere - Brandenburgs neuer Haushalt mit Käsestruktur",
       "link": "https://www.rbb24.de/politik/beitrag/2026/08/brandenburg-landeshaushalt-etat-2027-2028-loecher-luecken-defizit.html",
       "date": "Thu, 13 Aug 2026 06:24:00 +0200"
-    },
-    {
-      "title": "Leichtathletik-EM: Bredau läuft über 400 Meter auf Platz fünf",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/leichtathletik-em-birmingham-400-meter-finale-jean-paul-bredau.html",
-      "date": "Wed, 12 Aug 2026 22:30:30 +0200"
-    },
-    {
-      "title": "Im Re-Live: Sonnenfinsternis über Berlin und Brandenburg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/livestream-sonnenfinsternis-berlin-brandenburg.html",
-      "date": "Wed, 12 Aug 2026 22:16:16 +0200"
-    },
-    {
-      "title": "Bad vor der Volksbühne bleibt auch Donnerstag noch geschlossen",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/08/volksbad-berliner-volksbuehne-geschlossen-dusche-kaputt.html",
-      "date": "Wed, 12 Aug 2026 20:19:18 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,21 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Beginn des Mauerbaus vor 65 Jahren: Berlin und Brandenburg erinnern",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-65-jahre-mauerbau-installation-brandenburger-tor.html",
+      "date": "Thu, 13 Aug 2026 12:43:57 +0200"
+    },
+    {
+      "title": "Dreieck Funkturm wegen Brückenneubau für 26 Stunden teilweise gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/ringbahnbruecke-berlin-neubau-a100-halenseestrasse-sperrungen.html",
+      "date": "Thu, 13 Aug 2026 12:41:13 +0200"
+    },
+    {
+      "title": "Sonnenfinsternis fasziniert Tausende in Berlin - Polizei am Großplanetarium",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/sonnenfinsternis-berlin-zeiss-grossplanetarium.html",
+      "date": "Thu, 13 Aug 2026 12:21:26 +0200"
+    },
+    {
       "title": "Mensch stirbt bei schwerem Auffahrunfall auf A15",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-autobahn-15-sperrung-autotransporter-lkw-unfall-toter.html",
       "date": "Thu, 13 Aug 2026 11:44:57 +0200"
@@ -136,11 +151,6 @@
       "title": "Tödliche Schüsse am Bahnhof Zoo: Tatverdächtiger ermittelt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-bahnhof-zoo-tatverdaechtiger-ermittelt-toter-schuesse.html",
       "date": "Thu, 13 Aug 2026 11:37:06 +0200"
-    },
-    {
-      "title": "Sonnenfinsternis fasziniert Tausende in Berlin - Polizei am Großplanetarium",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/sonnenfinsternis-berlin-zeiss-grossplanetarium.html",
-      "date": "Thu, 13 Aug 2026 11:30:00 +0200"
     },
     {
       "title": "\"Wir sehen bei der Spree eine hochvariable Wasserführung\"",
@@ -153,9 +163,9 @@
       "date": "Thu, 13 Aug 2026 08:46:19 +0200"
     },
     {
-      "title": "\"Letzten Verteidigungswelle\": Verurteilte Rechtsextreme wollen Urteil prüfen lassen",
+      "title": "\"Letzte Verteidigungswelle\": Verurteilte Rechtsextreme wollen Urteil prüfen lassen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/rechtsextreme-terrorgruppe-letzte-verteidigungswelle-revision.html",
-      "date": "Thu, 13 Aug 2026 08:26:06 +0200"
+      "date": "Thu, 13 Aug 2026 08:26:00 +0200"
     },
     {
       "title": "65 Jahre Mauerbau: \"Das Unrecht, eingesperrt zu werden, hat mich stark gemacht\"",
@@ -176,16 +186,6 @@
       "title": "Feuer in Wohnanlage in Biesdorf: Polizei ermittelt wegen Brandstiftung",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brand-biesdorf-brandstiftung-ermittlungen.html",
       "date": "Wed, 12 Aug 2026 17:10:29 +0200"
-    },
-    {
-      "title": "Beginn des Mauerbaus vor 65 Jahren: Berlin und Brandenburg erinnern",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-65-jahre-mauerbau-installation-brandenburger-tor.html",
-      "date": "Wed, 12 Aug 2026 16:42:08 +0200"
-    },
-    {
-      "title": "Mordkommission ermittelt nach Schüssen in Berlin-Baumschulenweg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/schuesse-mordkommission-berlin-baumschulenweg-ermittlungen.html",
-      "date": "Wed, 12 Aug 2026 14:36:33 +0200"
     }
   ]
 }
