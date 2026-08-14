@@ -1,9 +1,29 @@
 {
   "traffic": [
     {
-      "title": "Wohnhausbrand im Märkischen Viertel in Berlin - keine Verletzten",
+      "title": "Berlin-Reinickendorf: Feuerwehr rückt zu Brand in zehngeschossigem Wohnhaus aus",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/wohnhausbrand-maerkisches-viertel-berlin-reinickendorf.html",
-      "date": "Fri, 14 Aug 2026 06:40:00 +0200"
+      "date": "Fri, 14 Aug 2026 08:43:06 +0200"
+    },
+    {
+      "title": "Brand in Hochhaus in der Nähe des Berliner Ostbahnhofs ausgebrochen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brand-hochhaus-naehe-berlin-ostbahnhof-friedrichshain.html",
+      "date": "Fri, 14 Aug 2026 08:38:29 +0200"
+    },
+    {
+      "title": "Durchgehend Warnstufe 4: Waldbrandgefahr in Brandenburg überall hoch",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/waldbrandgefahr-brandenburg-umweltministerium-warnstufe.html",
+      "date": "Fri, 14 Aug 2026 08:28:38 +0200"
+    },
+    {
+      "title": "Leiche in Hohen Neuendorf gefunden - Mordkommission ermittelt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/leichenfund-hohen-neuendorf-oberhavel-bergfelde-mordkommission.html",
+      "date": "Fri, 14 Aug 2026 08:05:39 +0200"
+    },
+    {
+      "title": "Wie die Berliner Hockeyspielerin Linnea Weidemann zum Star reifte",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/damen-feldhockey-nationalmannschaft-weltmeisterschaft-weidemann.html",
+      "date": "Fri, 14 Aug 2026 07:39:52 +0200"
     },
     {
       "title": "Datenleck-Betroffene streiten mit BVG über Schadenersatz",
@@ -39,26 +59,6 @@
       "title": "\"Volksbad\"-Veranstaltung mit Verein Eoto abgesagt",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/08/berlin-volksbuehne-schwimmbecken-eoto-schwarze-menschen-abgesagt.html",
       "date": "Thu, 13 Aug 2026 17:59:37 +0200"
-    },
-    {
-      "title": "BVG fährt zuverlässiger - aber kaum pünktlicher",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-bvg-kaum-ausfaelle-bus-tram-u-bahn.html",
-      "date": "Thu, 13 Aug 2026 17:48:21 +0200"
-    },
-    {
-      "title": "Vergleich: Hertha zahlt wohl rund vier Millionen Euro an Bobic",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-hertha-bsc-manager-fredi-bobic-vergleich-zahlung-4-millionen.html",
-      "date": "Thu, 13 Aug 2026 17:47:00 +0200"
-    },
-    {
-      "title": "Eisenhüttenstadt: Zwei Verdächtige nach Leichenfund festgenommen",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/08/leiche-eisenhuettenstadt-verdaechtige-festgenommen.html",
-      "date": "Thu, 13 Aug 2026 17:33:59 +0200"
-    },
-    {
-      "title": "Landesamt bekämpft wuchernde Brombeeren am Spremberger Staudamm",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/talsperre-spremberg-chemie-gegen-brombeeren.html",
-      "date": "Thu, 13 Aug 2026 17:18:31 +0200"
     }
   ],
   "police": [
@@ -128,9 +128,24 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Wohnhausbrand im Märkischen Viertel in Berlin - keine Verletzten",
+      "title": "Berlin-Reinickendorf: Feuerwehr rückt zu Brand in zehngeschossigem Wohnhaus aus",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/wohnhausbrand-maerkisches-viertel-berlin-reinickendorf.html",
-      "date": "Fri, 14 Aug 2026 06:40:00 +0200"
+      "date": "Fri, 14 Aug 2026 08:43:06 +0200"
+    },
+    {
+      "title": "Brand in Hochhaus in der Nähe des Berliner Ostbahnhofs ausgebrochen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brand-hochhaus-naehe-berlin-ostbahnhof-friedrichshain.html",
+      "date": "Fri, 14 Aug 2026 08:38:29 +0200"
+    },
+    {
+      "title": "Durchgehend Warnstufe 4: Waldbrandgefahr in Brandenburg überall hoch",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/waldbrandgefahr-brandenburg-umweltministerium-warnstufe.html",
+      "date": "Fri, 14 Aug 2026 08:28:38 +0200"
+    },
+    {
+      "title": "Leiche in Hohen Neuendorf gefunden - Mordkommission ermittelt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/leichenfund-hohen-neuendorf-oberhavel-bergfelde-mordkommission.html",
+      "date": "Fri, 14 Aug 2026 08:05:39 +0200"
     },
     {
       "title": "Datenleck-Betroffene streiten mit BVG über Schadenersatz",
@@ -171,21 +186,6 @@
       "title": "Tauschbörse per App in Seddiner See entwickelt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/nachbarschaftstauschboerse-seddiner-see-start.html",
       "date": "Thu, 13 Aug 2026 15:48:56 +0200"
-    },
-    {
-      "title": "Wetter: Bis zu 37 Grad in Berlin und Brandenburg am Wochenende",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-brandenburg-wetter-36-grad-hohe-waldbrandgefahr.html",
-      "date": "Thu, 13 Aug 2026 14:37:25 +0200"
-    },
-    {
-      "title": "Dreieck Funkturm wegen Brückenneubau für 26 Stunden teilweise gesperrt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/ringbahnbruecke-berlin-neubau-a100-halenseestrasse-sperrungen.html",
-      "date": "Thu, 13 Aug 2026 14:32:53 +0200"
-    },
-    {
-      "title": "Kältebus-Anschlag in Berlin: Täter muss in psychiatrisches Krankenhaus",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/landgericht-berlin-urteil-kaeltebus-brandanschlag-angezuendet-taeter-psychiatrie.html",
-      "date": "Thu, 13 Aug 2026 14:22:31 +0200"
     }
   ]
 }
