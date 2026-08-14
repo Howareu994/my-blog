@@ -1,14 +1,19 @@
 {
   "traffic": [
     {
-      "title": "Berlin-Reinickendorf: Feuerwehr rückt zu Brand in zehngeschossigem Wohnhaus aus",
+      "title": "Berlin-Reinickendorf: Feuerwehr löscht Brand im Zehngeschosser im Märkischen Viertel",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/wohnhausbrand-maerkisches-viertel-berlin-reinickendorf.html",
-      "date": "Fri, 14 Aug 2026 08:43:06 +0200"
+      "date": "Fri, 14 Aug 2026 09:51:34 +0200"
     },
     {
-      "title": "Brand in Hochhaus in der Nähe des Berliner Ostbahnhofs ausgebrochen",
+      "title": "AnnenMayKantereit in der Wuhlheide: Für immer und dich",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/08/konzertkritik-annenmaykantereit-berlin-wuhlheide.html",
+      "date": "Fri, 14 Aug 2026 09:41:28 +0200"
+    },
+    {
+      "title": "Brand in einem Hochhaus in der Nähe des Berliner Ostbahnhofs - Evakuierung über Drehleitern",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brand-hochhaus-naehe-berlin-ostbahnhof-friedrichshain.html",
-      "date": "Fri, 14 Aug 2026 08:38:29 +0200"
+      "date": "Fri, 14 Aug 2026 09:34:46 +0200"
     },
     {
       "title": "Durchgehend Warnstufe 4: Waldbrandgefahr in Brandenburg überall hoch",
@@ -54,14 +59,14 @@
       "title": "App warnt vor BVG-Kontrollen - Kritik an \"Freifahren\"",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-bvg-ohne-fahrschein-app-frei-fahren-diskussion.html",
       "date": "Thu, 13 Aug 2026 19:28:54 +0200"
-    },
-    {
-      "title": "\"Volksbad\"-Veranstaltung mit Verein Eoto abgesagt",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/08/berlin-volksbuehne-schwimmbecken-eoto-schwarze-menschen-abgesagt.html",
-      "date": "Thu, 13 Aug 2026 17:59:37 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Lieferfahrer im Park überfallen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703096.php",
+      "date": "Fri, 14 Aug 2026 09:57:50 +0200"
+    },
     {
       "title": "19-Jähriger vermisst – Polizei bittet um Mithilfe",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702932.php",
@@ -116,11 +121,6 @@
       "title": "Fahrradfahrer verstorben",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701657.php",
       "date": "Tue, 11 Aug 2026 12:15:05 +0200"
-    },
-    {
-      "title": "Durch Messerangriff erheblich verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701640.php",
-      "date": "Tue, 11 Aug 2026 11:52:36 +0200"
     }
   ],
   "free_events": [],
@@ -128,14 +128,14 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Berlin-Reinickendorf: Feuerwehr rückt zu Brand in zehngeschossigem Wohnhaus aus",
+      "title": "Berlin-Reinickendorf: Feuerwehr löscht Brand im Zehngeschosser im Märkischen Viertel",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/wohnhausbrand-maerkisches-viertel-berlin-reinickendorf.html",
-      "date": "Fri, 14 Aug 2026 08:43:06 +0200"
+      "date": "Fri, 14 Aug 2026 09:51:34 +0200"
     },
     {
-      "title": "Brand in Hochhaus in der Nähe des Berliner Ostbahnhofs ausgebrochen",
+      "title": "Brand in einem Hochhaus in der Nähe des Berliner Ostbahnhofs - Evakuierung über Drehleitern",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brand-hochhaus-naehe-berlin-ostbahnhof-friedrichshain.html",
-      "date": "Fri, 14 Aug 2026 08:38:29 +0200"
+      "date": "Fri, 14 Aug 2026 09:34:46 +0200"
     },
     {
       "title": "Durchgehend Warnstufe 4: Waldbrandgefahr in Brandenburg überall hoch",
