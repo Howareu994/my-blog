@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Dora Richter erhält Gedenktafel vor Krankenhaus am Urban",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/dora-richter-krankenhaus-am-urban-berlin-kreuzberg-gedenken-erste-geschlechtsangleichung.html",
+      "date": "Fri, 14 Aug 2026 20:12:11 +0200"
+    },
+    {
+      "title": "\"Volksbad\"-Veranstaltung mit Verein Eoto abgesagt",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/08/berlin-volksbuehne-schwimmbecken-eoto-schwarze-menschen-abgesagt.html",
+      "date": "Fri, 14 Aug 2026 20:03:24 +0200"
+    },
+    {
+      "title": "Kleines Spektakel nach Schließung von \"Volksbad\" wegen Hetze gegen Schwarze",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/08/intendant-volksbuehne-lilienthal-volksbad-eoto-schwarze-community.html",
+      "date": "Fri, 14 Aug 2026 19:34:20 +0200"
+    },
+    {
       "title": "Berlinerin Köhler gewinnt EM-Silber über 100 m Schmetterling",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/schwimm-em-angelina-koehler-isabel-gose.html",
       "date": "Fri, 14 Aug 2026 18:56:55 +0200"
@@ -36,11 +51,6 @@
       "date": "Fri, 14 Aug 2026 15:37:17 +0200"
     },
     {
-      "title": "\"Volksbad\"-Veranstaltung mit Verein Eoto abgesagt",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/08/berlin-volksbuehne-schwimmbecken-eoto-schwarze-menschen-abgesagt.html",
-      "date": "Fri, 14 Aug 2026 15:00:48 +0200"
-    },
-    {
       "title": "Tanz im August mit Satire-Revue \"Trapicana\" eröffnet",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/08/berlin-hebbel-am-ufer-hau-tanz-im-august-tanzfestival.html",
       "date": "Fri, 14 Aug 2026 14:49:58 +0200"
@@ -49,16 +59,6 @@
       "title": "Entlassung von Staatssekretär Matthias Hundt: Was es Berlin kostet",
       "link": "https://www.rbb24.de/politik/beitrag/2026/08/berlin-staatssekretaer-hundt-uebergangsgeld-entlassung.html",
       "date": "Fri, 14 Aug 2026 14:35:00 +0200"
-    },
-    {
-      "title": "RE1 hält ab Samstag am neuen Bahnhof Fangschleuse",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/re1-bahnhof-fangschleuse-tesla-regionalverkehr.html",
-      "date": "Fri, 14 Aug 2026 14:28:56 +0200"
-    },
-    {
-      "title": "Berlin-Reinickendorf: Brand in Zehngeschosser im Märkischen Viertel gelöscht",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/wohnhausbrand-maerkisches-viertel-berlin-reinickendorf.html",
-      "date": "Fri, 14 Aug 2026 13:37:47 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Dora Richter erhält Gedenktafel vor Krankenhaus am Urban",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/dora-richter-krankenhaus-am-urban-berlin-kreuzberg-gedenken-erste-geschlechtsangleichung.html",
+      "date": "Fri, 14 Aug 2026 20:12:11 +0200"
+    },
+    {
       "title": "Wasserwege im Unterspreewald wieder freigegeben",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-spreewald-fliesse-wasserwege-freigegeben.html",
       "date": "Fri, 14 Aug 2026 17:55:47 +0200"
@@ -181,11 +186,6 @@
       "title": "Entscheidung über marode Grünbrücke bei Thyrow Anfang September",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/gruenbruecke-thyrow-b101-entscheidung-anfang-september.html",
       "date": "Thu, 13 Aug 2026 20:43:32 +0200"
-    },
-    {
-      "title": "App warnt vor BVG-Kontrollen - Kritik an \"Freifahren\"",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-bvg-ohne-fahrschein-app-frei-fahren-diskussion.html",
-      "date": "Thu, 13 Aug 2026 19:28:54 +0200"
     }
   ]
 }
