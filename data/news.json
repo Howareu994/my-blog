@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Neuer Eisbären-Cheftrainer Dubois: \"Ich mag Druck\"",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/eishockey-eisbaeren-berlin-trainingsauftakt-eric-dubois-trainer.html",
+      "date": "Fri, 14 Aug 2026 21:32:55 +0200"
+    },
+    {
+      "title": "Schwimmen: Berlinerinnen Köhler und Gose gewinnen EM-Silber",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/schwimm-em-angelina-koehler-isabel-gose.html",
+      "date": "Fri, 14 Aug 2026 21:11:03 +0200"
+    },
+    {
+      "title": "An der Tanke in Brandenburg: \"Ich habe 25 Jahre am Stück an Silvester Pfannkuchen gebacken\"",
+      "link": "https://www.rbb24.de/panorama/thema/an-der-tanke/brandenburg-an-der-tanke-barnim-rentnerin-baeckerei.html",
+      "date": "Fri, 14 Aug 2026 21:05:51 +0200"
+    },
+    {
       "title": "Dora Richter erhält Gedenktafel vor Krankenhaus am Urban",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/dora-richter-krankenhaus-am-urban-berlin-kreuzberg-gedenken-erste-geschlechtsangleichung.html",
       "date": "Fri, 14 Aug 2026 20:12:11 +0200"
@@ -16,19 +31,9 @@
       "date": "Fri, 14 Aug 2026 19:34:20 +0200"
     },
     {
-      "title": "Berlinerin Köhler gewinnt EM-Silber über 100 m Schmetterling",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/schwimm-em-angelina-koehler-isabel-gose.html",
-      "date": "Fri, 14 Aug 2026 18:56:55 +0200"
-    },
-    {
       "title": "Wasserwege im Unterspreewald wieder freigegeben",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-spreewald-fliesse-wasserwege-freigegeben.html",
       "date": "Fri, 14 Aug 2026 17:55:47 +0200"
-    },
-    {
-      "title": "An der Tanke in Brandenburg: \"Ich habe 25 Jahre am Stück an Silvester Pfannkuchen gebacken\"",
-      "link": "https://www.rbb24.de/panorama/thema/an-der-tanke/brandenburg-an-der-tanke-barnim-rentnerin-baeckerei.html",
-      "date": "Fri, 14 Aug 2026 17:27:17 +0200"
     },
     {
       "title": "Mit Kelle und Pinsel auf Zeitreise: Archäologen-Feriencamp in der Prignitz",
@@ -54,11 +59,6 @@
       "title": "Tanz im August mit Satire-Revue \"Trapicana\" eröffnet",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/08/berlin-hebbel-am-ufer-hau-tanz-im-august-tanzfestival.html",
       "date": "Fri, 14 Aug 2026 14:49:58 +0200"
-    },
-    {
-      "title": "Entlassung von Staatssekretär Matthias Hundt: Was es Berlin kostet",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/08/berlin-staatssekretaer-hundt-uebergangsgeld-entlassung.html",
-      "date": "Fri, 14 Aug 2026 14:35:00 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "An der Tanke in Brandenburg: \"Ich habe 25 Jahre am Stück an Silvester Pfannkuchen gebacken\"",
+      "link": "https://www.rbb24.de/panorama/thema/an-der-tanke/brandenburg-an-der-tanke-barnim-rentnerin-baeckerei.html",
+      "date": "Fri, 14 Aug 2026 21:05:51 +0200"
+    },
+    {
       "title": "Dora Richter erhält Gedenktafel vor Krankenhaus am Urban",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/dora-richter-krankenhaus-am-urban-berlin-kreuzberg-gedenken-erste-geschlechtsangleichung.html",
       "date": "Fri, 14 Aug 2026 20:12:11 +0200"
@@ -136,11 +141,6 @@
       "title": "Wasserwege im Unterspreewald wieder freigegeben",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-spreewald-fliesse-wasserwege-freigegeben.html",
       "date": "Fri, 14 Aug 2026 17:55:47 +0200"
-    },
-    {
-      "title": "An der Tanke in Brandenburg: \"Ich habe 25 Jahre am Stück an Silvester Pfannkuchen gebacken\"",
-      "link": "https://www.rbb24.de/panorama/thema/an-der-tanke/brandenburg-an-der-tanke-barnim-rentnerin-baeckerei.html",
-      "date": "Fri, 14 Aug 2026 17:27:17 +0200"
     },
     {
       "title": "Mit Kelle und Pinsel auf Zeitreise: Archäologen-Feriencamp in der Prignitz",
