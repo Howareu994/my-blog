@@ -1,9 +1,24 @@
 {
   "traffic": [
     {
+      "title": "An der Tanke in Brandenburg: \"Ich habe 25 Jahre am Stück an Silvester Pfannkuchen gebacken\"",
+      "link": "https://www.rbb24.de/panorama/thema/an-der-tanke/brandenburg-an-der-tanke-barnim-rentnerin-baeckerei.html",
+      "date": "Fri, 14 Aug 2026 17:27:17 +0200"
+    },
+    {
+      "title": "Mit Kelle und Pinsel auf Zeitreise: Archäologen-Feriencamp in der Prignitz",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/archaeologen-feriencamp-prignitz.html",
+      "date": "Fri, 14 Aug 2026 16:49:26 +0200"
+    },
+    {
       "title": "Fischerei in Storkow mit 800-jähriger Tradition verkauft",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/08/fischerei-storkow-verkauft-betreiber-gesucht.html",
-      "date": "Fri, 14 Aug 2026 15:58:00 +0200"
+      "date": "Fri, 14 Aug 2026 16:38:20 +0200"
+    },
+    {
+      "title": "Kommentar zu abgesagter \"Volksbad\"-Veranstaltung: Armutszeugnis für Berlin",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/08/kommentar-volksbuehne-schwimmbad-schwarze-menschen-veranstaltung-absage.html",
+      "date": "Fri, 14 Aug 2026 16:09:56 +0200"
     },
     {
       "title": "52-Jährige vor Mauerweglauf: \"Wenn man nachts läuft, muss man aufpassen\"",
@@ -23,7 +38,7 @@
     {
       "title": "Entlassung von Staatssekretär Matthias Hundt: Was es Berlin kostet",
       "link": "https://www.rbb24.de/politik/beitrag/2026/08/berlin-staatssekretaer-hundt-uebergangsgeld-entlassung.html",
-      "date": "Fri, 14 Aug 2026 14:35:44 +0200"
+      "date": "Fri, 14 Aug 2026 14:35:00 +0200"
     },
     {
       "title": "RE1 hält ab Samstag am neuen Bahnhof Fangschleuse",
@@ -44,21 +59,6 @@
       "title": "Techno-Parade durch den Tiergarten unter verschärften Sicherheitsvorkehrungen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/rave-the-planet-techno-parade-berlin-tiergarten-motto-imagine-love.html",
       "date": "Fri, 14 Aug 2026 12:56:00 +0200"
-    },
-    {
-      "title": "19-Jährige tot in Hohen Neuendorf gefunden – Mordkommission ermittelt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/leichenfund-hohen-neuendorf-oberhavel-bergfelde-mordkommission.html",
-      "date": "Fri, 14 Aug 2026 12:46:45 +0200"
-    },
-    {
-      "title": "Schock für Energie Cottbus: Engelhardt verletzt sich schwer",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-2-liga-fc-energie-cottbus-erik-engelhardt-verletzung-kreuzband-meniskus-training.html",
-      "date": "Fri, 14 Aug 2026 12:16:44 +0200"
-    },
-    {
-      "title": "Durchgehend Warnstufe 4: Waldbrandgefahr in Brandenburg überall hoch",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/waldbrandgefahr-brandenburg-umweltministerium-warnstufe.html",
-      "date": "Fri, 14 Aug 2026 12:13:17 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,16 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "An der Tanke in Brandenburg: \"Ich habe 25 Jahre am Stück an Silvester Pfannkuchen gebacken\"",
+      "link": "https://www.rbb24.de/panorama/thema/an-der-tanke/brandenburg-an-der-tanke-barnim-rentnerin-baeckerei.html",
+      "date": "Fri, 14 Aug 2026 17:27:17 +0200"
+    },
+    {
+      "title": "Mit Kelle und Pinsel auf Zeitreise: Archäologen-Feriencamp in der Prignitz",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/archaeologen-feriencamp-prignitz.html",
+      "date": "Fri, 14 Aug 2026 16:49:26 +0200"
+    },
+    {
       "title": "RE1 hält ab Samstag am neuen Bahnhof Fangschleuse",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/re1-bahnhof-fangschleuse-tesla-regionalverkehr.html",
       "date": "Fri, 14 Aug 2026 14:28:56 +0200"
@@ -176,16 +186,6 @@
       "title": "Beginn des Mauerbaus vor 65 Jahren: Berlin und Brandenburg erinnern",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-65-jahre-mauerbau-installation-brandenburger-tor.html",
       "date": "Thu, 13 Aug 2026 18:33:10 +0200"
-    },
-    {
-      "title": "BVG fährt zuverlässiger - aber kaum pünktlicher",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-bvg-kaum-ausfaelle-bus-tram-u-bahn.html",
-      "date": "Thu, 13 Aug 2026 17:48:21 +0200"
-    },
-    {
-      "title": "Landesamt bekämpft wuchernde Brombeeren am Spremberger Staudamm",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/talsperre-spremberg-chemie-gegen-brombeeren.html",
-      "date": "Thu, 13 Aug 2026 17:18:31 +0200"
     }
   ]
 }
