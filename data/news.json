@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Wasserwege im Unterspreewald wieder freigegeben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-spreewald-fliesse-wasserwege-freigegeben.html",
+      "date": "Fri, 14 Aug 2026 17:55:47 +0200"
+    },
+    {
       "title": "An der Tanke in Brandenburg: \"Ich habe 25 Jahre am Stück an Silvester Pfannkuchen gebacken\"",
       "link": "https://www.rbb24.de/panorama/thema/an-der-tanke/brandenburg-an-der-tanke-barnim-rentnerin-baeckerei.html",
       "date": "Fri, 14 Aug 2026 17:27:17 +0200"
@@ -54,11 +59,6 @@
       "title": "Berlin-Friedrichshain: Sprung aus elftem Stock in Drehleiterkorb",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brand-hochhaus-naehe-berlin-ostbahnhof-friedrichshain.html",
       "date": "Fri, 14 Aug 2026 13:16:51 +0200"
-    },
-    {
-      "title": "Techno-Parade durch den Tiergarten unter verschärften Sicherheitsvorkehrungen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/rave-the-planet-techno-parade-berlin-tiergarten-motto-imagine-love.html",
-      "date": "Fri, 14 Aug 2026 12:56:00 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Wasserwege im Unterspreewald wieder freigegeben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-spreewald-fliesse-wasserwege-freigegeben.html",
+      "date": "Fri, 14 Aug 2026 17:55:47 +0200"
+    },
+    {
       "title": "An der Tanke in Brandenburg: \"Ich habe 25 Jahre am Stück an Silvester Pfannkuchen gebacken\"",
       "link": "https://www.rbb24.de/panorama/thema/an-der-tanke/brandenburg-an-der-tanke-barnim-rentnerin-baeckerei.html",
       "date": "Fri, 14 Aug 2026 17:27:17 +0200"
@@ -181,11 +186,6 @@
       "title": "App warnt vor BVG-Kontrollen - Kritik an \"Freifahren\"",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-bvg-ohne-fahrschein-app-frei-fahren-diskussion.html",
       "date": "Thu, 13 Aug 2026 19:28:54 +0200"
-    },
-    {
-      "title": "Beginn des Mauerbaus vor 65 Jahren: Berlin und Brandenburg erinnern",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-65-jahre-mauerbau-installation-brandenburger-tor.html",
-      "date": "Thu, 13 Aug 2026 18:33:10 +0200"
     }
   ]
 }
