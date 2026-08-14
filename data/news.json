@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Wohnhausbrand im Märkischen Viertel in Berlin - keine Verletzten",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/wohnhausbrand-maerkisches-viertel-berlin-reinickendorf.html",
+      "date": "Fri, 14 Aug 2026 06:40:00 +0200"
+    },
+    {
+      "title": "Datenleck-Betroffene streiten mit BVG über Schadenersatz",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/bvg-datenleck-streit-schadenersatz.html",
+      "date": "Fri, 14 Aug 2026 06:15:00 +0200"
+    },
+    {
+      "title": "Berliner Senat plant künftige S-Bahn-Linie nur mit halben Zügen",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/08/s95-s-bahn-linie-berlin-halbzuege-kritik-buendnis-schiene.html",
+      "date": "Fri, 14 Aug 2026 06:15:00 +0200"
+    },
+    {
       "title": "Entscheidung über marode Grünbrücke bei Thyrow Anfang September",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/gruenbruecke-thyrow-b101-entscheidung-anfang-september.html",
       "date": "Thu, 13 Aug 2026 20:43:32 +0200"
@@ -19,11 +34,6 @@
       "title": "App warnt vor BVG-Kontrollen - Kritik an \"Freifahren\"",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-bvg-ohne-fahrschein-app-frei-fahren-diskussion.html",
       "date": "Thu, 13 Aug 2026 19:28:54 +0200"
-    },
-    {
-      "title": "Beginn des Mauerbaus vor 65 Jahren: Berlin und Brandenburg erinnern",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-65-jahre-mauerbau-installation-brandenburger-tor.html",
-      "date": "Thu, 13 Aug 2026 18:33:10 +0200"
     },
     {
       "title": "\"Volksbad\"-Veranstaltung mit Verein Eoto abgesagt",
@@ -49,16 +59,6 @@
       "title": "Landesamt bekämpft wuchernde Brombeeren am Spremberger Staudamm",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/talsperre-spremberg-chemie-gegen-brombeeren.html",
       "date": "Thu, 13 Aug 2026 17:18:31 +0200"
-    },
-    {
-      "title": "Betrugsserie in Berlin: Früherer Polizist zu Haftstrafe verurteilt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-betrug-ehemaliger-polizist-haftstrafe-urteil-landgericht.html",
-      "date": "Thu, 13 Aug 2026 17:05:15 +0200"
-    },
-    {
-      "title": "Landwirtschaft: Gute Apfelernte in Brandenburg erwartet",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/08/apfel-ernte-brandenburg-2026-gut.html",
-      "date": "Thu, 13 Aug 2026 16:59:16 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,16 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Wohnhausbrand im Märkischen Viertel in Berlin - keine Verletzten",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/wohnhausbrand-maerkisches-viertel-berlin-reinickendorf.html",
+      "date": "Fri, 14 Aug 2026 06:40:00 +0200"
+    },
+    {
+      "title": "Datenleck-Betroffene streiten mit BVG über Schadenersatz",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/bvg-datenleck-streit-schadenersatz.html",
+      "date": "Fri, 14 Aug 2026 06:15:00 +0200"
+    },
+    {
       "title": "Entscheidung über marode Grünbrücke bei Thyrow Anfang September",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/gruenbruecke-thyrow-b101-entscheidung-anfang-september.html",
       "date": "Thu, 13 Aug 2026 20:43:32 +0200"
@@ -176,16 +186,6 @@
       "title": "Kältebus-Anschlag in Berlin: Täter muss in psychiatrisches Krankenhaus",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/landgericht-berlin-urteil-kaeltebus-brandanschlag-angezuendet-taeter-psychiatrie.html",
       "date": "Thu, 13 Aug 2026 14:22:31 +0200"
-    },
-    {
-      "title": "Beifahrer stirbt bei schwerem Auffahrunfall auf A15",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-autobahn-15-sperrung-autotransporter-lkw-unfall-toter.html",
-      "date": "Thu, 13 Aug 2026 14:20:50 +0200"
-    },
-    {
-      "title": "Niedrigwasser in der Oder: \"Es braucht Regen, Regen, Regen\"",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/niedrigwasser-oder-fluss-schiffe-pegel-brandenburg.html",
-      "date": "Thu, 13 Aug 2026 14:07:57 +0200"
     }
   ]
 }
