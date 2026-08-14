@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "RE1 zwischen Berlin und Frankfurt (Oder) einen Tag länger gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/re1-bahnhof-fangschleuse-tesla-regionalverkehr.html",
+      "date": "Fri, 14 Aug 2026 22:14:01 +0200"
+    },
+    {
       "title": "Neuer Eisbären-Cheftrainer Dubois: \"Ich mag Druck\"",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/eishockey-eisbaeren-berlin-trainingsauftakt-eric-dubois-trainer.html",
       "date": "Fri, 14 Aug 2026 21:32:55 +0200"
@@ -54,11 +59,6 @@
       "title": "52-Jährige vor Mauerweglauf: \"Wenn man nachts läuft, muss man aufpassen\"",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/interview-dorothee-serries-mauerweglauf-100-meilen-ultramarathon.html",
       "date": "Fri, 14 Aug 2026 15:37:17 +0200"
-    },
-    {
-      "title": "Tanz im August mit Satire-Revue \"Trapicana\" eröffnet",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/08/berlin-hebbel-am-ufer-hau-tanz-im-august-tanzfestival.html",
-      "date": "Fri, 14 Aug 2026 14:49:58 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "RE1 zwischen Berlin und Frankfurt (Oder) einen Tag länger gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/re1-bahnhof-fangschleuse-tesla-regionalverkehr.html",
+      "date": "Fri, 14 Aug 2026 22:14:01 +0200"
+    },
+    {
       "title": "An der Tanke in Brandenburg: \"Ich habe 25 Jahre am Stück an Silvester Pfannkuchen gebacken\"",
       "link": "https://www.rbb24.de/panorama/thema/an-der-tanke/brandenburg-an-der-tanke-barnim-rentnerin-baeckerei.html",
       "date": "Fri, 14 Aug 2026 21:05:51 +0200"
@@ -146,11 +151,6 @@
       "title": "Mit Kelle und Pinsel auf Zeitreise: Archäologen-Feriencamp in der Prignitz",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/archaeologen-feriencamp-prignitz.html",
       "date": "Fri, 14 Aug 2026 16:49:26 +0200"
-    },
-    {
-      "title": "RE1 hält ab Samstag am neuen Bahnhof Fangschleuse",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/re1-bahnhof-fangschleuse-tesla-regionalverkehr.html",
-      "date": "Fri, 14 Aug 2026 14:28:56 +0200"
     },
     {
       "title": "Berlin-Reinickendorf: Brand in Zehngeschosser im Märkischen Viertel gelöscht",
