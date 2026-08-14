@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Entlassung von Staatssekretär Matthias Hundt: Was es Berlin kostet",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/08/berlin-staatssekretaer-hundt-uebergangsgeld-entlassung.html",
+      "date": "Fri, 14 Aug 2026 14:35:44 +0200"
+    },
+    {
+      "title": "RE1 hält ab Samstag am neuen Bahnhof Fangschleuse",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/re1-bahnhof-fangschleuse-tesla-regionalverkehr.html",
+      "date": "Fri, 14 Aug 2026 14:28:56 +0200"
+    },
+    {
+      "title": "Berlin-Reinickendorf: Brand in Zehngeschosser im Märkischen Viertel gelöscht",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/wohnhausbrand-maerkisches-viertel-berlin-reinickendorf.html",
+      "date": "Fri, 14 Aug 2026 13:37:47 +0200"
+    },
+    {
       "title": "Berlin-Friedrichshain: Sprung aus elftem Stock in Drehleiterkorb",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brand-hochhaus-naehe-berlin-ostbahnhof-friedrichshain.html",
       "date": "Fri, 14 Aug 2026 13:16:51 +0200"
@@ -44,24 +59,19 @@
       "title": "Zahlreiche Verstöße: Brandenburg kontrolliert neue Preisregel an Tankstellen bislang nicht",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/08/tankstellen-preiserhoehung-benzinpreis-verstoesse-neue-regel.html",
       "date": "Fri, 14 Aug 2026 11:30:41 +0200"
-    },
-    {
-      "title": "Ex-Union-Kapitän Olaf Seier über das Leben als Fußballer in der DDR",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-union-berlin-olaf-leo-seier-ddr-intertoto-cup-bfc-dynamo.html",
-      "date": "Fri, 14 Aug 2026 10:51:00 +0200"
-    },
-    {
-      "title": "Berlin-Reinickendorf: Brand in Zehngeschosser im Märkischen Viertel gelöscht",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/wohnhausbrand-maerkisches-viertel-berlin-reinickendorf.html",
-      "date": "Fri, 14 Aug 2026 09:51:00 +0200"
-    },
-    {
-      "title": "AnnenMayKantereit in der Wuhlheide: Für immer und dich",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/08/konzertkritik-annenmaykantereit-berlin-wuhlheide.html",
-      "date": "Fri, 14 Aug 2026 09:41:28 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Schüsse treffen Lokalscheibe",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703303.php",
+      "date": "Fri, 14 Aug 2026 14:18:35 +0200"
+    },
+    {
+      "title": "Auseinandersetzung beim Anbringen von Wahlplakaten",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703287.php",
+      "date": "Fri, 14 Aug 2026 13:46:34 +0200"
+    },
     {
       "title": "Brandstiftung in einer Bar",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703241.php",
@@ -111,22 +121,22 @@
       "title": "Kontrollen gegen Arbeitsausbeutung und Menschenhandel",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702183.php",
       "date": "Wed, 12 Aug 2026 13:27:28 +0200"
-    },
-    {
-      "title": "Frau vermisst – Polizei bittet um Mithilfe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702099.php",
-      "date": "Wed, 12 Aug 2026 12:55:00 +0200"
-    },
-    {
-      "title": "Beleidigung und Volksverhetzung auf einem Spielplatz",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702158.php",
-      "date": "Wed, 12 Aug 2026 12:37:00 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "RE1 hält ab Samstag am neuen Bahnhof Fangschleuse",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/re1-bahnhof-fangschleuse-tesla-regionalverkehr.html",
+      "date": "Fri, 14 Aug 2026 14:28:56 +0200"
+    },
+    {
+      "title": "Berlin-Reinickendorf: Brand in Zehngeschosser im Märkischen Viertel gelöscht",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/wohnhausbrand-maerkisches-viertel-berlin-reinickendorf.html",
+      "date": "Fri, 14 Aug 2026 13:37:47 +0200"
+    },
     {
       "title": "Berlin-Friedrichshain: Sprung aus elftem Stock in Drehleiterkorb",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brand-hochhaus-naehe-berlin-ostbahnhof-friedrichshain.html",
@@ -143,19 +153,9 @@
       "date": "Fri, 14 Aug 2026 12:46:45 +0200"
     },
     {
-      "title": "RE1 hält ab Samstag am neuen Bahnhof Fangschleuse",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/re1-bahnhof-fangschleuse-tesla-regionalverkehr.html",
-      "date": "Fri, 14 Aug 2026 12:44:00 +0200"
-    },
-    {
       "title": "Durchgehend Warnstufe 4: Waldbrandgefahr in Brandenburg überall hoch",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/waldbrandgefahr-brandenburg-umweltministerium-warnstufe.html",
       "date": "Fri, 14 Aug 2026 12:13:17 +0200"
-    },
-    {
-      "title": "Berlin-Reinickendorf: Brand in Zehngeschosser im Märkischen Viertel gelöscht",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/wohnhausbrand-maerkisches-viertel-berlin-reinickendorf.html",
-      "date": "Fri, 14 Aug 2026 09:51:00 +0200"
     },
     {
       "title": "Datenleck-Betroffene streiten mit BVG über Schadenersatz",
