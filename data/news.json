@@ -1,6 +1,31 @@
 {
   "traffic": [
     {
+      "title": "Hochhausbrand in Berlin-Friedrichshain: Person rettet sich mit Sprung aus elften Stock in Drehleiterkorb",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brand-hochhaus-naehe-berlin-ostbahnhof-friedrichshain.html",
+      "date": "Fri, 14 Aug 2026 11:58:15 +0200"
+    },
+    {
+      "title": "Leag baut in Südbrandenburg weitere Batteriespeicher",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/08/leag-batteriespeicher-bau-heinersbrueck-jaenschwalde.html",
+      "date": "Fri, 14 Aug 2026 11:36:39 +0200"
+    },
+    {
+      "title": "Nach EM-Gold: Leo Neugebauer startet in Berlin beim Istaf",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/leo-neugebauer-amadeus-graeber-istaf-teilnahme-dreikampf.html",
+      "date": "Fri, 14 Aug 2026 11:35:10 +0200"
+    },
+    {
+      "title": "Zahlreiche Verstöße: Brandenburg kontrolliert neue Preisregel an Tankstellen bislang nicht",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/08/tankstellen-preiserhoehung-benzinpreis-verstoesse-neue-regel.html",
+      "date": "Fri, 14 Aug 2026 11:30:41 +0200"
+    },
+    {
+      "title": "Ex-Union-Kapitän Olaf Seier über das Leben als Fußballer in der DDR",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-union-berlin-olaf-leo-seier-ddr-intertoto-cup-bfc-dynamo.html",
+      "date": "Fri, 14 Aug 2026 10:51:40 +0200"
+    },
+    {
       "title": "Berlin-Reinickendorf: Feuerwehr löscht Brand im Zehngeschosser im Märkischen Viertel",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/wohnhausbrand-maerkisches-viertel-berlin-reinickendorf.html",
       "date": "Fri, 14 Aug 2026 09:51:34 +0200"
@@ -9,11 +34,6 @@
       "title": "AnnenMayKantereit in der Wuhlheide: Für immer und dich",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/08/konzertkritik-annenmaykantereit-berlin-wuhlheide.html",
       "date": "Fri, 14 Aug 2026 09:41:28 +0200"
-    },
-    {
-      "title": "Brand in einem Hochhaus in der Nähe des Berliner Ostbahnhofs - Evakuierung über Drehleitern",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brand-hochhaus-naehe-berlin-ostbahnhof-friedrichshain.html",
-      "date": "Fri, 14 Aug 2026 09:34:46 +0200"
     },
     {
       "title": "Durchgehend Warnstufe 4: Waldbrandgefahr in Brandenburg überall hoch",
@@ -39,26 +59,6 @@
       "title": "Berliner Senat plant künftige S-Bahn-Linie nur mit halben Zügen",
       "link": "https://www.rbb24.de/politik/beitrag/2026/08/s95-s-bahn-linie-berlin-halbzuege-kritik-buendnis-schiene.html",
       "date": "Fri, 14 Aug 2026 06:15:00 +0200"
-    },
-    {
-      "title": "Entscheidung über marode Grünbrücke bei Thyrow Anfang September",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/gruenbruecke-thyrow-b101-entscheidung-anfang-september.html",
-      "date": "Thu, 13 Aug 2026 20:43:32 +0200"
-    },
-    {
-      "title": "Hertha empfängt Heidenheim: Die Sehnsucht nach der Heimstärke",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-hertha-bsc-2-bundesliga-heidenheim-vorbericht-heimspiel-olympiastadion.html",
-      "date": "Thu, 13 Aug 2026 20:25:51 +0200"
-    },
-    {
-      "title": "Brandenburger Innenminister warnt vor Glorifizierung der DDR-Geschichte",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/08/brandenburg-zentrales-gedenken-mauerbau-schoenefeld.html",
-      "date": "Thu, 13 Aug 2026 20:11:22 +0200"
-    },
-    {
-      "title": "App warnt vor BVG-Kontrollen - Kritik an \"Freifahren\"",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-bvg-ohne-fahrschein-app-frei-fahren-diskussion.html",
-      "date": "Thu, 13 Aug 2026 19:28:54 +0200"
     }
   ],
   "police": [
@@ -128,14 +128,14 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Hochhausbrand in Berlin-Friedrichshain: Person rettet sich mit Sprung aus elften Stock in Drehleiterkorb",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brand-hochhaus-naehe-berlin-ostbahnhof-friedrichshain.html",
+      "date": "Fri, 14 Aug 2026 11:58:15 +0200"
+    },
+    {
       "title": "Berlin-Reinickendorf: Feuerwehr löscht Brand im Zehngeschosser im Märkischen Viertel",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/wohnhausbrand-maerkisches-viertel-berlin-reinickendorf.html",
       "date": "Fri, 14 Aug 2026 09:51:34 +0200"
-    },
-    {
-      "title": "Brand in einem Hochhaus in der Nähe des Berliner Ostbahnhofs - Evakuierung über Drehleitern",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brand-hochhaus-naehe-berlin-ostbahnhof-friedrichshain.html",
-      "date": "Fri, 14 Aug 2026 09:34:46 +0200"
     },
     {
       "title": "Durchgehend Warnstufe 4: Waldbrandgefahr in Brandenburg überall hoch",
