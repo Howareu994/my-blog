@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Leichtathletik-EM: Geher Leo Köpp disqualifiziert",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/leichtathletik-em-europameisterschaft-leo-koepp-gehen-disqualifiziert.html",
+      "date": "Sat, 15 Aug 2026 10:48:49 +0200"
+    },
+    {
       "title": "Mehr als 50 Verdächtige wegen Schusswaffengewalt in Berlin in Haft",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-staatsanwaltschaft-polizei-sondereinheit-ferrum-schuesse-zwischenbilanz.html",
       "date": "Sat, 15 Aug 2026 08:51:04 +0200"
@@ -54,14 +59,19 @@
       "title": "Wasserwege im Unterspreewald wieder freigegeben",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-spreewald-fliesse-wasserwege-freigegeben.html",
       "date": "Fri, 14 Aug 2026 17:55:47 +0200"
-    },
-    {
-      "title": "Mit Kelle und Pinsel auf Zeitreise: Archäologen-Feriencamp in der Prignitz",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/archaeologen-feriencamp-prignitz.html",
-      "date": "Fri, 14 Aug 2026 16:49:26 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Zwei Männer durch Messerstiche verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703426.php",
+      "date": "Sat, 15 Aug 2026 10:57:40 +0200"
+    },
+    {
+      "title": "Rollerfahrer nach Verkehrsunfall verstorben",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703425.php",
+      "date": "Sat, 15 Aug 2026 10:49:37 +0200"
+    },
     {
       "title": "Schüsse treffen Lokalscheibe",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703303.php",
@@ -111,16 +121,6 @@
       "title": "Dachgeschoss abgebrannt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702256.php",
       "date": "Wed, 12 Aug 2026 14:40:16 +0200"
-    },
-    {
-      "title": "E-Scooter-Fahrerin fährt Fußgänger an",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702196.php",
-      "date": "Wed, 12 Aug 2026 13:39:20 +0200"
-    },
-    {
-      "title": "Kontrollen gegen Arbeitsausbeutung und Menschenhandel",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702183.php",
-      "date": "Wed, 12 Aug 2026 13:27:28 +0200"
     }
   ],
   "free_events": [],
