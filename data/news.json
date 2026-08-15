@@ -1,9 +1,14 @@
 {
   "traffic": [
     {
+      "title": "Leichtathletik-EM: Sprint-Staffel mit Lückenkemper verpasst Finale",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/leichtathletik-em-staffel-100-meter-lueckenkemper-finale-verpasst-verletzung.html",
+      "date": "Sat, 15 Aug 2026 15:16:48 +0200"
+    },
+    {
       "title": "Techno-Parade \"Rave the Planet\" durch Tiergarten unter verschärften Sicherheitsvorkehrungen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/rave-the-planet-techno-parade-berlin-tiergarten-motto-imagine-love.html",
-      "date": "Sat, 15 Aug 2026 14:10:55 +0200"
+      "date": "Sat, 15 Aug 2026 14:44:49 +0200"
     },
     {
       "title": "Livestream: Techno-Parade \"Rave the Planet\" im Berliner Tiergarten",
@@ -54,14 +59,19 @@
       "title": "Dora Richter erhält Gedenktafel vor Krankenhaus am Urban",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/dora-richter-krankenhaus-am-urban-berlin-kreuzberg-gedenken-erste-geschlechtsangleichung.html",
       "date": "Sat, 15 Aug 2026 08:50:37 +0200"
-    },
-    {
-      "title": "RE1 zwischen Berlin und Frankfurt (Oder) voraussichtlich bis Sonntag gesperrt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/re1-bahnhof-fangschleuse-tesla-regionalverkehr.html",
-      "date": "Sat, 15 Aug 2026 08:01:54 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Mitarbeiter eines Spätkaufs mit Schusswaffe bedroht und Geld geraubt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703441.php",
+      "date": "Sat, 15 Aug 2026 14:50:19 +0200"
+    },
+    {
+      "title": "Mann angefahren und anschließend geflüchtet",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703440.php",
+      "date": "Sat, 15 Aug 2026 14:29:18 +0200"
+    },
     {
       "title": "Mehrere Einbrüche in einem Einkaufszentrum",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703438.php",
@@ -111,16 +121,6 @@
       "title": "Frau beschädigt Wahlplakate und greift Polizist an",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703231.php",
       "date": "Fri, 14 Aug 2026 12:21:28 +0200"
-    },
-    {
-      "title": "Lieferfahrer im Park überfallen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703096.php",
-      "date": "Fri, 14 Aug 2026 09:57:50 +0200"
-    },
-    {
-      "title": "19-Jähriger vermisst – Polizei bittet um Mithilfe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702932.php",
-      "date": "Thu, 13 Aug 2026 16:24:34 +0200"
     }
   ],
   "free_events": [],
@@ -130,7 +130,7 @@
     {
       "title": "Techno-Parade \"Rave the Planet\" durch Tiergarten unter verschärften Sicherheitsvorkehrungen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/rave-the-planet-techno-parade-berlin-tiergarten-motto-imagine-love.html",
-      "date": "Sat, 15 Aug 2026 14:10:55 +0200"
+      "date": "Sat, 15 Aug 2026 14:44:49 +0200"
     },
     {
       "title": "Livestream: Techno-Parade \"Rave the Planet\" im Berliner Tiergarten",
