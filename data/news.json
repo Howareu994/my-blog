@@ -1,24 +1,34 @@
 {
   "traffic": [
     {
+      "title": "Techno-Parade \"Rave the Planet\" durch Tiergarten unter verschärften Sicherheitsvorkehrungen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/rave-the-planet-techno-parade-berlin-tiergarten-motto-imagine-love.html",
+      "date": "Sat, 15 Aug 2026 16:48:34 +0200"
+    },
+    {
+      "title": "Handball: Neuzugang Palicka überragt bei Füchse-Sieg gegen Paris",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/handball-turnier-fuechse-berlin-barcelona-psg-nordhorn-lingen-vorbereitung.html",
+      "date": "Sat, 15 Aug 2026 16:43:41 +0200"
+    },
+    {
+      "title": "Mann gerät in der Müggelspree in Schiffsschraube und wird schwer verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/mann-baden-schiffsschraube-unfall-mueggelsee-koepenick.html",
+      "date": "Sat, 15 Aug 2026 16:29:01 +0200"
+    },
+    {
+      "title": "Nach furioser erster Hälfte: Hertha bezwingt Heidenheim mit 4:1",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-zweite-bundesliga-hertha-bsc-heidenheim-spielbericht-liveticker-audiostream.html",
+      "date": "Sat, 15 Aug 2026 16:26:39 +0200"
+    },
+    {
       "title": "Erste Verbindung seit 2011: Direktflug vom BER nach Damaskus",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/08/berlin-damaskus-syrien-airline-fluege-verbindung.html",
       "date": "Sat, 15 Aug 2026 15:29:46 +0200"
     },
     {
-      "title": "Techno-Parade \"Rave the Planet\" durch Tiergarten unter verschärften Sicherheitsvorkehrungen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/rave-the-planet-techno-parade-berlin-tiergarten-motto-imagine-love.html",
-      "date": "Sat, 15 Aug 2026 15:28:00 +0200"
-    },
-    {
       "title": "Leichtathletik-EM: Sprint-Staffel mit Lückenkemper verpasst Finale",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/leichtathletik-em-staffel-100-meter-lueckenkemper-finale-verpasst-verletzung.html",
       "date": "Sat, 15 Aug 2026 15:16:48 +0200"
-    },
-    {
-      "title": "Livestream: Techno-Parade \"Rave the Planet\" im Berliner Tiergarten",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/livestream-rave-the-planet-techno-parade-berlin-tiergarten.html",
-      "date": "Sat, 15 Aug 2026 14:00:50 +0200"
     },
     {
       "title": "Berlin: Antisemitische Beleidigung in U-Bahn",
@@ -49,16 +59,6 @@
       "title": "Berlin-Pankow: 61-jähriger Rollerfahrer stirbt nach Zusammenstoß mit Auto",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-pankow-unfall-toter.html",
       "date": "Sat, 15 Aug 2026 11:27:09 +0200"
-    },
-    {
-      "title": "Debatte um Rentenreform: Maxi-Streit um Mini-Jobs",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/08/rentenreform-debatte-minijobs-camping-brandenburg.html",
-      "date": "Sat, 15 Aug 2026 11:04:48 +0200"
-    },
-    {
-      "title": "Mehr als 50 Verdächtige wegen Schusswaffengewalt in Berlin in Haft",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-staatsanwaltschaft-polizei-sondereinheit-ferrum-schuesse-zwischenbilanz.html",
-      "date": "Sat, 15 Aug 2026 08:51:04 +0200"
     }
   ],
   "police": [
@@ -130,12 +130,17 @@
     {
       "title": "Techno-Parade \"Rave the Planet\" durch Tiergarten unter verschärften Sicherheitsvorkehrungen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/rave-the-planet-techno-parade-berlin-tiergarten-motto-imagine-love.html",
-      "date": "Sat, 15 Aug 2026 15:28:00 +0200"
+      "date": "Sat, 15 Aug 2026 16:48:34 +0200"
+    },
+    {
+      "title": "Mann gerät in der Müggelspree in Schiffsschraube und wird schwer verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/mann-baden-schiffsschraube-unfall-mueggelsee-koepenick.html",
+      "date": "Sat, 15 Aug 2026 16:29:01 +0200"
     },
     {
       "title": "Livestream: Techno-Parade \"Rave the Planet\" im Berliner Tiergarten",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/livestream-rave-the-planet-techno-parade-berlin-tiergarten.html",
-      "date": "Sat, 15 Aug 2026 14:00:50 +0200"
+      "date": "Sat, 15 Aug 2026 14:00:00 +0200"
     },
     {
       "title": "Berlin: Antisemitische Beleidigung in U-Bahn",
@@ -181,11 +186,6 @@
       "title": "Mit Kelle und Pinsel auf Zeitreise: Archäologen-Feriencamp in der Prignitz",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/archaeologen-feriencamp-prignitz.html",
       "date": "Fri, 14 Aug 2026 16:49:26 +0200"
-    },
-    {
-      "title": "Berlin-Reinickendorf: Brand in Zehngeschosser im Märkischen Viertel gelöscht",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/wohnhausbrand-maerkisches-viertel-berlin-reinickendorf.html",
-      "date": "Fri, 14 Aug 2026 13:37:47 +0200"
     }
   ]
 }
