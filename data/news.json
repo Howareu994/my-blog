@@ -1,6 +1,26 @@
 {
   "traffic": [
     {
+      "title": "Brandenburger Bildungsministerium legt Berufung gegen Haasenburg-Urteil ein",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/08/brandenburg-bildungsministerium-gericht-haasenburg-urteil.html",
+      "date": "Sat, 15 Aug 2026 12:08:28 +0200"
+    },
+    {
+      "title": "Berlin-Pankow: 61-jähriger Rollerfahrer stirbt nach Zusammenstoß mit Auto",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-pankow-unfall-toter.html",
+      "date": "Sat, 15 Aug 2026 11:27:09 +0200"
+    },
+    {
+      "title": "Wetter: Samstag heiß, Sonntag kommt die Abkühlung",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-brandenburg-wetter-wochenende-hitze-samstag-abkuehlung-sonntag.html",
+      "date": "Sat, 15 Aug 2026 11:24:06 +0200"
+    },
+    {
+      "title": "Livestream: Techno-Parade \"Rave the Planet\" im Berliner Tiergarten",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/livestream-rave-the-planet-techno-parade-berlin-tiergarten.html",
+      "date": "Sat, 15 Aug 2026 11:18:06 +0200"
+    },
+    {
       "title": "Leichtathletik-EM: Geher Leo Köpp disqualifiziert",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/leichtathletik-em-europameisterschaft-leo-koepp-gehen-disqualifiziert.html",
       "date": "Sat, 15 Aug 2026 10:48:49 +0200"
@@ -31,37 +51,22 @@
       "date": "Fri, 14 Aug 2026 22:29:15 +0200"
     },
     {
-      "title": "Neuer Eisbären-Cheftrainer Dubois: \"Ich mag Druck\"",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/eishockey-eisbaeren-berlin-trainingsauftakt-eric-dubois-trainer.html",
-      "date": "Fri, 14 Aug 2026 21:32:55 +0200"
-    },
-    {
       "title": "Schwimmen: Berlinerinnen Köhler und Gose gewinnen EM-Silber",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/schwimm-em-angelina-koehler-isabel-gose.html",
       "date": "Fri, 14 Aug 2026 21:11:03 +0200"
     },
     {
-      "title": "An der Tanke in Brandenburg: \"Ich habe 25 Jahre am Stück an Silvester Pfannkuchen gebacken\"",
-      "link": "https://www.rbb24.de/panorama/thema/an-der-tanke/brandenburg-an-der-tanke-barnim-rentnerin-baeckerei.html",
-      "date": "Fri, 14 Aug 2026 21:05:51 +0200"
-    },
-    {
       "title": "\"Volksbad\"-Veranstaltung mit Verein Eoto abgesagt",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/08/berlin-volksbuehne-schwimmbecken-eoto-schwarze-menschen-abgesagt.html",
       "date": "Fri, 14 Aug 2026 20:03:24 +0200"
-    },
-    {
-      "title": "Kleines Spektakel nach Schließung von \"Volksbad\" wegen Hetze gegen Schwarze",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/08/intendant-volksbuehne-lilienthal-volksbad-eoto-schwarze-community.html",
-      "date": "Fri, 14 Aug 2026 19:34:20 +0200"
-    },
-    {
-      "title": "Wasserwege im Unterspreewald wieder freigegeben",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-spreewald-fliesse-wasserwege-freigegeben.html",
-      "date": "Fri, 14 Aug 2026 17:55:47 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Mann in U-Bahn antisemitisch beleidigt und bedroht",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703430.php",
+      "date": "Sat, 15 Aug 2026 11:32:54 +0200"
+    },
     {
       "title": "Zwei Männer durch Messerstiche verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703426.php",
@@ -116,17 +121,27 @@
       "title": "Wahlplakate von Laternen entfernt – Tatverdächtiger festgenommen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702668.php",
       "date": "Thu, 13 Aug 2026 11:36:25 +0200"
-    },
-    {
-      "title": "Dachgeschoss abgebrannt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702256.php",
-      "date": "Wed, 12 Aug 2026 14:40:16 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Berlin-Pankow: 61-jähriger Rollerfahrer stirbt nach Zusammenstoß mit Auto",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-pankow-unfall-toter.html",
+      "date": "Sat, 15 Aug 2026 11:27:09 +0200"
+    },
+    {
+      "title": "Wetter: Samstag heiß, Sonntag kommt die Abkühlung",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-brandenburg-wetter-wochenende-hitze-samstag-abkuehlung-sonntag.html",
+      "date": "Sat, 15 Aug 2026 11:24:06 +0200"
+    },
+    {
+      "title": "Livestream: Techno-Parade \"Rave the Planet\" im Berliner Tiergarten",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/livestream-rave-the-planet-techno-parade-berlin-tiergarten.html",
+      "date": "Sat, 15 Aug 2026 11:18:06 +0200"
+    },
     {
       "title": "Mehr als 50 Verdächtige wegen Schusswaffengewalt in Berlin in Haft",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-staatsanwaltschaft-polizei-sondereinheit-ferrum-schuesse-zwischenbilanz.html",
@@ -171,21 +186,6 @@
       "title": "Techno-Parade durch den Tiergarten unter verschärften Sicherheitsvorkehrungen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/rave-the-planet-techno-parade-berlin-tiergarten-motto-imagine-love.html",
       "date": "Fri, 14 Aug 2026 12:56:00 +0200"
-    },
-    {
-      "title": "19-Jährige tot in Hohen Neuendorf gefunden – Mordkommission ermittelt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/leichenfund-hohen-neuendorf-oberhavel-bergfelde-mordkommission.html",
-      "date": "Fri, 14 Aug 2026 12:46:45 +0200"
-    },
-    {
-      "title": "Durchgehend Warnstufe 4: Waldbrandgefahr in Brandenburg überall hoch",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/waldbrandgefahr-brandenburg-umweltministerium-warnstufe.html",
-      "date": "Fri, 14 Aug 2026 12:13:17 +0200"
-    },
-    {
-      "title": "Datenleck-Betroffene streiten mit BVG über Schadenersatz",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/bvg-datenleck-streit-schadenersatz.html",
-      "date": "Fri, 14 Aug 2026 06:15:00 +0200"
     }
   ]
 }
