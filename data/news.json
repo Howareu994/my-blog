@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "RE1 zwischen Berlin und Frankfurt (Oder) voraussichtlich bis Sonntag gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/re1-bahnhof-fangschleuse-tesla-regionalverkehr.html",
+      "date": "Sat, 15 Aug 2026 08:01:54 +0200"
+    },
+    {
       "title": "Leichtathletik-EM: Hürdenläufer Agyekum läuft über 400 m zu Silber",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/leichtathletik-em-400-huerden-emil-agyekum-diskus-kristin-pudenz.html",
       "date": "Fri, 14 Aug 2026 22:49:47 +0200"
@@ -9,11 +14,6 @@
       "title": "Fußball-Regionalliga Nordost: BFC verspielt Führung, Spektakel in Babelsberg",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-regionalliga-nordost-zwickau-luckenwalde-hertha-2-bfc-dynamo-babelsberg-rsv-eintracht.html",
       "date": "Fri, 14 Aug 2026 22:29:15 +0200"
-    },
-    {
-      "title": "RE1 zwischen Berlin und Frankfurt (Oder) einen Tag länger gesperrt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/re1-bahnhof-fangschleuse-tesla-regionalverkehr.html",
-      "date": "Fri, 14 Aug 2026 22:14:01 +0200"
     },
     {
       "title": "Neuer Eisbären-Cheftrainer Dubois: \"Ich mag Druck\"",
@@ -128,9 +128,9 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "RE1 zwischen Berlin und Frankfurt (Oder) einen Tag länger gesperrt",
+      "title": "RE1 zwischen Berlin und Frankfurt (Oder) voraussichtlich bis Sonntag gesperrt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/re1-bahnhof-fangschleuse-tesla-regionalverkehr.html",
-      "date": "Fri, 14 Aug 2026 22:14:01 +0200"
+      "date": "Sat, 15 Aug 2026 08:01:54 +0200"
     },
     {
       "title": "An der Tanke in Brandenburg: \"Ich habe 25 Jahre am Stück an Silvester Pfannkuchen gebacken\"",
