@@ -1,9 +1,19 @@
 {
   "traffic": [
     {
+      "title": "Wetter: Samstag heiß, Sonntag kommt die Abkühlung",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-brandenburg-wetter-wochenende-hitze-samstag-abkuehlung-sonntag.html",
+      "date": "Sat, 15 Aug 2026 12:58:41 +0200"
+    },
+    {
+      "title": "Leichtathletik-EM: Geher Leo Köpp disqualifiziert",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/leichtathletik-em-europameisterschaft-leo-koepp-gehen-disqualifiziert.html",
+      "date": "Sat, 15 Aug 2026 12:40:50 +0200"
+    },
+    {
       "title": "Brandenburger Bildungsministerium legt Berufung gegen Haasenburg-Urteil ein",
       "link": "https://www.rbb24.de/politik/beitrag/2026/08/brandenburg-bildungsministerium-gericht-haasenburg-urteil.html",
-      "date": "Sat, 15 Aug 2026 12:08:28 +0200"
+      "date": "Sat, 15 Aug 2026 12:23:42 +0200"
     },
     {
       "title": "Berlin-Pankow: 61-jähriger Rollerfahrer stirbt nach Zusammenstoß mit Auto",
@@ -11,19 +21,9 @@
       "date": "Sat, 15 Aug 2026 11:27:09 +0200"
     },
     {
-      "title": "Wetter: Samstag heiß, Sonntag kommt die Abkühlung",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-brandenburg-wetter-wochenende-hitze-samstag-abkuehlung-sonntag.html",
-      "date": "Sat, 15 Aug 2026 11:24:06 +0200"
-    },
-    {
       "title": "Livestream: Techno-Parade \"Rave the Planet\" im Berliner Tiergarten",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/livestream-rave-the-planet-techno-parade-berlin-tiergarten.html",
       "date": "Sat, 15 Aug 2026 11:18:06 +0200"
-    },
-    {
-      "title": "Leichtathletik-EM: Geher Leo Köpp disqualifiziert",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/leichtathletik-em-europameisterschaft-leo-koepp-gehen-disqualifiziert.html",
-      "date": "Sat, 15 Aug 2026 10:48:49 +0200"
     },
     {
       "title": "Mehr als 50 Verdächtige wegen Schusswaffengewalt in Berlin in Haft",
@@ -62,6 +62,11 @@
     }
   ],
   "police": [
+    {
+      "title": "Mehrere beschädigte Wahlplakate",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703433.php",
+      "date": "Sat, 15 Aug 2026 12:40:00 +0200"
+    },
     {
       "title": "Mann in U-Bahn antisemitisch beleidigt und bedroht",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703430.php",
@@ -116,11 +121,6 @@
       "title": "Spätkauf ausgeraubt – Polizei bittet um Mithilfe",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702822.php",
       "date": "Thu, 13 Aug 2026 14:03:41 +0200"
-    },
-    {
-      "title": "Wahlplakate von Laternen entfernt – Tatverdächtiger festgenommen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702668.php",
-      "date": "Thu, 13 Aug 2026 11:36:25 +0200"
     }
   ],
   "free_events": [],
@@ -128,14 +128,14 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Wetter: Samstag heiß, Sonntag kommt die Abkühlung",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-brandenburg-wetter-wochenende-hitze-samstag-abkuehlung-sonntag.html",
+      "date": "Sat, 15 Aug 2026 12:58:41 +0200"
+    },
+    {
       "title": "Berlin-Pankow: 61-jähriger Rollerfahrer stirbt nach Zusammenstoß mit Auto",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-pankow-unfall-toter.html",
       "date": "Sat, 15 Aug 2026 11:27:09 +0200"
-    },
-    {
-      "title": "Wetter: Samstag heiß, Sonntag kommt die Abkühlung",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-brandenburg-wetter-wochenende-hitze-samstag-abkuehlung-sonntag.html",
-      "date": "Sat, 15 Aug 2026 11:24:06 +0200"
     },
     {
       "title": "Livestream: Techno-Parade \"Rave the Planet\" im Berliner Tiergarten",
