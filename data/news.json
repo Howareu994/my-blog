@@ -1,6 +1,26 @@
 {
   "traffic": [
     {
+      "title": "4:1-Erfolg gegen Heidenheim: Bei Hertha siegt nun der Teamgeist",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/berlin-fussball-hertha-bsc-heidenheim-sieg-analyse-leitl.html",
+      "date": "Sat, 15 Aug 2026 17:30:20 +0200"
+    },
+    {
+      "title": "Regionalliga Nordost: BFC Preussen ringt Greifswald Punkt ab",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-regionalliga-nordost-bfc-preussen-greifswald-spielbericht.html",
+      "date": "Sat, 15 Aug 2026 17:24:00 +0200"
+    },
+    {
+      "title": "Mann gerät in der Müggelspree in Schiffsschraube und wird schwer verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/mann-baden-schiffsschraube-unfall-mueggelsee-koepenick.html",
+      "date": "Sat, 15 Aug 2026 17:20:10 +0200"
+    },
+    {
+      "title": "Generalprobe geglückt: Union-Frauen gewinnen Testspiel bei PSG",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-frauen-union-testspiel-paris-saint-germain.html",
+      "date": "Sat, 15 Aug 2026 17:00:00 +0200"
+    },
+    {
       "title": "Techno-Parade \"Rave the Planet\" durch Tiergarten unter verschärften Sicherheitsvorkehrungen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/rave-the-planet-techno-parade-berlin-tiergarten-motto-imagine-love.html",
       "date": "Sat, 15 Aug 2026 16:48:34 +0200"
@@ -9,11 +29,6 @@
       "title": "Handball: Neuzugang Palicka überragt bei Füchse-Sieg gegen Paris",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/handball-turnier-fuechse-berlin-barcelona-psg-nordhorn-lingen-vorbereitung.html",
       "date": "Sat, 15 Aug 2026 16:43:41 +0200"
-    },
-    {
-      "title": "Mann gerät in der Müggelspree in Schiffsschraube und wird schwer verletzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/mann-baden-schiffsschraube-unfall-mueggelsee-koepenick.html",
-      "date": "Sat, 15 Aug 2026 16:29:01 +0200"
     },
     {
       "title": "Nach furioser erster Hälfte: Hertha bezwingt Heidenheim mit 4:1",
@@ -41,24 +56,9 @@
       "date": "Sat, 15 Aug 2026 13:47:51 +0200"
     },
     {
-      "title": "Wetter: Samstag heiß, Sonntag kommt die Abkühlung",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-brandenburg-wetter-wochenende-hitze-samstag-abkuehlung-sonntag.html",
-      "date": "Sat, 15 Aug 2026 12:58:41 +0200"
-    },
-    {
       "title": "Leichtathletik-EM: Geher Leo Köpp disqualifiziert",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/leichtathletik-em-europameisterschaft-leo-koepp-gehen-disqualifiziert.html",
       "date": "Sat, 15 Aug 2026 12:40:50 +0200"
-    },
-    {
-      "title": "Brandenburger Bildungsministerium legt Berufung gegen Haasenburg-Urteil ein",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/08/brandenburg-bildungsministerium-gericht-haasenburg-urteil.html",
-      "date": "Sat, 15 Aug 2026 12:23:42 +0200"
-    },
-    {
-      "title": "Berlin-Pankow: 61-jähriger Rollerfahrer stirbt nach Zusammenstoß mit Auto",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-pankow-unfall-toter.html",
-      "date": "Sat, 15 Aug 2026 11:27:09 +0200"
     }
   ],
   "police": [
@@ -128,14 +128,14 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Mann gerät in der Müggelspree in Schiffsschraube und wird schwer verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/mann-baden-schiffsschraube-unfall-mueggelsee-koepenick.html",
+      "date": "Sat, 15 Aug 2026 17:20:10 +0200"
+    },
+    {
       "title": "Techno-Parade \"Rave the Planet\" durch Tiergarten unter verschärften Sicherheitsvorkehrungen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/rave-the-planet-techno-parade-berlin-tiergarten-motto-imagine-love.html",
       "date": "Sat, 15 Aug 2026 16:48:34 +0200"
-    },
-    {
-      "title": "Mann gerät in der Müggelspree in Schiffsschraube und wird schwer verletzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/mann-baden-schiffsschraube-unfall-mueggelsee-koepenick.html",
-      "date": "Sat, 15 Aug 2026 16:29:01 +0200"
     },
     {
       "title": "Livestream: Techno-Parade \"Rave the Planet\" im Berliner Tiergarten",
