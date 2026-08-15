@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Mehr als 50 Verdächtige wegen Schusswaffengewalt in Berlin in Haft",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-staatsanwaltschaft-polizei-sondereinheit-ferrum-schuesse-zwischenbilanz.html",
+      "date": "Sat, 15 Aug 2026 08:51:04 +0200"
+    },
+    {
+      "title": "Dora Richter erhält Gedenktafel vor Krankenhaus am Urban",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/dora-richter-krankenhaus-am-urban-berlin-kreuzberg-gedenken-erste-geschlechtsangleichung.html",
+      "date": "Sat, 15 Aug 2026 08:50:37 +0200"
+    },
+    {
       "title": "RE1 zwischen Berlin und Frankfurt (Oder) voraussichtlich bis Sonntag gesperrt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/re1-bahnhof-fangschleuse-tesla-regionalverkehr.html",
       "date": "Sat, 15 Aug 2026 08:01:54 +0200"
@@ -31,11 +41,6 @@
       "date": "Fri, 14 Aug 2026 21:05:51 +0200"
     },
     {
-      "title": "Dora Richter erhält Gedenktafel vor Krankenhaus am Urban",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/dora-richter-krankenhaus-am-urban-berlin-kreuzberg-gedenken-erste-geschlechtsangleichung.html",
-      "date": "Fri, 14 Aug 2026 20:12:00 +0200"
-    },
-    {
       "title": "\"Volksbad\"-Veranstaltung mit Verein Eoto abgesagt",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/08/berlin-volksbuehne-schwimmbecken-eoto-schwarze-menschen-abgesagt.html",
       "date": "Fri, 14 Aug 2026 20:03:24 +0200"
@@ -49,16 +54,6 @@
       "title": "Wasserwege im Unterspreewald wieder freigegeben",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-spreewald-fliesse-wasserwege-freigegeben.html",
       "date": "Fri, 14 Aug 2026 17:55:47 +0200"
-    },
-    {
-      "title": "Mit Kelle und Pinsel auf Zeitreise: Archäologen-Feriencamp in der Prignitz",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/archaeologen-feriencamp-prignitz.html",
-      "date": "Fri, 14 Aug 2026 16:49:26 +0200"
-    },
-    {
-      "title": "Fischerei in Storkow mit 800-jähriger Tradition verkauft",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/08/fischerei-storkow-verkauft-betreiber-gesucht.html",
-      "date": "Fri, 14 Aug 2026 16:38:20 +0200"
     }
   ],
   "police": [
@@ -128,6 +123,16 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Mehr als 50 Verdächtige wegen Schusswaffengewalt in Berlin in Haft",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-staatsanwaltschaft-polizei-sondereinheit-ferrum-schuesse-zwischenbilanz.html",
+      "date": "Sat, 15 Aug 2026 08:51:04 +0200"
+    },
+    {
+      "title": "Dora Richter erhält Gedenktafel vor Krankenhaus am Urban",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/dora-richter-krankenhaus-am-urban-berlin-kreuzberg-gedenken-erste-geschlechtsangleichung.html",
+      "date": "Sat, 15 Aug 2026 08:50:37 +0200"
+    },
+    {
       "title": "RE1 zwischen Berlin und Frankfurt (Oder) voraussichtlich bis Sonntag gesperrt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/re1-bahnhof-fangschleuse-tesla-regionalverkehr.html",
       "date": "Sat, 15 Aug 2026 08:01:54 +0200"
@@ -136,11 +141,6 @@
       "title": "An der Tanke in Brandenburg: \"Ich habe 25 Jahre am Stück an Silvester Pfannkuchen gebacken\"",
       "link": "https://www.rbb24.de/panorama/thema/an-der-tanke/brandenburg-an-der-tanke-barnim-rentnerin-baeckerei.html",
       "date": "Fri, 14 Aug 2026 21:05:51 +0200"
-    },
-    {
-      "title": "Dora Richter erhält Gedenktafel vor Krankenhaus am Urban",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/dora-richter-krankenhaus-am-urban-berlin-kreuzberg-gedenken-erste-geschlechtsangleichung.html",
-      "date": "Fri, 14 Aug 2026 20:12:00 +0200"
     },
     {
       "title": "Wasserwege im Unterspreewald wieder freigegeben",
@@ -181,11 +181,6 @@
       "title": "Datenleck-Betroffene streiten mit BVG über Schadenersatz",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/bvg-datenleck-streit-schadenersatz.html",
       "date": "Fri, 14 Aug 2026 06:15:00 +0200"
-    },
-    {
-      "title": "Entscheidung über marode Grünbrücke bei Thyrow Anfang September",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/gruenbruecke-thyrow-b101-entscheidung-anfang-september.html",
-      "date": "Thu, 13 Aug 2026 20:43:32 +0200"
     }
   ]
 }
