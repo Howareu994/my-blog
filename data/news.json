@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Abgeordnetenhauswahl: Wie Wohnungslose in Berlin wählen können",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahl-wohnungslose-menschen-2026.html",
+      "date": "Sun, 16 Aug 2026 12:19:32 +0200"
+    },
+    {
       "title": "Berliner Wirtschaft macht Wahlkampf gegen Enteignung",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/wirtschaft-berlin-wahlkampf-enteignung-agh-wahl.html",
       "date": "Sun, 16 Aug 2026 10:26:57 +0200"
@@ -54,14 +59,14 @@
       "title": "4:1-Erfolg gegen Heidenheim: Bei Hertha siegt nun der Teamgeist",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/berlin-fussball-hertha-bsc-heidenheim-sieg-analyse-leitl.html",
       "date": "Sat, 15 Aug 2026 17:30:20 +0200"
-    },
-    {
-      "title": "Regionalliga Nordost: BFC Preussen ringt Greifswald Punkt ab",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-regionalliga-nordost-bfc-preussen-greifswald-spielbericht.html",
-      "date": "Sat, 15 Aug 2026 17:24:00 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Rassistische Beleidigung",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703512.php",
+      "date": "Sun, 16 Aug 2026 12:37:20 +0200"
+    },
     {
       "title": "Autofahrer und Begleiter greifen Pedelecfahrer an",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703510.php",
@@ -116,11 +121,6 @@
       "title": "Schüsse treffen Lokalscheibe",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703303.php",
       "date": "Fri, 14 Aug 2026 14:18:35 +0200"
-    },
-    {
-      "title": "Auseinandersetzung beim Anbringen von Wahlplakaten",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703287.php",
-      "date": "Fri, 14 Aug 2026 13:46:34 +0200"
     }
   ],
   "free_events": [],
