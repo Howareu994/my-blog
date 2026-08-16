@@ -3,7 +3,7 @@
     {
       "title": "Leichtathletik-EM: Mixed-Staffel um Lückenkemper gewinnt Silber",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/leichtathletik-em-birmingham-staffel-mixed-100-400-lueckenkemper-bredau.html",
-      "date": "Sun, 16 Aug 2026 22:40:00 +0200"
+      "date": "Sun, 16 Aug 2026 23:10:00 +0200"
     },
     {
       "title": "Schwimm-EM: Isabel Gose sichert sich nächstes Silber",
@@ -61,7 +61,68 @@
       "date": "Sun, 16 Aug 2026 10:02:00 +0200"
     }
   ],
-  "police": [],
+  "police": [
+    {
+      "title": "Mehrfach gegen den Kopf getreten",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703515.php",
+      "date": "Sun, 16 Aug 2026 13:19:01 +0200"
+    },
+    {
+      "title": "Streitigkeiten mit Messer und Flaschenhieb ausgetragen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703514.php",
+      "date": "Sun, 16 Aug 2026 13:15:46 +0200"
+    },
+    {
+      "title": "Rassistische Beleidigung",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703512.php",
+      "date": "Sun, 16 Aug 2026 12:37:20 +0200"
+    },
+    {
+      "title": "Autofahrer und Begleiter greifen Pedelecfahrer an",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703510.php",
+      "date": "Sun, 16 Aug 2026 11:57:12 +0200"
+    },
+    {
+      "title": "Sachbeschädigungen und eine Beleidigung im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703508.php",
+      "date": "Sun, 16 Aug 2026 11:45:23 +0200"
+    },
+    {
+      "title": "Mitarbeiter eines Spätkaufs mit Schusswaffe bedroht und Geld geraubt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703441.php",
+      "date": "Sat, 15 Aug 2026 14:50:19 +0200"
+    },
+    {
+      "title": "Mann angefahren und anschließend geflüchtet",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703440.php",
+      "date": "Sat, 15 Aug 2026 14:29:18 +0200"
+    },
+    {
+      "title": "Mehrere Einbrüche in einem Einkaufszentrum",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703438.php",
+      "date": "Sat, 15 Aug 2026 13:56:51 +0200"
+    },
+    {
+      "title": "Mann auf dem Müggelsee durch Schiffsschraube schwer verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703436.php",
+      "date": "Sat, 15 Aug 2026 13:21:59 +0200"
+    },
+    {
+      "title": "Mehrere beschädigte Wahlplakate",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703433.php",
+      "date": "Sat, 15 Aug 2026 12:40:00 +0200"
+    },
+    {
+      "title": "Mann in U-Bahn antisemitisch beleidigt und bedroht",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703430.php",
+      "date": "Sat, 15 Aug 2026 11:32:54 +0200"
+    },
+    {
+      "title": "Zwei Männer durch Messerstiche verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703426.php",
+      "date": "Sat, 15 Aug 2026 10:57:40 +0200"
+    }
+  ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
