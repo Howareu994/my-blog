@@ -63,6 +63,16 @@
   ],
   "police": [
     {
+      "title": "Autofahrer und Begleiter greifen Pedelecfahrer an",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703510.php",
+      "date": "Sun, 16 Aug 2026 11:57:12 +0200"
+    },
+    {
+      "title": "Sachbeschädigungen und eine Beleidigung im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703508.php",
+      "date": "Sun, 16 Aug 2026 11:45:23 +0200"
+    },
+    {
       "title": "Mitarbeiter eines Spätkaufs mit Schusswaffe bedroht und Geld geraubt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703441.php",
       "date": "Sat, 15 Aug 2026 14:50:19 +0200"
@@ -111,16 +121,6 @@
       "title": "Auseinandersetzung beim Anbringen von Wahlplakaten",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703287.php",
       "date": "Fri, 14 Aug 2026 13:46:34 +0200"
-    },
-    {
-      "title": "Brandstiftung in einer Bar",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703241.php",
-      "date": "Fri, 14 Aug 2026 12:31:58 +0200"
-    },
-    {
-      "title": "Frau beschädigt Wahlplakate und greift Polizist an",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703231.php",
-      "date": "Fri, 14 Aug 2026 12:21:28 +0200"
     }
   ],
   "free_events": [],
