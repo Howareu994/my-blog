@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Schwimm-EM: Isabel Gose sichert sich nächstes Silber",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/schwimmen-europameisterschaft-em-freistil-400-meter-isabel-gose-silber.html",
+      "date": "Sun, 16 Aug 2026 19:22:00 +0200"
+    },
+    {
+      "title": "Fragolino Rosso gewinnt 131. Deutsches Traber-Derby",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/pferdesport-deutsches-traberderby-mariendorf-jahrhundertduell-fragolino-rosso-sieg.html",
+      "date": "Sun, 16 Aug 2026 19:11:00 +0200"
+    },
+    {
       "title": "Am Späti in Berlin-Marienfelde: \"Freizeit kann mir keiner bezahlen\"",
       "link": "https://www.rbb24.de/panorama/thema/spaeti/berlin-marienfelde-am-spaeti-muellwagenfahrer-harley-davidson-eisbaeren.html",
       "date": "Sun, 16 Aug 2026 17:49:39 +0200"
@@ -36,9 +46,9 @@
       "date": "Sun, 16 Aug 2026 10:10:05 +0200"
     },
     {
-      "title": "Brand im Humboldtforum gelöscht",
+      "title": "Brand im Humboldt Forum gelöscht",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-feuer-humboldtforum-feuerwehr-geloescht.html",
-      "date": "Sun, 16 Aug 2026 10:02:53 +0200"
+      "date": "Sun, 16 Aug 2026 10:02:00 +0200"
     },
     {
       "title": "Antilopen Gang in Berlin: Siegesfeier vor der Bandpause",
@@ -49,16 +59,6 @@
       "title": "EM-Gold: Speerwerfer Weber triumphiert mit spätem Sensationswurf",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/leichtathletik-em-europameisterschaft-speerwurf-julian-weber.html",
       "date": "Sun, 16 Aug 2026 07:24:00 +0200"
-    },
-    {
-      "title": "Marzahn: Einbrecher stehlen im Eastgate Kassen von 14 Geschäften",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/maskierte-raeuber-einbruch-einkaufszentrum-berlin-marzahn-eastga.html",
-      "date": "Sat, 15 Aug 2026 19:36:49 +0200"
-    },
-    {
-      "title": "Schwimm-EM: Potsdamer Melvin Imoudu ohne Medaille über 50 m Brust",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/schwimmen-europameisterschaft-melvin-imoudu.html",
-      "date": "Sat, 15 Aug 2026 19:29:00 +0200"
     }
   ],
   "police": [
@@ -143,9 +143,9 @@
       "date": "Sun, 16 Aug 2026 10:10:05 +0200"
     },
     {
-      "title": "Brand im Humboldtforum gelöscht",
+      "title": "Brand im Humboldt Forum gelöscht",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-feuer-humboldtforum-feuerwehr-geloescht.html",
-      "date": "Sun, 16 Aug 2026 10:02:53 +0200"
+      "date": "Sun, 16 Aug 2026 10:02:00 +0200"
     },
     {
       "title": "Marzahn: Einbrecher stehlen im Eastgate Kassen von 14 Geschäften",
