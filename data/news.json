@@ -1,9 +1,24 @@
 {
   "traffic": [
     {
+      "title": "Bahnhof Fangschleuse bei Tesla-Werk in Grünheide eröffnet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/re1-bahnhof-fangschleuse-tesla-regionalverkehr.html",
+      "date": "Sun, 16 Aug 2026 10:10:05 +0200"
+    },
+    {
+      "title": "Brand im Humboldtforum gelöscht",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-feuer-humboldtforum-feuerwehr-geloescht.html",
+      "date": "Sun, 16 Aug 2026 10:02:53 +0200"
+    },
+    {
       "title": "Antilopen Gang in Berlin: Siegesfeier vor der Bandpause",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/08/antilipen-gang-konzert-berlin-zitadelle-rap.html",
       "date": "Sun, 16 Aug 2026 08:25:13 +0200"
+    },
+    {
+      "title": "EM-Gold: Speerwerfer Weber triumphiert mit spätem Sensationswurf",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/leichtathletik-em-europameisterschaft-speerwurf-julian-weber.html",
+      "date": "Sun, 16 Aug 2026 07:24:00 +0200"
     },
     {
       "title": "Techno-Parade \"Rave the Planet\" zieht durch Tiergarten",
@@ -11,29 +26,24 @@
       "date": "Sun, 16 Aug 2026 07:13:23 +0200"
     },
     {
-      "title": "Bahnhof Fangschleuse bei Tesla-Werk in Grünheide eröffnet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/re1-bahnhof-fangschleuse-tesla-regionalverkehr.html",
-      "date": "Sat, 15 Aug 2026 21:22:29 +0200"
-    },
-    {
       "title": "Marzahn: Einbrecher stehlen im Eastgate Kassen von 14 Geschäften",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/maskierte-raeuber-einbruch-einkaufszentrum-berlin-marzahn-eastga.html",
       "date": "Sat, 15 Aug 2026 19:36:49 +0200"
     },
     {
-      "title": "Schwimm-EM: Potsdamer Melvin Imoudu erfolglos über 50 m Brust",
+      "title": "Schwimm-EM: Potsdamer Melvin Imoudu ohne Medaille über 50 m Brust",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/schwimmen-europameisterschaft-melvin-imoudu.html",
-      "date": "Sat, 15 Aug 2026 19:29:43 +0200"
-    },
-    {
-      "title": "Hertha-Frauen gelingt souveräner Playoff-Sieg im DFB-Pokal",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-frauen-hertha-viktoria-turbine-dfb-pokal-qualifikation.html",
-      "date": "Sat, 15 Aug 2026 18:54:18 +0200"
+      "date": "Sat, 15 Aug 2026 19:29:00 +0200"
     },
     {
       "title": "Niederlage bei Saisoneröffnung: Union Berlin unterliegt Ipswich Town",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-union-saisoneroeffnung-testspiel-ipswich.html",
       "date": "Sat, 15 Aug 2026 18:43:02 +0200"
+    },
+    {
+      "title": "Hertha-Frauen gelingt souveräner Playoff-Sieg im DFB-Pokal",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-frauen-hertha-viktoria-turbine-dfb-pokal-qualifikation.html",
+      "date": "Sat, 15 Aug 2026 18:24:00 +0200"
     },
     {
       "title": "4:1-Erfolg gegen Heidenheim: Bei Hertha siegt nun der Teamgeist",
@@ -49,16 +59,6 @@
       "title": "Mann gerät in der Müggelspree in Schiffsschraube und wird schwer verletzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/mann-baden-schiffsschraube-unfall-mueggelsee-koepenick.html",
       "date": "Sat, 15 Aug 2026 17:20:10 +0200"
-    },
-    {
-      "title": "Generalprobe geglückt: Union-Frauen gewinnen Testspiel bei PSG",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-frauen-union-testspiel-paris-saint-germain.html",
-      "date": "Sat, 15 Aug 2026 17:00:00 +0200"
-    },
-    {
-      "title": "Handball: Neuzugang Palicka überragt bei Füchse-Sieg gegen Paris",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/handball-turnier-fuechse-berlin-barcelona-psg-nordhorn-lingen-vorbereitung.html",
-      "date": "Sat, 15 Aug 2026 16:43:41 +0200"
     }
   ],
   "police": [
@@ -128,14 +128,19 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Bahnhof Fangschleuse bei Tesla-Werk in Grünheide eröffnet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/re1-bahnhof-fangschleuse-tesla-regionalverkehr.html",
+      "date": "Sun, 16 Aug 2026 10:10:05 +0200"
+    },
+    {
+      "title": "Brand im Humboldtforum gelöscht",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-feuer-humboldtforum-feuerwehr-geloescht.html",
+      "date": "Sun, 16 Aug 2026 10:02:53 +0200"
+    },
+    {
       "title": "Techno-Parade \"Rave the Planet\" zieht durch Tiergarten",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/rave-the-planet-techno-parade-berlin-tiergarten-motto-imagine-love.html",
       "date": "Sun, 16 Aug 2026 07:13:23 +0200"
-    },
-    {
-      "title": "Bahnhof Fangschleuse bei Tesla-Werk in Grünheide eröffnet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/re1-bahnhof-fangschleuse-tesla-regionalverkehr.html",
-      "date": "Sat, 15 Aug 2026 21:22:29 +0200"
     },
     {
       "title": "Marzahn: Einbrecher stehlen im Eastgate Kassen von 14 Geschäften",
@@ -181,11 +186,6 @@
       "title": "An der Tanke in Brandenburg: \"Ich habe 25 Jahre am Stück an Silvester Pfannkuchen gebacken\"",
       "link": "https://www.rbb24.de/panorama/thema/an-der-tanke/brandenburg-an-der-tanke-barnim-rentnerin-baeckerei.html",
       "date": "Fri, 14 Aug 2026 21:05:51 +0200"
-    },
-    {
-      "title": "Wasserwege im Unterspreewald wieder freigegeben",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-spreewald-fliesse-wasserwege-freigegeben.html",
-      "date": "Fri, 14 Aug 2026 17:55:47 +0200"
     }
   ]
 }
