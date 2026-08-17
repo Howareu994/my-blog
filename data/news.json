@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Bernau starte Modellversuch der Mitfahrbänke",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/mobilitaet-mitfahrbank-bernau-barnim-test.html",
+      "date": "Mon, 17 Aug 2026 13:58:25 +0200"
+    },
+    {
       "title": "\"Zombie-Drogen\": Immer mehr NPS in Berliner Gefängnissen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/zombie-drogen-gefaengnisse-berlin-jva-neue-psychoaktive-stoffe.html",
       "date": "Mon, 17 Aug 2026 13:01:00 +0200"
@@ -54,14 +59,14 @@
       "title": "Leichtathletik-EM: Mixed-Staffel um Lückenkemper gewinnt Silber",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/leichtathletik-em-birmingham-staffel-mixed-100-400-lueckenkemper-bredau.html",
       "date": "Sun, 16 Aug 2026 23:10:00 +0200"
-    },
-    {
-      "title": "Schwimm-EM: Isabel Gose sichert sich nächstes Silber",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/schwimmen-europameisterschaft-em-freistil-400-meter-isabel-gose-silber.html",
-      "date": "Sun, 16 Aug 2026 19:22:00 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Erheblich verletzter Radfahrer",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703817.php",
+      "date": "Mon, 17 Aug 2026 13:38:34 +0200"
+    },
     {
       "title": "Sachbeschädigung durch Schussabgabe",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703702.php",
@@ -116,17 +121,17 @@
       "title": "Mehrere beschädigte Wahlplakate",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703433.php",
       "date": "Sat, 15 Aug 2026 12:40:00 +0200"
-    },
-    {
-      "title": "Mann in U-Bahn antisemitisch beleidigt und bedroht",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703430.php",
-      "date": "Sat, 15 Aug 2026 11:32:54 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Bernau starte Modellversuch der Mitfahrbänke",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/mobilitaet-mitfahrbank-bernau-barnim-test.html",
+      "date": "Mon, 17 Aug 2026 13:58:25 +0200"
+    },
     {
       "title": "\"Zombie-Drogen\": Immer mehr NPS in Berliner Gefängnissen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/zombie-drogen-gefaengnisse-berlin-jva-neue-psychoaktive-stoffe.html",
@@ -181,11 +186,6 @@
       "title": "Livestream: Techno-Parade \"Rave the Planet\" im Berliner Tiergarten",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/livestream-rave-the-planet-techno-parade-berlin-tiergarten.html",
       "date": "Sat, 15 Aug 2026 14:00:00 +0200"
-    },
-    {
-      "title": "Berlin: Antisemitische Beleidigung in U-Bahn",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-antisemitische-beleidigung-ubahn-wilmersdorf-polizei.html",
-      "date": "Sat, 15 Aug 2026 13:51:25 +0200"
     }
   ]
 }
