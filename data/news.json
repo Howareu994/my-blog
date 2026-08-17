@@ -1,9 +1,19 @@
 {
   "traffic": [
     {
-      "title": "Offenbar Hackerangriff auf Berliner Landesnetz verübt",
+      "title": "Hackerangriff auf Berliner Landesnetz verübt - sensible Daten abgeflossen",
       "link": "https://www.rbb24.de/politik/beitrag/2026/08/berlin-landesnetz-sicherheitsvorfall-it-senatsverwaltung.html",
-      "date": "Mon, 17 Aug 2026 20:12:05 +0200"
+      "date": "Mon, 17 Aug 2026 21:17:45 +0200"
+    },
+    {
+      "title": "Aus Berlin nach Belgien: Marten Winkler verlässt Hertha BSC",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-zweite-bundesliga-hertha-bsc-transfer-marten-winkler-rsc-anderlecht-abgang.html",
+      "date": "Mon, 17 Aug 2026 21:11:29 +0200"
+    },
+    {
+      "title": "Berlin-Wahl 2026: Wenn das Wahlamt zu wohnungslosen Menschen kommt",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahl-pilotprojekt-pankow-unterstuetzt-waehlen-wohnungslose.html",
+      "date": "Mon, 17 Aug 2026 21:07:58 +0200"
     },
     {
       "title": "Basketball-WM der Frauen in Berlin - Fragen und Antworten",
@@ -49,16 +59,6 @@
       "title": "Kunst statt Schmierereien: Falkensee kooperiert mit Sprayern",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/graffiti-falkensee-havelland-stromkasten-verteiler-legal-jugend-sprayer.html",
       "date": "Mon, 17 Aug 2026 14:58:59 +0200"
-    },
-    {
-      "title": "Bernau testet Mitfahrbänke",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/mobilitaet-mitfahrbank-bernau-barnim-test.html",
-      "date": "Mon, 17 Aug 2026 14:58:11 +0200"
-    },
-    {
-      "title": "\"Zombie-Drogen\": Immer mehr NPS in Berliner Gefängnissen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/zombie-drogen-gefaengnisse-berlin-jva-neue-psychoaktive-stoffe.html",
-      "date": "Mon, 17 Aug 2026 13:01:00 +0200"
     }
   ],
   "police": [
