@@ -1,9 +1,19 @@
 {
   "traffic": [
     {
-      "title": "Bernau starte Modellversuch der Mitfahrbänke",
+      "title": "Flughafen BER: Passagierzahlen im ersten Halbjahr leicht gesunken",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/08/berlin-brandenburg-flughafen-ber-passagiere-leicht-gesunken.html",
+      "date": "Mon, 17 Aug 2026 15:20:16 +0200"
+    },
+    {
+      "title": "Kunst statt Schmierereien: Falkensee kooperiert mit Sprayern",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/graffiti-falkensee-havelland-stromkasten-verteiler-legal-jugend-sprayer.html",
+      "date": "Mon, 17 Aug 2026 14:58:59 +0200"
+    },
+    {
+      "title": "Bernau testet Mitfahrbänke",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/mobilitaet-mitfahrbank-bernau-barnim-test.html",
-      "date": "Mon, 17 Aug 2026 13:58:25 +0200"
+      "date": "Mon, 17 Aug 2026 14:58:11 +0200"
     },
     {
       "title": "\"Zombie-Drogen\": Immer mehr NPS in Berliner Gefängnissen",
@@ -49,19 +59,14 @@
       "title": "Leichtathletik-EM: Sechs Highlights aus Birmingham",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/leichtathletik-europameisterschaft-birmingham-em-highlights-weber-lueckenkemper.html",
       "date": "Mon, 17 Aug 2026 06:21:00 +0200"
-    },
-    {
-      "title": "Der stille Turn-Champion: Das ist Radomyr Stelmakh",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/turn-em-zagreb-sc-cottbus-radomyr-stelmakh-ukraine-flucht.html",
-      "date": "Mon, 17 Aug 2026 06:20:00 +0200"
-    },
-    {
-      "title": "Leichtathletik-EM: Mixed-Staffel um Lückenkemper gewinnt Silber",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/leichtathletik-em-birmingham-staffel-mixed-100-400-lueckenkemper-bredau.html",
-      "date": "Sun, 16 Aug 2026 23:10:00 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Sachbeschädigungen an und Diebstahl von Wahlplakaten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703842.php",
+      "date": "Mon, 17 Aug 2026 14:24:54 +0200"
+    },
     {
       "title": "Erheblich verletzter Radfahrer",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703817.php",
@@ -116,11 +121,6 @@
       "title": "Mann auf dem Müggelsee durch Schiffsschraube schwer verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703436.php",
       "date": "Sat, 15 Aug 2026 13:21:59 +0200"
-    },
-    {
-      "title": "Mehrere beschädigte Wahlplakate",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703433.php",
-      "date": "Sat, 15 Aug 2026 12:40:00 +0200"
     }
   ],
   "free_events": [],
@@ -128,9 +128,14 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Bernau starte Modellversuch der Mitfahrbänke",
+      "title": "Kunst statt Schmierereien: Falkensee kooperiert mit Sprayern",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/graffiti-falkensee-havelland-stromkasten-verteiler-legal-jugend-sprayer.html",
+      "date": "Mon, 17 Aug 2026 14:58:59 +0200"
+    },
+    {
+      "title": "Bernau testet Mitfahrbänke",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/mobilitaet-mitfahrbank-bernau-barnim-test.html",
-      "date": "Mon, 17 Aug 2026 13:58:25 +0200"
+      "date": "Mon, 17 Aug 2026 14:58:11 +0200"
     },
     {
       "title": "\"Zombie-Drogen\": Immer mehr NPS in Berliner Gefängnissen",
@@ -181,11 +186,6 @@
       "title": "Mann gerät in der Müggelspree in Schiffsschraube und wird schwer verletzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/mann-baden-schiffsschraube-unfall-mueggelsee-koepenick.html",
       "date": "Sat, 15 Aug 2026 17:20:10 +0200"
-    },
-    {
-      "title": "Livestream: Techno-Parade \"Rave the Planet\" im Berliner Tiergarten",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/livestream-rave-the-planet-techno-parade-berlin-tiergarten.html",
-      "date": "Sat, 15 Aug 2026 14:00:00 +0200"
     }
   ]
 }
