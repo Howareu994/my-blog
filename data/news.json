@@ -1,9 +1,29 @@
 {
   "traffic": [
     {
+      "title": "Basketball-WM der Frauen in Berlin - Fragen und Antworten",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/basketball-frauen-weltmeisterschaft-berlin-deutschland.html",
+      "date": "Mon, 17 Aug 2026 17:50:14 +0200"
+    },
+    {
+      "title": "Mann auf Baustelle von Container erschlagen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-bernau-baustelle-mann-container-erschlagen.html",
+      "date": "Mon, 17 Aug 2026 17:48:13 +0200"
+    },
+    {
+      "title": "Offenbar Hackerangriff auf Berliner Landesnetz verübt",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/08/berlin-landesnetz-sicherheitsvorfall-it-senatsverwaltung.html",
+      "date": "Mon, 17 Aug 2026 17:41:13 +0200"
+    },
+    {
       "title": "19-jährige Frau in Hohen Neuendorf mutmaßlich von Partner getötet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/toetungsdelikt-hohen-neuendorf-oberhavel-bergfelde-mordkommission.html",
       "date": "Mon, 17 Aug 2026 16:44:49 +0200"
+    },
+    {
+      "title": "Zeitzeugen berichten über Frauen-KZ Ravensbrück",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/fuerstenberg-havel-konzentrationslager-frauen-zeitzeugen-loretta-walz-erinnerungskultur.html",
+      "date": "Mon, 17 Aug 2026 16:31:24 +0200"
     },
     {
       "title": "Leißnitz kämpf gemeinsam für Erhalt des Gasthofes",
@@ -39,26 +59,6 @@
       "title": "Abgeordnetenhauswahl: Wie Wohnungslose in Berlin wählen können",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahl-wohnungslose-menschen-2026.html",
       "date": "Mon, 17 Aug 2026 12:17:37 +0200"
-    },
-    {
-      "title": "Die Problem-Fähre von Aurith fährt immer seltener über die Oder",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/faehre-aurith-oder-spree-tourismus-polen-niedrigwasser-probleme.html",
-      "date": "Mon, 17 Aug 2026 12:05:34 +0200"
-    },
-    {
-      "title": "Polen senkt Spritpreise vorübergehend zum Ferienende",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/08/polen-erneut-steuersenkung-benzin-diesel-billiger-tanken.html",
-      "date": "Mon, 17 Aug 2026 11:28:35 +0200"
-    },
-    {
-      "title": "Falsch geparkt: In Berlin-Mitte wird am meisten abgeschleppt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-falschparker-bezirke-ordnungsamt-polizei-autos-abschleppen.html",
-      "date": "Mon, 17 Aug 2026 10:20:40 +0200"
-    },
-    {
-      "title": "Trinkwasser in Deetz und Schmergow kann wieder uneingeschränkt genutzt werden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/mangan-trinkwasser-deetz-schmergow-havelland-entwarnung.html",
-      "date": "Mon, 17 Aug 2026 10:19:55 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Mann auf Baustelle von Container erschlagen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-bernau-baustelle-mann-container-erschlagen.html",
+      "date": "Mon, 17 Aug 2026 17:48:13 +0200"
+    },
+    {
       "title": "19-jährige Frau in Hohen Neuendorf mutmaßlich von Partner getötet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/toetungsdelikt-hohen-neuendorf-oberhavel-bergfelde-mordkommission.html",
       "date": "Mon, 17 Aug 2026 16:44:49 +0200"
@@ -181,11 +186,6 @@
       "title": "Techno-Parade \"Rave the Planet\" zieht durch Tiergarten",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/rave-the-planet-techno-parade-berlin-tiergarten-motto-imagine-love.html",
       "date": "Sun, 16 Aug 2026 10:26:04 +0200"
-    },
-    {
-      "title": "Bahnhof Fangschleuse bei Tesla-Werk in Grünheide eröffnet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/re1-bahnhof-fangschleuse-tesla-regionalverkehr.html",
-      "date": "Sun, 16 Aug 2026 10:10:05 +0200"
     }
   ]
 }
