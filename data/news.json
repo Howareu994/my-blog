@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Trinkwasser in Deetz und Schmergow kann wieder uneingeschränkt genutzt werden",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/mangan-trinkwasser-deetz-schmergow-havelland-entwarnung.html",
+      "date": "Mon, 17 Aug 2026 10:19:55 +0200"
+    },
+    {
       "title": "Wahlkampf mit leeren Taschen",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/wahlversprechen-agh-wahlen-leere-taschen-olympia-expo-magnetschwebebahn-berlin-parteien-versprechen.html",
       "date": "Mon, 17 Aug 2026 08:51:39 +0200"
@@ -49,11 +54,6 @@
       "title": "Regionalliga Nordost: Altglienicke feiert dritten Sieg in Folge",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-regionalliga-nordost-altglienicke-halle-tasmania-berlin-lok-leipzig-spielbericht.html",
       "date": "Sun, 16 Aug 2026 16:39:44 +0200"
-    },
-    {
-      "title": "Abgeordnetenhauswahl: Wie Wohnungslose in Berlin wählen können",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahl-wohnungslose-menschen-2026.html",
-      "date": "Sun, 16 Aug 2026 12:19:32 +0200"
     }
   ],
   "police": [
@@ -123,6 +123,16 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Falsch geparkt: In Berlin-Mitte wird am meisten abgeschleppt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-falschparker-bezirke-ordnungsamt-polizei-autos-abschleppen.html",
+      "date": "Mon, 17 Aug 2026 10:20:40 +0200"
+    },
+    {
+      "title": "Trinkwasser in Deetz und Schmergow kann wieder uneingeschränkt genutzt werden",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/mangan-trinkwasser-deetz-schmergow-havelland-entwarnung.html",
+      "date": "Mon, 17 Aug 2026 10:19:55 +0200"
+    },
+    {
       "title": "Am Späti in Berlin-Marienfelde: \"Freizeit kann mir keiner bezahlen\"",
       "link": "https://www.rbb24.de/panorama/thema/spaeti/berlin-marienfelde-am-spaeti-muellwagenfahrer-harley-davidson-eisbaeren.html",
       "date": "Sun, 16 Aug 2026 17:49:39 +0200"
@@ -171,16 +181,6 @@
       "title": "Berlin-Pankow: 61-jähriger Rollerfahrer stirbt nach Zusammenstoß mit Auto",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-pankow-unfall-toter.html",
       "date": "Sat, 15 Aug 2026 11:27:09 +0200"
-    },
-    {
-      "title": "Mehr als 50 Verdächtige wegen Schusswaffengewalt in Berlin in Haft",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-staatsanwaltschaft-polizei-sondereinheit-ferrum-schuesse-zwischenbilanz.html",
-      "date": "Sat, 15 Aug 2026 08:51:04 +0200"
-    },
-    {
-      "title": "Dora Richter erhält Gedenktafel vor Krankenhaus am Urban",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/dora-richter-krankenhaus-am-urban-berlin-kreuzberg-gedenken-erste-geschlechtsangleichung.html",
-      "date": "Sat, 15 Aug 2026 08:50:37 +0200"
     }
   ]
 }
