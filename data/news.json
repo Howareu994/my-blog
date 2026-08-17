@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "19-jährige Frau in Hohen Neuendorf mutmaßlich von Partner getötet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/toetungsdelikt-hohen-neuendorf-oberhavel-bergfelde-mordkommission.html",
+      "date": "Mon, 17 Aug 2026 16:44:49 +0200"
+    },
+    {
       "title": "Leißnitz kämpf gemeinsam für Erhalt des Gasthofes",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/leissnitz-oder-spree-dorfgemeinschaft-gasthof-zusammenhalt.html",
       "date": "Mon, 17 Aug 2026 15:50:44 +0200"
@@ -54,11 +59,6 @@
       "title": "Trinkwasser in Deetz und Schmergow kann wieder uneingeschränkt genutzt werden",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/mangan-trinkwasser-deetz-schmergow-havelland-entwarnung.html",
       "date": "Mon, 17 Aug 2026 10:19:55 +0200"
-    },
-    {
-      "title": "Wahlkampf mit leeren Taschen: Wo wollen Sie das Geld hernehmen?",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/wahlversprechen-agh-wahlen-leere-taschen-olympia-expo-magnetschwebebahn-berlin-parteien-versprechen.html",
-      "date": "Mon, 17 Aug 2026 08:51:00 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,16 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "19-jährige Frau in Hohen Neuendorf mutmaßlich von Partner getötet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/toetungsdelikt-hohen-neuendorf-oberhavel-bergfelde-mordkommission.html",
+      "date": "Mon, 17 Aug 2026 16:44:49 +0200"
+    },
+    {
+      "title": "Zeitzeugen berichten über Frauen-KZ Ravensbrück",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/fuerstenberg-havel-konzentrationslager-frauen-zeitzeugen-loretta-walz-erinnerungskultur.html",
+      "date": "Mon, 17 Aug 2026 16:31:24 +0200"
+    },
+    {
       "title": "Leißnitz kämpf gemeinsam für Erhalt des Gasthofes",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/leissnitz-oder-spree-dorfgemeinschaft-gasthof-zusammenhalt.html",
       "date": "Mon, 17 Aug 2026 15:50:44 +0200"
@@ -176,16 +186,6 @@
       "title": "Bahnhof Fangschleuse bei Tesla-Werk in Grünheide eröffnet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/re1-bahnhof-fangschleuse-tesla-regionalverkehr.html",
       "date": "Sun, 16 Aug 2026 10:10:05 +0200"
-    },
-    {
-      "title": "Brand im Humboldt Forum gelöscht",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-feuer-humboldtforum-feuerwehr-geloescht.html",
-      "date": "Sun, 16 Aug 2026 10:02:00 +0200"
-    },
-    {
-      "title": "Marzahn: Einbrecher stehlen im Eastgate Kassen von 14 Geschäften",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/maskierte-raeuber-einbruch-einkaufszentrum-berlin-marzahn-eastga.html",
-      "date": "Sat, 15 Aug 2026 19:36:49 +0200"
     }
   ]
 }
