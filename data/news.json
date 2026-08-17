@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Leißnitz kämpf gemeinsam für Erhalt des Gasthofes",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/leissnitz-oder-spree-dorfgemeinschaft-gasthof-zusammenhalt.html",
+      "date": "Mon, 17 Aug 2026 15:50:44 +0200"
+    },
+    {
+      "title": "DFB-Pokal der Frauen: Hertha empfängt Köln - Union in Magdeburg",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-dfb-pokal-frauen-auslosung-erste-runde-union-berlin-hertha-bsc-fc-viktoria-turbine-potsdam.html",
+      "date": "Mon, 17 Aug 2026 15:46:24 +0200"
+    },
+    {
       "title": "Flughafen BER: Passagierzahlen im ersten Halbjahr leicht gesunken",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/08/berlin-brandenburg-flughafen-ber-passagiere-leicht-gesunken.html",
       "date": "Mon, 17 Aug 2026 15:20:16 +0200"
@@ -49,16 +59,6 @@
       "title": "Wahlkampf mit leeren Taschen: Wo wollen Sie das Geld hernehmen?",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/wahlversprechen-agh-wahlen-leere-taschen-olympia-expo-magnetschwebebahn-berlin-parteien-versprechen.html",
       "date": "Mon, 17 Aug 2026 08:51:00 +0200"
-    },
-    {
-      "title": "Steuerrückstände in Berlin liegen bei fast 870 Millionen Euro",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/steuerrueckstaende-steuern-berlin-finanzaemter.html",
-      "date": "Mon, 17 Aug 2026 07:56:42 +0200"
-    },
-    {
-      "title": "Leichtathletik-EM: Sechs Highlights aus Birmingham",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/leichtathletik-europameisterschaft-birmingham-em-highlights-weber-lueckenkemper.html",
-      "date": "Mon, 17 Aug 2026 06:21:00 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Leißnitz kämpf gemeinsam für Erhalt des Gasthofes",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/leissnitz-oder-spree-dorfgemeinschaft-gasthof-zusammenhalt.html",
+      "date": "Mon, 17 Aug 2026 15:50:44 +0200"
+    },
+    {
       "title": "Kunst statt Schmierereien: Falkensee kooperiert mit Sprayern",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/graffiti-falkensee-havelland-stromkasten-verteiler-legal-jugend-sprayer.html",
       "date": "Mon, 17 Aug 2026 14:58:59 +0200"
@@ -181,11 +186,6 @@
       "title": "Marzahn: Einbrecher stehlen im Eastgate Kassen von 14 Geschäften",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/maskierte-raeuber-einbruch-einkaufszentrum-berlin-marzahn-eastga.html",
       "date": "Sat, 15 Aug 2026 19:36:49 +0200"
-    },
-    {
-      "title": "Mann gerät in der Müggelspree in Schiffsschraube und wird schwer verletzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/mann-baden-schiffsschraube-unfall-mueggelsee-koepenick.html",
-      "date": "Sat, 15 Aug 2026 17:20:10 +0200"
     }
   ]
 }
