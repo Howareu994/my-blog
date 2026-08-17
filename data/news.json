@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Abgeordnetenhauswahl: Wie Wohnungslose in Berlin wählen können",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahl-wohnungslose-menschen-2026.html",
+      "date": "Mon, 17 Aug 2026 12:17:37 +0200"
+    },
+    {
+      "title": "Die Problem-Fähre von Aurith fährt immer seltener über die Oder",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/faehre-aurith-oder-spree-tourismus-polen-niedrigwasser-probleme.html",
+      "date": "Mon, 17 Aug 2026 12:05:34 +0200"
+    },
+    {
+      "title": "Polen senkt Spritpreise vorübergehend zum Ferienende",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/08/polen-erneut-steuersenkung-benzin-diesel-billiger-tanken.html",
+      "date": "Mon, 17 Aug 2026 11:28:35 +0200"
+    },
+    {
       "title": "Falsch geparkt: In Berlin-Mitte wird am meisten abgeschleppt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-falschparker-bezirke-ordnungsamt-polizei-autos-abschleppen.html",
       "date": "Mon, 17 Aug 2026 10:20:40 +0200"
@@ -23,7 +38,7 @@
     {
       "title": "Leichtathletik-EM: Sechs Highlights aus Birmingham",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/leichtathletik-europameisterschaft-birmingham-em-highlights-weber-lueckenkemper.html",
-      "date": "Mon, 17 Aug 2026 06:21:38 +0200"
+      "date": "Mon, 17 Aug 2026 06:21:00 +0200"
     },
     {
       "title": "Der stille Turn-Champion: Das ist Radomyr Stelmakh",
@@ -44,28 +59,13 @@
       "title": "Fragolino Rosso gewinnt 131. Deutsches Traber-Derby",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/pferdesport-deutsches-traberderby-mariendorf-jahrhundertduell-fragolino-rosso-sieg.html",
       "date": "Sun, 16 Aug 2026 19:11:00 +0200"
-    },
-    {
-      "title": "Füchse Berlin bekommen von Barcelona Grenzen aufgezeigt",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/handball-fuechse-berlin-vorbereitung-turnier-nordhorn-fc-barcelona-finale.html",
-      "date": "Sun, 16 Aug 2026 19:00:00 +0200"
-    },
-    {
-      "title": "Am Späti in Berlin-Marienfelde: \"Freizeit kann mir keiner bezahlen\"",
-      "link": "https://www.rbb24.de/panorama/thema/spaeti/berlin-marienfelde-am-spaeti-muellwagenfahrer-harley-davidson-eisbaeren.html",
-      "date": "Sun, 16 Aug 2026 17:49:39 +0200"
-    },
-    {
-      "title": "Analyse der Cottbuser Niederlage in Bielefeld: Putzt die Alarmglocken",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-zweite-bundesliga-arminia-bielefeld-energie-cottbus-niederlage-analyse.html",
-      "date": "Sun, 16 Aug 2026 17:37:34 +0200"
     }
   ],
   "police": [
     {
-      "title": "Schwerer Diebstahl",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/sachfahndung/pressemitteilung.1703617.php",
-      "date": "Mon, 17 Aug 2026 10:13:24 +0200"
+      "title": "Sachbeschädigung durch Schussabgabe",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703702.php",
+      "date": "Mon, 17 Aug 2026 11:49:48 +0200"
     },
     {
       "title": "Mehrfach gegen den Kopf getreten",
@@ -128,6 +128,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Die Problem-Fähre von Aurith fährt immer seltener über die Oder",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/faehre-aurith-oder-spree-tourismus-polen-niedrigwasser-probleme.html",
+      "date": "Mon, 17 Aug 2026 12:05:34 +0200"
+    },
+    {
       "title": "Falsch geparkt: In Berlin-Mitte wird am meisten abgeschleppt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-falschparker-bezirke-ordnungsamt-polizei-autos-abschleppen.html",
       "date": "Mon, 17 Aug 2026 10:20:40 +0200"
@@ -181,11 +186,6 @@
       "title": "Wetter: Samstag heiß, Sonntag kommt die Abkühlung",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-brandenburg-wetter-wochenende-hitze-samstag-abkuehlung-sonntag.html",
       "date": "Sat, 15 Aug 2026 12:58:41 +0200"
-    },
-    {
-      "title": "Berlin-Pankow: 61-jähriger Rollerfahrer stirbt nach Zusammenstoß mit Auto",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-pankow-unfall-toter.html",
-      "date": "Sat, 15 Aug 2026 11:27:09 +0200"
     }
   ]
 }
