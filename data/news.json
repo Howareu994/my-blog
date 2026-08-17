@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Polen senkt Spritpreise vorübergehend zum Ferienende",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/08/polen-erneut-steuersenkung-benzin-diesel-billiger-tanken.html",
+      "date": "Mon, 17 Aug 2026 08:33:26 +0200"
+    },
+    {
+      "title": "Steuerrückstände in Berlin liegen bei fast 870 Millionen Euro",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/steuerrueckstaende-steuern-berlin-finanzaemter.html",
+      "date": "Mon, 17 Aug 2026 07:56:42 +0200"
+    },
+    {
+      "title": "Wahlkampf mit leeren Taschen",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/wahlversprechen-agh-wahlen-leere-taschen-olympia-expo-magnetschwebebahn-berlin-parteien-versprechen.html",
+      "date": "Mon, 17 Aug 2026 07:42:58 +0200"
+    },
+    {
       "title": "Leichtathletik-EM: Mixed-Staffel um Lückenkemper gewinnt Silber",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/leichtathletik-em-birmingham-staffel-mixed-100-400-lueckenkemper-bredau.html",
       "date": "Sun, 16 Aug 2026 23:10:00 +0200"
@@ -39,26 +54,6 @@
       "title": "Abgeordnetenhauswahl: Wie Wohnungslose in Berlin wählen können",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahl-wohnungslose-menschen-2026.html",
       "date": "Sun, 16 Aug 2026 12:19:32 +0200"
-    },
-    {
-      "title": "Berliner Wirtschaft macht Wahlkampf gegen Enteignung",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/wirtschaft-berlin-wahlkampf-enteignung-agh-wahl.html",
-      "date": "Sun, 16 Aug 2026 10:26:57 +0200"
-    },
-    {
-      "title": "Techno-Parade \"Rave the Planet\" zieht durch Tiergarten",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/rave-the-planet-techno-parade-berlin-tiergarten-motto-imagine-love.html",
-      "date": "Sun, 16 Aug 2026 10:26:04 +0200"
-    },
-    {
-      "title": "Bahnhof Fangschleuse bei Tesla-Werk in Grünheide eröffnet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/re1-bahnhof-fangschleuse-tesla-regionalverkehr.html",
-      "date": "Sun, 16 Aug 2026 10:10:05 +0200"
-    },
-    {
-      "title": "Brand im Humboldt Forum gelöscht",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-feuer-humboldtforum-feuerwehr-geloescht.html",
-      "date": "Sun, 16 Aug 2026 10:02:00 +0200"
     }
   ],
   "police": [
