@@ -1,6 +1,26 @@
 {
   "traffic": [
     {
+      "title": "Berliner IT-Systeme nach Hackerangriff teilweise eingeschränkt",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/08/berlin-senatsverwaltung-hackerangriff-cybersicherheit-systeme-eingeschraenkt.html",
+      "date": "Tue, 18 Aug 2026 18:13:24 +0200"
+    },
+    {
+      "title": "Dobrindt will Grenzkontrollen bis Ende März verlängern",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/08/grenzkontrollen-deutschland-aussengrenzen-dobrindt.html",
+      "date": "Tue, 18 Aug 2026 18:12:19 +0200"
+    },
+    {
+      "title": "rbb24.de führt ARD-Login für die Kommentarfunktion ein",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/rbb24-kommentarfunktion-ARD-Login.html",
+      "date": "Tue, 18 Aug 2026 17:43:38 +0200"
+    },
+    {
+      "title": "Niedrigwasser in der Spree: Weitere Maßnahmen eingeleitet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/spree-niedrigwasser-brandenburg-trockenheit-konzept-massnahmen.html",
+      "date": "Tue, 18 Aug 2026 17:19:07 +0200"
+    },
+    {
       "title": "Mit Laubbäumen gegen Waldbrände",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/wald-brand-laubbaum-naturschutz-umbau-mischwald-brandenburg.html",
       "date": "Tue, 18 Aug 2026 16:48:45 +0200"
@@ -39,26 +59,6 @@
       "title": "Trockenheit in Brandenburg: Wie gerecht ist Wasser verteilt?",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/wasser-brandenburg-trockenheit-trinkwasser-wasserreserven-verteilung.html",
       "date": "Tue, 18 Aug 2026 13:28:20 +0200"
-    },
-    {
-      "title": "Berliner IT-Systeme nach Hackerangriff teilweise eingeschränkt",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/08/berlin-senatsverwaltung-hackerangriff-cybersicherheit-systeme-eingeschraenkt.html",
-      "date": "Tue, 18 Aug 2026 13:21:14 +0200"
-    },
-    {
-      "title": "Fußgänger von Lkw-Fahrer in Berlin-Westend erfasst und gestorben",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-westend-lkw-unfall-fussgaenger-gestorben.html",
-      "date": "Tue, 18 Aug 2026 13:09:07 +0200"
-    },
-    {
-      "title": "65-Jähriger wegen schweren sexuellen Missbrauchs von Jugendlichen verurteilt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/sexueller-missbrauch-minderjaehrige-spreenhagen-urteil-landgericht-haft.html",
-      "date": "Tue, 18 Aug 2026 12:49:00 +0200"
-    },
-    {
-      "title": "Streit um mehr Schutz für jüdische Studenten geht weiter",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/freie-universitaet-berlin-fu-juedischer-student-berufung-oberverwaltungsgericht.html",
-      "date": "Tue, 18 Aug 2026 11:56:46 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "rbb24.de führt ARD-Login für die Kommentarfunktion ein",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/rbb24-kommentarfunktion-ARD-Login.html",
+      "date": "Tue, 18 Aug 2026 17:43:38 +0200"
+    },
+    {
       "title": "Niedrigwasser in der Spree: Weitere Maßnahmen eingeleitet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/spree-niedrigwasser-brandenburg-trockenheit-konzept-massnahmen.html",
       "date": "Tue, 18 Aug 2026 17:19:07 +0200"
@@ -181,11 +186,6 @@
       "title": "65-Jähriger wegen schweren sexuellen Missbrauchs von Jugendlichen verurteilt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/sexueller-missbrauch-minderjaehrige-spreenhagen-urteil-landgericht-haft.html",
       "date": "Tue, 18 Aug 2026 12:49:00 +0200"
-    },
-    {
-      "title": "Streit um mehr Schutz für jüdische Studenten geht weiter",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/freie-universitaet-berlin-fu-juedischer-student-berufung-oberverwaltungsgericht.html",
-      "date": "Tue, 18 Aug 2026 11:56:46 +0200"
     }
   ]
 }
