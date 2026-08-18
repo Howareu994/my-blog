@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "\"Cybersicherheit ist in Berlin sogar noch schlechter geworden\"",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/08/interview-hackerangriff-cybersicherheit-senatsverwaltung-manuel-.html",
+      "date": "Tue, 18 Aug 2026 10:14:50 +0200"
+    },
+    {
+      "title": "Signalstörung sorgt für Probleme bei mehreren S-Bahnlinien",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/signalstoerung-s-bahn-berlin-friedrichstrasse.html",
+      "date": "Tue, 18 Aug 2026 10:07:00 +0200"
+    },
+    {
+      "title": "Die rbb24 Wahlarena. Ihre Wahl – Ihre Fragen",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahl-2026-wahlarena-fragerunde-politiker-buerger-talk.html",
+      "date": "Tue, 18 Aug 2026 09:43:56 +0200"
+    },
+    {
       "title": "Ölspur verursacht langen Stau auf A111",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/a111-stau-oel-spur-berlin-stolpe-schulzendorfer-strasse.html",
       "date": "Tue, 18 Aug 2026 09:21:34 +0200"
@@ -11,11 +26,6 @@
       "date": "Tue, 18 Aug 2026 07:54:09 +0200"
     },
     {
-      "title": "Die rbb24 Wahlarena. Ihre Wahl – Ihre Fragen",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahl-2026-wahlarena-fragerunde-politiker-buerger-talk.html",
-      "date": "Tue, 18 Aug 2026 07:52:53 +0200"
-    },
-    {
       "title": "Feuerwehr löscht Brand in Entsorgungsbetrieb nahe Finsterwalde",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brand-lichterfeld-schacksdorf-elbe-elster-feuerwehr-entsorgungsbetrieb.html",
       "date": "Tue, 18 Aug 2026 07:36:20 +0200"
@@ -23,12 +33,12 @@
     {
       "title": "Interview: Wie Schilf Berliner Gewässer und Klima verbessern kann",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-spree-gewaesser-hitze-renaturierung-schilf.html",
-      "date": "Tue, 18 Aug 2026 06:20:35 +0200"
+      "date": "Tue, 18 Aug 2026 06:20:00 +0200"
     },
     {
-      "title": "Neue \"Springerstiefel\"-Staffel: Über Männlichkeit und rechte Influencer",
+      "title": "Neue Staffel des \"Springerstiefel\"-Podcasts: Über Männlichkeit und rechte Influencer",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/springerstiefel-podcast-maennlichkeit-ostdeutschland-rechtsextremismus.html",
-      "date": "Tue, 18 Aug 2026 06:19:47 +0200"
+      "date": "Tue, 18 Aug 2026 06:19:00 +0200"
     },
     {
       "title": "Hackerangriff auf Berliner Landesnetz verübt - sensible Daten abgeflossen",
@@ -41,24 +51,14 @@
       "date": "Mon, 17 Aug 2026 21:11:29 +0200"
     },
     {
-      "title": "Berlin-Wahl 2026: Wenn das Wahlamt zu wohnungslosen Menschen kommt",
+      "title": "Berlin-Wahl: Wenn das Wahlamt zu wohnungslosen Menschen kommt",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahl-pilotprojekt-pankow-unterstuetzt-waehlen-wohnungslose.html",
-      "date": "Mon, 17 Aug 2026 21:07:58 +0200"
+      "date": "Mon, 17 Aug 2026 21:07:00 +0200"
     },
     {
       "title": "Dutzende Wohnungen nach Brand in Hochhaus weiter unbewohnbar",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-friedrichshain-brand-wohnhaus-fahrlaessige-vorsaetzliche-brandstiftung.html",
       "date": "Mon, 17 Aug 2026 19:37:32 +0200"
-    },
-    {
-      "title": "Mann auf Baustelle von Container erschlagen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-bernau-baustelle-mann-container-erschlagen.html",
-      "date": "Mon, 17 Aug 2026 17:48:13 +0200"
-    },
-    {
-      "title": "19-jährige Frau in Hohen Neuendorf mutmaßlich von Partner getötet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/toetungsdelikt-hohen-neuendorf-oberhavel-bergfelde-mordkommission.html",
-      "date": "Mon, 17 Aug 2026 16:44:49 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Signalstörung sorgt für Probleme bei mehreren S-Bahnlinien",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/signalstoerung-s-bahn-berlin-friedrichstrasse.html",
+      "date": "Tue, 18 Aug 2026 10:07:00 +0200"
+    },
+    {
       "title": "Ölspur verursacht langen Stau auf A111",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/a111-stau-oel-spur-berlin-stolpe-schulzendorfer-strasse.html",
       "date": "Tue, 18 Aug 2026 09:21:34 +0200"
@@ -140,12 +145,12 @@
     {
       "title": "Interview: Wie Schilf Berliner Gewässer und Klima verbessern kann",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-spree-gewaesser-hitze-renaturierung-schilf.html",
-      "date": "Tue, 18 Aug 2026 06:20:35 +0200"
+      "date": "Tue, 18 Aug 2026 06:20:00 +0200"
     },
     {
-      "title": "Neue \"Springerstiefel\"-Staffel: Über Männlichkeit und rechte Influencer",
+      "title": "Neue Staffel des \"Springerstiefel\"-Podcasts: Über Männlichkeit und rechte Influencer",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/springerstiefel-podcast-maennlichkeit-ostdeutschland-rechtsextremismus.html",
-      "date": "Tue, 18 Aug 2026 06:19:47 +0200"
+      "date": "Tue, 18 Aug 2026 06:19:00 +0200"
     },
     {
       "title": "Dutzende Wohnungen nach Brand in Hochhaus weiter unbewohnbar",
@@ -181,11 +186,6 @@
       "title": "Bernau testet Mitfahrbänke",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/mobilitaet-mitfahrbank-bernau-barnim-test.html",
       "date": "Mon, 17 Aug 2026 14:58:11 +0200"
-    },
-    {
-      "title": "\"Zombie-Drogen\": Immer mehr NPS in Berliner Gefängnissen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/zombie-drogen-gefaengnisse-berlin-jva-neue-psychoaktive-stoffe.html",
-      "date": "Mon, 17 Aug 2026 13:01:00 +0200"
     }
   ]
 }
