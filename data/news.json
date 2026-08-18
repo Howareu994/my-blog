@@ -1,14 +1,19 @@
 {
   "traffic": [
     {
+      "title": "Hochhaus-Brand in Friedrichshain: Ursache wohl technischer Defekt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-friedrichshain-brand-wohnhaus-fahrlaessige-vorsaetzliche-brandstiftung.html",
+      "date": "Tue, 18 Aug 2026 15:56:51 +0200"
+    },
+    {
+      "title": "Urteil nach Todesfahrt in Teltow - Täter muss in psychiatrische Klinik",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/teltow-urteil-mauerweg-autofahrer-todesfahrt-.html",
+      "date": "Tue, 18 Aug 2026 15:43:52 +0200"
+    },
+    {
       "title": "Berliner Aquarium wieder vollständig geöffnet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/aquarium-berliner-zoo-wiedereroeffnung.html",
       "date": "Tue, 18 Aug 2026 15:24:38 +0200"
-    },
-    {
-      "title": "Dutzende Wohnungen nach Brand in Hochhaus weiter unbewohnbar",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-friedrichshain-brand-wohnhaus-fahrlaessige-vorsaetzliche-brandstiftung.html",
-      "date": "Tue, 18 Aug 2026 14:42:56 +0200"
     },
     {
       "title": "Ölspur verursacht langen Stau auf A111",
@@ -54,11 +59,6 @@
       "title": "Tausende falsch geparkte E-Scooter - Verfahren überwiegend eingestellt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-e-scooter-falschparker-tausende-verstoesse.html",
       "date": "Tue, 18 Aug 2026 11:11:10 +0200"
-    },
-    {
-      "title": "Hertha-Spielerin Reimold: \"Wir können viel reißen in dieser Liga\"",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-frauen-hertha-zweite-liga-lotte-reimold.html",
-      "date": "Tue, 18 Aug 2026 10:43:07 +0200"
     }
   ],
   "police": [
@@ -128,14 +128,19 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Hochhaus-Brand in Friedrichshain: Ursache wohl technischer Defekt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-friedrichshain-brand-wohnhaus-fahrlaessige-vorsaetzliche-brandstiftung.html",
+      "date": "Tue, 18 Aug 2026 15:56:51 +0200"
+    },
+    {
+      "title": "Urteil nach Todesfahrt in Teltow - Täter muss in psychiatrische Klinik",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/teltow-urteil-mauerweg-autofahrer-todesfahrt-.html",
+      "date": "Tue, 18 Aug 2026 15:43:52 +0200"
+    },
+    {
       "title": "Berliner Aquarium wieder vollständig geöffnet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/aquarium-berliner-zoo-wiedereroeffnung.html",
       "date": "Tue, 18 Aug 2026 15:24:38 +0200"
-    },
-    {
-      "title": "Dutzende Wohnungen nach Brand in Hochhaus weiter unbewohnbar",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-friedrichshain-brand-wohnhaus-fahrlaessige-vorsaetzliche-brandstiftung.html",
-      "date": "Tue, 18 Aug 2026 14:42:56 +0200"
     },
     {
       "title": "Ölspur verursacht langen Stau auf A111",
@@ -181,11 +186,6 @@
       "title": "Feuerwehr löscht Brand in Entsorgungsbetrieb nahe Finsterwalde",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brand-lichterfeld-schacksdorf-elbe-elster-feuerwehr-entsorgungsbetrieb.html",
       "date": "Tue, 18 Aug 2026 07:36:20 +0200"
-    },
-    {
-      "title": "Interview: Wie Schilf Berliner Gewässer und Klima verbessern kann",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-spree-gewaesser-hitze-renaturierung-schilf.html",
-      "date": "Tue, 18 Aug 2026 06:20:00 +0200"
     }
   ]
 }
