@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Fußgänger von Lkw-Fahrer in Berlin-Westend erfasst und gestorben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-westend-lkw-unfall-fussgaenger-gestorben.html",
+      "date": "Tue, 18 Aug 2026 13:09:07 +0200"
+    },
+    {
+      "title": "65-Jähriger wegen schweren sexuellen Missbrauchs von Jugendlichen verurteilt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/sexueller-missbrauch-minderjaehrige-spreenhagen-urteil-landgericht-haft.html",
+      "date": "Tue, 18 Aug 2026 12:49:00 +0200"
+    },
+    {
       "title": "Streit um mehr Schutz für jüdische Studenten geht weiter",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/freie-universitaet-berlin-fu-juedischer-student-berufung-oberverwaltungsgericht.html",
       "date": "Tue, 18 Aug 2026 11:56:46 +0200"
@@ -49,19 +59,14 @@
       "title": "Interview: Wie Schilf Berliner Gewässer und Klima verbessern kann",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-spree-gewaesser-hitze-renaturierung-schilf.html",
       "date": "Tue, 18 Aug 2026 06:20:00 +0200"
-    },
-    {
-      "title": "Neue Staffel des \"Springerstiefel\"-Podcasts: Über Männlichkeit und rechte Influencer",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/springerstiefel-podcast-maennlichkeit-ostdeutschland-rechtsextremismus.html",
-      "date": "Tue, 18 Aug 2026 06:19:00 +0200"
-    },
-    {
-      "title": "Hackerangriff auf Berliner Landesnetz verübt - sensible Daten abgeflossen",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/08/berlin-landesnetz-sicherheitsvorfall-it-senatsverwaltung.html",
-      "date": "Mon, 17 Aug 2026 21:17:00 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Mahnmal beschmiert",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704240.php",
+      "date": "Tue, 18 Aug 2026 12:47:19 +0200"
+    },
     {
       "title": "Autofahrerin bei Unfall verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704179.php",
@@ -116,17 +121,27 @@
       "title": "Mann angefahren und anschließend geflüchtet",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703440.php",
       "date": "Sat, 15 Aug 2026 14:29:18 +0200"
-    },
-    {
-      "title": "Mehrere Einbrüche in einem Einkaufszentrum",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703438.php",
-      "date": "Sat, 15 Aug 2026 13:56:51 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Fußgänger von Lkw-Fahrer in Berlin-Westend erfasst und gestorben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-westend-lkw-unfall-fussgaenger-gestorben.html",
+      "date": "Tue, 18 Aug 2026 13:09:07 +0200"
+    },
+    {
+      "title": "Trockenheit in Brandenburg: Wie gerecht ist Wasser verteilt?",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/wasser-brandenburg-trockenheit-trinkwasser-wasserreserven-verteilung.html",
+      "date": "Tue, 18 Aug 2026 13:02:54 +0200"
+    },
+    {
+      "title": "65-Jähriger wegen schweren sexuellen Missbrauchs von Jugendlichen verurteilt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/sexueller-missbrauch-minderjaehrige-spreenhagen-urteil-landgericht-haft.html",
+      "date": "Tue, 18 Aug 2026 12:49:00 +0200"
+    },
     {
       "title": "Streit um mehr Schutz für jüdische Studenten geht weiter",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/freie-universitaet-berlin-fu-juedischer-student-berufung-oberverwaltungsgericht.html",
@@ -171,21 +186,6 @@
       "title": "Mann auf Baustelle von Container erschlagen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-bernau-baustelle-mann-container-erschlagen.html",
       "date": "Mon, 17 Aug 2026 17:48:13 +0200"
-    },
-    {
-      "title": "19-jährige Frau in Hohen Neuendorf mutmaßlich von Partner getötet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/toetungsdelikt-hohen-neuendorf-oberhavel-bergfelde-mordkommission.html",
-      "date": "Mon, 17 Aug 2026 16:44:49 +0200"
-    },
-    {
-      "title": "Zeitzeugen berichten über Frauen-KZ Ravensbrück",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/fuerstenberg-havel-konzentrationslager-frauen-zeitzeugen-loretta-walz-erinnerungskultur.html",
-      "date": "Mon, 17 Aug 2026 16:31:24 +0200"
-    },
-    {
-      "title": "Leißnitz kämpf gemeinsam für Erhalt des Gasthofes",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/leissnitz-oder-spree-dorfgemeinschaft-gasthof-zusammenhalt.html",
-      "date": "Mon, 17 Aug 2026 15:50:44 +0200"
     }
   ]
 }
