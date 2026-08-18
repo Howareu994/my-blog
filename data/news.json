@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Ölspur verursacht langen Stau auf A111",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/a111-stau-oel-spur-berlin-stolpe-schulzendorfer-strasse.html",
+      "date": "Tue, 18 Aug 2026 09:21:34 +0200"
+    },
+    {
       "title": "Wasserspringerin Pfeif nach Silber-Hattrick: \"Genieße das sehr\"",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/wasserspringen-schwimm-em-paris-pauline-pfeif-synchron-medaillen-berlin.html",
       "date": "Tue, 18 Aug 2026 07:54:09 +0200"
@@ -9,11 +14,6 @@
       "title": "Die rbb24 Wahlarena. Ihre Wahl – Ihre Fragen",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahl-2026-wahlarena-fragerunde-politiker-buerger-talk.html",
       "date": "Tue, 18 Aug 2026 07:52:53 +0200"
-    },
-    {
-      "title": "Ölspur verursacht langen Stau auf A111",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/a111-stau-oel-spur-berlin-stolpe-schulzendorfer-strasse.html",
-      "date": "Tue, 18 Aug 2026 07:49:37 +0200"
     },
     {
       "title": "Feuerwehr löscht Brand in Entsorgungsbetrieb nahe Finsterwalde",
@@ -130,7 +130,7 @@
     {
       "title": "Ölspur verursacht langen Stau auf A111",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/a111-stau-oel-spur-berlin-stolpe-schulzendorfer-strasse.html",
-      "date": "Tue, 18 Aug 2026 07:49:37 +0200"
+      "date": "Tue, 18 Aug 2026 09:21:34 +0200"
     },
     {
       "title": "Feuerwehr löscht Brand in Entsorgungsbetrieb nahe Finsterwalde",
