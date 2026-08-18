@@ -1,9 +1,24 @@
 {
   "traffic": [
     {
-      "title": "Brand in Entsorgungsbetrieb nahe Finsterwalde beschäftigt Feuerwehr",
+      "title": "Wasserspringerin Pfeif nach Silber-Hattrick: \"Genieße das sehr\"",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/wasserspringen-schwimm-em-paris-pauline-pfeif-synchron-medaillen-berlin.html",
+      "date": "Tue, 18 Aug 2026 07:54:09 +0200"
+    },
+    {
+      "title": "Die rbb24 Wahlarena. Ihre Wahl – Ihre Fragen",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahl-2026-wahlarena-fragerunde-politiker-buerger-talk.html",
+      "date": "Tue, 18 Aug 2026 07:52:53 +0200"
+    },
+    {
+      "title": "Ölspur verursacht langen Stau auf A111",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/a111-stau-oel-spur-berlin-stolpe-schulzendorfer-strasse.html",
+      "date": "Tue, 18 Aug 2026 07:49:37 +0200"
+    },
+    {
+      "title": "Feuerwehr löscht Brand in Entsorgungsbetrieb nahe Finsterwalde",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brand-lichterfeld-schacksdorf-elbe-elster-feuerwehr-entsorgungsbetrieb.html",
-      "date": "Tue, 18 Aug 2026 06:58:37 +0200"
+      "date": "Tue, 18 Aug 2026 07:36:20 +0200"
     },
     {
       "title": "Interview: Wie Schilf Berliner Gewässer und Klima verbessern kann",
@@ -44,21 +59,6 @@
       "title": "19-jährige Frau in Hohen Neuendorf mutmaßlich von Partner getötet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/toetungsdelikt-hohen-neuendorf-oberhavel-bergfelde-mordkommission.html",
       "date": "Mon, 17 Aug 2026 16:44:49 +0200"
-    },
-    {
-      "title": "Zeitzeugen berichten über Frauen-KZ Ravensbrück",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/fuerstenberg-havel-konzentrationslager-frauen-zeitzeugen-loretta-walz-erinnerungskultur.html",
-      "date": "Mon, 17 Aug 2026 16:31:24 +0200"
-    },
-    {
-      "title": "Leißnitz kämpf gemeinsam für Erhalt des Gasthofes",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/leissnitz-oder-spree-dorfgemeinschaft-gasthof-zusammenhalt.html",
-      "date": "Mon, 17 Aug 2026 15:50:44 +0200"
-    },
-    {
-      "title": "DFB-Pokal der Frauen: Hertha empfängt Köln - Union in Magdeburg",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-dfb-pokal-frauen-auslosung-erste-runde-union-berlin-hertha-bsc-fc-viktoria-turbine-potsdam.html",
-      "date": "Mon, 17 Aug 2026 15:46:24 +0200"
     }
   ],
   "police": [
@@ -128,9 +128,14 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Brand in Entsorgungsbetrieb nahe Finsterwalde beschäftigt Feuerwehr",
+      "title": "Ölspur verursacht langen Stau auf A111",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/a111-stau-oel-spur-berlin-stolpe-schulzendorfer-strasse.html",
+      "date": "Tue, 18 Aug 2026 07:49:37 +0200"
+    },
+    {
+      "title": "Feuerwehr löscht Brand in Entsorgungsbetrieb nahe Finsterwalde",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brand-lichterfeld-schacksdorf-elbe-elster-feuerwehr-entsorgungsbetrieb.html",
-      "date": "Tue, 18 Aug 2026 06:58:37 +0200"
+      "date": "Tue, 18 Aug 2026 07:36:20 +0200"
     },
     {
       "title": "Interview: Wie Schilf Berliner Gewässer und Klima verbessern kann",
@@ -181,11 +186,6 @@
       "title": "\"Zombie-Drogen\": Immer mehr NPS in Berliner Gefängnissen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/zombie-drogen-gefaengnisse-berlin-jva-neue-psychoaktive-stoffe.html",
       "date": "Mon, 17 Aug 2026 13:01:00 +0200"
-    },
-    {
-      "title": "Die Problem-Fähre von Aurith fährt immer seltener über die Oder",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/faehre-aurith-oder-spree-tourismus-polen-niedrigwasser-probleme.html",
-      "date": "Mon, 17 Aug 2026 12:05:34 +0200"
     }
   ]
 }
