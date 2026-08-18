@@ -1,9 +1,19 @@
 {
   "traffic": [
     {
-      "title": "Berliner IT-Systeme nach Hackerangriff teilweise eingeschränkt",
+      "title": "Niedrigwasser in der Spree: Weitere Maßnahmen eingeleitet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/spree-niedrigwasser-brandenburg-trockenheit-konzept-massnahmen.html",
+      "date": "Tue, 18 Aug 2026 19:36:20 +0200"
+    },
+    {
+      "title": "Hackerangriff auf Berliner IT: Online-Anträge auf Briefwahl nicht möglich",
       "link": "https://www.rbb24.de/politik/beitrag/2026/08/berlin-senatsverwaltung-hackerangriff-cybersicherheit-systeme-eingeschraenkt.html",
-      "date": "Tue, 18 Aug 2026 18:52:07 +0200"
+      "date": "Tue, 18 Aug 2026 19:26:47 +0200"
+    },
+    {
+      "title": "Kommentar: Datenhack offenbart Berlins IT-Schwäche",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/08/kommentar-berlin-hackerangriff-daten-it-schwachstellen-senatsverwaltungen.html",
+      "date": "Tue, 18 Aug 2026 19:25:03 +0200"
     },
     {
       "title": "Berlin erweitert Schwimmangebot für Schulkinder",
@@ -19,11 +29,6 @@
       "title": "rbb24.de führt ARD-Login für die Kommentarfunktion ein",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/rbb24-kommentarfunktion-ARD-Login.html",
       "date": "Tue, 18 Aug 2026 17:43:38 +0200"
-    },
-    {
-      "title": "Niedrigwasser in der Spree: Weitere Maßnahmen eingeleitet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/spree-niedrigwasser-brandenburg-trockenheit-konzept-massnahmen.html",
-      "date": "Tue, 18 Aug 2026 17:19:07 +0200"
     },
     {
       "title": "Mit Laubbäumen gegen Waldbrände",
@@ -54,11 +59,6 @@
       "title": "Signalstörung führt zu Problemen bei mehreren S-Bahnlinien",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/signalstoerung-s-bahn-berlin-friedrichstrasse.html",
       "date": "Tue, 18 Aug 2026 14:17:20 +0200"
-    },
-    {
-      "title": "Neugestaltung der Museumslandschaft: Guben sucht Interessenten für historische Spruker Mühle",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-guben-spruker-muehle-interessenbekundung-verfahren.html",
-      "date": "Tue, 18 Aug 2026 14:16:00 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Niedrigwasser in der Spree: Weitere Maßnahmen eingeleitet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/spree-niedrigwasser-brandenburg-trockenheit-konzept-massnahmen.html",
+      "date": "Tue, 18 Aug 2026 19:36:20 +0200"
+    },
+    {
       "title": "Berlin erweitert Schwimmangebot für Schulkinder",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-schwimmangebot-kinder-erweitert.html",
       "date": "Tue, 18 Aug 2026 18:44:41 +0200"
@@ -136,11 +141,6 @@
       "title": "rbb24.de führt ARD-Login für die Kommentarfunktion ein",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/rbb24-kommentarfunktion-ARD-Login.html",
       "date": "Tue, 18 Aug 2026 17:43:38 +0200"
-    },
-    {
-      "title": "Niedrigwasser in der Spree: Weitere Maßnahmen eingeleitet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/spree-niedrigwasser-brandenburg-trockenheit-konzept-massnahmen.html",
-      "date": "Tue, 18 Aug 2026 17:19:07 +0200"
     },
     {
       "title": "Mit Laubbäumen gegen Waldbrände",
