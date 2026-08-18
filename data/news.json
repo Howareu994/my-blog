@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Brand in Entsorgungsbetrieb nahe Finsterwalde beschäftigt Feuerwehr",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brand-lichterfeld-schacksdorf-elbe-elster-feuerwehr-entsorgungsbetrieb.html",
+      "date": "Tue, 18 Aug 2026 06:58:37 +0200"
+    },
+    {
+      "title": "Interview: Wie Schilf Berliner Gewässer und Klima verbessern kann",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-spree-gewaesser-hitze-renaturierung-schilf.html",
+      "date": "Tue, 18 Aug 2026 06:20:35 +0200"
+    },
+    {
+      "title": "Neue \"Springerstiefel\"-Staffel: Über Männlichkeit und rechte Influencer",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/springerstiefel-podcast-maennlichkeit-ostdeutschland-rechtsextremismus.html",
+      "date": "Tue, 18 Aug 2026 06:19:47 +0200"
+    },
+    {
       "title": "Hackerangriff auf Berliner Landesnetz verübt - sensible Daten abgeflossen",
       "link": "https://www.rbb24.de/politik/beitrag/2026/08/berlin-landesnetz-sicherheitsvorfall-it-senatsverwaltung.html",
       "date": "Mon, 17 Aug 2026 21:17:00 +0200"
@@ -14,11 +29,6 @@
       "title": "Berlin-Wahl 2026: Wenn das Wahlamt zu wohnungslosen Menschen kommt",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahl-pilotprojekt-pankow-unterstuetzt-waehlen-wohnungslose.html",
       "date": "Mon, 17 Aug 2026 21:07:58 +0200"
-    },
-    {
-      "title": "Basketball-WM der Frauen in Berlin - Fragen und Antworten",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/basketball-frauen-weltmeisterschaft-berlin-deutschland.html",
-      "date": "Mon, 17 Aug 2026 19:44:57 +0200"
     },
     {
       "title": "Dutzende Wohnungen nach Brand in Hochhaus weiter unbewohnbar",
@@ -49,16 +59,6 @@
       "title": "DFB-Pokal der Frauen: Hertha empfängt Köln - Union in Magdeburg",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-dfb-pokal-frauen-auslosung-erste-runde-union-berlin-hertha-bsc-fc-viktoria-turbine-potsdam.html",
       "date": "Mon, 17 Aug 2026 15:46:24 +0200"
-    },
-    {
-      "title": "Flughafen BER: Passagierzahlen im ersten Halbjahr leicht gesunken",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/08/berlin-brandenburg-flughafen-ber-passagiere-leicht-gesunken.html",
-      "date": "Mon, 17 Aug 2026 15:20:16 +0200"
-    },
-    {
-      "title": "Kunst statt Schmierereien: Falkensee kooperiert mit Sprayern",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/graffiti-falkensee-havelland-stromkasten-verteiler-legal-jugend-sprayer.html",
-      "date": "Mon, 17 Aug 2026 14:58:59 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Brand in Entsorgungsbetrieb nahe Finsterwalde beschäftigt Feuerwehr",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brand-lichterfeld-schacksdorf-elbe-elster-feuerwehr-entsorgungsbetrieb.html",
+      "date": "Tue, 18 Aug 2026 06:58:37 +0200"
+    },
+    {
       "title": "Interview: Wie Schilf Berliner Gewässer und Klima verbessern kann",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-spree-gewaesser-hitze-renaturierung-schilf.html",
       "date": "Tue, 18 Aug 2026 06:20:35 +0200"
@@ -181,11 +186,6 @@
       "title": "Die Problem-Fähre von Aurith fährt immer seltener über die Oder",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/faehre-aurith-oder-spree-tourismus-polen-niedrigwasser-probleme.html",
       "date": "Mon, 17 Aug 2026 12:05:34 +0200"
-    },
-    {
-      "title": "Falsch geparkt: In Berlin-Mitte wird am meisten abgeschleppt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-falschparker-bezirke-ordnungsamt-polizei-autos-abschleppen.html",
-      "date": "Mon, 17 Aug 2026 10:20:40 +0200"
     }
   ]
 }
