@@ -1,14 +1,19 @@
 {
   "traffic": [
     {
-      "title": "Hackerangriff auf Berliner IT: Online-Anträge auf Briefwahl nicht möglich",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/08/berlin-senatsverwaltung-hackerangriff-cybersicherheit-systeme-eingeschraenkt.html",
-      "date": "Wed, 19 Aug 2026 09:11:41 +0200"
+      "title": "Bowie, Madonna, Tina Turner: Stahnsdorf soll Rockmusiker-Viertel bekommen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/stahnsdorf-strassennamen-rockmusiker-bernd-albers-brandenburg.html",
+      "date": "Wed, 19 Aug 2026 10:08:37 +0200"
     },
     {
       "title": "Berlin-Frohnau: Person bei Brand lebensbedrohlich verletzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-frohnau-brand-verletzt-feuerwehr.html",
-      "date": "Wed, 19 Aug 2026 07:51:44 +0200"
+      "date": "Wed, 19 Aug 2026 09:46:44 +0200"
+    },
+    {
+      "title": "Hackerangriff auf Berliner IT: Online-Anträge auf Briefwahl nicht möglich",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/08/berlin-senatsverwaltung-hackerangriff-cybersicherheit-systeme-eingeschraenkt.html",
+      "date": "Wed, 19 Aug 2026 09:11:41 +0200"
     },
     {
       "title": "Basketball-WM in Berlin für Alba-Spielerinnen \"super besonders\"",
@@ -26,9 +31,9 @@
       "date": "Tue, 18 Aug 2026 19:36:20 +0200"
     },
     {
-      "title": "Kommentar: Datenhack offenbart Berlins IT-Schwäche",
+      "title": "Kommentar: Datenhack offenbart Berliner IT-Schwäche",
       "link": "https://www.rbb24.de/politik/beitrag/2026/08/kommentar-berlin-hackerangriff-daten-it-schwachstellen-senatsverwaltungen.html",
-      "date": "Tue, 18 Aug 2026 19:25:03 +0200"
+      "date": "Tue, 18 Aug 2026 19:25:00 +0200"
     },
     {
       "title": "Berlin erweitert Schwimmangebot für Schulkinder",
@@ -54,11 +59,6 @@
       "title": "Ölspur auf A111 beseitigt - Autobahn freigegeben",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/a111-stau-oel-spur-berlin-stolpe-schulzendorfer-strasse.html",
       "date": "Tue, 18 Aug 2026 16:36:53 +0200"
-    },
-    {
-      "title": "Hochhaus-Brand in Friedrichshain: Ursache wohl technischer Defekt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-friedrichshain-brand-wohnhaus-fahrlaessige-vorsaetzliche-brandstiftung.html",
-      "date": "Tue, 18 Aug 2026 15:56:51 +0200"
     }
   ],
   "police": [
@@ -128,9 +128,14 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Madonna, Elvis Presley und Tina Turner: Stahnsdorf soll Rockmusiker-Viertel bekommen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/stahnsdorf-strassennamen-rockmusiker-bernd-albers-brandenburg.html",
+      "date": "Wed, 19 Aug 2026 10:08:00 +0200"
+    },
+    {
       "title": "Berlin-Frohnau: Person bei Brand lebensbedrohlich verletzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-frohnau-brand-verletzt-feuerwehr.html",
-      "date": "Wed, 19 Aug 2026 07:51:44 +0200"
+      "date": "Wed, 19 Aug 2026 09:46:44 +0200"
     },
     {
       "title": "Urteil nach Todesfahrt in Teltow - Täter muss in Maßregelvollzug",
@@ -181,11 +186,6 @@
       "title": "Neugestaltung der Museumslandschaft: Guben sucht Interessenten für historische Spruker Mühle",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-guben-spruker-muehle-interessenbekundung-verfahren.html",
       "date": "Tue, 18 Aug 2026 14:16:00 +0200"
-    },
-    {
-      "title": "Trockenheit in Brandenburg: Wie gerecht ist Wasser verteilt?",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/wasser-brandenburg-trockenheit-trinkwasser-wasserreserven-verteilung.html",
-      "date": "Tue, 18 Aug 2026 13:28:20 +0200"
     }
   ]
 }
