@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Berlin: Mann von Boot geschleudert bei Verpuffung in Rummelsburger Bucht",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-rummelsburger-bucht-verpuffung-boot.html",
+      "date": "Wed, 19 Aug 2026 15:12:53 +0200"
+    },
+    {
       "title": "Berlin-Frohnau: Frau bei Brand lebensbedrohlich verletzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-frohnau-brand-verletzt-feuerwehr.html",
       "date": "Wed, 19 Aug 2026 14:08:57 +0200"
@@ -9,11 +14,6 @@
       "title": "Berlin: Online-Anträge auf Briefwahl nur eingeschränkt möglich",
       "link": "https://www.rbb24.de/politik/beitrag/2026/08/berlin-senatsverwaltung-hackerangriff-cybersicherheit-systeme-eingeschraenkt.html",
       "date": "Wed, 19 Aug 2026 13:43:29 +0200"
-    },
-    {
-      "title": "Berlin: Mann von Boot geschleudert bei Verpuffung in Rummelsburger Bucht",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-rummelsburger-bucht-verpuffung-boot.html",
-      "date": "Wed, 19 Aug 2026 13:11:54 +0200"
     },
     {
       "title": "Potsdam: Forschende enträtseln Eigenschaften von Schneckenschleim",
@@ -62,6 +62,11 @@
     }
   ],
   "police": [
+    {
+      "title": "Festnahmen nach versuchtem Trickdiebstahl",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704883.php",
+      "date": "Wed, 19 Aug 2026 14:18:54 +0200"
+    },
     {
       "title": "Regenbogenflagge beschädigt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704843.php",
@@ -116,11 +121,6 @@
       "title": "Erheblich verletzter Radfahrer",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703817.php",
       "date": "Mon, 17 Aug 2026 13:38:34 +0200"
-    },
-    {
-      "title": "Sachbeschädigung durch Schussabgabe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703702.php",
-      "date": "Mon, 17 Aug 2026 11:49:48 +0200"
     }
   ],
   "free_events": [],
@@ -128,14 +128,14 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Berlin: Mann von Boot geschleudert bei Verpuffung in Rummelsburger Bucht",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-rummelsburger-bucht-verpuffung-boot.html",
+      "date": "Wed, 19 Aug 2026 15:12:53 +0200"
+    },
+    {
       "title": "Berlin-Frohnau: Frau bei Brand lebensbedrohlich verletzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-frohnau-brand-verletzt-feuerwehr.html",
       "date": "Wed, 19 Aug 2026 14:08:57 +0200"
-    },
-    {
-      "title": "Berlin: Mann von Boot geschleudert bei Verpuffung in Rummelsburger Bucht",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-rummelsburger-bucht-verpuffung-boot.html",
-      "date": "Wed, 19 Aug 2026 13:11:54 +0200"
     },
     {
       "title": "Potsdam: Forschende enträtseln Eigenschaften von Schneckenschleim",
