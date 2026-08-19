@@ -1,14 +1,29 @@
 {
   "traffic": [
     {
-      "title": "Polizei durchsucht Wohnung wegen Ermittlungen zu Kinderpornografie",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-razzia-kinderpornografie.html",
-      "date": "Wed, 19 Aug 2026 15:56:06 +0200"
+      "title": "Sieg gegen USA: Deutsche Hockey-Frauen stehen in WM-Zwischenrunde",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/hockey-wm-frauen-vorrunde-deutschland-usa-sieg-zwischenrunden-ticket.html",
+      "date": "Wed, 19 Aug 2026 16:59:18 +0200"
     },
     {
       "title": "Übung in Lehnin: Wie Waldbrände mit Feuer bekämpft werden",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/waldbrand-flammen-gegenfeuer-at-fire-lehnin-uebung-bundeswehr-brennkanne.html",
-      "date": "Wed, 19 Aug 2026 15:38:40 +0200"
+      "date": "Wed, 19 Aug 2026 16:28:46 +0200"
+    },
+    {
+      "title": "Waldbrandbericht 2025: Mehr als 300 Waldbrände in Brandenburg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-waldbraende-waldbrandbericht-2025-.html",
+      "date": "Wed, 19 Aug 2026 16:25:36 +0200"
+    },
+    {
+      "title": "Königs Wusterhausen: Mast 17 auf Funkerberg wird umfassend saniert",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/koenigs-wusterhausen-mast-17-funkerberg-sanierung-denkmalgerecht.html",
+      "date": "Wed, 19 Aug 2026 16:25:02 +0200"
+    },
+    {
+      "title": "Polizei durchsucht Wohnung wegen Ermittlungen zu Kinderpornografie",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-razzia-kinderpornografie.html",
+      "date": "Wed, 19 Aug 2026 15:56:06 +0200"
     },
     {
       "title": "Last Soul Ultra: \"Es gibt keine Grenze, das ist das Besondere\"",
@@ -44,21 +59,6 @@
       "title": "Union Berlin verpflichtet Schweizer Nationalspieler Aebischer",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-berlin-1-fc-union-verpflichtung-nationalspieler-aebischer.html",
       "date": "Wed, 19 Aug 2026 12:21:35 +0200"
-    },
-    {
-      "title": "Boßdorf will Niedergörsdorfs Bürgermeisterin bleiben",
-      "link": "https://www.rbb24.de/politik/wahl/brandenburg-buergermeisterwahlen/2026/teltow-flaeming-buergemeisterin-bossdorf-wiederwahl-quorum-keine-gegenkandidaten.html",
-      "date": "Wed, 19 Aug 2026 12:15:58 +0200"
-    },
-    {
-      "title": "Energie Cottbus leiht Stürmer Bogdanov von Union Berlin aus",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-berlin-brandenburg-cottbus-energie-bogdanov-leihe-union-berlin.html",
-      "date": "Wed, 19 Aug 2026 11:13:43 +0200"
-    },
-    {
-      "title": "rbb24.de führt ARD-Login für die Kommentarfunktion ein",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/rbb24-kommentarfunktion-ARD-Login.html",
-      "date": "Wed, 19 Aug 2026 11:05:54 +0200"
     }
   ],
   "police": [
@@ -128,14 +128,24 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Übung in Lehnin: Wie Waldbrände mit Feuer bekämpft werden",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/waldbrand-flammen-gegenfeuer-at-fire-lehnin-uebung-bundeswehr-brennkanne.html",
+      "date": "Wed, 19 Aug 2026 16:28:46 +0200"
+    },
+    {
+      "title": "Waldbrandbericht 2025: Mehr als 300 Waldbrände in Brandenburg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-waldbraende-waldbrandbericht-2025-.html",
+      "date": "Wed, 19 Aug 2026 16:25:36 +0200"
+    },
+    {
+      "title": "Königs Wusterhausen: Mast 17 auf Funkerberg wird umfassend saniert",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/koenigs-wusterhausen-mast-17-funkerberg-sanierung-denkmalgerecht.html",
+      "date": "Wed, 19 Aug 2026 16:25:02 +0200"
+    },
+    {
       "title": "Polizei durchsucht Wohnung wegen Ermittlungen zu Kinderpornografie",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-razzia-kinderpornografie.html",
       "date": "Wed, 19 Aug 2026 15:56:06 +0200"
-    },
-    {
-      "title": "Übung in Lehnin: Wie Waldbrände mit Feuer bekämpft werden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/waldbrand-flammen-gegenfeuer-at-fire-lehnin-uebung-bundeswehr-brennkanne.html",
-      "date": "Wed, 19 Aug 2026 15:38:40 +0200"
     },
     {
       "title": "Berlin: Mann von Boot geschleudert bei Verpuffung in Rummelsburger Bucht",
@@ -176,16 +186,6 @@
       "title": "Niedrigwasser in der Spree: Weitere Maßnahmen eingeleitet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/spree-niedrigwasser-brandenburg-trockenheit-konzept-massnahmen.html",
       "date": "Tue, 18 Aug 2026 19:36:20 +0200"
-    },
-    {
-      "title": "Berlin erweitert Schwimmangebot für Schulkinder",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-schwimmangebot-kinder-erweitert.html",
-      "date": "Tue, 18 Aug 2026 18:44:41 +0200"
-    },
-    {
-      "title": "Mit Laubbäumen gegen Waldbrände",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/wald-brand-laubbaum-naturschutz-umbau-mischwald-brandenburg.html",
-      "date": "Tue, 18 Aug 2026 16:48:45 +0200"
     }
   ]
 }
