@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Mehrere Berliner Freibäder bis in den September geöffnet, Hallenbäder starten Betrieb",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-infos-start-saison-hallenbaeder-herbst.html",
+      "date": "Wed, 19 Aug 2026 20:18:25 +0200"
+    },
+    {
+      "title": "Tornado in Fürstenwalde deckt Dächer ab und wirft Bäume um",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/fuerstenwalde-tornado-feuerwehr-einsatz-schaeden.html",
+      "date": "Wed, 19 Aug 2026 20:17:07 +0200"
+    },
+    {
+      "title": "Schock für deutsche Basketballerinnen: Satou Sabally verpasst WM",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/basketball-wm-frauen-deutschland-berlinerin-satou-sabally-verletzt-ausfall.html",
+      "date": "Wed, 19 Aug 2026 19:38:59 +0200"
+    },
+    {
       "title": "Senatsverwaltungen nach Hackerangriff weiter vom Landesnetz getrennt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-it-hackerangriff-weiterhin-probleme-verwaltung-wegner.html",
       "date": "Wed, 19 Aug 2026 18:47:22 +0200"
@@ -44,21 +59,6 @@
       "title": "Polizei durchsucht Wohnung wegen Ermittlungen zu Kinderpornografie",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-razzia-kinderpornografie.html",
       "date": "Wed, 19 Aug 2026 15:56:06 +0200"
-    },
-    {
-      "title": "Last Soul Ultra: \"Es gibt keine Grenze, das ist das Besondere\"",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/laufsport-berlin-last-soul-ultra-lsu-norman-mascher-aspensjoe.html",
-      "date": "Wed, 19 Aug 2026 15:35:01 +0200"
-    },
-    {
-      "title": "Berlin: Mann von Boot geschleudert bei Verpuffung in Rummelsburger Bucht",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-rummelsburger-bucht-verpuffung-boot.html",
-      "date": "Wed, 19 Aug 2026 15:12:53 +0200"
-    },
-    {
-      "title": "Zu wenig Lehrkräfte für mehr Schüler in Brandenburg",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/08/brandenburg-schule-lehrer-schueler-gew-bildung.html",
-      "date": "Wed, 19 Aug 2026 14:35:55 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,16 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Mehrere Berliner Freibäder bis in den September geöffnet, Hallenbäder starten Betrieb",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-infos-start-saison-hallenbaeder-herbst.html",
+      "date": "Wed, 19 Aug 2026 20:18:25 +0200"
+    },
+    {
+      "title": "Tornado in Fürstenwalde deckt Dächer ab und wirft Bäume um",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/fuerstenwalde-tornado-feuerwehr-einsatz-schaeden.html",
+      "date": "Wed, 19 Aug 2026 20:17:07 +0200"
+    },
+    {
       "title": "Senatsverwaltungen nach Hackerangriff weiter vom Landesnetz getrennt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-it-hackerangriff-weiterhin-probleme-verwaltung-wegner.html",
       "date": "Wed, 19 Aug 2026 18:47:22 +0200"
@@ -176,16 +186,6 @@
       "title": "rbb24.de führt ARD-Login für die Kommentarfunktion ein",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/rbb24-kommentarfunktion-ARD-Login.html",
       "date": "Wed, 19 Aug 2026 11:05:54 +0200"
-    },
-    {
-      "title": "Durchsuchungen der Polizei im Kampf gegen Schusswaffengewalt in Berlin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-schusswaffen-polizei-sondereinheit-ferrum-durchsuchungen.html",
-      "date": "Wed, 19 Aug 2026 10:39:09 +0200"
-    },
-    {
-      "title": "Urteil nach Todesfahrt in Teltow: Täter muss in psychiatrische Klinik für Straftäter",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/teltow-urteil-mauerweg-autofahrer-todesfahrt-.html",
-      "date": "Wed, 19 Aug 2026 10:26:21 +0200"
     }
   ]
 }
