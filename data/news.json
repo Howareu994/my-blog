@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Basketball-WM in Berlin für Alba-Spielerinnen \"super besonders\"",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/basketball-wm-frauen-berlin-alba-nina-rosemeyer-alina-hartmann-dbb-nominierung-ziel-bundestrainer-olaf-lange.html",
+      "date": "Wed, 19 Aug 2026 06:14:33 +0200"
+    },
+    {
       "title": "Urteil nach Todesfahrt in Teltow - Täter muss in Maßregelvollzug",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/teltow-urteil-mauerweg-autofahrer-todesfahrt-.html",
       "date": "Tue, 18 Aug 2026 21:55:48 +0200"
@@ -54,11 +59,6 @@
       "title": "Berliner Aquarium wieder vollständig geöffnet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/aquarium-berliner-zoo-wiedereroeffnung.html",
       "date": "Tue, 18 Aug 2026 15:24:38 +0200"
-    },
-    {
-      "title": "Signalstörung führt zu Problemen bei mehreren S-Bahnlinien",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/signalstoerung-s-bahn-berlin-friedrichstrasse.html",
-      "date": "Tue, 18 Aug 2026 14:17:20 +0200"
     }
   ],
   "police": [
