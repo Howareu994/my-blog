@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Berlin-Frohnau: Person bei Brand lebensbedrohlich verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-frohnau-brand-verletzt-feuerwehr.html",
+      "date": "Wed, 19 Aug 2026 07:51:44 +0200"
+    },
+    {
       "title": "Basketball-WM in Berlin für Alba-Spielerinnen \"super besonders\"",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/basketball-wm-frauen-berlin-alba-nina-rosemeyer-alina-hartmann-dbb-nominierung-ziel-bundestrainer-olaf-lange.html",
       "date": "Wed, 19 Aug 2026 06:14:33 +0200"
@@ -54,11 +59,6 @@
       "title": "Hochhaus-Brand in Friedrichshain: Ursache wohl technischer Defekt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-friedrichshain-brand-wohnhaus-fahrlaessige-vorsaetzliche-brandstiftung.html",
       "date": "Tue, 18 Aug 2026 15:56:51 +0200"
-    },
-    {
-      "title": "Berliner Aquarium wieder vollständig geöffnet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/aquarium-berliner-zoo-wiedereroeffnung.html",
-      "date": "Tue, 18 Aug 2026 15:24:38 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Berlin-Frohnau: Person bei Brand lebensbedrohlich verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-frohnau-brand-verletzt-feuerwehr.html",
+      "date": "Wed, 19 Aug 2026 07:51:44 +0200"
+    },
+    {
       "title": "Urteil nach Todesfahrt in Teltow - Täter muss in Maßregelvollzug",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/teltow-urteil-mauerweg-autofahrer-todesfahrt-.html",
       "date": "Tue, 18 Aug 2026 21:55:48 +0200"
@@ -181,11 +186,6 @@
       "title": "Trockenheit in Brandenburg: Wie gerecht ist Wasser verteilt?",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/wasser-brandenburg-trockenheit-trinkwasser-wasserreserven-verteilung.html",
       "date": "Tue, 18 Aug 2026 13:28:20 +0200"
-    },
-    {
-      "title": "Fußgänger von Lkw-Fahrer in Berlin-Westend erfasst und gestorben",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-westend-lkw-unfall-fussgaenger-gestorben.html",
-      "date": "Tue, 18 Aug 2026 13:09:07 +0200"
     }
   ]
 }
