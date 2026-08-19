@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Berlin-Frohnau: Frau bei Brand lebensbedrohlich verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-frohnau-brand-verletzt-feuerwehr.html",
+      "date": "Wed, 19 Aug 2026 14:08:57 +0200"
+    },
+    {
+      "title": "Berlin: Online-Anträge auf Briefwahl nur eingeschränkt möglich",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/08/berlin-senatsverwaltung-hackerangriff-cybersicherheit-systeme-eingeschraenkt.html",
+      "date": "Wed, 19 Aug 2026 13:43:29 +0200"
+    },
+    {
       "title": "Berlin: Mann von Boot geschleudert bei Verpuffung in Rummelsburger Bucht",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-rummelsburger-bucht-verpuffung-boot.html",
       "date": "Wed, 19 Aug 2026 13:11:54 +0200"
@@ -36,11 +46,6 @@
       "date": "Wed, 19 Aug 2026 10:47:51 +0200"
     },
     {
-      "title": "Berlin-Frohnau: Person bei Brand lebensbedrohlich verletzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-frohnau-brand-verletzt-feuerwehr.html",
-      "date": "Wed, 19 Aug 2026 10:42:35 +0200"
-    },
-    {
       "title": "Durchsuchungen der Polizei im Kampf gegen Schusswaffengewalt in Berlin",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-schusswaffen-polizei-sondereinheit-ferrum-durchsuchungen.html",
       "date": "Wed, 19 Aug 2026 10:39:09 +0200"
@@ -54,14 +59,19 @@
       "title": "Madonna, Elvis Presley und Tina Turner: Stahnsdorf soll Rockmusiker-Viertel bekommen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/stahnsdorf-strassennamen-rockmusiker-bernd-albers-brandenburg.html",
       "date": "Wed, 19 Aug 2026 10:08:00 +0200"
-    },
-    {
-      "title": "Hackerangriff auf Berliner IT: Online-Anträge auf Briefwahl nicht möglich",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/08/berlin-senatsverwaltung-hackerangriff-cybersicherheit-systeme-eingeschraenkt.html",
-      "date": "Wed, 19 Aug 2026 09:11:41 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Regenbogenflagge beschädigt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704843.php",
+      "date": "Wed, 19 Aug 2026 13:38:40 +0200"
+    },
+    {
+      "title": "Radfahrer nach Unfall mit Autotür verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704835.php",
+      "date": "Wed, 19 Aug 2026 13:23:09 +0200"
+    },
     {
       "title": "18-Jähriger mit Schusswaffe bedroht und ausgeraubt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704821.php",
@@ -111,22 +121,17 @@
       "title": "Sachbeschädigung durch Schussabgabe",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703702.php",
       "date": "Mon, 17 Aug 2026 11:49:48 +0200"
-    },
-    {
-      "title": "Mehrfach gegen den Kopf getreten",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703515.php",
-      "date": "Sun, 16 Aug 2026 13:19:01 +0200"
-    },
-    {
-      "title": "Streitigkeiten mit Messer und Flaschenhieb ausgetragen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703514.php",
-      "date": "Sun, 16 Aug 2026 13:15:46 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Berlin-Frohnau: Frau bei Brand lebensbedrohlich verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-frohnau-brand-verletzt-feuerwehr.html",
+      "date": "Wed, 19 Aug 2026 14:08:57 +0200"
+    },
     {
       "title": "Berlin: Mann von Boot geschleudert bei Verpuffung in Rummelsburger Bucht",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-rummelsburger-bucht-verpuffung-boot.html",
@@ -141,11 +146,6 @@
       "title": "rbb24.de führt ARD-Login für die Kommentarfunktion ein",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/rbb24-kommentarfunktion-ARD-Login.html",
       "date": "Wed, 19 Aug 2026 11:05:54 +0200"
-    },
-    {
-      "title": "Berlin-Frohnau: Person bei Brand lebensbedrohlich verletzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-frohnau-brand-verletzt-feuerwehr.html",
-      "date": "Wed, 19 Aug 2026 10:42:35 +0200"
     },
     {
       "title": "Durchsuchungen der Polizei im Kampf gegen Schusswaffengewalt in Berlin",
