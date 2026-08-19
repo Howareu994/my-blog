@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Hackerangriff auf Berliner IT: Online-Anträge auf Briefwahl nicht möglich",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/08/berlin-senatsverwaltung-hackerangriff-cybersicherheit-systeme-eingeschraenkt.html",
+      "date": "Wed, 19 Aug 2026 09:11:41 +0200"
+    },
+    {
       "title": "Berlin-Frohnau: Person bei Brand lebensbedrohlich verletzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-frohnau-brand-verletzt-feuerwehr.html",
       "date": "Wed, 19 Aug 2026 07:51:44 +0200"
@@ -19,11 +24,6 @@
       "title": "Niedrigwasser in der Spree: Weitere Maßnahmen eingeleitet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/spree-niedrigwasser-brandenburg-trockenheit-konzept-massnahmen.html",
       "date": "Tue, 18 Aug 2026 19:36:20 +0200"
-    },
-    {
-      "title": "Hackerangriff auf Berliner IT: Online-Anträge auf Briefwahl nicht möglich",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/08/berlin-senatsverwaltung-hackerangriff-cybersicherheit-systeme-eingeschraenkt.html",
-      "date": "Tue, 18 Aug 2026 19:26:47 +0200"
     },
     {
       "title": "Kommentar: Datenhack offenbart Berlins IT-Schwäche",
