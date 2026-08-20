@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Lauf-Event \"Die Generalprobe\": Strecke und Straßensperrungen",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/laufen-event-die-generalprobe-halbmarathon-marathon-berlin-strecke-strassen-sperrungen-steglitz-schlossstrasse.html",
+      "date": "Thu, 20 Aug 2026 19:52:46 +0200"
+    },
+    {
       "title": "Geldtransporter vor Supermarkt in Berlin-Lankwitz überfallen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/ueberfall-geldtransporter-supermarkt-berlin-lankwitz.html",
       "date": "Thu, 20 Aug 2026 19:11:59 +0200"
@@ -54,11 +59,6 @@
       "title": "Oberhavel will Busverkehr ausdünnen - und vermehrt den Rufbus einsetzen",
       "link": "https://www.rbb24.de/politik/beitrag/2026/08/oberhavel-haushalt-finanzen-sparen-bus-verbindung-verkehr-oepnv.html",
       "date": "Thu, 20 Aug 2026 15:24:57 +0200"
-    },
-    {
-      "title": "Durchsuchungen der Polizei im Kampf gegen Schusswaffengewalt in Berlin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-schusswaffen-polizei-sondereinheit-ferrum-durchsuchungen.html",
-      "date": "Thu, 20 Aug 2026 14:40:04 +0200"
     }
   ],
   "police": [
