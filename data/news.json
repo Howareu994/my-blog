@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Tornado in Fürstenwalde: Interview mit Wetter-Experten",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/tornado-sturm-fuerstenwalde-wetterexperte-meteorologie-.html",
+      "date": "Thu, 20 Aug 2026 13:06:33 +0200"
+    },
+    {
       "title": "Senatorin Badenberg lässt Doktorarbeit nach Plagiatsvorwürfen prüfen",
       "link": "https://www.rbb24.de/politik/beitrag/2026/08/justiz-senatorin-felor-badenberg-doktorarbeit-plagiatsvorwuerfe-universitaet-prueft.html",
       "date": "Thu, 20 Aug 2026 12:11:40 +0200"
@@ -54,14 +59,24 @@
       "title": "Für immer und dich - vor 30 Jahren starb Rio Reiser",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/08/rio-reiser-30-Todestag-koenig-von-deutschland-berlin-ton-steine-scherben.html",
       "date": "Thu, 20 Aug 2026 08:32:58 +0200"
-    },
-    {
-      "title": "Online-Portal für Briefwahlen soll wieder funktionieren",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-senatsverwaltung-hackerangriff-online-portal-briefwahlunterlagen.html",
-      "date": "Thu, 20 Aug 2026 08:02:04 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Kind von Erwachsenen geschlagen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705349.php",
+      "date": "Thu, 20 Aug 2026 12:54:00 +0200"
+    },
+    {
+      "title": "Senior bei Verkehrsunfall verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705347.php",
+      "date": "Thu, 20 Aug 2026 12:52:00 +0200"
+    },
+    {
+      "title": "Sachbeschädigungen an Wahlplakaten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705339.php",
+      "date": "Thu, 20 Aug 2026 12:49:00 +0200"
+    },
     {
       "title": "Festnahmen nach versuchtem Trickdiebstahl",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704883.php",
@@ -83,11 +98,6 @@
       "date": "Wed, 19 Aug 2026 13:02:00 +0200"
     },
     {
-      "title": "Sachbeschädigungen an Wahlplakaten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704769.php",
-      "date": "Wed, 19 Aug 2026 12:23:00 +0200"
-    },
-    {
       "title": "Vermisster Demenzkranker wohlbehalten im Krankenhaus",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704457.php",
       "date": "Wed, 19 Aug 2026 11:28:00 +0200"
@@ -106,27 +116,17 @@
       "title": "Mahnmal beschmiert",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704240.php",
       "date": "Tue, 18 Aug 2026 12:47:19 +0200"
-    },
-    {
-      "title": "Autofahrerin bei Unfall verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704179.php",
-      "date": "Tue, 18 Aug 2026 11:34:24 +0200"
-    },
-    {
-      "title": "Sachbeschädigungen an und Diebstahl von Wahlplakaten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703842.php",
-      "date": "Mon, 17 Aug 2026 14:24:54 +0200"
-    },
-    {
-      "title": "Erheblich verletzter Radfahrer",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703817.php",
-      "date": "Mon, 17 Aug 2026 13:38:34 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Tornado in Fürstenwalde: Interview mit Wetter-Experten",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/tornado-sturm-fuerstenwalde-wetterexperte-meteorologie-.html",
+      "date": "Thu, 20 Aug 2026 13:06:33 +0200"
+    },
     {
       "title": "Mehr als 300 Kinder bei Verkehrsunfällen in Berlin verletzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-333-kinder-bei-verkehrsunfaellen-verletzt-oder-getoetet.html",
@@ -181,11 +181,6 @@
       "title": "Berlin: Mann von Boot geschleudert bei Verpuffung in Rummelsburger Bucht",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-rummelsburger-bucht-verpuffung-boot.html",
       "date": "Wed, 19 Aug 2026 15:12:53 +0200"
-    },
-    {
-      "title": "Berlin-Frohnau: Frau bei Brand lebensbedrohlich verletzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-frohnau-brand-verletzt-feuerwehr.html",
-      "date": "Wed, 19 Aug 2026 14:08:57 +0200"
     }
   ]
 }
