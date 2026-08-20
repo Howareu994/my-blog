@@ -1,14 +1,19 @@
 {
   "traffic": [
     {
-      "title": "Tornado in Fürstenwalde: Interview mit Wetter-Experten",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/tornado-sturm-fuerstenwalde-wetterexperte-meteorologie-.html",
-      "date": "Thu, 20 Aug 2026 13:06:33 +0200"
+      "title": "Fußball-Bundesliga: Union Berlin verlängert mit Andrej Ilić",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-bundesliga-union-berlin-vertragsverlaengerung-andrej-ilic.html",
+      "date": "Thu, 20 Aug 2026 13:34:38 +0200"
     },
     {
       "title": "Senatorin Badenberg lässt Doktorarbeit nach Plagiatsvorwürfen prüfen",
       "link": "https://www.rbb24.de/politik/beitrag/2026/08/justiz-senatorin-felor-badenberg-doktorarbeit-plagiatsvorwuerfe-universitaet-prueft.html",
-      "date": "Thu, 20 Aug 2026 12:11:40 +0200"
+      "date": "Thu, 20 Aug 2026 13:26:35 +0200"
+    },
+    {
+      "title": "Tornado in Fürstenwalde: Interview mit Wetter-Experten",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/tornado-sturm-fuerstenwalde-wetterexperte-meteorologie-.html",
+      "date": "Thu, 20 Aug 2026 13:06:33 +0200"
     },
     {
       "title": "2. Fußball-Bundesliga: Hertha BSC leiht Alfa-Ruprecht aus",
@@ -54,14 +59,14 @@
       "title": "Hackerangriff: \"Die Ermittlungen laufen, wann er ins System kam\"",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-it-hackerangriff-weiterhin-probleme-verwaltung-wegner.html",
       "date": "Thu, 20 Aug 2026 09:56:22 +0200"
-    },
-    {
-      "title": "Für immer und dich - vor 30 Jahren starb Rio Reiser",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/08/rio-reiser-30-Todestag-koenig-von-deutschland-berlin-ton-steine-scherben.html",
-      "date": "Thu, 20 Aug 2026 08:32:58 +0200"
     }
   ],
   "police": [
+    {
+      "title": "BAO Ferrum und EG Telum: Bekämpfung der Schusswaffenkriminalität – Festnahmen wegen versuchten Mordes, Erpressung und des Verstoßes gegen das Waffengesetz",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705410.php",
+      "date": "Thu, 20 Aug 2026 13:45:00 +0200"
+    },
     {
       "title": "Kind von Erwachsenen geschlagen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705349.php",
@@ -111,11 +116,6 @@
       "title": "Festnahmen nach Trickdiebstahl in Wohnung",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704379.php",
       "date": "Tue, 18 Aug 2026 15:14:37 +0200"
-    },
-    {
-      "title": "Mahnmal beschmiert",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704240.php",
-      "date": "Tue, 18 Aug 2026 12:47:19 +0200"
     }
   ],
   "free_events": [],
