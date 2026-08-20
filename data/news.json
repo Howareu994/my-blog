@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Ein Monat vor der AGH-Wahl: Kopf an Kopf an Kopf an Kopf",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-agh-wahl-ein-monat-vorher-rotes-rathaus.html",
+      "date": "Thu, 20 Aug 2026 06:10:54 +0200"
+    },
+    {
       "title": "Tornado in Fürstenwalde deckt Dächer ab und wirft Bäume um",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/fuerstenwalde-tornado-feuerwehr-einsatz-schaeden.html",
       "date": "Wed, 19 Aug 2026 22:20:23 +0200"
@@ -49,16 +54,6 @@
       "title": "Übung in Lehnin: Wie Waldbrände mit Feuer bekämpft werden",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/waldbrand-flammen-gegenfeuer-at-fire-lehnin-uebung-bundeswehr-brennkanne.html",
       "date": "Wed, 19 Aug 2026 16:28:46 +0200"
-    },
-    {
-      "title": "Waldbrandbericht 2025: Mehr als 300 Waldbrände in Brandenburg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-waldbraende-waldbrandbericht-2025-.html",
-      "date": "Wed, 19 Aug 2026 16:25:36 +0200"
-    },
-    {
-      "title": "Königs Wusterhausen: Mast 17 auf Funkerberg wird umfassend saniert",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/koenigs-wusterhausen-mast-17-funkerberg-sanierung-denkmalgerecht.html",
-      "date": "Wed, 19 Aug 2026 16:25:02 +0200"
     }
   ],
   "police": [
