@@ -1,14 +1,24 @@
 {
   "traffic": [
     {
-      "title": "Senatorin Badenberg lässt Doktorarbeit nach Plagiatsvorwürfen prüfen",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/08/justiz-senatorin-felor-badenberg-doktorarbeit-plagiatsvorwuerfe-universitaet-prueft.html",
-      "date": "Thu, 20 Aug 2026 09:08:26 +0200"
+      "title": "Missbrauchsvorwürfe: Anklage gegen Kinderarzt der Havelland-Kliniken zugelassen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/arzt-havelland-kindesmissbrauch-anklage-gericht-prozess.html",
+      "date": "Thu, 20 Aug 2026 10:16:10 +0200"
     },
     {
-      "title": "Senatsverwaltungen nach Hackerangriff weiter vom Landesnetz getrennt",
+      "title": "Kopf an Kopf an Kopf: So eng war es in den Umfragen noch nie",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-agh-wahl-ein-monat-vorher-rotes-rathaus.html",
+      "date": "Thu, 20 Aug 2026 10:05:12 +0200"
+    },
+    {
+      "title": "Hackerangriff: \"Die Ermittlungen laufen, wann er ins System kam\"",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-it-hackerangriff-weiterhin-probleme-verwaltung-wegner.html",
-      "date": "Thu, 20 Aug 2026 08:56:39 +0200"
+      "date": "Thu, 20 Aug 2026 09:56:22 +0200"
+    },
+    {
+      "title": "Senatorin Badenberg lässt Doktorarbeit nach Plagiatsvorwürfen prüfen",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/08/justiz-senatorin-felor-badenberg-doktorarbeit-plagiatsvorwuerfe-universitaet-prueft.html",
+      "date": "Thu, 20 Aug 2026 09:41:19 +0200"
     },
     {
       "title": "Für immer und dich - vor 30 Jahren starb Rio Reiser",
@@ -24,11 +34,6 @@
       "title": "Online-Portal für Briefwahlen soll wieder funktionieren",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-senatsverwaltung-hackerangriff-online-portal-briefwahlunterlagen.html",
       "date": "Thu, 20 Aug 2026 08:02:04 +0200"
-    },
-    {
-      "title": "Ein Monat vor der AGH-Wahl: Kopf an Kopf an Kopf an Kopf",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-agh-wahl-ein-monat-vorher-rotes-rathaus.html",
-      "date": "Thu, 20 Aug 2026 06:10:54 +0200"
     },
     {
       "title": "Landespokal Berlin: VSG Altglienicke souverän eine Runde weiter",
@@ -54,11 +59,6 @@
       "title": "Am Späti in Berlin-Haselhorst: \"Ich brauche diese Action\"",
       "link": "https://www.rbb24.de/panorama/thema/spaeti/berlin-haselhorst-am-spaeti-bundeswehr.html",
       "date": "Wed, 19 Aug 2026 17:48:27 +0200"
-    },
-    {
-      "title": "Sieg gegen USA: Deutsche Hockey-Frauen stehen in WM-Zwischenrunde",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/hockey-wm-frauen-vorrunde-deutschland-usa-sieg-zwischenrunden-ticket.html",
-      "date": "Wed, 19 Aug 2026 16:59:18 +0200"
     }
   ],
   "police": [
@@ -128,9 +128,14 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Senatsverwaltungen nach Hackerangriff weiter vom Landesnetz getrennt",
+      "title": "Missbrauchsvorwürfe: Anklage gegen Kinderarzt der Havelland-Kliniken zugelassen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/arzt-havelland-kindesmissbrauch-anklage-gericht-prozess.html",
+      "date": "Thu, 20 Aug 2026 10:16:10 +0200"
+    },
+    {
+      "title": "Hackerangriff: \"Die Ermittlungen laufen, wann er ins System kam\"",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-it-hackerangriff-weiterhin-probleme-verwaltung-wegner.html",
-      "date": "Thu, 20 Aug 2026 08:56:39 +0200"
+      "date": "Thu, 20 Aug 2026 09:56:22 +0200"
     },
     {
       "title": "Waldbrandbericht 2025: Mehr als 300 Waldbrände in Brandenburg",
@@ -181,11 +186,6 @@
       "title": "Potsdam: Forschende enträtseln Eigenschaften von Schneckenschleim",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/potsdam-max-plank-institut-schleim-schnecken-klebstoff-forschung-wissenschaft.html",
       "date": "Wed, 19 Aug 2026 12:46:00 +0200"
-    },
-    {
-      "title": "rbb24.de führt ARD-Login für die Kommentarfunktion ein",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/rbb24-kommentarfunktion-ARD-Login.html",
-      "date": "Wed, 19 Aug 2026 11:05:54 +0200"
     }
   ]
 }
