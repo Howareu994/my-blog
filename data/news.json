@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Geldtransporter vor Supermarkt in Berlin-Lankwitz überfallen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/ueberfall-geldtransporter-supermarkt-berlin-lankwitz.html",
+      "date": "Thu, 20 Aug 2026 18:15:16 +0200"
+    },
+    {
+      "title": "Energie Cottbus trifft im DFB-Pokal auf Augsburg",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-dfb-pokal-1-runde-fc-energie-cottbus-fc-augsburg-vorbericht.html",
+      "date": "Thu, 20 Aug 2026 18:05:23 +0200"
+    },
+    {
+      "title": "Oper Oder Spree bringt \"Im weißen Rössl\" auf den Campingplatz",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/08/oper-oder-spree-im-weissen-roessl-neuzelle-beeskow-frankfurt.html",
+      "date": "Thu, 20 Aug 2026 17:53:50 +0200"
+    },
+    {
       "title": "Hackerangriff: Einschränkungen bei Bürgerdiensten in Berlin",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-it-hackerangriff-weiterhin-probleme-verwaltung-wegner.html",
       "date": "Thu, 20 Aug 2026 17:19:46 +0200"
@@ -21,6 +36,11 @@
       "date": "Thu, 20 Aug 2026 16:17:51 +0200"
     },
     {
+      "title": "Vor Supercup-Finale gegen Magdeburg: Füchse Berlin starten in \"schwere Saison\"",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/handball-bundesliga-super-cup-fuechse-berlin-sc-magdeburg-bob-hanning-ziele-vorbericht.html",
+      "date": "Thu, 20 Aug 2026 16:17:00 +0200"
+    },
+    {
       "title": "35-Jähriger stirbt nach Sturz von Gerüst in Frankfurt (Oder)",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/unfall-baustelle-frankfurt-oder-mann-gestorben.html",
       "date": "Thu, 20 Aug 2026 16:00:16 +0200"
@@ -39,26 +59,6 @@
       "title": "Durchsuchungen der Polizei im Kampf gegen Schusswaffengewalt in Berlin",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-schusswaffen-polizei-sondereinheit-ferrum-durchsuchungen.html",
       "date": "Thu, 20 Aug 2026 14:40:04 +0200"
-    },
-    {
-      "title": "Senatorin Badenberg lässt Doktorarbeit nach Plagiatsvorwürfen prüfen",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/08/justiz-senatorin-felor-badenberg-doktorarbeit-plagiatsvorwuerfe-universitaet-prueft.html",
-      "date": "Thu, 20 Aug 2026 14:34:41 +0200"
-    },
-    {
-      "title": "Fußball-Bundesliga: Union Berlin verlängert mit Andrej Ilić",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-bundesliga-union-berlin-vertragsverlaengerung-andrej-ilic.html",
-      "date": "Thu, 20 Aug 2026 13:34:38 +0200"
-    },
-    {
-      "title": "Tornado in Fürstenwalde: Interview mit Wetter-Experten",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/tornado-sturm-fuerstenwalde-wetterexperte-meteorologie-.html",
-      "date": "Thu, 20 Aug 2026 13:06:33 +0200"
-    },
-    {
-      "title": "2. Fußball-Bundesliga: Hertha BSC leiht Alfa-Ruprecht aus",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-zweite-bundesliga-hertha-bsc-leihe-transfer-farid-alfa-ruprecht-bayer-04-leverkusen-winkler-ersatz.html",
-      "date": "Thu, 20 Aug 2026 11:26:25 +0200"
     }
   ],
   "police": [
@@ -123,6 +123,16 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Geldtransporter vor Supermarkt in Berlin-Lankwitz überfallen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/ueberfall-geldtransporter-supermarkt-berlin-lankwitz.html",
+      "date": "Thu, 20 Aug 2026 18:15:16 +0200"
+    },
+    {
+      "title": "Tagung in Cottbus: Experten wollen von Branitzer Baumuniversität lernen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-deutsches-forum-kulturlandschaft-2026-branitz-tagung.html",
+      "date": "Thu, 20 Aug 2026 17:34:40 +0200"
+    },
+    {
       "title": "Hackerangriff: Einschränkungen bei Bürgerdiensten in Berlin",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-it-hackerangriff-weiterhin-probleme-verwaltung-wegner.html",
       "date": "Thu, 20 Aug 2026 17:19:46 +0200"
@@ -171,16 +181,6 @@
       "title": "Missbrauchsvorwürfe: Anklage gegen Kinderarzt der Havelland-Kliniken zugelassen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/arzt-havelland-kindesmissbrauch-anklage-gericht-prozess.html",
       "date": "Thu, 20 Aug 2026 10:16:10 +0200"
-    },
-    {
-      "title": "Waldbrandbericht 2025: Mehr als 300 Waldbrände in Brandenburg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-waldbraende-waldbrandbericht-2025-.html",
-      "date": "Thu, 20 Aug 2026 08:23:00 +0200"
-    },
-    {
-      "title": "Mehrere Berliner Freibäder bis in den September geöffnet, Hallenbäder starten Betrieb",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-infos-start-saison-hallenbaeder-herbst.html",
-      "date": "Wed, 19 Aug 2026 20:18:25 +0200"
     }
   ]
 }
