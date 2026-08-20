@@ -1,6 +1,26 @@
 {
   "traffic": [
     {
+      "title": "Marihuana-Schmuggel: Langjährige Haftstrafen für drei Angeklagte",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/marihuana-schmuggel-haftstrafen-landgericht-berlin.html",
+      "date": "Thu, 20 Aug 2026 16:17:51 +0200"
+    },
+    {
+      "title": "35-Jähriger stirbt nach Sturz von Gerüst in Frankfurt (Oder)",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/unfall-baustelle-frankfurt-oder-mann-gestorben.html",
+      "date": "Thu, 20 Aug 2026 16:00:16 +0200"
+    },
+    {
+      "title": "Wasserstand der Oder erreicht in Frankfurt neuen Negativrekord",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/niedrigwasser-oder-brandenburg-frankfurt.html",
+      "date": "Thu, 20 Aug 2026 15:50:15 +0200"
+    },
+    {
+      "title": "Oberhavel will Busverkehr ausdünnen - und vermehrt den Rufbus einsetzen",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/08/oberhavel-haushalt-finanzen-sparen-bus-verbindung-verkehr-oepnv.html",
+      "date": "Thu, 20 Aug 2026 15:24:57 +0200"
+    },
+    {
       "title": "Durchsuchungen der Polizei im Kampf gegen Schusswaffengewalt in Berlin",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-schusswaffen-polizei-sondereinheit-ferrum-durchsuchungen.html",
       "date": "Thu, 20 Aug 2026 14:40:04 +0200"
@@ -39,33 +59,84 @@
       "title": "Türkischer Bund wirbt mit Kampagne für Berlin-Wahl",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/tuerkischer-bund-berlin-brandenburg-kampagne-wahl-community.html",
       "date": "Thu, 20 Aug 2026 11:13:50 +0200"
-    },
-    {
-      "title": "Tornado in Fürstenwalde deckt Dächer ab und wirft Bäume um",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/fuerstenwalde-tornado-feuerwehr-einsatz-schaeden.html",
-      "date": "Thu, 20 Aug 2026 11:08:53 +0200"
-    },
-    {
-      "title": "Schwimmer Melvin Imoudu: \"Nach Paris fahre ich erstmal nicht mehr\"",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/schwimmen-brandenburg-melvin-imoudu-potsdam-rekord-em-olympia-interview.html",
-      "date": "Thu, 20 Aug 2026 10:23:51 +0200"
-    },
-    {
-      "title": "Missbrauchsvorwürfe: Anklage gegen Kinderarzt der Havelland-Kliniken zugelassen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/arzt-havelland-kindesmissbrauch-anklage-gericht-prozess.html",
-      "date": "Thu, 20 Aug 2026 10:16:10 +0200"
-    },
-    {
-      "title": "Kopf an Kopf an Kopf: So eng war es in den Umfragen noch nie",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-agh-wahl-ein-monat-vorher-rotes-rathaus.html",
-      "date": "Thu, 20 Aug 2026 10:05:12 +0200"
     }
   ],
-  "police": [],
+  "police": [
+    {
+      "title": "BAO Ferrum und EG Telum: Bekämpfung der Schusswaffenkriminalität – Festnahmen wegen versuchten Mordes, Erpressung und des Verstoßes gegen das Waffengesetz",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705410.php",
+      "date": "Thu, 20 Aug 2026 13:45:00 +0200"
+    },
+    {
+      "title": "Kind von Erwachsenen geschlagen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705349.php",
+      "date": "Thu, 20 Aug 2026 12:54:00 +0200"
+    },
+    {
+      "title": "Senior bei Verkehrsunfall verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705347.php",
+      "date": "Thu, 20 Aug 2026 12:52:00 +0200"
+    },
+    {
+      "title": "Sachbeschädigungen an Wahlplakaten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705339.php",
+      "date": "Thu, 20 Aug 2026 12:49:00 +0200"
+    },
+    {
+      "title": "Festnahmen nach versuchtem Trickdiebstahl",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704883.php",
+      "date": "Wed, 19 Aug 2026 14:18:54 +0200"
+    },
+    {
+      "title": "Regenbogenflagge beschädigt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704843.php",
+      "date": "Wed, 19 Aug 2026 13:38:40 +0200"
+    },
+    {
+      "title": "Radfahrer nach Unfall mit Autotür verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704835.php",
+      "date": "Wed, 19 Aug 2026 13:23:09 +0200"
+    },
+    {
+      "title": "18-Jähriger mit Schusswaffe bedroht und ausgeraubt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704821.php",
+      "date": "Wed, 19 Aug 2026 13:02:00 +0200"
+    },
+    {
+      "title": "Vermisster Demenzkranker wohlbehalten im Krankenhaus",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704457.php",
+      "date": "Wed, 19 Aug 2026 11:28:00 +0200"
+    },
+    {
+      "title": "Touristin bei Verkehrsunfall verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704662.php",
+      "date": "Wed, 19 Aug 2026 10:35:00 +0200"
+    },
+    {
+      "title": "Festnahmen nach Trickdiebstahl in Wohnung",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704379.php",
+      "date": "Tue, 18 Aug 2026 15:14:37 +0200"
+    }
+  ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Marihuana-Schmuggel: Langjährige Haftstrafen für drei Angeklagte",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/marihuana-schmuggel-haftstrafen-landgericht-berlin.html",
+      "date": "Thu, 20 Aug 2026 16:17:51 +0200"
+    },
+    {
+      "title": "35-Jähriger stirbt nach Sturz von Gerüst in Frankfurt (Oder)",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/unfall-baustelle-frankfurt-oder-mann-gestorben.html",
+      "date": "Thu, 20 Aug 2026 16:00:16 +0200"
+    },
+    {
+      "title": "Wasserstand der Oder erreicht in Frankfurt neuen Negativrekord",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/niedrigwasser-oder-brandenburg-frankfurt.html",
+      "date": "Thu, 20 Aug 2026 15:50:15 +0200"
+    },
     {
       "title": "Durchsuchungen der Polizei im Kampf gegen Schusswaffengewalt in Berlin",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-schusswaffen-polizei-sondereinheit-ferrum-durchsuchungen.html",
@@ -110,21 +181,6 @@
       "title": "Am Späti in Berlin-Haselhorst: \"Ich brauche diese Action\"",
       "link": "https://www.rbb24.de/panorama/thema/spaeti/berlin-haselhorst-am-spaeti-bundeswehr.html",
       "date": "Wed, 19 Aug 2026 17:48:27 +0200"
-    },
-    {
-      "title": "Übung in Lehnin: Wie Waldbrände mit Feuer bekämpft werden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/waldbrand-flammen-gegenfeuer-at-fire-lehnin-uebung-bundeswehr-brennkanne.html",
-      "date": "Wed, 19 Aug 2026 16:28:46 +0200"
-    },
-    {
-      "title": "Königs Wusterhausen: Mast 17 auf Funkerberg wird umfassend saniert",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/koenigs-wusterhausen-mast-17-funkerberg-sanierung-denkmalgerecht.html",
-      "date": "Wed, 19 Aug 2026 16:25:02 +0200"
-    },
-    {
-      "title": "Polizei durchsucht Wohnung wegen Ermittlungen zu Kinderpornografie",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-razzia-kinderpornografie.html",
-      "date": "Wed, 19 Aug 2026 15:56:06 +0200"
     }
   ]
 }
