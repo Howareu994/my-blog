@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Hackerangriff: Einschränkungen bei Bürgerdiensten in Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-it-hackerangriff-weiterhin-probleme-verwaltung-wegner.html",
+      "date": "Thu, 20 Aug 2026 20:55:39 +0200"
+    },
+    {
+      "title": "Hertha zu Gast in Saarbrücken: Auch im DFB-Pokal auf Erfolgskurs?",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-hertha-bsc-saarbruecken-dfb-pokal-vorbericht-erste-runde.html",
+      "date": "Thu, 20 Aug 2026 20:25:12 +0200"
+    },
+    {
       "title": "Lauf-Event \"Die Generalprobe\": Strecke und Straßensperrungen",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/laufen-event-die-generalprobe-halbmarathon-marathon-berlin-strecke-strassen-sperrungen-steglitz-schlossstrasse.html",
       "date": "Thu, 20 Aug 2026 19:52:46 +0200"
@@ -19,16 +29,6 @@
       "title": "Berlin Museum ruft zum Einsenden von Einschulungsfotos auf",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/08/berlin-museum-einschulungsfotosbilder-geschichte-ephraim-palais.html",
       "date": "Thu, 20 Aug 2026 18:28:42 +0200"
-    },
-    {
-      "title": "Energie Cottbus trifft im DFB-Pokal auf Augsburg",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-dfb-pokal-1-runde-fc-energie-cottbus-fc-augsburg-vorbericht.html",
-      "date": "Thu, 20 Aug 2026 18:05:23 +0200"
-    },
-    {
-      "title": "Hackerangriff: Einschränkungen bei Bürgerdiensten in Berlin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-it-hackerangriff-weiterhin-probleme-verwaltung-wegner.html",
-      "date": "Thu, 20 Aug 2026 17:19:46 +0200"
     },
     {
       "title": "Am Späti in Berlin-Altglienicke: \"Es wurmt mich, dass das Alter keine große Chance hat\"",
@@ -123,6 +123,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Hackerangriff: Einschränkungen bei Bürgerdiensten in Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-it-hackerangriff-weiterhin-probleme-verwaltung-wegner.html",
+      "date": "Thu, 20 Aug 2026 20:55:39 +0200"
+    },
+    {
       "title": "Geldtransporter vor Supermarkt in Berlin-Lankwitz überfallen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/ueberfall-geldtransporter-supermarkt-berlin-lankwitz.html",
       "date": "Thu, 20 Aug 2026 19:11:59 +0200"
@@ -136,11 +141,6 @@
       "title": "Tagung in Cottbus: Experten wollen von Branitzer Baumuniversität lernen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-deutsches-forum-kulturlandschaft-2026-branitz-tagung.html",
       "date": "Thu, 20 Aug 2026 17:34:40 +0200"
-    },
-    {
-      "title": "Hackerangriff: Einschränkungen bei Bürgerdiensten in Berlin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-it-hackerangriff-weiterhin-probleme-verwaltung-wegner.html",
-      "date": "Thu, 20 Aug 2026 17:19:46 +0200"
     },
     {
       "title": "Am Späti in Berlin-Altglienicke: \"Es wurmt mich, dass das Alter keine große Chance hat\"",
