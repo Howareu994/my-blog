@@ -1,14 +1,19 @@
 {
   "traffic": [
     {
-      "title": "Fußball-Bundesliga: Union Berlin verlängert mit Andrej Ilić",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-bundesliga-union-berlin-vertragsverlaengerung-andrej-ilic.html",
-      "date": "Thu, 20 Aug 2026 13:34:38 +0200"
+      "title": "Durchsuchungen der Polizei im Kampf gegen Schusswaffengewalt in Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-schusswaffen-polizei-sondereinheit-ferrum-durchsuchungen.html",
+      "date": "Thu, 20 Aug 2026 14:40:04 +0200"
     },
     {
       "title": "Senatorin Badenberg lässt Doktorarbeit nach Plagiatsvorwürfen prüfen",
       "link": "https://www.rbb24.de/politik/beitrag/2026/08/justiz-senatorin-felor-badenberg-doktorarbeit-plagiatsvorwuerfe-universitaet-prueft.html",
-      "date": "Thu, 20 Aug 2026 13:26:35 +0200"
+      "date": "Thu, 20 Aug 2026 14:34:41 +0200"
+    },
+    {
+      "title": "Fußball-Bundesliga: Union Berlin verlängert mit Andrej Ilić",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-bundesliga-union-berlin-vertragsverlaengerung-andrej-ilic.html",
+      "date": "Thu, 20 Aug 2026 13:34:38 +0200"
     },
     {
       "title": "Tornado in Fürstenwalde: Interview mit Wetter-Experten",
@@ -54,74 +59,18 @@
       "title": "Kopf an Kopf an Kopf: So eng war es in den Umfragen noch nie",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-agh-wahl-ein-monat-vorher-rotes-rathaus.html",
       "date": "Thu, 20 Aug 2026 10:05:12 +0200"
-    },
-    {
-      "title": "Hackerangriff: \"Die Ermittlungen laufen, wann er ins System kam\"",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-it-hackerangriff-weiterhin-probleme-verwaltung-wegner.html",
-      "date": "Thu, 20 Aug 2026 09:56:22 +0200"
     }
   ],
-  "police": [
-    {
-      "title": "BAO Ferrum und EG Telum: Bekämpfung der Schusswaffenkriminalität – Festnahmen wegen versuchten Mordes, Erpressung und des Verstoßes gegen das Waffengesetz",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705410.php",
-      "date": "Thu, 20 Aug 2026 13:45:00 +0200"
-    },
-    {
-      "title": "Kind von Erwachsenen geschlagen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705349.php",
-      "date": "Thu, 20 Aug 2026 12:54:00 +0200"
-    },
-    {
-      "title": "Senior bei Verkehrsunfall verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705347.php",
-      "date": "Thu, 20 Aug 2026 12:52:00 +0200"
-    },
-    {
-      "title": "Sachbeschädigungen an Wahlplakaten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705339.php",
-      "date": "Thu, 20 Aug 2026 12:49:00 +0200"
-    },
-    {
-      "title": "Festnahmen nach versuchtem Trickdiebstahl",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704883.php",
-      "date": "Wed, 19 Aug 2026 14:18:54 +0200"
-    },
-    {
-      "title": "Regenbogenflagge beschädigt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704843.php",
-      "date": "Wed, 19 Aug 2026 13:38:40 +0200"
-    },
-    {
-      "title": "Radfahrer nach Unfall mit Autotür verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704835.php",
-      "date": "Wed, 19 Aug 2026 13:23:09 +0200"
-    },
-    {
-      "title": "18-Jähriger mit Schusswaffe bedroht und ausgeraubt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704821.php",
-      "date": "Wed, 19 Aug 2026 13:02:00 +0200"
-    },
-    {
-      "title": "Vermisster Demenzkranker wohlbehalten im Krankenhaus",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704457.php",
-      "date": "Wed, 19 Aug 2026 11:28:00 +0200"
-    },
-    {
-      "title": "Touristin bei Verkehrsunfall verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704662.php",
-      "date": "Wed, 19 Aug 2026 10:35:00 +0200"
-    },
-    {
-      "title": "Festnahmen nach Trickdiebstahl in Wohnung",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704379.php",
-      "date": "Tue, 18 Aug 2026 15:14:37 +0200"
-    }
-  ],
+  "police": [],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Durchsuchungen der Polizei im Kampf gegen Schusswaffengewalt in Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-schusswaffen-polizei-sondereinheit-ferrum-durchsuchungen.html",
+      "date": "Thu, 20 Aug 2026 14:40:04 +0200"
+    },
     {
       "title": "Tornado in Fürstenwalde: Interview mit Wetter-Experten",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/tornado-sturm-fuerstenwalde-wetterexperte-meteorologie-.html",
@@ -176,11 +125,6 @@
       "title": "Polizei durchsucht Wohnung wegen Ermittlungen zu Kinderpornografie",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-razzia-kinderpornografie.html",
       "date": "Wed, 19 Aug 2026 15:56:06 +0200"
-    },
-    {
-      "title": "Berlin: Mann von Boot geschleudert bei Verpuffung in Rummelsburger Bucht",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-rummelsburger-bucht-verpuffung-boot.html",
-      "date": "Wed, 19 Aug 2026 15:12:53 +0200"
     }
   ]
 }
