@@ -1,6 +1,26 @@
 {
   "traffic": [
     {
+      "title": "Mehr als 300 Kinder bei Verkehrsunfällen in Berlin verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-333-kinder-bei-verkehrsunfaellen-verletzt-oder-getoetet.html",
+      "date": "Thu, 20 Aug 2026 11:14:53 +0200"
+    },
+    {
+      "title": "Türkischer Bund wirbt mit Kampagne für Berlin-Wahl",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/tuerkischer-bund-berlin-brandenburg-kampagne-wahl-community.html",
+      "date": "Thu, 20 Aug 2026 11:13:50 +0200"
+    },
+    {
+      "title": "Tornado in Fürstenwalde deckt Dächer ab und wirft Bäume um",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/fuerstenwalde-tornado-feuerwehr-einsatz-schaeden.html",
+      "date": "Thu, 20 Aug 2026 11:08:53 +0200"
+    },
+    {
+      "title": "Schwimmer Melvin Imoudu: \"Nach Paris fahre ich erstmal nicht mehr\"",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/schwimmen-brandenburg-melvin-imoudu-potsdam-rekord-em-olympia-interview.html",
+      "date": "Thu, 20 Aug 2026 10:23:51 +0200"
+    },
+    {
       "title": "Missbrauchsvorwürfe: Anklage gegen Kinderarzt der Havelland-Kliniken zugelassen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/arzt-havelland-kindesmissbrauch-anklage-gericht-prozess.html",
       "date": "Thu, 20 Aug 2026 10:16:10 +0200"
@@ -26,11 +46,6 @@
       "date": "Thu, 20 Aug 2026 08:32:58 +0200"
     },
     {
-      "title": "Tornado in Fürstenwalde deckt Dächer ab und wirft Bäume um",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/fuerstenwalde-tornado-feuerwehr-einsatz-schaeden.html",
-      "date": "Thu, 20 Aug 2026 08:19:32 +0200"
-    },
-    {
       "title": "Online-Portal für Briefwahlen soll wieder funktionieren",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-senatsverwaltung-hackerangriff-online-portal-briefwahlunterlagen.html",
       "date": "Thu, 20 Aug 2026 08:02:04 +0200"
@@ -44,21 +59,6 @@
       "title": "Mehrere Berliner Freibäder bis in den September geöffnet, Hallenbäder starten Betrieb",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-infos-start-saison-hallenbaeder-herbst.html",
       "date": "Wed, 19 Aug 2026 20:18:25 +0200"
-    },
-    {
-      "title": "Schock für deutsche Basketballerinnen: Satou Sabally verpasst WM",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/basketball-wm-frauen-deutschland-berlinerin-satou-sabally-verletzt-ausfall.html",
-      "date": "Wed, 19 Aug 2026 19:38:59 +0200"
-    },
-    {
-      "title": "Neue Drohne zur Überwachung in Strausberg vorgestellt",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/08/brandenburg-drohnenprojekt-strausberg-vorstellung-aero-force-x.html",
-      "date": "Wed, 19 Aug 2026 18:44:00 +0200"
-    },
-    {
-      "title": "Am Späti in Berlin-Haselhorst: \"Ich brauche diese Action\"",
-      "link": "https://www.rbb24.de/panorama/thema/spaeti/berlin-haselhorst-am-spaeti-bundeswehr.html",
-      "date": "Wed, 19 Aug 2026 17:48:27 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,16 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Mehr als 300 Kinder bei Verkehrsunfällen in Berlin verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-333-kinder-bei-verkehrsunfaellen-verletzt-oder-getoetet.html",
+      "date": "Thu, 20 Aug 2026 11:14:53 +0200"
+    },
+    {
+      "title": "Tornado in Fürstenwalde deckt Dächer ab und wirft Bäume um",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/fuerstenwalde-tornado-feuerwehr-einsatz-schaeden.html",
+      "date": "Thu, 20 Aug 2026 11:08:53 +0200"
+    },
+    {
       "title": "Missbrauchsvorwürfe: Anklage gegen Kinderarzt der Havelland-Kliniken zugelassen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/arzt-havelland-kindesmissbrauch-anklage-gericht-prozess.html",
       "date": "Thu, 20 Aug 2026 10:16:10 +0200"
@@ -140,12 +150,7 @@
     {
       "title": "Waldbrandbericht 2025: Mehr als 300 Waldbrände in Brandenburg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-waldbraende-waldbrandbericht-2025-.html",
-      "date": "Thu, 20 Aug 2026 08:23:25 +0200"
-    },
-    {
-      "title": "Tornado in Fürstenwalde deckt Dächer ab und wirft Bäume um",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/fuerstenwalde-tornado-feuerwehr-einsatz-schaeden.html",
-      "date": "Thu, 20 Aug 2026 08:19:32 +0200"
+      "date": "Thu, 20 Aug 2026 08:23:00 +0200"
     },
     {
       "title": "Mehrere Berliner Freibäder bis in den September geöffnet, Hallenbäder starten Betrieb",
@@ -181,11 +186,6 @@
       "title": "Berlin-Frohnau: Frau bei Brand lebensbedrohlich verletzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-frohnau-brand-verletzt-feuerwehr.html",
       "date": "Wed, 19 Aug 2026 14:08:57 +0200"
-    },
-    {
-      "title": "Potsdam: Forschende enträtseln Eigenschaften von Schneckenschleim",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/potsdam-max-plank-institut-schleim-schnecken-klebstoff-forschung-wissenschaft.html",
-      "date": "Wed, 19 Aug 2026 12:46:00 +0200"
     }
   ]
 }
