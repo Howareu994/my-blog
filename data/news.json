@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Hackerangriff: Einschränkungen bei Bürgerdiensten in Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-it-hackerangriff-weiterhin-probleme-verwaltung-wegner.html",
+      "date": "Thu, 20 Aug 2026 17:19:46 +0200"
+    },
+    {
+      "title": "Tornado in Fürstenwalde deckt Dächer ab und wirft Bäume um",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/fuerstenwalde-tornado-feuerwehr-einsatz-schaeden.html",
+      "date": "Thu, 20 Aug 2026 17:13:47 +0200"
+    },
+    {
+      "title": "Am Späti in Berlin-Altglienicke: \"Es wurmt mich, dass das Alter keine große Chance hat\"",
+      "link": "https://www.rbb24.de/panorama/thema/spaeti/berlin-altglienicke-am-spaeti-rentnerin-jugendliche-arbeiten.html",
+      "date": "Thu, 20 Aug 2026 16:59:36 +0200"
+    },
+    {
       "title": "Marihuana-Schmuggel: Langjährige Haftstrafen für drei Angeklagte",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/marihuana-schmuggel-haftstrafen-landgericht-berlin.html",
       "date": "Thu, 20 Aug 2026 16:17:51 +0200"
@@ -44,21 +59,6 @@
       "title": "2. Fußball-Bundesliga: Hertha BSC leiht Alfa-Ruprecht aus",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-zweite-bundesliga-hertha-bsc-leihe-transfer-farid-alfa-ruprecht-bayer-04-leverkusen-winkler-ersatz.html",
       "date": "Thu, 20 Aug 2026 11:26:25 +0200"
-    },
-    {
-      "title": "Über 13 Hektar Photovoltaik: Gemeindevertreter von Schenkendöbern genehmigen Bau von Solarpark",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/08/brandenburg-schenkendoebern-solarpark-bau-genehmigt.html",
-      "date": "Thu, 20 Aug 2026 11:23:05 +0200"
-    },
-    {
-      "title": "Mehr als 300 Kinder bei Verkehrsunfällen in Berlin verletzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-333-kinder-bei-verkehrsunfaellen-verletzt-oder-getoetet.html",
-      "date": "Thu, 20 Aug 2026 11:14:53 +0200"
-    },
-    {
-      "title": "Türkischer Bund wirbt mit Kampagne für Berlin-Wahl",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/tuerkischer-bund-berlin-brandenburg-kampagne-wahl-community.html",
-      "date": "Thu, 20 Aug 2026 11:13:50 +0200"
     }
   ],
   "police": [
@@ -123,6 +123,21 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Hackerangriff: Einschränkungen bei Bürgerdiensten in Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-it-hackerangriff-weiterhin-probleme-verwaltung-wegner.html",
+      "date": "Thu, 20 Aug 2026 17:19:46 +0200"
+    },
+    {
+      "title": "Tornado in Fürstenwalde deckt Dächer ab und wirft Bäume um",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/fuerstenwalde-tornado-feuerwehr-einsatz-schaeden.html",
+      "date": "Thu, 20 Aug 2026 17:13:47 +0200"
+    },
+    {
+      "title": "Am Späti in Berlin-Altglienicke: \"Es wurmt mich, dass das Alter keine große Chance hat\"",
+      "link": "https://www.rbb24.de/panorama/thema/spaeti/berlin-altglienicke-am-spaeti-rentnerin-jugendliche-arbeiten.html",
+      "date": "Thu, 20 Aug 2026 16:59:36 +0200"
+    },
+    {
       "title": "Marihuana-Schmuggel: Langjährige Haftstrafen für drei Angeklagte",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/marihuana-schmuggel-haftstrafen-landgericht-berlin.html",
       "date": "Thu, 20 Aug 2026 16:17:51 +0200"
@@ -153,19 +168,9 @@
       "date": "Thu, 20 Aug 2026 11:14:53 +0200"
     },
     {
-      "title": "Tornado in Fürstenwalde deckt Dächer ab und wirft Bäume um",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/fuerstenwalde-tornado-feuerwehr-einsatz-schaeden.html",
-      "date": "Thu, 20 Aug 2026 11:08:53 +0200"
-    },
-    {
       "title": "Missbrauchsvorwürfe: Anklage gegen Kinderarzt der Havelland-Kliniken zugelassen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/arzt-havelland-kindesmissbrauch-anklage-gericht-prozess.html",
       "date": "Thu, 20 Aug 2026 10:16:10 +0200"
-    },
-    {
-      "title": "Hackerangriff: \"Die Ermittlungen laufen, wann er ins System kam\"",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-it-hackerangriff-weiterhin-probleme-verwaltung-wegner.html",
-      "date": "Thu, 20 Aug 2026 09:56:22 +0200"
     },
     {
       "title": "Waldbrandbericht 2025: Mehr als 300 Waldbrände in Brandenburg",
@@ -176,11 +181,6 @@
       "title": "Mehrere Berliner Freibäder bis in den September geöffnet, Hallenbäder starten Betrieb",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-infos-start-saison-hallenbaeder-herbst.html",
       "date": "Wed, 19 Aug 2026 20:18:25 +0200"
-    },
-    {
-      "title": "Am Späti in Berlin-Haselhorst: \"Ich brauche diese Action\"",
-      "link": "https://www.rbb24.de/panorama/thema/spaeti/berlin-haselhorst-am-spaeti-bundeswehr.html",
-      "date": "Wed, 19 Aug 2026 17:48:27 +0200"
     }
   ]
 }
