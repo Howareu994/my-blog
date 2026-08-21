@@ -1,14 +1,14 @@
 {
   "traffic": [
     {
+      "title": "Dreieck Funkturm wegen Brückenneubau für 26 Stunden teils gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/ringbahnbruecke-berlin-neubau-a100-halenseestrasse-sperrungen.html",
+      "date": "Fri, 21 Aug 2026 06:26:07 +0200"
+    },
+    {
       "title": "Hackerangriff: Einschränkungen bei Bürgerdiensten in Berlin",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-it-hackerangriff-weiterhin-probleme-verwaltung-wegner.html",
       "date": "Thu, 20 Aug 2026 20:55:39 +0200"
-    },
-    {
-      "title": "Hertha zu Gast in Saarbrücken: Auch im DFB-Pokal auf Erfolgskurs?",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-hertha-bsc-saarbruecken-dfb-pokal-vorbericht-erste-runde.html",
-      "date": "Thu, 20 Aug 2026 20:25:12 +0200"
     },
     {
       "title": "Lauf-Event \"Die Generalprobe\": Strecke und Straßensperrungen",
@@ -33,17 +33,12 @@
     {
       "title": "Am Späti in Berlin-Altglienicke: \"Es wurmt mich, dass das Alter keine große Chance hat\"",
       "link": "https://www.rbb24.de/panorama/thema/spaeti/berlin-altglienicke-am-spaeti-rentnerin-jugendliche-arbeiten.html",
-      "date": "Thu, 20 Aug 2026 16:59:36 +0200"
+      "date": "Thu, 20 Aug 2026 16:59:00 +0200"
     },
     {
       "title": "Marihuana-Schmuggel: Langjährige Haftstrafen für drei Angeklagte",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/marihuana-schmuggel-haftstrafen-landgericht-berlin.html",
       "date": "Thu, 20 Aug 2026 16:17:51 +0200"
-    },
-    {
-      "title": "Vor Supercup-Finale gegen Magdeburg: Füchse Berlin starten in \"schwere Saison\"",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/handball-bundesliga-super-cup-fuechse-berlin-sc-magdeburg-bob-hanning-ziele-vorbericht.html",
-      "date": "Thu, 20 Aug 2026 16:17:00 +0200"
     },
     {
       "title": "35-Jähriger stirbt nach Sturz von Gerüst in Frankfurt (Oder)",
@@ -56,9 +51,14 @@
       "date": "Thu, 20 Aug 2026 15:50:15 +0200"
     },
     {
-      "title": "Oberhavel will Busverkehr ausdünnen - und vermehrt den Rufbus einsetzen",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/08/oberhavel-haushalt-finanzen-sparen-bus-verbindung-verkehr-oepnv.html",
-      "date": "Thu, 20 Aug 2026 15:24:57 +0200"
+      "title": "Durchsuchungen der Polizei im Kampf gegen Schusswaffengewalt in Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-schusswaffen-polizei-sondereinheit-ferrum-durchsuchungen.html",
+      "date": "Thu, 20 Aug 2026 14:40:04 +0200"
+    },
+    {
+      "title": "Senatorin Badenberg lässt Doktorarbeit nach Plagiatsvorwürfen prüfen",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/08/justiz-senatorin-felor-badenberg-doktorarbeit-plagiatsvorwuerfe-universitaet-prueft.html",
+      "date": "Thu, 20 Aug 2026 14:34:41 +0200"
     }
   ],
   "police": [
@@ -150,7 +150,7 @@
     {
       "title": "Am Späti in Berlin-Altglienicke: \"Es wurmt mich, dass das Alter keine große Chance hat\"",
       "link": "https://www.rbb24.de/panorama/thema/spaeti/berlin-altglienicke-am-spaeti-rentnerin-jugendliche-arbeiten.html",
-      "date": "Thu, 20 Aug 2026 16:59:36 +0200"
+      "date": "Thu, 20 Aug 2026 16:59:00 +0200"
     },
     {
       "title": "Marihuana-Schmuggel: Langjährige Haftstrafen für drei Angeklagte",
