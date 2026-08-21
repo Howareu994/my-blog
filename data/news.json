@@ -1,9 +1,19 @@
 {
   "traffic": [
     {
+      "title": "Steinreich will nicht noch mehr Windräder in der Gemeinde haben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-steinreich-zu-viele-windraeder.html",
+      "date": "Fri, 21 Aug 2026 17:08:53 +0200"
+    },
+    {
+      "title": "Union Berlin: Die Ära Lustrinelli beginnt im Pokal gegen Braunschweig",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/berlin-sport-fussball-union-pokal-eintracht-braunschweig-lustrinelli-vorbericht.html",
+      "date": "Fri, 21 Aug 2026 16:38:38 +0200"
+    },
+    {
       "title": "Banküberfälle in NRW: Durchsuchungen in Berlin und Brandenburg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/bankueberfaelle-aachen-nrw-festnahme-spanien-zaragoza-razzia-berlin.html",
-      "date": "Fri, 21 Aug 2026 15:34:23 +0200"
+      "date": "Fri, 21 Aug 2026 15:34:00 +0200"
     },
     {
       "title": "Berlin verzeichnet fast 405.000 Schüler für das neue Schuljahr",
@@ -49,19 +59,14 @@
       "title": "30. Todestag von Rio Reiser: \"Ton Steine Scherben\"-Konzert beginnt mit Hiobsbotschaft",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/08/berlin-konzert-dreissigster-todestag-rio-reiser-tempelhofer-feld.html",
       "date": "Fri, 21 Aug 2026 13:59:33 +0200"
-    },
-    {
-      "title": "\"Ton Steine Scherben\"-Keyboarder Martin Paul gestorben",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/08/claudia-roth-martin-paul-werner-ton-steine-scherben-trauer.html",
-      "date": "Fri, 21 Aug 2026 13:59:31 +0200"
-    },
-    {
-      "title": "Brandenburg an der Havel: Brücke im Niemandsland soll im Oktober freigegeben werden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-havel-wust-potsdam-b1-re1-bruecke-bau-posse-fertig-termin.html",
-      "date": "Fri, 21 Aug 2026 12:45:17 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Mann wegen Fremdgefährdung gesucht",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705919.php",
+      "date": "Fri, 21 Aug 2026 16:43:23 +0200"
+    },
     {
       "title": "Sachbeschädigungen an Wahlplakaten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705916.php",
@@ -111,17 +116,17 @@
       "title": "Radfahrer nach Unfall mit Autotür verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704835.php",
       "date": "Wed, 19 Aug 2026 13:23:09 +0200"
-    },
-    {
-      "title": "18-Jähriger mit Schusswaffe bedroht und ausgeraubt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704821.php",
-      "date": "Wed, 19 Aug 2026 13:02:00 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Steinreich will nicht noch mehr Windräder in der Gemeinde haben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-steinreich-zu-viele-windraeder.html",
+      "date": "Fri, 21 Aug 2026 17:08:53 +0200"
+    },
     {
       "title": "Waldbrandbericht 2025: Mehr als 300 Waldbrände in Brandenburg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-waldbraende-waldbrandbericht-2025-.html",
@@ -135,7 +140,7 @@
     {
       "title": "Banküberfälle in NRW: Durchsuchungen in Berlin und Brandenburg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/bankueberfaelle-aachen-nrw-festnahme-spanien-zaragoza-razzia-berlin.html",
-      "date": "Fri, 21 Aug 2026 15:34:23 +0200"
+      "date": "Fri, 21 Aug 2026 15:34:00 +0200"
     },
     {
       "title": "Fledermäuse verirren sich in Potsdamer Wohnungen und Häuser",
@@ -176,11 +181,6 @@
       "title": "Tornado in Fürstenwalde deckt Dächer ab und wirft Bäume um",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/fuerstenwalde-tornado-feuerwehr-einsatz-schaeden.html",
       "date": "Thu, 20 Aug 2026 18:30:59 +0200"
-    },
-    {
-      "title": "Tagung in Cottbus: Experten wollen von Branitzer Baumuniversität lernen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-deutsches-forum-kulturlandschaft-2026-branitz-tagung.html",
-      "date": "Thu, 20 Aug 2026 17:34:40 +0200"
     }
   ]
 }
