@@ -54,9 +54,19 @@
       "title": "\"Ton Steine Scherben\"-Keyboarder Martin Paul gestorben",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/08/claudia-roth-martin-paul-werner-ton-steine-scherben-trauer.html",
       "date": "Fri, 21 Aug 2026 13:59:31 +0200"
+    },
+    {
+      "title": "Brandenburg an der Havel: Brücke im Niemandsland soll im Oktober freigegeben werden",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-havel-wust-potsdam-b1-re1-bruecke-bau-posse-fertig-termin.html",
+      "date": "Fri, 21 Aug 2026 12:45:17 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Sachbeschädigungen an Wahlplakaten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705916.php",
+      "date": "Fri, 21 Aug 2026 16:13:54 +0200"
+    },
     {
       "title": "Mann mit Messer angegriffen – Ermittlungen zu einem versuchten Tötungsdelikt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705905.php",
@@ -88,11 +98,6 @@
       "date": "Thu, 20 Aug 2026 12:52:00 +0200"
     },
     {
-      "title": "Sachbeschädigungen an Wahlplakaten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705339.php",
-      "date": "Thu, 20 Aug 2026 12:49:00 +0200"
-    },
-    {
       "title": "Festnahmen nach versuchtem Trickdiebstahl",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704883.php",
       "date": "Wed, 19 Aug 2026 14:18:54 +0200"
@@ -117,6 +122,11 @@
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Waldbrandbericht 2025: Mehr als 300 Waldbrände in Brandenburg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-waldbraende-waldbrandbericht-2025-.html",
+      "date": "Fri, 21 Aug 2026 15:42:10 +0200"
+    },
     {
       "title": "Hackerangriff: Einschränkungen bei Bürgerdiensten in Berlin",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-it-hackerangriff-weiterhin-probleme-verwaltung-wegner.html",
@@ -171,11 +181,6 @@
       "title": "Tagung in Cottbus: Experten wollen von Branitzer Baumuniversität lernen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-deutsches-forum-kulturlandschaft-2026-branitz-tagung.html",
       "date": "Thu, 20 Aug 2026 17:34:40 +0200"
-    },
-    {
-      "title": "Am Späti in Berlin-Altglienicke: \"Es wurmt mich, dass das Alter keine große Chance hat\"",
-      "link": "https://www.rbb24.de/panorama/thema/spaeti/berlin-altglienicke-am-spaeti-rentnerin-jugendliche-arbeiten.html",
-      "date": "Thu, 20 Aug 2026 16:59:00 +0200"
     }
   ]
 }
