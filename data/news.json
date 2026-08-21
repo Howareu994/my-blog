@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Tornado in Fürstenwalde: Wann Versicherungen zahlen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/tornado-fuerstenwalde-versicherung-schaeden-haus-auto.html",
+      "date": "Fri, 21 Aug 2026 17:49:37 +0200"
+    },
+    {
+      "title": "Berliner Bäderbetriebe bieten Hundebadetage in einigen Freibecken",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/hundeschwimmen-bbb-berlin-baederbetriebe-freibad-fellnase-fiffi-wasser.html",
+      "date": "Fri, 21 Aug 2026 17:25:00 +0200"
+    },
+    {
       "title": "Steinreich will nicht noch mehr Windräder in der Gemeinde haben",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-steinreich-zu-viele-windraeder.html",
       "date": "Fri, 21 Aug 2026 17:08:53 +0200"
@@ -49,16 +59,6 @@
       "title": "Stadt Cottbus und Landkreis Dahme-Spreewald verbieten Wasserentnahme",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-wasserentnahmeverbot-dahme-spreewald.html",
       "date": "Fri, 21 Aug 2026 14:10:40 +0200"
-    },
-    {
-      "title": "Torsten Mattuschka im Interview zu Altglienicke, Union und Cottbus",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/berlin-brandenburg-fussball-pokal-interview-torsten-mattuschka-union-hertha-cottbus-altglienicke.html",
-      "date": "Fri, 21 Aug 2026 14:09:50 +0200"
-    },
-    {
-      "title": "30. Todestag von Rio Reiser: \"Ton Steine Scherben\"-Konzert beginnt mit Hiobsbotschaft",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/08/berlin-konzert-dreissigster-todestag-rio-reiser-tempelhofer-feld.html",
-      "date": "Fri, 21 Aug 2026 13:59:33 +0200"
     }
   ],
   "police": [
@@ -123,6 +123,21 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Hackerangriff: Einschränkungen bei Bürgerdiensten in Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-it-hackerangriff-weiterhin-probleme-verwaltung-wegner.html",
+      "date": "Fri, 21 Aug 2026 18:13:00 +0200"
+    },
+    {
+      "title": "Tornado in Fürstenwalde: Wann Versicherungen zahlen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/tornado-fuerstenwalde-versicherung-schaeden-haus-auto.html",
+      "date": "Fri, 21 Aug 2026 17:49:37 +0200"
+    },
+    {
+      "title": "Berliner Bäderbetriebe bieten Hundebadetage in einigen Freibecken",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/hundeschwimmen-bbb-berlin-baederbetriebe-freibad-fellnase-fiffi-wasser.html",
+      "date": "Fri, 21 Aug 2026 17:25:00 +0200"
+    },
+    {
       "title": "Steinreich will nicht noch mehr Windräder in der Gemeinde haben",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-steinreich-zu-viele-windraeder.html",
       "date": "Fri, 21 Aug 2026 17:08:53 +0200"
@@ -131,11 +146,6 @@
       "title": "Waldbrandbericht 2025: Mehr als 300 Waldbrände in Brandenburg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-waldbraende-waldbrandbericht-2025-.html",
       "date": "Fri, 21 Aug 2026 15:42:10 +0200"
-    },
-    {
-      "title": "Hackerangriff: Einschränkungen bei Bürgerdiensten in Berlin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-it-hackerangriff-weiterhin-probleme-verwaltung-wegner.html",
-      "date": "Fri, 21 Aug 2026 15:37:37 +0200"
     },
     {
       "title": "Banküberfälle in NRW: Durchsuchungen in Berlin und Brandenburg",
@@ -171,16 +181,6 @@
       "title": "Dreieck Funkturm für 26 Stunden teils gesperrt - auch Ringbahn unterbrochen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/ringbahnbruecke-berlin-neubau-a100-halenseestrasse-sperrungen.html",
       "date": "Fri, 21 Aug 2026 09:14:37 +0200"
-    },
-    {
-      "title": "Geldtransporter vor Supermarkt in Berlin-Lankwitz überfallen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/ueberfall-geldtransporter-supermarkt-berlin-lankwitz.html",
-      "date": "Fri, 21 Aug 2026 08:38:00 +0200"
-    },
-    {
-      "title": "Tornado in Fürstenwalde deckt Dächer ab und wirft Bäume um",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/fuerstenwalde-tornado-feuerwehr-einsatz-schaeden.html",
-      "date": "Thu, 20 Aug 2026 18:30:59 +0200"
     }
   ]
 }
