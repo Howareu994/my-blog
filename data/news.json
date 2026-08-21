@@ -123,6 +123,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Dreieck Funkturm wegen Brückenneubau für 26 Stunden teils gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/ringbahnbruecke-berlin-neubau-a100-halenseestrasse-sperrungen.html",
+      "date": "Fri, 21 Aug 2026 06:26:07 +0200"
+    },
+    {
       "title": "Hackerangriff: Einschränkungen bei Bürgerdiensten in Berlin",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-it-hackerangriff-weiterhin-probleme-verwaltung-wegner.html",
       "date": "Thu, 20 Aug 2026 20:55:39 +0200"
@@ -176,11 +181,6 @@
       "title": "Mehr als 300 Kinder bei Verkehrsunfällen in Berlin verletzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-333-kinder-bei-verkehrsunfaellen-verletzt-oder-getoetet.html",
       "date": "Thu, 20 Aug 2026 11:14:53 +0200"
-    },
-    {
-      "title": "Missbrauchsvorwürfe: Anklage gegen Kinderarzt der Havelland-Kliniken zugelassen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/arzt-havelland-kindesmissbrauch-anklage-gericht-prozess.html",
-      "date": "Thu, 20 Aug 2026 10:16:10 +0200"
     }
   ]
 }
