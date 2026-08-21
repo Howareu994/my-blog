@@ -1,9 +1,29 @@
 {
   "traffic": [
     {
-      "title": "Brandenburger Sozialminister verspricht verschärfte Migrationspolitik",
+      "title": "Etliche Mieter der Howoge sollen Wohnungen dauerhaft wegen Modernisierung verlassen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-howoge-wohnungen-sanierung-mieter-umzug-reinickendorf-mieterverein.html",
+      "date": "Fri, 21 Aug 2026 12:00:42 +0200"
+    },
+    {
+      "title": "Sparmaßnahme: Oranienburg stellt Fahrbibliothek wieder ein",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/08/oranienburg-finanzen-fahrbibliothek-eingestellt-haushalt-sparen.html",
+      "date": "Fri, 21 Aug 2026 11:51:36 +0200"
+    },
+    {
+      "title": "Brandenburger Sozialminister kündigt schärfere Migrationspolitik an",
       "link": "https://www.rbb24.de/politik/beitrag/2026/08/irregulaere-zuwanderung-brandenburg-sozialminister-migration-politik-rene-wilke.html",
-      "date": "Fri, 21 Aug 2026 11:14:47 +0200"
+      "date": "Fri, 21 Aug 2026 11:46:43 +0200"
+    },
+    {
+      "title": "Ton Steine Scherben-Keyboarder Martin Paul gestorben",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/08/claudia-roth-martin-paul-werner-ton-steine-scherben-trauer.html",
+      "date": "Fri, 21 Aug 2026 11:29:44 +0200"
+    },
+    {
+      "title": "Landkreis Dahme-Spreewald verbietet Wasserentnahme in sechs Kommunen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-wasserentnahmeverbot-dahme-spreewald.html",
+      "date": "Fri, 21 Aug 2026 11:26:02 +0200"
     },
     {
       "title": "Geheimes Waffendepot bei Berlin entdeckt - Russland unter Verdacht",
@@ -14,11 +34,6 @@
       "title": "Die rbb24 Wahlarena. Ihre Wahl – Ihre Fragen",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahl-2026-wahlarena-fragerunde-politiker-buerger-talk.html",
       "date": "Fri, 21 Aug 2026 10:00:00 +0200"
-    },
-    {
-      "title": "Ton Steine Scherben-Keyboarder Martin Paul gestorben",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/08/claudia-roth-martin-paul-werner-ton-steine-scherben-trauer.html",
-      "date": "Fri, 21 Aug 2026 09:56:26 +0200"
     },
     {
       "title": "Dreieck Funkturm für 26 Stunden teils gesperrt - auch Ringbahn unterbrochen",
@@ -44,21 +59,6 @@
       "title": "Tornado in Fürstenwalde deckt Dächer ab und wirft Bäume um",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/fuerstenwalde-tornado-feuerwehr-einsatz-schaeden.html",
       "date": "Thu, 20 Aug 2026 18:30:59 +0200"
-    },
-    {
-      "title": "Berlin Museum ruft zum Einsenden von Einschulungsfotos auf",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/08/berlin-museum-einschulungsfotosbilder-geschichte-ephraim-palais.html",
-      "date": "Thu, 20 Aug 2026 18:28:42 +0200"
-    },
-    {
-      "title": "Am Späti in Berlin-Altglienicke: \"Es wurmt mich, dass das Alter keine große Chance hat\"",
-      "link": "https://www.rbb24.de/panorama/thema/spaeti/berlin-altglienicke-am-spaeti-rentnerin-jugendliche-arbeiten.html",
-      "date": "Thu, 20 Aug 2026 16:59:00 +0200"
-    },
-    {
-      "title": "Marihuana-Schmuggel: Langjährige Haftstrafen für drei Angeklagte",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/marihuana-schmuggel-haftstrafen-landgericht-berlin.html",
-      "date": "Thu, 20 Aug 2026 16:17:51 +0200"
     }
   ],
   "police": [
@@ -123,6 +123,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Etliche Mieter der Howoge sollen Wohnungen dauerhaft wegen Modernisierung verlassen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-howoge-wohnungen-sanierung-mieter-umzug-reinickendorf-mieterverein.html",
+      "date": "Fri, 21 Aug 2026 12:00:42 +0200"
+    },
+    {
       "title": "Landkreis Dahme-Spreewald verbietet Wasserentnahme in sechs Kommunen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-wasserentnahmeverbot-dahme-spreewald.html",
       "date": "Fri, 21 Aug 2026 11:26:02 +0200"
@@ -176,11 +181,6 @@
       "title": "Durchsuchungen der Polizei im Kampf gegen Schusswaffengewalt in Berlin",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-schusswaffen-polizei-sondereinheit-ferrum-durchsuchungen.html",
       "date": "Thu, 20 Aug 2026 14:40:04 +0200"
-    },
-    {
-      "title": "Tornado in Fürstenwalde: Interview mit Wetter-Experten",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/tornado-sturm-fuerstenwalde-wetterexperte-meteorologie-.html",
-      "date": "Thu, 20 Aug 2026 13:06:33 +0200"
     }
   ]
 }
