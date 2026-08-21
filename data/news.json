@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "RE1: Bauarbeiten am Bahnhof Fangschleuse verzögern sich erneut",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/bahnhof-fangschleuse-re1-bauarbeite-verzoegerung.html",
+      "date": "Fri, 21 Aug 2026 18:51:06 +0200"
+    },
+    {
       "title": "Tornado in Fürstenwalde: Wann Versicherungen zahlen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/tornado-fuerstenwalde-versicherung-schaeden-haus-auto.html",
       "date": "Fri, 21 Aug 2026 17:49:37 +0200"
@@ -54,11 +59,6 @@
       "title": "Panda-Zwillinge Leni und Lotte feiern 2. Geburtstag im Berliner Zoo",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-panda-geburtstag-berliner-zoo-leni-lotte.html",
       "date": "Fri, 21 Aug 2026 14:36:26 +0200"
-    },
-    {
-      "title": "Stadt Cottbus und Landkreis Dahme-Spreewald verbieten Wasserentnahme",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-wasserentnahmeverbot-dahme-spreewald.html",
-      "date": "Fri, 21 Aug 2026 14:10:40 +0200"
     }
   ],
   "police": [
@@ -123,6 +123,16 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Frauenleiche in Gebüsch in Prenzlauer Berg gefunden",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/leiche-gefunden-prenzlauer-berg-berlin-thaelmannpark-zeiss-planetarium-gebuesch.html",
+      "date": "Fri, 21 Aug 2026 19:14:10 +0200"
+    },
+    {
+      "title": "RE1: Bauarbeiten am Bahnhof Fangschleuse verzögern sich erneut",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/bahnhof-fangschleuse-re1-bauarbeite-verzoegerung.html",
+      "date": "Fri, 21 Aug 2026 18:51:06 +0200"
+    },
+    {
       "title": "Hackerangriff: Einschränkungen bei Bürgerdiensten in Berlin",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-it-hackerangriff-weiterhin-probleme-verwaltung-wegner.html",
       "date": "Fri, 21 Aug 2026 18:13:00 +0200"
@@ -171,16 +181,6 @@
       "title": "Brandenburg an der Havel: Brücke im Niemandsland soll im Oktober freigegeben werden",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-havel-wust-potsdam-b1-re1-bruecke-bau-posse-fertig-termin.html",
       "date": "Fri, 21 Aug 2026 12:45:17 +0200"
-    },
-    {
-      "title": "Etliche Mieter der Howoge sollen Wohnungen dauerhaft wegen Modernisierung verlassen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-howoge-wohnungen-sanierung-mieter-umzug-reinickendorf-mieterverein.html",
-      "date": "Fri, 21 Aug 2026 12:00:00 +0200"
-    },
-    {
-      "title": "Dreieck Funkturm für 26 Stunden teils gesperrt - auch Ringbahn unterbrochen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/ringbahnbruecke-berlin-neubau-a100-halenseestrasse-sperrungen.html",
-      "date": "Fri, 21 Aug 2026 09:14:37 +0200"
     }
   ]
 }
