@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Handball: Potsdam zittert sich zum Pokalsieg über Vinnhorst",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/handball-pokal-erste-runde-vinnhorst-vfl-potsdam.html",
+      "date": "Fri, 21 Aug 2026 22:58:38 +0200"
+    },
+    {
       "title": "Fußball-Bundesliga: Unions Spielerinnen verlieren Saisonauftakt gegen Bayern",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-bundesliga-union-berlin-bayern-muenchen-spielbericht.html",
       "date": "Fri, 21 Aug 2026 21:44:57 +0200"
@@ -54,11 +59,6 @@
       "title": "Nach Einbrüchen bei Füchsen Berlin: Täter erhält Haftstrafe",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/handball-fuechse-berlin-dieb-meisterschale-haftstrafe-verurteilt.html",
       "date": "Fri, 21 Aug 2026 14:56:48 +0200"
-    },
-    {
-      "title": "Union dominiert bei Wahl zu \"Berlins Fußballern des Jahres\"",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/berlin-fussball-fussballer-des-jahres-25-26-heiseler-trimmel-okoro-union-friede-delay.html",
-      "date": "Fri, 21 Aug 2026 14:45:33 +0200"
     }
   ],
   "police": [
