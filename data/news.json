@@ -1,14 +1,14 @@
 {
   "traffic": [
     {
+      "title": "Jetzt live: Hertha startet in Saarbrücken in den DFB-Pokal",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-dfb-pokal-hertha-bsc-fc-saarbruecken-spielbericht-liveticker-audiostream.html",
+      "date": "Sat, 22 Aug 2026 15:24:24 +0200"
+    },
+    {
       "title": "0:2 gegen Augsburg: Bittere Pokal-Pleite für starke Cottbuser",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-dfb-pokal-energie-cottbus-fc-augsburg-spielbericht-liveticker-audiostream.html",
       "date": "Sat, 22 Aug 2026 15:16:41 +0200"
-    },
-    {
-      "title": "Jetzt live: Hertha startet in Saarbrücken in den DFB-Pokal",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-dfb-pokal-hertha-bsc-fc-saarbruecken-spielbericht-liveticker-audiostream.html",
-      "date": "Sat, 22 Aug 2026 15:12:00 +0200"
     },
     {
       "title": "Intime Fotos gemacht: Schüler verlassen Potsdamer Gymnasium",
@@ -63,6 +63,11 @@
   ],
   "police": [
     {
+      "title": "Mann mit Cuttermesser verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705977.php",
+      "date": "Sat, 22 Aug 2026 15:25:15 +0200"
+    },
+    {
       "title": "Fremdenfeindlich beleidigt und geschlagen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705976.php",
       "date": "Sat, 22 Aug 2026 15:10:36 +0200"
@@ -116,11 +121,6 @@
       "title": "Brandstiftung an einem Späti",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705868.php",
       "date": "Fri, 21 Aug 2026 14:21:35 +0200"
-    },
-    {
-      "title": "Aktionswoche zum Waffen- und Messerverbot im öffentlichen Personennahverkehr",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705848.php",
-      "date": "Fri, 21 Aug 2026 13:49:16 +0200"
     }
   ],
   "free_events": [],
