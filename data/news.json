@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Temporäres Kloster bei Neuzelle feiert Richtfest",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/kloster-neuzelle-treppeln-richtfest-moenche.html",
+      "date": "Sat, 22 Aug 2026 07:14:23 +0200"
+    },
+    {
       "title": "Handball: Potsdam zittert sich zum Pokalsieg über Vinnhorst",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/handball-pokal-erste-runde-vinnhorst-vfl-potsdam.html",
       "date": "Fri, 21 Aug 2026 22:58:38 +0200"
@@ -54,11 +59,6 @@
       "title": "Innenminister Dobrindt: Verdacht auf Anschlagspläne nach Waffenfund nahe Berlin",
       "link": "https://www.rbb24.de/politik/beitrag/2026/08/geheimes-waffenlager-anschlagsverdacht-berlin-brandenburg-innenminister-russland.html",
       "date": "Fri, 21 Aug 2026 15:10:50 +0200"
-    },
-    {
-      "title": "Nach Einbrüchen bei Füchsen Berlin: Täter erhält Haftstrafe",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/handball-fuechse-berlin-dieb-meisterschale-haftstrafe-verurteilt.html",
-      "date": "Fri, 21 Aug 2026 14:56:48 +0200"
     }
   ],
   "police": [
@@ -123,6 +123,16 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Temporäres Kloster bei Neuzelle feiert Richtfest",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/kloster-neuzelle-treppeln-richtfest-moenche.html",
+      "date": "Sat, 22 Aug 2026 07:14:23 +0200"
+    },
+    {
+      "title": "Einschulung in Berlin: So viel kostet der Schulstart",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/schulanfang-berlin-schulranzen-schulmaterial-teurer-schuleinfuehrung.html",
+      "date": "Sat, 22 Aug 2026 07:13:54 +0200"
+    },
+    {
       "title": "Frauenleiche in Gebüsch in Prenzlauer Berg gefunden",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/leiche-gefunden-prenzlauer-berg-berlin-thaelmannpark-zeiss-planetarium-gebuesch.html",
       "date": "Fri, 21 Aug 2026 19:14:10 +0200"
@@ -171,16 +181,6 @@
       "title": "Panda-Zwillinge Leni und Lotte feiern 2. Geburtstag im Berliner Zoo",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-panda-geburtstag-berliner-zoo-leni-lotte.html",
       "date": "Fri, 21 Aug 2026 14:36:26 +0200"
-    },
-    {
-      "title": "Stadt Cottbus und Landkreis Dahme-Spreewald verbieten Wasserentnahme",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-wasserentnahmeverbot-dahme-spreewald.html",
-      "date": "Fri, 21 Aug 2026 14:10:40 +0200"
-    },
-    {
-      "title": "Brandenburg an der Havel: Brücke im Niemandsland soll im Oktober freigegeben werden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-havel-wust-potsdam-b1-re1-bruecke-bau-posse-fertig-termin.html",
-      "date": "Fri, 21 Aug 2026 12:45:17 +0200"
     }
   ]
 }
