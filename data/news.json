@@ -1,19 +1,24 @@
 {
   "traffic": [
     {
+      "title": "0:2 gegen Augsburg: Bittere Pokal-Pleite für starke Cottbuser",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-dfb-pokal-energie-cottbus-fc-augsburg-spielbericht-liveticker-audiostream.html",
+      "date": "Sat, 22 Aug 2026 15:16:41 +0200"
+    },
+    {
+      "title": "Jetzt live: Hertha startet in Saarbrücken in den DFB-Pokal",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-dfb-pokal-hertha-bsc-fc-saarbruecken-spielbericht-liveticker-audiostream.html",
+      "date": "Sat, 22 Aug 2026 15:12:00 +0200"
+    },
+    {
       "title": "Intime Fotos gemacht: Schüler verlassen Potsdamer Gymnasium",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-potsdam-intime-fotos-schule-verlassen.html",
       "date": "Sat, 22 Aug 2026 13:11:05 +0200"
     },
     {
-      "title": "Jetzt live hören: Cottbus startet im DFB-Pokal ohne Kapitän Cigerci",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-dfb-pokal-energie-cottbus-fc-augsburg-spielbericht-liveticker-audiostream.html",
-      "date": "Sat, 22 Aug 2026 12:54:00 +0200"
-    },
-    {
-      "title": "\"Das Klima erscheint im Berliner Wahlkampf weniger dringlich als andere Probleme\"",
+      "title": "\"Das Klima erscheint im Berliner Wahlkampf weniger dringlich\"",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/klima-klimapolitik-berlin-wahl-agh-abgeordnetenhaus.html",
-      "date": "Sat, 22 Aug 2026 12:46:39 +0200"
+      "date": "Sat, 22 Aug 2026 12:46:00 +0200"
     },
     {
       "title": "Temporäres Kloster bei Neuzelle feiert Richtfest",
@@ -54,14 +59,19 @@
       "title": "ZAZ in der Zitadelle Spandau: Vom Pfeifkonzert in die Arme der Fans",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/08/berlin-zaz-zitadelle-spandau-konzert-kritik.html",
       "date": "Sat, 22 Aug 2026 08:03:00 +0200"
-    },
-    {
-      "title": "Female Rage in der Literatur",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/08/literatur-frauen-wut-female-rage-feminismus.html",
-      "date": "Sat, 22 Aug 2026 07:14:14 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Fremdenfeindlich beleidigt und geschlagen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705976.php",
+      "date": "Sat, 22 Aug 2026 15:10:36 +0200"
+    },
+    {
+      "title": "Wahlplakate in Brand gesetzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705974.php",
+      "date": "Sat, 22 Aug 2026 14:45:47 +0200"
+    },
     {
       "title": "Schutzscheibe in Linienbus eingeschlagen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705968.php",
@@ -111,16 +121,6 @@
       "title": "Aktionswoche zum Waffen- und Messerverbot im öffentlichen Personennahverkehr",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705848.php",
       "date": "Fri, 21 Aug 2026 13:49:16 +0200"
-    },
-    {
-      "title": "BAO Ferrum und EG Telum: Bekämpfung der Schusswaffenkriminalität – Festnahmen wegen versuchten Mordes, Erpressung und des Verstoßes gegen das Waffengesetz",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705410.php",
-      "date": "Thu, 20 Aug 2026 13:45:00 +0200"
-    },
-    {
-      "title": "Kind von Erwachsenen geschlagen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705349.php",
-      "date": "Thu, 20 Aug 2026 12:54:00 +0200"
     }
   ],
   "free_events": [],
