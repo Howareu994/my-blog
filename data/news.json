@@ -1,9 +1,29 @@
 {
   "traffic": [
     {
+      "title": "ZAZ in der Zitadelle Spandau: Vom Pfeifkonzert in die Arme der Fans",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/08/berlin-zaz-zitadelle-spandau-konzert-kritik.html",
+      "date": "Sat, 22 Aug 2026 08:03:00 +0200"
+    },
+    {
       "title": "Temporäres Kloster bei Neuzelle feiert Richtfest",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/kloster-neuzelle-treppeln-richtfest-moenche.html",
       "date": "Sat, 22 Aug 2026 07:14:23 +0200"
+    },
+    {
+      "title": "Female Rage in der Literatur",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/08/literatur-frauen-wut-female-rage-feminismus.html",
+      "date": "Sat, 22 Aug 2026 07:14:14 +0200"
+    },
+    {
+      "title": "Unions Niederlage gegen Bayern: Ein Sieg der Widersprüche",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-bundesliga-union-berlin-bayern-muenchen-analyse.html",
+      "date": "Sat, 22 Aug 2026 07:14:03 +0200"
+    },
+    {
+      "title": "Einschulung in Berlin: So viel kostet der Schulstart",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/schulanfang-berlin-schulranzen-schulmaterial-teurer-schuleinfuehrung.html",
+      "date": "Sat, 22 Aug 2026 07:13:54 +0200"
     },
     {
       "title": "Handball: Potsdam zittert sich zum Pokalsieg über Vinnhorst",
@@ -21,11 +41,6 @@
       "date": "Fri, 21 Aug 2026 18:51:06 +0200"
     },
     {
-      "title": "Tornado in Fürstenwalde: Wann Versicherungen zahlen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/tornado-fuerstenwalde-versicherung-schaeden-haus-auto.html",
-      "date": "Fri, 21 Aug 2026 17:49:37 +0200"
-    },
-    {
       "title": "Berliner Bäderbetriebe bieten Hundebadetage in einigen Freibecken",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/hundeschwimmen-bbb-berlin-baederbetriebe-freibad-fellnase-fiffi-wasser.html",
       "date": "Fri, 21 Aug 2026 17:25:00 +0200"
@@ -41,24 +56,9 @@
       "date": "Fri, 21 Aug 2026 16:38:38 +0200"
     },
     {
-      "title": "Banküberfälle in NRW: Durchsuchungen in Berlin und Brandenburg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/bankueberfaelle-aachen-nrw-festnahme-spanien-zaragoza-razzia-berlin.html",
-      "date": "Fri, 21 Aug 2026 15:34:00 +0200"
-    },
-    {
       "title": "Berlin verzeichnet fast 405.000 Schüler für das neue Schuljahr",
       "link": "https://www.rbb24.de/politik/beitrag/2026/08/berlin-schule-schuljahr-schueler-lehrkraefte-einschulung.html",
       "date": "Fri, 21 Aug 2026 15:30:19 +0200"
-    },
-    {
-      "title": "Fledermäuse verirren sich in Potsdamer Wohnungen und Häuser",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/potsdam-spaetsommer-fledermaus-wohnung-sorge-winterschlaf.html",
-      "date": "Fri, 21 Aug 2026 15:14:24 +0200"
-    },
-    {
-      "title": "Innenminister Dobrindt: Verdacht auf Anschlagspläne nach Waffenfund nahe Berlin",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/08/geheimes-waffenlager-anschlagsverdacht-berlin-brandenburg-innenminister-russland.html",
-      "date": "Fri, 21 Aug 2026 15:10:50 +0200"
     }
   ],
   "police": [
