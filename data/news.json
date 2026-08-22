@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Berlin: SEK nimmt Mann nach Schüssen in Mariendorf fest",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-polizei-sek-einsatz-mariendorf-schreckschusswaffe-festnahme.html",
+      "date": "Sat, 22 Aug 2026 11:15:07 +0200"
+    },
+    {
+      "title": "Einschulung in Berlin: So viel kostet der Schulstart",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/schulanfang-berlin-schulranzen-schulmaterial-teurer-schuleinfuehrung.html",
+      "date": "Sat, 22 Aug 2026 10:46:07 +0200"
+    },
+    {
       "title": "Justizministerin will nach CSD-Anschlag Grundgesetz ändern",
       "link": "https://www.rbb24.de/politik/beitrag/2026/08/berlin-grundgesetzaenderung-hubig-schutz-queere-menschen.html",
       "date": "Sat, 22 Aug 2026 10:10:25 +0200"
@@ -36,11 +46,6 @@
       "date": "Sat, 22 Aug 2026 07:14:03 +0200"
     },
     {
-      "title": "Einschulung in Berlin: So viel kostet der Schulstart",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/schulanfang-berlin-schulranzen-schulmaterial-teurer-schuleinfuehrung.html",
-      "date": "Sat, 22 Aug 2026 07:13:54 +0200"
-    },
-    {
       "title": "Handball: Potsdam zittert sich zum Pokalsieg über Vinnhorst",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/handball-pokal-erste-runde-vinnhorst-vfl-potsdam.html",
       "date": "Fri, 21 Aug 2026 22:58:38 +0200"
@@ -54,14 +59,14 @@
       "title": "RE1: Bauarbeiten am Bahnhof Fangschleuse verzögern sich erneut",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/bahnhof-fangschleuse-re1-bauarbeite-verzoegerung.html",
       "date": "Fri, 21 Aug 2026 18:51:06 +0200"
-    },
-    {
-      "title": "Berliner Bäderbetriebe bieten Hundebadetage in einigen Freibecken",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/hundeschwimmen-bbb-berlin-baederbetriebe-freibad-fellnase-fiffi-wasser.html",
-      "date": "Fri, 21 Aug 2026 17:25:00 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Mann schießt vom Balkon – Festnahme durch SEK",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705961.php",
+      "date": "Sat, 22 Aug 2026 10:40:41 +0200"
+    },
     {
       "title": "Gesuchter Vermisster wieder untergebracht",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705919.php",
@@ -111,17 +116,22 @@
       "title": "Regenbogenflagge beschädigt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704843.php",
       "date": "Wed, 19 Aug 2026 13:38:40 +0200"
-    },
-    {
-      "title": "Radfahrer nach Unfall mit Autotür verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704835.php",
-      "date": "Wed, 19 Aug 2026 13:23:09 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Berlin: SEK nimmt Mann nach Schüssen in Mariendorf fest",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-polizei-sek-einsatz-mariendorf-schreckschusswaffe-festnahme.html",
+      "date": "Sat, 22 Aug 2026 11:15:07 +0200"
+    },
+    {
+      "title": "Einschulung in Berlin: So viel kostet der Schulstart",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/schulanfang-berlin-schulranzen-schulmaterial-teurer-schuleinfuehrung.html",
+      "date": "Sat, 22 Aug 2026 10:46:07 +0200"
+    },
     {
       "title": "Erste Saisonbilanz: Volle Becken in Berliner Freibädern",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-baeder-betriebe-bilanz-sommersaison.html",
@@ -136,11 +146,6 @@
       "title": "Temporäres Kloster bei Neuzelle feiert Richtfest",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/kloster-neuzelle-treppeln-richtfest-moenche.html",
       "date": "Sat, 22 Aug 2026 07:14:23 +0200"
-    },
-    {
-      "title": "Einschulung in Berlin: So viel kostet der Schulstart",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/schulanfang-berlin-schulranzen-schulmaterial-teurer-schuleinfuehrung.html",
-      "date": "Sat, 22 Aug 2026 07:13:54 +0200"
     },
     {
       "title": "Frauenleiche in Gebüsch in Prenzlauer Berg gefunden",
@@ -176,11 +181,6 @@
       "title": "Waldbrandbericht 2025: Mehr als 300 Waldbrände in Brandenburg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-waldbraende-waldbrandbericht-2025-.html",
       "date": "Fri, 21 Aug 2026 15:42:10 +0200"
-    },
-    {
-      "title": "Banküberfälle in NRW: Durchsuchungen in Berlin und Brandenburg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/bankueberfaelle-aachen-nrw-festnahme-spanien-zaragoza-razzia-berlin.html",
-      "date": "Fri, 21 Aug 2026 15:34:00 +0200"
     }
   ]
 }
