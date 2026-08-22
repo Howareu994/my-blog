@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Hubig will zum Schutz queerer Menschen Grundgesetz ändern",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/08/berlin-grundgesetzaenderung-hubig-schutz-queere-menschen.html",
+      "date": "Sat, 22 Aug 2026 09:06:19 +0200"
+    },
+    {
+      "title": "Erste Saisonbilanz: Volle Becken in Berliner Freibädern",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-baeder-betriebe-bilanz-sommersaison.html",
+      "date": "Sat, 22 Aug 2026 08:58:03 +0200"
+    },
+    {
+      "title": "Staatsanwaltschaft bearbeitet Hunderte neue Fälle antisemitischer Straftaten",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-staatsanwaltschaft-hunderte-neue-faelle-antisemitismus.html",
+      "date": "Sat, 22 Aug 2026 08:44:38 +0200"
+    },
+    {
       "title": "ZAZ in der Zitadelle Spandau: Vom Pfeifkonzert in die Arme der Fans",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/08/berlin-zaz-zitadelle-spandau-konzert-kritik.html",
       "date": "Sat, 22 Aug 2026 08:03:00 +0200"
@@ -44,21 +59,6 @@
       "title": "Berliner Bäderbetriebe bieten Hundebadetage in einigen Freibecken",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/hundeschwimmen-bbb-berlin-baederbetriebe-freibad-fellnase-fiffi-wasser.html",
       "date": "Fri, 21 Aug 2026 17:25:00 +0200"
-    },
-    {
-      "title": "Steinreich will nicht noch mehr Windräder in der Gemeinde haben",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-steinreich-zu-viele-windraeder.html",
-      "date": "Fri, 21 Aug 2026 17:08:53 +0200"
-    },
-    {
-      "title": "Union Berlin: Die Ära Lustrinelli beginnt im Pokal gegen Braunschweig",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/berlin-sport-fussball-union-pokal-eintracht-braunschweig-lustrinelli-vorbericht.html",
-      "date": "Fri, 21 Aug 2026 16:38:38 +0200"
-    },
-    {
-      "title": "Berlin verzeichnet fast 405.000 Schüler für das neue Schuljahr",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/08/berlin-schule-schuljahr-schueler-lehrkraefte-einschulung.html",
-      "date": "Fri, 21 Aug 2026 15:30:19 +0200"
     }
   ],
   "police": [
@@ -123,6 +123,16 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Erste Saisonbilanz: Volle Becken in Berliner Freibädern",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-baeder-betriebe-bilanz-sommersaison.html",
+      "date": "Sat, 22 Aug 2026 08:58:03 +0200"
+    },
+    {
+      "title": "Staatsanwaltschaft bearbeitet Hunderte neue Fälle antisemitischer Straftaten",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-staatsanwaltschaft-hunderte-neue-faelle-antisemitismus.html",
+      "date": "Sat, 22 Aug 2026 08:44:38 +0200"
+    },
+    {
       "title": "Temporäres Kloster bei Neuzelle feiert Richtfest",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/kloster-neuzelle-treppeln-richtfest-moenche.html",
       "date": "Sat, 22 Aug 2026 07:14:23 +0200"
@@ -171,16 +181,6 @@
       "title": "Banküberfälle in NRW: Durchsuchungen in Berlin und Brandenburg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/bankueberfaelle-aachen-nrw-festnahme-spanien-zaragoza-razzia-berlin.html",
       "date": "Fri, 21 Aug 2026 15:34:00 +0200"
-    },
-    {
-      "title": "Fledermäuse verirren sich in Potsdamer Wohnungen und Häuser",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/potsdam-spaetsommer-fledermaus-wohnung-sorge-winterschlaf.html",
-      "date": "Fri, 21 Aug 2026 15:14:24 +0200"
-    },
-    {
-      "title": "Panda-Zwillinge Leni und Lotte feiern 2. Geburtstag im Berliner Zoo",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-panda-geburtstag-berliner-zoo-leni-lotte.html",
-      "date": "Fri, 21 Aug 2026 14:36:26 +0200"
     }
   ]
 }
