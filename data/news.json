@@ -63,6 +63,16 @@
   ],
   "police": [
     {
+      "title": "Mann nach Messerangriff im Krankenhaus",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705965.php",
+      "date": "Sat, 22 Aug 2026 11:56:53 +0200"
+    },
+    {
+      "title": "Frau nach religionsfeindlicher Beleidigung mit Glasflasche angegriffen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705963.php",
+      "date": "Sat, 22 Aug 2026 11:29:29 +0200"
+    },
+    {
       "title": "Mann schießt vom Balkon – Festnahme durch SEK",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705961.php",
       "date": "Sat, 22 Aug 2026 10:40:41 +0200"
@@ -106,16 +116,6 @@
       "title": "Senior bei Verkehrsunfall verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705347.php",
       "date": "Thu, 20 Aug 2026 12:52:00 +0200"
-    },
-    {
-      "title": "Festnahmen nach versuchtem Trickdiebstahl",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704883.php",
-      "date": "Wed, 19 Aug 2026 14:18:54 +0200"
-    },
-    {
-      "title": "Regenbogenflagge beschädigt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704843.php",
-      "date": "Wed, 19 Aug 2026 13:38:40 +0200"
     }
   ],
   "free_events": [],
