@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Vollere Straßen und zigtausend Flugpassagiere zum Ferienende",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-brandenburg-flughafen-ber-passagiere-ferienende.html",
+      "date": "Sun, 23 Aug 2026 12:15:02 +0200"
+    },
+    {
       "title": "Tfeld-Festival: Mehr Lokalpatriotismus geht nicht",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/08/berlin-tfeld-festival-tempelhofer-feld.html",
       "date": "Sun, 23 Aug 2026 11:50:26 +0200"
@@ -54,11 +59,6 @@
       "title": "Eisbären verlieren erstes Testspiel unter Trainer Dubois",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/eisbaeren-berlin-ev-zug-dolomitencup-dubois-augsburger-panther.html",
       "date": "Sat, 22 Aug 2026 19:20:03 +0200"
-    },
-    {
-      "title": "Babelsberg, RSV Eintracht und Hertha Zehlendorf ohne Blöße",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/berlin-brandenburg-landespokal-runde-1-babelsberg-rsv-eintracht-hertha-zehlendorf.html",
-      "date": "Sat, 22 Aug 2026 17:46:23 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Vollere Straßen und zigtausend Flugpassagiere zum Ferienende",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-brandenburg-flughafen-ber-passagiere-ferienende.html",
+      "date": "Sun, 23 Aug 2026 12:15:02 +0200"
+    },
+    {
       "title": "Viel Sonne, wenig Wasser - und trotzdem volle Kürbisfelder in Linum",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/kuerbis-anbau-linum-gemuese-brandenburg.html",
       "date": "Sun, 23 Aug 2026 07:21:44 +0200"
@@ -181,11 +186,6 @@
       "title": "Temporäres Kloster bei Neuzelle feiert Richtfest",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/kloster-neuzelle-treppeln-richtfest-moenche.html",
       "date": "Sat, 22 Aug 2026 12:39:49 +0200"
-    },
-    {
-      "title": "Einige Freibäder in der Region öffnen ihre Becken für Hunde",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-berlin-freibaeder-hunde-baden-saisonende.html",
-      "date": "Sat, 22 Aug 2026 12:18:13 +0200"
     }
   ]
 }
