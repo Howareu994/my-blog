@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Tfeld-Festival: Mehr Lokalpatriotismus geht nicht",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/08/berlin-tfeld-festival-tempelhofer-feld.html",
+      "date": "Sun, 23 Aug 2026 10:55:30 +0200"
+    },
+    {
       "title": "Boßdorf will Niedergörsdorfs Bürgermeisterin bleiben",
       "link": "https://www.rbb24.de/politik/wahl/brandenburg-buergermeisterwahlen/2026/teltow-flaeming-buergemeisterin-bossdorf-wiederwahl-quorum-keine-gegenkandidaten.html",
       "date": "Sun, 23 Aug 2026 10:08:39 +0200"
@@ -54,14 +59,24 @@
       "title": "Am Späti in Berlin-Lichtenberg: \"Wenn die Kinder ihren Weg gehen, bin ich aus Berlin weg\"",
       "link": "https://www.rbb24.de/panorama/thema/spaeti/berlin-lichtenberg-am-spaeti-controllerin.html",
       "date": "Sat, 22 Aug 2026 17:03:19 +0200"
-    },
-    {
-      "title": "Hertha gewinnt Pokaldrama in Saarbrücken im Elfmeterschießen",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-dfb-pokal-hertha-bsc-fc-saarbruecken-spielbericht-liveticker-audiostream.html",
-      "date": "Sat, 22 Aug 2026 15:25:00 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Sachbeschädigungen an Wahlplakaten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706019.php",
+      "date": "Sun, 23 Aug 2026 11:05:14 +0200"
+    },
+    {
+      "title": "Mann geschlagen und rassistisch beleidigt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706017.php",
+      "date": "Sun, 23 Aug 2026 10:56:39 +0200"
+    },
+    {
+      "title": "Mit Gullydeckel in Supermarkt eingebrochen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706016.php",
+      "date": "Sun, 23 Aug 2026 10:38:40 +0200"
+    },
     {
       "title": "Mann mit Cuttermesser verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705977.php",
@@ -106,21 +121,6 @@
       "title": "Gesuchter Vermisster wieder untergebracht",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705919.php",
       "date": "Fri, 21 Aug 2026 21:55:00 +0200"
-    },
-    {
-      "title": "Sachbeschädigungen an Wahlplakaten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705916.php",
-      "date": "Fri, 21 Aug 2026 16:13:54 +0200"
-    },
-    {
-      "title": "Mann mit Messer angegriffen – Ermittlungen zu einem versuchten Tötungsdelikt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705905.php",
-      "date": "Fri, 21 Aug 2026 15:28:22 +0200"
-    },
-    {
-      "title": "Brandstiftung an einem Späti",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705868.php",
-      "date": "Fri, 21 Aug 2026 14:21:35 +0200"
     }
   ],
   "free_events": [],
