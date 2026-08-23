@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Jetzt live: Gelingt dem VfB Krieschow gegen Mainz die Sensation?",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-dfb-pokal-vfb-krieschow-mainz-05-spielbericht-liveticker-audiostream.html",
+      "date": "Sun, 23 Aug 2026 15:10:39 +0200"
+    },
+    {
+      "title": "Jetzt live: Packt Union Berlin Pokal-Hürde Braunschweig?",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-dfb-pokal-union-berlin-eintracht-braunschweig-1-runde-spielbericht-audiostream-ticker.html",
+      "date": "Sun, 23 Aug 2026 15:10:19 +0200"
+    },
+    {
+      "title": "Kolumne: Was war das denn? - Und plötzlich ist der Sommer fast vorbei",
+      "link": "https://www.rbb24.de/panorama/thema/was-war-das-denn/kolumne-berlin-sommer-ende-touristen-rueckkehr.html",
+      "date": "Sun, 23 Aug 2026 14:54:16 +0200"
+    },
+    {
       "title": "Pop-Kultur Festival startet am Montag in Berlin",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/08/berlin-pop-kultur-festival-wedding-prenzlauer-berg.html",
       "date": "Sun, 23 Aug 2026 13:24:15 +0200"
@@ -44,24 +59,14 @@
       "title": "CSD-Anschlag: Die zwei Gesichter des Abdul B.",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/csd-anschlag-berlin-mutmasslicher-attentaeter-abdul-b.html",
       "date": "Sun, 23 Aug 2026 07:20:34 +0200"
-    },
-    {
-      "title": "Dreieck Funkturm für 26 Stunden teils gesperrt - auch Ringbahn unterbrochen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/ringbahnbruecke-berlin-neubau-a100-halenseestrasse-sperrungen.html",
-      "date": "Sat, 22 Aug 2026 21:06:42 +0200"
-    },
-    {
-      "title": "Cottbuser Turner Stelmakh stürzt am Reck und wird EM-Achter",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/turnen-em-cottbus-radomyr-stelmakh-reck-sturz-medaille.html",
-      "date": "Sat, 22 Aug 2026 20:42:01 +0200"
-    },
-    {
-      "title": "Erste Saisonbilanz: Volle Becken in Berliner Freibädern",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-baeder-betriebe-bilanz-sommersaison.html",
-      "date": "Sat, 22 Aug 2026 20:06:14 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Tote Frau gefunden – Polizei und Staatsanwaltschaft bitten um Mithilfe",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705979.php",
+      "date": "Sun, 23 Aug 2026 15:00:00 +0200"
+    },
     {
       "title": "Verkehrsunfall zwischen Radfahrer und Fußgängerin",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706027.php",
@@ -116,17 +121,17 @@
       "title": "Frau nach religionsfeindlicher Beleidigung mit Glasflasche angegriffen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705963.php",
       "date": "Sat, 22 Aug 2026 11:29:29 +0200"
-    },
-    {
-      "title": "Mann schießt vom Balkon – Festnahme durch SEK",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705961.php",
-      "date": "Sat, 22 Aug 2026 10:40:41 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Kolumne: Was war das denn? - Und plötzlich ist der Sommer fast vorbei",
+      "link": "https://www.rbb24.de/panorama/thema/was-war-das-denn/kolumne-berlin-sommer-ende-touristen-rueckkehr.html",
+      "date": "Sun, 23 Aug 2026 14:54:16 +0200"
+    },
     {
       "title": "Vollere Straßen und zigtausend Flugpassagiere zum Ferienende",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-brandenburg-flughafen-ber-passagiere-ferienende.html",
@@ -181,11 +186,6 @@
       "title": "Intime Fotos gemacht: Schüler verlassen Potsdamer Gymnasium",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-potsdam-intime-fotos-schule-verlassen.html",
       "date": "Sat, 22 Aug 2026 13:11:05 +0200"
-    },
-    {
-      "title": "Temporäres Kloster bei Neuzelle feiert Richtfest",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/kloster-neuzelle-treppeln-richtfest-moenche.html",
-      "date": "Sat, 22 Aug 2026 12:39:49 +0200"
     }
   ]
 }
