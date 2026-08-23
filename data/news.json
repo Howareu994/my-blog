@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Pop-Kultur Festival startet am Montag in Berlin",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/08/berlin-pop-kultur-festival-wedding-prenzlauer-berg.html",
+      "date": "Sun, 23 Aug 2026 13:24:15 +0200"
+    },
+    {
       "title": "Vollere Straßen und zigtausend Flugpassagiere zum Ferienende",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-brandenburg-flughafen-ber-passagiere-ferienende.html",
       "date": "Sun, 23 Aug 2026 12:15:02 +0200"
@@ -54,14 +59,14 @@
       "title": "Erste Saisonbilanz: Volle Becken in Berliner Freibädern",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-baeder-betriebe-bilanz-sommersaison.html",
       "date": "Sat, 22 Aug 2026 20:06:14 +0200"
-    },
-    {
-      "title": "Eisbären verlieren erstes Testspiel unter Trainer Dubois",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/eisbaeren-berlin-ev-zug-dolomitencup-dubois-augsburger-panther.html",
-      "date": "Sat, 22 Aug 2026 19:20:03 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Verkehrsunfall zwischen Radfahrer und Fußgängerin",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706027.php",
+      "date": "Sun, 23 Aug 2026 13:37:07 +0200"
+    },
     {
       "title": "Sachbeschädigungen an Wahlplakaten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706019.php",
@@ -116,11 +121,6 @@
       "title": "Mann schießt vom Balkon – Festnahme durch SEK",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705961.php",
       "date": "Sat, 22 Aug 2026 10:40:41 +0200"
-    },
-    {
-      "title": "Gesuchter Vermisster wieder untergebracht",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705919.php",
-      "date": "Fri, 21 Aug 2026 21:55:00 +0200"
     }
   ],
   "free_events": [],
