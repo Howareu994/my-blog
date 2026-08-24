@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "DFB-Pokal live und im Ticker: Altglienicke will Reeses Wolfsburger ärgern",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/dfb-pokal-live-vsg-altglienicke-vfl-wolfsburg-fabian-reese-cigerci.html",
+      "date": "Mon, 24 Aug 2026 18:20:00 +0200"
+    },
+    {
+      "title": "Autonome Shuttles: Verkehrsministerium in Gesprächen mit Tesla",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/08/brandenburg-autonomes-shuttle-oepnv-robert-crumbach-tesla.html",
+      "date": "Mon, 24 Aug 2026 17:40:28 +0200"
+    },
+    {
+      "title": "Tote Fische in Nebenarm der Oder: Umweltamt gibt Entwarnung",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/oder-tote-fische-polnische-nebengewaesser-goldalgenbluete.html",
+      "date": "Mon, 24 Aug 2026 17:31:56 +0200"
+    },
+    {
       "title": "Neue Rettungswache im Elbe-Elster-Kreis eröffnet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/neue-rettungswache-gross-thiemig-elbe-elster.html",
       "date": "Mon, 24 Aug 2026 16:49:37 +0200"
@@ -14,11 +29,6 @@
       "title": "Infanterie-Munition in Schrottcontainer entdeckt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/infanterie-munition-entdeckt-schrott-schlieben.html",
       "date": "Mon, 24 Aug 2026 16:05:00 +0200"
-    },
-    {
-      "title": "Vier Tonnen tote Fische aus Nebengewässer der Oder geborgen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/oder-tote-fische-polnische-nebengewaesser-goldalgenbluete.html",
-      "date": "Mon, 24 Aug 2026 15:50:36 +0200"
     },
     {
       "title": "Brandenburg will Förderbank ILB vollständig übernehmen",
@@ -49,16 +59,6 @@
       "title": "Neues Frauenhaus in Berlin eröffnet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-neues-frauenhaus-gewalt-schutz-kinder-familien.html",
       "date": "Mon, 24 Aug 2026 13:40:36 +0200"
-    },
-    {
-      "title": "\"Burning Berlin\": Bedrohte Liebe im aufkeimenden Faschismus",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/08/queeres-musical-burning-berlin-kritik-1920er-jahre.html",
-      "date": "Mon, 24 Aug 2026 13:38:00 +0200"
-    },
-    {
-      "title": "Wahl-O-Mat zur Berlin-Wahl 2026: Hier können Sie ihn nutzen",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/wahl-o-mat-thesen-parteien-standpunkte-online.html",
-      "date": "Mon, 24 Aug 2026 11:45:56 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Tote Fische in Nebenarm der Oder: Umweltamt gibt Entwarnung",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/oder-tote-fische-polnische-nebengewaesser-goldalgenbluete.html",
+      "date": "Mon, 24 Aug 2026 17:31:56 +0200"
+    },
+    {
       "title": "Neue Rettungswache im Elbe-Elster-Kreis eröffnet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/neue-rettungswache-gross-thiemig-elbe-elster.html",
       "date": "Mon, 24 Aug 2026 16:49:37 +0200"
@@ -141,11 +146,6 @@
       "title": "Wie gelingt gutes Altern in ländlichen Regionen?",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/altern-alterperimentale-radtour-brandenburg-polen.html",
       "date": "Mon, 24 Aug 2026 15:55:58 +0200"
-    },
-    {
-      "title": "Vier Tonnen tote Fische aus Nebengewässer der Oder geborgen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/oder-tote-fische-polnische-nebengewaesser-goldalgenbluete.html",
-      "date": "Mon, 24 Aug 2026 15:50:36 +0200"
     },
     {
       "title": "Unbekannte schießen auf Frisörsalon in Berlin-Lichterfelde",
