@@ -1,9 +1,29 @@
 {
   "traffic": [
     {
+      "title": "Basketball: Alba komplettiert Kader mit US-Amerikanerin Ware",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/basketball-alba-berlin-frauen-lauren-ware-neuzugang.html",
+      "date": "Mon, 24 Aug 2026 14:20:45 +0200"
+    },
+    {
+      "title": "Hertha holt mit Pedersen den langersehnten Linksverteidiger",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/berlin-fussball-hertha-bsc-mads-pedersen-linksverteidiger-augsburg-transfer.html",
+      "date": "Mon, 24 Aug 2026 14:16:59 +0200"
+    },
+    {
       "title": "Schüsse auf Barbier-Salon an der Osdorfer Straße in Steglitz-Zehlendorf",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/organisierte-kriminalitaet-schuesse-geschaeft-steglitz-zehlendorf.html",
-      "date": "Mon, 24 Aug 2026 12:10:55 +0200"
+      "date": "Mon, 24 Aug 2026 13:43:25 +0200"
+    },
+    {
+      "title": "Neues Frauenhaus in Berlin eröffnet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-neues-frauenhaus-gewalt-schutz-kinder-familien.html",
+      "date": "Mon, 24 Aug 2026 13:40:36 +0200"
+    },
+    {
+      "title": "\"Burning Berlin\": Bedrohte Liebe im aufkeimenden Faschismus",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/08/queeres-musical-burning-berlin-kritik-1920er-jahre.html",
+      "date": "Mon, 24 Aug 2026 13:38:00 +0200"
     },
     {
       "title": "Wahl-O-Mat zur Berlin-Wahl 2026: Hier können Sie ihn nutzen",
@@ -36,32 +56,17 @@
       "date": "Mon, 24 Aug 2026 10:01:29 +0200"
     },
     {
-      "title": "Mehr als vier Tonnen tote Fische aus Nebengewässer der Oder geborgen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/oder-tote-fische-polnische-nebengewaesser-goldalgenbluete.html",
-      "date": "Mon, 24 Aug 2026 09:00:04 +0200"
-    },
-    {
       "title": "Projekt in Zeuthen: \"Man muss loslegen und machen, sonst passiert nichts\"",
       "link": "https://www.rbb24.de/politik/beitrag/2026/08/zeuthen-open-streets-besuch-rene-wilke-brandenburg.html",
       "date": "Mon, 24 Aug 2026 07:57:15 +0200"
-    },
-    {
-      "title": "L49 zwischen Lübbenau und Boblitz bis Mitte September vollgesperrt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-sperrung-l49-luebbenau-boblitz.html",
-      "date": "Mon, 24 Aug 2026 06:29:46 +0200"
-    },
-    {
-      "title": "Stefan Evers im Wahlkampf: Der Späteinsteiger, der die CDU retten soll",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/spitzenkandidaten/stefan-evers-cdu-portraet.html",
-      "date": "Mon, 24 Aug 2026 06:14:00 +0200"
-    },
-    {
-      "title": "Berliner Landespokal: Favoriten setzen sich durch",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/berlin-fussball-landespokal-bfc-preussen-tasmania-delay-tennis-borussia.html",
-      "date": "Sun, 23 Aug 2026 20:22:50 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Wohnungsraub mit Schusswaffen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706328.php",
+      "date": "Mon, 24 Aug 2026 13:50:05 +0200"
+    },
     {
       "title": "Schussabgaben auf Geschäft",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706141.php",
@@ -116,11 +121,6 @@
       "title": "Schutzscheibe in Linienbus eingeschlagen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705968.php",
       "date": "Sat, 22 Aug 2026 12:43:42 +0200"
-    },
-    {
-      "title": "Rad- und Motorrollerfahrer kollidieren – beide im Krankenhaus",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705966.php",
-      "date": "Sat, 22 Aug 2026 12:15:42 +0200"
     }
   ],
   "free_events": [],
@@ -128,9 +128,14 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Schüsse auf Barbier-Salon an der Osdorfer Straße in Steglitz-Zehlendorf",
+      "title": "Schüsse auf Barbier-Salon in Steglitz-Zehlendorf",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/organisierte-kriminalitaet-schuesse-geschaeft-steglitz-zehlendorf.html",
-      "date": "Mon, 24 Aug 2026 12:10:55 +0200"
+      "date": "Mon, 24 Aug 2026 14:28:47 +0200"
+    },
+    {
+      "title": "Neues Frauenhaus in Berlin eröffnet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-neues-frauenhaus-gewalt-schutz-kinder-familien.html",
+      "date": "Mon, 24 Aug 2026 13:40:36 +0200"
     },
     {
       "title": "35-jährige Autofahrerin erleidet Asthma-Anfall auf der Autobahn A12",
@@ -181,11 +186,6 @@
       "title": "CSD-Anschlag: Die zwei Gesichter des Abdul B.",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/csd-anschlag-berlin-mutmasslicher-attentaeter-abdul-b.html",
       "date": "Sun, 23 Aug 2026 07:20:34 +0200"
-    },
-    {
-      "title": "Dreieck Funkturm für 26 Stunden teils gesperrt - auch Ringbahn unterbrochen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/ringbahnbruecke-berlin-neubau-a100-halenseestrasse-sperrungen.html",
-      "date": "Sat, 22 Aug 2026 21:06:42 +0200"
     }
   ]
 }
