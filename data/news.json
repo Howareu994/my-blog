@@ -1,12 +1,17 @@
 {
   "traffic": [
     {
+      "title": "Neue Rettungswache im Elbe-Elster-Kreis eröffnet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/neue-rettungswache-gross-thiemig-elbe-elster.html",
+      "date": "Mon, 24 Aug 2026 16:49:37 +0200"
+    },
+    {
       "title": "Deutsches Team mit Rekord-Starts bei der Ruder-WM",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/rudern-berlin-brandenburg-wm-weltmeisterschaft-nationalmannschaft.html",
       "date": "Mon, 24 Aug 2026 16:10:30 +0200"
     },
     {
-      "title": "Infanteriemunition in Schrottcontainer entdeckt",
+      "title": "Infanterie-Munition in Schrottcontainer entdeckt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/infanterie-munition-entdeckt-schrott-schlieben.html",
       "date": "Mon, 24 Aug 2026 16:05:00 +0200"
     },
@@ -54,20 +59,81 @@
       "title": "Wahl-O-Mat zur Berlin-Wahl 2026: Hier können Sie ihn nutzen",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/wahl-o-mat-thesen-parteien-standpunkte-online.html",
       "date": "Mon, 24 Aug 2026 11:45:56 +0200"
-    },
-    {
-      "title": "35-jährige Autofahrerin erleidet Asthma-Anfall auf der Autobahn A12",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/verkehrsunfall-a12-asthma-verletzte-fuerstenwalde-brandenburg-polizei.html",
-      "date": "Mon, 24 Aug 2026 11:42:05 +0200"
     }
   ],
-  "police": [],
+  "police": [
+    {
+      "title": "Wohnungsraub mit Schusswaffen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706328.php",
+      "date": "Mon, 24 Aug 2026 13:50:05 +0200"
+    },
+    {
+      "title": "Schussabgaben auf Geschäft",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706141.php",
+      "date": "Mon, 24 Aug 2026 10:11:19 +0200"
+    },
+    {
+      "title": "Mehrere Fahrzeuge durch Feuer beschädigt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706122.php",
+      "date": "Mon, 24 Aug 2026 09:39:51 +0200"
+    },
+    {
+      "title": "Tote Frau gefunden – Polizei und Staatsanwaltschaft bitten um Mithilfe",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705979.php",
+      "date": "Sun, 23 Aug 2026 15:00:00 +0200"
+    },
+    {
+      "title": "Verkehrsunfall zwischen Radfahrer und Fußgängerin",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706027.php",
+      "date": "Sun, 23 Aug 2026 13:37:07 +0200"
+    },
+    {
+      "title": "Sachbeschädigungen an Wahlplakaten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706019.php",
+      "date": "Sun, 23 Aug 2026 11:05:14 +0200"
+    },
+    {
+      "title": "Mann geschlagen und rassistisch beleidigt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706017.php",
+      "date": "Sun, 23 Aug 2026 10:56:39 +0200"
+    },
+    {
+      "title": "Mit Gullydeckel in Supermarkt eingebrochen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706016.php",
+      "date": "Sun, 23 Aug 2026 10:38:40 +0200"
+    },
+    {
+      "title": "Mann mit Cuttermesser verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705977.php",
+      "date": "Sat, 22 Aug 2026 15:25:15 +0200"
+    },
+    {
+      "title": "Fremdenfeindlich beleidigt und geschlagen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705976.php",
+      "date": "Sat, 22 Aug 2026 15:10:36 +0200"
+    },
+    {
+      "title": "Wahlplakate in Brand gesetzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705974.php",
+      "date": "Sat, 22 Aug 2026 14:45:47 +0200"
+    },
+    {
+      "title": "Schutzscheibe in Linienbus eingeschlagen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705968.php",
+      "date": "Sat, 22 Aug 2026 12:43:42 +0200"
+    }
+  ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Infanteriemunition in Schrottcontainer entdeckt",
+      "title": "Neue Rettungswache im Elbe-Elster-Kreis eröffnet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/neue-rettungswache-gross-thiemig-elbe-elster.html",
+      "date": "Mon, 24 Aug 2026 16:49:37 +0200"
+    },
+    {
+      "title": "Infanterie-Munition in Schrottcontainer entdeckt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/infanterie-munition-entdeckt-schrott-schlieben.html",
       "date": "Mon, 24 Aug 2026 16:05:00 +0200"
     },
@@ -120,11 +186,6 @@
       "title": "Vollere Straßen und zigtausend Flugpassagiere zum Ferienende",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-brandenburg-flughafen-ber-passagiere-ferienende.html",
       "date": "Sun, 23 Aug 2026 12:15:02 +0200"
-    },
-    {
-      "title": "Viel Sonne, wenig Wasser - und trotzdem volle Kürbisfelder in Linum",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/kuerbis-anbau-linum-gemuese-brandenburg.html",
-      "date": "Sun, 23 Aug 2026 07:21:44 +0200"
     }
   ]
 }
