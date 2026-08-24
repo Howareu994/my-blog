@@ -1,6 +1,26 @@
 {
   "traffic": [
     {
+      "title": "Berliner Landesnetz: Senatsverwaltungen nach Hackerangriff wieder online",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/08/hackerangriff-berlin-senatsverwaltungen-wieder-am-netz.html",
+      "date": "Mon, 24 Aug 2026 11:32:19 +0200"
+    },
+    {
+      "title": "Gasspeicher nur zur Hälfte gefüllt: Experten erwarten hohe Gaspreise für Verbraucher im Winter",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/08/steigende-gaspreise-experten-raten-zu-tarifcheck.html",
+      "date": "Mon, 24 Aug 2026 11:28:04 +0200"
+    },
+    {
+      "title": "Wahl-O-Mat zur Berlin-Wahl 2026: Hier können Sie ihn nutzen",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/wahl-o-mat-thesen-parteien-standpunkte-online.html",
+      "date": "Mon, 24 Aug 2026 11:16:01 +0200"
+    },
+    {
+      "title": "Nächtliche Sperrung Tiergartentunnel wegen Feuerwehrübung",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-mitte-tiergartentunnel-b96-sperrung-feuerwehr-uebung.html",
+      "date": "Mon, 24 Aug 2026 10:58:12 +0200"
+    },
+    {
       "title": "Schulstart in Berlin und Brandenburg: 800 Lehrkräfte fehlen, Rekordzahl an Schulkindern",
       "link": "https://www.rbb24.de/politik/beitrag/2026/08/berlin-brandenburg-schule-bildung-schulstart-schulkinder-lehrkraefte.html",
       "date": "Mon, 24 Aug 2026 10:01:29 +0200"
@@ -39,26 +59,6 @@
       "title": "Patrick Weiser: \"Sehe die Schattenseiten des Fußball sehr kritisch\"",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-interview-patrick-weiser-fsv-luckenwalde-berlin-trainer-mitchell-karriere.html",
       "date": "Sun, 23 Aug 2026 20:11:03 +0200"
-    },
-    {
-      "title": "Boßdorf bleibt Bürgermeisterin von Niedergörsdorf",
-      "link": "https://www.rbb24.de/politik/wahl/brandenburg-buergermeisterwahlen/2026/niedergoersdorf-buergermeister-wahl-ergebnis-doreen-bossdorf.html",
-      "date": "Sun, 23 Aug 2026 19:32:14 +0200"
-    },
-    {
-      "title": "Eishockey: Eisbären siegen souverän gegen Augsburg",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/eishockey-del-testspiel-eisbaeren-berlin-augsburger-panther.html",
-      "date": "Sun, 23 Aug 2026 19:05:24 +0200"
-    },
-    {
-      "title": "Turn-EM: Deutsches Männer-Team zum Abschluss auf Rang fünf",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/turnen-em-sc-cottbus-radomyr-stelmakh-team-finale.html",
-      "date": "Sun, 23 Aug 2026 18:34:40 +0200"
-    },
-    {
-      "title": "DFB-Pokal: Tapferes Krieschow kann Mainzer Torflut nicht verhindern",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-dfb-pokal-vfb-krieschow-mainz-05-spielbericht-liveticker-audiostream.html",
-      "date": "Sun, 23 Aug 2026 18:26:00 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Nächtliche Sperrung Tiergartentunnel wegen Feuerwehrübung",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-mitte-tiergartentunnel-b96-sperrung-feuerwehr-uebung.html",
+      "date": "Mon, 24 Aug 2026 10:58:12 +0200"
+    },
+    {
       "title": "Schüsse auf Geschäft an der Osdorfer Straße in Steglitz-Zehlendorf",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/organisierte-kriminalitaet-schuesse-geschaeft-steglitz-zehlendorf.html",
       "date": "Mon, 24 Aug 2026 09:02:02 +0200"
@@ -181,11 +186,6 @@
       "title": "Tornado in Fürstenwalde: Wann Versicherungen zahlen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/tornado-fuerstenwalde-versicherung-schaeden-haus-auto.html",
       "date": "Sat, 22 Aug 2026 20:54:00 +0200"
-    },
-    {
-      "title": "Erste Saisonbilanz: Volle Becken in Berliner Freibädern",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-baeder-betriebe-bilanz-sommersaison.html",
-      "date": "Sat, 22 Aug 2026 20:06:14 +0200"
     }
   ]
 }
