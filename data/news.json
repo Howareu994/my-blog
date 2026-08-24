@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Tuberkulose-Verdacht: Mitarbeiter in Pflegeheim Oberhavel werden getestet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/oberhavel-hohen-neuendorf-pflegeheim-tuberkulose.html",
+      "date": "Mon, 24 Aug 2026 18:41:00 +0200"
+    },
+    {
       "title": "DFB-Pokal live und im Ticker: Altglienicke will Reeses Wolfsburger ärgern",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/dfb-pokal-live-vsg-altglienicke-vfl-wolfsburg-fabian-reese-cigerci.html",
       "date": "Mon, 24 Aug 2026 18:20:00 +0200"
@@ -41,6 +46,11 @@
       "date": "Mon, 24 Aug 2026 15:29:01 +0200"
     },
     {
+      "title": "Fehlerhafte Schusswesten: Spranger kritisiert Hersteller Rheinmetall",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/08/polizei-fehlerhafte-schusswesten-aussortiert.html",
+      "date": "Mon, 24 Aug 2026 15:10:00 +0200"
+    },
+    {
       "title": "Unbekannte schießen auf Frisörsalon in Berlin-Lichterfelde",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/organisierte-kriminalitaet-schuesse-geschaeft-steglitz-zehlendorf.html",
       "date": "Mon, 24 Aug 2026 14:37:22 +0200"
@@ -49,16 +59,6 @@
       "title": "Basketball: Alba komplettiert Kader mit US-Amerikanerin Ware",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/basketball-alba-berlin-frauen-lauren-ware-neuzugang.html",
       "date": "Mon, 24 Aug 2026 14:20:45 +0200"
-    },
-    {
-      "title": "Hertha holt mit Pedersen den langersehnten Linksverteidiger",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/berlin-fussball-hertha-bsc-mads-pedersen-linksverteidiger-augsburg-transfer.html",
-      "date": "Mon, 24 Aug 2026 14:16:59 +0200"
-    },
-    {
-      "title": "Neues Frauenhaus in Berlin eröffnet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-neues-frauenhaus-gewalt-schutz-kinder-familien.html",
-      "date": "Mon, 24 Aug 2026 13:40:36 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Tuberkulose-Verdacht: Mitarbeiter in Pflegeheim Oberhavel werden getestet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/oberhavel-hohen-neuendorf-pflegeheim-tuberkulose.html",
+      "date": "Mon, 24 Aug 2026 18:41:00 +0200"
+    },
+    {
       "title": "Tote Fische in Nebenarm der Oder: Umweltamt gibt Entwarnung",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/oder-tote-fische-polnische-nebengewaesser-goldalgenbluete.html",
       "date": "Mon, 24 Aug 2026 17:31:56 +0200"
@@ -181,11 +186,6 @@
       "title": "Kolumne: Was war das denn? - Und plötzlich ist der Sommer fast vorbei",
       "link": "https://www.rbb24.de/panorama/thema/was-war-das-denn/kolumne-berlin-sommer-ende-touristen-rueckkehr.html",
       "date": "Sun, 23 Aug 2026 14:54:16 +0200"
-    },
-    {
-      "title": "Vollere Straßen und zigtausend Flugpassagiere zum Ferienende",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-brandenburg-flughafen-ber-passagiere-ferienende.html",
-      "date": "Sun, 23 Aug 2026 12:15:02 +0200"
     }
   ]
 }
