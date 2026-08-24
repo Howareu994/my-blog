@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Nach CSD-Anschlag: Berlins Innensenatorin will feste Barrieren am Tiergarten",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/08/csd-anschlag-spranger-feste-barrieren-tiergarten-schutz-veranstaltungen.html",
+      "date": "Mon, 24 Aug 2026 15:29:01 +0200"
+    },
+    {
+      "title": "Mehr als vier Tonnen tote Fische aus Nebengewässer der Oder geborgen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/oder-tote-fische-polnische-nebengewaesser-goldalgenbluete.html",
+      "date": "Mon, 24 Aug 2026 15:20:52 +0200"
+    },
+    {
+      "title": "Unbekannte schießen auf Frisörsalon in Berlin-Lichterfelde",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/organisierte-kriminalitaet-schuesse-geschaeft-steglitz-zehlendorf.html",
+      "date": "Mon, 24 Aug 2026 14:37:22 +0200"
+    },
+    {
       "title": "Basketball: Alba komplettiert Kader mit US-Amerikanerin Ware",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/basketball-alba-berlin-frauen-lauren-ware-neuzugang.html",
       "date": "Mon, 24 Aug 2026 14:20:45 +0200"
@@ -9,11 +24,6 @@
       "title": "Hertha holt mit Pedersen den langersehnten Linksverteidiger",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/berlin-fussball-hertha-bsc-mads-pedersen-linksverteidiger-augsburg-transfer.html",
       "date": "Mon, 24 Aug 2026 14:16:59 +0200"
-    },
-    {
-      "title": "Schüsse auf Barbier-Salon an der Osdorfer Straße in Steglitz-Zehlendorf",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/organisierte-kriminalitaet-schuesse-geschaeft-steglitz-zehlendorf.html",
-      "date": "Mon, 24 Aug 2026 13:43:25 +0200"
     },
     {
       "title": "Neues Frauenhaus in Berlin eröffnet",
@@ -49,16 +59,6 @@
       "title": "Nächtliche Sperrung Tiergartentunnel wegen Feuerwehrübung",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-mitte-tiergartentunnel-b96-sperrung-feuerwehr-uebung.html",
       "date": "Mon, 24 Aug 2026 10:58:12 +0200"
-    },
-    {
-      "title": "Schulstart in Berlin und Brandenburg: 800 Lehrkräfte fehlen, Rekordzahl an Schulkindern",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/08/berlin-brandenburg-schule-bildung-schulstart-schulkinder-lehrkraefte.html",
-      "date": "Mon, 24 Aug 2026 10:01:29 +0200"
-    },
-    {
-      "title": "Projekt in Zeuthen: \"Man muss loslegen und machen, sonst passiert nichts\"",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/08/zeuthen-open-streets-besuch-rene-wilke-brandenburg.html",
-      "date": "Mon, 24 Aug 2026 07:57:15 +0200"
     }
   ],
   "police": [
@@ -128,9 +128,14 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Schüsse auf Barbier-Salon in Steglitz-Zehlendorf",
+      "title": "Mehr als vier Tonnen tote Fische aus Nebengewässer der Oder geborgen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/oder-tote-fische-polnische-nebengewaesser-goldalgenbluete.html",
+      "date": "Mon, 24 Aug 2026 15:20:52 +0200"
+    },
+    {
+      "title": "Unbekannte schießen auf Frisörsalon in Berlin-Lichterfelde",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/organisierte-kriminalitaet-schuesse-geschaeft-steglitz-zehlendorf.html",
-      "date": "Mon, 24 Aug 2026 14:28:47 +0200"
+      "date": "Mon, 24 Aug 2026 14:37:22 +0200"
     },
     {
       "title": "Neues Frauenhaus in Berlin eröffnet",
@@ -146,11 +151,6 @@
       "title": "Nächtliche Sperrung Tiergartentunnel wegen Feuerwehrübung",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-mitte-tiergartentunnel-b96-sperrung-feuerwehr-uebung.html",
       "date": "Mon, 24 Aug 2026 10:58:12 +0200"
-    },
-    {
-      "title": "Mehr als vier Tonnen tote Fische aus Nebengewässer der Oder geborgen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/oder-tote-fische-polnische-nebengewaesser-goldalgenbluete.html",
-      "date": "Mon, 24 Aug 2026 09:00:04 +0200"
     },
     {
       "title": "L49 zwischen Lübbenau und Boblitz bis Mitte September vollgesperrt",
