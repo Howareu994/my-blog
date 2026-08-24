@@ -1,19 +1,29 @@
 {
   "traffic": [
     {
-      "title": "Berliner Landesnetz: Senatsverwaltungen nach Hackerangriff wieder online",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/08/hackerangriff-berlin-senatsverwaltungen-wieder-am-netz.html",
-      "date": "Mon, 24 Aug 2026 11:32:19 +0200"
-    },
-    {
-      "title": "Gasspeicher nur zur Hälfte gefüllt: Experten erwarten hohe Gaspreise für Verbraucher im Winter",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/08/steigende-gaspreise-experten-raten-zu-tarifcheck.html",
-      "date": "Mon, 24 Aug 2026 11:28:04 +0200"
+      "title": "Schüsse auf Barbier-Salon an der Osdorfer Straße in Steglitz-Zehlendorf",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/organisierte-kriminalitaet-schuesse-geschaeft-steglitz-zehlendorf.html",
+      "date": "Mon, 24 Aug 2026 12:10:55 +0200"
     },
     {
       "title": "Wahl-O-Mat zur Berlin-Wahl 2026: Hier können Sie ihn nutzen",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/wahl-o-mat-thesen-parteien-standpunkte-online.html",
-      "date": "Mon, 24 Aug 2026 11:16:01 +0200"
+      "date": "Mon, 24 Aug 2026 11:45:56 +0200"
+    },
+    {
+      "title": "Gasspeicher nur zur Hälfte gefüllt: Experten erwarten hohe Gaspreise für Verbraucher im Winter",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/08/steigende-gaspreise-experten-raten-zu-tarifcheck.html",
+      "date": "Mon, 24 Aug 2026 11:42:19 +0200"
+    },
+    {
+      "title": "35-jährige Autofahrerin erleidet Asthma-Anfall auf der Autobahn A12",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/verkehrsunfall-a12-asthma-verletzte-fuerstenwalde-brandenburg-polizei.html",
+      "date": "Mon, 24 Aug 2026 11:42:05 +0200"
+    },
+    {
+      "title": "Berliner Landesnetz: Senatsverwaltungen nach Hackerangriff wieder online",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/08/hackerangriff-berlin-senatsverwaltungen-wieder-am-netz.html",
+      "date": "Mon, 24 Aug 2026 11:32:19 +0200"
     },
     {
       "title": "Nächtliche Sperrung Tiergartentunnel wegen Feuerwehrübung",
@@ -24,11 +34,6 @@
       "title": "Schulstart in Berlin und Brandenburg: 800 Lehrkräfte fehlen, Rekordzahl an Schulkindern",
       "link": "https://www.rbb24.de/politik/beitrag/2026/08/berlin-brandenburg-schule-bildung-schulstart-schulkinder-lehrkraefte.html",
       "date": "Mon, 24 Aug 2026 10:01:29 +0200"
-    },
-    {
-      "title": "Schüsse auf Geschäft an der Osdorfer Straße in Steglitz-Zehlendorf",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/organisierte-kriminalitaet-schuesse-geschaeft-steglitz-zehlendorf.html",
-      "date": "Mon, 24 Aug 2026 09:02:02 +0200"
     },
     {
       "title": "Mehr als vier Tonnen tote Fische aus Nebengewässer der Oder geborgen",
@@ -46,19 +51,14 @@
       "date": "Mon, 24 Aug 2026 06:29:46 +0200"
     },
     {
-      "title": "Wahlkampf mit Stefan Evers: Der Späteinsteiger, der die CDU retten soll",
+      "title": "Stefan Evers im Wahlkampf: Der Späteinsteiger, der die CDU retten soll",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/spitzenkandidaten/stefan-evers-cdu-portraet.html",
-      "date": "Mon, 24 Aug 2026 06:14:24 +0200"
+      "date": "Mon, 24 Aug 2026 06:14:00 +0200"
     },
     {
       "title": "Berliner Landespokal: Favoriten setzen sich durch",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/berlin-fussball-landespokal-bfc-preussen-tasmania-delay-tennis-borussia.html",
       "date": "Sun, 23 Aug 2026 20:22:50 +0200"
-    },
-    {
-      "title": "Patrick Weiser: \"Sehe die Schattenseiten des Fußball sehr kritisch\"",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-interview-patrick-weiser-fsv-luckenwalde-berlin-trainer-mitchell-karriere.html",
-      "date": "Sun, 23 Aug 2026 20:11:03 +0200"
     }
   ],
   "police": [
@@ -128,14 +128,19 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Schüsse auf Barbier-Salon an der Osdorfer Straße in Steglitz-Zehlendorf",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/organisierte-kriminalitaet-schuesse-geschaeft-steglitz-zehlendorf.html",
+      "date": "Mon, 24 Aug 2026 12:10:55 +0200"
+    },
+    {
+      "title": "35-jährige Autofahrerin erleidet Asthma-Anfall auf der Autobahn A12",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/verkehrsunfall-a12-asthma-verletzte-fuerstenwalde-brandenburg-polizei.html",
+      "date": "Mon, 24 Aug 2026 11:42:05 +0200"
+    },
+    {
       "title": "Nächtliche Sperrung Tiergartentunnel wegen Feuerwehrübung",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-mitte-tiergartentunnel-b96-sperrung-feuerwehr-uebung.html",
       "date": "Mon, 24 Aug 2026 10:58:12 +0200"
-    },
-    {
-      "title": "Schüsse auf Geschäft an der Osdorfer Straße in Steglitz-Zehlendorf",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/organisierte-kriminalitaet-schuesse-geschaeft-steglitz-zehlendorf.html",
-      "date": "Mon, 24 Aug 2026 09:02:02 +0200"
     },
     {
       "title": "Mehr als vier Tonnen tote Fische aus Nebengewässer der Oder geborgen",
@@ -181,11 +186,6 @@
       "title": "Dreieck Funkturm für 26 Stunden teils gesperrt - auch Ringbahn unterbrochen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/ringbahnbruecke-berlin-neubau-a100-halenseestrasse-sperrungen.html",
       "date": "Sat, 22 Aug 2026 21:06:42 +0200"
-    },
-    {
-      "title": "Tornado in Fürstenwalde: Wann Versicherungen zahlen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/tornado-fuerstenwalde-versicherung-schaeden-haus-auto.html",
-      "date": "Sat, 22 Aug 2026 20:54:00 +0200"
     }
   ]
 }
