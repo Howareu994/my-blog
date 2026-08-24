@@ -3,7 +3,17 @@
     {
       "title": "Schulstart in Berlin und Brandenburg: 800 Lehrkräfte fehlen, Rekordzahl an Schulkindern",
       "link": "https://www.rbb24.de/politik/beitrag/2026/08/berlin-brandenburg-schule-bildung-schulstart-schulkinder-lehrkraefte.html",
-      "date": "Mon, 24 Aug 2026 08:21:48 +0200"
+      "date": "Mon, 24 Aug 2026 09:03:53 +0200"
+    },
+    {
+      "title": "Schüsse auf Geschäft an der Osdorfer Straße in Steglitz-Zehlendorf",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/organisierte-kriminalitaet-schuesse-geschaeft-steglitz-zehlendorf.html",
+      "date": "Mon, 24 Aug 2026 09:02:02 +0200"
+    },
+    {
+      "title": "Mehr als vier Tonnen tote Fische aus Nebengewässer der Oder geborgen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/oder-tote-fische-polnische-nebengewaesser-goldalgenbluete.html",
+      "date": "Mon, 24 Aug 2026 09:00:04 +0200"
     },
     {
       "title": "Projekt in Zeuthen: \"Man muss loslegen und machen, sonst passiert nichts\"",
@@ -49,19 +59,14 @@
       "title": "DFB-Pokal: Tapferes Krieschow kann Mainzer Torflut nicht verhindern",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-dfb-pokal-vfb-krieschow-mainz-05-spielbericht-liveticker-audiostream.html",
       "date": "Sun, 23 Aug 2026 18:26:00 +0200"
-    },
-    {
-      "title": "DFB-Pokal: Union siegt in Braunschweig mit Moral und Standards",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-dfb-pokal-union-berlin-eintracht-braunschweig-1-runde-spielbericht-audiostream-ticker.html",
-      "date": "Sun, 23 Aug 2026 18:23:00 +0200"
-    },
-    {
-      "title": "Berliner Landesnetz: Berliner Senatsverwaltungen nach Hackerangriff wieder online",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/08/hackerangriff-berlin-senatsverwaltungen-wieder-am-netz.html",
-      "date": "Sun, 23 Aug 2026 18:15:18 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Mehrere Fahrzeuge durch Feuer beschädigt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706122.php",
+      "date": "Mon, 24 Aug 2026 09:39:51 +0200"
+    },
     {
       "title": "Tote Frau gefunden – Polizei und Staatsanwaltschaft bitten um Mithilfe",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705979.php",
@@ -116,11 +121,6 @@
       "title": "Mann nach Messerangriff im Krankenhaus",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705965.php",
       "date": "Sat, 22 Aug 2026 11:56:53 +0200"
-    },
-    {
-      "title": "Frau nach religionsfeindlicher Beleidigung mit Glasflasche angegriffen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705963.php",
-      "date": "Sat, 22 Aug 2026 11:29:29 +0200"
     }
   ],
   "free_events": [],
@@ -128,14 +128,19 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "L49 zwischen Lübbenau und Boblitz bis Mitte September vollgesperrt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-sperrung-l49-luebbenau-boblitz.html",
-      "date": "Mon, 24 Aug 2026 06:29:46 +0200"
+      "title": "Schüsse auf Geschäft an der Osdorfer Straße in Steglitz-Zehlendorf",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/organisierte-kriminalitaet-schuesse-geschaeft-steglitz-zehlendorf.html",
+      "date": "Mon, 24 Aug 2026 09:02:02 +0200"
     },
     {
       "title": "Mehr als vier Tonnen tote Fische aus Nebengewässer der Oder geborgen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/oder-tote-fische-polnische-nebengewaesser-goldalgenbluete.html",
-      "date": "Sun, 23 Aug 2026 17:18:03 +0200"
+      "date": "Mon, 24 Aug 2026 09:00:04 +0200"
+    },
+    {
+      "title": "L49 zwischen Lübbenau und Boblitz bis Mitte September vollgesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-sperrung-l49-luebbenau-boblitz.html",
+      "date": "Mon, 24 Aug 2026 06:29:46 +0200"
     },
     {
       "title": "Nach Fund einer Frauenleiche geht Polizei von Tötungsdelikt aus",
@@ -181,11 +186,6 @@
       "title": "Erste Saisonbilanz: Volle Becken in Berliner Freibädern",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-baeder-betriebe-bilanz-sommersaison.html",
       "date": "Sat, 22 Aug 2026 20:06:14 +0200"
-    },
-    {
-      "title": "Am Späti in Berlin-Lichtenberg: \"Wenn die Kinder ihren Weg gehen, bin ich aus Berlin weg\"",
-      "link": "https://www.rbb24.de/panorama/thema/spaeti/berlin-lichtenberg-am-spaeti-controllerin.html",
-      "date": "Sat, 22 Aug 2026 17:03:19 +0200"
     }
   ]
 }
