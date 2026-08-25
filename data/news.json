@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Mädchen auf E-Scooter fahren Frau am Alex an - Beifahrerin schwer verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/unfall-e-scooter-alexanderplatz.html",
+      "date": "Tue, 25 Aug 2026 20:01:34 +0200"
+    },
+    {
       "title": "Polizei-Taucher suchen Spree nach Hinweisen auf CSD-Anschlag ab",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-csd-anschlag-spree-taucher.html",
       "date": "Tue, 25 Aug 2026 19:03:38 +0200"
@@ -38,12 +43,12 @@
     {
       "title": "Wiedereröffnung des Stadtbads Schöneberg verzögert sich",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/wiedereroeffnung-stadtbad-schoeneberg-berlin-verzoegert.html",
-      "date": "Tue, 25 Aug 2026 14:47:39 +0200"
+      "date": "Tue, 25 Aug 2026 14:47:00 +0200"
     },
     {
       "title": "Kinos in Berlin und Brandenburg verkaufen deutlich mehr Tickets",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/08/berlin-brandenburg-kino-ticketverkaeufe-anstieg-tickets-zuschauer.html",
-      "date": "Tue, 25 Aug 2026 14:27:42 +0200"
+      "date": "Tue, 25 Aug 2026 14:27:00 +0200"
     },
     {
       "title": "Brandenburg macht Weg frei für erleichterte Auftragsvergaben",
@@ -54,11 +59,6 @@
       "title": "Berlin wächst langsam weiter – in Spandau am stärksten",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-bevoelkerungswachstum-waechst-einwohner-spandau.html",
       "date": "Tue, 25 Aug 2026 13:49:02 +0200"
-    },
-    {
-      "title": "Kulturbrauerei im Prenzlauer Berg für weitere 10 Jahre gesichert",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/08/berlin-kulturbrauerei-prenzlauer-berg-10-jahre-gesichert.html",
-      "date": "Tue, 25 Aug 2026 13:14:46 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,16 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Mädchen auf E-Scooter fahren Frau am Alex an - Beifahrerin schwer verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/unfall-e-scooter-alexanderplatz.html",
+      "date": "Tue, 25 Aug 2026 20:01:34 +0200"
+    },
+    {
+      "title": "Cottbuser Gastronom leidet unter Belastungsstörung und Depressionen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/prozess-schutzgeld-erpressung-cottbus-fortgesetzt.html",
+      "date": "Tue, 25 Aug 2026 19:45:58 +0200"
+    },
+    {
       "title": "Polizei-Taucher suchen Spree nach Hinweisen auf CSD-Anschlag ab",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-csd-anschlag-spree-taucher.html",
       "date": "Tue, 25 Aug 2026 19:03:38 +0200"
@@ -153,14 +163,9 @@
       "date": "Tue, 25 Aug 2026 15:02:12 +0200"
     },
     {
-      "title": "Cottbuser Gastronom leidet unter Belastungsstörung und Depressionen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/prozess-schutzgeld-erpressung-cottbus-fortgesetzt.html",
-      "date": "Tue, 25 Aug 2026 15:02:06 +0200"
-    },
-    {
       "title": "Wiedereröffnung des Stadtbads Schöneberg verzögert sich",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/wiedereroeffnung-stadtbad-schoeneberg-berlin-verzoegert.html",
-      "date": "Tue, 25 Aug 2026 14:47:39 +0200"
+      "date": "Tue, 25 Aug 2026 14:47:00 +0200"
     },
     {
       "title": "Berlin wächst langsam weiter – in Spandau am stärksten",
@@ -181,11 +186,6 @@
       "title": "Berliner Polizei weist auf Explosionsgeräusche im Grunewald hin",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-grunewald-sprengplatz-uebung-explosionsgeraeusche.html",
       "date": "Tue, 25 Aug 2026 11:13:59 +0200"
-    },
-    {
-      "title": "Mit Wohnungen überbaute Schwimmhalle entsteht in Friedrichshain",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-holzmarkt-51-quartier-schwimmhalle-wohnungen-neubau.html",
-      "date": "Tue, 25 Aug 2026 11:13:00 +0200"
     }
   ]
 }
