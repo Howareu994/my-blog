@@ -63,6 +63,11 @@
   ],
   "police": [
     {
+      "title": "19-Jähriger tot aufgefunden",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702932.php",
+      "date": "Tue, 25 Aug 2026 20:55:00 +0200"
+    },
+    {
       "title": "E-Scooter-Fahrerin fährt Fußgängerin an",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706805.php",
       "date": "Tue, 25 Aug 2026 14:58:27 +0200"
@@ -116,11 +121,6 @@
       "title": "Mann geschlagen und rassistisch beleidigt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706017.php",
       "date": "Sun, 23 Aug 2026 10:56:39 +0200"
-    },
-    {
-      "title": "Mit Gullydeckel in Supermarkt eingebrochen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706016.php",
-      "date": "Sun, 23 Aug 2026 10:38:40 +0200"
     }
   ],
   "free_events": [],
