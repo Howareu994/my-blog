@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Kulturbrauerei im Prenzlauer Berg für weitere 10 Jahre gesichert",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/08/berlin-kulturbrauerei-prenzlauer-berg-10-jahre-gesichert.html",
+      "date": "Tue, 25 Aug 2026 13:14:46 +0200"
+    },
+    {
+      "title": "Berlin wächst langsam weiter – in Spandau am stärksten",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-bevoelkerungswachstum-waechst-einwohner-spandau.html",
+      "date": "Tue, 25 Aug 2026 13:03:17 +0200"
+    },
+    {
+      "title": "Hautkrebsvorsorge: Kostenlose Hautkontrolle im Neuruppiner Jahnbad",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/kostenlose-hautkontrolle-im-jahnbad-neuruppin.html",
+      "date": "Tue, 25 Aug 2026 12:39:47 +0200"
+    },
+    {
       "title": "Altglienickes Torwart Zwick - der ungekrönte Pokal-Held",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/vsg-altglienicke-wolfsburg-dfb-pokal-luis-zwick.html",
       "date": "Tue, 25 Aug 2026 12:15:44 +0200"
@@ -44,24 +59,24 @@
       "title": "Elfmeterkrimi: Altglienicke verpasst Pokal-Sensation gegen Wolfsburg",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/dfb-pokal-live-vsg-altglienicke-vfl-wolfsburg-fabian-reese-cigerci.html",
       "date": "Mon, 24 Aug 2026 22:35:00 +0200"
-    },
-    {
-      "title": "\"Burning Berlin\": Bedrohte Liebe im aufkeimenden Faschismus",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/08/queeres-musical-burning-berlin-kritik-1920er-jahre.html",
-      "date": "Mon, 24 Aug 2026 20:27:42 +0200"
-    },
-    {
-      "title": "Molkerei Müller kündigt Verträge mit Brandenburger Bauern",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/08/brandenburg-molkerei-mueller-milch-bauern-vertraege-kuendigung.html",
-      "date": "Mon, 24 Aug 2026 20:02:00 +0200"
-    },
-    {
-      "title": "Tuberkulose-Verdacht: Mitarbeiter in Pflegeheim Oberhavel werden getestet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/oberhavel-hohen-neuendorf-pflegeheim-tuberkulose.html",
-      "date": "Mon, 24 Aug 2026 18:41:00 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Zwei Männer bei körperlichem Angriff verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706717.php",
+      "date": "Tue, 25 Aug 2026 12:52:22 +0200"
+    },
+    {
+      "title": "Radfahrerin bei Unfall erheblich verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706706.php",
+      "date": "Tue, 25 Aug 2026 12:37:15 +0200"
+    },
+    {
+      "title": "Autofahrer fährt Motorradfahrer an",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706691.php",
+      "date": "Tue, 25 Aug 2026 12:26:11 +0200"
+    },
     {
       "title": "Wohnungsraub mit Schusswaffen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706328.php",
@@ -106,27 +121,22 @@
       "title": "Mann mit Cuttermesser verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705977.php",
       "date": "Sat, 22 Aug 2026 15:25:15 +0200"
-    },
-    {
-      "title": "Fremdenfeindlich beleidigt und geschlagen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705976.php",
-      "date": "Sat, 22 Aug 2026 15:10:36 +0200"
-    },
-    {
-      "title": "Wahlplakate in Brand gesetzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705974.php",
-      "date": "Sat, 22 Aug 2026 14:45:47 +0200"
-    },
-    {
-      "title": "Schutzscheibe in Linienbus eingeschlagen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705968.php",
-      "date": "Sat, 22 Aug 2026 12:43:42 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Berlin wächst langsam weiter – in Spandau am stärksten",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-bevoelkerungswachstum-waechst-einwohner-spandau.html",
+      "date": "Tue, 25 Aug 2026 13:03:17 +0200"
+    },
+    {
+      "title": "Hautkrebsvorsorge: Kostenlose Hautkontrolle im Neuruppiner Jahnbad",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/kostenlose-hautkontrolle-im-jahnbad-neuruppin.html",
+      "date": "Tue, 25 Aug 2026 12:39:47 +0200"
+    },
     {
       "title": "Interview zu Queerfeindlichkeit in Berlin und Brandenburg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/interview-rbb-reportage-queer-feindlichkeit-berlin-brandenburg.html",
@@ -176,16 +186,6 @@
       "title": "Unbekannte schießen auf Frisörsalon in Berlin-Lichterfelde",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/organisierte-kriminalitaet-schuesse-geschaeft-steglitz-zehlendorf.html",
       "date": "Mon, 24 Aug 2026 14:37:22 +0200"
-    },
-    {
-      "title": "Neues Frauenhaus in Berlin eröffnet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-neues-frauenhaus-gewalt-schutz-kinder-familien.html",
-      "date": "Mon, 24 Aug 2026 13:40:36 +0200"
-    },
-    {
-      "title": "35-jährige Autofahrerin erleidet Asthma-Anfall auf der Autobahn A12",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/verkehrsunfall-a12-asthma-verletzte-fuerstenwalde-brandenburg-polizei.html",
-      "date": "Mon, 24 Aug 2026 11:42:05 +0200"
     }
   ]
 }
