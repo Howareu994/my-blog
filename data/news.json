@@ -1,8 +1,18 @@
 {
   "traffic": [
     {
+      "title": "Verkehrsminister Crumbach verteidigt RE3-Fahrplanwechsel in Schwedt unter Buhrufen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/bahn-strecke-berlin-schwedt-pendler.html",
+      "date": "Tue, 25 Aug 2026 15:02:12 +0200"
+    },
+    {
+      "title": "Wiedereröffnung des Stadtbads Schöneberg verzögert sich",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/wiedereroeffnung-stadtbad-schoeneberg-berlin-verzoegert.html",
+      "date": "Tue, 25 Aug 2026 14:47:39 +0200"
+    },
+    {
       "title": "Kinos in Berlin und Brandenburg verkaufen deutlich mehr Tickets",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/08/berlin-brandenburg-kino-ticketverkaeufe-anstieg-tickets-zuschauer.html",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/08/berlin-brandenburg-kino-ticketverkaeufe-anstieg-tickets-zuschauer.html",
       "date": "Tue, 25 Aug 2026 14:27:42 +0200"
     },
     {
@@ -49,19 +59,14 @@
       "title": "Queer-Beauftragte Koch fordert mehr Schutz vor Diskriminierung",
       "link": "https://www.rbb24.de/politik/beitrag/2026/08/queerbeauftragte-koch-csd-anschlag-berlin.html",
       "date": "Tue, 25 Aug 2026 10:32:51 +0200"
-    },
-    {
-      "title": "Zahl der Beamten in Berlin zuletzt deutlich gestiegen",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/08/beamte-berlin-zahl-gestiegen-lehrer.html",
-      "date": "Tue, 25 Aug 2026 09:08:15 +0200"
-    },
-    {
-      "title": "Prozess um Lähmungen durch Botox in Berliner Schönheitssalon beginnt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-prozess-koerperverletzung-schoenheitssalon-botox-keine-qualifikation.html",
-      "date": "Tue, 25 Aug 2026 08:11:25 +0200"
     }
   ],
   "police": [
+    {
+      "title": "E-Scooter-Fahrerin fährt Fußgängerin an",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706805.php",
+      "date": "Tue, 25 Aug 2026 14:58:27 +0200"
+    },
     {
       "title": "Zwei Männer bei körperlichem Angriff verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706717.php",
@@ -116,17 +121,27 @@
       "title": "Mit Gullydeckel in Supermarkt eingebrochen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706016.php",
       "date": "Sun, 23 Aug 2026 10:38:40 +0200"
-    },
-    {
-      "title": "Mann mit Cuttermesser verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705977.php",
-      "date": "Sat, 22 Aug 2026 15:25:15 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Verkehrsminister Crumbach verteidigt RE3-Fahrplanwechsel in Schwedt unter Buhrufen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/bahn-strecke-berlin-schwedt-pendler.html",
+      "date": "Tue, 25 Aug 2026 15:02:12 +0200"
+    },
+    {
+      "title": "Cottbuser Gastronom leidet unter Belastungsstörung und Depressionen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/prozess-schutzgeld-erpressung-cottbus-fortgesetzt.html",
+      "date": "Tue, 25 Aug 2026 15:02:06 +0200"
+    },
+    {
+      "title": "Wiedereröffnung des Stadtbads Schöneberg verzögert sich",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/wiedereroeffnung-stadtbad-schoeneberg-berlin-verzoegert.html",
+      "date": "Tue, 25 Aug 2026 14:47:39 +0200"
+    },
     {
       "title": "Berlin wächst langsam weiter – in Spandau am stärksten",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-bevoelkerungswachstum-waechst-einwohner-spandau.html",
@@ -171,21 +186,6 @@
       "title": "Neue Rettungswache im Elbe-Elster-Kreis eröffnet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/neue-rettungswache-gross-thiemig-elbe-elster.html",
       "date": "Mon, 24 Aug 2026 16:49:37 +0200"
-    },
-    {
-      "title": "Infanterie-Munition in Schrottcontainer entdeckt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/infanterie-munition-entdeckt-schrott-schlieben.html",
-      "date": "Mon, 24 Aug 2026 16:05:00 +0200"
-    },
-    {
-      "title": "Wie gelingt gutes Altern in ländlichen Regionen?",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/altern-alterperimentale-radtour-brandenburg-polen.html",
-      "date": "Mon, 24 Aug 2026 15:55:58 +0200"
-    },
-    {
-      "title": "Unbekannte schießen auf Frisörsalon in Berlin-Lichterfelde",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/organisierte-kriminalitaet-schuesse-geschaeft-steglitz-zehlendorf.html",
-      "date": "Mon, 24 Aug 2026 14:37:22 +0200"
     }
   ]
 }
