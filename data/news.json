@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Regionalliga: BFC Dynamo gewinnt wieder, Debakel für Luckenwalde",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/regionalliga-nordost-bfc-dynamo-bfc-preussen-luckenwalde-erfurt.html",
+      "date": "Tue, 25 Aug 2026 22:16:59 +0200"
+    },
+    {
+      "title": "Berliner Polizei hat weiterhin zu wenig geeignete Bewerber",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/08/berliner-polizei-personalmangel-bewerber.html",
+      "date": "Tue, 25 Aug 2026 21:24:47 +0200"
+    },
+    {
       "title": "Mädchen auf E-Scooter fahren Frau am Alex an - Beifahrerin schwer verletzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/unfall-e-scooter-alexanderplatz.html",
       "date": "Tue, 25 Aug 2026 20:01:34 +0200"
@@ -49,21 +59,11 @@
       "title": "Kinos in Berlin und Brandenburg verkaufen deutlich mehr Tickets",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/08/berlin-brandenburg-kino-ticketverkaeufe-anstieg-tickets-zuschauer.html",
       "date": "Tue, 25 Aug 2026 14:27:00 +0200"
-    },
-    {
-      "title": "Brandenburg macht Weg frei für erleichterte Auftragsvergaben",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/08/brandenburg-leichtere-auftragsvergabe-weniger-buerokratie.html",
-      "date": "Tue, 25 Aug 2026 13:57:17 +0200"
-    },
-    {
-      "title": "Berlin wächst langsam weiter – in Spandau am stärksten",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-bevoelkerungswachstum-waechst-einwohner-spandau.html",
-      "date": "Tue, 25 Aug 2026 13:49:02 +0200"
     }
   ],
   "police": [
     {
-      "title": "19-Jähriger tot aufgefunden",
+      "title": "19-Jähriger leblos aufgefunden",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702932.php",
       "date": "Tue, 25 Aug 2026 20:55:00 +0200"
     },
