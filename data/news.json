@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Aufsichtsratsvorsitzender des Elbe-Elster-Klinikums tritt zurück",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/08/ausichtsrat-vorsitzender-elbe-elster-klinikum-neumann-ruecktritt.html",
+      "date": "Wed, 26 Aug 2026 15:26:11 +0200"
+    },
+    {
+      "title": "Verkehrsminister Crumbach verteidigt RE3-Fahrplanwechsel in Schwedt unter Buhrufen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/bahn-strecke-berlin-schwedt-pendler.html",
+      "date": "Wed, 26 Aug 2026 15:21:21 +0200"
+    },
+    {
       "title": "\"Nebula\": Lichtkunst zieht in die Beelitzer Heilstätten",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/08/lichtkunst-nebula-beelitz-heilstaetten.html",
       "date": "Wed, 26 Aug 2026 14:13:01 +0200"
@@ -49,16 +59,6 @@
       "title": "Bravo wird 70: Starschnitte, Schwarzmarkt und Skandale",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/08/bravo-zeitschrift-70-jahre-rueckblick-musik-film-fernsehen.html",
       "date": "Wed, 26 Aug 2026 10:47:14 +0200"
-    },
-    {
-      "title": "Herzberger Gymnasium wegen Gestanks vorerst geschlossen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/gymnasium-herzberg-geschlossen-geruch-belaestigung.html",
-      "date": "Wed, 26 Aug 2026 10:09:00 +0200"
-    },
-    {
-      "title": "Poliça in Berlin: \"Jetzt aber weiter mit Musik\"",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/08/konzert-polica-peter-edel-weissensee-berlin.html",
-      "date": "Wed, 26 Aug 2026 09:36:00 +0200"
     }
   ],
   "police": [
@@ -130,7 +130,12 @@
     {
       "title": "Fliegerbombe in Berlin-Neukölln gefunden – größere Sperrung geplant",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-neukoelln-entschaerfung-bombe-sperrkreis.html",
-      "date": "Wed, 26 Aug 2026 14:08:41 +0200"
+      "date": "Wed, 26 Aug 2026 15:28:58 +0200"
+    },
+    {
+      "title": "Verkehrsminister Crumbach verteidigt RE3-Fahrplanwechsel in Schwedt unter Buhrufen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/bahn-strecke-berlin-schwedt-pendler.html",
+      "date": "Wed, 26 Aug 2026 15:21:21 +0200"
     },
     {
       "title": "Kriegsmunition bei Borgsdorf gesprengt - Sperrkreis aufgehoben",
@@ -181,11 +186,6 @@
       "title": "Vor Sanierung: Nähmaschinenwerk in Wittenberge wird zum Konzertsaal",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/veritas-werk-wittenberge-wird-stadtquartier.html",
       "date": "Tue, 25 Aug 2026 16:51:06 +0200"
-    },
-    {
-      "title": "Verkehrsminister Crumbach verteidigt RE3-Fahrplanwechsel in Schwedt unter Buhrufen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/bahn-strecke-berlin-schwedt-pendler.html",
-      "date": "Tue, 25 Aug 2026 15:02:12 +0200"
     }
   ]
 }
