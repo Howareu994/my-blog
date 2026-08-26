@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Brandenburgs Regierung verbietet AfD-Werbung an Schulen",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/08/brandenburg-regierung-afd-werbung-schulen-verboten.html",
+      "date": "Wed, 26 Aug 2026 21:38:45 +0200"
+    },
+    {
+      "title": "Regionalliga Nordost: Babelsberg ohne Lohn nach späten Gegentoren",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/regionalliga-nordost-rsv-eintracht-zwickau-aue-hertha-ii-babelsb.html",
+      "date": "Wed, 26 Aug 2026 21:35:40 +0200"
+    },
+    {
+      "title": "In Braunschweig könnte Hertha-Zugang Pedersen zum Faktor werden",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/hertha-bsc-eintracht-braunschweig-vorschau-2-liga-pedersen.html",
+      "date": "Wed, 26 Aug 2026 20:19:16 +0200"
+    },
+    {
       "title": "Queere Menschen sollen nach CSD-Anschlag in Berlin besser geschützt werden",
       "link": "https://www.rbb24.de/politik/beitrag/2026/08/berlin-csd-anschlag-schutz-queere-menschen.html",
       "date": "Wed, 26 Aug 2026 20:17:24 +0200"
@@ -8,7 +23,7 @@
     {
       "title": "Eisbären-Urgestein Rankel wird neuer Eishockey-Bundestrainer",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/ex-eisbaer-andre-rankel-neuer-deb-eishockey-bundestrainer.html",
-      "date": "Wed, 26 Aug 2026 19:47:04 +0200"
+      "date": "Wed, 26 Aug 2026 19:47:00 +0200"
     },
     {
       "title": "Viele Jahre \"Tatort\"-Kommissar: Berliner Schauspieler Andreas Hoppe ist tot",
@@ -44,21 +59,6 @@
       "title": "Rakete in Wohnung geschossen: Prozess gegen Influencer wird neu aufgerollt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-rakete-wohnung-influencer-silvester-prozess.html",
       "date": "Wed, 26 Aug 2026 17:48:21 +0200"
-    },
-    {
-      "title": "Sozialminister Wilke unterstützt Initiative für Bisky-Straße in Potsdam",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/08/brandenburg-potsdam-initiative-lothar-bisky-strasse-rene-wilke.html",
-      "date": "Wed, 26 Aug 2026 17:36:43 +0200"
-    },
-    {
-      "title": "75 Jahre Berliner Festspiele: In der Ringbahn von der Zukunft träumen",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/08/berliner-festspiele-75-jahre-kunstprojekt-s-bahn-ring.html",
-      "date": "Wed, 26 Aug 2026 17:07:08 +0200"
-    },
-    {
-      "title": "Mehr Daten bei Hackerangriff abgeflossen als bislang bekannt",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/08/berlin-hackerangriff-landesnetz-daten-abgeflossen.html",
-      "date": "Wed, 26 Aug 2026 16:18:00 +0200"
     }
   ],
   "police": [
@@ -128,9 +128,9 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Fliegerbombe in Berlin-Neukölln gefunden – 5.600 Haushalte werden evakuiert",
+      "title": "Fliegerbombe in Neukölln erfolgreich entschärft - Sperrkreis aufgeboben",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-neukoelln-entschaerfung-bombe-sperrkreis.html",
-      "date": "Wed, 26 Aug 2026 20:50:18 +0200"
+      "date": "Wed, 26 Aug 2026 23:25:34 +0200"
     },
     {
       "title": "Fast zehnmal mehr Obdachlose in Berliner Unterkünften als 2012",
