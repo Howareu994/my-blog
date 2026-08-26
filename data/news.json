@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Kriegsmunition bei Borgsdorf gesprengt - Sperrkreis aufgehoben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/kriegsmunition-borgsdorf-wald-evakuierung-notwendig.html",
+      "date": "Wed, 26 Aug 2026 13:14:42 +0200"
+    },
+    {
+      "title": "Berlin und Brandenburg verlängern Lockerung des Lkw-Fahrverbots",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/08/niedrigwasser-gueterverkehr-lkw-sonntagsfahrverbot-lockerung-berlin-brandenburg-verlaengert.html",
+      "date": "Wed, 26 Aug 2026 13:13:37 +0200"
+    },
+    {
+      "title": "Brandenburg führt Onlineportal für Sozialanträge ein",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/08/brandenburg-online-sozialplattform-leistungen-antrag-grundsicherung.html",
+      "date": "Wed, 26 Aug 2026 13:13:10 +0200"
+    },
+    {
       "title": "Berliner Gastronomen bieten kostenfreie WC-Nutzung an - neues Toilette-Programm gestartet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-wc-kooperationsprogramm-kostenfreie-toilette-gastronomie.html",
       "date": "Wed, 26 Aug 2026 12:19:32 +0200"
@@ -16,19 +31,9 @@
       "date": "Wed, 26 Aug 2026 12:01:23 +0200"
     },
     {
-      "title": "Brandenburg führt Onlineportal für Sozialanträge ein",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/08/brandenburg-online-sozialplattform-leistungen-antrag-grundsicherung.html",
-      "date": "Wed, 26 Aug 2026 11:59:13 +0200"
-    },
-    {
       "title": "BVG entfernt irrtümlicherweise Wahlplakate in U-Bahnhöfen",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/bvg-entfernt-irrtum-wahlplakate-u-bahnhof-parteienwerbung.html",
       "date": "Wed, 26 Aug 2026 11:49:51 +0200"
-    },
-    {
-      "title": "Kriegsmunition wird bei Borgsdorf gesprengt - 2.800 Menschen evakuiert",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/kriegsmunition-borgsdorf-wald-evakuierung-notwendig.html",
-      "date": "Wed, 26 Aug 2026 10:59:53 +0200"
     },
     {
       "title": "Bravo wird 70: Starschnitte, Schwarzmarkt und Skandale",
@@ -54,11 +59,6 @@
       "title": "Fehlerhafte Schusswesten: Spranger kritisiert Hersteller Rheinmetall",
       "link": "https://www.rbb24.de/politik/beitrag/2026/08/polizei-fehlerhafte-schusswesten-aussortiert.html",
       "date": "Wed, 26 Aug 2026 06:53:58 +0200"
-    },
-    {
-      "title": "Grünen-Spitzenkandidat Werner Graf: Moderator sucht Koalition",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/spitzenkandidaten/werner-graf-gruene-buendnis90-portraet.html",
-      "date": "Wed, 26 Aug 2026 06:07:00 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,16 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Kriegsmunition bei Borgsdorf gesprengt - Sperrkreis aufgehoben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/kriegsmunition-borgsdorf-wald-evakuierung-notwendig.html",
+      "date": "Wed, 26 Aug 2026 13:14:42 +0200"
+    },
+    {
+      "title": "Fliegerbombe in Berlin-Neukölln gefunden – größere Sperrung geplant",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-neukoelln-entschaerfung-bombe-sperrkreis.html",
+      "date": "Wed, 26 Aug 2026 13:02:59 +0200"
+    },
+    {
       "title": "Berliner Gastronomen bieten kostenfreie WC-Nutzung an - neues Toilette-Programm gestartet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-wc-kooperationsprogramm-kostenfreie-toilette-gastronomie.html",
       "date": "Wed, 26 Aug 2026 12:19:32 +0200"
@@ -136,11 +146,6 @@
       "title": "Pflegekräfte protestieren in Frankfurt (Oder) gegen Reformpläne",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/pflegeprotest-frankfurt-oder-demonstration-pflegereform-fuerstenwalde.html",
       "date": "Wed, 26 Aug 2026 11:31:25 +0200"
-    },
-    {
-      "title": "Kriegsmunition wird bei Borgsdorf gesprengt - 2.800 Menschen evakuiert",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/kriegsmunition-borgsdorf-wald-evakuierung-notwendig.html",
-      "date": "Wed, 26 Aug 2026 10:59:53 +0200"
     },
     {
       "title": "Herzberger Gymnasium wegen Geruchsbelästigung vorerst geschlossen",
@@ -181,11 +186,6 @@
       "title": "Verkehrsminister Crumbach verteidigt RE3-Fahrplanwechsel in Schwedt unter Buhrufen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/bahn-strecke-berlin-schwedt-pendler.html",
       "date": "Tue, 25 Aug 2026 15:02:12 +0200"
-    },
-    {
-      "title": "Wiedereröffnung des Stadtbads Schöneberg verzögert sich",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/wiedereroeffnung-stadtbad-schoeneberg-berlin-verzoegert.html",
-      "date": "Tue, 25 Aug 2026 14:47:00 +0200"
     }
   ]
 }
