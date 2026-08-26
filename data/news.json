@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Kriegsmunition wird bei Borgsdorf gesprengt - 2.800 Menschen evakuiert",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/kriegsmunition-borgsdorf-wald-evakuierung-notwendig.html",
+      "date": "Wed, 26 Aug 2026 10:59:53 +0200"
+    },
+    {
+      "title": "Bravo wird 70: Starschnitte, Schwarzmarkt und Skandale",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/08/bravo-zeitschrift-70-jahre-rueckblick-musik-film-fernsehen.html",
+      "date": "Wed, 26 Aug 2026 10:47:14 +0200"
+    },
+    {
       "title": "Herzberger Gymnasium wegen Geruchsbelästigung vorerst geschlossen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/gymnasium-herzberg-geschlossen-geruch-belaestigung.html",
       "date": "Wed, 26 Aug 2026 10:09:42 +0200"
@@ -9,11 +19,6 @@
       "title": "Poliça in Berlin: \"Jetzt aber weiter mit Musik\"",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/08/konzert-polica-peter-edel-weissensee-berlin.html",
       "date": "Wed, 26 Aug 2026 09:36:00 +0200"
-    },
-    {
-      "title": "Kriegsmunition wird bei Borgsdorf gesprengt - 2.800 Menschen evakuiert",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/kriegsmunition-borgsdorf-wald-evakuierung-notwendig.html",
-      "date": "Wed, 26 Aug 2026 08:28:15 +0200"
     },
     {
       "title": "Oberspreewald-Lausitz verbietet Wasserentnahme im Spree-Gebiet",
@@ -54,14 +59,19 @@
       "title": "Kabinett plant Stellenkürzungen in der Landesverwaltung",
       "link": "https://www.rbb24.de/politik/beitrag/2026/08/brandenburg-kabinett-stellenkuerzungen-einsparungen-hochschulen.html",
       "date": "Tue, 25 Aug 2026 18:00:38 +0200"
-    },
-    {
-      "title": "Brandenburger Seniorenbeauftragter kümmert sich künftig auch um Behinderte",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/08/brandenburg-neuer-behindertenbeauftragter-norman-asmus.html",
-      "date": "Tue, 25 Aug 2026 17:36:22 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Zwei Personen bei Angriff verletzt – Tatverdächtiger festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1707069.php",
+      "date": "Wed, 26 Aug 2026 10:38:28 +0200"
+    },
+    {
+      "title": "Mann nach Stichverletzung im Krankenhaus",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1707062.php",
+      "date": "Wed, 26 Aug 2026 10:32:12 +0200"
+    },
     {
       "title": "19-Jähriger leblos aufgefunden",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702932.php",
@@ -111,16 +121,6 @@
       "title": "Verkehrsunfall zwischen Radfahrer und Fußgängerin",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706027.php",
       "date": "Sun, 23 Aug 2026 13:37:07 +0200"
-    },
-    {
-      "title": "Sachbeschädigungen an Wahlplakaten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706019.php",
-      "date": "Sun, 23 Aug 2026 11:05:14 +0200"
-    },
-    {
-      "title": "Mann geschlagen und rassistisch beleidigt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706017.php",
-      "date": "Sun, 23 Aug 2026 10:56:39 +0200"
     }
   ],
   "free_events": [],
@@ -128,14 +128,19 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Herzberger Gymnasium wegen Geruchsbelästigung vorerst geschlossen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/gymnasium-herzberg-geschlossen-geruch-belaestigung.html",
-      "date": "Wed, 26 Aug 2026 10:09:42 +0200"
+      "title": "Pflegekräfte protestieren in Frankfurt (Oder) gegen Reformpläne",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/pflegeprotest-frankfurt-oder-demonstration-pflegereform-fuerstenwalde.html",
+      "date": "Wed, 26 Aug 2026 11:31:25 +0200"
     },
     {
       "title": "Kriegsmunition wird bei Borgsdorf gesprengt - 2.800 Menschen evakuiert",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/kriegsmunition-borgsdorf-wald-evakuierung-notwendig.html",
-      "date": "Wed, 26 Aug 2026 08:28:15 +0200"
+      "date": "Wed, 26 Aug 2026 10:59:53 +0200"
+    },
+    {
+      "title": "Herzberger Gymnasium wegen Geruchsbelästigung vorerst geschlossen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/gymnasium-herzberg-geschlossen-geruch-belaestigung.html",
+      "date": "Wed, 26 Aug 2026 10:09:42 +0200"
     },
     {
       "title": "Oberspreewald-Lausitz verbietet Wasserentnahme im Spree-Gebiet",
@@ -181,11 +186,6 @@
       "title": "Berlin wächst langsam weiter – in Spandau am stärksten",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-bevoelkerungswachstum-waechst-einwohner-spandau.html",
       "date": "Tue, 25 Aug 2026 13:49:02 +0200"
-    },
-    {
-      "title": "Hautkrebsvorsorge: Kostenlose Hautkontrolle im Neuruppiner Jahnbad",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/kostenlose-hautkontrolle-im-jahnbad-neuruppin.html",
-      "date": "Tue, 25 Aug 2026 12:39:47 +0200"
     }
   ]
 }
