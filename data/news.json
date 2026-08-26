@@ -1,6 +1,31 @@
 {
   "traffic": [
     {
+      "title": "Berliner Gastronomen bieten kostenfreie WC-Nutzung an - neues Toilette-Programm gestartet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-wc-kooperationsprogramm-kostenfreie-toilette-gastronomie.html",
+      "date": "Wed, 26 Aug 2026 12:19:32 +0200"
+    },
+    {
+      "title": "Brandenburgs größter Aronia-Produzent erwartet Einbußen von 25 Prozent",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/08/aronia-anbau-brandenburg-einbussen-ernte.html",
+      "date": "Wed, 26 Aug 2026 12:07:11 +0200"
+    },
+    {
+      "title": "75 Jahre Berliner Festspiele: In der Ringbahn von der Zukunft träumen",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/08/berliner-festspiele-75-jahre-kunstprojekt-s-bahn-ring.html",
+      "date": "Wed, 26 Aug 2026 12:01:23 +0200"
+    },
+    {
+      "title": "Brandenburg führt Onlineportal für Sozialanträge ein",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/08/brandenburg-online-sozialplattform-leistungen-antrag-grundsicherung.html",
+      "date": "Wed, 26 Aug 2026 11:59:13 +0200"
+    },
+    {
+      "title": "BVG entfernt irrtümlicherweise Wahlplakate in U-Bahnhöfen",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/bvg-entfernt-irrtum-wahlplakate-u-bahnhof-parteienwerbung.html",
+      "date": "Wed, 26 Aug 2026 11:49:51 +0200"
+    },
+    {
       "title": "Kriegsmunition wird bei Borgsdorf gesprengt - 2.800 Menschen evakuiert",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/kriegsmunition-borgsdorf-wald-evakuierung-notwendig.html",
       "date": "Wed, 26 Aug 2026 10:59:53 +0200"
@@ -34,34 +59,14 @@
       "title": "Grünen-Spitzenkandidat Werner Graf: Moderator sucht Koalition",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/spitzenkandidaten/werner-graf-gruene-buendnis90-portraet.html",
       "date": "Wed, 26 Aug 2026 06:07:00 +0200"
-    },
-    {
-      "title": "Regionalliga: BFC Dynamo gewinnt wieder, Debakel für Luckenwalde",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/regionalliga-nordost-bfc-dynamo-bfc-preussen-luckenwalde-erfurt.html",
-      "date": "Tue, 25 Aug 2026 22:16:59 +0200"
-    },
-    {
-      "title": "Berliner Polizei hat weiterhin zu wenig geeignete Bewerber",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/08/berliner-polizei-personalmangel-bewerber.html",
-      "date": "Tue, 25 Aug 2026 21:24:47 +0200"
-    },
-    {
-      "title": "Mädchen auf E-Scooter fahren Frau am Alex an - Beifahrerin schwer verletzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/unfall-e-scooter-alexanderplatz.html",
-      "date": "Tue, 25 Aug 2026 20:01:34 +0200"
-    },
-    {
-      "title": "Polizei-Taucher suchen Spree nach Hinweisen auf CSD-Anschlag ab",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-csd-anschlag-spree-taucher.html",
-      "date": "Tue, 25 Aug 2026 19:03:38 +0200"
-    },
-    {
-      "title": "Kabinett plant Stellenkürzungen in der Landesverwaltung",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/08/brandenburg-kabinett-stellenkuerzungen-einsparungen-hochschulen.html",
-      "date": "Tue, 25 Aug 2026 18:00:38 +0200"
     }
   ],
   "police": [
+    {
+      "title": "„Sichtbar mobil zur Schule\" – Verkehrssicherheits-Aktionstag zum Schulanfang in der STATION Berlin",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1707118.php",
+      "date": "Wed, 26 Aug 2026 11:36:30 +0200"
+    },
     {
       "title": "Zwei Personen bei Angriff verletzt – Tatverdächtiger festgenommen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1707069.php",
@@ -116,17 +121,17 @@
       "title": "Tote Frau gefunden – Polizei und Staatsanwaltschaft bitten um Mithilfe",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705979.php",
       "date": "Sun, 23 Aug 2026 15:00:00 +0200"
-    },
-    {
-      "title": "Verkehrsunfall zwischen Radfahrer und Fußgängerin",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706027.php",
-      "date": "Sun, 23 Aug 2026 13:37:07 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Berliner Gastronomen bieten kostenfreie WC-Nutzung an - neues Toilette-Programm gestartet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-wc-kooperationsprogramm-kostenfreie-toilette-gastronomie.html",
+      "date": "Wed, 26 Aug 2026 12:19:32 +0200"
+    },
     {
       "title": "Pflegekräfte protestieren in Frankfurt (Oder) gegen Reformpläne",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/pflegeprotest-frankfurt-oder-demonstration-pflegereform-fuerstenwalde.html",
@@ -181,11 +186,6 @@
       "title": "Wiedereröffnung des Stadtbads Schöneberg verzögert sich",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/wiedereroeffnung-stadtbad-schoeneberg-berlin-verzoegert.html",
       "date": "Tue, 25 Aug 2026 14:47:00 +0200"
-    },
-    {
-      "title": "Berlin wächst langsam weiter – in Spandau am stärksten",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-bevoelkerungswachstum-waechst-einwohner-spandau.html",
-      "date": "Tue, 25 Aug 2026 13:49:02 +0200"
     }
   ]
 }
