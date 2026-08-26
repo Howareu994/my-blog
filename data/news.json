@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "\"Nebula\": Lichtkunst zieht in die Beelitzer Heilstätten",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/08/lichtkunst-nebula-beelitz-heilstaetten.html",
+      "date": "Wed, 26 Aug 2026 14:13:01 +0200"
+    },
+    {
+      "title": "Brandenburger Landtag versteigert Gastgeschenke aus aller Welt",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/08/brandenburg-landtag-versteigerung-gastgeschenke-vase-schachspiel.html",
+      "date": "Wed, 26 Aug 2026 14:08:50 +0200"
+    },
+    {
+      "title": "75 Jahre Berliner Festspiele: In der Ringbahn von der Zukunft träumen",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/08/berliner-festspiele-75-jahre-kunstprojekt-s-bahn-ring.html",
+      "date": "Wed, 26 Aug 2026 13:22:59 +0200"
+    },
+    {
       "title": "Kriegsmunition bei Borgsdorf gesprengt - Sperrkreis aufgehoben",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/kriegsmunition-borgsdorf-wald-evakuierung-notwendig.html",
       "date": "Wed, 26 Aug 2026 13:14:42 +0200"
@@ -26,11 +41,6 @@
       "date": "Wed, 26 Aug 2026 12:07:11 +0200"
     },
     {
-      "title": "75 Jahre Berliner Festspiele: In der Ringbahn von der Zukunft träumen",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/08/berliner-festspiele-75-jahre-kunstprojekt-s-bahn-ring.html",
-      "date": "Wed, 26 Aug 2026 12:01:23 +0200"
-    },
-    {
       "title": "BVG entfernt irrtümlicherweise Wahlplakate in U-Bahnhöfen",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/bvg-entfernt-irrtum-wahlplakate-u-bahnhof-parteienwerbung.html",
       "date": "Wed, 26 Aug 2026 11:49:51 +0200"
@@ -41,24 +51,14 @@
       "date": "Wed, 26 Aug 2026 10:47:14 +0200"
     },
     {
-      "title": "Herzberger Gymnasium wegen Geruchsbelästigung vorerst geschlossen",
+      "title": "Herzberger Gymnasium wegen Gestanks vorerst geschlossen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/gymnasium-herzberg-geschlossen-geruch-belaestigung.html",
-      "date": "Wed, 26 Aug 2026 10:09:42 +0200"
+      "date": "Wed, 26 Aug 2026 10:09:00 +0200"
     },
     {
       "title": "Poliça in Berlin: \"Jetzt aber weiter mit Musik\"",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/08/konzert-polica-peter-edel-weissensee-berlin.html",
       "date": "Wed, 26 Aug 2026 09:36:00 +0200"
-    },
-    {
-      "title": "Oberspreewald-Lausitz verbietet Wasserentnahme im Spree-Gebiet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/oberspreewald-lausitz-wasser-entnahme-verbot-spree-trockenheit.html",
-      "date": "Wed, 26 Aug 2026 08:24:51 +0200"
-    },
-    {
-      "title": "Fehlerhafte Schusswesten: Spranger kritisiert Hersteller Rheinmetall",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/08/polizei-fehlerhafte-schusswesten-aussortiert.html",
-      "date": "Wed, 26 Aug 2026 06:53:58 +0200"
     }
   ],
   "police": [
@@ -128,14 +128,14 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Fliegerbombe in Berlin-Neukölln gefunden – größere Sperrung geplant",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-neukoelln-entschaerfung-bombe-sperrkreis.html",
+      "date": "Wed, 26 Aug 2026 14:08:41 +0200"
+    },
+    {
       "title": "Kriegsmunition bei Borgsdorf gesprengt - Sperrkreis aufgehoben",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/kriegsmunition-borgsdorf-wald-evakuierung-notwendig.html",
       "date": "Wed, 26 Aug 2026 13:14:42 +0200"
-    },
-    {
-      "title": "Fliegerbombe in Berlin-Neukölln gefunden – größere Sperrung geplant",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-neukoelln-entschaerfung-bombe-sperrkreis.html",
-      "date": "Wed, 26 Aug 2026 13:02:59 +0200"
     },
     {
       "title": "Berliner Gastronomen bieten kostenfreie WC-Nutzung an - neues Toilette-Programm gestartet",
@@ -148,9 +148,9 @@
       "date": "Wed, 26 Aug 2026 11:31:25 +0200"
     },
     {
-      "title": "Herzberger Gymnasium wegen Geruchsbelästigung vorerst geschlossen",
+      "title": "Herzberger Gymnasium wegen Gestanks vorerst geschlossen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/gymnasium-herzberg-geschlossen-geruch-belaestigung.html",
-      "date": "Wed, 26 Aug 2026 10:09:42 +0200"
+      "date": "Wed, 26 Aug 2026 10:09:00 +0200"
     },
     {
       "title": "Oberspreewald-Lausitz verbietet Wasserentnahme im Spree-Gebiet",
