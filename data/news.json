@@ -1,19 +1,24 @@
 {
   "traffic": [
     {
+      "title": "Kriegsmunition wird bei Borgsdorf gesprengt - 2.800 Menschen evakuiert",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/kriegsmunition-borgsdorf-wald-evakuierung-notwendig.html",
+      "date": "Wed, 26 Aug 2026 08:28:15 +0200"
+    },
+    {
+      "title": "Oberspreewald-Lausitz verbietet Wasserentnahme im Spree-Gebiet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/oberspreewald-lausitz-wasser-entnahme-verbot-spree-trockenheit.html",
+      "date": "Wed, 26 Aug 2026 08:24:51 +0200"
+    },
+    {
       "title": "Fehlerhafte Schusswesten: Spranger kritisiert Hersteller Rheinmetall",
       "link": "https://www.rbb24.de/politik/beitrag/2026/08/polizei-fehlerhafte-schusswesten-aussortiert.html",
       "date": "Wed, 26 Aug 2026 06:53:58 +0200"
     },
     {
-      "title": "Kriegsmunition wird bei Borgsdorf gesprengt - 2.800 Menschen betroffen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/kriegsmunition-borgsdorf-wald-evakuierung-notwendig.html",
-      "date": "Wed, 26 Aug 2026 06:26:25 +0200"
-    },
-    {
       "title": "Ausgleichender Moderator sucht funktionierende Koalition",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/spitzenkandidaten/werner-graf-gruene-buendnis90-portraet.html",
-      "date": "Wed, 26 Aug 2026 06:07:34 +0200"
+      "date": "Wed, 26 Aug 2026 06:07:00 +0200"
     },
     {
       "title": "Regionalliga: BFC Dynamo gewinnt wieder, Debakel für Luckenwalde",
@@ -54,11 +59,6 @@
       "title": "Gesundheitliche Gründe: Felski tritt als Geschäftsführer der Eisbären Juniors zurück",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/sven-felski-eishockey-eisbaeren-berlin.html",
       "date": "Tue, 25 Aug 2026 15:45:29 +0200"
-    },
-    {
-      "title": "Verkehrsminister Crumbach verteidigt RE3-Fahrplanwechsel in Schwedt unter Buhrufen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/bahn-strecke-berlin-schwedt-pendler.html",
-      "date": "Tue, 25 Aug 2026 15:02:12 +0200"
     }
   ],
   "police": [
@@ -128,9 +128,14 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Kriegsmunition wird bei Borgsdorf gesprengt - 2.800 Menschen betroffen",
+      "title": "Kriegsmunition wird bei Borgsdorf gesprengt - 2.800 Menschen evakuiert",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/kriegsmunition-borgsdorf-wald-evakuierung-notwendig.html",
-      "date": "Wed, 26 Aug 2026 06:26:25 +0200"
+      "date": "Wed, 26 Aug 2026 08:28:15 +0200"
+    },
+    {
+      "title": "Oberspreewald-Lausitz verbietet Wasserentnahme im Spree-Gebiet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/oberspreewald-lausitz-wasser-entnahme-verbot-spree-trockenheit.html",
+      "date": "Wed, 26 Aug 2026 08:24:51 +0200"
     },
     {
       "title": "Mädchen auf E-Scooter fahren Frau am Alex an - Beifahrerin schwer verletzt",
@@ -181,11 +186,6 @@
       "title": "Interview zu Queerfeindlichkeit in Berlin und Brandenburg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/interview-rbb-reportage-queer-feindlichkeit-berlin-brandenburg.html",
       "date": "Tue, 25 Aug 2026 12:12:59 +0200"
-    },
-    {
-      "title": "Berliner Polizei weist auf Explosionsgeräusche im Grunewald hin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-grunewald-sprengplatz-uebung-explosionsgeraeusche.html",
-      "date": "Tue, 25 Aug 2026 11:13:59 +0200"
     }
   ]
 }
