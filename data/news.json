@@ -1,6 +1,26 @@
 {
   "traffic": [
     {
+      "title": "Rakete in Wohnung geschossen: Prozess gegen Influencer wird neu aufgerollt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-rakete-wohnung-influencer-silvester-prozess.html",
+      "date": "Wed, 26 Aug 2026 17:48:21 +0200"
+    },
+    {
+      "title": "Sozialminister Wilke unterstützt Initiative für Bisky-Straße in Potsdam",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/08/brandenburg-potsdam-initiative-lothar-bisky-strasse-rene-wilke.html",
+      "date": "Wed, 26 Aug 2026 17:36:43 +0200"
+    },
+    {
+      "title": "75 Jahre Berliner Festspiele: In der Ringbahn von der Zukunft träumen",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/08/berliner-festspiele-75-jahre-kunstprojekt-s-bahn-ring.html",
+      "date": "Wed, 26 Aug 2026 17:07:08 +0200"
+    },
+    {
+      "title": "Zahl der Obdachlosen in Berlin fast verzehnfacht",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/zahl-obdachlosen-berlin-fast-verzehnfacht.html",
+      "date": "Wed, 26 Aug 2026 16:52:29 +0200"
+    },
+    {
       "title": "Mehr Daten bei Hackerangriff abgeflossen als bislang bekannt",
       "link": "https://www.rbb24.de/politik/beitrag/2026/08/berlin-hackerangriff-landesnetz-daten-abgeflossen.html",
       "date": "Wed, 26 Aug 2026 16:18:00 +0200"
@@ -36,32 +56,17 @@
       "date": "Wed, 26 Aug 2026 14:08:50 +0200"
     },
     {
-      "title": "75 Jahre Berliner Festspiele: In der Ringbahn von der Zukunft träumen",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/08/berliner-festspiele-75-jahre-kunstprojekt-s-bahn-ring.html",
-      "date": "Wed, 26 Aug 2026 13:22:59 +0200"
-    },
-    {
       "title": "Kriegsmunition bei Borgsdorf gesprengt - Sperrkreis aufgehoben",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/kriegsmunition-borgsdorf-wald-evakuierung-notwendig.html",
       "date": "Wed, 26 Aug 2026 13:14:42 +0200"
-    },
-    {
-      "title": "Berlin und Brandenburg verlängern Lockerung des Lkw-Fahrverbots",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/08/niedrigwasser-gueterverkehr-lkw-sonntagsfahrverbot-lockerung-berlin-brandenburg-verlaengert.html",
-      "date": "Wed, 26 Aug 2026 13:13:37 +0200"
-    },
-    {
-      "title": "Brandenburg führt Onlineportal für Sozialanträge ein",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/08/brandenburg-online-sozialplattform-leistungen-antrag-grundsicherung.html",
-      "date": "Wed, 26 Aug 2026 13:13:10 +0200"
-    },
-    {
-      "title": "Berliner Gastronomen bieten kostenfreie WC-Nutzung an - neues Toilette-Programm gestartet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-wc-kooperationsprogramm-kostenfreie-toilette-gastronomie.html",
-      "date": "Wed, 26 Aug 2026 12:19:32 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Geschäftsstelle einer Partei beschädigt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1707323.php",
+      "date": "Wed, 26 Aug 2026 16:42:00 +0200"
+    },
     {
       "title": "„Sichtbar mobil zur Schule\" – Verkehrssicherheits-Aktionstag zum Schulanfang in der STATION Berlin",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1707118.php",
@@ -116,11 +121,6 @@
       "title": "Mehrere Fahrzeuge durch Feuer beschädigt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706122.php",
       "date": "Mon, 24 Aug 2026 09:39:51 +0200"
-    },
-    {
-      "title": "Tote Frau gefunden – Polizei und Staatsanwaltschaft bitten um Mithilfe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705979.php",
-      "date": "Sun, 23 Aug 2026 15:00:00 +0200"
     }
   ],
   "free_events": [],
@@ -130,7 +130,27 @@
     {
       "title": "Fliegerbombe in Berlin-Neukölln gefunden – 5.600 Haushalte werden evakuiert",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-neukoelln-entschaerfung-bombe-sperrkreis.html",
-      "date": "Wed, 26 Aug 2026 16:33:21 +0200"
+      "date": "Wed, 26 Aug 2026 17:54:41 +0200"
+    },
+    {
+      "title": "Rakete in Wohnung geschossen: Prozess gegen Influencer wird neu aufgerollt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-rakete-wohnung-influencer-silvester-prozess.html",
+      "date": "Wed, 26 Aug 2026 17:48:21 +0200"
+    },
+    {
+      "title": "Interview nach Urteil gegen Palliativarzt in Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-palliativarzt-urteil-mord-interview-larscheid-leichenschau.html",
+      "date": "Wed, 26 Aug 2026 17:10:27 +0200"
+    },
+    {
+      "title": "Zahl der Obdachlosen in Berlin fast verzehnfacht",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/zahl-obdachlosen-berlin-fast-verzehnfacht.html",
+      "date": "Wed, 26 Aug 2026 16:52:29 +0200"
+    },
+    {
+      "title": "Pflegekräfte protestieren in Frankfurt (Oder) gegen Reformpläne",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/pflegeprotest-frankfurt-oder-demonstration-pflegereform-fuerstenwalde.html",
+      "date": "Wed, 26 Aug 2026 16:40:11 +0200"
     },
     {
       "title": "Mann rechtskräftig für Femizid an seiner Ehefrau verurteilt",
@@ -153,11 +173,6 @@
       "date": "Wed, 26 Aug 2026 12:19:32 +0200"
     },
     {
-      "title": "Pflegekräfte protestieren in Frankfurt (Oder) gegen Reformpläne",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/pflegeprotest-frankfurt-oder-demonstration-pflegereform-fuerstenwalde.html",
-      "date": "Wed, 26 Aug 2026 11:31:25 +0200"
-    },
-    {
       "title": "Herzberger Gymnasium wegen Gestanks vorerst geschlossen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/gymnasium-herzberg-geschlossen-geruch-belaestigung.html",
       "date": "Wed, 26 Aug 2026 10:09:00 +0200"
@@ -171,21 +186,6 @@
       "title": "Mädchen auf E-Scooter fahren Frau am Alex an - Beifahrerin schwer verletzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/unfall-e-scooter-alexanderplatz.html",
       "date": "Tue, 25 Aug 2026 20:01:34 +0200"
-    },
-    {
-      "title": "Cottbuser Gastronom leidet unter Belastungsstörung und Depressionen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/prozess-schutzgeld-erpressung-cottbus-fortgesetzt.html",
-      "date": "Tue, 25 Aug 2026 19:45:58 +0200"
-    },
-    {
-      "title": "Polizei-Taucher suchen Spree nach Hinweisen auf CSD-Anschlag ab",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-csd-anschlag-spree-taucher.html",
-      "date": "Tue, 25 Aug 2026 19:03:38 +0200"
-    },
-    {
-      "title": "Viren in Tiefkühlbeeren: Wie groß ist das Risiko wirklich?",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/viren-beeren-tiefkuehl-norovirus-hepatitis-a-magen-darm-berlin-brandenburg.html",
-      "date": "Tue, 25 Aug 2026 18:52:24 +0200"
     }
   ]
 }
