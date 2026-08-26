@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Fehlerhafte Schusswesten: Spranger kritisiert Hersteller Rheinmetall",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/08/polizei-fehlerhafte-schusswesten-aussortiert.html",
+      "date": "Wed, 26 Aug 2026 06:53:58 +0200"
+    },
+    {
       "title": "Kriegsmunition wird bei Borgsdorf gesprengt - 2.800 Menschen betroffen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/kriegsmunition-borgsdorf-wald-evakuierung-notwendig.html",
       "date": "Wed, 26 Aug 2026 06:26:25 +0200"
@@ -54,11 +59,6 @@
       "title": "Verkehrsminister Crumbach verteidigt RE3-Fahrplanwechsel in Schwedt unter Buhrufen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/bahn-strecke-berlin-schwedt-pendler.html",
       "date": "Tue, 25 Aug 2026 15:02:12 +0200"
-    },
-    {
-      "title": "Wiedereröffnung des Stadtbads Schöneberg verzögert sich",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/wiedereroeffnung-stadtbad-schoeneberg-berlin-verzoegert.html",
-      "date": "Tue, 25 Aug 2026 14:47:00 +0200"
     }
   ],
   "police": [
