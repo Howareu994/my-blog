@@ -1,6 +1,41 @@
 {
   "traffic": [
     {
+      "title": "Regionalliga Nordost: Preussen holen Unentschieden in Erfurt",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-regionallliga-nordost-hertha-bfc-preussen-babelsberg.html",
+      "date": "Sat, 29 Aug 2026 18:47:19 +0200"
+    },
+    {
+      "title": "Königs Wusterhausen veranstaltet erstmals Christopher Street Day",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/08/brandenburg-koenigs-wusterhausen-dahme-spreewald-csd-queer-demo.html",
+      "date": "Sat, 29 Aug 2026 18:31:11 +0200"
+    },
+    {
+      "title": "3:3-Spektakel: Skarkes Hackentor erlöst Union gegen Frankfurt",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/bundesliga-livestream-audio-ticker-union-berlin-eintracht-frankfurt.html",
+      "date": "Sat, 29 Aug 2026 18:25:00 +0200"
+    },
+    {
+      "title": "Deutscher Männer-Doppevierer holt Silber mit Deutschem Rekord",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/rudern-wm-deutschland-silber-vierer-berliner.html",
+      "date": "Sat, 29 Aug 2026 18:20:14 +0200"
+    },
+    {
+      "title": "Motorradfahrer stirbt nach Unfall auf A111",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/motorradfahrer-unfall-a111-autobahn-berlin.html",
+      "date": "Sat, 29 Aug 2026 17:49:38 +0200"
+    },
+    {
+      "title": "Kanu-WM: Pauline Jagsch gewinnt Weltmeistertitel im Kajak-Einer",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/kanu-wm-deutschland-kaja-einer-frauen-pauline-jagsch.html",
+      "date": "Sat, 29 Aug 2026 17:06:29 +0200"
+    },
+    {
+      "title": "Pop-Kultur-Festival: Ostidentität in der Popmusik",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/08/berlin-brandenburg-ostdeutschland-identitaet-popkultur-festival.html",
+      "date": "Sat, 29 Aug 2026 16:57:16 +0200"
+    },
+    {
       "title": "Vier Menschen in Marzahn-Hellersdorf angegriffen und verletzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/attacken-marzahn-hellersdorf-kaulsdorf-u-bahnhof.html",
       "date": "Sat, 29 Aug 2026 16:46:40 +0200"
@@ -16,49 +51,14 @@
       "date": "Sat, 29 Aug 2026 15:59:45 +0200"
     },
     {
-      "title": "Jetzt live hören und im Ticker: Gelingt Union der Saisonstart gegen Frankfurt?",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/bundesliga-livestream-audio-ticker-union-berlin-eintracht-frankfurt.html",
-      "date": "Sat, 29 Aug 2026 15:38:26 +0200"
-    },
-    {
-      "title": "Brand in Geflüchteten-Unterkunft: Polizei ermittelt wegen schwerer Brandstiftung",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brand-spandau-gefluechteten-unterkunft.html",
-      "date": "Sat, 29 Aug 2026 13:02:11 +0200"
+      "title": "Kleingärtnerin muss Parzelle wegen nicht zulässigem Schuppen zurückgeben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/kleingaertnerin-muss-parzelle-zurueckgeben-illegaler-schuppen.html",
+      "date": "Sat, 29 Aug 2026 15:12:00 +0200"
     },
     {
       "title": "Nach Gewalttat: Trauerfeiern in Gosen-Neu Zittau am Samstag und Sonntag",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/gedenkfeiern-docemus-campus-brandenburg-schule-gosen-neu-zittau.html",
       "date": "Sat, 29 Aug 2026 12:21:00 +0200"
-    },
-    {
-      "title": "Hacker fordern rund zwei Millionen Euro in Bitcoin vom Land Berlin",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/08/hacker-erpressen-land-berlin-bitcoin-millionen.html",
-      "date": "Sat, 29 Aug 2026 11:33:00 +0200"
-    },
-    {
-      "title": "Interview zu rassistischen Ausschreitungen in Cottbus 1992",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/interview-rassistische-ausschreitungen-cottbus-1992.html",
-      "date": "Sat, 29 Aug 2026 07:20:06 +0200"
-    },
-    {
-      "title": "FDP bei der Berlin-Wahl – Christoph Meyers Kampf um fünf Prozent",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/spitzenkandidaten/christoph-meyer-fdp-portraet.html",
-      "date": "Sat, 29 Aug 2026 07:20:01 +0200"
-    },
-    {
-      "title": "Hertha schlägt Braunschweig: Elf Thorsteinssons müsst ihr sein",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/berlin-fussball-hertha-bsc-eintracht-braunschweig-sieg-analyse-thorsteinsson-leitl-pedersen.html",
-      "date": "Fri, 28 Aug 2026 22:16:00 +0200"
-    },
-    {
-      "title": "Regionalliga Nordost: Altglienicke nur Remis gegen Chemie Leipzig",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-regionalliga-nordost-altglienicke-chemie-leipzig.html",
-      "date": "Fri, 28 Aug 2026 22:08:36 +0200"
-    },
-    {
-      "title": "Einigung nach drei Jahren: Berliner CDU und JU legen ihren Streit bei",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/08/einigung-streit-cdu-junge-union-berlin.html",
-      "date": "Fri, 28 Aug 2026 21:29:11 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,16 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Motorradfahrer stirbt nach Unfall auf A111",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/motorradfahrer-unfall-a111-autobahn-berlin.html",
+      "date": "Sat, 29 Aug 2026 17:49:38 +0200"
+    },
+    {
+      "title": "Am Späti in Berlin-Haselhorst: \"Hier geht mir keiner auf den Sack\"",
+      "link": "https://www.rbb24.de/panorama/thema/spaeti/berlin-haselhorst-am-spaeti-strassenbauer.html",
+      "date": "Sat, 29 Aug 2026 16:52:29 +0200"
+    },
+    {
       "title": "Vier Menschen in Marzahn-Hellersdorf angegriffen und verletzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/attacken-marzahn-hellersdorf-kaulsdorf-u-bahnhof.html",
       "date": "Sat, 29 Aug 2026 16:46:40 +0200"
@@ -138,6 +148,11 @@
       "date": "Sat, 29 Aug 2026 15:59:45 +0200"
     },
     {
+      "title": "Kleingärtnerin muss Parzelle wegen nicht zulässigem Schuppen zurückgeben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/kleingaertnerin-muss-parzelle-zurueckgeben-illegaler-schuppen.html",
+      "date": "Sat, 29 Aug 2026 15:12:00 +0200"
+    },
+    {
       "title": "Brand in Geflüchteten-Unterkunft: Polizei ermittelt wegen schwerer Brandstiftung",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brand-spandau-gefluechteten-unterkunft.html",
       "date": "Sat, 29 Aug 2026 13:02:11 +0200"
@@ -145,7 +160,7 @@
     {
       "title": "175 Jahre Berliner Feuerwehr – der große Fahrzeugkorso",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/feuerwehr-175-jahre-fahrzeugkorso.html",
-      "date": "Sat, 29 Aug 2026 12:39:05 +0200"
+      "date": "Sat, 29 Aug 2026 12:39:00 +0200"
     },
     {
       "title": "Nach Gewalttat: Trauerfeiern in Gosen-Neu Zittau am Samstag und Sonntag",
@@ -171,21 +186,6 @@
       "title": "Aus dem Kalten Krieg: Teile eines Spionagetunnels zurück in Berlin",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-rudow-altglienicke-spionagetunnel-kalter-krieg-unterwelten-verein-ddr.html",
       "date": "Fri, 28 Aug 2026 17:51:08 +0200"
-    },
-    {
-      "title": "Familienbäckerei in Guhrow schließt ihren Laden nach 130 Jahren",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/Traditionsbaeckerei-guhrow-schliesst.html",
-      "date": "Fri, 28 Aug 2026 17:24:39 +0200"
-    },
-    {
-      "title": "Trinkwasser muss in Teilen von Märkisch-Oderland abgekocht werden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/trinkwasser-bakterien-maerkisch-oderland-gemeinden-abkochen.html",
-      "date": "Fri, 28 Aug 2026 16:54:41 +0200"
-    },
-    {
-      "title": "Unterricht an Herzberger Gymnasium wegen Gestanks weiterhin eingeschränkt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/herzberger-melanchton-gymnasium-gestank-geschlossen.html",
-      "date": "Fri, 28 Aug 2026 16:49:55 +0200"
     }
   ]
 }
