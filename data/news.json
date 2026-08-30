@@ -1,6 +1,51 @@
 {
   "traffic": [
     {
+      "title": "Fremdenfeindlicher Angriff: Hinweis auf \"Graue Wölfe\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/graue-woelfe-fremdenfeindlicher-angriff-inder-berlin.html",
+      "date": "Sun, 30 Aug 2026 16:01:22 +0200"
+    },
+    {
+      "title": "Deutschland-Achter verpasst knapp WM-Medaille",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/rudern-wm-amsterdam-deutschland-achter-finale-maenner-frauen.html",
+      "date": "Sun, 30 Aug 2026 15:39:14 +0200"
+    },
+    {
+      "title": "3:3 gegen Frankfurt: Lustrinelli-Fußball mit Luft nach oben",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-bundesliga-union-berlin-eintracht-frankfurt-analyse.html",
+      "date": "Sun, 30 Aug 2026 14:23:00 +0200"
+    },
+    {
+      "title": "Livestream: Das Istaf aus dem Berliner Olympiastadion",
+      "link": "https://www.rbb24.de/sport/hintergrund/livestream/istaf-berlin-sport-leichtathletik-olympiastadion-weber-neugebauer.html",
+      "date": "Sun, 30 Aug 2026 14:00:00 +0200"
+    },
+    {
+      "title": "Eishockey-Bundestrainer Rankel: \"Ich habe zwar das Sagen, aber ich bin ein absoluter Teamplayer\"",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/eishockey-neuer-bundestrainer-andre-rankel-eisbaeren-berlin-weltmeisterschaft-interview.html",
+      "date": "Sun, 30 Aug 2026 13:15:56 +0200"
+    },
+    {
+      "title": "Nach Gewalttat: \"Es macht sprachlos\": Mehrere Gedenken nach der Gewalttat",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/gedenkfeiern-docemus-campus-brandenburg-schule-gosen-neu-zittau.html",
+      "date": "Sun, 30 Aug 2026 13:11:18 +0200"
+    },
+    {
+      "title": "Kanu-WM: Gold für Schopf und Lemke im Kajak-Zweier",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/kanu-weltmeisterschaft-kajak-zweier-gold-schopf-lemke-kanuten.html",
+      "date": "Sun, 30 Aug 2026 12:27:00 +0200"
+    },
+    {
+      "title": "Hackerangriff: Wie Kriminelle gestohlene Daten nutzen könnten",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/experte-passwoerter-hacker-erpressen-land-berlin-bitcoin-millionen.html",
+      "date": "Sun, 30 Aug 2026 12:16:31 +0200"
+    },
+    {
+      "title": "Doppelhaushalt 2027/28: Brandenburg plant weniger neue Schulden",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/08/brandenburg-doppelhaushalt-2027-2028-schulden-keller.html",
+      "date": "Sun, 30 Aug 2026 09:11:48 +0200"
+    },
+    {
       "title": "Alexander King vom BSW: Ein Geograf mit beweglicher Nadel im Polit-Kompass",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/spitzenkandidaten/alexander-king-bsw-portraet.html",
       "date": "Sun, 30 Aug 2026 07:39:01 +0200"
@@ -14,54 +59,44 @@
       "title": "Alba Berlin: Zwei Siege in Testspielen zum Saisonauftakt",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/basketball-alba-berlin-saisoneroeffnung.html",
       "date": "Sat, 29 Aug 2026 20:02:32 +0200"
-    },
-    {
-      "title": "Regionalliga: BFC Preussen trotzt Tabellenführer Erfurt Punkt ab",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-regionallliga-nordost-hertha-bfc-preussen-babelsberg.html",
-      "date": "Sat, 29 Aug 2026 18:47:00 +0200"
-    },
-    {
-      "title": "Königs Wusterhausen veranstaltet erstmals Christopher Street Day",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/08/brandenburg-koenigs-wusterhausen-dahme-spreewald-csd-queer-demo.html",
-      "date": "Sat, 29 Aug 2026 18:31:00 +0200"
-    },
-    {
-      "title": "3:3-Spektakel: Skarkes Hackentor erlöst Union gegen Frankfurt",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/bundesliga-livestream-audio-ticker-union-berlin-eintracht-frankfurt.html",
-      "date": "Sat, 29 Aug 2026 18:25:00 +0200"
-    },
-    {
-      "title": "Deutscher Männer-Doppelvierer holt Silber mit Deutschem Rekord",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/rudern-wm-deutschland-silber-vierer-berliner.html",
-      "date": "Sat, 29 Aug 2026 18:20:00 +0200"
-    },
-    {
-      "title": "Motorradfahrer stirbt nach Unfall auf A111",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/motorradfahrer-unfall-a111-autobahn-berlin.html",
-      "date": "Sat, 29 Aug 2026 17:49:38 +0200"
-    },
-    {
-      "title": "Kanu-WM: Pauline Jagsch gewinnt Weltmeistertitel im Kajak-Einer",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/kanu-wm-deutschland-kaja-einer-frauen-pauline-jagsch.html",
-      "date": "Sat, 29 Aug 2026 17:06:29 +0200"
-    },
-    {
-      "title": "Pop-Kultur-Festival: Ostidentität in der Popmusik",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/08/berlin-brandenburg-ostdeutschland-identitaet-popkultur-festival.html",
-      "date": "Sat, 29 Aug 2026 16:57:16 +0200"
-    },
-    {
-      "title": "Vier Menschen in Marzahn-Hellersdorf angegriffen und verletzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/attacken-marzahn-hellersdorf-kaulsdorf-u-bahnhof.html",
-      "date": "Sat, 29 Aug 2026 16:46:40 +0200"
-    },
-    {
-      "title": "Trotz Führung: Energie Cottbus verliert zuhause gegen Fürth",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-zweite-liga-cottbus-fuerth.html",
-      "date": "Sat, 29 Aug 2026 16:41:00 +0200"
     }
   ],
   "police": [
+    {
+      "title": "DEIG-Einsatz nach Widerstand - Festnahme",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708397.php",
+      "date": "Sun, 30 Aug 2026 13:25:24 +0200"
+    },
+    {
+      "title": "Fußgänger bei Unfall verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708394.php",
+      "date": "Sun, 30 Aug 2026 12:58:10 +0200"
+    },
+    {
+      "title": "Schüsse in Fußgängerzone",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708392.php",
+      "date": "Sun, 30 Aug 2026 12:53:01 +0200"
+    },
+    {
+      "title": "Unfall mit verletzter Person und fünf beschädigten Autos",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708389.php",
+      "date": "Sun, 30 Aug 2026 12:03:48 +0200"
+    },
+    {
+      "title": "Fremdenfeindlicher Angriff - Festnahme",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708388.php",
+      "date": "Sun, 30 Aug 2026 11:54:23 +0200"
+    },
+    {
+      "title": "Sachbeschädigungen durch Farbschmierereien",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708385.php",
+      "date": "Sun, 30 Aug 2026 11:03:41 +0200"
+    },
+    {
+      "title": "Verstoß gegen das Sprengstoffgesetz - Festnahme",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708384.php",
+      "date": "Sun, 30 Aug 2026 10:56:59 +0200"
+    },
     {
       "title": "Verkehrsunfall mit BVG-Bus",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708336.php",
@@ -86,47 +121,32 @@
       "title": "Unfallflucht nach Zusammenstoß mit zweijährigem Jungen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708325.php",
       "date": "Sat, 29 Aug 2026 11:07:48 +0200"
-    },
-    {
-      "title": "Motorradfahrer erlag seinen Verletzungen und verstarb",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708108.php",
-      "date": "Sat, 29 Aug 2026 10:00:00 +0200"
-    },
-    {
-      "title": "Einer Polizeikontrolle entzogen und Unfall verursacht",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708254.php",
-      "date": "Fri, 28 Aug 2026 15:57:45 +0200"
-    },
-    {
-      "title": "BAO Ferrum und EG Telum: Durchsuchungsmaßnahmen zur Bekämpfung der Schusswaffenkriminalität",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708224.php",
-      "date": "Fri, 28 Aug 2026 14:47:57 +0200"
-    },
-    {
-      "title": "Allgemeinverfügung erlassen – Einschränkungen im Bezirk Mitte",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708152.php",
-      "date": "Fri, 28 Aug 2026 13:27:58 +0200"
-    },
-    {
-      "title": "Trickdiebstahl in Wohnungen - Festnahmen und Durchsuchungen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708099.php",
-      "date": "Fri, 28 Aug 2026 12:38:24 +0200"
-    },
-    {
-      "title": "Zehnjähriger geschlagen und homophob beleidigt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708088.php",
-      "date": "Fri, 28 Aug 2026 12:16:28 +0200"
-    },
-    {
-      "title": "Schlägerei nach Streitigkeiten",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708076.php",
-      "date": "Fri, 28 Aug 2026 12:04:30 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Fremdenfeindlicher Angriff: Hinweis auf \"Graue Wölfe\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/graue-woelfe-fremdenfeindlicher-angriff-inder-berlin.html",
+      "date": "Sun, 30 Aug 2026 16:01:22 +0200"
+    },
+    {
+      "title": "100 Jahre Funkturm in Bildern: Der Turm, der Berlin zum Sendegebiet machte",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/03/bildergalerie-funkturm-jubilaeum-berlin.html",
+      "date": "Sun, 30 Aug 2026 15:08:24 +0200"
+    },
+    {
+      "title": "Nach Gewalttat: \"Es macht sprachlos\": Mehrere Gedenken nach der Gewalttat",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/gedenkfeiern-docemus-campus-brandenburg-schule-gosen-neu-zittau.html",
+      "date": "Sun, 30 Aug 2026 13:11:18 +0200"
+    },
+    {
+      "title": "Hackerangriff: Wie Kriminelle gestohlene Daten nutzen könnten",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/experte-passwoerter-hacker-erpressen-land-berlin-bitcoin-millionen.html",
+      "date": "Sun, 30 Aug 2026 12:16:31 +0200"
+    },
     {
       "title": "Neue Gesetze und Regeln: Das ändert sich im September",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-brandenburg-september-neue-gesetze-regeln.html",
@@ -166,26 +186,6 @@
       "title": "175 Jahre Berliner Feuerwehr – der große Fahrzeugkorso",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/feuerwehr-175-jahre-fahrzeugkorso.html",
       "date": "Sat, 29 Aug 2026 12:39:00 +0200"
-    },
-    {
-      "title": "Nach Gewalttat: Trauerfeiern in Gosen-Neu Zittau am Samstag und Sonntag",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/gedenkfeiern-docemus-campus-brandenburg-schule-gosen-neu-zittau.html",
-      "date": "Sat, 29 Aug 2026 12:21:00 +0200"
-    },
-    {
-      "title": "Interview zu rassistischen Ausschreitungen in Cottbus 1992",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/interview-rassistische-ausschreitungen-cottbus-1992.html",
-      "date": "Sat, 29 Aug 2026 07:20:06 +0200"
-    },
-    {
-      "title": "Windkraft-Betrüger Holt aus Justizvollzugsanstalt Berlin geflüchtet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-windkraft-betrueger-haft-jva.html",
-      "date": "Fri, 28 Aug 2026 21:21:42 +0200"
-    },
-    {
-      "title": "Gosen-Neu Zittau: Haftantrag gegen 19-Jährigen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/docemus-campus-brandenburg-schule-gosen-neu-zittau.html",
-      "date": "Fri, 28 Aug 2026 19:57:42 +0200"
     }
   ]
 }
