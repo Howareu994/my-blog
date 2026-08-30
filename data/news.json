@@ -1,19 +1,29 @@
 {
   "traffic": [
     {
+      "title": "Alexander King vom BSW: Ein Geograf mit beweglicher Nadel im Polit-Kompass",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/spitzenkandidaten/alexander-king-bsw-portraet.html",
+      "date": "Sun, 30 Aug 2026 07:39:01 +0200"
+    },
+    {
+      "title": "Neue Gesetze und Regeln: Das ändert sich im September",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-brandenburg-september-neue-gesetze-regeln.html",
+      "date": "Sun, 30 Aug 2026 07:22:09 +0200"
+    },
+    {
       "title": "Alba Berlin: Zwei Siege in Testspielen zum Saisonauftakt",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/basketball-alba-berlin-saisoneroeffnung.html",
       "date": "Sat, 29 Aug 2026 20:02:32 +0200"
     },
     {
-      "title": "Regionalliga Nordost: Preussen holen Unentschieden in Erfurt",
+      "title": "Regionalliga: BFC Preussen trotzt Tabellenführer Erfurt Punkt ab",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-regionallliga-nordost-hertha-bfc-preussen-babelsberg.html",
-      "date": "Sat, 29 Aug 2026 18:47:19 +0200"
+      "date": "Sat, 29 Aug 2026 18:47:00 +0200"
     },
     {
       "title": "Königs Wusterhausen veranstaltet erstmals Christopher Street Day",
       "link": "https://www.rbb24.de/politik/beitrag/2026/08/brandenburg-koenigs-wusterhausen-dahme-spreewald-csd-queer-demo.html",
-      "date": "Sat, 29 Aug 2026 18:31:11 +0200"
+      "date": "Sat, 29 Aug 2026 18:31:00 +0200"
     },
     {
       "title": "3:3-Spektakel: Skarkes Hackentor erlöst Union gegen Frankfurt",
@@ -21,9 +31,9 @@
       "date": "Sat, 29 Aug 2026 18:25:00 +0200"
     },
     {
-      "title": "Deutscher Männer-Doppevierer holt Silber mit Deutschem Rekord",
+      "title": "Deutscher Männer-Doppelvierer holt Silber mit Deutschem Rekord",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/rudern-wm-deutschland-silber-vierer-berliner.html",
-      "date": "Sat, 29 Aug 2026 18:20:14 +0200"
+      "date": "Sat, 29 Aug 2026 18:20:00 +0200"
     },
     {
       "title": "Motorradfahrer stirbt nach Unfall auf A111",
@@ -49,16 +59,6 @@
       "title": "Trotz Führung: Energie Cottbus verliert zuhause gegen Fürth",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-zweite-liga-cottbus-fuerth.html",
       "date": "Sat, 29 Aug 2026 16:41:00 +0200"
-    },
-    {
-      "title": "Umleitungen und Ersatzverkehre bis Sonntagmorgen auf Strecke Berlin-Hamburg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/bahnstrecke-berlin-hamburg-samstagnacht-gesperrt-ersatzverkehr.html",
-      "date": "Sat, 29 Aug 2026 15:59:45 +0200"
-    },
-    {
-      "title": "Kleingärtnerin muss Parzelle wegen nicht zulässigem Schuppen zurückgeben",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/kleingaertnerin-muss-parzelle-zurueckgeben-illegaler-schuppen.html",
-      "date": "Sat, 29 Aug 2026 15:12:00 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Neue Gesetze und Regeln: Das ändert sich im September",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-brandenburg-september-neue-gesetze-regeln.html",
+      "date": "Sun, 30 Aug 2026 07:22:09 +0200"
+    },
+    {
       "title": "Motorradfahrer stirbt nach Unfall auf A111",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/motorradfahrer-unfall-a111-autobahn-berlin.html",
       "date": "Sat, 29 Aug 2026 17:49:38 +0200"
@@ -181,11 +186,6 @@
       "title": "Gosen-Neu Zittau: Haftantrag gegen 19-Jährigen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/docemus-campus-brandenburg-schule-gosen-neu-zittau.html",
       "date": "Fri, 28 Aug 2026 19:57:42 +0200"
-    },
-    {
-      "title": "Aus dem Kalten Krieg: Teile eines Spionagetunnels zurück in Berlin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-rudow-altglienicke-spionagetunnel-kalter-krieg-unterwelten-verein-ddr.html",
-      "date": "Fri, 28 Aug 2026 17:51:08 +0200"
     }
   ]
 }
