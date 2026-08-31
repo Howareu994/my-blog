@@ -1,14 +1,44 @@
 {
   "traffic": [
     {
+      "title": "Fußball: Hertha BSC verpflichtet Stürmer Gustaf Nilsson",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-zweite-liga-hertha-bsc-verpflichtet-gustaf-nilsson.html",
+      "date": "Mon, 31 Aug 2026 20:34:55 +0200"
+    },
+    {
+      "title": "Ex-Herthaner Tahsin Cakmak: Die neue Hoffnung von Tasmania Berlin",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-regionalliga-nordost-tasmania-berlin-hertha-bsc-babelsberg-tebe-berliner-ak-tahsin-cakmak.html",
+      "date": "Mon, 31 Aug 2026 19:01:30 +0200"
+    },
+    {
+      "title": "Sommerbilanz für Berlin und Brandenburg: wenig Regen und Rekordhitze",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-brandenburg-sommer-regen-sonne-hitze-rekorde.html",
+      "date": "Mon, 31 Aug 2026 18:27:21 +0200"
+    },
+    {
+      "title": "Modus, Vereine, Preisgeld: Eisbären in der Champions Hockey League",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/08/eishockey-chl-eisbaeren-berlin-wellblechpalast-europa-modus-teams-abschneiden-titel.html",
+      "date": "Mon, 31 Aug 2026 18:09:26 +0200"
+    },
+    {
+      "title": "Werkserweiterung in Baruth: Diskussionen ums Grundwasser",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/08/baruth-mark-red-bull-rauch-wasser-mangel-trockenheit-erweiterung.html",
+      "date": "Mon, 31 Aug 2026 17:51:30 +0200"
+    },
+    {
+      "title": "Drei Verdächtige nach Durchsuchung in Oranienburg wegen Cyberattacken",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-oranienburg-hacker-angriff-cyberattacke.html",
+      "date": "Mon, 31 Aug 2026 17:31:48 +0200"
+    },
+    {
       "title": "Wohnhausbrand in Erkner (Oder-Spree) - Feuerwehr vor Ort",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/wohnhaus-erkner-in-brand-explosion-oder-spree-brandenburg.html",
-      "date": "Mon, 31 Aug 2026 16:32:00 +0200"
+      "date": "Mon, 31 Aug 2026 16:45:46 +0200"
     },
     {
       "title": "Fünf Fußballer, die zu Gastronomen wurden",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-ex-profis-die-zu-gastronomen-wurden-hertha-union-weiner-demme-mattuschka-koehler-nouri.html",
-      "date": "Mon, 31 Aug 2026 16:12:10 +0200"
+      "date": "Mon, 31 Aug 2026 16:12:00 +0200"
     },
     {
       "title": "Neuer Autobahnabschnitt: A14-Elbbrücke teilweise für Verkehr freigegeben",
@@ -29,36 +59,6 @@
       "title": "Brandenburgs Haushalt soll erstmals über 18 Milliarden Euro liegen",
       "link": "https://www.rbb24.de/politik/beitrag/2026/08/brandenburg-haushalt-sparen.html",
       "date": "Mon, 31 Aug 2026 15:21:53 +0200"
-    },
-    {
-      "title": "Sommerbilanz für Berlin und Brandenburg: wenig Regen und Rekordhitze",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-brandenburg-sommer-regen-sonne-hitze-rekorde.html",
-      "date": "Mon, 31 Aug 2026 15:13:28 +0200"
-    },
-    {
-      "title": "Gosen-Neu Zittau: Haftbefehl gegen 19-Jährigen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/docemus-campus-brandenburg-schule-gosen-neu-zittau.html",
-      "date": "Mon, 31 Aug 2026 15:05:10 +0200"
-    },
-    {
-      "title": "Jugendamt Teltow-Fläming: Langes Warten auf Bescheide",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/jugendamt-teltow-flaeming-kritik.html",
-      "date": "Mon, 31 Aug 2026 14:02:14 +0200"
-    },
-    {
-      "title": "Füchse Berlin: Théo Monar kommt 2027 als Marsenic-Nachfolger",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/handball-bundesliga-fuechse-berlin-theo-monar-kielce-wechsel-neuverpflichtung.html",
-      "date": "Mon, 31 Aug 2026 13:32:56 +0200"
-    },
-    {
-      "title": "Millionen-Streit zwischen Hertha BSC und Fredi Bobic ist beendet",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-zweite-bundesliga-hertha-bsc-fredi-bobic-manager-streit-gericht-urteil.html",
-      "date": "Mon, 31 Aug 2026 13:05:30 +0200"
-    },
-    {
-      "title": "Windkraft-Betrüger Holt aus Justizvollzugsanstalt Berlin geflüchtet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-windkraft-betrueger-haft-jva.html",
-      "date": "Mon, 31 Aug 2026 12:36:36 +0200"
     }
   ],
   "police": [
@@ -128,9 +128,24 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Sommerbilanz für Berlin und Brandenburg: wenig Regen und Rekordhitze",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-brandenburg-sommer-regen-sonne-hitze-rekorde.html",
+      "date": "Mon, 31 Aug 2026 18:27:21 +0200"
+    },
+    {
+      "title": "In der Baumuniversität soll die Zukunft historischer Gärten erforscht werden",
+      "link": "https://www.rbb24.de/panorama/beitrag/2025/09/brandenburg-cottbus-baumuniversitaet-branitz-modellprojekt.html",
+      "date": "Mon, 31 Aug 2026 17:46:50 +0200"
+    },
+    {
+      "title": "Drei Verdächtige nach Durchsuchung in Oranienburg wegen Cyberattacken",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-oranienburg-hacker-angriff-cyberattacke.html",
+      "date": "Mon, 31 Aug 2026 17:31:48 +0200"
+    },
+    {
       "title": "Wohnhausbrand in Erkner (Oder-Spree) - Feuerwehr vor Ort",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/wohnhaus-erkner-in-brand-explosion-oder-spree-brandenburg.html",
-      "date": "Mon, 31 Aug 2026 16:37:01 +0200"
+      "date": "Mon, 31 Aug 2026 16:45:46 +0200"
     },
     {
       "title": "Erkner: Frau getötet, Verdächtiger kannte das Opfer",
@@ -153,11 +168,6 @@
       "date": "Mon, 31 Aug 2026 15:34:47 +0200"
     },
     {
-      "title": "Sommerbilanz für Berlin und Brandenburg: wenig Regen und Rekordhitze",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-brandenburg-sommer-regen-sonne-hitze-rekorde.html",
-      "date": "Mon, 31 Aug 2026 15:13:28 +0200"
-    },
-    {
       "title": "Gosen-Neu Zittau: Haftbefehl gegen 19-Jährigen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/docemus-campus-brandenburg-schule-gosen-neu-zittau.html",
       "date": "Mon, 31 Aug 2026 15:05:10 +0200"
@@ -176,16 +186,6 @@
       "title": "Polizei findet Waffen in Wohnung in Hennigsdorf",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/oberhavel-hennigsdorf-waffen-wohnung-gefunden-polizei-versiegelt.html",
       "date": "Mon, 31 Aug 2026 11:05:56 +0200"
-    },
-    {
-      "title": "U-Bahn in Berlin: Einschränkungen auf drei Linien bis Mittwoch",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-ubahn-u1-u2-u3-bauarbeiten-einschraenkungen.html",
-      "date": "Mon, 31 Aug 2026 07:52:16 +0200"
-    },
-    {
-      "title": "Glücksspielsucht: Anbieter lassen Betroffene trotz Sperre spielen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/spielsucht-wettbueros-gluecksspiel-verstoesse-sperren-berlin.html",
-      "date": "Mon, 31 Aug 2026 06:26:00 +0200"
     }
   ]
 }
