@@ -1,9 +1,14 @@
 {
   "traffic": [
     {
-      "title": "Leichtathletik-Show: Neugebauer siegt nach Diskus-Drama beim Istaf",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/leichtathletik-istaf-olympiastadion-berlin-neugebauer-weber-krause-agyekum.html",
-      "date": "Sun, 30 Aug 2026 18:31:40 +0200"
+      "title": "Dahme-Spreewald: Schwimmer im Kiessee bei Bestensee vermisst",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-dahme-spreewald-bestensee-kiessee-rettungseinsatz-schwimmer.html",
+      "date": "Mon, 31 Aug 2026 08:14:29 +0200"
+    },
+    {
+      "title": "U-Bahn in Berlin: Einschränkungen auf drei Linien bis Mittwoch",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-ubahn-u1-u2-u3-bauarbeiten-einschraenkungen.html",
+      "date": "Mon, 31 Aug 2026 07:52:16 +0200"
     },
     {
       "title": "Zugausfälle nachts auf der RE1-Strecke ab Montag",
@@ -23,7 +28,12 @@
     {
       "title": "Eishockey: Eisbären Berlin gewinnen letzten Test vor Saisonstart",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/eishockey-saisonstart-eisbaeren-berlin-laustizer-fuechse-test-spiel.html",
-      "date": "Sun, 30 Aug 2026 17:51:38 +0200"
+      "date": "Sun, 30 Aug 2026 17:51:00 +0200"
+    },
+    {
+      "title": "100 Jahre Funkturm in Bildern: Der Turm, der ganz Berlin zum Sendegebiet machte",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/03/bildergalerie-funkturm-jubilaeum-berlin.html",
+      "date": "Sun, 30 Aug 2026 17:18:50 +0200"
     },
     {
       "title": "Fremdenfeindlicher Angriff: Hinweis auf \"Graue Wölfe\"",
@@ -34,11 +44,6 @@
       "title": "Deutschland-Achter verpasst knapp WM-Medaille",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/rudern-wm-amsterdam-deutschland-achter-finale-maenner-frauen.html",
       "date": "Sun, 30 Aug 2026 15:39:14 +0200"
-    },
-    {
-      "title": "3:3 gegen Frankfurt: Lustrinelli-Fußball mit Luft nach oben",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-bundesliga-union-berlin-eintracht-frankfurt-analyse.html",
-      "date": "Sun, 30 Aug 2026 14:23:00 +0200"
     },
     {
       "title": "Eishockey-Bundestrainer Rankel: \"Ich habe zwar das Sagen, aber ich bin ein absoluter Teamplayer\"",
@@ -54,11 +59,6 @@
       "title": "Kanu-WM: Gold für Schopf und Lemke im Kajak-Zweier",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/kanu-weltmeisterschaft-kajak-zweier-gold-schopf-lemke-kanuten.html",
       "date": "Sun, 30 Aug 2026 12:27:00 +0200"
-    },
-    {
-      "title": "Hackerangriff: Wie Kriminelle gestohlene Daten nutzen könnten",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/experte-passwoerter-hacker-erpressen-land-berlin-bitcoin-millionen.html",
-      "date": "Sun, 30 Aug 2026 12:16:31 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,21 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Dahme-Spreewald: Schwimmer im Kiessee bei Bestensee vermisst",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-dahme-spreewald-bestensee-kiessee-rettungseinsatz-schwimmer.html",
+      "date": "Mon, 31 Aug 2026 08:14:29 +0200"
+    },
+    {
+      "title": "U-Bahn in Berlin: Einschränkungen auf drei Linien bis Mittwoch",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-ubahn-u1-u2-u3-bauarbeiten-einschraenkungen.html",
+      "date": "Mon, 31 Aug 2026 07:52:16 +0200"
+    },
+    {
+      "title": "Glücksspielsucht: Anbieter lassen Betroffene trotz Sperre spielen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/spielsucht-wettbueros-gluecksspiel-verstoesse-sperren-berlin.html",
+      "date": "Mon, 31 Aug 2026 06:26:00 +0200"
+    },
+    {
       "title": "Zugausfälle nachts auf der RE1-Strecke ab Montag",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/re1-zuege-ausfaelle-berlin-frankfurt-oder-odeg.html",
       "date": "Sun, 30 Aug 2026 18:09:08 +0200"
@@ -171,21 +186,6 @@
       "title": "Vier Menschen in Marzahn-Hellersdorf angegriffen und verletzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/attacken-marzahn-hellersdorf-kaulsdorf-u-bahnhof.html",
       "date": "Sat, 29 Aug 2026 16:46:40 +0200"
-    },
-    {
-      "title": "Umleitungen und Ersatzverkehre bis Sonntagmorgen auf Strecke Berlin-Hamburg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/bahnstrecke-berlin-hamburg-samstagnacht-gesperrt-ersatzverkehr.html",
-      "date": "Sat, 29 Aug 2026 15:59:45 +0200"
-    },
-    {
-      "title": "Kleingärtnerin muss Parzelle wegen nicht zulässigem Schuppen zurückgeben",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/kleingaertnerin-muss-parzelle-zurueckgeben-illegaler-schuppen.html",
-      "date": "Sat, 29 Aug 2026 15:12:00 +0200"
-    },
-    {
-      "title": "Brand in Geflüchteten-Unterkunft: Polizei ermittelt wegen schwerer Brandstiftung",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brand-spandau-gefluechteten-unterkunft.html",
-      "date": "Sat, 29 Aug 2026 13:02:11 +0200"
     }
   ]
 }
