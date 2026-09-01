@@ -1,6 +1,31 @@
 {
   "traffic": [
     {
+      "title": "Sabotage an Umspannwerk: Täter wollten mit selbstgebauten Raketen Stromausfall auslösen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/sprengvorrichtung-umspannwerk-brandenburg-kraftwerk-jaenschwalde.html",
+      "date": "Tue, 01 Sep 2026 22:19:01 +0200"
+    },
+    {
+      "title": "Union Berlin verpflichtet Werder-Kapitänin Lina Hausicke",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/berlin-union-frauen-verpflichtung-lisa-hausicke-werder-bremen-transfer.html",
+      "date": "Tue, 01 Sep 2026 21:56:49 +0200"
+    },
+    {
+      "title": "Union Berlin verleiht Talent Ogbemudia erneut nach Mannheim",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/berlin-fussball-union-leihe-oluwaseun-ogbemudia-waldhof-mannheim-transfer.html",
+      "date": "Tue, 01 Sep 2026 21:15:02 +0200"
+    },
+    {
+      "title": "Mehr Lehrer, mehr Polizei – Brandenburg beschließt Doppelhaushalt",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/09/brandenburg-regierung-haushalt-beschluss-sparen-lehrer-polizei.html",
+      "date": "Tue, 01 Sep 2026 21:12:27 +0200"
+    },
+    {
+      "title": "Erst Hohn, dann Lob - So ist Herthas Transfersommer zu bewerten",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/berlin-fussball-hertha-bsc-transfersommer-bilanz-analyse-nilsson-pedersen-weber-goerlich.html",
+      "date": "Tue, 01 Sep 2026 21:03:54 +0200"
+    },
+    {
       "title": "Weiser tritt aus gesundheitlichen Gründen bei Luckenwalde zurück",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/brandenburg-fussball-fsv-luckenwalde-patrick-weiser-trainer-ruecktritt-gesundheit.html",
       "date": "Tue, 01 Sep 2026 20:37:19 +0200"
@@ -14,16 +39,6 @@
       "title": "Reaktion auf Anschlagsversuch: Bundesregierung kündigt Vertrag mit Russischem Haus in Berlin",
       "link": "https://www.rbb24.de/politik/beitrag/2026/09/berlin-mitte-russisches-haus-bundesregierung-anschlag-russland.html",
       "date": "Tue, 01 Sep 2026 18:57:27 +0200"
-    },
-    {
-      "title": "Sabotage an Umspannwerk: Täter wollten mit selbstgebauten Raketen Stromausfall auslösen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/sprengvorrichtung-umspannwerk-brandenburg-kraftwerk-jaenschwalde.html",
-      "date": "Tue, 01 Sep 2026 18:55:44 +0200"
-    },
-    {
-      "title": "Berliner Baseball-Profi Kepler: Der deutsche Doper ist wieder da",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/baseball-berlin-max-kepler-doping-major-league-mlb-arizona-diamonbacks.html",
-      "date": "Tue, 01 Sep 2026 18:37:08 +0200"
     },
     {
       "title": "Frau bei Angriff in Berlin-Hellersdorf lebensgefährlich verletzt",
@@ -44,21 +59,6 @@
       "title": "Vor Heim-WM: Das macht Berlin zur Hauptstadt des Frauenbasketballs",
       "link": "https://www.rbb24.de/sport/beitrag/2026/09/frauen-basketball-wm-berlin-alba-nyara-sabally-satou-olaf-lange.html",
       "date": "Tue, 01 Sep 2026 17:43:29 +0200"
-    },
-    {
-      "title": "Bezirksamt stellt Disziplinarverfahren gegen früheren Stadtrat ein",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/09/berlin-charlottenburg-wilmersdorf-bezirksstadtrat-detlef-wagner.html",
-      "date": "Tue, 01 Sep 2026 17:42:59 +0200"
-    },
-    {
-      "title": "BVV-Wahlen 2026: Wie ist die Lage in den Bezirken?",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/bvv/bezirke-buergermeister-politische-lage-uebersicht.html",
-      "date": "Tue, 01 Sep 2026 17:10:09 +0200"
-    },
-    {
-      "title": "Brandenburg bekräftigt Verbot von Propaganda an Schulen – mit Verweis auf die AfD",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/08/brandenburg-regierung-afd-werbung-schulen-verboten.html",
-      "date": "Tue, 01 Sep 2026 16:43:18 +0200"
     }
   ],
   "police": [
@@ -130,7 +130,7 @@
     {
       "title": "Sabotage an Umspannwerk: Täter wollten mit selbstgebauten Raketen Stromausfall auslösen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/sprengvorrichtung-umspannwerk-brandenburg-kraftwerk-jaenschwalde.html",
-      "date": "Tue, 01 Sep 2026 18:55:44 +0200"
+      "date": "Tue, 01 Sep 2026 22:19:01 +0200"
     },
     {
       "title": "Frau bei Angriff in Berlin-Hellersdorf lebensgefährlich verletzt",
