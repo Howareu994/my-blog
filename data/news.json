@@ -1,67 +1,82 @@
 {
   "traffic": [
     {
-      "title": "Wofür die Bezirksverordnetenversammlung zuständig ist - und wie sie gewählt wird",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/bvv/was-ist-eine-bezirksverordnetenversammlung.html",
-      "date": "Tue, 01 Sep 2026 06:32:00 +0200"
+      "title": "Gedenkort für CSD-Opfer: Regenbogen-Bank im Berliner Tiergarten zerstört",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/csd-gedenkbank-beschaedigt-berlin-tiergarten-regenbogen.html",
+      "date": "Tue, 01 Sep 2026 12:45:27 +0200"
     },
     {
-      "title": "Fehlende Wohnungen: Warum Azubis besonders betroffen sind",
+      "title": "BVV-Wahl Berlin: Was macht eine Bezirksverordnetenversammlung?",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/bvv/was-ist-eine-bezirksverordnetenversammlung.html",
+      "date": "Tue, 01 Sep 2026 12:36:39 +0200"
+    },
+    {
+      "title": "Unions Rekordtransfer: Ilyas Ansah wechselt in die Premier League",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/union-berlin-ilyas-ansah-wechsel-premier-league-hull-city.html",
+      "date": "Tue, 01 Sep 2026 12:12:05 +0200"
+    },
+    {
+      "title": "Mutmaßlich antisemitischer Angriff auf Grünen-Politiker in Berlin",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-steglitz-gruene-daniel-eliasson-direktkandidat-wahl-antisemitismus.html",
+      "date": "Tue, 01 Sep 2026 11:21:35 +0200"
+    },
+    {
+      "title": "Berliner Luxushotel Adlon kann vorerst nicht verkauft werden",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/09/hotel-adlon-berlin-voerst-kein-verkauf.html",
+      "date": "Tue, 01 Sep 2026 11:01:02 +0200"
+    },
+    {
+      "title": "Sperrkreis ab 8 Uhr: Weltkriegsbombe wird am Mittwoch in Oranienburg entschärft",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/oranienburg-lehnitz-fliegerbombe-entschaerfung-sperrkreis-kampfmittel.html",
+      "date": "Tue, 01 Sep 2026 10:58:01 +0200"
+    },
+    {
+      "title": "Sommerbilanz für Berlin und Brandenburg: wenig Regen und Rekordhitze",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-brandenburg-sommer-regen-sonne-hitze-rekorde.html",
+      "date": "Tue, 01 Sep 2026 10:12:23 +0200"
+    },
+    {
+      "title": "Warum Azubis vom Wohnungsmangel in Berlin besonders betroffen sind",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/08/azubis-wohnen-berlin-teuer-azubiwerk-wohnheim.html",
-      "date": "Tue, 01 Sep 2026 06:14:37 +0200"
+      "date": "Tue, 01 Sep 2026 09:55:34 +0200"
+    },
+    {
+      "title": "Potsdamer setzt Terrasse bei Mäusejagd in Brand",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/maeusejagd-in-potsdam-eskaliert.html",
+      "date": "Tue, 01 Sep 2026 09:43:09 +0200"
+    },
+    {
+      "title": "Berliner zurückhaltend beim E-Bike-Kauf",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/09/ebikes-berlin-brandenburg-vergleich.html",
+      "date": "Tue, 01 Sep 2026 08:26:39 +0200"
+    },
+    {
+      "title": "Berlin: Bahn setzt Alkoholverbot an weiteren Bahnhöfen um",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-deutsche-bahn-alkoholverbot-hauptbahnhof-gesundbrunnen.html",
+      "date": "Tue, 01 Sep 2026 08:03:14 +0200"
     },
     {
       "title": "Fußball: Hertha BSC verpflichtet Stürmer Gustaf Nilsson",
       "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-zweite-liga-hertha-bsc-verpflichtet-gustaf-nilsson.html",
       "date": "Mon, 31 Aug 2026 20:34:55 +0200"
-    },
-    {
-      "title": "Ex-Herthaner Tahsin Cakmak: Die neue Hoffnung von Tasmania Berlin",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-regionalliga-nordost-tasmania-berlin-hertha-bsc-babelsberg-tebe-berliner-ak-tahsin-cakmak.html",
-      "date": "Mon, 31 Aug 2026 19:01:30 +0200"
-    },
-    {
-      "title": "Sommerbilanz für Berlin und Brandenburg: wenig Regen und Rekordhitze",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-brandenburg-sommer-regen-sonne-hitze-rekorde.html",
-      "date": "Mon, 31 Aug 2026 18:27:21 +0200"
-    },
-    {
-      "title": "Modus, Vereine, Preisgeld: Eisbären in der Champions Hockey League",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/eishockey-chl-eisbaeren-berlin-wellblechpalast-europa-modus-teams-abschneiden-titel.html",
-      "date": "Mon, 31 Aug 2026 18:09:26 +0200"
-    },
-    {
-      "title": "Werkserweiterung von Red Bull und Rauch in Baruth: Diskussionen ums Grundwasser",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/08/baruth-mark-red-bull-rauch-wasser-mangel-trockenheit-erweiterung.html",
-      "date": "Mon, 31 Aug 2026 17:51:00 +0200"
-    },
-    {
-      "title": "Drei Verdächtige nach Durchsuchung in Oranienburg wegen Cyberattacken",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-oranienburg-hacker-angriff-cyberattacke.html",
-      "date": "Mon, 31 Aug 2026 17:31:48 +0200"
-    },
-    {
-      "title": "Wohnhausbrand in Erkner (Oder-Spree) - Feuerwehr vor Ort",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/wohnhaus-erkner-in-brand-explosion-oder-spree-brandenburg.html",
-      "date": "Mon, 31 Aug 2026 16:45:46 +0200"
-    },
-    {
-      "title": "Erkner: Frau getötet, Verdächtiger kannte das Opfer",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/frau-messerangriff-tot-erkner-oder-spree-brandenburg-festnahme.html",
-      "date": "Mon, 31 Aug 2026 16:17:16 +0200"
-    },
-    {
-      "title": "Fünf Fußballer, die zu Gastronomen wurden",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/fussball-ex-profis-die-zu-gastronomen-wurden-hertha-union-weiner-demme-mattuschka-koehler-nouri.html",
-      "date": "Mon, 31 Aug 2026 16:12:00 +0200"
-    },
-    {
-      "title": "Neuer Autobahnabschnitt: A14-Elbbrücke teilweise für Verkehr freigegeben",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/a14-elbbruecke-freigegeben-verkehr.html",
-      "date": "Mon, 31 Aug 2026 15:51:59 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Sprengung auf dem Sprengplatz Grunewald",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709239.php",
+      "date": "Tue, 01 Sep 2026 12:23:47 +0200"
+    },
+    {
+      "title": "Autofahrer fährt Fußgängerin an",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709102.php",
+      "date": "Tue, 01 Sep 2026 10:16:45 +0200"
+    },
+    {
+      "title": "Politiker antisemitisch beleidigt und angegriffen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709027.php",
+      "date": "Tue, 01 Sep 2026 09:03:00 +0200"
+    },
     {
       "title": "Ermittlungen der BAO Ferrum: Vollstreckung eines Haftbefehls in Nordrhein-Westfalen und Sicherstellung von Vermögenswerten",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671040.php",
@@ -106,21 +121,6 @@
       "title": "Verkehrsunfall mit BVG-Bus",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708336.php",
       "date": "Sat, 29 Aug 2026 14:10:07 +0200"
-    },
-    {
-      "title": "Von Personengruppe geschlagen und beleidigt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708335.php",
-      "date": "Sat, 29 Aug 2026 14:04:47 +0200"
-    },
-    {
-      "title": "Frau mit Messer verfolgt und verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708332.php",
-      "date": "Sat, 29 Aug 2026 13:19:44 +0200"
-    },
-    {
-      "title": "Mit Drogen vor der Polizei geflüchtet - Festnahme",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708330.php",
-      "date": "Sat, 29 Aug 2026 12:28:20 +0200"
     }
   ],
   "free_events": [],
@@ -128,9 +128,29 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Gedenkort für CSD-Opfer: Regenbogen-Bank im Berliner Tiergarten zerstört",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/csd-gedenkbank-beschaedigt-berlin-tiergarten-regenbogen.html",
+      "date": "Tue, 01 Sep 2026 12:45:27 +0200"
+    },
+    {
+      "title": "Sperrkreis ab 8 Uhr: Weltkriegsbombe wird am Mittwoch in Oranienburg entschärft",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/oranienburg-lehnitz-fliegerbombe-entschaerfung-sperrkreis-kampfmittel.html",
+      "date": "Tue, 01 Sep 2026 10:58:01 +0200"
+    },
+    {
       "title": "Sommerbilanz für Berlin und Brandenburg: wenig Regen und Rekordhitze",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-brandenburg-sommer-regen-sonne-hitze-rekorde.html",
-      "date": "Mon, 31 Aug 2026 18:27:21 +0200"
+      "date": "Tue, 01 Sep 2026 10:12:23 +0200"
+    },
+    {
+      "title": "Potsdamer setzt Terrasse bei Mäusejagd in Brand",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/maeusejagd-in-potsdam-eskaliert.html",
+      "date": "Tue, 01 Sep 2026 09:43:09 +0200"
+    },
+    {
+      "title": "Berlin: Bahn setzt Alkoholverbot an weiteren Bahnhöfen um",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-deutsche-bahn-alkoholverbot-hauptbahnhof-gesundbrunnen.html",
+      "date": "Tue, 01 Sep 2026 08:03:14 +0200"
     },
     {
       "title": "In der Baumuniversität soll die Zukunft historischer Gärten erforscht werden",
@@ -166,26 +186,6 @@
       "title": "Schüsse und Erpressungen: Polizei beschlagnahmt Autos, Bargeld und Gold",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-polizei-schuesse-erpressung-ladeninhaber-bande-ferrum-telum.html",
       "date": "Mon, 31 Aug 2026 15:34:47 +0200"
-    },
-    {
-      "title": "Gosen-Neu Zittau: Haftbefehl gegen 19-Jährigen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/docemus-campus-brandenburg-schule-gosen-neu-zittau.html",
-      "date": "Mon, 31 Aug 2026 15:05:10 +0200"
-    },
-    {
-      "title": "Jugendamt Teltow-Fläming: Langes Warten auf Bescheide",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/jugendamt-teltow-flaeming-kritik.html",
-      "date": "Mon, 31 Aug 2026 14:02:14 +0200"
-    },
-    {
-      "title": "Windkraft-Betrüger Holt aus Justizvollzugsanstalt Berlin geflüchtet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-windkraft-betrueger-haft-jva.html",
-      "date": "Mon, 31 Aug 2026 12:36:36 +0200"
-    },
-    {
-      "title": "Polizei findet Waffen in Wohnung in Hennigsdorf",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/oberhavel-hennigsdorf-waffen-wohnung-gefunden-polizei-versiegelt.html",
-      "date": "Mon, 31 Aug 2026 11:05:56 +0200"
     }
   ]
 }
