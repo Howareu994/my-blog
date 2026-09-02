@@ -1,9 +1,54 @@
 {
   "traffic": [
     {
+      "title": "Orgel im Berliner Dom muss saniert werden",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berliner-dom-orgel-muss-saniert-werden.html",
+      "date": "Wed, 02 Sep 2026 12:05:45 +0200"
+    },
+    {
+      "title": "Polizei ermittelt wegen Terrorverdachts nach Angriff auf Umspannwerk",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/sabotage-umspannwerk-stromnetz-jaenschwalde-stromversorgung.html",
+      "date": "Wed, 02 Sep 2026 11:38:08 +0200"
+    },
+    {
+      "title": "Roboter-Auto sucht am BER nach Schrauben, Müll und Asphalt-Bruchstücken",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/09/flughafen-ber-schoenefeld-berlin-brandenburg-roboter-fahrzeug.html",
+      "date": "Wed, 02 Sep 2026 11:33:18 +0200"
+    },
+    {
+      "title": "Sperrkreis gilt seit 8 Uhr: Weltkriegsbombe wird am Mittwoch in Oranienburg entschärft",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/oranienburg-lehnitz-fliegerbombe-entschaerfung-sperrkreis-kampfmittel.html",
+      "date": "Wed, 02 Sep 2026 11:24:53 +0200"
+    },
+    {
+      "title": "26-Jähriger in Berlin-Schöneberg angeschossen und schwer verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/schuesse-schoeneberg-mann-verletzt.html",
+      "date": "Wed, 02 Sep 2026 09:12:00 +0200"
+    },
+    {
+      "title": "Mutmaßlicher Femizid in Erkner: Haftantrag gegen 29-jährigen Ex-Partner wegen Mordes",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/haftantrag-mord-frau-tot-erkner-oder-spree-brandenburg.html",
+      "date": "Wed, 02 Sep 2026 08:54:50 +0200"
+    },
+    {
+      "title": "Neue Umfragewerte: rbb lädt auch das BSW in Wahl-Sonderformate ein",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/abgeordnetenhaus-wahl-agh-berlin-rbb-berichterstattung-bsw-berlintrend.html",
+      "date": "Wed, 02 Sep 2026 08:54:33 +0200"
+    },
+    {
+      "title": "Die Bilanz von zehn Jahren Berliner Schulbauoffensive",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/09/berlin-schulen-bau-senat-sanierung-gebaeude-schulbauoffensive.html",
+      "date": "Wed, 02 Sep 2026 08:44:41 +0200"
+    },
+    {
       "title": "Sabotage an Umspannwerk: Täter wollten mit selbstgebauten Raketen Stromausfall auslösen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/sprengvorrichtung-umspannwerk-brandenburg-kraftwerk-jaenschwalde.html",
-      "date": "Tue, 01 Sep 2026 22:19:01 +0200"
+      "date": "Wed, 02 Sep 2026 08:37:25 +0200"
+    },
+    {
+      "title": "Reaktion auf Anschlagsversuch: Bundesregierung kündigt Vertrag mit Russischem Haus in Berlin",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/09/berlin-mitte-russisches-haus-bundesregierung-anschlag-russland.html",
+      "date": "Wed, 02 Sep 2026 07:47:09 +0200"
     },
     {
       "title": "Union Berlin verpflichtet Werder-Kapitänin Lina Hausicke",
@@ -14,54 +59,29 @@
       "title": "Union Berlin verleiht Talent Ogbemudia erneut nach Mannheim",
       "link": "https://www.rbb24.de/sport/beitrag/2026/09/berlin-fussball-union-leihe-oluwaseun-ogbemudia-waldhof-mannheim-transfer.html",
       "date": "Tue, 01 Sep 2026 21:15:02 +0200"
-    },
-    {
-      "title": "Mehr Lehrer, mehr Polizei – Brandenburg beschließt Doppelhaushalt",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/09/brandenburg-regierung-haushalt-beschluss-sparen-lehrer-polizei.html",
-      "date": "Tue, 01 Sep 2026 21:12:27 +0200"
-    },
-    {
-      "title": "Erst Hohn, dann Lob - So ist Herthas Transfersommer zu bewerten",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/berlin-fussball-hertha-bsc-transfersommer-bilanz-analyse-nilsson-pedersen-weber-goerlich.html",
-      "date": "Tue, 01 Sep 2026 21:03:54 +0200"
-    },
-    {
-      "title": "Weiser tritt aus gesundheitlichen Gründen bei Luckenwalde zurück",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/08/brandenburg-fussball-fsv-luckenwalde-patrick-weiser-trainer-ruecktritt-gesundheit.html",
-      "date": "Tue, 01 Sep 2026 20:37:19 +0200"
-    },
-    {
-      "title": "Senat geht nach Cyberangriff von Weiterverkauf gestohlener Daten aus",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/09/weitere-untersuchungen-nach-cyberangriff-verwaltung-berlin.html",
-      "date": "Tue, 01 Sep 2026 19:12:13 +0200"
-    },
-    {
-      "title": "Reaktion auf Anschlagsversuch: Bundesregierung kündigt Vertrag mit Russischem Haus in Berlin",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/09/berlin-mitte-russisches-haus-bundesregierung-anschlag-russland.html",
-      "date": "Tue, 01 Sep 2026 18:57:27 +0200"
-    },
-    {
-      "title": "Frau bei Angriff in Berlin-Hellersdorf lebensgefährlich verletzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/frau-angriff-berlin-hellersdorf-schwer-verletzt.html",
-      "date": "Tue, 01 Sep 2026 18:13:36 +0200"
-    },
-    {
-      "title": "Nach 86 Länderspielen: Antonio Rüdiger beendet DFB-Karriere",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/berlin-fussball-antonio-ruediger-dfb-nationalmannschaft-karrierenede-aus.html",
-      "date": "Tue, 01 Sep 2026 17:57:16 +0200"
-    },
-    {
-      "title": "Mutmaßlicher Femizid in Erkner: Haftantrag gegen 29-jährigen Ex-Partner wegen Mordes",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/haftantrag-mord-frau-tot-erkner-oder-spree-brandenburg.html",
-      "date": "Tue, 01 Sep 2026 17:55:45 +0200"
-    },
-    {
-      "title": "Vor Heim-WM: Das macht Berlin zur Hauptstadt des Frauenbasketballs",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/frauen-basketball-wm-berlin-alba-nyara-sabally-satou-olaf-lange.html",
-      "date": "Tue, 01 Sep 2026 17:43:29 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Seniorin bei Verkehrsunfall erheblich verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709651.php",
+      "date": "Wed, 02 Sep 2026 11:58:00 +0200"
+    },
+    {
+      "title": "Transperson verletzt und beleidigt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709650.php",
+      "date": "Wed, 02 Sep 2026 11:25:00 +0200"
+    },
+    {
+      "title": "Sicherstellung einer scharfen Schusswaffe und Sicherstellung von Vermögenswerten durch die BAO Ferrum im Zusammenhang mit Schussabgaben auf eine Wohnung",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1643062.php",
+      "date": "Wed, 02 Sep 2026 09:55:00 +0200"
+    },
+    {
+      "title": "Junger Mann nach Gewalttat gesucht – Polizei bittet um Mithilfe",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709500.php",
+      "date": "Wed, 02 Sep 2026 08:23:58 +0200"
+    },
     {
       "title": "Versuchtes Tötungsdelikt in einer Anwaltskanzlei",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709414.php",
@@ -101,26 +121,6 @@
       "title": "DEIG-Einsatz nach Widerstand - Festnahme",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708397.php",
       "date": "Sun, 30 Aug 2026 13:25:24 +0200"
-    },
-    {
-      "title": "Fußgänger bei Unfall verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708394.php",
-      "date": "Sun, 30 Aug 2026 12:58:10 +0200"
-    },
-    {
-      "title": "Schüsse in Fußgängerzone",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708392.php",
-      "date": "Sun, 30 Aug 2026 12:53:01 +0200"
-    },
-    {
-      "title": "Unfall mit verletzter Person und fünf beschädigten Autos",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708389.php",
-      "date": "Sun, 30 Aug 2026 12:03:48 +0200"
-    },
-    {
-      "title": "Fremdenfeindlicher Angriff - Festnahme",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708388.php",
-      "date": "Sun, 30 Aug 2026 11:54:23 +0200"
     }
   ],
   "free_events": [],
@@ -128,19 +128,39 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Orgel im Berliner Dom muss saniert werden",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berliner-dom-orgel-muss-saniert-werden.html",
+      "date": "Wed, 02 Sep 2026 12:05:45 +0200"
+    },
+    {
+      "title": "Polizei ermittelt wegen Terrorverdachts nach Angriff auf Umspannwerk",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/sabotage-umspannwerk-stromnetz-jaenschwalde-stromversorgung.html",
+      "date": "Wed, 02 Sep 2026 11:38:08 +0200"
+    },
+    {
+      "title": "Sperrkreis gilt seit 8 Uhr: Weltkriegsbombe wird am Mittwoch in Oranienburg entschärft",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/oranienburg-lehnitz-fliegerbombe-entschaerfung-sperrkreis-kampfmittel.html",
+      "date": "Wed, 02 Sep 2026 11:24:53 +0200"
+    },
+    {
+      "title": "26-Jähriger in Berlin-Schöneberg angeschossen und schwer verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/schuesse-schoeneberg-mann-verletzt.html",
+      "date": "Wed, 02 Sep 2026 09:12:00 +0200"
+    },
+    {
+      "title": "Mutmaßlicher Femizid in Erkner: Haftantrag gegen 29-jährigen Ex-Partner wegen Mordes",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/haftantrag-mord-frau-tot-erkner-oder-spree-brandenburg.html",
+      "date": "Wed, 02 Sep 2026 08:54:50 +0200"
+    },
+    {
       "title": "Sabotage an Umspannwerk: Täter wollten mit selbstgebauten Raketen Stromausfall auslösen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/sprengvorrichtung-umspannwerk-brandenburg-kraftwerk-jaenschwalde.html",
-      "date": "Tue, 01 Sep 2026 22:19:01 +0200"
+      "date": "Wed, 02 Sep 2026 08:37:25 +0200"
     },
     {
       "title": "Frau bei Angriff in Berlin-Hellersdorf lebensgefährlich verletzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/frau-angriff-berlin-hellersdorf-schwer-verletzt.html",
       "date": "Tue, 01 Sep 2026 18:13:36 +0200"
-    },
-    {
-      "title": "Mutmaßlicher Femizid in Erkner: Haftantrag gegen 29-jährigen Ex-Partner wegen Mordes",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/haftantrag-mord-frau-tot-erkner-oder-spree-brandenburg.html",
-      "date": "Tue, 01 Sep 2026 17:55:45 +0200"
     },
     {
       "title": "Gedenkort für CSD-Opfer: Regenbogen-Bank im Berliner Tiergarten zerstört",
@@ -166,26 +186,6 @@
       "title": "Zehdenicker Pfarrer ruft zu \"Predigtstreik\" für Frieden auf",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/zehdenick-oberhavel-pfarrer-predigtstreik-frieden-gottesdienst.html",
       "date": "Tue, 01 Sep 2026 13:04:26 +0200"
-    },
-    {
-      "title": "Sperrkreis ab 8 Uhr: Weltkriegsbombe wird am Mittwoch in Oranienburg entschärft",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/oranienburg-lehnitz-fliegerbombe-entschaerfung-sperrkreis-kampfmittel.html",
-      "date": "Tue, 01 Sep 2026 10:58:01 +0200"
-    },
-    {
-      "title": "Sommerbilanz für Berlin und Brandenburg: wenig Regen und Rekordhitze",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-brandenburg-sommer-regen-sonne-hitze-rekorde.html",
-      "date": "Tue, 01 Sep 2026 10:12:23 +0200"
-    },
-    {
-      "title": "Potsdamer setzt Terrasse bei Mäusejagd in Brand",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/maeusejagd-in-potsdam-eskaliert.html",
-      "date": "Tue, 01 Sep 2026 09:43:09 +0200"
-    },
-    {
-      "title": "Berlin: Bahn setzt Alkoholverbot an weiteren Bahnhöfen um",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-deutsche-bahn-alkoholverbot-hauptbahnhof-gesundbrunnen.html",
-      "date": "Tue, 01 Sep 2026 08:03:14 +0200"
     }
   ]
 }
