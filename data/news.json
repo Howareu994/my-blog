@@ -1,67 +1,72 @@
 {
   "traffic": [
     {
-      "title": "Wo wird gespart? Wo investiert? Brandenburgs neuer Doppelhaushalt",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/09/brandenburg-regierung-haushalt-beschluss-sparen-lehrer-polizei.html",
-      "date": "Wed, 02 Sep 2026 16:24:58 +0200"
+      "title": "Herzberg: Philipp-Melanchthon-Gymnasium bleibt weiter geschlossen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/herzberg-philipp-melanchthon-gymnasium-unterricht-ausfall-raumluft-geruch.html",
+      "date": "Wed, 02 Sep 2026 19:19:13 +0200"
+    },
+    {
+      "title": "Aufatmen: Nyara Sabally fit für Basketball-WM in Berlin",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/berlin-basketball-wm-weltmeisterschaft-frauen-nyara-sabally-fit.html",
+      "date": "Wed, 02 Sep 2026 19:16:36 +0200"
+    },
+    {
+      "title": "B101 in Trebbin soll Mitte November wieder freigegeben werden",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-b101-thyrow-bruecke-sperrung-verkehr.html",
+      "date": "Wed, 02 Sep 2026 18:41:35 +0200"
+    },
+    {
+      "title": "Sportboot sinkt nach Kollision mit Passagierschiff auf Potsdamer Havel",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/potsdam-havel-sportboot-kollision-passagierschiff-polizei.html",
+      "date": "Wed, 02 Sep 2026 18:30:12 +0200"
+    },
+    {
+      "title": "Turbine Potsdam in der Dauerkrise: \"Keine negative Eigendynamik\"",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/brandenburg-fussball-frauen-turbine-potsdam-interview-merle-kirschstein.html",
+      "date": "Wed, 02 Sep 2026 18:25:53 +0200"
+    },
+    {
+      "title": "Ernüchterung bei Energie Cottbus: Ohne Kohle keine Spieler",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/fussball-zweite-liga-energie-cottbus-transferphase-keine-neuzugnge.html",
+      "date": "Wed, 02 Sep 2026 18:24:00 +0200"
+    },
+    {
+      "title": "26-Jähriger in Berlin-Schöneberg angeschossen und schwer verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/schuesse-schoeneberg-mann-verletzt.html",
+      "date": "Wed, 02 Sep 2026 18:13:37 +0200"
+    },
+    {
+      "title": "Neue Umfragewerte: rbb lädt auch das BSW in Wahl-Sonderformate ein",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/abgeordnetenhaus-wahl-agh-berlin-rbb-berichterstattung-bsw-berlintrend.html",
+      "date": "Wed, 02 Sep 2026 18:11:16 +0200"
+    },
+    {
+      "title": "BerlinTrend: CDU zurück an Spitzenposition, Linke verliert an Zuspruch",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-trend-abgeordnetenhaus-wahl-september.html",
+      "date": "Wed, 02 Sep 2026 18:00:00 +0200"
+    },
+    {
+      "title": "BerlinTrend: Höhenflug der Linken ist gestoppt, CDU wieder vorne",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahl-trend-abgeordnetenhaus-linke-cdu-spd-gruene-afd.html",
+      "date": "Wed, 02 Sep 2026 18:00:00 +0200"
     },
     {
       "title": "Hertha BSC: Expertenkommission spricht sich für Stadionneubau aus",
       "link": "https://www.rbb24.de/sport/beitrag/2026/09/fussball-zweite-bundesliga-hertha-bsc-stadion-olympiapark.html",
-      "date": "Wed, 02 Sep 2026 16:10:02 +0200"
-    },
-    {
-      "title": "Berliner Autohaus König meldet Insolvenz an",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/09/berlin-autohaus-koenig-insolvenz-angemeldet.html",
-      "date": "Wed, 02 Sep 2026 15:39:24 +0200"
-    },
-    {
-      "title": "Bakterien im Trinkwasser: Märkisch-Oderland weitet Abkochgebot auf weitere Gemeinden aus",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/Bakterien-Trinkwasser-abkochen-Maerkisch-oderland.html",
-      "date": "Wed, 02 Sep 2026 15:24:57 +0200"
-    },
-    {
-      "title": "Entschärfung von Weltkriegsbombe in Oranienburg verzögert sich",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/oranienburg-lehnitz-fliegerbombe-entschaerfung-sperrkreis-kampfmittel.html",
-      "date": "Wed, 02 Sep 2026 15:00:33 +0200"
+      "date": "Wed, 02 Sep 2026 17:22:39 +0200"
     },
     {
       "title": "Polizei ermittelt wegen Terrorverdachts nach Angriff auf Umspannwerk",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/sabotage-umspannwerk-stromnetz-jaenschwalde-stromversorgung.html",
-      "date": "Wed, 02 Sep 2026 14:35:33 +0200"
-    },
-    {
-      "title": "Was zur Sabotage am Umspannwerk bei Jänschwalde bekannt ist",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/jaenschwalde-umspannwerk-raketen-treibsaetze-leitungen-kabel.html",
-      "date": "Wed, 02 Sep 2026 13:36:30 +0200"
-    },
-    {
-      "title": "Verkehrsstreit in Charlottenburg-Wilmersdorf: Wem gehört die Straße?",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/bvv/charlottenburg-wilmersdorf-verkehr-mobilitaet-bezirk.html",
-      "date": "Wed, 02 Sep 2026 13:21:20 +0200"
-    },
-    {
-      "title": "Mandantin verletzt Rechtsanwältin in Hellersdorf lebensgefährlich",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/frau-angriff-berlin-hellersdorf-schwer-verletzt.html",
-      "date": "Wed, 02 Sep 2026 12:33:18 +0200"
-    },
-    {
-      "title": "GeoGuessr-WM in Berlin: Wer findet den richtigen Ort am schnellsten?",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-geoguessr-street-view-wm-tempodrom.html",
-      "date": "Wed, 02 Sep 2026 12:28:49 +0200"
-    },
-    {
-      "title": "Pflegekräfte an der Berliner Charité beginnen dreitägigen Warnstreik",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/09/berlin-charite-streik-pflegekraefte.html",
-      "date": "Wed, 02 Sep 2026 12:25:33 +0200"
-    },
-    {
-      "title": "Rücktritt aus DFB-Team: Der seltsame Fall des Antonio Rüdiger",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/fussball-nationalmannschaft-antonio-ruediger-ruecktritt-wuerdigung.html",
-      "date": "Wed, 02 Sep 2026 12:18:13 +0200"
+      "date": "Wed, 02 Sep 2026 16:48:53 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Verdacht des schweren Menschenhandels und des gewerbsmäßigen Einschleusens von Ausländern – Durchsuchungsbeschlüsse vollstreckt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709859.php",
+      "date": "Wed, 02 Sep 2026 16:42:56 +0200"
+    },
     {
       "title": "E-Scooter-Fahrerin bei Kollision mit Lkw verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709850.php",
@@ -116,17 +121,42 @@
       "title": "Regenbogenbank im Großen Tiergarten beschädigt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709316.php",
       "date": "Tue, 01 Sep 2026 14:18:36 +0200"
-    },
-    {
-      "title": "Sprengung auf dem Sprengplatz Grunewald",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709239.php",
-      "date": "Tue, 01 Sep 2026 12:23:47 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Herzberg: Philipp-Melanchthon-Gymnasium bleibt weiter geschlossen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/herzberg-philipp-melanchthon-gymnasium-unterricht-ausfall-raumluft-geruch.html",
+      "date": "Wed, 02 Sep 2026 19:19:13 +0200"
+    },
+    {
+      "title": "B101 in Trebbin soll Mitte November wieder freigegeben werden",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-b101-thyrow-bruecke-sperrung-verkehr.html",
+      "date": "Wed, 02 Sep 2026 18:41:35 +0200"
+    },
+    {
+      "title": "Sportboot sinkt nach Kollision mit Passagierschiff auf Potsdamer Havel",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/potsdam-havel-sportboot-kollision-passagierschiff-polizei.html",
+      "date": "Wed, 02 Sep 2026 18:30:12 +0200"
+    },
+    {
+      "title": "26-Jähriger in Berlin-Schöneberg angeschossen und schwer verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/schuesse-schoeneberg-mann-verletzt.html",
+      "date": "Wed, 02 Sep 2026 18:13:37 +0200"
+    },
+    {
+      "title": "Am Späti in Berlin-Haselhorst: \"Wir hier in Spandau bleiben auch in Spandau\"",
+      "link": "https://www.rbb24.de/panorama/thema/spaeti/berlin-haselhorst-am-spaeti-kellner.html",
+      "date": "Wed, 02 Sep 2026 17:04:44 +0200"
+    },
+    {
+      "title": "Polizei ermittelt wegen Terrorverdachts nach Angriff auf Umspannwerk",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/sabotage-umspannwerk-stromnetz-jaenschwalde-stromversorgung.html",
+      "date": "Wed, 02 Sep 2026 16:48:53 +0200"
+    },
     {
       "title": "Bakterien im Trinkwasser: Märkisch-Oderland weitet Abkochgebot auf weitere Gemeinden aus",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/Bakterien-Trinkwasser-abkochen-Maerkisch-oderland.html",
@@ -136,11 +166,6 @@
       "title": "Entschärfung von Weltkriegsbombe in Oranienburg verzögert sich",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/oranienburg-lehnitz-fliegerbombe-entschaerfung-sperrkreis-kampfmittel.html",
       "date": "Wed, 02 Sep 2026 15:00:33 +0200"
-    },
-    {
-      "title": "Polizei ermittelt wegen Terrorverdachts nach Angriff auf Umspannwerk",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/sabotage-umspannwerk-stromnetz-jaenschwalde-stromversorgung.html",
-      "date": "Wed, 02 Sep 2026 14:35:33 +0200"
     },
     {
       "title": "Was zur Sabotage am Umspannwerk bei Jänschwalde bekannt ist",
@@ -161,31 +186,6 @@
       "title": "KKH-Analyse: Mehr Fälle von schwarzem Hautkrebs in Berlin und Brandenburg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-brandenburg-zunahme-schwarzer-hautkrebs-kkh.html",
       "date": "Wed, 02 Sep 2026 12:16:26 +0200"
-    },
-    {
-      "title": "Orgel im Berliner Dom muss saniert werden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berliner-dom-orgel-muss-saniert-werden.html",
-      "date": "Wed, 02 Sep 2026 12:05:45 +0200"
-    },
-    {
-      "title": "26-Jähriger in Berlin-Schöneberg angeschossen und schwer verletzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/schuesse-schoeneberg-mann-verletzt.html",
-      "date": "Wed, 02 Sep 2026 09:12:00 +0200"
-    },
-    {
-      "title": "Mutmaßlicher Femizid in Erkner: Haftantrag gegen 29-jährigen Ex-Partner wegen Mordes",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/haftantrag-mord-frau-tot-erkner-oder-spree-brandenburg.html",
-      "date": "Wed, 02 Sep 2026 08:54:50 +0200"
-    },
-    {
-      "title": "Sabotage an Umspannwerk: Täter wollten mit selbstgebauten Raketen Stromausfall auslösen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/sprengvorrichtung-umspannwerk-brandenburg-kraftwerk-jaenschwalde.html",
-      "date": "Wed, 02 Sep 2026 08:37:25 +0200"
-    },
-    {
-      "title": "Gedenkort für CSD-Opfer: Regenbogen-Bank im Berliner Tiergarten zerstört",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/csd-gedenkbank-beschaedigt-berlin-tiergarten-regenbogen.html",
-      "date": "Tue, 01 Sep 2026 15:21:25 +0200"
     }
   ]
 }
