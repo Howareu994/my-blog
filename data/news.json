@@ -1,6 +1,26 @@
 {
   "traffic": [
     {
+      "title": "Pflegekräfte an der Berliner Charité beginnen dreitägigen Warnstreik",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/09/berlin-charite-streik-pflegekraefte.html",
+      "date": "Wed, 02 Sep 2026 21:43:39 +0200"
+    },
+    {
+      "title": "Altglienicke verliert in Jena, Tasmania seit drei Spielen sieglos",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/berlin-fussball-altglienicke-jena-tasmania-halle-regionalliga-nordost.html",
+      "date": "Wed, 02 Sep 2026 21:12:00 +0200"
+    },
+    {
+      "title": "Sperrkreis in Oranienburg nach mehr als 12 Stunden wieder aufgehoben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/oranienburg-lehnitz-fliegerbombe-entschaerfung-sperrkreis-kampfmittel.html",
+      "date": "Wed, 02 Sep 2026 20:55:11 +0200"
+    },
+    {
+      "title": "Union Berlin holt Pujols und lässt Orschmann wieder ziehen",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/berlin-fussball-union-frauen-judit-pujols-katja-orschmann-transfer.html",
+      "date": "Wed, 02 Sep 2026 20:18:06 +0200"
+    },
+    {
       "title": "Herzberg: Philipp-Melanchthon-Gymnasium bleibt weiter geschlossen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/herzberg-philipp-melanchthon-gymnasium-unterricht-ausfall-raumluft-geruch.html",
       "date": "Wed, 02 Sep 2026 19:19:13 +0200"
@@ -39,26 +59,6 @@
       "title": "Neue Umfragewerte: rbb lädt auch das BSW in Wahl-Sonderformate ein",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/abgeordnetenhaus-wahl-agh-berlin-rbb-berichterstattung-bsw-berlintrend.html",
       "date": "Wed, 02 Sep 2026 18:11:16 +0200"
-    },
-    {
-      "title": "BerlinTrend: CDU zurück an Spitzenposition, Linke verliert an Zuspruch",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-trend-abgeordnetenhaus-wahl-september.html",
-      "date": "Wed, 02 Sep 2026 18:00:00 +0200"
-    },
-    {
-      "title": "BerlinTrend: Höhenflug der Linken ist gestoppt, CDU wieder vorne",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahl-trend-abgeordnetenhaus-linke-cdu-spd-gruene-afd.html",
-      "date": "Wed, 02 Sep 2026 18:00:00 +0200"
-    },
-    {
-      "title": "Hertha BSC: Expertenkommission spricht sich für Stadionneubau aus",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/fussball-zweite-bundesliga-hertha-bsc-stadion-olympiapark.html",
-      "date": "Wed, 02 Sep 2026 17:22:39 +0200"
-    },
-    {
-      "title": "Polizei ermittelt wegen Terrorverdachts nach Angriff auf Umspannwerk",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/sabotage-umspannwerk-stromnetz-jaenschwalde-stromversorgung.html",
-      "date": "Wed, 02 Sep 2026 16:48:53 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Sperrkreis in Oranienburg nach mehr als 12 Stunden wieder aufgehoben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/oranienburg-lehnitz-fliegerbombe-entschaerfung-sperrkreis-kampfmittel.html",
+      "date": "Wed, 02 Sep 2026 20:55:11 +0200"
+    },
+    {
       "title": "Herzberg: Philipp-Melanchthon-Gymnasium bleibt weiter geschlossen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/herzberg-philipp-melanchthon-gymnasium-unterricht-ausfall-raumluft-geruch.html",
       "date": "Wed, 02 Sep 2026 19:19:13 +0200"
@@ -161,11 +166,6 @@
       "title": "Bakterien im Trinkwasser: Märkisch-Oderland weitet Abkochgebot auf weitere Gemeinden aus",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/Bakterien-Trinkwasser-abkochen-Maerkisch-oderland.html",
       "date": "Wed, 02 Sep 2026 15:24:57 +0200"
-    },
-    {
-      "title": "Entschärfung von Weltkriegsbombe in Oranienburg verzögert sich",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/oranienburg-lehnitz-fliegerbombe-entschaerfung-sperrkreis-kampfmittel.html",
-      "date": "Wed, 02 Sep 2026 15:00:33 +0200"
     },
     {
       "title": "Was zur Sabotage am Umspannwerk bei Jänschwalde bekannt ist",
