@@ -1,67 +1,72 @@
 {
   "traffic": [
     {
-      "title": "BVV-Wahlen 2026: Wie ist die Lage in den Bezirken?",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/bvv/bezirke-buergermeister-politische-lage-uebersicht.html",
-      "date": "Thu, 03 Sep 2026 14:05:15 +0200"
+      "title": "Brandenburg plant Sicherheitszentrum nach Stromnetz-Sabotage",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-sabotage-umspannwerk-stromnetz-jaenschwalde-sicherheitszentrum.html",
+      "date": "Thu, 03 Sep 2026 18:30:08 +0200"
+    },
+    {
+      "title": "Diskussion um queere Sichtbarkeit in der Prignitz",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-prignitz-ostprignitz-ruppin-lesbischwule-tour-queer-sichtbarkeit.html",
+      "date": "Thu, 03 Sep 2026 17:33:54 +0200"
+    },
+    {
+      "title": "Oderbruch: Gestohlener Traktor blockiert RB60-Strecke",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-traktor-gestohlen-gleise-strecke-rb60-neutrebbin.html",
+      "date": "Thu, 03 Sep 2026 17:16:05 +0200"
+    },
+    {
+      "title": "Berlin-Neukölln: Neun Schusswaffen bei Kontrolle beschlagnahmt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-neukoelln-polizei-kontrolle-schusswaffen.html",
+      "date": "Thu, 03 Sep 2026 16:56:15 +0200"
+    },
+    {
+      "title": "Nach nur drei Monaten: Neuer Visit-Berlin-Chef muss schon wieder gehen",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/09/visit-berlin-chef-juergen-amann-aufhebungsvertrag-tourismus.html",
+      "date": "Thu, 03 Sep 2026 15:56:49 +0200"
+    },
+    {
+      "title": "Schulen in Berlin: Bildungssenatorin stellt Plan gegen Gewalt vor",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/09/berlin-schulen-gewalt-bildungssenatorin-plan-regeln.html",
+      "date": "Thu, 03 Sep 2026 15:49:00 +0200"
+    },
+    {
+      "title": "Strafanzeige gestellt: Jens Spahn geht gegen Äußerungen von Ski Aggu in Video vor",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-jens-spahn-ski-aggu-video-twitch-strafanzeige-satire.html",
+      "date": "Thu, 03 Sep 2026 15:46:31 +0200"
+    },
+    {
+      "title": "Trockenheit in Brandenburg: Wird in Zukunft das Bier knapp?",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/klimawandel-brandenburg-bier-wasser-trockenheit-gerste.html",
+      "date": "Thu, 03 Sep 2026 15:39:28 +0200"
+    },
+    {
+      "title": "Herzberg: Philipp-Melanchthon-Gymnasium bleibt weiter geschlossen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/herzberg-philipp-melanchthon-gymnasium-unterricht-ausfall-raumluft-geruch.html",
+      "date": "Thu, 03 Sep 2026 15:16:36 +0200"
+    },
+    {
+      "title": "Potsdamer Kanu-Olympiasieger Ronny Rauhe wird neuer Sport-Staatsminister",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/politik-staatsminister-sport-ronny-rauhe-kanute-berlin.html",
+      "date": "Thu, 03 Sep 2026 15:10:00 +0200"
+    },
+    {
+      "title": "Drogenfahnder durchsuchen vier Objekte in Rhinow",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/drogen-rauschgift-handel-herstellung-durchsuchung-lka-rhinow.html",
+      "date": "Thu, 03 Sep 2026 15:02:04 +0200"
     },
     {
       "title": "Signalstörungen: S-Bahn-Verkehr läuft wieder normal",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-brandenburg-s-bahn-stoerung-verspaetung-baumschulenweg.html",
-      "date": "Thu, 03 Sep 2026 13:09:37 +0200"
-    },
-    {
-      "title": "Hertha BSC: Expertenkommission spricht sich für Stadionneubau aus",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/fussball-zweite-bundesliga-hertha-bsc-stadion-olympiapark.html",
-      "date": "Thu, 03 Sep 2026 12:43:48 +0200"
-    },
-    {
-      "title": "Drogenfahnder durchsuchen mehrere Objekte in Rhinow",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/drogen-rauschgift-handel-herstellung-durchsuchung-lka-rhinow.html",
-      "date": "Thu, 03 Sep 2026 11:46:00 +0200"
-    },
-    {
-      "title": "Mutmaßlicher Femizid: Gosen-Neu Zittau gedenkt der Todesopfern",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/neu-zittau-gewalttat-gedenken-trauerfeier.html",
-      "date": "Thu, 03 Sep 2026 11:43:00 +0200"
-    },
-    {
-      "title": "Mehr Schutz von kritischer Infrastruktur: Experte geht von enormen Kosten aus",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/angriffe-stromnetz-brandenburg-experte-schutz-infrastruktur.html",
-      "date": "Thu, 03 Sep 2026 11:19:11 +0200"
-    },
-    {
-      "title": "Keine Anhaltspunkte für weitere aktive Tuberkulose in Oberhavel",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/oberhavel-hohen-neuendorf-pflegeheim-tuberkulose-test-aktiv-infektion.html",
-      "date": "Thu, 03 Sep 2026 10:55:54 +0200"
-    },
-    {
-      "title": "Grünbrücke an gesperrter B101 bei Thyrow muss nicht abgerissen werden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-b101-thyrow-bruecke-sperrung-verkehr.html",
-      "date": "Thu, 03 Sep 2026 10:43:29 +0200"
-    },
-    {
-      "title": "Sorte E10: Irankrieg treibt Benzinpreis auf Höchststand",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/09/berlin-brandenburg-benzinpreise-e10-teuer-hoechststand-irankrieg.html",
-      "date": "Thu, 03 Sep 2026 10:11:00 +0200"
-    },
-    {
-      "title": "Berlin: Neuköllner Weltkriegsbombe wird auf Grunewalder Spezial-Platz gesprengt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-neukoelln-grunewald-weltkriegsbombe-sprengplatz-sprengung.html",
-      "date": "Thu, 03 Sep 2026 09:42:16 +0200"
-    },
-    {
-      "title": "Berliner Landeswahlleiter warnt vor Desinformation bei Wahlen",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahl-landeswahlleiter-sieht-desinformation.html",
-      "date": "Thu, 03 Sep 2026 09:10:46 +0200"
-    },
-    {
-      "title": "Hacking, Drohnen, Sabotage: \"Kritische Infrastruktur geht jeden Bürger etwas an\"",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-brandenburg-kritische-infrastruktur-hacking-drohnen-sabotage-interview.html",
-      "date": "Thu, 03 Sep 2026 09:05:27 +0200"
+      "date": "Thu, 03 Sep 2026 14:59:56 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Raubüberfall vor Wohnhaus – Polizei sucht Zeuginnen und Zeugen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705965.php",
+      "date": "Thu, 03 Sep 2026 14:54:00 +0200"
+    },
     {
       "title": "Neun scharfe Schusswaffen beschlagnahmt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710168.php",
@@ -116,11 +121,6 @@
       "title": "Frau vermisst – Polizei bittet um Mithilfe",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709758.php",
       "date": "Wed, 02 Sep 2026 15:24:41 +0200"
-    },
-    {
-      "title": "Motorradfahrer nach Verkehrsunfall in intensivmedizinischer Behandlung",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709657.php",
-      "date": "Wed, 02 Sep 2026 12:12:56 +0200"
     }
   ],
   "free_events": [],
@@ -128,64 +128,64 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Früherer Flughafen Tegel: Tausenden Wohnungen entstehen im \"Schumacher-Quartier\" beginnt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/schumacher-quartier-berlin-tegel-baustart-wohnungen-degewo.html",
-      "date": "Thu, 03 Sep 2026 14:09:09 +0200"
+      "title": "Brandenburg plant Sicherheitszentrum nach Stromnetz-Sabotage",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-sabotage-umspannwerk-stromnetz-jaenschwalde-sicherheitszentrum.html",
+      "date": "Thu, 03 Sep 2026 18:30:08 +0200"
     },
     {
-      "title": "Signalstörungen: S-Bahn-Verkehr läuft wieder normal",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-brandenburg-s-bahn-stoerung-verspaetung-baumschulenweg.html",
-      "date": "Thu, 03 Sep 2026 13:09:37 +0200"
+      "title": "Diskussion um queere Sichtbarkeit in der Prignitz",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-prignitz-ostprignitz-ruppin-lesbischwule-tour-queer-sichtbarkeit.html",
+      "date": "Thu, 03 Sep 2026 17:33:54 +0200"
     },
     {
-      "title": "Drogenfahnder durchsuchen mehrere Objekte in Rhinow",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/drogen-rauschgift-handel-herstellung-durchsuchung-lka-rhinow.html",
-      "date": "Thu, 03 Sep 2026 11:46:00 +0200"
+      "title": "Oderbruch: Gestohlener Traktor blockiert RB60-Strecke",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-traktor-gestohlen-gleise-strecke-rb60-neutrebbin.html",
+      "date": "Thu, 03 Sep 2026 17:16:05 +0200"
     },
     {
-      "title": "Mutmaßlicher Femizid: Gosen-Neu Zittau gedenkt der Todesopfern",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/neu-zittau-gewalttat-gedenken-trauerfeier.html",
-      "date": "Thu, 03 Sep 2026 11:43:00 +0200"
+      "title": "Berlin-Neukölln: Neun Schusswaffen bei Kontrolle beschlagnahmt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-neukoelln-polizei-kontrolle-schusswaffen.html",
+      "date": "Thu, 03 Sep 2026 16:56:15 +0200"
     },
     {
-      "title": "Mehr Schutz von kritischer Infrastruktur: Experte geht von enormen Kosten aus",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/angriffe-stromnetz-brandenburg-experte-schutz-infrastruktur.html",
-      "date": "Thu, 03 Sep 2026 11:19:11 +0200"
+      "title": "Strafanzeige gestellt: Jens Spahn geht gegen Äußerungen von Ski Aggu in Video vor",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-jens-spahn-ski-aggu-video-twitch-strafanzeige-satire.html",
+      "date": "Thu, 03 Sep 2026 15:46:31 +0200"
     },
     {
-      "title": "Keine Anhaltspunkte für weitere aktive Tuberkulose in Oberhavel",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/oberhavel-hohen-neuendorf-pflegeheim-tuberkulose-test-aktiv-infektion.html",
-      "date": "Thu, 03 Sep 2026 10:55:54 +0200"
-    },
-    {
-      "title": "Grünbrücke an gesperrter B101 bei Thyrow muss nicht abgerissen werden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-b101-thyrow-bruecke-sperrung-verkehr.html",
-      "date": "Thu, 03 Sep 2026 10:43:29 +0200"
-    },
-    {
-      "title": "Berlin: Neuköllner Weltkriegsbombe wird auf Grunewalder Spezial-Platz gesprengt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-neukoelln-grunewald-weltkriegsbombe-sprengplatz-sprengung.html",
-      "date": "Thu, 03 Sep 2026 09:42:16 +0200"
-    },
-    {
-      "title": "Hacking, Drohnen, Sabotage: \"Kritische Infrastruktur geht jeden Bürger etwas an\"",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-brandenburg-kritische-infrastruktur-hacking-drohnen-sabotage-interview.html",
-      "date": "Thu, 03 Sep 2026 09:05:27 +0200"
-    },
-    {
-      "title": "Sperrkreis in Oranienburg nach mehr als 12 Stunden wieder aufgehoben",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/oranienburg-lehnitz-fliegerbombe-entschaerfung-sperrkreis-kampfmittel.html",
-      "date": "Wed, 02 Sep 2026 20:55:11 +0200"
+      "title": "Trockenheit in Brandenburg: Wird in Zukunft das Bier knapp?",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/klimawandel-brandenburg-bier-wasser-trockenheit-gerste.html",
+      "date": "Thu, 03 Sep 2026 15:39:28 +0200"
     },
     {
       "title": "Herzberg: Philipp-Melanchthon-Gymnasium bleibt weiter geschlossen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/herzberg-philipp-melanchthon-gymnasium-unterricht-ausfall-raumluft-geruch.html",
-      "date": "Wed, 02 Sep 2026 19:19:13 +0200"
+      "date": "Thu, 03 Sep 2026 15:16:36 +0200"
     },
     {
-      "title": "Sportboot sinkt nach Kollision mit Passagierschiff auf Potsdamer Havel",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/potsdam-havel-sportboot-kollision-passagierschiff-polizei.html",
-      "date": "Wed, 02 Sep 2026 18:30:12 +0200"
+      "title": "Drogenfahnder durchsuchen vier Objekte in Rhinow",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/drogen-rauschgift-handel-herstellung-durchsuchung-lka-rhinow.html",
+      "date": "Thu, 03 Sep 2026 15:02:04 +0200"
+    },
+    {
+      "title": "Signalstörungen: S-Bahn-Verkehr läuft wieder normal",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-brandenburg-s-bahn-stoerung-verspaetung-baumschulenweg.html",
+      "date": "Thu, 03 Sep 2026 14:59:56 +0200"
+    },
+    {
+      "title": "Fundmunition: Mann bringt Granate zur Polizeiwache - Einsatz in Neukölln",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-neukoelln-granate-polizeiwache-abgegeben.html",
+      "date": "Thu, 03 Sep 2026 14:53:34 +0200"
+    },
+    {
+      "title": "Polizei ermittelt wegen Terrorverdachts nach Angriff auf Umspannwerk",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/sabotage-umspannwerk-stromnetz-jaenschwalde-stromversorgung.html",
+      "date": "Thu, 03 Sep 2026 14:50:38 +0200"
+    },
+    {
+      "title": "Berlin:Neuköllner Weltkriegsbombe im Grunewald gesprengt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-neukoelln-grunewald-weltkriegsbombe-sprengplatz-sprengung.html",
+      "date": "Thu, 03 Sep 2026 14:41:56 +0200"
     }
   ]
 }
