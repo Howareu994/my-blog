@@ -1,6 +1,31 @@
 {
   "traffic": [
     {
+      "title": "Berliner Landeswahlleiter warnt vor Desinformation bei Wahlen",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahl-landeswahlleiter-sieht-desinformation.html",
+      "date": "Thu, 03 Sep 2026 09:10:46 +0200"
+    },
+    {
+      "title": "Hacking, Drohnen, Sabotage: \"Kritische Infrastruktur geht jeden Bürger etwas an\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-brandenburg-kritische-infrastruktur-hacking-drohnen-sabotage-interview.html",
+      "date": "Thu, 03 Sep 2026 09:05:27 +0200"
+    },
+    {
+      "title": "Hunderttausende neue Bäume für Berlin: Schaffen das die Bezirke?",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/bvv/tempelhof-schoeneberg-neue-baeume-klimaanpassungsgesetz.html",
+      "date": "Thu, 03 Sep 2026 08:17:01 +0200"
+    },
+    {
+      "title": "Signalstörungen: Einschränkungen und Verspätungen bei mehreren S-Bahn-Linien",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-brandenburg-s-bahn-stoerung-verspaetung-baumschulenweg.html",
+      "date": "Thu, 03 Sep 2026 07:32:29 +0200"
+    },
+    {
+      "title": "Hans-Zoschke-Stadion: Überdachung der Tribüne könnte kommen",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/fussball-lichtenberg-47-union-berlin-frauen-hans-zoschke-stadion.html",
+      "date": "Thu, 03 Sep 2026 06:39:51 +0200"
+    },
+    {
       "title": "Pflegekräfte an der Berliner Charité beginnen dreitägigen Warnstreik",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/09/berlin-charite-streik-pflegekraefte.html",
       "date": "Wed, 02 Sep 2026 21:43:39 +0200"
@@ -34,31 +59,6 @@
       "title": "B101 in Trebbin soll Mitte November wieder freigegeben werden",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-b101-thyrow-bruecke-sperrung-verkehr.html",
       "date": "Wed, 02 Sep 2026 18:41:35 +0200"
-    },
-    {
-      "title": "Sportboot sinkt nach Kollision mit Passagierschiff auf Potsdamer Havel",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/potsdam-havel-sportboot-kollision-passagierschiff-polizei.html",
-      "date": "Wed, 02 Sep 2026 18:30:12 +0200"
-    },
-    {
-      "title": "Turbine Potsdam in der Dauerkrise: \"Keine negative Eigendynamik\"",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/brandenburg-fussball-frauen-turbine-potsdam-interview-merle-kirschstein.html",
-      "date": "Wed, 02 Sep 2026 18:25:53 +0200"
-    },
-    {
-      "title": "Ernüchterung bei Energie Cottbus: Ohne Kohle keine Spieler",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/fussball-zweite-liga-energie-cottbus-transferphase-keine-neuzugnge.html",
-      "date": "Wed, 02 Sep 2026 18:24:00 +0200"
-    },
-    {
-      "title": "26-Jähriger in Berlin-Schöneberg angeschossen und schwer verletzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/schuesse-schoeneberg-mann-verletzt.html",
-      "date": "Wed, 02 Sep 2026 18:13:37 +0200"
-    },
-    {
-      "title": "Neue Umfragewerte: rbb lädt auch das BSW in Wahl-Sonderformate ein",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/abgeordnetenhaus-wahl-agh-berlin-rbb-berichterstattung-bsw-berlintrend.html",
-      "date": "Wed, 02 Sep 2026 18:11:16 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,16 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Hacking, Drohnen, Sabotage: \"Kritische Infrastruktur geht jeden Bürger etwas an\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-brandenburg-kritische-infrastruktur-hacking-drohnen-sabotage-interview.html",
+      "date": "Thu, 03 Sep 2026 09:05:27 +0200"
+    },
+    {
+      "title": "Signalstörungen: Einschränkungen und Verspätungen bei mehreren S-Bahn-Linien",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-brandenburg-s-bahn-stoerung-verspaetung-baumschulenweg.html",
+      "date": "Thu, 03 Sep 2026 07:32:29 +0200"
+    },
+    {
       "title": "Sperrkreis in Oranienburg nach mehr als 12 Stunden wieder aufgehoben",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/oranienburg-lehnitz-fliegerbombe-entschaerfung-sperrkreis-kampfmittel.html",
       "date": "Wed, 02 Sep 2026 20:55:11 +0200"
@@ -176,16 +186,6 @@
       "title": "Mandantin verletzt Rechtsanwältin in Hellersdorf lebensgefährlich",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/frau-angriff-berlin-hellersdorf-schwer-verletzt.html",
       "date": "Wed, 02 Sep 2026 12:33:18 +0200"
-    },
-    {
-      "title": "GeoGuessr-WM in Berlin: Wer findet den richtigen Ort am schnellsten?",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-geoguessr-street-view-wm-tempodrom.html",
-      "date": "Wed, 02 Sep 2026 12:28:49 +0200"
-    },
-    {
-      "title": "KKH-Analyse: Mehr Fälle von schwarzem Hautkrebs in Berlin und Brandenburg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-brandenburg-zunahme-schwarzer-hautkrebs-kkh.html",
-      "date": "Wed, 02 Sep 2026 12:16:26 +0200"
     }
   ]
 }
