@@ -1,67 +1,82 @@
 {
   "traffic": [
     {
+      "title": "Vereint in Berlin: Deutsche Eiskunstlauf-Top-Paare bündeln ihre Kräfte",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/eiskunstlauf-berlin-stuetzpunkt-paarlauf-minerva-hase-nikita-volodin-hocke-kunkel-olympia.html",
+      "date": "Fri, 04 Sep 2026 16:15:14 +0200"
+    },
+    {
+      "title": "Deutsch-Polnisches Kunstfestival kehrt nach Frankfurt (Oder) zurück",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/09/art-an-der-grenze-ffo.html",
+      "date": "Fri, 04 Sep 2026 16:11:41 +0200"
+    },
+    {
+      "title": "Bahnstrecke Berlin-Brandenburg: Tausende Verspätungen auch nach Generalsanierung",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/09/deutsche-bahn-berlin-hamburg-verspaetungen-generalsanierung.html",
+      "date": "Fri, 04 Sep 2026 16:10:45 +0200"
+    },
+    {
+      "title": "Keine Anhaltspunkte für weitere aktive Tuberkulose in Oberhavel",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/oberhavel-hohen-neuendorf-pflegeheim-tuberkulose-test-aktiv-infektion.html",
+      "date": "Fri, 04 Sep 2026 16:02:42 +0200"
+    },
+    {
+      "title": "Gefahrgut-Alarm am BER: Flugbetrieb läuft wieder regulär",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-brandenburg-flughafen-ber-terminal-1-frau-gefaehrlicher-stoff.html",
+      "date": "Fri, 04 Sep 2026 15:59:00 +0200"
+    },
+    {
       "title": "ARD-Informationen: Polizeibehörden halten Bekennerschreiben für authentisch",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-polizei-sabotage-stromnetz-jaenschwalde-stromversorgung.html",
-      "date": "Fri, 04 Sep 2026 12:11:31 +0200"
+      "date": "Fri, 04 Sep 2026 15:52:33 +0200"
+    },
+    {
+      "title": "Uckermark: Polizei findet Waffen und Munition in Garage",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/angermuende-einsatz-polizei-waffen-munition-weltkrieg-garage.html",
+      "date": "Fri, 04 Sep 2026 15:02:32 +0200"
+    },
+    {
+      "title": "Warnung vor schweren Sturmböen am Freitagnachmittag",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/wetter-sturm-gewitter-berlin-brandenburg.html",
+      "date": "Fri, 04 Sep 2026 14:32:15 +0200"
+    },
+    {
+      "title": "Brandenburger Politiker machen Wahlkampf in Sachsen-Anhalt",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/09/wahlkampf-sachsen-anhalt-unterstuetzung.html",
+      "date": "Fri, 04 Sep 2026 14:20:04 +0200"
+    },
+    {
+      "title": "Sanierungspläne am Kottbusser Tor",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/zentrum-kreuzberg-nkz-kotti-kottbusser-tor-gewobag.html",
+      "date": "Fri, 04 Sep 2026 14:06:24 +0200"
+    },
+    {
+      "title": "Kreativ-Quartier in Potsdamer Innenstadt eröffnet",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/09/potsdam-innenstadt-kreativ-quartier-eroeffnung-kreativwirtschaft.html",
+      "date": "Fri, 04 Sep 2026 12:26:50 +0200"
     },
     {
       "title": "Gosen-Neu Zittau: 19-Jähriger schweigt nach Gewalttat an Schule",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/gewalttat-gosen-neu-zittau-verdaechtiger-schweigt.html",
       "date": "Fri, 04 Sep 2026 12:00:48 +0200"
-    },
-    {
-      "title": "Berlin: Toter nach Wohnungsbrand in Wittenau",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-wittenau-feuerwehr-wohnungsbrand-toter.html",
-      "date": "Fri, 04 Sep 2026 11:25:29 +0200"
-    },
-    {
-      "title": "RE3 fährt zwischen Berlin und Wittenberg ab 19. September im Stundentakt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-wittenberg-re3-stundentakt-mehr-zuege-bauarbeiten-re7.html",
-      "date": "Fri, 04 Sep 2026 10:32:24 +0200"
-    },
-    {
-      "title": "Flugverkehr am BER läuft wieder regulär",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-brandenburg-flughafen-ber-terminal-1-frau-gefaehrlicher-stoff.html",
-      "date": "Fri, 04 Sep 2026 10:13:24 +0200"
-    },
-    {
-      "title": "Uckermark: Polizei findet Waffen und Munition Garage",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/angermuende-einsatz-polizei-waffen-munition-weltkrieg-garage.html",
-      "date": "Fri, 04 Sep 2026 10:11:41 +0200"
-    },
-    {
-      "title": "Basketball-WM in Berlin: \"Nationalspielerinnen, zu denen junge Mädchen aufschauen können\"",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/basketball-frauen-weltmeisterschaft-maedchen-alba-berlin-lucy-reuss-alba-berlin.html",
-      "date": "Fri, 04 Sep 2026 09:39:54 +0200"
-    },
-    {
-      "title": "Basketball-WM der Frauen startet in Berlin",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/berlin-basketball-weltmeisterschaft-wm-frauen-maedchenbasketball-boom.html",
-      "date": "Fri, 04 Sep 2026 09:27:19 +0200"
-    },
-    {
-      "title": "BerlinTrend 2026 kurz vor der Wahl: Stimmung vor der Berlin-Wahl",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/09/berlin-trend-wahl-agh-bvv-hauptstadt-2026-sonntagsfrage.html",
-      "date": "Fri, 04 Sep 2026 07:00:20 +0200"
-    },
-    {
-      "title": "BerlinTrend: Mehrheit gegen Enteignung großer Wohnungskonzerne",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-trend-enteignung-wohnungskonzerne-stromversorgung-.html",
-      "date": "Fri, 04 Sep 2026 07:00:00 +0200"
-    },
-    {
-      "title": "Spandau vor der Wahl: Wenn Wohnungen schneller entstehen als Schulen",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/bvv/spandau-schulen-kitas-platzmangel-neubau.html",
-      "date": "Fri, 04 Sep 2026 06:34:00 +0200"
-    },
-    {
-      "title": "Von Radio bis Robotik: Die Geschichte der IFA in Bildern",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/09/ifa-bildergalerie-2026-berlin-innovation-messe-funkausstellung.html",
-      "date": "Fri, 04 Sep 2026 06:30:09 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Mann verursacht mehrere Verkehrsunfälle und greift Polizeibeamten an",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710683.php",
+      "date": "Fri, 04 Sep 2026 15:35:00 +0200"
+    },
+    {
+      "title": "Beleidigung und Nötigung im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710580.php",
+      "date": "Fri, 04 Sep 2026 13:02:00 +0200"
+    },
+    {
+      "title": "Eierwürfe auf Informationsstand einer Partei",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710576.php",
+      "date": "Fri, 04 Sep 2026 12:49:00 +0200"
+    },
     {
       "title": "Sicherstellung einer scharfen Schusswaffe in Spandau",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710543.php",
@@ -106,21 +121,6 @@
       "title": "Mann von unbekanntem Tatverdächtigen geschlagen und homophob beleidigt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710077.php",
       "date": "Thu, 03 Sep 2026 11:16:42 +0200"
-    },
-    {
-      "title": "Mann beschädigt Wahlplakat, entblößt sich und leistet Widerstand bei Festnahme",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710056.php",
-      "date": "Thu, 03 Sep 2026 10:57:37 +0200"
-    },
-    {
-      "title": "Diebstahlserie aus Handwerkerfahrzeugen – Polizei bittet um Mithilfe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710045.php",
-      "date": "Thu, 03 Sep 2026 10:40:19 +0200"
-    },
-    {
-      "title": "Senior betrogen – Wer erkennt den Tatverdächtigen?",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710012.php",
-      "date": "Thu, 03 Sep 2026 10:08:45 +0200"
     }
   ],
   "free_events": [],
@@ -128,9 +128,34 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Keine Anhaltspunkte für weitere aktive Tuberkulose in Oberhavel",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/oberhavel-hohen-neuendorf-pflegeheim-tuberkulose-test-aktiv-infektion.html",
+      "date": "Fri, 04 Sep 2026 16:02:42 +0200"
+    },
+    {
+      "title": "Gefahrgut-Alarm am BER: Flugbetrieb läuft wieder regulär",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-brandenburg-flughafen-ber-terminal-1-frau-gefaehrlicher-stoff.html",
+      "date": "Fri, 04 Sep 2026 15:59:00 +0200"
+    },
+    {
       "title": "ARD-Informationen: Polizeibehörden halten Bekennerschreiben für authentisch",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-polizei-sabotage-stromnetz-jaenschwalde-stromversorgung.html",
-      "date": "Fri, 04 Sep 2026 12:11:31 +0200"
+      "date": "Fri, 04 Sep 2026 15:52:33 +0200"
+    },
+    {
+      "title": "Uckermark: Polizei findet Waffen und Munition in Garage",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/angermuende-einsatz-polizei-waffen-munition-weltkrieg-garage.html",
+      "date": "Fri, 04 Sep 2026 15:02:32 +0200"
+    },
+    {
+      "title": "Warnung vor schweren Sturmböen am Freitagnachmittag",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/wetter-sturm-gewitter-berlin-brandenburg.html",
+      "date": "Fri, 04 Sep 2026 14:32:15 +0200"
+    },
+    {
+      "title": "Sanierungspläne am Kottbusser Tor",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/zentrum-kreuzberg-nkz-kotti-kottbusser-tor-gewobag.html",
+      "date": "Fri, 04 Sep 2026 14:06:24 +0200"
     },
     {
       "title": "Gosen-Neu Zittau: 19-Jähriger schweigt nach Gewalttat an Schule",
@@ -148,16 +173,6 @@
       "date": "Fri, 04 Sep 2026 10:32:24 +0200"
     },
     {
-      "title": "Flugverkehr am BER läuft wieder regulär",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-brandenburg-flughafen-ber-terminal-1-frau-gefaehrlicher-stoff.html",
-      "date": "Fri, 04 Sep 2026 10:13:24 +0200"
-    },
-    {
-      "title": "Uckermark: Polizei findet Waffen und Munition Garage",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/angermuende-einsatz-polizei-waffen-munition-weltkrieg-garage.html",
-      "date": "Fri, 04 Sep 2026 10:11:41 +0200"
-    },
-    {
       "title": "Herzberg: wieder Präsenzunterricht am Melanchthon-Gymnasium",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/herzberg-philipp-melanchthon-gymnasium-unterricht-ausfall-raumluft-geruch.html",
       "date": "Thu, 03 Sep 2026 21:54:41 +0200"
@@ -171,21 +186,6 @@
       "title": "Lebenslange Haft nach tödlichem Raubüberfall in Kleinmachnow",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/kleinmachnow-lebenslange-haft-raubueberfall-urteil-potsdam-mittelmark.html",
       "date": "Thu, 03 Sep 2026 19:33:08 +0200"
-    },
-    {
-      "title": "Potsdam-Mittelmark: Ruderboot kippt um - neun Menschen über Bord",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-potsdamer-havel-ruderkatamaran-kentert.html",
-      "date": "Thu, 03 Sep 2026 19:22:30 +0200"
-    },
-    {
-      "title": "Brandenburg plant Sicherheitszentrum nach Stromnetz-Sabotage",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-sabotage-umspannwerk-stromnetz-jaenschwalde-sicherheitszentrum.html",
-      "date": "Thu, 03 Sep 2026 18:30:00 +0200"
-    },
-    {
-      "title": "Diskussion um queere Sichtbarkeit in der Prignitz",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-prignitz-ostprignitz-ruppin-lesbischwule-tour-queer-sichtbarkeit.html",
-      "date": "Thu, 03 Sep 2026 17:33:54 +0200"
     }
   ]
 }
