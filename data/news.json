@@ -1,9 +1,24 @@
 {
   "traffic": [
     {
+      "title": "Sabotage am Stromnetz: Sprengstoff in Wohnung von Verdächtigem gefunden",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-polizei-sabotage-stromnetz-jaenschwalde-stromversorgung.html",
+      "date": "Fri, 04 Sep 2026 21:30:14 +0200"
+    },
+    {
+      "title": "Hackergruppe veröffentlicht Daten nach Angriff auf Berliner Landesnetz",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/09/berlin-cyberangriff-hackerangriff-datendiebstahl-rhysida-darknet.html",
+      "date": "Fri, 04 Sep 2026 20:46:40 +0200"
+    },
+    {
+      "title": "Berliner S-Bahn nach Sturmschäden auf vielen Strecken unterbrochen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-feuerwehr-einsatz-sturm-schaeden.html",
+      "date": "Fri, 04 Sep 2026 20:31:38 +0200"
+    },
+    {
       "title": "Demonstrationen für und gegen das Russische Haus in Berlin",
       "link": "https://www.rbb24.de/politik/beitrag/2026/09/berlin-mitte-russisches-haus-demonstration-anschlag-russland.html",
-      "date": "Fri, 04 Sep 2026 19:53:25 +0200"
+      "date": "Fri, 04 Sep 2026 20:10:52 +0200"
     },
     {
       "title": "Basketball-WM: Deutschland kassiert klare Niederlage zum Auftakt",
@@ -11,24 +26,9 @@
       "date": "Fri, 04 Sep 2026 19:52:23 +0200"
     },
     {
-      "title": "Berliner S-Bahn nach Sturmschäden auf vielen Strecken unterbrochen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-feuerwehr-einsatz-sturm-schaeden.html",
-      "date": "Fri, 04 Sep 2026 19:50:22 +0200"
-    },
-    {
-      "title": "Hackergruppe veröffentlicht Daten nach Angriff auf Berliner Landesnetz",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/09/berlin-cyberangriff-hackerangriff-datendiebstahl-rhysida-darknet.html",
-      "date": "Fri, 04 Sep 2026 19:23:23 +0200"
-    },
-    {
       "title": "Hertha BSC mit Joker Nilsson: Vor 60.000 Fans gegen Magdeburg",
       "link": "https://www.rbb24.de/sport/beitrag/2026/09/fussball-zweite-bundesliga-vorbericht-hertha-bsc-magdeburg-nilsson-leitl-fans.html",
       "date": "Fri, 04 Sep 2026 18:46:38 +0200"
-    },
-    {
-      "title": "ARD-Informationen: Polizeibehörden halten Bekennerschreiben für authentisch",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-polizei-sabotage-stromnetz-jaenschwalde-stromversorgung.html",
-      "date": "Fri, 04 Sep 2026 18:10:50 +0200"
     },
     {
       "title": "Vereint in Berlin: Deutsche Eiskunstlauf-Top-Paare bündeln ihre Kräfte",
@@ -128,14 +128,14 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Berliner S-Bahn nach Sturmschäden auf vielen Strecken unterbrochen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-feuerwehr-einsatz-sturm-schaeden.html",
-      "date": "Fri, 04 Sep 2026 19:50:22 +0200"
+      "title": "Sabotage am Stromnetz: Sprengstoff in Wohnung von Verdächtigem gefunden",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-polizei-sabotage-stromnetz-jaenschwalde-stromversorgung.html",
+      "date": "Fri, 04 Sep 2026 21:30:14 +0200"
     },
     {
-      "title": "ARD-Informationen: Polizeibehörden halten Bekennerschreiben für authentisch",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-polizei-sabotage-stromnetz-jaenschwalde-stromversorgung.html",
-      "date": "Fri, 04 Sep 2026 18:10:50 +0200"
+      "title": "Berliner S-Bahn nach Sturmschäden auf vielen Strecken unterbrochen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-feuerwehr-einsatz-sturm-schaeden.html",
+      "date": "Fri, 04 Sep 2026 20:31:38 +0200"
     },
     {
       "title": "Uckermark: Polizei findet Waffen und Munition in Garage",
