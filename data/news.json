@@ -1,14 +1,39 @@
 {
   "traffic": [
     {
+      "title": "Wie Influencer die klassische Musik verändern",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/09/klassik-musik-social-media-influencer-louis-philipsson-annique-goettler.html",
+      "date": "Sat, 05 Sep 2026 11:21:29 +0200"
+    },
+    {
+      "title": "Maxim-Gorki-Theater eröffnet Spielzeit mit Schwierigkeiten",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/09/kultur-theater-gorki-neue-spielzeit.html",
+      "date": "Sat, 05 Sep 2026 11:15:36 +0200"
+    },
+    {
+      "title": "Berlin-Wahl 2026: Der große Kampf der Kleinen",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahl-2026-kleine-parteien-wahlkampf.html",
+      "date": "Sat, 05 Sep 2026 11:01:23 +0200"
+    },
+    {
+      "title": "Autofahrerin in Luckenwalde durch umstürzenden Baum getötet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-feuerwehr-einsatz-sturm-schaeden.html",
+      "date": "Sat, 05 Sep 2026 10:03:46 +0200"
+    },
+    {
+      "title": "Potsdamer Maler erhält Brandenburgischen Kunstpreis",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/09/brandenburg-kunstpreis-peter-rohn-potsdam-malerei-mosaik-metallbau.html",
+      "date": "Sat, 05 Sep 2026 09:55:53 +0200"
+    },
+    {
+      "title": "Juristin Frauke Brosius-Gersdorf über \"einen Ausnahmezustand\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/interview-frauke-brosius-gersdorf-bundesverfassungsgericht-buch.html",
+      "date": "Sat, 05 Sep 2026 07:29:00 +0200"
+    },
+    {
       "title": "Landespokal: BFC Dynamo löst Pflichtaufgabe gegen Viktoria Mitte",
       "link": "https://www.rbb24.de/sport/beitrag/2026/09/fussball-landespokal-berlin-zweite-runde-bfc-dynamo-lichtenberg-47-fuechse-sv-empor-spielbericht.html",
       "date": "Fri, 04 Sep 2026 22:51:50 +0200"
-    },
-    {
-      "title": "Sabotage am Stromnetz: Sprengstoff in Wohnung von Verdächtigem gefunden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-polizei-sabotage-stromnetz-jaenschwalde-stromversorgung.html",
-      "date": "Fri, 04 Sep 2026 21:30:14 +0200"
     },
     {
       "title": "Hackergruppe veröffentlicht Daten nach Angriff auf Berliner Landesnetz",
@@ -16,14 +41,14 @@
       "date": "Fri, 04 Sep 2026 20:46:40 +0200"
     },
     {
-      "title": "Berliner S-Bahn nach Sturmschäden auf vielen Strecken unterbrochen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-feuerwehr-einsatz-sturm-schaeden.html",
-      "date": "Fri, 04 Sep 2026 20:31:38 +0200"
-    },
-    {
       "title": "Demonstrationen für und gegen das Russische Haus in Berlin",
       "link": "https://www.rbb24.de/politik/beitrag/2026/09/berlin-mitte-russisches-haus-demonstration-anschlag-russland.html",
       "date": "Fri, 04 Sep 2026 20:10:52 +0200"
+    },
+    {
+      "title": "Clubcommission will offenbar Musikbrauerei ausschließen",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/09/musikbrauerei-clubcommission-rechtsextremismus-rauswurf-berlin-panko-protest.html",
+      "date": "Fri, 04 Sep 2026 19:55:21 +0200"
     },
     {
       "title": "Basketball-WM: Deutschland kassiert klare Niederlage zum Auftakt",
@@ -34,34 +59,24 @@
       "title": "Hertha BSC mit Joker Nilsson: Vor 60.000 Fans gegen Magdeburg",
       "link": "https://www.rbb24.de/sport/beitrag/2026/09/fussball-zweite-bundesliga-vorbericht-hertha-bsc-magdeburg-nilsson-leitl-fans.html",
       "date": "Fri, 04 Sep 2026 18:46:38 +0200"
-    },
-    {
-      "title": "Vereint in Berlin: Deutsche Eiskunstlauf-Top-Paare bündeln ihre Kräfte",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/eiskunstlauf-berlin-stuetzpunkt-paarlauf-minerva-hase-nikita-volodin-hocke-kunkel-olympia.html",
-      "date": "Fri, 04 Sep 2026 18:07:42 +0200"
-    },
-    {
-      "title": "Uckermark: Polizei findet Waffen und Munition in Garage",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/angermuende-einsatz-polizei-waffen-munition-weltkrieg-garage.html",
-      "date": "Fri, 04 Sep 2026 17:43:55 +0200"
-    },
-    {
-      "title": "Mehrere Einschränkungen bei Badestellen in Oberhavel",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/baden-oberhavel-verbot-einschraenkungen-faekalbakterium-blaualgen.html",
-      "date": "Fri, 04 Sep 2026 17:02:21 +0200"
-    },
-    {
-      "title": "Union Berlin in Leverkusen: Härtetest für Lustrinellis Spielidee",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/bundesliga-union-berlin-bayer-leverkusen-kastriot-imeri-lustrine.html",
-      "date": "Fri, 04 Sep 2026 16:57:20 +0200"
-    },
-    {
-      "title": "Fliegenfischer-Verein bekommt Brandenburger Naturschutzpreis",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/fliegenfischer-verein-brandenburger-naturschutzpreis-faio-umwelt.html",
-      "date": "Fri, 04 Sep 2026 16:44:30 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Mann mit Schreckschusswaffe beschossen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710743.php",
+      "date": "Sat, 05 Sep 2026 11:26:17 +0200"
+    },
+    {
+      "title": "Schwerer Raub in Nachtklub",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710741.php",
+      "date": "Sat, 05 Sep 2026 11:04:30 +0200"
+    },
+    {
+      "title": "Autofahrer fährt Mann und Frau an",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710739.php",
+      "date": "Sat, 05 Sep 2026 10:32:14 +0200"
+    },
     {
       "title": "Mann verursacht mehrere Verkehrsunfälle und greift Polizeibeamten an",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710683.php",
@@ -106,21 +121,6 @@
       "title": "Raubüberfall vor Wohnhaus – Polizei sucht Zeuginnen und Zeugen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705965.php",
       "date": "Thu, 03 Sep 2026 14:54:00 +0200"
-    },
-    {
-      "title": "Neun scharfe Schusswaffen beschlagnahmt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710168.php",
-      "date": "Thu, 03 Sep 2026 13:48:12 +0200"
-    },
-    {
-      "title": "Kind bei Verkehrsunfall verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710086.php",
-      "date": "Thu, 03 Sep 2026 11:32:11 +0200"
-    },
-    {
-      "title": "Mann von unbekanntem Tatverdächtigen geschlagen und homophob beleidigt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710077.php",
-      "date": "Thu, 03 Sep 2026 11:16:42 +0200"
     }
   ],
   "free_events": [],
@@ -128,14 +128,19 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Sabotage am Stromnetz: Sprengstoff in Wohnung von Verdächtigem gefunden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-polizei-sabotage-stromnetz-jaenschwalde-stromversorgung.html",
-      "date": "Fri, 04 Sep 2026 21:30:14 +0200"
+      "title": "Autofahrerin in Luckenwalde durch umstürzenden Baum getötet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-feuerwehr-einsatz-sturm-schaeden.html",
+      "date": "Sat, 05 Sep 2026 10:03:46 +0200"
     },
     {
-      "title": "Berliner S-Bahn nach Sturmschäden auf vielen Strecken unterbrochen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-feuerwehr-einsatz-sturm-schaeden.html",
-      "date": "Fri, 04 Sep 2026 20:31:38 +0200"
+      "title": "Sabotage am Stromnetz: Sprengstoff in Wohnung von Verdächtigem gefunden",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-polizei-sabotage-stromnetz-jaenschwalde-stromversorgung.html",
+      "date": "Sat, 05 Sep 2026 08:37:20 +0200"
+    },
+    {
+      "title": "Juristin Frauke Brosius-Gersdorf über \"einen Ausnahmezustand\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/interview-frauke-brosius-gersdorf-bundesverfassungsgericht-buch.html",
+      "date": "Sat, 05 Sep 2026 07:29:00 +0200"
     },
     {
       "title": "Uckermark: Polizei findet Waffen und Munition in Garage",
@@ -181,11 +186,6 @@
       "title": "Berlin: Toter nach Wohnungsbrand in Wittenau",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-wittenau-feuerwehr-wohnungsbrand-toter.html",
       "date": "Fri, 04 Sep 2026 11:25:29 +0200"
-    },
-    {
-      "title": "RE3 fährt zwischen Berlin und Wittenberg ab 19. September im Stundentakt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-wittenberg-re3-stundentakt-mehr-zuege-bauarbeiten-re7.html",
-      "date": "Fri, 04 Sep 2026 10:32:24 +0200"
     }
   ]
 }
