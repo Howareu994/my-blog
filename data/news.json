@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Baumaßnahmen: Zugausfälle RE2 und RE20 zwischen Lübbenau und Cottbus",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-brandenburg-re2-einschraenkungen-zugverkehr-sev-cottbus.html",
+      "date": "Sat, 05 Sep 2026 21:06:43 +0200"
+    },
+    {
       "title": "Bezirk Lichtenberg lehnt Anti-Hacker-Software des Berliner Senats ab",
       "link": "https://www.rbb24.de/politik/beitrag/2026/09/berlin-hackerangriff-schutz-software-streit-senat-bezirke.html",
       "date": "Sat, 05 Sep 2026 20:30:33 +0200"
@@ -8,7 +13,7 @@
     {
       "title": "Basktball-WM: Sieg für deutsche Basketballerinnen gegen Japan",
       "link": "https://www.rbb24.de/sport/beitrag/2026/09/frauen-basketball-wm-berlin-deutschland-japan.html",
-      "date": "Sat, 05 Sep 2026 20:10:18 +0200"
+      "date": "Sat, 05 Sep 2026 20:10:00 +0200"
     },
     {
       "title": "Landespokal Brandenburg: Luckenwalde verliert bei Stahl, Babelsberg weiter",
@@ -54,11 +59,6 @@
       "title": "Fliegenfischer-Verein bekommt Brandenburger Naturschutzpreis",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/fliegenfischer-verein-brandenburger-naturschutzpreis-fario-umwelt.html",
       "date": "Sat, 05 Sep 2026 15:53:46 +0200"
-    },
-    {
-      "title": "Hackergruppe veröffentlicht Daten nach Angriff auf Berliner Landesnetz",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/09/berlin-cyberangriff-hackerangriff-datendiebstahl-rhysida-darknet.html",
-      "date": "Sat, 05 Sep 2026 14:38:45 +0200"
     }
   ],
   "police": [
@@ -78,7 +78,7 @@
       "date": "Sat, 05 Sep 2026 15:18:16 +0200"
     },
     {
-      "title": "Mann nach mutmaßlich homophober Beleidigung und Körperverletzung angegriffen",
+      "title": "Mann nach mutmaßlich homophober Beleidigung angegriffen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710745.php",
       "date": "Sat, 05 Sep 2026 11:40:17 +0200"
     },
@@ -127,6 +127,11 @@
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Baumaßnahmen: Zugausfälle RE2 und RE20 zwischen Lübbenau und Cottbus",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-brandenburg-re2-einschraenkungen-zugverkehr-sev-cottbus.html",
+      "date": "Sat, 05 Sep 2026 21:06:43 +0200"
+    },
     {
       "title": "Warnung vor stürmischen Böen auch am Samstag",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/wetter-sturm-gewitter-berlin-brandenburg.html",
@@ -181,11 +186,6 @@
       "title": "Sanierungspläne am Kottbusser Tor",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/zentrum-kreuzberg-nkz-kotti-kottbusser-tor-gewobag.html",
       "date": "Fri, 04 Sep 2026 14:06:00 +0200"
-    },
-    {
-      "title": "Gosen-Neu Zittau: 19-Jähriger schweigt nach Gewalttat an Schule",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/gewalttat-gosen-neu-zittau-verdaechtiger-schweigt.html",
-      "date": "Fri, 04 Sep 2026 12:00:48 +0200"
     }
   ]
 }
