@@ -1,14 +1,34 @@
 {
   "traffic": [
     {
+      "title": "Bezirk Lichtenberg lehnt Anti-Hacker-Software des Berliner Senats ab",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/09/berlin-hackerangriff-schutz-software-streit-senat-bezirke.html",
+      "date": "Sat, 05 Sep 2026 20:30:33 +0200"
+    },
+    {
+      "title": "Basktball-WM: Sieg für deutsche Basketballerinnen gegen Japan",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/frauen-basketball-wm-berlin-deutschland-japan.html",
+      "date": "Sat, 05 Sep 2026 20:10:18 +0200"
+    },
+    {
+      "title": "Landespokal Brandenburg: Luckenwalde verliert bei Stahl, Babelsberg weiter",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/fussball-landespokal-brandenburg-2-runde-babelsberg-krieschow-luckenwalde-fuerstenwalde-rsv-eintracht.html",
+      "date": "Sat, 05 Sep 2026 19:12:09 +0200"
+    },
+    {
+      "title": "Sabotage: Polizei und Staatsanwaltschaft fahnden nach Tatverdächtigem",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/09/brandenburg-jaenschwalde-sabotage-umspannwerk-polizei-fahndung.html",
+      "date": "Sat, 05 Sep 2026 18:53:46 +0200"
+    },
+    {
+      "title": "2. DFB-Pokal-Runde: Hertha gegen Jeddeloh II, Union beim 1. FC Köln",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/fussball-dfb-pokal-auslosung-2-runde-hertha-bsc-1-fc-union.html",
+      "date": "Sat, 05 Sep 2026 18:53:16 +0200"
+    },
+    {
       "title": "Datenklau in Berlin: Opposition wirft Senat zu zögerliches Handeln vor",
       "link": "https://www.rbb24.de/politik/beitrag/2026/09/berlin-cyberangriff-verwaltung-kritik-datenleck-opposition-manuel-atug.html",
       "date": "Sat, 05 Sep 2026 17:50:05 +0200"
-    },
-    {
-      "title": "Union Berlin mit verdienter Klatsche in Leverkusen",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/bundesliga-audio-livestream-liveticker-leverkusen-union-berlin.html",
-      "date": "Sat, 05 Sep 2026 17:24:00 +0200"
     },
     {
       "title": "Demonstration gegen hohe Mieten und für Enteignung in Berlin",
@@ -19,11 +39,6 @@
       "title": "Demonstrationen für und gegen das Russische Haus in Berlin",
       "link": "https://www.rbb24.de/politik/beitrag/2026/09/berlin-mitte-russisches-haus-demonstration-anschlag-russland.html",
       "date": "Sat, 05 Sep 2026 16:52:10 +0200"
-    },
-    {
-      "title": "4:4 in Wolfsburg: Cottbus gelingt spektakuläres Comeback",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/2-bundesliga-audio-livestream-vfl-wolfsburg-energie-cottbus.html",
-      "date": "Sat, 05 Sep 2026 16:09:00 +0200"
     },
     {
       "title": "Warnung vor stürmischen Böen auch am Samstag",
@@ -44,21 +59,6 @@
       "title": "Hackergruppe veröffentlicht Daten nach Angriff auf Berliner Landesnetz",
       "link": "https://www.rbb24.de/politik/beitrag/2026/09/berlin-cyberangriff-hackerangriff-datendiebstahl-rhysida-darknet.html",
       "date": "Sat, 05 Sep 2026 14:38:45 +0200"
-    },
-    {
-      "title": "Autofahrerin in Luckenwalde durch herabstürzenden Ast getötet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-feuerwehr-einsatz-sturm-schaeden.html",
-      "date": "Sat, 05 Sep 2026 14:38:05 +0200"
-    },
-    {
-      "title": "Pacht-Streit: Zukunft von Lokomotive Potsdam vorerst gesichert",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/sportplatz-verein-bleibt-esv-lokomotive-potsdam-pacht-.html",
-      "date": "Sat, 05 Sep 2026 12:09:25 +0200"
-    },
-    {
-      "title": "Schauspieler Michael Mendl mit 82 Jahren gestorben",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/09/schauspieler-michael-mendl-tot.html",
-      "date": "Sat, 05 Sep 2026 12:07:24 +0200"
     }
   ],
   "police": [
