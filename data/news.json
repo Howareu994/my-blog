@@ -1,9 +1,44 @@
 {
   "traffic": [
     {
-      "title": "4:4-Remis: Cottbus gelingt Mega-Comeback in Wolfsburg",
+      "title": "Datenklau in Berlin: Opposition wirft Senat zu zögerliches Handeln vor",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/09/berlin-cyberangriff-verwaltung-kritik-datenleck-opposition-manuel-atug.html",
+      "date": "Sat, 05 Sep 2026 17:50:05 +0200"
+    },
+    {
+      "title": "Union Berlin mit verdienter Klatsche in Leverkusen",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/bundesliga-audio-livestream-liveticker-leverkusen-union-berlin.html",
+      "date": "Sat, 05 Sep 2026 17:24:00 +0200"
+    },
+    {
+      "title": "Demonstration gegen hohe Mieten und für Enteignung in Berlin",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/09/mieten-wohnen-berlin-demonstration-vor-wahl.html",
+      "date": "Sat, 05 Sep 2026 17:00:32 +0200"
+    },
+    {
+      "title": "Demonstrationen für und gegen das Russische Haus in Berlin",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/09/berlin-mitte-russisches-haus-demonstration-anschlag-russland.html",
+      "date": "Sat, 05 Sep 2026 16:52:10 +0200"
+    },
+    {
+      "title": "4:4 in Wolfsburg: Cottbus gelingt spektakuläres Comeback",
       "link": "https://www.rbb24.de/sport/beitrag/2026/09/2-bundesliga-audio-livestream-vfl-wolfsburg-energie-cottbus.html",
-      "date": "Sat, 05 Sep 2026 15:04:25 +0200"
+      "date": "Sat, 05 Sep 2026 16:09:00 +0200"
+    },
+    {
+      "title": "Warnung vor stürmischen Böen auch am Samstag",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/wetter-sturm-gewitter-berlin-brandenburg.html",
+      "date": "Sat, 05 Sep 2026 16:01:21 +0200"
+    },
+    {
+      "title": "Demonstranten protestieren in Berlin gegen Einsparungen im Gesundheitswesen",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/09/berlin-demonstration-gesundheit-sparplaene-bundesregierung.html",
+      "date": "Sat, 05 Sep 2026 15:57:00 +0200"
+    },
+    {
+      "title": "Fliegenfischer-Verein bekommt Brandenburger Naturschutzpreis",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/fliegenfischer-verein-brandenburger-naturschutzpreis-fario-umwelt.html",
+      "date": "Sat, 05 Sep 2026 15:53:46 +0200"
     },
     {
       "title": "Hackergruppe veröffentlicht Daten nach Angriff auf Berliner Landesnetz",
@@ -16,11 +51,6 @@
       "date": "Sat, 05 Sep 2026 14:38:05 +0200"
     },
     {
-      "title": "Demonstration gegen hohe Mieten und für Enteignung in Berlin",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/09/mieten-wohnen-berlin-demonstration-vor-wahl.html",
-      "date": "Sat, 05 Sep 2026 14:34:45 +0200"
-    },
-    {
       "title": "Pacht-Streit: Zukunft von Lokomotive Potsdam vorerst gesichert",
       "link": "https://www.rbb24.de/sport/beitrag/2026/09/sportplatz-verein-bleibt-esv-lokomotive-potsdam-pacht-.html",
       "date": "Sat, 05 Sep 2026 12:09:25 +0200"
@@ -29,39 +59,24 @@
       "title": "Schauspieler Michael Mendl mit 82 Jahren gestorben",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/09/schauspieler-michael-mendl-tot.html",
       "date": "Sat, 05 Sep 2026 12:07:24 +0200"
-    },
-    {
-      "title": "Berlin-Lichterfelde: Zwei Fußgänger angefahren - 75-Jährige stirbt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/unfall-verkehr-lichterfelde.html",
-      "date": "Sat, 05 Sep 2026 11:47:44 +0200"
-    },
-    {
-      "title": "Wie Influencer die klassische Musik verändern",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/09/klassik-musik-social-media-influencer-louis-philipsson-annique-goettler.html",
-      "date": "Sat, 05 Sep 2026 11:21:29 +0200"
-    },
-    {
-      "title": "Maxim-Gorki-Theater eröffnet Spielzeit mit Schwierigkeiten",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/09/kultur-theater-gorki-neue-spielzeit.html",
-      "date": "Sat, 05 Sep 2026 11:15:36 +0200"
-    },
-    {
-      "title": "Berlin-Wahl 2026: Der große Kampf der Kleinen",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahl-2026-kleine-parteien-wahlkampf.html",
-      "date": "Sat, 05 Sep 2026 11:01:23 +0200"
-    },
-    {
-      "title": "Potsdamer Maler erhält Brandenburgischen Kunstpreis",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/09/brandenburg-kunstpreis-peter-rohn-potsdam-malerei-mosaik-metallbau.html",
-      "date": "Sat, 05 Sep 2026 09:55:53 +0200"
-    },
-    {
-      "title": "Juristin Frauke Brosius-Gersdorf über \"einen Ausnahmezustand\"",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/interview-frauke-brosius-gersdorf-bundesverfassungsgericht-buch.html",
-      "date": "Sat, 05 Sep 2026 07:29:00 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Fünf Versammlungen vor dem Russischem Haus",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710758.php",
+      "date": "Sat, 05 Sep 2026 15:40:17 +0200"
+    },
+    {
+      "title": "Räuberische Erpressung",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710755.php",
+      "date": "Sat, 05 Sep 2026 15:26:33 +0200"
+    },
+    {
+      "title": "Versuchte räuberische Erpressung",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710753.php",
+      "date": "Sat, 05 Sep 2026 15:18:16 +0200"
+    },
     {
       "title": "Mann nach mutmaßlich homophober Beleidigung und Körperverletzung angegriffen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710745.php",
@@ -106,27 +121,22 @@
       "title": "Seniorin mit Bierflasche geschlagen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710514.php",
       "date": "Fri, 04 Sep 2026 11:25:00 +0200"
-    },
-    {
-      "title": "Fußgängerin bei Verkehrsunfall mit Lkw erheblich verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710509.php",
-      "date": "Fri, 04 Sep 2026 11:20:50 +0200"
-    },
-    {
-      "title": "Mann droht während Fernsehinterview mit Einsatz einer Schusswaffe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710499.php",
-      "date": "Fri, 04 Sep 2026 11:09:00 +0200"
-    },
-    {
-      "title": "Mann nach Wohnungsbrand leblos aufgefunden",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710493.php",
-      "date": "Fri, 04 Sep 2026 10:55:00 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Warnung vor stürmischen Böen auch am Samstag",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/wetter-sturm-gewitter-berlin-brandenburg.html",
+      "date": "Sat, 05 Sep 2026 16:01:21 +0200"
+    },
+    {
+      "title": "Fliegenfischer-Verein bekommt Brandenburger Naturschutzpreis",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/fliegenfischer-verein-brandenburger-naturschutzpreis-fario-umwelt.html",
+      "date": "Sat, 05 Sep 2026 15:53:46 +0200"
+    },
     {
       "title": "Autofahrerin in Luckenwalde durch herabstürzenden Ast getötet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-feuerwehr-einsatz-sturm-schaeden.html",
@@ -158,11 +168,6 @@
       "date": "Fri, 04 Sep 2026 17:02:21 +0200"
     },
     {
-      "title": "Fliegenfischer-Verein bekommt Brandenburger Naturschutzpreis",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/fliegenfischer-verein-brandenburger-naturschutzpreis-faio-umwelt.html",
-      "date": "Fri, 04 Sep 2026 16:44:30 +0200"
-    },
-    {
       "title": "Keine Anhaltspunkte für weitere aktive Tuberkulose in Oberhavel",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/oberhavel-hohen-neuendorf-pflegeheim-tuberkulose-test-aktiv-infektion.html",
       "date": "Fri, 04 Sep 2026 16:02:42 +0200"
@@ -171,11 +176,6 @@
       "title": "Gefahrgut-Alarm am BER: Flugbetrieb läuft wieder regulär",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-brandenburg-flughafen-ber-terminal-1-frau-gefaehrlicher-stoff.html",
       "date": "Fri, 04 Sep 2026 15:59:00 +0200"
-    },
-    {
-      "title": "Warnung vor schweren Sturmböen am Freitagnachmittag",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/wetter-sturm-gewitter-berlin-brandenburg.html",
-      "date": "Fri, 04 Sep 2026 14:32:15 +0200"
     },
     {
       "title": "Sanierungspläne am Kottbusser Tor",
