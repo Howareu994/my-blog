@@ -1,6 +1,41 @@
 {
   "traffic": [
     {
+      "title": "4:4-Remis: Cottbus gelingt Mega-Comeback in Wolfsburg",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/2-bundesliga-audio-livestream-vfl-wolfsburg-energie-cottbus.html",
+      "date": "Sat, 05 Sep 2026 15:04:25 +0200"
+    },
+    {
+      "title": "Hackergruppe veröffentlicht Daten nach Angriff auf Berliner Landesnetz",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/09/berlin-cyberangriff-hackerangriff-datendiebstahl-rhysida-darknet.html",
+      "date": "Sat, 05 Sep 2026 14:38:45 +0200"
+    },
+    {
+      "title": "Autofahrerin in Luckenwalde durch herabstürzenden Ast getötet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-feuerwehr-einsatz-sturm-schaeden.html",
+      "date": "Sat, 05 Sep 2026 14:38:05 +0200"
+    },
+    {
+      "title": "Demonstration gegen hohe Mieten und für Enteignung in Berlin",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/09/mieten-wohnen-berlin-demonstration-vor-wahl.html",
+      "date": "Sat, 05 Sep 2026 14:34:45 +0200"
+    },
+    {
+      "title": "Pacht-Streit: Zukunft von Lokomotive Potsdam vorerst gesichert",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/sportplatz-verein-bleibt-esv-lokomotive-potsdam-pacht-.html",
+      "date": "Sat, 05 Sep 2026 12:09:25 +0200"
+    },
+    {
+      "title": "Schauspieler Michael Mendl mit 82 Jahren gestorben",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/09/schauspieler-michael-mendl-tot.html",
+      "date": "Sat, 05 Sep 2026 12:07:24 +0200"
+    },
+    {
+      "title": "Berlin-Lichterfelde: Zwei Fußgänger angefahren - 75-Jährige stirbt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/unfall-verkehr-lichterfelde.html",
+      "date": "Sat, 05 Sep 2026 11:47:44 +0200"
+    },
+    {
       "title": "Wie Influencer die klassische Musik verändern",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/09/klassik-musik-social-media-influencer-louis-philipsson-annique-goettler.html",
       "date": "Sat, 05 Sep 2026 11:21:29 +0200"
@@ -16,11 +51,6 @@
       "date": "Sat, 05 Sep 2026 11:01:23 +0200"
     },
     {
-      "title": "Autofahrerin in Luckenwalde durch umstürzenden Baum getötet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-feuerwehr-einsatz-sturm-schaeden.html",
-      "date": "Sat, 05 Sep 2026 10:03:46 +0200"
-    },
-    {
       "title": "Potsdamer Maler erhält Brandenburgischen Kunstpreis",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/09/brandenburg-kunstpreis-peter-rohn-potsdam-malerei-mosaik-metallbau.html",
       "date": "Sat, 05 Sep 2026 09:55:53 +0200"
@@ -29,39 +59,14 @@
       "title": "Juristin Frauke Brosius-Gersdorf über \"einen Ausnahmezustand\"",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/interview-frauke-brosius-gersdorf-bundesverfassungsgericht-buch.html",
       "date": "Sat, 05 Sep 2026 07:29:00 +0200"
-    },
-    {
-      "title": "Landespokal: BFC Dynamo löst Pflichtaufgabe gegen Viktoria Mitte",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/fussball-landespokal-berlin-zweite-runde-bfc-dynamo-lichtenberg-47-fuechse-sv-empor-spielbericht.html",
-      "date": "Fri, 04 Sep 2026 22:51:50 +0200"
-    },
-    {
-      "title": "Hackergruppe veröffentlicht Daten nach Angriff auf Berliner Landesnetz",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/09/berlin-cyberangriff-hackerangriff-datendiebstahl-rhysida-darknet.html",
-      "date": "Fri, 04 Sep 2026 20:46:40 +0200"
-    },
-    {
-      "title": "Demonstrationen für und gegen das Russische Haus in Berlin",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/09/berlin-mitte-russisches-haus-demonstration-anschlag-russland.html",
-      "date": "Fri, 04 Sep 2026 20:10:52 +0200"
-    },
-    {
-      "title": "Clubcommission will offenbar Musikbrauerei ausschließen",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/09/musikbrauerei-clubcommission-rechtsextremismus-rauswurf-berlin-panko-protest.html",
-      "date": "Fri, 04 Sep 2026 19:55:21 +0200"
-    },
-    {
-      "title": "Basketball-WM: Deutschland kassiert klare Niederlage zum Auftakt",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/basketball-frauen-wm-spanien-deutschland-auftakt-spielbericht.html",
-      "date": "Fri, 04 Sep 2026 19:52:23 +0200"
-    },
-    {
-      "title": "Hertha BSC mit Joker Nilsson: Vor 60.000 Fans gegen Magdeburg",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/fussball-zweite-bundesliga-vorbericht-hertha-bsc-magdeburg-nilsson-leitl-fans.html",
-      "date": "Fri, 04 Sep 2026 18:46:38 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Mann nach mutmaßlich homophober Beleidigung und Körperverletzung angegriffen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710745.php",
+      "date": "Sat, 05 Sep 2026 11:40:17 +0200"
+    },
     {
       "title": "Mann mit Schreckschusswaffe beschossen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710743.php",
@@ -116,11 +121,6 @@
       "title": "Mann nach Wohnungsbrand leblos aufgefunden",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710493.php",
       "date": "Fri, 04 Sep 2026 10:55:00 +0200"
-    },
-    {
-      "title": "Raubüberfall vor Wohnhaus – Polizei sucht Zeuginnen und Zeugen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705965.php",
-      "date": "Thu, 03 Sep 2026 14:54:00 +0200"
     }
   ],
   "free_events": [],
@@ -128,9 +128,14 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Autofahrerin in Luckenwalde durch umstürzenden Baum getötet",
+      "title": "Autofahrerin in Luckenwalde durch herabstürzenden Ast getötet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-feuerwehr-einsatz-sturm-schaeden.html",
-      "date": "Sat, 05 Sep 2026 10:03:46 +0200"
+      "date": "Sat, 05 Sep 2026 14:38:05 +0200"
+    },
+    {
+      "title": "Berlin-Lichterfelde: Zwei Fußgänger angefahren - 75-Jährige stirbt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/unfall-verkehr-lichterfelde.html",
+      "date": "Sat, 05 Sep 2026 11:47:44 +0200"
     },
     {
       "title": "Sabotage am Stromnetz: Sprengstoff in Wohnung von Verdächtigem gefunden",
@@ -181,11 +186,6 @@
       "title": "Gosen-Neu Zittau: 19-Jähriger schweigt nach Gewalttat an Schule",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/gewalttat-gosen-neu-zittau-verdaechtiger-schweigt.html",
       "date": "Fri, 04 Sep 2026 12:00:48 +0200"
-    },
-    {
-      "title": "Berlin: Toter nach Wohnungsbrand in Wittenau",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-wittenau-feuerwehr-wohnungsbrand-toter.html",
-      "date": "Fri, 04 Sep 2026 11:25:29 +0200"
     }
   ]
 }
