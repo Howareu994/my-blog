@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Berlin: Mann in Sonnenallee nach Polizei-Angaben erschossen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-polizei-mann-erschosen-sonnenallee-neukoelln.html",
+      "date": "Mon, 07 Sep 2026 07:23:14 +0200"
+    },
+    {
       "title": "Reaktionen auf Wahl in Sachsen-Anhalt: AfD jubelt, andere Parteien bedrückt",
       "link": "https://www.rbb24.de/politik/beitrag/2026/09/landtagswahl-sachsen-anhalt-berlin-brandenburg-reaktionen.html",
       "date": "Sun, 06 Sep 2026 21:50:27 +0200"
@@ -49,11 +54,6 @@
       "title": "2. Fußball-Liga der Frauen: Hertha und Viktoria bauen Siegesserie aus",
       "link": "https://www.rbb24.de/sport/beitrag/2026/09/fussball-2-liga-frauen-viktoria-berlin-meppen-gladbach-hertha-bsc-turbine-potsdam-essen.html",
       "date": "Sun, 06 Sep 2026 16:55:17 +0200"
-    },
-    {
-      "title": "Analyse zu Herthas Sieg gegen Magdeburg: Alles wie immer, nur ganz anders",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/fussball-zweite-bundesliga-hertha-bsc-magdeburg-analyse-nachbericht.html",
-      "date": "Sun, 06 Sep 2026 16:55:05 +0200"
     },
     {
       "title": "Kolumne \"Was war das denn?\": Keine Zeit in Berlin",
@@ -128,6 +128,16 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Berlin: Mann in Sonnenallee nach Polizei-Angaben erschossen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-polizei-mann-erschosen-sonnenallee-neukoelln.html",
+      "date": "Mon, 07 Sep 2026 07:23:14 +0200"
+    },
+    {
+      "title": "Mehr Verdachtsfälle von Kindeswohlgefährdung in Brandenburg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/kindeswohlgefaehrdungen-zahlen-verfahren-gestiegen-brandenburg.html",
+      "date": "Mon, 07 Sep 2026 06:24:36 +0200"
+    },
+    {
       "title": "Chemische Reaktion von Putzmitteln - Hostel in Berlin zeitweise geräumt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-hostel-feuerwehr-putzmittel-chemische-reaktion.html",
       "date": "Sun, 06 Sep 2026 17:51:41 +0200"
@@ -176,16 +186,6 @@
       "title": "Baumaßnahmen: Zugausfälle RE2 und RE20 zwischen Lübbenau und Cottbus",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-brandenburg-re2-einschraenkungen-zugverkehr-sev-cottbus.html",
       "date": "Sat, 05 Sep 2026 21:06:43 +0200"
-    },
-    {
-      "title": "Warnung vor stürmischen Böen auch am Samstag",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/wetter-sturm-gewitter-berlin-brandenburg.html",
-      "date": "Sat, 05 Sep 2026 16:01:21 +0200"
-    },
-    {
-      "title": "Fliegenfischer-Verein bekommt Brandenburger Naturschutzpreis",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/fliegenfischer-verein-brandenburger-naturschutzpreis-fario-umwelt.html",
-      "date": "Sat, 05 Sep 2026 15:53:46 +0200"
     }
   ]
 }
