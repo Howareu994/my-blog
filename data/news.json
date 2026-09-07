@@ -1,67 +1,87 @@
 {
   "traffic": [
     {
-      "title": "TU Berlin will Teile des Hauptgebäudes öffnen",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-tu-hauptgebaude-soll-teilweise-oeffnen.html",
-      "date": "Mon, 07 Sep 2026 12:39:00 +0200"
-    },
-    {
-      "title": "Olympia-Bewerbung: So entscheidet sich, ob Berlin ins Rennen geht",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/sport-berlin-olympische-spiele-olympia-bewerbung-dosb-konzept-faq.html",
-      "date": "Mon, 07 Sep 2026 11:36:18 +0200"
-    },
-    {
-      "title": "Berlin-Neukölln: Mann an Sonnenallee erschossen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-polizei-mann-erschosen-sonnenallee-neukoelln.html",
-      "date": "Mon, 07 Sep 2026 11:29:10 +0200"
-    },
-    {
       "title": "Reaktionen auf Wahl in Sachsen-Anhalt: AfD jubelt, andere Parteien bedrückt",
       "link": "https://www.rbb24.de/politik/beitrag/2026/09/landtagswahl-sachsen-anhalt-berlin-brandenburg-reaktionen.html",
-      "date": "Mon, 07 Sep 2026 11:29:09 +0200"
+      "date": "Mon, 07 Sep 2026 18:39:56 +0200"
     },
     {
-      "title": "Erstmals wählen mit 16: Junge Berliner haben das Wort",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/junge-waehler-erstwaehler-themen-fragen-social-media-spitzenkandidaten.html",
-      "date": "Mon, 07 Sep 2026 11:27:03 +0200"
+      "title": "36-jähriger Mann stirbt nach Polizeieinsatz in Berlin-Marienfelde",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-marienfelde-mann-stirbt-nach-polizei-einsatz.html",
+      "date": "Mon, 07 Sep 2026 18:37:50 +0200"
     },
     {
-      "title": "Kurzschluss führte offenbar zu Brand in Umspannwerk in Berlin-Tiergarten",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-umspannwerk-feuer-feuerwehr-tiergarten.html",
-      "date": "Mon, 07 Sep 2026 10:45:18 +0200"
+      "title": "IT-Experte zu Hackerangriff: Überblick über entwendete Daten dauert",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/09/berlin-innenausschuss-hackerangriff-daten-kritik-senat.html",
+      "date": "Mon, 07 Sep 2026 18:36:17 +0200"
     },
     {
-      "title": "Potsdams einzige Fischerei: Tradition mit Zukunft",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/fischerei-potsdam-tradition-zukunft.html",
-      "date": "Mon, 07 Sep 2026 08:45:48 +0200"
+      "title": "Trinkwasser muss in Teilen Märkisch-Oderlands weiter abgekocht werden",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/maerkisch-oderland-trinkwasser-abkochen-coliforme-bakterien.html",
+      "date": "Mon, 07 Sep 2026 18:04:58 +0200"
     },
     {
-      "title": "Sabotage an Umspannwerken: Suche mit Fahndungsfotos",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/09/brandenburg-jaenschwalde-sabotage-umspannwerk-polizei-fahndung.html",
-      "date": "Mon, 07 Sep 2026 08:40:37 +0200"
+      "title": "Radprofi Wilksch: \"Ich schaue gar nicht auf die Ergebnisse\"",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/radsport-vuelta-hannes-wilksch-interview.html",
+      "date": "Mon, 07 Sep 2026 17:57:52 +0200"
     },
     {
-      "title": "Bei Bränden in Wilmersdorf und Spandau eine lebensgefährlich verletzte Person",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-wilmersdorf-spandau-feuerwehr-braende-feuer.html",
-      "date": "Mon, 07 Sep 2026 07:55:51 +0200"
+      "title": "Berlin-Marathon-Rekordteilnehmer Wilfried Köhnke im Interview",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/interview-berlin-marathon-rekordteilnehmer-wilfried-koehnke.html",
+      "date": "Mon, 07 Sep 2026 17:48:49 +0200"
+    },
+    {
+      "title": "Mehrere Elch-Sichtungen im Norden Brandenburgs gemeldet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/elch-sichtungen-in-nordbrandenburg.html",
+      "date": "Mon, 07 Sep 2026 17:27:51 +0200"
+    },
+    {
+      "title": "Bündnis appelliert: Familienzentren in Potsdam-Mittelmark wehren sich gegen Einsparungen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/familienzentren-potsdam-mittelmark-einsparungen.html",
+      "date": "Mon, 07 Sep 2026 16:53:16 +0200"
+    },
+    {
+      "title": "Ausfälle auf RE1-Linie in Brandenburg deutlich gestiegen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/bahnverkehr-odeg-re1-ausfaelle-deutlich-gestiegen.html",
+      "date": "Mon, 07 Sep 2026 16:44:30 +0200"
+    },
+    {
+      "title": "Was das Wahlergebnis in Sachsen-Anhalt für Berlin bedeutet",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/landtagswahl-sachsen-anhalt-berlin-folgen-analyse.html",
+      "date": "Mon, 07 Sep 2026 15:50:42 +0200"
     },
     {
       "title": "Mehr Verdachtsfälle von Kindeswohlgefährdung in Brandenburg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/kindeswohlgefaehrdungen-zahlen-verfahren-gestiegen-brandenburg.html",
-      "date": "Mon, 07 Sep 2026 06:24:36 +0200"
+      "date": "Mon, 07 Sep 2026 15:03:00 +0200"
     },
     {
-      "title": "Nach Cyberangriff: Neues Datenpaket aus dem Berliner Landesnetz aufgetaucht",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/09/berlin-cyberangriff-neues-datenpaket-rhysida-darknet.html",
-      "date": "Sun, 06 Sep 2026 20:51:30 +0200"
-    },
-    {
-      "title": "Handball: Füchse Berlin zittern sich zum Sieg in Stuttgart",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/handball-bundesliga-stuttgart-fuechse-berlin.html",
-      "date": "Sun, 06 Sep 2026 19:18:17 +0200"
+      "title": "BVG zieht mit 2.000 Beschäftigten auf Campus ans Berliner Ostkreuz",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/09/berlin-bvg-ostkreuz-campus-2000-bescharftigte.html",
+      "date": "Mon, 07 Sep 2026 14:56:10 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Mann randaliert und verstirbt im Krankenhaus",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1711210.php",
+      "date": "Mon, 07 Sep 2026 16:42:35 +0200"
+    },
+    {
+      "title": "Schüsse auf Einfamilienhaus",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1711161.php",
+      "date": "Mon, 07 Sep 2026 15:41:49 +0200"
+    },
+    {
+      "title": "Vermisste 52-Jährige tot aufgefunden",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709758.php",
+      "date": "Mon, 07 Sep 2026 14:28:00 +0200"
+    },
+    {
+      "title": "Erkrankte Frau vermisst – Polizei bittet um Mithilfe",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1711089.php",
+      "date": "Mon, 07 Sep 2026 13:52:47 +0200"
+    },
     {
       "title": "Wahlplakate angezündet",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1711013.php",
@@ -101,26 +121,6 @@
       "title": "Räuberische Erpressung",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710755.php",
       "date": "Sat, 05 Sep 2026 15:26:33 +0200"
-    },
-    {
-      "title": "Versuchte räuberische Erpressung",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710753.php",
-      "date": "Sat, 05 Sep 2026 15:18:16 +0200"
-    },
-    {
-      "title": "Mann nach mutmaßlich homophober Beleidigung angegriffen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710745.php",
-      "date": "Sat, 05 Sep 2026 11:40:17 +0200"
-    },
-    {
-      "title": "Mann mit Schreckschusswaffe beschossen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710743.php",
-      "date": "Sat, 05 Sep 2026 11:26:17 +0200"
-    },
-    {
-      "title": "Schwerer Raub in Nachtklub",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710741.php",
-      "date": "Sat, 05 Sep 2026 11:04:30 +0200"
     }
   ],
   "free_events": [],
@@ -128,64 +128,64 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "36-jähriger Mann stirbt nach Polizeieinsatz in Berlin-Marienfelde",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-marienfelde-mann-stirbt-nach-polizei-einsatz.html",
+      "date": "Mon, 07 Sep 2026 18:37:50 +0200"
+    },
+    {
+      "title": "Trinkwasser muss in Teilen Märkisch-Oderlands weiter abgekocht werden",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/maerkisch-oderland-trinkwasser-abkochen-coliforme-bakterien.html",
+      "date": "Mon, 07 Sep 2026 18:04:58 +0200"
+    },
+    {
+      "title": "Mehrere Elch-Sichtungen im Norden Brandenburgs gemeldet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/elch-sichtungen-in-nordbrandenburg.html",
+      "date": "Mon, 07 Sep 2026 17:27:51 +0200"
+    },
+    {
+      "title": "Bündnis appelliert: Familienzentren in Potsdam-Mittelmark wehren sich gegen Einsparungen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/familienzentren-potsdam-mittelmark-einsparungen.html",
+      "date": "Mon, 07 Sep 2026 16:53:16 +0200"
+    },
+    {
+      "title": "Ausfälle auf RE1-Linie in Brandenburg deutlich gestiegen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/bahnverkehr-odeg-re1-ausfaelle-deutlich-gestiegen.html",
+      "date": "Mon, 07 Sep 2026 16:44:30 +0200"
+    },
+    {
+      "title": "Mehr Verdachtsfälle von Kindeswohlgefährdung in Brandenburg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/kindeswohlgefaehrdungen-zahlen-verfahren-gestiegen-brandenburg.html",
+      "date": "Mon, 07 Sep 2026 15:03:00 +0200"
+    },
+    {
+      "title": "Neuruppiner Bahnhofsvorplatz Rheinsberger Tor wird zu Busbahnhof",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/busbahnhof-neuruppin-bahnhofsvorplatz-rheinsberger-tor-baustelle.html",
+      "date": "Mon, 07 Sep 2026 14:44:57 +0200"
+    },
+    {
+      "title": "Kurzschluss führte offenbar zu Brand in Umspannwerk in Berlin-Tiergarten",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-umspannwerk-feuer-feuerwehr-tiergarten.html",
+      "date": "Mon, 07 Sep 2026 13:58:03 +0200"
+    },
+    {
+      "title": "Lausitz sieht Chancen für Safran-Anbau",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-will-safran-anbauen.html",
+      "date": "Mon, 07 Sep 2026 13:53:57 +0200"
+    },
+    {
+      "title": "TU Berlin will Teile des Hauptgebäudes öffnen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-tu-hauptgebaude-soll-teilweise-wieder-oeffnen.html",
+      "date": "Mon, 07 Sep 2026 12:39:00 +0200"
+    },
+    {
       "title": "Berlin-Neukölln: Mann an Sonnenallee erschossen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-polizei-mann-erschosen-sonnenallee-neukoelln.html",
       "date": "Mon, 07 Sep 2026 11:29:10 +0200"
     },
     {
-      "title": "Kurzschluss führte offenbar zu Brand in Umspannwerk in Berlin-Tiergarten",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-umspannwerk-feuer-feuerwehr-tiergarten.html",
-      "date": "Mon, 07 Sep 2026 10:45:18 +0200"
-    },
-    {
       "title": "Potsdams einzige Fischerei: Tradition mit Zukunft",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/08/fischerei-potsdam-tradition-zukunft.html",
       "date": "Mon, 07 Sep 2026 08:45:48 +0200"
-    },
-    {
-      "title": "Bei Bränden in Wilmersdorf und Spandau eine lebensgefährlich verletzte Person",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-wilmersdorf-spandau-feuerwehr-braende-feuer.html",
-      "date": "Mon, 07 Sep 2026 07:55:51 +0200"
-    },
-    {
-      "title": "Mehr Verdachtsfälle von Kindeswohlgefährdung in Brandenburg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/kindeswohlgefaehrdungen-zahlen-verfahren-gestiegen-brandenburg.html",
-      "date": "Mon, 07 Sep 2026 06:24:36 +0200"
-    },
-    {
-      "title": "Chemische Reaktion von Putzmitteln - Hostel in Berlin zeitweise geräumt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-hostel-feuerwehr-putzmittel-chemische-reaktion.html",
-      "date": "Sun, 06 Sep 2026 17:51:41 +0200"
-    },
-    {
-      "title": "Wetter: Montag warm, Dienstag kühler - und immer zu trocken",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/wetter-abkuehlung-regen.html",
-      "date": "Sun, 06 Sep 2026 17:38:44 +0200"
-    },
-    {
-      "title": "Kolumne \"Was war das denn?\": Keine Zeit in Berlin",
-      "link": "https://www.rbb24.de/panorama/thema/was-war-das-denn/kaffee-verabredung-zeit-termine-kalender-stadt-distanzen-mieten-lebenshaltungskosten-job-planung-freundschaft-stress.html",
-      "date": "Sun, 06 Sep 2026 16:55:00 +0200"
-    },
-    {
-      "title": "CSD-Anschlag: Gedenkbaum für die Opfer herausgerissen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/gedenkbaum-csd-herausgerissen.html",
-      "date": "Sun, 06 Sep 2026 16:03:55 +0200"
-    },
-    {
-      "title": "Brandenburg (Havel): Sportboot gekentert - zwei Verletzte",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-untere-havel-wasserstrasse-unfall-guetermotorschiff-sportboot-gekentert.html",
-      "date": "Sun, 06 Sep 2026 14:27:18 +0200"
-    },
-    {
-      "title": "Berlin: Schüsse auf Auto in Tempelhof - Fahrer schwer verletzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-tempelhof-polizei-schuesse-auto-fahrer-verletzung.html",
-      "date": "Sun, 06 Sep 2026 14:16:38 +0200"
-    },
-    {
-      "title": "Trägerrakete von bayerischem Start-up erfolgreich im All",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/rakete-isar-aerospace-start-weltraum-berlin-technik.html",
-      "date": "Sun, 06 Sep 2026 13:33:23 +0200"
     }
   ]
 }
