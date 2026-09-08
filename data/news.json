@@ -1,19 +1,29 @@
 {
   "traffic": [
     {
-      "title": "Fußball: Union nach Niederlage gegen Frankfurt weiter sieglos",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/fussball-bundesliga-frauen-union-berlin-eintracht-frankfurt-spielbericht.html",
-      "date": "Mon, 07 Sep 2026 22:10:20 +0200"
+      "title": "Feuerwehr löscht brennendes Dach von Mehrfamilienhaus in Berlin-Steglitz",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-steglitz-brand-dach-mehrfamilienhaus.html",
+      "date": "Tue, 08 Sep 2026 06:42:03 +0200"
     },
     {
-      "title": "Dach von Mehrfamilienhaus in Berlin-Steglitz in Brand geraten",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-steglitz-brand-dach-mehrfamilienhaus.html",
-      "date": "Mon, 07 Sep 2026 21:07:14 +0200"
+      "title": "Wie das Olympiabad für 106 Millionen Euro modernisiert werden könnte",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/sport-berlin-olympische-spiele-bewerbung-sommerbad-olympiastadion-sanierung.html",
+      "date": "Tue, 08 Sep 2026 06:13:13 +0200"
+    },
+    {
+      "title": "Glattere Pflasterstraßen für einen besseren Radverkehr - Bezirke fräsen Kopfsteinpflaster glatt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-kopfsteinpflaster-fraesen-bezirke-radfahren.html",
+      "date": "Tue, 08 Sep 2026 06:12:13 +0200"
+    },
+    {
+      "title": "BerlinTrend: Junge Menschen fühlen sich von Politik schlecht vertreten",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-trend-junge-menschen-sehen-sich-schlecht-vertreten.html",
+      "date": "Tue, 08 Sep 2026 06:12:00 +0200"
     },
     {
       "title": "Tausende Menschen protestieren am Brandenburger Tor nach AfD-Erfolg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-brandenburger-tor-protest-landtagswahl-sachsen-anhalt-afd.html",
-      "date": "Mon, 07 Sep 2026 20:11:30 +0200"
+      "date": "Mon, 07 Sep 2026 20:11:00 +0200"
     },
     {
       "title": "Basketball: Deutschland schlägt Mali und erreicht die Finalrunde",
@@ -24,11 +34,6 @@
       "title": "Spitzenkandidat im rbb24-Interview: Evers schließt Zusammenarbeit mit AfD aus",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/spitzenkandidaten/stefan-evers-cdu-plan-fuer-berlin-interview.html",
       "date": "Mon, 07 Sep 2026 19:30:42 +0200"
-    },
-    {
-      "title": "Reaktionen auf Wahl in Sachsen-Anhalt: AfD jubelt, andere Parteien bedrückt",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/09/landtagswahl-sachsen-anhalt-berlin-brandenburg-reaktionen.html",
-      "date": "Mon, 07 Sep 2026 18:39:56 +0200"
     },
     {
       "title": "36-jähriger Mann stirbt nach Polizeieinsatz in Berlin-Marienfelde",
@@ -54,11 +59,6 @@
       "title": "Mehrere Elch-Sichtungen im Norden Brandenburgs gemeldet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/elch-sichtungen-in-nordbrandenburg.html",
       "date": "Mon, 07 Sep 2026 17:27:51 +0200"
-    },
-    {
-      "title": "Bündnis appelliert: Familienzentren in Potsdam-Mittelmark wehren sich gegen Einsparungen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/familienzentren-potsdam-mittelmark-einsparungen.html",
-      "date": "Mon, 07 Sep 2026 16:53:16 +0200"
     }
   ],
   "police": [
@@ -128,14 +128,24 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Dach von Mehrfamilienhaus in Berlin-Steglitz in Brand geraten",
+      "title": "Sperrungen bei Wittenberge wegen Brückenabriss",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brueckenabriss-wittenberge-sperrungen-ab-dienstag.html",
+      "date": "Tue, 08 Sep 2026 08:57:56 +0200"
+    },
+    {
+      "title": "Feuerwehr löscht brennendes Dach von Mehrfamilienhaus in Berlin-Steglitz",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-steglitz-brand-dach-mehrfamilienhaus.html",
-      "date": "Mon, 07 Sep 2026 21:07:14 +0200"
+      "date": "Tue, 08 Sep 2026 06:42:03 +0200"
+    },
+    {
+      "title": "Glattere Pflasterstraßen für einen besseren Radverkehr - Bezirke fräsen Kopfsteinpflaster glatt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-kopfsteinpflaster-fraesen-bezirke-radfahren.html",
+      "date": "Tue, 08 Sep 2026 06:12:13 +0200"
     },
     {
       "title": "Tausende Menschen protestieren am Brandenburger Tor nach AfD-Erfolg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-brandenburger-tor-protest-landtagswahl-sachsen-anhalt-afd.html",
-      "date": "Mon, 07 Sep 2026 20:11:30 +0200"
+      "date": "Mon, 07 Sep 2026 20:11:00 +0200"
     },
     {
       "title": "36-jähriger Mann stirbt nach Polizeieinsatz in Berlin-Marienfelde",
@@ -176,16 +186,6 @@
       "title": "Kurzschluss führte offenbar zu Brand in Umspannwerk in Berlin-Tiergarten",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-umspannwerk-feuer-feuerwehr-tiergarten.html",
       "date": "Mon, 07 Sep 2026 13:58:03 +0200"
-    },
-    {
-      "title": "Lausitz sieht Chancen für Safran-Anbau",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-will-safran-anbauen.html",
-      "date": "Mon, 07 Sep 2026 13:53:57 +0200"
-    },
-    {
-      "title": "TU Berlin will Teile des Hauptgebäudes öffnen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-tu-hauptgebaude-soll-teilweise-wieder-oeffnen.html",
-      "date": "Mon, 07 Sep 2026 12:39:00 +0200"
     }
   ]
 }
