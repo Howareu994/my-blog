@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Junge rbb-Wahlarena: \"Berlin wählt: Ihr fragt - Politik antwortet\"",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/rbb-wahlarena-junge-kandidaten-erstwaehler.html",
+      "date": "Tue, 08 Sep 2026 23:26:36 +0200"
+    },
+    {
+      "title": "Basketball-WM: Deutschland zieht souverän ins Viertelfinale ein",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/basketball-wm-deutschland-suedkorea-play-in-berlin-spielbericht.html",
+      "date": "Tue, 08 Sep 2026 22:35:39 +0200"
+    },
+    {
+      "title": "Heldt über Schalke: \"Ich habe mehr rotes als blaues Blut in mir\"",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/fussball-bundesliga-union-berlin-horst-heldt-geschaeftsfuehrer-interview.html",
+      "date": "Tue, 08 Sep 2026 21:57:14 +0200"
+    },
+    {
       "title": "Berliner Polizei stellt zwölf Handgranaten in Selfstorage sicher",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-12-handgranaten-friedrichshain-lagerhaus-selfstorage.html",
       "date": "Tue, 08 Sep 2026 21:25:04 +0200"
@@ -11,24 +26,14 @@
       "date": "Tue, 08 Sep 2026 20:50:19 +0200"
     },
     {
-      "title": "Heldt über Schalke: \"Ich habe mehr rotes als blaues Blut in mir\"",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/fussball-bundesliga-union-berlin-horst-heldt-geschaeftsfuehrer-interview.html",
-      "date": "Tue, 08 Sep 2026 20:33:38 +0200"
-    },
-    {
       "title": "Wirtschaft warnt nach AfD-Erfolg in Sachsen-Anhalt",
       "link": "https://www.rbb24.de/politik/beitrag/2026/09/brandenburg-ostdeutscher-unternehmertag-potsdam-wirtschaft-warnung-afd.html",
       "date": "Tue, 08 Sep 2026 20:32:27 +0200"
     },
     {
-      "title": "Jetzt im Livestream: \"Berlin wählt: Ihr fragt - Politik antwortet\"",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/rbb-wahlarena-junge-kandidaten-erstwaehler.html",
-      "date": "Tue, 08 Sep 2026 20:15:00 +0200"
-    },
-    {
       "title": "Berlin Art Week: Tipps zum 15. Jubiläum",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/09/berlin-art-week-2026-tipps-kunst-performance-kultur-musik.html",
-      "date": "Tue, 08 Sep 2026 19:36:34 +0200"
+      "date": "Tue, 08 Sep 2026 19:36:00 +0200"
     },
     {
       "title": "Radverkehr in Berlin: Senat lässt Gelder für Ausbau liegen",
@@ -54,11 +59,6 @@
       "title": "Linke-Spitzenkandidatin Eralp: Vergesellschaftung braucht Zeit",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/spitzenkandidaten/elif-eralp-linke-plan-fuer-berlin-interview.html",
       "date": "Tue, 08 Sep 2026 18:00:00 +0200"
-    },
-    {
-      "title": "Nationalpark Unteres Odertal leidet unter Trockenheit",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/nationalpark-unteres-odertal-trockenheit-niedrige-wasserstaende.html",
-      "date": "Tue, 08 Sep 2026 17:57:06 +0200"
     }
   ],
   "police": [
