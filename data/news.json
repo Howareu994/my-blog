@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Elf Kandidaten wollen in Berlin ohne Partei ins Abgeordnetenhaus einziehen",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/abgeordnetenhaus-einzelbewerber-parteilose-kandidaten.html",
+      "date": "Wed, 09 Sep 2026 06:15:24 +0200"
+    },
+    {
       "title": "Junge rbb-Wahlarena: \"Berlin wählt: Ihr fragt - Politik antwortet\"",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/rbb-wahlarena-junge-kandidaten-erstwaehler.html",
       "date": "Tue, 08 Sep 2026 23:26:36 +0200"
@@ -54,11 +59,6 @@
       "title": "Mitte vor der Wahl: Der Leopoldplatz als Labor für Drogen- und Ordnungspolitik",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/bvv/mitte-leopoldplatz-drogenpolitik-herausforderungen.html",
       "date": "Tue, 08 Sep 2026 18:19:00 +0200"
-    },
-    {
-      "title": "Linke-Spitzenkandidatin Eralp: Vergesellschaftung braucht Zeit",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/spitzenkandidaten/elif-eralp-linke-plan-fuer-berlin-interview.html",
-      "date": "Tue, 08 Sep 2026 18:00:00 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "\"Wenn Männer Kinder kriegten, hätten wir Kreißsäle aus Gold\"",
+      "link": "https://www.rbb24.de/panorama/thema/wiegehtesuns/hebamme-ruedersdorf-schliessungen-gebaerende-frauengesundheit.html",
+      "date": "Wed, 09 Sep 2026 06:20:57 +0200"
+    },
+    {
       "title": "Berliner Polizei stellt zwölf Handgranaten in Selfstorage sicher",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-12-handgranaten-friedrichshain-lagerhaus-selfstorage.html",
       "date": "Tue, 08 Sep 2026 21:25:04 +0200"
@@ -181,11 +186,6 @@
       "title": "Zum bundesweiten Warntag ertönen erstmals Sprachdurchsagen im Landkreis Oberspreewald-Lausitz",
       "link": "https://www.rbb24.de/panorama/beitrag/2025/09/brandenburg-warntag-oberspreewald-lausitz-sirenen.html",
       "date": "Tue, 08 Sep 2026 14:29:16 +0200"
-    },
-    {
-      "title": "Vollsperrung: Quenzbrücke in Brandenburg an der Havel wird saniert",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/quenzbruecke-brandenburg-havel-vollsperrung-bauarbeiten.html",
-      "date": "Tue, 08 Sep 2026 14:08:32 +0200"
     }
   ]
 }
