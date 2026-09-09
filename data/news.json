@@ -1,9 +1,19 @@
 {
   "traffic": [
     {
-      "title": "Berliner SPD-Spitzenkandidat: Staatsanwaltschaft ermittelt gegen Krach",
+      "title": "Berliner SPD-Spitzenkandidat: Staatsanwaltschaft Hannover ermittelt gegen Steffen Krach",
       "link": "https://www.rbb24.de/politik/beitrag/2026/09/staatsanwaltschaft-hannover-ermittlungen-steffen-krach.html",
-      "date": "Wed, 09 Sep 2026 20:10:19 +0200"
+      "date": "Wed, 09 Sep 2026 22:50:56 +0200"
+    },
+    {
+      "title": "Sport-Staatsminister Rauhe: \"Olympische Spiele sind fast unbezahlbar\"",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/sport-interview-staatsminister-ronald-rauhe-olympische-spiele-berlin-foerderung-ehrenamt.html",
+      "date": "Wed, 09 Sep 2026 20:41:55 +0200"
+    },
+    {
+      "title": "Stahnsdorfer Südwestkirchhof: Zäune aufgeschnitten und Wildschweine auf Friedhof gelockt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/vandalismus-friedhof-stahnsdorf-suedwestkirchhof.html",
+      "date": "Wed, 09 Sep 2026 20:31:21 +0200"
     },
     {
       "title": "Nach Stromnetz-Angriff: Sabotage-Verdächtiger kommt in Untersuchungshaft",
@@ -36,11 +46,6 @@
       "date": "Wed, 09 Sep 2026 16:43:52 +0200"
     },
     {
-      "title": "Sabotage am Stromnetz: Polizei nimmt Verdächtigen bei Aachen fest",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/strom-sabotage-polizei-festnahme-stromnetz-brandenburg-fahndung.html",
-      "date": "Wed, 09 Sep 2026 16:30:57 +0200"
-    },
-    {
       "title": "Berlin: Staatsbesuch führt zu Verkehrssperrungen",
       "link": "https://www.rbb24.de/politik/beitrag/2026/09/berlin-staatsbesuch-mohammed-bin-zayed-breitscheidplatz.html",
       "date": "Wed, 09 Sep 2026 15:56:08 +0200"
@@ -54,11 +59,6 @@
       "title": "Menschlicher Schädel in Königs-Wusterhausen gefunden",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/schaedel-fund-koenigs-wusterhausen.html",
       "date": "Wed, 09 Sep 2026 15:35:51 +0200"
-    },
-    {
-      "title": "Mit \"Gewinner-Mentalität\": Union Berlin fordert Aufsteiger Schalke",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/fussball-bundesliga-vorbericht-fc-union-schalke-04-lustrinelli.html",
-      "date": "Wed, 09 Sep 2026 15:20:03 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,16 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Ab 2027: Personalausweis kommt mit \"d-you\"-App aufs Smartphone",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/personalausweis-digital-smartphone-app-dyou.html",
+      "date": "Wed, 09 Sep 2026 21:43:46 +0200"
+    },
+    {
+      "title": "Stahnsdorfer Südwestkirchhof: Zäune aufgeschnitten und Wildschweine auf Friedhof gelockt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/vandalismus-friedhof-stahnsdorf-suedwestkirchhof.html",
+      "date": "Wed, 09 Sep 2026 20:31:21 +0200"
+    },
+    {
       "title": "Nach Stromnetz-Angriff: Sabotage-Verdächtiger kommt in Untersuchungshaft",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/stromnetz-sabotage-polizei-festnahme-untersuchungshaft-brandenburg-fahndung.html",
       "date": "Wed, 09 Sep 2026 18:10:38 +0200"
@@ -176,16 +186,6 @@
       "title": "Hochwasser: Katastrophenschutzübung in Südbrandenburger Landkreisen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-uebung-hochwasser-elbe-elster-oberspreewald-lausitz.html",
       "date": "Wed, 09 Sep 2026 13:14:58 +0200"
-    },
-    {
-      "title": "Warntag am 10. September: Wenn flächendeckend die Sirenen heulen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/warntag-katastrophenschutz-uebung-sirenen-berlin-brandenburg.html",
-      "date": "Wed, 09 Sep 2026 11:29:29 +0200"
-    },
-    {
-      "title": "Stadtbad Schöneberg - im zweiten Anlauf - wiedereröffnet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-stadtbad-schoeneberg-wiedereroeffnung-renovierung.html",
-      "date": "Wed, 09 Sep 2026 11:24:30 +0200"
     }
   ]
 }
