@@ -1,19 +1,39 @@
 {
   "traffic": [
     {
-      "title": "Brandenburg will Landespolizeipräsidium einrichten",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/09/brandenburg-landespolizeipraesidium-innenministerium.html",
-      "date": "Thu, 10 Sep 2026 18:43:51 +0200"
-    },
-    {
-      "title": "SPD-Spitzenkandidat Krach will weiter Wahlkampf machen",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/spd-steffen-krach-ermittlungen-pressekonferenz.html",
-      "date": "Thu, 10 Sep 2026 18:19:46 +0200"
+      "title": "Neue Verbindung nach Dubai: Emirates darf Flughafen BER ansteuern",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/09/flughafen-ber-langstreckenverbindung-berlin-dubai.html",
+      "date": "Thu, 10 Sep 2026 20:50:26 +0200"
     },
     {
       "title": "Staatsbesuch führt zu Verkehrseinschränkungen in Berlin",
       "link": "https://www.rbb24.de/politik/beitrag/2026/09/berlin-staatsbesuch-mohammed-bin-zayed-breitscheidplatz.html",
-      "date": "Thu, 10 Sep 2026 18:09:14 +0200"
+      "date": "Thu, 10 Sep 2026 20:21:22 +0200"
+    },
+    {
+      "title": "Westlicher Berliner S-Bahnring ab Freitagmorgen gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-s-bahn-ring-unterbrochen-halensee-beusselstrasse.html",
+      "date": "Thu, 10 Sep 2026 19:54:40 +0200"
+    },
+    {
+      "title": "93:74-Sieg gegen Belgien: Deutsche Basketball-Frauen im WM-Halbfinale",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/berlin-basketball-wm-weltmeisterschaft-frauen-deutschland-belgien-viertelfinale.html",
+      "date": "Thu, 10 Sep 2026 19:44:12 +0200"
+    },
+    {
+      "title": "Ludwigsfelde: Erneut Freischneide-Geräte bei Feuerwehr gestohlen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/diebstaehle-feuerwehr.html",
+      "date": "Thu, 10 Sep 2026 18:58:21 +0200"
+    },
+    {
+      "title": "SPD-Spitzenkandidat Krach will weiter Wahlkampf machen",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/spd-steffen-krach-ermittlungen-pressekonferenz.html",
+      "date": "Thu, 10 Sep 2026 18:56:27 +0200"
+    },
+    {
+      "title": "Brandenburg will Landespolizeipräsidium einrichten",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/09/brandenburg-landespolizeipraesidium-innenministerium.html",
+      "date": "Thu, 10 Sep 2026 18:43:51 +0200"
     },
     {
       "title": "Alle Grafiken zum aktuellen BerlinTrend",
@@ -39,26 +59,6 @@
       "title": "American Football: Potsdam Royals starten mit 290:0-Serie in Playoffs",
       "link": "https://www.rbb24.de/sport/beitrag/2026/09/german-bowl-football-league-plyaoffs-potsdam-royals-regensburg.html",
       "date": "Thu, 10 Sep 2026 16:36:30 +0200"
-    },
-    {
-      "title": "Berliner Bezirke dürfen Kurzzeitvermietungen verbieten",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-verwaltungsgericht-kurzzeitvermietung.html",
-      "date": "Thu, 10 Sep 2026 16:29:28 +0200"
-    },
-    {
-      "title": "Harry Styles gibt im Juli 2027 zwei Konzerte in Berlin",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/09/harry-styles-berlin-juli-2027-zwei-konzerte.html",
-      "date": "Thu, 10 Sep 2026 15:41:53 +0200"
-    },
-    {
-      "title": "Brandenburger Energieministerin hält an E-Kerosin-Projekt in Schwedt fest",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/09/brandenburg-e-kerosin-schwedt-uckermark-projekt-geht-weiter.html",
-      "date": "Thu, 10 Sep 2026 15:20:04 +0200"
-    },
-    {
-      "title": "Klinikum Bernau stoppt Aufnahme für Geburten am Freitagnachmittag",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/aufnahmestopp-immanuel-krankenhaus-bernau-vorverlegt-barnim.html",
-      "date": "Thu, 10 Sep 2026 15:10:20 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,16 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Westlicher Berliner S-Bahnring ab Freitagmorgen gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-s-bahn-ring-unterbrochen-halensee-beusselstrasse.html",
+      "date": "Thu, 10 Sep 2026 19:54:40 +0200"
+    },
+    {
+      "title": "Ludwigsfelde: Erneut Freischneide-Geräte bei Feuerwehr gestohlen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/diebstaehle-feuerwehr.html",
+      "date": "Thu, 10 Sep 2026 18:58:21 +0200"
+    },
+    {
       "title": "Sabotage an Stromnetz: Bundesanwaltschaft übernimmt Ermittlungen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/sabotage-stromnetze-tatverdaechtiger-vorerst-nicht-nach-cottbus.html",
       "date": "Thu, 10 Sep 2026 17:34:49 +0200"
@@ -176,16 +186,6 @@
       "title": "Bau neuer Gaskraftwerke: Leag bewirbt sich mit mehreren Standorten",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-gaskraftwerke-bewerbung-leag.html",
       "date": "Thu, 10 Sep 2026 11:12:00 +0200"
-    },
-    {
-      "title": "Berliner Tiergarten: CSD-Gedenkort soll besser geschützt werden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/csd-gedenkort-besserer-schut-berlin.html",
-      "date": "Thu, 10 Sep 2026 10:19:47 +0200"
-    },
-    {
-      "title": "25 Jahre Jüdisches Museum: Interview mit Cilly Kugelmann",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/interview-cilly-kugelmann-juedisches-museum-berlin.html",
-      "date": "Thu, 10 Sep 2026 06:18:45 +0200"
     }
   ]
 }
