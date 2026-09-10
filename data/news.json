@@ -1,67 +1,82 @@
 {
   "traffic": [
     {
+      "title": "SPD-Spitzenkandidat Krach will weiter Wahlkampf machen",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/spd-steffen-krach-ermittlungen-pressekonferenz.html",
+      "date": "Thu, 10 Sep 2026 14:19:36 +0200"
+    },
+    {
+      "title": "Schlechte Pisa-Ergebnisse: Warum Druck, Stress und Mobbing sich aufs Lernen auswirken",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/interview-pisa-ergebnisse-susanne-mierau-schulen-kinder.html",
+      "date": "Thu, 10 Sep 2026 14:02:43 +0200"
+    },
+    {
+      "title": "American Football: Potsdam Royals starten mit 290:0-Serie in Playoffs",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/german-bowl-football-league-plyaoffs-potsdam-royals-regensburg.html",
+      "date": "Thu, 10 Sep 2026 14:00:07 +0200"
+    },
+    {
       "title": "Stahnsdorfer Südwestkirchhof: Wildschweine auf Friedhof gelockt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/vandalismus-friedhof-stahnsdorf-suedwestkirchhof.html",
-      "date": "Thu, 10 Sep 2026 08:30:12 +0200"
+      "date": "Thu, 10 Sep 2026 13:55:32 +0200"
+    },
+    {
+      "title": "Große Wohnungen: Senioren hätten es oft gern kleiner",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/bvv/Steglitz-zehlendorf-senioren-wohnen.html",
+      "date": "Thu, 10 Sep 2026 13:02:08 +0200"
+    },
+    {
+      "title": "Brandenburg: CDU Großbeeren schreibt Brandbrief an Kanzler Merz",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/09/cdu-hochburg-grossbeeren-brandenburg-kanzler-merz-brandbrief.html",
+      "date": "Thu, 10 Sep 2026 11:41:27 +0200"
+    },
+    {
+      "title": "Berlin: Staatsbesuch führt zu Verkehrseinschränkungen",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/09/berlin-staatsbesuch-mohammed-bin-zayed-breitscheidplatz.html",
+      "date": "Thu, 10 Sep 2026 11:33:20 +0200"
     },
     {
       "title": "Berliner SPD-Spitzenkandidat: Staatsanwaltschaft Hannover ermittelt gegen Steffen Krach",
       "link": "https://www.rbb24.de/politik/beitrag/2026/09/staatsanwaltschaft-hannover-ermittlungen-steffen-krach.html",
-      "date": "Thu, 10 Sep 2026 07:20:26 +0200"
+      "date": "Thu, 10 Sep 2026 11:27:03 +0200"
     },
     {
-      "title": "Welchen Einfluss kann \"NOlympia\" auf die Berliner Bewerbung haben?",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/berlin-sport-olympische-spiele-bewerbung-gegner-nolympia-volksentscheid-politik.html",
-      "date": "Thu, 10 Sep 2026 06:20:19 +0200"
+      "title": "Berliner Beachvolleyball-Duo Ehlers/Wickler trennt sich",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/beachvolleyball-berlin-nils-ehlers-clemens-wickler-olympia-trennung.html",
+      "date": "Thu, 10 Sep 2026 11:13:31 +0200"
     },
     {
-      "title": "25 Jahre Jüdisches Museum: Interview mit Cilly Kugelmann",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/interview-cilly-kugelmann-juedisches-museum-berlin.html",
-      "date": "Thu, 10 Sep 2026 06:18:45 +0200"
+      "title": "Bau neuer Gaskraftwerke: Leag bewirbt sich mit mehreren Standorten",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-gaskraftwerke-bewerbung-leag.html",
+      "date": "Thu, 10 Sep 2026 11:12:00 +0200"
     },
     {
-      "title": "Nach Stromnetz-Angriff: Sabotage-Verdächtiger kommt in Untersuchungshaft",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/stromnetz-sabotage-polizei-festnahme-untersuchungshaft-brandenburg-fahndung.html",
-      "date": "Wed, 09 Sep 2026 18:10:38 +0200"
+      "title": "Berliner Tiergarten: CSD-Gedenkort soll besser geschützt werden",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/csd-gedenkort-besserer-schut-berlin.html",
+      "date": "Thu, 10 Sep 2026 10:19:47 +0200"
     },
     {
-      "title": "Zweite Anklage erhoben - wegen Beihilfe zum versuchten Mord",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-holocaust-mahnmal-attacke-zweite-anklage.html",
-      "date": "Wed, 09 Sep 2026 17:51:37 +0200"
-    },
-    {
-      "title": "Neuer Ausbildungspreis für engagierte Azubis und Betriebe verliehen",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/09/ausbildungspreis-marzahn-maerkisch-oderland.html",
-      "date": "Wed, 09 Sep 2026 17:36:13 +0200"
-    },
-    {
-      "title": "Sonderkreistag Elbe-Elster soll Fragen zur Zukunft der Krankenhauslandschaft klären",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-krankenhaus-elbe-elster-sonderkreistag.html",
-      "date": "Wed, 09 Sep 2026 17:07:13 +0200"
-    },
-    {
-      "title": "Treptow-Köpenick vor der Wahl: Bescheiden beschient",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/bvv/treptow-koepenick-bezirk-bus-bahn-tram-tvo.html",
-      "date": "Wed, 09 Sep 2026 16:43:52 +0200"
-    },
-    {
-      "title": "Berlin: Staatsbesuch führt zu Verkehrssperrungen",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/09/berlin-staatsbesuch-mohammed-bin-zayed-breitscheidplatz.html",
-      "date": "Wed, 09 Sep 2026 15:56:08 +0200"
-    },
-    {
-      "title": "Berlin-Wahl: Charlottenburg-Wilmersdorf verschickt falsche Stimmzettel",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahl-charlottenburg-wilmersdorf-falsche-stimmzettel.html",
-      "date": "Wed, 09 Sep 2026 15:39:42 +0200"
-    },
-    {
-      "title": "Menschlicher Schädel in Königs-Wusterhausen gefunden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/schaedel-fund-koenigs-wusterhausen.html",
-      "date": "Wed, 09 Sep 2026 15:35:51 +0200"
+      "title": "DFB-Pokal: Zweitrunden-Termine für Union und Hertha stehen fest",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/ansetzungen-dfb-pokal-2-hauptrunde-union-hertha-terminierung.html",
+      "date": "Thu, 10 Sep 2026 10:15:30 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Angriff auf Vollstreckungsbeamte – DEIG Einsatz",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712485.php",
+      "date": "Thu, 10 Sep 2026 13:42:34 +0200"
+    },
+    {
+      "title": "Unbekannter Toter - Polizei Berlin bittet um Mithilfe",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712424.php",
+      "date": "Thu, 10 Sep 2026 12:12:40 +0200"
+    },
+    {
+      "title": "31 Verletzte nach Reizgaseinsatz in Jugendherberge",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712418.php",
+      "date": "Thu, 10 Sep 2026 12:08:54 +0200"
+    },
     {
       "title": "Einsatzfahrt abgebrochen – Mann verletzt Mitarbeiter der Feuerwehr",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712072.php",
@@ -106,21 +121,6 @@
       "title": "Jugendlicher geschlagen und homophob beleidigt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1711498.php",
       "date": "Tue, 08 Sep 2026 12:34:59 +0200"
-    },
-    {
-      "title": "Brand in einem Restaurant",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1711488.php",
-      "date": "Tue, 08 Sep 2026 12:23:35 +0200"
-    },
-    {
-      "title": "Autofahrer fährt gegen Gebäudewand",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1711359.php",
-      "date": "Tue, 08 Sep 2026 09:47:33 +0200"
-    },
-    {
-      "title": "Vermisste 36-jährige Frau wieder da",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1711089.php",
-      "date": "Tue, 08 Sep 2026 01:10:00 +0200"
     }
   ],
   "free_events": [],
@@ -128,14 +128,34 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Stahnsdorfer Südwestkirchhof: Wildschweine auf Friedhof gelockt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/vandalismus-friedhof-stahnsdorf-suedwestkirchhof.html",
-      "date": "Thu, 10 Sep 2026 08:30:12 +0200"
+      "title": "Schlechte Pisa-Ergebnisse: Warum Druck, Stress und Mobbing sich aufs Lernen auswirken",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/interview-pisa-ergebnisse-susanne-mierau-schulen-kinder.html",
+      "date": "Thu, 10 Sep 2026 14:02:43 +0200"
     },
     {
-      "title": "Warntag am 10. September: Wenn flächendeckend die Sirenen heulen",
+      "title": "Stahnsdorfer Südwestkirchhof: Wildschweine auf Friedhof gelockt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/vandalismus-friedhof-stahnsdorf-suedwestkirchhof.html",
+      "date": "Thu, 10 Sep 2026 13:55:32 +0200"
+    },
+    {
+      "title": "Warntag: Alarmsysteme bundesweit für den Ernstfall getestet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/warntag-katastrophenschutz-uebung-sirenen-berlin-brandenburg.html",
-      "date": "Thu, 10 Sep 2026 07:29:38 +0200"
+      "date": "Thu, 10 Sep 2026 11:55:49 +0200"
+    },
+    {
+      "title": "Bau neuer Gaskraftwerke: Leag bewirbt sich mit mehreren Standorten",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-gaskraftwerke-bewerbung-leag.html",
+      "date": "Thu, 10 Sep 2026 11:12:00 +0200"
+    },
+    {
+      "title": "Berliner Tiergarten: CSD-Gedenkort soll besser geschützt werden",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/csd-gedenkort-besserer-schut-berlin.html",
+      "date": "Thu, 10 Sep 2026 10:19:47 +0200"
+    },
+    {
+      "title": "Berliner Verwaltungsgericht entscheidet über Kurzzeitvermietungen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-verwaltungsgericht-kurzzeitvermietung.html",
+      "date": "Thu, 10 Sep 2026 09:57:47 +0200"
     },
     {
       "title": "25 Jahre Jüdisches Museum: Interview mit Cilly Kugelmann",
@@ -166,26 +186,6 @@
       "title": "Sabotage am Stromnetz: Polizei nimmt Verdächtigen bei Aachen fest",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/strom-sabotage-polizei-festnahme-stromnetz-brandenburg-fahndung.html",
       "date": "Wed, 09 Sep 2026 16:30:57 +0200"
-    },
-    {
-      "title": "Menschlicher Schädel in Königs-Wusterhausen gefunden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/schaedel-fund-koenigs-wusterhausen.html",
-      "date": "Wed, 09 Sep 2026 15:35:51 +0200"
-    },
-    {
-      "title": "Tomatendiebstahl führt Polizei zu Mann mit offenem Haftbefehl",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-elsterwerda-gemuese-gestohlen.html",
-      "date": "Wed, 09 Sep 2026 15:16:44 +0200"
-    },
-    {
-      "title": "Berliner East Side Gallery wird in den kommenden Monaten saniert",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-east-side-gallery-mauer-kreuzberg-friedrichshain-saniert.html",
-      "date": "Wed, 09 Sep 2026 15:08:39 +0200"
-    },
-    {
-      "title": "Bahnfahrt Berlin-Hannover dauert ab Oktober 80 Minuten länger",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/bahn-berlin-hannover-80-minuten-mehr-fahrzeit.html",
-      "date": "Wed, 09 Sep 2026 15:04:26 +0200"
     }
   ]
 }
