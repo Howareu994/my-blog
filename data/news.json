@@ -1,19 +1,24 @@
 {
   "traffic": [
     {
+      "title": "Stahnsdorfer Südwestkirchhof: Wildschweine auf Friedhof gelockt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/vandalismus-friedhof-stahnsdorf-suedwestkirchhof.html",
+      "date": "Thu, 10 Sep 2026 08:30:12 +0200"
+    },
+    {
       "title": "Berliner SPD-Spitzenkandidat: Staatsanwaltschaft Hannover ermittelt gegen Steffen Krach",
       "link": "https://www.rbb24.de/politik/beitrag/2026/09/staatsanwaltschaft-hannover-ermittlungen-steffen-krach.html",
-      "date": "Thu, 10 Sep 2026 00:12:24 +0200"
+      "date": "Thu, 10 Sep 2026 07:20:26 +0200"
     },
     {
-      "title": "Sport-Staatsminister Rauhe: \"Olympische Spiele sind fast unbezahlbar\"",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/sport-interview-staatsminister-ronald-rauhe-olympische-spiele-berlin-foerderung-ehrenamt.html",
-      "date": "Wed, 09 Sep 2026 20:41:55 +0200"
+      "title": "Welchen Einfluss kann \"NOlympia\" auf die Berliner Bewerbung haben?",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/berlin-sport-olympische-spiele-bewerbung-gegner-nolympia-volksentscheid-politik.html",
+      "date": "Thu, 10 Sep 2026 06:20:19 +0200"
     },
     {
-      "title": "Stahnsdorfer Südwestkirchhof: Zäune aufgeschnitten und Wildschweine auf Friedhof gelockt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/vandalismus-friedhof-stahnsdorf-suedwestkirchhof.html",
-      "date": "Wed, 09 Sep 2026 20:31:21 +0200"
+      "title": "25 Jahre Jüdisches Museum: Interview mit Cilly Kugelmann",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/interview-cilly-kugelmann-juedisches-museum-berlin.html",
+      "date": "Thu, 10 Sep 2026 06:18:45 +0200"
     },
     {
       "title": "Nach Stromnetz-Angriff: Sabotage-Verdächtiger kommt in Untersuchungshaft",
@@ -29,11 +34,6 @@
       "title": "Neuer Ausbildungspreis für engagierte Azubis und Betriebe verliehen",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/09/ausbildungspreis-marzahn-maerkisch-oderland.html",
       "date": "Wed, 09 Sep 2026 17:36:13 +0200"
-    },
-    {
-      "title": "Olympia: Finanzexperte über mögliche Kosten und Einnahmen",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/olympia-interview-finanz-experte-arne-westermann-olympische-spiele-berlin-kosten-wirtschaft.html",
-      "date": "Wed, 09 Sep 2026 17:18:24 +0200"
     },
     {
       "title": "Sonderkreistag Elbe-Elster soll Fragen zur Zukunft der Krankenhauslandschaft klären",
@@ -128,14 +128,24 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Stahnsdorfer Südwestkirchhof: Wildschweine auf Friedhof gelockt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/vandalismus-friedhof-stahnsdorf-suedwestkirchhof.html",
+      "date": "Thu, 10 Sep 2026 08:30:12 +0200"
+    },
+    {
+      "title": "Warntag am 10. September: Wenn flächendeckend die Sirenen heulen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/warntag-katastrophenschutz-uebung-sirenen-berlin-brandenburg.html",
+      "date": "Thu, 10 Sep 2026 07:29:38 +0200"
+    },
+    {
+      "title": "25 Jahre Jüdisches Museum: Interview mit Cilly Kugelmann",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/interview-cilly-kugelmann-juedisches-museum-berlin.html",
+      "date": "Thu, 10 Sep 2026 06:18:45 +0200"
+    },
+    {
       "title": "Ab 2027: Personalausweis kommt mit \"d-you\"-App aufs Smartphone",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/personalausweis-digital-smartphone-app-dyou.html",
       "date": "Wed, 09 Sep 2026 21:43:46 +0200"
-    },
-    {
-      "title": "Stahnsdorfer Südwestkirchhof: Zäune aufgeschnitten und Wildschweine auf Friedhof gelockt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/vandalismus-friedhof-stahnsdorf-suedwestkirchhof.html",
-      "date": "Wed, 09 Sep 2026 20:31:21 +0200"
     },
     {
       "title": "Nach Stromnetz-Angriff: Sabotage-Verdächtiger kommt in Untersuchungshaft",
@@ -176,16 +186,6 @@
       "title": "Bahnfahrt Berlin-Hannover dauert ab Oktober 80 Minuten länger",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/bahn-berlin-hannover-80-minuten-mehr-fahrzeit.html",
       "date": "Wed, 09 Sep 2026 15:04:26 +0200"
-    },
-    {
-      "title": "\"Wenn Männer Kinder kriegten, hätten wir Kreißsäle aus Gold\"",
-      "link": "https://www.rbb24.de/panorama/thema/wiegehtesuns/hebamme-ruedersdorf-schliessungen-gebaerende-frauengesundheit.html",
-      "date": "Wed, 09 Sep 2026 14:17:33 +0200"
-    },
-    {
-      "title": "Hochwasser: Katastrophenschutzübung in Südbrandenburger Landkreisen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-uebung-hochwasser-elbe-elster-oberspreewald-lausitz.html",
-      "date": "Wed, 09 Sep 2026 13:14:58 +0200"
     }
   ]
 }
