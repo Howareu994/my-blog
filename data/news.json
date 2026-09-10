@@ -1,9 +1,24 @@
 {
   "traffic": [
     {
+      "title": "Staatsanwaltschaft ermittelt in drei Fällen gegen SPD-Spitzenkandidat Krach",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/steffen-krach-spd-ermittlungen-drei-faelle-staatsanwaltschaft.html",
+      "date": "Thu, 10 Sep 2026 23:05:19 +0200"
+    },
+    {
+      "title": "Siegerentwurf für Neugestaltung des Checkpoints Charlie in Berlin steht fest",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/09/checkpoint-charlie-neugestaltung-bildungs-erinnerungsort-berlin.html",
+      "date": "Thu, 10 Sep 2026 23:01:37 +0200"
+    },
+    {
       "title": "Neue Verbindung nach Dubai: Emirates darf Flughafen BER ansteuern",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/09/flughafen-ber-langstreckenverbindung-berlin-dubai.html",
-      "date": "Thu, 10 Sep 2026 20:50:26 +0200"
+      "date": "Thu, 10 Sep 2026 21:40:22 +0200"
+    },
+    {
+      "title": "Regionalliga Nordost: BFC-Angreifer Dadashov wird zum Matchwinner gegen Tasmania",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/berlin-fussball-regionalliga-nordost-bfc-dynamo-tasmania.html",
+      "date": "Thu, 10 Sep 2026 21:28:33 +0200"
     },
     {
       "title": "Staatsbesuch führt zu Verkehrseinschränkungen in Berlin",
@@ -44,21 +59,6 @@
       "title": "BerlinTrend: Linke liegt knapp vor CDU",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlintrend-september-umfrage-wahl-abgeordnetenhaus.html",
       "date": "Thu, 10 Sep 2026 18:00:02 +0200"
-    },
-    {
-      "title": "Sabotage an Stromnetz: Bundesanwaltschaft übernimmt Ermittlungen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/sabotage-stromnetze-tatverdaechtiger-vorerst-nicht-nach-cottbus.html",
-      "date": "Thu, 10 Sep 2026 17:34:49 +0200"
-    },
-    {
-      "title": "In Cottbus wurde ein neues Zentrum für Strukturwandel eröffnet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-cottbus-zentrumfrstrukturwandel-eroeffnet.html",
-      "date": "Thu, 10 Sep 2026 16:59:01 +0200"
-    },
-    {
-      "title": "American Football: Potsdam Royals starten mit 290:0-Serie in Playoffs",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/german-bowl-football-league-plyaoffs-potsdam-royals-regensburg.html",
-      "date": "Thu, 10 Sep 2026 16:36:30 +0200"
     }
   ],
   "police": [
