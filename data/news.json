@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Westlicher Berliner S-Bahnring seit Freitagmorgen gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-s-bahn-ring-unterbrochen-halensee-beusselstrasse.html",
+      "date": "Fri, 11 Sep 2026 07:21:08 +0200"
+    },
+    {
       "title": "Staatsanwaltschaft ermittelt in drei Fällen gegen SPD-Spitzenkandidat Krach",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/steffen-krach-spd-ermittlungen-drei-faelle-staatsanwaltschaft.html",
       "date": "Thu, 10 Sep 2026 23:05:19 +0200"
@@ -24,11 +29,6 @@
       "title": "Staatsbesuch führt zu Verkehrseinschränkungen in Berlin",
       "link": "https://www.rbb24.de/politik/beitrag/2026/09/berlin-staatsbesuch-mohammed-bin-zayed-breitscheidplatz.html",
       "date": "Thu, 10 Sep 2026 20:21:22 +0200"
-    },
-    {
-      "title": "Westlicher Berliner S-Bahnring ab Freitagmorgen gesperrt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-s-bahn-ring-unterbrochen-halensee-beusselstrasse.html",
-      "date": "Thu, 10 Sep 2026 19:54:40 +0200"
     },
     {
       "title": "93:74-Sieg gegen Belgien: Deutsche Basketball-Frauen im WM-Halbfinale",
@@ -128,9 +128,9 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Westlicher Berliner S-Bahnring ab Freitagmorgen gesperrt",
+      "title": "Westlicher Berliner S-Bahnring seit Freitagmorgen gesperrt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-s-bahn-ring-unterbrochen-halensee-beusselstrasse.html",
-      "date": "Thu, 10 Sep 2026 19:54:40 +0200"
+      "date": "Fri, 11 Sep 2026 07:21:08 +0200"
     },
     {
       "title": "Ludwigsfelde: Erneut Freischneide-Geräte bei Feuerwehr gestohlen",
