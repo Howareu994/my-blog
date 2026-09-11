@@ -1,9 +1,39 @@
 {
   "traffic": [
     {
+      "title": "Mutmaßliche Vergewaltigung in Jugendclub: Kommission sieht Behördenfehler",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/kommission-jugendclub-berlin-neukoelln-mutmassliche-vergewaltigung.html",
+      "date": "Fri, 11 Sep 2026 15:26:35 +0200"
+    },
+    {
+      "title": "Läden und Gastro sollen künftig Kartenzahlung anbieten müssen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/kartenzahlung-pflicht-geschaefte-gastronomie-restaurants.html",
+      "date": "Fri, 11 Sep 2026 15:02:46 +0200"
+    },
+    {
+      "title": "Rani Khedira verlässt tunesische Nationalmannschaft",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/fussball-bundesliga-union-berlin-rani-khedira-ruecktritt-nationalmannschaft-tunesien.html",
+      "date": "Fri, 11 Sep 2026 14:58:56 +0200"
+    },
+    {
+      "title": "Anschlagsplan: Mutmaßliche Hamas-Mitglieder in Berlin angeklagt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-waffen-beschaffer-anklage-bundesanwaltschaft-terror-organisation-hamas.html",
+      "date": "Fri, 11 Sep 2026 14:00:41 +0200"
+    },
+    {
+      "title": "DFB plant Bundestag im Dezember: Regionalliga-Reform soll kommen",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/fussball-regionalliga-reform-dfb-abstimmung-kompassmodell-bundestag-dezember.html",
+      "date": "Fri, 11 Sep 2026 13:30:55 +0200"
+    },
+    {
+      "title": "Oder-Spree: Neuer Bahnhof in Fangschleuse am Freitag offiziell eingeweiht",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/neuer-bahnhof-fangschleuse-eroeffnung.html",
+      "date": "Fri, 11 Sep 2026 13:03:00 +0200"
+    },
+    {
       "title": "Neue Verbindung nach Dubai: Emirates darf Flughafen BER ansteuern",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/09/flughafen-ber-langstreckenverbindung-berlin-dubai.html",
-      "date": "Fri, 11 Sep 2026 12:10:33 +0200"
+      "date": "Fri, 11 Sep 2026 12:18:56 +0200"
     },
     {
       "title": "Berlin: Polizei sucht Schützen nach Schüssen in Adlershof",
@@ -29,39 +59,19 @@
       "title": "Erasmus im Handwerk: Brandenburger Azubis sammeln Erfahrungen im Ausland",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/09/brandenburg-erasmus-handwerk-azubis-erfahrungen-ausland.html",
       "date": "Fri, 11 Sep 2026 08:48:06 +0200"
-    },
-    {
-      "title": "Zwei 17-Jährige wegen Anschlagsplänen gegen Oberschule in Perleberg angeklagt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/perleberg-anklage-anschlag-oberschule-17-jaehrige-prignitz.html",
-      "date": "Fri, 11 Sep 2026 08:34:29 +0200"
-    },
-    {
-      "title": "Nach Hackerangriff: Anlaufstelle für Berliner Bürger und Firmen eingerichtet",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/09/berlin-hacker-angriff-anlaufstelle-eingerichtet-betroffene-buerger-senat.html",
-      "date": "Fri, 11 Sep 2026 08:16:17 +0200"
-    },
-    {
-      "title": "Sicherheitspolitik seit 9/11 und wie Terrorismus reagiert",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/09/9-11-september-folgen-sicherheitspolitik-terrorismus-massnahmen.html",
-      "date": "Fri, 11 Sep 2026 07:32:14 +0200"
-    },
-    {
-      "title": "Westlicher Berliner S-Bahnring seit Freitagmorgen gesperrt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-s-bahn-ring-unterbrochen-halensee-beusselstrasse.html",
-      "date": "Fri, 11 Sep 2026 07:21:08 +0200"
-    },
-    {
-      "title": "Siegerentwurf für Neugestaltung des Checkpoints Charlie in Berlin steht fest",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/09/checkpoint-charlie-neugestaltung-bildungs-erinnerungsort-berlin.html",
-      "date": "Thu, 10 Sep 2026 23:01:37 +0200"
-    },
-    {
-      "title": "Regionalliga Nordost: BFC-Angreifer Dadashov wird zum Matchwinner gegen Tasmania",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/berlin-fussball-regionalliga-nordost-bfc-dynamo-tasmania.html",
-      "date": "Thu, 10 Sep 2026 21:28:33 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Toter identifiziert",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712424.php",
+      "date": "Fri, 11 Sep 2026 15:03:00 +0200"
+    },
+    {
+      "title": "Polizei Berlin lädt zum 45. Tag der offenen Tür ein",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713049.php",
+      "date": "Fri, 11 Sep 2026 14:15:21 +0200"
+    },
     {
       "title": "Mann durch Schüsse verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712872.php",
@@ -88,11 +98,6 @@
       "date": "Thu, 10 Sep 2026 13:42:34 +0200"
     },
     {
-      "title": "Unbekannter Toter - Polizei Berlin bittet um Mithilfe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712424.php",
-      "date": "Thu, 10 Sep 2026 12:12:40 +0200"
-    },
-    {
       "title": "31 Verletzte nach Reizgaseinsatz in Jugendherberge",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712418.php",
       "date": "Thu, 10 Sep 2026 12:08:54 +0200"
@@ -116,17 +121,42 @@
       "title": "Queere Person angegriffen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712011.php",
       "date": "Wed, 09 Sep 2026 14:51:12 +0200"
-    },
-    {
-      "title": "Wahlplakate durch Feuer beschädigt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1711566.php",
-      "date": "Tue, 08 Sep 2026 14:22:26 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Mutmaßliche Vergewaltigung in Jugendclub: Kommission sieht Behördenfehler",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/kommission-jugendclub-berlin-neukoelln-mutmassliche-vergewaltigung.html",
+      "date": "Fri, 11 Sep 2026 15:26:35 +0200"
+    },
+    {
+      "title": "Läden und Gastro sollen künftig Kartenzahlung anbieten müssen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/kartenzahlung-pflicht-geschaefte-gastronomie-restaurants.html",
+      "date": "Fri, 11 Sep 2026 15:02:46 +0200"
+    },
+    {
+      "title": "Anschlagsplan: Mutmaßliche Hamas-Mitglieder in Berlin angeklagt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-waffen-beschaffer-anklage-bundesanwaltschaft-terror-organisation-hamas.html",
+      "date": "Fri, 11 Sep 2026 14:00:41 +0200"
+    },
+    {
+      "title": "Geplante RE1 Sperrung ab 2029 soll verkürzt werden",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/bahn-sperrung-re1-verkuerzt.html",
+      "date": "Fri, 11 Sep 2026 13:51:38 +0200"
+    },
+    {
+      "title": "Ab Oktober: RE4-Strecke für 14 Monate gesperrt – statt wie erst geplant für zwei",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/re4-bahn-streckensperrung-frust-havelland.html",
+      "date": "Fri, 11 Sep 2026 13:47:00 +0200"
+    },
+    {
+      "title": "Oder-Spree: Neuer Bahnhof in Fangschleuse am Freitag offiziell eingeweiht",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/neuer-bahnhof-fangschleuse-eroeffnung.html",
+      "date": "Fri, 11 Sep 2026 13:03:00 +0200"
+    },
     {
       "title": "Berlin: Polizei sucht Schützen nach Schüssen in Adlershof",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-adlershof-polizei-schuesse-taeter-fahndung.html",
@@ -156,36 +186,6 @@
       "title": "Westlicher Berliner S-Bahnring seit Freitagmorgen gesperrt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-s-bahn-ring-unterbrochen-halensee-beusselstrasse.html",
       "date": "Fri, 11 Sep 2026 07:21:08 +0200"
-    },
-    {
-      "title": "Ludwigsfelde: Erneut Freischneide-Geräte bei Feuerwehr gestohlen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/diebstaehle-feuerwehr.html",
-      "date": "Thu, 10 Sep 2026 18:58:21 +0200"
-    },
-    {
-      "title": "Sabotage an Stromnetz: Bundesanwaltschaft übernimmt Ermittlungen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/sabotage-stromnetze-tatverdaechtiger-vorerst-nicht-nach-cottbus.html",
-      "date": "Thu, 10 Sep 2026 17:34:49 +0200"
-    },
-    {
-      "title": "In Cottbus wurde ein neues Zentrum für Strukturwandel eröffnet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-cottbus-zentrumfrstrukturwandel-eroeffnet.html",
-      "date": "Thu, 10 Sep 2026 16:59:01 +0200"
-    },
-    {
-      "title": "Berliner Bezirke dürfen Kurzzeitvermietungen verbieten",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-verwaltungsgericht-kurzzeitvermietung.html",
-      "date": "Thu, 10 Sep 2026 16:29:28 +0200"
-    },
-    {
-      "title": "Klinikum Bernau stoppt Aufnahme für Geburten am Freitagnachmittag",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/aufnahmestopp-immanuel-krankenhaus-bernau-vorverlegt-barnim.html",
-      "date": "Thu, 10 Sep 2026 15:10:20 +0200"
-    },
-    {
-      "title": "Potsdam: Mann im Krankenfahrstuhl rast alkoholisiert an Polizeistreife vorbei",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/alkoholisiert-krankenfahrstuhl-raser-polizei-potsdam.html",
-      "date": "Thu, 10 Sep 2026 14:58:56 +0200"
     }
   ]
 }
