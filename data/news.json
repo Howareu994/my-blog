@@ -1,6 +1,36 @@
 {
   "traffic": [
     {
+      "title": "Fußball-Bundesliga: Schwaches Union verliert auch gegen Schalke",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/fussball-bundesliga-union-berlin-schalke-04-audiostream-liveticker-sportschau-spielbericht.html",
+      "date": "Fri, 11 Sep 2026 23:05:51 +0200"
+    },
+    {
+      "title": "Männer- und Frauenteams von Alba Berlin verlieren Testspiel",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/basketball-testspiel-alba-berlin-maenner-frauen-baskonia-keltern.html",
+      "date": "Fri, 11 Sep 2026 22:58:18 +0200"
+    },
+    {
+      "title": "Eisbären feiern ersten Sieg in der Champions Hockey League",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/eishockey-chl-eisbaeren-berlin-graz.html",
+      "date": "Fri, 11 Sep 2026 22:40:47 +0200"
+    },
+    {
+      "title": "VSG Altglienicke verliert zuhause, RSV Eintracht kassiert Packung",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/fussball-regionalliga-nordost-erfurt-rsv-eintracht-stahnsdorf-vsg-altglienicke-chemnitz-spielbericht.html",
+      "date": "Fri, 11 Sep 2026 21:48:12 +0200"
+    },
+    {
+      "title": "House of Games in Berlin: Erste Mieter ziehen im Dezember ein",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/09/house-of-games-berlin-mieter-einzug-dezember-2026.html",
+      "date": "Fri, 11 Sep 2026 21:01:48 +0200"
+    },
+    {
+      "title": "Demo für Zusammenhalt führt zu Verkehrseinschränkungen in Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-sterndemo-gesellschaftlicher-zusammenhalt.html",
+      "date": "Fri, 11 Sep 2026 20:48:53 +0200"
+    },
+    {
       "title": "Wahl in Mecklenburg-Vorpommern: Brandenburger Déjà-vu?",
       "link": "https://www.rbb24.de/politik/beitrag/2026/09/brandenburg-politiker-zu-wahl-in-mecklenburg-vorpommern.html",
       "date": "Fri, 11 Sep 2026 18:36:01 +0200"
@@ -29,36 +59,6 @@
       "title": "Reinickendorf vor der Berlin-Wahl: Die Armut zieht nach außen",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/bvv/reinickendorf-armut-bekaempfung-familien-hilfe.html",
       "date": "Fri, 11 Sep 2026 16:55:37 +0200"
-    },
-    {
-      "title": "Hertha-Coach Leitl setzt auf Klemens als Seguin-Ersatz",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/fussball-zweite-bundesliga-hertha-bsc-vfl-osnabrueck-vorbericht-leitl-pk-seguin-sperre.html",
-      "date": "Fri, 11 Sep 2026 16:15:19 +0200"
-    },
-    {
-      "title": "Mutmaßliche Vergewaltigung in Jugendclub: Kommission sieht Behördenfehler",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/kommission-jugendclub-berlin-neukoelln-mutmassliche-vergewaltigung.html",
-      "date": "Fri, 11 Sep 2026 15:26:35 +0200"
-    },
-    {
-      "title": "Läden und Gastro sollen künftig Kartenzahlung anbieten müssen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/kartenzahlung-pflicht-geschaefte-gastronomie-restaurants.html",
-      "date": "Fri, 11 Sep 2026 15:02:46 +0200"
-    },
-    {
-      "title": "Rani Khedira verlässt tunesische Nationalmannschaft",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/fussball-bundesliga-union-berlin-rani-khedira-ruecktritt-nationalmannschaft-tunesien.html",
-      "date": "Fri, 11 Sep 2026 14:58:56 +0200"
-    },
-    {
-      "title": "DFB plant Bundestag im Dezember: Regionalliga-Reform soll kommen",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/fussball-regionalliga-reform-dfb-abstimmung-kompassmodell-bundestag-dezember.html",
-      "date": "Fri, 11 Sep 2026 13:30:55 +0200"
-    },
-    {
-      "title": "Oder-Spree: Neuer Bahnhof in Fangschleuse am Freitag offiziell eingeweiht",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/neuer-bahnhof-fangschleuse-eroeffnung.html",
-      "date": "Fri, 11 Sep 2026 13:03:00 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Demo für Zusammenhalt führt zu Verkehrseinschränkungen in Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-sterndemo-gesellschaftlicher-zusammenhalt.html",
+      "date": "Fri, 11 Sep 2026 20:48:53 +0200"
+    },
+    {
       "title": "Asbest-Belastung: Howoge räumt rund 100 Wohnungen in High-Deck-Siedlung",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-neukoelln-high-deck-siedlung-howoge-raeumt-wohnungen-asbest.html",
       "date": "Fri, 11 Sep 2026 18:34:11 +0200"
@@ -181,11 +186,6 @@
       "title": "Warntag: Alarmsysteme bundesweit für den Ernstfall getestet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/warntag-katastrophenschutz-uebung-sirenen-berlin-brandenburg.html",
       "date": "Fri, 11 Sep 2026 11:43:34 +0200"
-    },
-    {
-      "title": "Unbekannte sprühen Reizgas in Klassenraum und Jugendherberge in Berlin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-pankow-attacke-reizspray-klassenraum-mitte-jugendherberge.html",
-      "date": "Fri, 11 Sep 2026 11:31:55 +0200"
     }
   ]
 }
