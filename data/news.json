@@ -1,14 +1,54 @@
 {
   "traffic": [
     {
-      "title": "Westlicher Berliner S-Bahnring seit Freitagmorgen gesperrt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-s-bahn-ring-unterbrochen-halensee-beusselstrasse.html",
-      "date": "Fri, 11 Sep 2026 07:21:08 +0200"
+      "title": "Neue Verbindung nach Dubai: Emirates darf Flughafen BER ansteuern",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/09/flughafen-ber-langstreckenverbindung-berlin-dubai.html",
+      "date": "Fri, 11 Sep 2026 12:10:33 +0200"
+    },
+    {
+      "title": "Berlin: Polizei sucht Schützen nach Schüssen in Adlershof",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-adlershof-polizei-schuesse-taeter-fahndung.html",
+      "date": "Fri, 11 Sep 2026 11:51:13 +0200"
+    },
+    {
+      "title": "Unbekannte sprühen Reizgas in Klassenraum und Jugendherberge in Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-pankow-attacke-reizspray-klassenraum-mitte-jugendherberge.html",
+      "date": "Fri, 11 Sep 2026 11:31:55 +0200"
+    },
+    {
+      "title": "Olympia: Konzepte von Berlin, München und \"KölnRheinRuhr\" im Vergleich",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/berlin-sport-olympia-bewerbung-muenchen-koelnrheinruhr-konzepte-vergleich.html",
+      "date": "Fri, 11 Sep 2026 11:01:36 +0200"
     },
     {
       "title": "Staatsanwaltschaft ermittelt in drei Fällen gegen SPD-Spitzenkandidat Krach",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/steffen-krach-spd-ermittlungen-drei-faelle-staatsanwaltschaft.html",
-      "date": "Thu, 10 Sep 2026 23:05:19 +0200"
+      "date": "Fri, 11 Sep 2026 10:03:02 +0200"
+    },
+    {
+      "title": "Erasmus im Handwerk: Brandenburger Azubis sammeln Erfahrungen im Ausland",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/09/brandenburg-erasmus-handwerk-azubis-erfahrungen-ausland.html",
+      "date": "Fri, 11 Sep 2026 08:48:06 +0200"
+    },
+    {
+      "title": "Zwei 17-Jährige wegen Anschlagsplänen gegen Oberschule in Perleberg angeklagt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/perleberg-anklage-anschlag-oberschule-17-jaehrige-prignitz.html",
+      "date": "Fri, 11 Sep 2026 08:34:29 +0200"
+    },
+    {
+      "title": "Nach Hackerangriff: Anlaufstelle für Berliner Bürger und Firmen eingerichtet",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/09/berlin-hacker-angriff-anlaufstelle-eingerichtet-betroffene-buerger-senat.html",
+      "date": "Fri, 11 Sep 2026 08:16:17 +0200"
+    },
+    {
+      "title": "Sicherheitspolitik seit 9/11 und wie Terrorismus reagiert",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/09/9-11-september-folgen-sicherheitspolitik-terrorismus-massnahmen.html",
+      "date": "Fri, 11 Sep 2026 07:32:14 +0200"
+    },
+    {
+      "title": "Westlicher Berliner S-Bahnring seit Freitagmorgen gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-s-bahn-ring-unterbrochen-halensee-beusselstrasse.html",
+      "date": "Fri, 11 Sep 2026 07:21:08 +0200"
     },
     {
       "title": "Siegerentwurf für Neugestaltung des Checkpoints Charlie in Berlin steht fest",
@@ -16,52 +56,22 @@
       "date": "Thu, 10 Sep 2026 23:01:37 +0200"
     },
     {
-      "title": "Neue Verbindung nach Dubai: Emirates darf Flughafen BER ansteuern",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/09/flughafen-ber-langstreckenverbindung-berlin-dubai.html",
-      "date": "Thu, 10 Sep 2026 21:40:22 +0200"
-    },
-    {
       "title": "Regionalliga Nordost: BFC-Angreifer Dadashov wird zum Matchwinner gegen Tasmania",
       "link": "https://www.rbb24.de/sport/beitrag/2026/09/berlin-fussball-regionalliga-nordost-bfc-dynamo-tasmania.html",
       "date": "Thu, 10 Sep 2026 21:28:33 +0200"
-    },
-    {
-      "title": "Staatsbesuch führt zu Verkehrseinschränkungen in Berlin",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/09/berlin-staatsbesuch-mohammed-bin-zayed-breitscheidplatz.html",
-      "date": "Thu, 10 Sep 2026 20:21:22 +0200"
-    },
-    {
-      "title": "93:74-Sieg gegen Belgien: Deutsche Basketball-Frauen im WM-Halbfinale",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/berlin-basketball-wm-weltmeisterschaft-frauen-deutschland-belgien-viertelfinale.html",
-      "date": "Thu, 10 Sep 2026 19:44:12 +0200"
-    },
-    {
-      "title": "Ludwigsfelde: Erneut Freischneide-Geräte bei Feuerwehr gestohlen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/diebstaehle-feuerwehr.html",
-      "date": "Thu, 10 Sep 2026 18:58:21 +0200"
-    },
-    {
-      "title": "SPD-Spitzenkandidat Krach will weiter Wahlkampf machen",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/spd-steffen-krach-ermittlungen-pressekonferenz.html",
-      "date": "Thu, 10 Sep 2026 18:56:27 +0200"
-    },
-    {
-      "title": "Brandenburg will Landespolizeipräsidium einrichten",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/09/brandenburg-landespolizeipraesidium-innenministerium.html",
-      "date": "Thu, 10 Sep 2026 18:43:51 +0200"
-    },
-    {
-      "title": "Alle Grafiken zum aktuellen BerlinTrend",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/umfrage-berlin-trend-grafiken-berlin.html",
-      "date": "Thu, 10 Sep 2026 18:05:34 +0200"
-    },
-    {
-      "title": "BerlinTrend: Linke liegt knapp vor CDU",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlintrend-september-umfrage-wahl-abgeordnetenhaus.html",
-      "date": "Thu, 10 Sep 2026 18:00:02 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Mann durch Schüsse verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712872.php",
+      "date": "Fri, 11 Sep 2026 11:14:12 +0200"
+    },
+    {
+      "title": "Klassenraum mit reizender Substanz besprüht",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712730.php",
+      "date": "Fri, 11 Sep 2026 09:31:36 +0200"
+    },
     {
       "title": "Waffe nach Verkehrsüberprüfung gefunden",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712632.php",
@@ -111,22 +121,37 @@
       "title": "Wahlplakate durch Feuer beschädigt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1711566.php",
       "date": "Tue, 08 Sep 2026 14:22:26 +0200"
-    },
-    {
-      "title": "Tötungsdelikt auf öffentlichem Straßenland – Zeuginnen und Zeugen gesucht",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710956.php",
-      "date": "Tue, 08 Sep 2026 14:00:00 +0200"
-    },
-    {
-      "title": "Senior wieder da",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1711512.php",
-      "date": "Tue, 08 Sep 2026 13:41:00 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Berlin: Polizei sucht Schützen nach Schüssen in Adlershof",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-adlershof-polizei-schuesse-taeter-fahndung.html",
+      "date": "Fri, 11 Sep 2026 11:51:13 +0200"
+    },
+    {
+      "title": "Warntag: Alarmsysteme bundesweit für den Ernstfall getestet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/warntag-katastrophenschutz-uebung-sirenen-berlin-brandenburg.html",
+      "date": "Fri, 11 Sep 2026 11:43:34 +0200"
+    },
+    {
+      "title": "Unbekannte sprühen Reizgas in Klassenraum und Jugendherberge in Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-pankow-attacke-reizspray-klassenraum-mitte-jugendherberge.html",
+      "date": "Fri, 11 Sep 2026 11:31:55 +0200"
+    },
+    {
+      "title": "Versailler Platz in Potsdam nach zwölf Jahren Planung fertig",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/versailler-platz-potsdam.html",
+      "date": "Fri, 11 Sep 2026 10:08:58 +0200"
+    },
+    {
+      "title": "Zwei 17-Jährige wegen Anschlagsplänen gegen Oberschule in Perleberg angeklagt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/perleberg-anklage-anschlag-oberschule-17-jaehrige-prignitz.html",
+      "date": "Fri, 11 Sep 2026 08:34:29 +0200"
+    },
     {
       "title": "Westlicher Berliner S-Bahnring seit Freitagmorgen gesperrt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-s-bahn-ring-unterbrochen-halensee-beusselstrasse.html",
@@ -161,31 +186,6 @@
       "title": "Potsdam: Mann im Krankenfahrstuhl rast alkoholisiert an Polizeistreife vorbei",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/alkoholisiert-krankenfahrstuhl-raser-polizei-potsdam.html",
       "date": "Thu, 10 Sep 2026 14:58:56 +0200"
-    },
-    {
-      "title": "Warntag: Alarmsysteme bundesweit für den Ernstfall getestet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/warntag-katastrophenschutz-uebung-sirenen-berlin-brandenburg.html",
-      "date": "Thu, 10 Sep 2026 14:57:22 +0200"
-    },
-    {
-      "title": "Rapserdfloh macht Brandenburger Landwirten zu schaffen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-landwirtschaft-raps-erd-floh-schaedling.html",
-      "date": "Thu, 10 Sep 2026 14:47:00 +0200"
-    },
-    {
-      "title": "Schlechte Pisa-Ergebnisse: Warum Druck, Stress und Mobbing sich aufs Lernen auswirken",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/interview-pisa-ergebnisse-susanne-mierau-schulen-kinder.html",
-      "date": "Thu, 10 Sep 2026 14:02:43 +0200"
-    },
-    {
-      "title": "Stahnsdorfer Südwestkirchhof: Wildschweine auf Friedhof gelockt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/vandalismus-friedhof-stahnsdorf-suedwestkirchhof.html",
-      "date": "Thu, 10 Sep 2026 13:55:32 +0200"
-    },
-    {
-      "title": "Bau neuer Gaskraftwerke: Leag bewirbt sich mit mehreren Standorten",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-gaskraftwerke-bewerbung-leag.html",
-      "date": "Thu, 10 Sep 2026 11:12:00 +0200"
     }
   ]
 }
