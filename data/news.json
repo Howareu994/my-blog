@@ -1,67 +1,92 @@
 {
   "traffic": [
     {
+      "title": "Berlin: Motorradfahrer stirbt nach Unfall in Weißensee",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-weissensee-unfall-motorradfahrer-tot.html",
+      "date": "Sat, 12 Sep 2026 12:42:03 +0200"
+    },
+    {
+      "title": "Berlin: Reisebus überrollt Fußgängerin - lebensgefährlich verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-bus-unfall-unter-den-linden-fussgaengerin.html",
+      "date": "Sat, 12 Sep 2026 12:40:16 +0200"
+    },
+    {
+      "title": "Brunckhorst zur Basketball-WM: \"Kommen nicht aus dem Strahlen raus\"",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/basketball-wm-berlin-svenja-brunckhorst-interview-deutschland-halbfinale-frankreich.html",
+      "date": "Sat, 12 Sep 2026 12:35:46 +0200"
+    },
+    {
+      "title": "Briefwahl: Berliner Landeswahlleiter erinnert an Fristen",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-landeswahlleiter-briefwahl-wahlunterlagen-stimmzettel.html",
+      "date": "Sat, 12 Sep 2026 12:28:31 +0200"
+    },
+    {
+      "title": "Berlin-Wahl: Welche Koalitionen möglich sind",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahlkampf-koalitionen-moeglichkeiten-berlintrend.html",
+      "date": "Sat, 12 Sep 2026 12:16:00 +0200"
+    },
+    {
+      "title": "Demo für Zusammenhalt führt zu Verkehrseinschränkungen in Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-sterndemo-gesellschaftlicher-zusammenhalt.html",
+      "date": "Sat, 12 Sep 2026 11:17:05 +0200"
+    },
+    {
+      "title": "Kinofest: Samstag und Sonntag für fünf Euro ins Kino",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/09/berlin-brandenburg-fuenf-euro-eintritt-kino.html",
+      "date": "Sat, 12 Sep 2026 10:51:47 +0200"
+    },
+    {
+      "title": "Theaterkritik: \"Glücklich die Glücklichen\" am Berliner Ensemble",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/09/berlin-be-theaterpremiere-inszenierung-oliver-reese-gluecklich-die-gluecklichen.html",
+      "date": "Sat, 12 Sep 2026 10:41:24 +0200"
+    },
+    {
+      "title": "100 Jahre Plattenbau: Splanemann-Siedlung in Berlin",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/09/splanemann-siedlung-plattenbau-berlin-friedrichsfelde-100-jahre.html",
+      "date": "Sat, 12 Sep 2026 10:03:45 +0200"
+    },
+    {
       "title": "Forderung nach Spritpreisdeckel: Woidke kritisiert Extraprofite von Mineralölkonzernen",
       "link": "https://www.rbb24.de/politik/beitrag/2026/09/brandenburg-woidke-forderung-spritpreisdeckel.html",
       "date": "Sat, 12 Sep 2026 09:05:29 +0200"
     },
     {
-      "title": "Männer- und Frauenteams von Alba Berlin verlieren Testspiel",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/basketball-testspiel-alba-berlin-maenner-frauen-baskonia-keltern.html",
-      "date": "Fri, 11 Sep 2026 22:58:18 +0200"
+      "title": "Konzertkritik: Nina Chuba in der Berliner Wuhlheide",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/09/berlin-parkbuehne-wuhlheide-nina-chuba-konzert.html",
+      "date": "Sat, 12 Sep 2026 08:56:00 +0200"
     },
     {
-      "title": "Eisbären feiern ersten Sieg in der Champions Hockey League",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/eishockey-chl-eisbaeren-berlin-graz.html",
-      "date": "Fri, 11 Sep 2026 22:40:47 +0200"
-    },
-    {
-      "title": "VSG Altglienicke verliert zuhause, RSV Eintracht kassiert Packung",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/fussball-regionalliga-nordost-erfurt-rsv-eintracht-stahnsdorf-vsg-altglienicke-chemnitz-spielbericht.html",
-      "date": "Fri, 11 Sep 2026 21:48:12 +0200"
-    },
-    {
-      "title": "House of Games in Berlin: Erste Mieter ziehen im Dezember ein",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/09/house-of-games-berlin-mieter-einzug-dezember-2026.html",
-      "date": "Fri, 11 Sep 2026 21:01:48 +0200"
-    },
-    {
-      "title": "Demo für Zusammenhalt führt zu Verkehrseinschränkungen in Berlin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-sterndemo-gesellschaftlicher-zusammenhalt.html",
-      "date": "Fri, 11 Sep 2026 20:48:53 +0200"
-    },
-    {
-      "title": "Asbest-Belastung: Howoge räumt rund 100 Wohnungen in High-Deck-Siedlung",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-neukoelln-high-deck-siedlung-howoge-raeumt-wohnungen-asbest.html",
-      "date": "Fri, 11 Sep 2026 18:34:11 +0200"
-    },
-    {
-      "title": "Energie Cottbus vor Karlsruhe: Folgt das nächste Spektakel?",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/fussball-zweite-bundesliga-fc-energie-cottbus-karlsruher-sc-vorbericht-pk-pele-wollitz.html",
-      "date": "Fri, 11 Sep 2026 17:51:56 +0200"
-    },
-    {
-      "title": "\"Wohnraumagentur\" in Potsdam soll 2027 starten",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/09/wohnraumagentur-potsdam-konzept.html",
-      "date": "Fri, 11 Sep 2026 17:45:59 +0200"
-    },
-    {
-      "title": "Segelflugzeug bei Brandenburg an der Havel abgestürzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/segelflugzeug-abgestuerzt-brandenburg-havel.html",
-      "date": "Fri, 11 Sep 2026 17:39:19 +0200"
-    },
-    {
-      "title": "Reinickendorf vor der Berlin-Wahl: Die Armut zieht nach außen",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/bvv/reinickendorf-armut-bekaempfung-familien-hilfe.html",
-      "date": "Fri, 11 Sep 2026 16:55:37 +0200"
-    },
-    {
-      "title": "Hertha-Coach Leitl setzt auf Klemens als Seguin-Ersatz",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/fussball-zweite-bundesliga-hertha-bsc-vfl-osnabrueck-vorbericht-leitl-pk-seguin-sperre.html",
-      "date": "Fri, 11 Sep 2026 16:15:19 +0200"
+      "title": "Fußball: Unions Niederlage gegen Schalke in der Analyse",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/fussball-bundesliga-union-berlin-schalke-04-robin-gosens-analyse.html",
+      "date": "Sat, 12 Sep 2026 08:04:00 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Zeugenaufruf nach versuchtem Totschlag",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712872.php",
+      "date": "Sat, 12 Sep 2026 13:39:00 +0200"
+    },
+    {
+      "title": "Schüsse auf Friseurgeschäft",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713178.php",
+      "date": "Sat, 12 Sep 2026 12:42:58 +0200"
+    },
+    {
+      "title": "Motorradfahrer nach Verkehrsunfall in stationärer Behandlung",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713176.php",
+      "date": "Sat, 12 Sep 2026 12:21:03 +0200"
+    },
+    {
+      "title": "Tödlicher Verkehrsunfall",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713174.php",
+      "date": "Sat, 12 Sep 2026 11:54:34 +0200"
+    },
+    {
+      "title": "Wahlplakate beschmiert - Festnahmen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713169.php",
+      "date": "Sat, 12 Sep 2026 11:02:07 +0200"
+    },
     {
       "title": "Abgeordneter bedroht",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713131.php",
@@ -76,11 +101,6 @@
       "title": "Polizei Berlin lädt zum 45. Tag der offenen Tür ein",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713049.php",
       "date": "Fri, 11 Sep 2026 14:15:21 +0200"
-    },
-    {
-      "title": "Mann durch Schüsse verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712872.php",
-      "date": "Fri, 11 Sep 2026 11:14:12 +0200"
     },
     {
       "title": "Klassenraum mit reizender Substanz besprüht",
@@ -101,26 +121,6 @@
       "title": "Angriff auf Vollstreckungsbeamte – DEIG Einsatz",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712485.php",
       "date": "Thu, 10 Sep 2026 13:42:34 +0200"
-    },
-    {
-      "title": "31 Verletzte nach Reizgaseinsatz in Jugendherberge",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712418.php",
-      "date": "Thu, 10 Sep 2026 12:08:54 +0200"
-    },
-    {
-      "title": "Einsatzfahrt abgebrochen – Mann verletzt Mitarbeiter der Feuerwehr",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712072.php",
-      "date": "Wed, 09 Sep 2026 16:30:52 +0200"
-    },
-    {
-      "title": "Bronzeskulpturen entwendet – Polizei bittet um Mithilfe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712020.php",
-      "date": "Wed, 09 Sep 2026 15:03:27 +0200"
-    },
-    {
-      "title": "Baustellenbrand am Bundeskanzleramt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712024.php",
-      "date": "Wed, 09 Sep 2026 15:00:00 +0200"
     }
   ],
   "free_events": [],
@@ -128,9 +128,19 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Berlin: Motorradfahrer stirbt nach Unfall in Weißensee",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-weissensee-unfall-motorradfahrer-tot.html",
+      "date": "Sat, 12 Sep 2026 12:42:03 +0200"
+    },
+    {
+      "title": "Berlin: Reisebus überrollt Fußgängerin - lebensgefährlich verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-bus-unfall-unter-den-linden-fussgaengerin.html",
+      "date": "Sat, 12 Sep 2026 12:40:16 +0200"
+    },
+    {
       "title": "Demo für Zusammenhalt führt zu Verkehrseinschränkungen in Berlin",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-sterndemo-gesellschaftlicher-zusammenhalt.html",
-      "date": "Fri, 11 Sep 2026 20:48:53 +0200"
+      "date": "Sat, 12 Sep 2026 11:17:05 +0200"
     },
     {
       "title": "Asbest-Belastung: Howoge räumt rund 100 Wohnungen in High-Deck-Siedlung",
@@ -176,16 +186,6 @@
       "title": "Oder-Spree: Neuer Bahnhof in Fangschleuse am Freitag offiziell eingeweiht",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/neuer-bahnhof-fangschleuse-eroeffnung.html",
       "date": "Fri, 11 Sep 2026 13:03:00 +0200"
-    },
-    {
-      "title": "Berlin: Polizei sucht Schützen nach Schüssen in Adlershof",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-adlershof-polizei-schuesse-taeter-fahndung.html",
-      "date": "Fri, 11 Sep 2026 11:51:13 +0200"
-    },
-    {
-      "title": "Warntag: Alarmsysteme bundesweit für den Ernstfall getestet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/warntag-katastrophenschutz-uebung-sirenen-berlin-brandenburg.html",
-      "date": "Fri, 11 Sep 2026 11:43:34 +0200"
     }
   ]
 }
