@@ -1,24 +1,49 @@
 {
   "traffic": [
     {
-      "title": "Berlin: Polizei sucht Schützen nach Schüssen in Adlershof",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-adlershof-polizei-schuesse-taeter-fahndung.html",
-      "date": "Sat, 12 Sep 2026 16:12:16 +0200"
+      "title": "Havelland: CSD in Rathenow laut Polizei störungsfrei",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/csd-rathenow-gegendemo-veranstaltung-havelland.html",
+      "date": "Sat, 12 Sep 2026 19:30:07 +0200"
+    },
+    {
+      "title": "Frankreich beendet WM-Märchen der DBB-Frauen",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/basketball-wm-2026-deutschland-frankreich-sabally-uber-arena-.html",
+      "date": "Sat, 12 Sep 2026 19:24:13 +0200"
+    },
+    {
+      "title": "GFL: Potsdam Royals ziehen souverän ins Halbfinale ein",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/american-football-gfl-playoffs-viertelfinale-potsdam-royals-ravensburg-razorbacks.html",
+      "date": "Sat, 12 Sep 2026 18:56:15 +0200"
     },
     {
       "title": "Bundesliga: Union-Frauen setzen Pleitenserie auch in Köln fort",
       "link": "https://www.rbb24.de/sport/beitrag/2026/09/fussball-frauen-bundesliga-1-fc-union-berlin-1-fc-koeln-spielbericht.html",
-      "date": "Sat, 12 Sep 2026 16:01:13 +0200"
+      "date": "Sat, 12 Sep 2026 18:33:13 +0200"
+    },
+    {
+      "title": "Demo für Zusammenhalt: Tausende Menschen ziehen durch Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-sterndemo-gesellschaftlicher-zusammenhalt.html",
+      "date": "Sat, 12 Sep 2026 18:21:19 +0200"
     },
     {
       "title": "Cottbus: Erneuter Angriff auf Regenbogenkombinat",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-polizei-cottbus-erneuter-angriff-regenbogenkombinat.html",
-      "date": "Sat, 12 Sep 2026 15:40:44 +0200"
+      "date": "Sat, 12 Sep 2026 18:12:17 +0200"
     },
     {
-      "title": "Demo für Zusammenhalt zieht durch Berlin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-sterndemo-gesellschaftlicher-zusammenhalt.html",
-      "date": "Sat, 12 Sep 2026 15:19:52 +0200"
+      "title": "BFC Preussen feiert ersten Saisonsieg, Luckenwalde scheitert an Ex-Spieler",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/regionalliga-nordost-babelsberg-halle-bfc-preussen-magdeburg-aue.html",
+      "date": "Sat, 12 Sep 2026 17:35:22 +0200"
+    },
+    {
+      "title": "Orchideen: Botanik, Kulturgeschichte, Faszination",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/orchideen-botanik-herkunft-verbreitung-orchideenzucht.html",
+      "date": "Sat, 12 Sep 2026 17:09:54 +0200"
+    },
+    {
+      "title": "Berlin: Polizei sucht Schützen nach Schüssen in Adlershof",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-adlershof-polizei-schuesse-taeter-fahndung.html",
+      "date": "Sat, 12 Sep 2026 16:12:16 +0200"
     },
     {
       "title": "Berlin-Wahl: Welche Koalitionen möglich sind",
@@ -34,31 +59,6 @@
       "title": "Berlin: Motorradfahrer stirbt nach Unfall in Weißensee",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-weissensee-unfall-motorradfahrer-tot.html",
       "date": "Sat, 12 Sep 2026 12:42:03 +0200"
-    },
-    {
-      "title": "Berlin: Reisebus überrollt Fußgängerin - lebensgefährlich verletzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-bus-unfall-unter-den-linden-fussgaengerin.html",
-      "date": "Sat, 12 Sep 2026 12:40:00 +0200"
-    },
-    {
-      "title": "Brunckhorst zur Basketball-WM: \"Kommen nicht aus dem Strahlen raus\"",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/basketball-wm-berlin-svenja-brunckhorst-interview-deutschland-halbfinale-frankreich.html",
-      "date": "Sat, 12 Sep 2026 12:35:46 +0200"
-    },
-    {
-      "title": "Briefwahl: Berliner Landeswahlleiter erinnert an Fristen",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-landeswahlleiter-briefwahl-wahlunterlagen-stimmzettel.html",
-      "date": "Sat, 12 Sep 2026 12:28:31 +0200"
-    },
-    {
-      "title": "Basketball-WM live hören: Deutschland - Frankreich im Halbfinale",
-      "link": "https://www.rbb24.de/sport/hintergrund/livestream/audio-livestream-basketball-wm-berlin-deutschland-frankreich.html",
-      "date": "Sat, 12 Sep 2026 12:00:16 +0200"
-    },
-    {
-      "title": "Kinofest: Samstag und Sonntag für fünf Euro ins Kino",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/09/berlin-brandenburg-fuenf-euro-eintritt-kino.html",
-      "date": "Sat, 12 Sep 2026 10:51:47 +0200"
     }
   ],
   "police": [
@@ -128,19 +128,29 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Berlin: Polizei sucht Schützen nach Schüssen in Adlershof",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-adlershof-polizei-schuesse-taeter-fahndung.html",
-      "date": "Sat, 12 Sep 2026 16:12:16 +0200"
+      "title": "Havelland: CSD in Rathenow laut Polizei störungsfrei",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/csd-rathenow-gegendemo-veranstaltung-havelland.html",
+      "date": "Sat, 12 Sep 2026 19:30:07 +0200"
+    },
+    {
+      "title": "Demo für Zusammenhalt: Tausende Menschen ziehen durch Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-sterndemo-gesellschaftlicher-zusammenhalt.html",
+      "date": "Sat, 12 Sep 2026 18:21:19 +0200"
     },
     {
       "title": "Cottbus: Erneuter Angriff auf Regenbogenkombinat",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-polizei-cottbus-erneuter-angriff-regenbogenkombinat.html",
-      "date": "Sat, 12 Sep 2026 15:40:44 +0200"
+      "date": "Sat, 12 Sep 2026 18:12:17 +0200"
     },
     {
-      "title": "Demo für Zusammenhalt zieht durch Berlin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-sterndemo-gesellschaftlicher-zusammenhalt.html",
-      "date": "Sat, 12 Sep 2026 15:19:52 +0200"
+      "title": "Orchideen: Botanik, Kulturgeschichte, Faszination",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/orchideen-botanik-herkunft-verbreitung-orchideenzucht.html",
+      "date": "Sat, 12 Sep 2026 17:09:54 +0200"
+    },
+    {
+      "title": "Berlin: Polizei sucht Schützen nach Schüssen in Adlershof",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-adlershof-polizei-schuesse-taeter-fahndung.html",
+      "date": "Sat, 12 Sep 2026 16:12:16 +0200"
     },
     {
       "title": "Berlin: Motorradfahrer stirbt nach Unfall in Weißensee",
@@ -176,16 +186,6 @@
       "title": "Läden und Gastro sollen künftig Kartenzahlung anbieten müssen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/kartenzahlung-pflicht-geschaefte-gastronomie-restaurants.html",
       "date": "Fri, 11 Sep 2026 15:02:46 +0200"
-    },
-    {
-      "title": "Anschlagsplan: Mutmaßliche Hamas-Mitglieder in Berlin angeklagt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-waffen-beschaffer-anklage-bundesanwaltschaft-terror-organisation-hamas.html",
-      "date": "Fri, 11 Sep 2026 14:00:41 +0200"
-    },
-    {
-      "title": "Geplante RE1 Sperrung ab 2029 soll verkürzt werden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/bahn-sperrung-re1-verkuerzt.html",
-      "date": "Fri, 11 Sep 2026 13:51:38 +0200"
     }
   ]
 }
