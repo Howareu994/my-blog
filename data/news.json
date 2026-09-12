@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Alba verliert letztes Testspiel vor Bundesligastart",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/letztes-testspiel-vor-saisonstart-alba-berlin-monbus-obradoiro-.html",
+      "date": "Sat, 12 Sep 2026 21:06:19 +0200"
+    },
+    {
+      "title": "Cottbus: Erneuter Angriff auf Regenbogenkombinat",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-polizei-cottbus-erneuter-angriff-regenbogenkombinat.html",
+      "date": "Sat, 12 Sep 2026 19:42:15 +0200"
+    },
+    {
       "title": "Havelland: CSD in Rathenow laut Polizei störungsfrei",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/csd-rathenow-gegendemo-veranstaltung-havelland.html",
       "date": "Sat, 12 Sep 2026 19:30:07 +0200"
@@ -26,11 +36,6 @@
       "date": "Sat, 12 Sep 2026 18:21:19 +0200"
     },
     {
-      "title": "Cottbus: Erneuter Angriff auf Regenbogenkombinat",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-polizei-cottbus-erneuter-angriff-regenbogenkombinat.html",
-      "date": "Sat, 12 Sep 2026 18:12:17 +0200"
-    },
-    {
       "title": "BFC Preussen feiert ersten Saisonsieg, Luckenwalde scheitert an Ex-Spieler",
       "link": "https://www.rbb24.de/sport/beitrag/2026/09/regionalliga-nordost-babelsberg-halle-bfc-preussen-magdeburg-aue.html",
       "date": "Sat, 12 Sep 2026 17:35:22 +0200"
@@ -54,11 +59,6 @@
       "title": "Poller in Berlin: Umstritten, aber mit Effekt",
       "link": "https://www.rbb24.de/politik/beitrag/2026/09/poller-strasse-berlin-kiezblock-diskussion-ueberpruefung.html",
       "date": "Sat, 12 Sep 2026 14:15:24 +0200"
-    },
-    {
-      "title": "Berlin: Motorradfahrer stirbt nach Unfall in Weißensee",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-weissensee-unfall-motorradfahrer-tot.html",
-      "date": "Sat, 12 Sep 2026 12:42:03 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Cottbus: Erneuter Angriff auf Regenbogenkombinat",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-polizei-cottbus-erneuter-angriff-regenbogenkombinat.html",
+      "date": "Sat, 12 Sep 2026 19:42:15 +0200"
+    },
+    {
       "title": "Havelland: CSD in Rathenow laut Polizei störungsfrei",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/csd-rathenow-gegendemo-veranstaltung-havelland.html",
       "date": "Sat, 12 Sep 2026 19:30:07 +0200"
@@ -136,11 +141,6 @@
       "title": "Demo für Zusammenhalt: Tausende Menschen ziehen durch Berlin",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-sterndemo-gesellschaftlicher-zusammenhalt.html",
       "date": "Sat, 12 Sep 2026 18:21:19 +0200"
-    },
-    {
-      "title": "Cottbus: Erneuter Angriff auf Regenbogenkombinat",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-polizei-cottbus-erneuter-angriff-regenbogenkombinat.html",
-      "date": "Sat, 12 Sep 2026 18:12:17 +0200"
     },
     {
       "title": "Orchideen: Botanik, Kulturgeschichte, Faszination",
