@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Eishockey: Eisbären nach zweitem Sieg in der CHL auf Kurs",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/eishockey-chl-eisbaeren-berlin-herning.html",
+      "date": "Sun, 13 Sep 2026 20:54:41 +0200"
+    },
+    {
+      "title": "Handball: Füchse mit wichtigem Sieg gegen Gummersbach",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/handball-bundesliga-fuechse-berlin-gummersbach.html",
+      "date": "Sun, 13 Sep 2026 20:22:08 +0200"
+    },
+    {
+      "title": "Leichtathletik: Agyekum pulverisiert deutschen Hürden-Rekord",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/leichtathletik-ultimate-championships-budapest-400-meter-huerden-emil-agyekum.html",
+      "date": "Sun, 13 Sep 2026 19:44:00 +0200"
+    },
+    {
       "title": "Ministerien in Brandenburg beschließen Leitfaden gegen häusliche Gewalt",
       "link": "https://www.rbb24.de/politik/beitrag/2026/09/leitfaden-gegen-haeusliche-gewalt-brandenburg.html",
       "date": "Sun, 13 Sep 2026 17:54:20 +0200"
@@ -28,7 +43,7 @@
     {
       "title": "2. Liga: Furiose Cottbuser siegen in Karlsruhe",
       "link": "https://www.rbb24.de/sport/beitrag/2026/09/fussball-2-liga-ksc-karlsruhe-fc-energie-cottbus-audiostream-liveticker-spielbericht.html",
-      "date": "Sun, 13 Sep 2026 15:45:35 +0200"
+      "date": "Sun, 13 Sep 2026 15:45:00 +0200"
     },
     {
       "title": "Berlin-Neukölln: BVG-Bus prallt gegen Baum - 15 Menschen verletzt",
@@ -44,21 +59,6 @@
       "title": "Wie der Berliner Wahlkampf auf Social Media läuft",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/wahlkampf-social-media-berlin-spitzenkandidaten-spitzenkandidatinnen.html",
       "date": "Sun, 13 Sep 2026 12:04:00 +0200"
-    },
-    {
-      "title": "Gemeinde Havelaue: Archäologen graben erstmals an Slawenburg im Havelland",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-slawenburg-havelland-archaeologie-ausgrabung-guelpe.html",
-      "date": "Sun, 13 Sep 2026 11:45:51 +0200"
-    },
-    {
-      "title": "Alba-Geschäftsführer Marco Baldi: \"Jetzt sind wir die Gejagten\"",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/basketball-alba-berlin-marco-baldi-bundesliga-nba-saison-spieler-kayil-interview.html",
-      "date": "Sun, 13 Sep 2026 10:26:14 +0200"
-    },
-    {
-      "title": "Reezy im Berliner Velodrom: Rap für den Kampfring",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/09/berlin-velodrom-rap-reezy-konzert.html",
-      "date": "Sun, 13 Sep 2026 08:54:00 +0200"
     }
   ],
   "police": [
