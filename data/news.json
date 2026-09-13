@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Reezy im Berliner Velodrom: Rap für den Kampfring",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/09/berlin-velodrom-rap-reezy-konzert.html",
+      "date": "Sun, 13 Sep 2026 08:54:30 +0200"
+    },
+    {
+      "title": "Berlin-Neukölln: Bus prallt gegen Baum - 15 Menschen verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-neukoelln-bvg-busunfall-verletzte.html",
+      "date": "Sun, 13 Sep 2026 08:04:00 +0200"
+    },
+    {
+      "title": "\"Gewalt gegen Frauen ist kein Problem einer bestimmten Herkunft\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/interview-haeusliche-gewalt-frauen-mit-migrationsbiografie.html",
+      "date": "Sun, 13 Sep 2026 07:06:13 +0200"
+    },
+    {
       "title": "Frankreich beendet WM-Märchen der DBB-Frauen",
       "link": "https://www.rbb24.de/sport/beitrag/2026/09/basketball-wm-2026-deutschland-frankreich-sabally-uber-arena-.html",
       "date": "Sat, 12 Sep 2026 22:16:00 +0200"
@@ -44,21 +59,6 @@
       "title": "Orchideen: Botanik, Kulturgeschichte, Faszination",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/orchideen-botanik-herkunft-verbreitung-orchideenzucht.html",
       "date": "Sat, 12 Sep 2026 17:09:00 +0200"
-    },
-    {
-      "title": "Berlin: Polizei sucht Schützen nach Schüssen in Adlershof",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-adlershof-polizei-schuesse-taeter-fahndung.html",
-      "date": "Sat, 12 Sep 2026 16:12:16 +0200"
-    },
-    {
-      "title": "Berlin-Wahl: Welche Koalitionen möglich sind",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahlkampf-koalitionen-moeglichkeiten-berlintrend.html",
-      "date": "Sat, 12 Sep 2026 14:26:17 +0200"
-    },
-    {
-      "title": "Poller in Berlin: Umstritten, aber mit Effekt",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/09/poller-strasse-berlin-kiezblock-diskussion-ueberpruefung.html",
-      "date": "Sat, 12 Sep 2026 14:15:24 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,16 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Berlin-Neukölln: Bus prallt gegen Baum - 15 Menschen verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-neukoelln-bvg-busunfall-verletzte.html",
+      "date": "Sun, 13 Sep 2026 08:04:00 +0200"
+    },
+    {
+      "title": "\"Gewalt gegen Frauen ist kein Problem einer bestimmten Herkunft\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/interview-haeusliche-gewalt-frauen-mit-migrationsbiografie.html",
+      "date": "Sun, 13 Sep 2026 07:06:13 +0200"
+    },
+    {
       "title": "Cottbus: Erneuter Angriff auf Regenbogenkombinat",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-polizei-cottbus-erneuter-angriff-regenbogenkombinat.html",
       "date": "Sat, 12 Sep 2026 19:42:15 +0200"
@@ -176,16 +186,6 @@
       "title": "Dritte Brandenburger Dofkirchentagung findet in Doberlug-Kirchhain statt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-dorfkirchen-tagung-doberlug-kirchhain.html",
       "date": "Fri, 11 Sep 2026 17:00:59 +0200"
-    },
-    {
-      "title": "Mutmaßliche Vergewaltigung in Jugendclub: Kommission sieht Behördenfehler",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/kommission-jugendclub-berlin-neukoelln-mutmassliche-vergewaltigung.html",
-      "date": "Fri, 11 Sep 2026 15:26:35 +0200"
-    },
-    {
-      "title": "Läden und Gastro sollen künftig Kartenzahlung anbieten müssen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/kartenzahlung-pflicht-geschaefte-gastronomie-restaurants.html",
-      "date": "Fri, 11 Sep 2026 15:02:46 +0200"
     }
   ]
 }
