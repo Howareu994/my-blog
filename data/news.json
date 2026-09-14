@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Nach Zerstörung: Neue Regenbogenbank für CSD-Gedenkort",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-regenbogenbank-csd-wiederaufbau-nach-zerstoerung.html",
+      "date": "Mon, 14 Sep 2026 09:17:01 +0200"
+    },
+    {
+      "title": "Gemeinde Havelaue: Archäologen graben erstmals an Slawenburg im Havelland",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-slawenburg-havelland-archaeologie-ausgrabung-guelpe.html",
+      "date": "Mon, 14 Sep 2026 09:11:09 +0200"
+    },
+    {
+      "title": "Kartenzahlung: Warum es Trinkgeld auch im Schuhgeschäft geben könnte",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/09/trinkgeld-kartenzahlung-einzelhandel-digital-lesegeraet-verbraucherschutz.html",
+      "date": "Mon, 14 Sep 2026 06:35:30 +0200"
+    },
+    {
       "title": "Eishockey: Eisbären nach zweitem Sieg in der CHL auf Kurs",
       "link": "https://www.rbb24.de/sport/beitrag/2026/09/eishockey-chl-eisbaeren-berlin-herning.html",
       "date": "Sun, 13 Sep 2026 21:08:24 +0200"
@@ -36,29 +51,9 @@
       "date": "Sun, 13 Sep 2026 17:01:43 +0200"
     },
     {
-      "title": "2. Liga: Herthas Höhenflug geht auch in Osnabrück weiter",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/fussball-2-liga-vfl-osnabrueck-hertha-bsc-audiostream-liveticker-spielbericht.html",
-      "date": "Sun, 13 Sep 2026 16:05:00 +0200"
-    },
-    {
       "title": "2. Liga: Furiose Cottbuser siegen in Karlsruhe",
       "link": "https://www.rbb24.de/sport/beitrag/2026/09/fussball-2-liga-ksc-karlsruhe-fc-energie-cottbus-audiostream-liveticker-spielbericht.html",
       "date": "Sun, 13 Sep 2026 15:45:00 +0200"
-    },
-    {
-      "title": "Berlin-Neukölln: BVG-Bus prallt gegen Baum - 15 Menschen verletzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-neukoelln-bvg-busunfall-verletzte.html",
-      "date": "Sun, 13 Sep 2026 14:29:41 +0200"
-    },
-    {
-      "title": "Angriff mit Pyrotechnik in Rigaer Straße - Polizist verletzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-polizist-verletzt-rigaer-strasse-pyrotechnik.html",
-      "date": "Sun, 13 Sep 2026 13:39:11 +0200"
-    },
-    {
-      "title": "Wie der Berliner Wahlkampf auf Social Media läuft",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/wahlkampf-social-media-berlin-spitzenkandidaten-spitzenkandidatinnen.html",
-      "date": "Sun, 13 Sep 2026 12:04:00 +0200"
     }
   ],
   "police": [
@@ -128,6 +123,16 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Nach Zerstörung: Neue Regenbogenbank für CSD-Gedenkort",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-regenbogenbank-csd-wiederaufbau-nach-zerstoerung.html",
+      "date": "Mon, 14 Sep 2026 09:17:01 +0200"
+    },
+    {
+      "title": "Gemeinde Havelaue: Archäologen graben erstmals an Slawenburg im Havelland",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-slawenburg-havelland-archaeologie-ausgrabung-guelpe.html",
+      "date": "Mon, 14 Sep 2026 09:11:09 +0200"
+    },
+    {
       "title": "Mutmaßlich antisemitischer Angriff: Männer verletzen Frau in Berlin",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/antisemitischer-angriff-berlin-mitte-torstrasse-frau-glasflasche-davidstern.html",
       "date": "Sun, 13 Sep 2026 17:08:56 +0200"
@@ -148,11 +153,6 @@
       "date": "Sun, 13 Sep 2026 13:39:11 +0200"
     },
     {
-      "title": "Gemeinde Havelaue: Archäologen graben erstmals an Slawenburg im Havelland",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-slawenburg-havelland-archaeologie-ausgrabung-guelpe.html",
-      "date": "Sun, 13 Sep 2026 11:45:51 +0200"
-    },
-    {
       "title": "\"Gewalt gegen Frauen ist kein Problem einer bestimmten Herkunft\"",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/interview-haeusliche-gewalt-frauen-mit-migrationsbiografie.html",
       "date": "Sun, 13 Sep 2026 07:06:00 +0200"
@@ -160,7 +160,7 @@
     {
       "title": "Cottbus: Erneuter Angriff auf Regenbogenkombinat",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-polizei-cottbus-erneuter-angriff-regenbogenkombinat.html",
-      "date": "Sat, 12 Sep 2026 19:42:15 +0200"
+      "date": "Sat, 12 Sep 2026 19:42:00 +0200"
     },
     {
       "title": "Havelland: CSD in Rathenow laut Polizei störungsfrei",
@@ -173,7 +173,7 @@
       "date": "Sat, 12 Sep 2026 18:21:19 +0200"
     },
     {
-      "title": "Orchideen: Botanik, Kulturgeschichte, Faszination",
+      "title": "Orchideen sind Freaks: Außergewöhnliche Artenvielfalt und stark gefährdet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/orchideen-botanik-herkunft-verbreitung-orchideenzucht.html",
       "date": "Sat, 12 Sep 2026 17:09:00 +0200"
     },
@@ -181,11 +181,6 @@
       "title": "Berlin: Polizei sucht Schützen nach Schüssen in Adlershof",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-adlershof-polizei-schuesse-taeter-fahndung.html",
       "date": "Sat, 12 Sep 2026 16:12:16 +0200"
-    },
-    {
-      "title": "Berlin: Motorradfahrer stirbt nach Unfall in Weißensee",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-weissensee-unfall-motorradfahrer-tot.html",
-      "date": "Sat, 12 Sep 2026 12:42:03 +0200"
     }
   ]
 }
