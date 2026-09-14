@@ -1,9 +1,34 @@
 {
   "traffic": [
     {
+      "title": "Regionalliga Nordost: Der FSV Luckenwalde sucht nach dem Ausweg",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/fussball-regionalliga-nordost-fsv-luckenwalde-fehlstart-trainer-braune-weiser.html",
+      "date": "Mon, 14 Sep 2026 21:00:54 +0200"
+    },
+    {
+      "title": "Wegner und Woidke fordern Maßnahmen zur Spritpreissenkung",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/09/wegner-cdu-berlin-woidke-spd-brandenburg-spritpreisdeckel-staat.html",
+      "date": "Mon, 14 Sep 2026 19:48:24 +0200"
+    },
+    {
+      "title": "Bombenentschärfung in Elsterwerda: Evakuierung am Dienstagmorgen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/bombenentschaerfung-dienstag-elsterwerda-elbe-elster-brandenburg.html",
+      "date": "Mon, 14 Sep 2026 18:49:50 +0200"
+    },
+    {
+      "title": "Ermittlungen: 56-jähriger Jäger stirbt bei der Jagd in Brandenburg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/jaeger-tot-polizei-ermittelt-teltow-flaeming-nuthe-urstromtal-jaenickendorfer-wald.html",
+      "date": "Mon, 14 Sep 2026 18:27:38 +0200"
+    },
+    {
+      "title": "Ex-Kultursenator Chialo durfte in U-Ausschuss schweigen - kein Ordnungsgeld",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/09/berlin-foerdergeld-ausschuss-schweigen-chialo-kein-ordnungsgeld.html",
+      "date": "Mon, 14 Sep 2026 18:13:15 +0200"
+    },
+    {
       "title": "Brisantes Duell: Hertha reist ohne Ultras nach Dresden",
       "link": "https://www.rbb24.de/sport/beitrag/2026/09/fussball-zweite-bundesliga-dynamo-dresden-hertha-bsc-q-a-krawalle-fans-stadion-personalisierte-tickets-strafen.html",
-      "date": "Mon, 14 Sep 2026 17:09:14 +0200"
+      "date": "Mon, 14 Sep 2026 17:26:48 +0200"
     },
     {
       "title": "Stahlwerk-Chef fordert günstigeren Strompreis",
@@ -34,34 +59,14 @@
       "title": "Kassenärztliche Vereinigung öffnet Hausarzt-Praxis in Cottbus",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-cottbus-kvbb-neu-praxis-hausarzt-uebergang-versorgun.html",
       "date": "Mon, 14 Sep 2026 15:21:33 +0200"
-    },
-    {
-      "title": "S-Bahn zwischen Friedrichstraße und Tiergarten wird mehrere Wochen gesperrt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-stadtbahn-sperrung-sbahn-friedrichstrasse-tiergarten-sanierung.html",
-      "date": "Mon, 14 Sep 2026 15:10:57 +0200"
-    },
-    {
-      "title": "Potsdam will Autoverkehr im Stadtgebiet weiter reduzieren",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/09/potsdam-mehr-radverkehr-adfc-verkehrskonzept-bus-bahn.html",
-      "date": "Mon, 14 Sep 2026 14:44:20 +0200"
-    },
-    {
-      "title": "Erste Kinderschutzwoche in Angermünde beginnt am Montag",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/kinderschutz-woche-angermuende-uckermark.html",
-      "date": "Mon, 14 Sep 2026 14:39:01 +0200"
-    },
-    {
-      "title": "Jugentheater-Festival \"Intertwined\" am Piccolo-Theater Cottbus",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/09/brandenburg-cottbus-piccolo-europaeische-theater-festival-der-jugend-intertwined.html",
-      "date": "Mon, 14 Sep 2026 13:44:09 +0200"
-    },
-    {
-      "title": "Sanierung der Bahnstrecke Berlin-Lehrte bremst auch Regionalverkehr aus",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/bahn-generalsanierung-berlin-lehrte-14-monate-unterbrechung-re4-rathenow.html",
-      "date": "Mon, 14 Sep 2026 12:24:46 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Großes Interesse am 45. Tag der offenen Tür der Polizei Berlin",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713789.php",
+      "date": "Mon, 14 Sep 2026 17:38:32 +0200"
+    },
     {
       "title": "Vermisster Senior wieder im Kreise seiner Familie",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1713533.php",
@@ -116,17 +121,22 @@
       "title": "Einbruch in Kunstauktionshaus",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713185.php",
       "date": "Sat, 12 Sep 2026 14:11:39 +0200"
-    },
-    {
-      "title": "Zeugenaufruf nach versuchtem Totschlag",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712872.php",
-      "date": "Sat, 12 Sep 2026 13:39:00 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Bombenentschärfung in Elsterwerda: Evakuierung am Dienstagmorgen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/bombenentschaerfung-dienstag-elsterwerda-elbe-elster-brandenburg.html",
+      "date": "Mon, 14 Sep 2026 18:49:50 +0200"
+    },
+    {
+      "title": "Ermittlungen: 56-jähriger Jäger stirbt bei der Jagd in Brandenburg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/jaeger-tot-polizei-ermittelt-teltow-flaeming-nuthe-urstromtal-jaenickendorfer-wald.html",
+      "date": "Mon, 14 Sep 2026 18:27:38 +0200"
+    },
     {
       "title": "Vermummte besprühen zwei Züge im U-Bahnhof Mehringdamm - Mann verletzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-u-bahnhof-mehringdamm-sprayer-zuege-beschmiert.html",
@@ -176,16 +186,6 @@
       "title": "Mehrere Bahnlinien zum Flughafen BER fallen aus",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-brandenburg-bahn-fex-ausfaelle-ber-flughafen.html",
       "date": "Mon, 14 Sep 2026 11:47:02 +0200"
-    },
-    {
-      "title": "Nach Zerstörung: Neue Regenbogenbank am CSD-Gedenkort aufgestellt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-regenbogenbank-csd-wiederaufbau-nach-zerstoerung.html",
-      "date": "Mon, 14 Sep 2026 10:33:03 +0200"
-    },
-    {
-      "title": "Gemeinde Havelaue: Archäologen graben erstmals an Slawenburg im Havelland",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-slawenburg-havelland-archaeologie-ausgrabung-guelpe.html",
-      "date": "Mon, 14 Sep 2026 09:11:09 +0200"
     }
   ]
 }
