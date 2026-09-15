@@ -1,6 +1,31 @@
 {
   "traffic": [
     {
+      "title": "Rechenzentren in Brandenburg: Der Kampf um Platz und Wasser",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/09/brandenburg-rechenzentren-kampf-um-platz-ressourcen-umweltverbaende.html",
+      "date": "Tue, 15 Sep 2026 09:46:46 +0200"
+    },
+    {
+      "title": "Sanierung der Bahnstrecke Berlin-Lehrte bremst auch Regionalverkehr aus",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/bahn-generalsanierung-berlin-lehrte-14-monate-unterbrechung-re4-rathenow.html",
+      "date": "Tue, 15 Sep 2026 09:27:19 +0200"
+    },
+    {
+      "title": "Mildes Spätsommerwetter weicht ab Mittwoch Schauern und Gewittern",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/wetter-ab-mittwoch-schauer-gewitter-regen-spaetsommer-berlin-brandenburg.html",
+      "date": "Tue, 15 Sep 2026 08:19:59 +0200"
+    },
+    {
+      "title": "Brandenburg: Oberlandesgericht verhandelt über App-Rabatte von Lidl",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/09/brandenburg-justit-oberlandesgericht-app-rabatte-discounter-lidl.html",
+      "date": "Tue, 15 Sep 2026 07:52:47 +0200"
+    },
+    {
+      "title": "Bombenentschärfung in Elsterwerda: Evakuierung am Dienstagmorgen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/bombenentschaerfung-dienstag-elsterwerda-elbe-elster-brandenburg.html",
+      "date": "Tue, 15 Sep 2026 07:06:36 +0200"
+    },
+    {
       "title": "Regionalliga Nordost: Der FSV Luckenwalde sucht nach dem Ausweg",
       "link": "https://www.rbb24.de/sport/beitrag/2026/09/fussball-regionalliga-nordost-fsv-luckenwalde-fehlstart-trainer-braune-weiser.html",
       "date": "Mon, 14 Sep 2026 21:00:54 +0200"
@@ -9,11 +34,6 @@
       "title": "Wegner und Woidke fordern Maßnahmen zur Spritpreissenkung",
       "link": "https://www.rbb24.de/politik/beitrag/2026/09/wegner-cdu-berlin-woidke-spd-brandenburg-spritpreisdeckel-staat.html",
       "date": "Mon, 14 Sep 2026 19:48:24 +0200"
-    },
-    {
-      "title": "Bombenentschärfung in Elsterwerda: Evakuierung am Dienstagmorgen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/bombenentschaerfung-dienstag-elsterwerda-elbe-elster-brandenburg.html",
-      "date": "Mon, 14 Sep 2026 18:49:50 +0200"
     },
     {
       "title": "Ermittlungen: 56-jähriger Jäger stirbt bei der Jagd in Brandenburg",
@@ -39,33 +59,13 @@
       "title": "Vermummte besprühen zwei Züge im U-Bahnhof Mehringdamm - Mann verletzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-u-bahnhof-mehringdamm-sprayer-zuege-beschmiert.html",
       "date": "Mon, 14 Sep 2026 16:27:44 +0200"
-    },
-    {
-      "title": "AI-Disco: KI-Forschungsprojekt für lokale Datensammlung in Cottbus gestartet",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/09/brandenburg-cottbus-ai-disco-froschung-projekt-server-ki-daten-sammlung.html",
-      "date": "Mon, 14 Sep 2026 16:21:48 +0200"
-    },
-    {
-      "title": "Trockener Sommer macht Mücken und Schmetterlingen zu schaffen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/wenige-insekten-trockener-sommer-muecken-schmetterlinge.html",
-      "date": "Mon, 14 Sep 2026 16:14:39 +0200"
-    },
-    {
-      "title": "Wahlsimulation U16-Wahl in Berlin: Linke liegt klar vorn",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/u16-wahl-kinder-jugendliche-wahlsimulation-linke-gewinnt.html",
-      "date": "Mon, 14 Sep 2026 15:48:49 +0200"
-    },
-    {
-      "title": "Kassenärztliche Vereinigung öffnet Hausarzt-Praxis in Cottbus",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-cottbus-kvbb-neu-praxis-hausarzt-uebergang-versorgun.html",
-      "date": "Mon, 14 Sep 2026 15:21:33 +0200"
     }
   ],
   "police": [
     {
       "title": "Vermisster Tourist wieder wohlbehalten bei Freunden",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713578.php",
-      "date": "Mon, 14 Sep 2026 23:47:00 +0200"
+      "date": "Tue, 15 Sep 2026 00:01:00 +0200"
     },
     {
       "title": "Großes Interesse am 45. Tag der offenen Tür der Polizei Berlin",
@@ -128,9 +128,19 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Sanierung der Bahnstrecke Berlin-Lehrte bremst auch Regionalverkehr aus",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/bahn-generalsanierung-berlin-lehrte-14-monate-unterbrechung-re4-rathenow.html",
+      "date": "Tue, 15 Sep 2026 09:27:19 +0200"
+    },
+    {
+      "title": "Mildes Spätsommerwetter weicht ab Mittwoch Schauern und Gewittern",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/wetter-ab-mittwoch-schauer-gewitter-regen-spaetsommer-berlin-brandenburg.html",
+      "date": "Tue, 15 Sep 2026 08:19:59 +0200"
+    },
+    {
       "title": "Bombenentschärfung in Elsterwerda: Evakuierung am Dienstagmorgen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/bombenentschaerfung-dienstag-elsterwerda-elbe-elster-brandenburg.html",
-      "date": "Mon, 14 Sep 2026 18:49:50 +0200"
+      "date": "Tue, 15 Sep 2026 07:06:36 +0200"
     },
     {
       "title": "Ermittlungen: 56-jähriger Jäger stirbt bei der Jagd in Brandenburg",
@@ -168,11 +178,6 @@
       "date": "Mon, 14 Sep 2026 13:39:42 +0200"
     },
     {
-      "title": "Sanierung der Bahnstrecke Berlin-Lehrte bremst auch Regionalverkehr aus",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/bahn-generalsanierung-berlin-lehrte-14-monate-unterbrechung-re4-rathenow.html",
-      "date": "Mon, 14 Sep 2026 12:24:46 +0200"
-    },
-    {
       "title": "Bundesanwaltschaft: Mutmaßliche Spionin Russlands in Berlin angeklagt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-karlsruhe-bundesanwaltschaft-anklage-mutmassliche-russische-spionin.html",
       "date": "Mon, 14 Sep 2026 12:20:25 +0200"
@@ -181,11 +186,6 @@
       "title": "Temperaturen bis 26 Grad: Noch einmal im Freien baden zum Ende der Saison",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-badesaison-ende-gute-wasserqualitaet.html",
       "date": "Mon, 14 Sep 2026 12:13:37 +0200"
-    },
-    {
-      "title": "Mehrere Bahnlinien zum Flughafen BER fallen aus",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-brandenburg-bahn-fex-ausfaelle-ber-flughafen.html",
-      "date": "Mon, 14 Sep 2026 11:47:02 +0200"
     }
   ]
 }
