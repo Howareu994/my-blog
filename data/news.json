@@ -1,67 +1,72 @@
 {
   "traffic": [
     {
+      "title": "Charité-Beschäftigte ab Donnerstag zum Streik aufgerufen",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/09/berlin-warnstreik-charite-verdi-notdienst.html",
+      "date": "Wed, 16 Sep 2026 19:25:05 +0200"
+    },
+    {
+      "title": "DDR-Bürgerrechtler Martin Gutzeit gestorben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/pfarrer-und-ddr-buergerrechtler-martin-gutzeit-gestorben-.html",
+      "date": "Wed, 16 Sep 2026 19:25:00 +0200"
+    },
+    {
+      "title": "rbb24 Wahlarena-Ticker: Debatte der Spitzenkandidaten",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/rbb-wahlarena-liveticker-abgeordnetenhaus-parteien.html",
+      "date": "Wed, 16 Sep 2026 18:45:54 +0200"
+    },
+    {
+      "title": "Polizei stellt Anti-Höcke-Plakat bei der Linken in Fürstenwalde sicher",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/polizei-Plakat-bjoern-hoecke-beschlagnahmung-linke.html",
+      "date": "Wed, 16 Sep 2026 18:17:33 +0200"
+    },
+    {
+      "title": "Brandenburger Landtag billigt neuen rbb-Staatsvertrag",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/09/berlin-brandenburg-rbb-rundfunk-staatsvertrag-landtag.html",
+      "date": "Wed, 16 Sep 2026 18:15:19 +0200"
+    },
+    {
+      "title": "Mehrere Angriffe auf Helfer an Wahlständen",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/09/angriff-wahlstaende-cdu-afd-berlin.html",
+      "date": "Wed, 16 Sep 2026 18:10:03 +0200"
+    },
+    {
+      "title": "Livestream: \"Die rbb24 Wahlarena. Ihre Wahl - Ihre Fragen\"",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahl-2026-wahlarena-fragerunde-politiker-buerger-talk.html",
+      "date": "Wed, 16 Sep 2026 18:03:43 +0200"
+    },
+    {
+      "title": "Berufungsprozess um ertrunkenes Mädchen gestartet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/prozess-landgericht-frankfurt-oder-maedchen-ertrunken-berufung.html",
+      "date": "Wed, 16 Sep 2026 16:55:29 +0200"
+    },
+    {
+      "title": "Union-Trainer: \"Geile Challenge\" statt Angst vor dem FC Bayern",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/vorschau-fc-bayern-muenchen-union-berlin-bundesliga-lustrinelli.html",
+      "date": "Wed, 16 Sep 2026 16:08:47 +0200"
+    },
+    {
       "title": "Tickets für Bus und Bahn in Berlin sind deutlich teurer geworden",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/bus-bahn-bvg-berlin-tickets-teurer.html",
-      "date": "Wed, 16 Sep 2026 15:32:32 +0200"
+      "date": "Wed, 16 Sep 2026 16:04:25 +0200"
+    },
+    {
+      "title": "Lichtenberg vor der Wahl: Polizeireform schwer zu vermitteln",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/bvv/lichtenberg-hohenschoenhausen-rummelsburg-polizei-abschnitte.html",
+      "date": "Wed, 16 Sep 2026 15:55:00 +0200"
     },
     {
       "title": "Berlin-Wahl 2026: Das sind die Spitzenkandidaten",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/spitzenkandidaten/cdu-spd-gruene-linke-afd-fdp-bsw-evers-krach-graf-eralp-brinker-meyer-king.html",
       "date": "Wed, 16 Sep 2026 15:32:06 +0200"
-    },
-    {
-      "title": "Doppelhaushalt 2027/28: Debatte im Brandenburger Landtag",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/09/brandenburg-generaldebatte-doppel-haushalt-2027-2028.html",
-      "date": "Wed, 16 Sep 2026 15:19:39 +0200"
-    },
-    {
-      "title": "Stahnsdorfer Südwestkirchhof: Unbekannte öffnen Zaun erneut",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/vandalismus-friedhof-stahnsdorf-suedwestkirchhof-wildschweine-zaun.html",
-      "date": "Wed, 16 Sep 2026 13:49:32 +0200"
-    },
-    {
-      "title": "Nach CSD-Anschlag: Bundesregierung stellt Maßnahmen gegen Terror vor",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-csd-anschlag-10-punkte-plan-haertere-strafen.html",
-      "date": "Wed, 16 Sep 2026 13:44:00 +0200"
-    },
-    {
-      "title": "Nach Hackerangriff: Hunderte Berliner melden sich",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/hunderte-anfragen-nach-hackerangriff-berlin-anlaufstelle-senat.html",
-      "date": "Wed, 16 Sep 2026 12:39:56 +0200"
-    },
-    {
-      "title": "Stadtwerke-Verband fordert besseren Schutz für Stromnetze",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/stadtwerke-verband-mehr-schutz-stromnetze-gefordert-kritische-infrastruktur-restriktionen.html",
-      "date": "Wed, 16 Sep 2026 12:12:40 +0200"
-    },
-    {
-      "title": "70 Sportabzeichen: 89-jähriger Berliner macht einfach weiter",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/herbert-koepke-70-sportabzeichen-rekord-tegel-kleingarten.html",
-      "date": "Wed, 16 Sep 2026 12:12:00 +0200"
-    },
-    {
-      "title": "Berufungsprozess um ertrunkenes Mädchen gestartet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/prozess-landgericht-frankfurt-oder-maedchen-ertrunken-berufung.html",
-      "date": "Wed, 16 Sep 2026 11:58:30 +0200"
-    },
-    {
-      "title": "Schienenfahrzeugbauer in Brandenburg sichert sich Bahn-Großauftrag",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/09/brandenburg-havel-gmb-grossauftrag-deutsche-bahn-wartung.html",
-      "date": "Wed, 16 Sep 2026 11:36:33 +0200"
-    },
-    {
-      "title": "Spritpreise auf Rekordhoch - Tanken mit E10 teuer wie nie",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/09/spritpreise-tanken-benzin-super-e10-diesel-berlin-brandenburg.html",
-      "date": "Wed, 16 Sep 2026 11:33:28 +0200"
-    },
-    {
-      "title": "Messerangriff in Potsdam - Polizei fahndet nach Tatverdächtigem",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/potsdam-angriff-mann-schwer-verletzt-polizei-suche-verdaechtiger.html",
-      "date": "Wed, 16 Sep 2026 11:27:02 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Attacke am Infostand",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1714851.php",
+      "date": "Wed, 16 Sep 2026 15:57:33 +0200"
+    },
     {
       "title": "Sachbeschädigungen an Wahlplakaten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1714788.php",
@@ -116,11 +121,6 @@
       "title": "DEIG Einsatz nach Widerstand",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1714007.php",
       "date": "Tue, 15 Sep 2026 11:57:27 +0200"
-    },
-    {
-      "title": "Vermisster Tourist wieder wohlbehalten bei Freunden",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713578.php",
-      "date": "Tue, 15 Sep 2026 00:01:00 +0200"
     }
   ],
   "free_events": [],
@@ -128,9 +128,24 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "DDR-Bürgerrechtler Martin Gutzeit gestorben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/pfarrer-und-ddr-buergerrechtler-martin-gutzeit-gestorben-.html",
+      "date": "Wed, 16 Sep 2026 19:25:00 +0200"
+    },
+    {
+      "title": "Polizei stellt Anti-Höcke-Plakat bei der Linken in Fürstenwalde sicher",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/polizei-Plakat-bjoern-hoecke-beschlagnahmung-linke.html",
+      "date": "Wed, 16 Sep 2026 18:17:33 +0200"
+    },
+    {
+      "title": "Berufungsprozess um ertrunkenes Mädchen gestartet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/prozess-landgericht-frankfurt-oder-maedchen-ertrunken-berufung.html",
+      "date": "Wed, 16 Sep 2026 16:55:29 +0200"
+    },
+    {
       "title": "Tickets für Bus und Bahn in Berlin sind deutlich teurer geworden",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/bus-bahn-bvg-berlin-tickets-teurer.html",
-      "date": "Wed, 16 Sep 2026 15:32:32 +0200"
+      "date": "Wed, 16 Sep 2026 16:04:25 +0200"
     },
     {
       "title": "Stahnsdorfer Südwestkirchhof: Unbekannte öffnen Zaun erneut",
@@ -153,11 +168,6 @@
       "date": "Wed, 16 Sep 2026 12:12:40 +0200"
     },
     {
-      "title": "Berufungsprozess um ertrunkenes Mädchen gestartet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/prozess-landgericht-frankfurt-oder-maedchen-ertrunken-berufung.html",
-      "date": "Wed, 16 Sep 2026 11:58:30 +0200"
-    },
-    {
       "title": "Messerangriff in Potsdam - Polizei fahndet nach Tatverdächtigem",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/potsdam-angriff-mann-schwer-verletzt-polizei-suche-verdaechtiger.html",
       "date": "Wed, 16 Sep 2026 11:27:02 +0200"
@@ -176,16 +186,6 @@
       "title": "Berliner Bäderbetriebe ziehen positive Bilanz der Freibad-Saison",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-baederbetriebe-positive-bilanz-freibad-saison.html",
       "date": "Tue, 15 Sep 2026 17:15:34 +0200"
-    },
-    {
-      "title": "Frau mit Axt im Hosenbund attackiert Polizei im Görlitzer Park",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-frau-axt-greift-polizei-an-goerlitzer-park.html",
-      "date": "Tue, 15 Sep 2026 16:17:03 +0200"
-    },
-    {
-      "title": "Berlin verliert seine Spatzen - und Experten rätseln über Gründe",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-spatzen-haussperling-rueckgang.html",
-      "date": "Tue, 15 Sep 2026 15:26:00 +0200"
     }
   ]
 }
