@@ -1,9 +1,39 @@
 {
   "traffic": [
     {
+      "title": "Spritpreise auf Rekordhoch - Tanken mit E10 teuer wie nie",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/09/spritpreise-tanken-benzin-super-e10-diesel-berlin-brandenburg.html",
+      "date": "Thu, 17 Sep 2026 09:42:25 +0200"
+    },
+    {
+      "title": "Schlau wie die Sau: Wildschweine in Berliner Wohngebieten",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-wildschweine-wohnsiedlungen-stadtgebiet-spandau-steglitz-zehlendorf-futtersuche.html",
+      "date": "Thu, 17 Sep 2026 09:01:38 +0200"
+    },
+    {
+      "title": "Brand im U-Bahnhof Wittenbergplatz: U2 und U3 unterbrochen, U1 fährt gar nicht",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-ubahnhof-wittenbergplatz-brand-bvg-linien-unterbrochen.html",
+      "date": "Thu, 17 Sep 2026 08:33:20 +0200"
+    },
+    {
+      "title": "Nach antisemitischem Angriff: Jüdische Organisationen rufen zum Tragen eines Davidsterns auf",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-antisemitischer-angriff-frau-davidstern-solidaritaet.html",
+      "date": "Thu, 17 Sep 2026 07:14:20 +0200"
+    },
+    {
+      "title": "Charité-Beschäftigte ab Donnerstag zum Streik aufgerufen",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/09/berlin-warnstreik-charite-verdi-notdienst.html",
+      "date": "Thu, 17 Sep 2026 06:25:21 +0200"
+    },
+    {
+      "title": "Hertha-Eigengewächs Ibo Maza: Vom Berliner Beton zum Ballon d'Or",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/berlin-fussball-ibrahim-maza-hertha-bsc-leverkusen-ballon-dor-dfb.html",
+      "date": "Thu, 17 Sep 2026 06:10:00 +0200"
+    },
+    {
       "title": "BFC Dynamo verspielt 2:0 gegen Lok, Tasmania geht gegen Chemie unter",
       "link": "https://www.rbb24.de/sport/beitrag/2026/09/berlin-brandenburg-fussball-regionalliga-nordost-stahnsdorf-bfc-dynamo-babelsberg-tasmania.html",
-      "date": "Wed, 16 Sep 2026 23:27:30 +0200"
+      "date": "Wed, 16 Sep 2026 23:27:00 +0200"
     },
     {
       "title": "rbb24 Wahlarena-Ticker: Debatte der Spitzenkandidaten",
@@ -14,11 +44,6 @@
       "title": "Nach Hackerangriff: Hunderte Berliner melden sich",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/hunderte-anfragen-nach-hackerangriff-berlin-anlaufstelle-senat.html",
       "date": "Wed, 16 Sep 2026 19:52:50 +0200"
-    },
-    {
-      "title": "Charité-Beschäftigte ab Donnerstag zum Streik aufgerufen",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/09/berlin-warnstreik-charite-verdi-notdienst.html",
-      "date": "Wed, 16 Sep 2026 19:25:05 +0200"
     },
     {
       "title": "DDR-Bürgerrechtler Martin Gutzeit gestorben",
@@ -34,34 +59,19 @@
       "title": "Brandenburger Landtag billigt neuen rbb-Staatsvertrag",
       "link": "https://www.rbb24.de/politik/beitrag/2026/09/berlin-brandenburg-rbb-rundfunk-staatsvertrag-landtag.html",
       "date": "Wed, 16 Sep 2026 18:15:19 +0200"
-    },
-    {
-      "title": "Mehrere Angriffe auf Helfer an Wahlständen",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/09/angriff-wahlstaende-cdu-afd-berlin.html",
-      "date": "Wed, 16 Sep 2026 18:10:03 +0200"
-    },
-    {
-      "title": "Berufungsprozess um ertrunkenes Mädchen gestartet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/prozess-landgericht-frankfurt-oder-maedchen-ertrunken-berufung.html",
-      "date": "Wed, 16 Sep 2026 16:55:29 +0200"
-    },
-    {
-      "title": "Union-Trainer: \"Geile Challenge\" statt Angst vor dem FC Bayern",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/vorschau-fc-bayern-muenchen-union-berlin-bundesliga-lustrinelli.html",
-      "date": "Wed, 16 Sep 2026 16:08:47 +0200"
-    },
-    {
-      "title": "Tickets für Bus und Bahn in Berlin sind deutlich teurer geworden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/bus-bahn-bvg-berlin-tickets-teurer.html",
-      "date": "Wed, 16 Sep 2026 16:04:25 +0200"
-    },
-    {
-      "title": "Lichtenberg vor der Wahl: Polizeireform schwer zu vermitteln",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/bvv/lichtenberg-hohenschoenhausen-rummelsburg-polizei-abschnitte.html",
-      "date": "Wed, 16 Sep 2026 15:55:00 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Farbschmierereien an Wahlkreisbüro",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1715125.php",
+      "date": "Thu, 17 Sep 2026 10:01:00 +0200"
+    },
+    {
+      "title": "Heranwachsende angegriffen - Polizei Berlin sucht Zeuginnen und Zeugen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1715072.php",
+      "date": "Thu, 17 Sep 2026 09:35:45 +0200"
+    },
     {
       "title": "Attacke am Infostand",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1714851.php",
@@ -111,22 +121,27 @@
       "title": "Gegen einen Baum geprallt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1714166.php",
       "date": "Tue, 15 Sep 2026 15:24:52 +0200"
-    },
-    {
-      "title": "E-Scooter-Fahrerin bei Verkehrsunfall verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1714019.php",
-      "date": "Tue, 15 Sep 2026 12:10:26 +0200"
-    },
-    {
-      "title": "DEIG Einsatz nach Widerstand",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1714007.php",
-      "date": "Tue, 15 Sep 2026 11:57:27 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Schlau wie die Sau: Wildschweine in Berliner Wohngebieten",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-wildschweine-wohnsiedlungen-stadtgebiet-spandau-steglitz-zehlendorf-futtersuche.html",
+      "date": "Thu, 17 Sep 2026 09:01:38 +0200"
+    },
+    {
+      "title": "Brand im U-Bahnhof Wittenbergplatz: U2 und U3 unterbrochen, U1 fährt gar nicht",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-ubahnhof-wittenbergplatz-brand-bvg-linien-unterbrochen.html",
+      "date": "Thu, 17 Sep 2026 08:33:20 +0200"
+    },
+    {
+      "title": "Nach antisemitischem Angriff: Jüdische Organisationen rufen zum Tragen eines Davidsterns auf",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-antisemitischer-angriff-frau-davidstern-solidaritaet.html",
+      "date": "Thu, 17 Sep 2026 07:14:20 +0200"
+    },
     {
       "title": "Nach Hackerangriff: Hunderte Berliner melden sich",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/hunderte-anfragen-nach-hackerangriff-berlin-anlaufstelle-senat.html",
@@ -171,21 +186,6 @@
       "title": "Messerangriff in Potsdam - Polizei fahndet nach Tatverdächtigem",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/potsdam-angriff-mann-schwer-verletzt-polizei-suche-verdaechtiger.html",
       "date": "Wed, 16 Sep 2026 11:27:02 +0200"
-    },
-    {
-      "title": "Zum Jahreswechsel erneut Silvesterparty am Brandenburger Tor geplant",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-silvester-party-brandenburger-tor-geplant.html",
-      "date": "Wed, 16 Sep 2026 11:24:21 +0200"
-    },
-    {
-      "title": "Wohnungsbetrüger in Berlin zu Haftstrafe verurteilt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-betrug-wohnungssuchende-haftstrafe.html",
-      "date": "Tue, 15 Sep 2026 19:13:29 +0200"
-    },
-    {
-      "title": "Berliner Bäderbetriebe ziehen positive Bilanz der Freibad-Saison",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-baederbetriebe-positive-bilanz-freibad-saison.html",
-      "date": "Tue, 15 Sep 2026 17:15:34 +0200"
     }
   ]
 }
