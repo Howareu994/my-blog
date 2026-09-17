@@ -61,7 +61,68 @@
       "date": "Thu, 17 Sep 2026 16:11:15 +0200"
     }
   ],
-  "police": [],
+  "police": [
+    {
+      "title": "Polizist bei Verkehrskontrolle angefahren",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1715408.php",
+      "date": "Thu, 17 Sep 2026 13:49:16 +0200"
+    },
+    {
+      "title": "Hotel überfallen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1715324.php",
+      "date": "Thu, 17 Sep 2026 13:06:31 +0200"
+    },
+    {
+      "title": "Homophober Angriff",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1715289.php",
+      "date": "Thu, 17 Sep 2026 12:37:51 +0200"
+    },
+    {
+      "title": "Fußgängerin von Tram angefahren",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1715253.php",
+      "date": "Thu, 17 Sep 2026 12:15:08 +0200"
+    },
+    {
+      "title": "Farbschmierereien an Wahlkreisbüro",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1715125.php",
+      "date": "Thu, 17 Sep 2026 10:01:00 +0200"
+    },
+    {
+      "title": "Heranwachsende angegriffen - Polizei Berlin sucht Zeuginnen und Zeugen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1715072.php",
+      "date": "Thu, 17 Sep 2026 09:35:45 +0200"
+    },
+    {
+      "title": "Attacke am Infostand",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1714851.php",
+      "date": "Wed, 16 Sep 2026 15:57:33 +0200"
+    },
+    {
+      "title": "Sachbeschädigungen an Wahlplakaten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1714788.php",
+      "date": "Wed, 16 Sep 2026 14:47:15 +0200"
+    },
+    {
+      "title": "Feuer in einem Fast-Food-Restaurant",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1714769.php",
+      "date": "Wed, 16 Sep 2026 14:34:53 +0200"
+    },
+    {
+      "title": "Verkehrsunfall mit Kettenreaktion",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1714689.php",
+      "date": "Wed, 16 Sep 2026 13:36:14 +0200"
+    },
+    {
+      "title": "Verkehrsunfall mit Polizeifahrzeug",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1714521.php",
+      "date": "Wed, 16 Sep 2026 12:12:51 +0200"
+    },
+    {
+      "title": "Frau an einem Informationsstand einer Partei angegriffen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1714411.php",
+      "date": "Wed, 16 Sep 2026 10:39:14 +0200"
+    }
+  ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
