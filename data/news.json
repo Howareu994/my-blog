@@ -1,6 +1,31 @@
 {
   "traffic": [
     {
+      "title": "A10 und A9 am Dreieck Potsdam nach Lkw-Unfall gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berliner-ring-nach-lkw-unfall-gesperrt.html",
+      "date": "Fri, 18 Sep 2026 09:40:18 +0200"
+    },
+    {
+      "title": "Brand im U-Bahnhof Wittenbergplatz: U2 und U3 unterbrochen, U1 fährt gar nicht",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-ubahnhof-wittenbergplatz-brand-bvg-linien-unterbrochen.html",
+      "date": "Fri, 18 Sep 2026 07:30:09 +0200"
+    },
+    {
+      "title": "Bauarbeiten Forst - Roggosen: A15 wird für Kampfmittel-Beseitigung voll gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-forst-roggosen-autobahn-15-sperrung-sprengung-kampfmittel.html",
+      "date": "Fri, 18 Sep 2026 07:17:55 +0200"
+    },
+    {
+      "title": "Was die Berliner Wahlprogramme mit Brandenburg zu tun haben",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahl-agh-2026-brandenburg-wirtschaft-wohnen-wasser.html",
+      "date": "Fri, 18 Sep 2026 06:15:00 +0200"
+    },
+    {
+      "title": "Vor 35 Jahren: EFC Stahl zwischen Europapokal und Untergang",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/fussball-historie-europapokal-stahl-eisenhuettenstadt-galatasaray-istanbul-35-jahre.html",
+      "date": "Fri, 18 Sep 2026 06:15:00 +0200"
+    },
+    {
       "title": "Rat für die Künste Berlin kritisiert: weniger Bundesmittel für Hauptstadtkulturfonds",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/09/berlin-weniger-bundesmittel-hauptstadtkulturfonds-kritik-hauptstadtfinanzierungsvertrag.html",
       "date": "Thu, 17 Sep 2026 19:30:37 +0200"
@@ -18,7 +43,7 @@
     {
       "title": "Ermittlung wegen versuchten Totschlags: Passagier greift BER-Mitarbeiter an",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/flughafen-ber-mitarbeiter-passagier-angriff-brandenburg.html",
-      "date": "Thu, 17 Sep 2026 18:47:16 +0200"
+      "date": "Thu, 17 Sep 2026 18:47:00 +0200"
     },
     {
       "title": "Berlin-Wahl: Hunderte Straftaten im Wahlkampf",
@@ -34,34 +59,14 @@
       "title": "Nach Messerangriff in Potsdam: Tatverdächtiger in Berlin gefasst",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/potsdam-messer-angriff--tatverdaechtiger-in-berlin-gefasst.html",
       "date": "Thu, 17 Sep 2026 17:45:41 +0200"
-    },
-    {
-      "title": "Lausitzer Seenland: Fünf Seen in unter acht Stunden durchschwommen",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/brandenburg-lausitzer-seenland-schwimmerin-pavla-petrova-fuenf-seen-verbund.html",
-      "date": "Thu, 17 Sep 2026 17:17:57 +0200"
-    },
-    {
-      "title": "Brand im U-Bahnhof Wittenbergplatz: U2 und U3 unterbrochen, U1 fährt gar nicht",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-ubahnhof-wittenbergplatz-brand-bvg-linien-unterbrochen.html",
-      "date": "Thu, 17 Sep 2026 17:16:46 +0200"
-    },
-    {
-      "title": "Hohe Spritpreise: Was sie für verschiedene Fahrertypen bedeuten",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/09/gestiegene-spritpreise-berlin-brandenburg-bedeutung-autofahrer.html",
-      "date": "Thu, 17 Sep 2026 16:53:47 +0200"
-    },
-    {
-      "title": "NOFV macht Druck: Berliner Preussenstadion bekommt bald Flutlicht",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/fussball-regionalliga-rsv-eintracht-bfc-preussen-preussenstadion-flutlicht-berlin.html",
-      "date": "Thu, 17 Sep 2026 16:46:26 +0200"
-    },
-    {
-      "title": "Schlau wie die Sau: Wildschweine in Berliner Wohngebieten",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-wildschweine-wohnsiedlungen-stadtgebiet-spandau-steglitz-zehlendorf-futtersuche.html",
-      "date": "Thu, 17 Sep 2026 16:11:15 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Körperverletzung und versuchter Raub – wer erkennt die Tatverdächtigen?",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1715729.php",
+      "date": "Fri, 18 Sep 2026 09:20:39 +0200"
+    },
     {
       "title": "Polizist bei Verkehrskontrolle angefahren",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1715408.php",
@@ -116,11 +121,6 @@
       "title": "Verkehrsunfall mit Polizeifahrzeug",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1714521.php",
       "date": "Wed, 16 Sep 2026 12:12:51 +0200"
-    },
-    {
-      "title": "Frau an einem Informationsstand einer Partei angegriffen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1714411.php",
-      "date": "Wed, 16 Sep 2026 10:39:14 +0200"
     }
   ],
   "free_events": [],
@@ -128,9 +128,24 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "A10 und A9 am Dreieck Potsdam nach Lkw-Unfall gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berliner-ring-nach-lkw-unfall-gesperrt.html",
+      "date": "Fri, 18 Sep 2026 09:40:18 +0200"
+    },
+    {
+      "title": "Brand im U-Bahnhof Wittenbergplatz: U2 und U3 unterbrochen, U1 fährt gar nicht",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-ubahnhof-wittenbergplatz-brand-bvg-linien-unterbrochen.html",
+      "date": "Fri, 18 Sep 2026 07:30:09 +0200"
+    },
+    {
+      "title": "Bauarbeiten Forst - Roggosen: A15 wird für Kampfmittel-Beseitigung voll gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-forst-roggosen-autobahn-15-sperrung-sprengung-kampfmittel.html",
+      "date": "Fri, 18 Sep 2026 07:17:55 +0200"
+    },
+    {
       "title": "Ermittlung wegen versuchten Totschlags: Passagier greift BER-Mitarbeiter an",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/flughafen-ber-mitarbeiter-passagier-angriff-brandenburg.html",
-      "date": "Thu, 17 Sep 2026 18:47:16 +0200"
+      "date": "Thu, 17 Sep 2026 18:47:00 +0200"
     },
     {
       "title": "Nach Messerangriff in Potsdam: Tatverdächtiger in Berlin gefasst",
@@ -140,12 +155,7 @@
     {
       "title": "Mehr Suchtprobleme bei Kindern und Jugendlichen in Ludwigsfelde registriert",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/ludwigsfelde-drogen-sucht-probleme-kinder-jugendliche-zunahme.html",
-      "date": "Thu, 17 Sep 2026 17:23:13 +0200"
-    },
-    {
-      "title": "Brand im U-Bahnhof Wittenbergplatz: U2 und U3 unterbrochen, U1 fährt gar nicht",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-ubahnhof-wittenbergplatz-brand-bvg-linien-unterbrochen.html",
-      "date": "Thu, 17 Sep 2026 17:16:46 +0200"
+      "date": "Thu, 17 Sep 2026 17:23:00 +0200"
     },
     {
       "title": "Schlau wie die Sau: Wildschweine in Berliner Wohngebieten",
@@ -168,11 +178,6 @@
       "date": "Thu, 17 Sep 2026 13:53:53 +0200"
     },
     {
-      "title": "Bauarbeiten Forst - Roggosen: A15 wird für Kampfmittel-Beseitigung voll gesperrt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-forst-roggosen-autobahn-15-sperrung-sprengung-kampfmittel.html",
-      "date": "Thu, 17 Sep 2026 13:25:46 +0200"
-    },
-    {
       "title": "Nach antisemitischem Angriff: Jüdische Organisationen rufen zum Tragen eines Davidsterns auf",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-antisemitischer-angriff-frau-davidstern-solidaritaet.html",
       "date": "Thu, 17 Sep 2026 07:14:20 +0200"
@@ -181,11 +186,6 @@
       "title": "Nach Hackerangriff: Hunderte Berliner melden sich",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/hunderte-anfragen-nach-hackerangriff-berlin-anlaufstelle-senat.html",
       "date": "Wed, 16 Sep 2026 19:52:50 +0200"
-    },
-    {
-      "title": "DDR-Bürgerrechtler Martin Gutzeit gestorben",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/pfarrer-und-ddr-buergerrechtler-martin-gutzeit-gestorben-.html",
-      "date": "Wed, 16 Sep 2026 19:25:00 +0200"
     }
   ]
 }
