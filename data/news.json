@@ -1,19 +1,54 @@
 {
   "traffic": [
     {
-      "title": "A10 und A9 am Dreieck Potsdam nach Lkw-Unfall gesperrt",
+      "title": "Roter Panda im Berliner Tierpark geboren",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/roter-panda-tierpark-berlin-weibchen-praechtig-friedrichsfelde.html",
+      "date": "Fri, 18 Sep 2026 14:10:04 +0200"
+    },
+    {
+      "title": "Bleibt Viktoria Berlin auf Bundesliga-Kurs?",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/fussball-frauen-viktoria-berlin-sgs-essen-isabelle-knipp.html",
+      "date": "Fri, 18 Sep 2026 14:06:00 +0200"
+    },
+    {
+      "title": "Erstes Tucholsky-Literaturfestival in Rheinsberg startet",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/09/rheinsberg-tucholsky-literatur-festival-museum-thalbach-stadlober.html",
+      "date": "Fri, 18 Sep 2026 14:00:21 +0200"
+    },
+    {
+      "title": "Lkw stürzt auf Autobahn am Dreieck Potsdam um - Fahrer stirbt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berliner-ring-nach-lkw-unfall-gesperrt.html",
-      "date": "Fri, 18 Sep 2026 09:40:18 +0200"
+      "date": "Fri, 18 Sep 2026 13:49:46 +0200"
     },
     {
-      "title": "Brand im U-Bahnhof Wittenbergplatz: U2 und U3 unterbrochen, U1 fährt gar nicht",
+      "title": "Amerikanische Faulbrut breitet sich in Dahme-Spreewald weiter aus",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/bienensterben-dahme-spreewald.html",
+      "date": "Fri, 18 Sep 2026 13:39:20 +0200"
+    },
+    {
+      "title": "Neuer Bürgermeister von Schönwalde-Glien wird am Sonntag gewählt",
+      "link": "https://www.rbb24.de/politik/wahl/brandenburg-buergermeisterwahlen/2026/schoenwalde-glien-havelland-gierke-hank-hartley-kraatz.html",
+      "date": "Fri, 18 Sep 2026 13:36:23 +0200"
+    },
+    {
+      "title": "Fußball-Regionalliga: \"4 Blocks\"-Star für die VSG Altglienicke",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/fussball-regionalliga-vsg-altglienicke-ramadan.html",
+      "date": "Fri, 18 Sep 2026 13:32:08 +0200"
+    },
+    {
+      "title": "Premiere am Berliner Ensemble: Frank Castorf inszeniert \"Mephisto\"",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/09/berliner-ensemble-frank-castorf-klaus-mann-mephisto-kritik.html",
+      "date": "Fri, 18 Sep 2026 13:03:07 +0200"
+    },
+    {
+      "title": "Brand im U-Bahnhof Wittenbergplatz: U3 fährt wieder durchgehend, U-Bahn-Linie 1 bleibt außer Betrieb",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-ubahnhof-wittenbergplatz-brand-bvg-linien-unterbrochen.html",
-      "date": "Fri, 18 Sep 2026 07:30:09 +0200"
+      "date": "Fri, 18 Sep 2026 12:00:25 +0200"
     },
     {
-      "title": "Bauarbeiten Forst - Roggosen: A15 wird für Kampfmittel-Beseitigung voll gesperrt",
+      "title": "Forst - Roggosen: Autobahn 15 nach Sprengung von Granaten wieder freigegeben",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-forst-roggosen-autobahn-15-sperrung-sprengung-kampfmittel.html",
-      "date": "Fri, 18 Sep 2026 07:17:55 +0200"
+      "date": "Fri, 18 Sep 2026 10:23:00 +0200"
     },
     {
       "title": "Was die Berliner Wahlprogramme mit Brandenburg zu tun haben",
@@ -24,44 +59,24 @@
       "title": "Vor 35 Jahren: EFC Stahl zwischen Europapokal und Untergang",
       "link": "https://www.rbb24.de/sport/beitrag/2026/09/fussball-historie-europapokal-stahl-eisenhuettenstadt-galatasaray-istanbul-35-jahre.html",
       "date": "Fri, 18 Sep 2026 06:15:00 +0200"
-    },
-    {
-      "title": "Rat für die Künste Berlin kritisiert: weniger Bundesmittel für Hauptstadtkulturfonds",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/09/berlin-weniger-bundesmittel-hauptstadtkulturfonds-kritik-hauptstadtfinanzierungsvertrag.html",
-      "date": "Thu, 17 Sep 2026 19:30:37 +0200"
-    },
-    {
-      "title": "Neukölln vor der Wahl: Schwindendes Vertrauen migrantischer Communitys in Politik",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/bvv/neukoelln-vertrauen-politik-migranten.html",
-      "date": "Thu, 17 Sep 2026 19:18:53 +0200"
-    },
-    {
-      "title": "Hertha vor Spiel gegen Dresden: Von Sorgenfalten zum Luxusproblem",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/berlin-fussball-hertha-bsc-dynamo-dresden-vorbericht-leitl-adewumi-gouram-groenning-nilsson.html",
-      "date": "Thu, 17 Sep 2026 19:05:40 +0200"
-    },
-    {
-      "title": "Ermittlung wegen versuchten Totschlags: Passagier greift BER-Mitarbeiter an",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/flughafen-ber-mitarbeiter-passagier-angriff-brandenburg.html",
-      "date": "Thu, 17 Sep 2026 18:47:00 +0200"
-    },
-    {
-      "title": "Berlin-Wahl: Hunderte Straftaten im Wahlkampf",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahlkampf-agh-wahl-mehrere-hundert-straftaten.html",
-      "date": "Thu, 17 Sep 2026 18:21:00 +0200"
-    },
-    {
-      "title": "Frankfurt (Oder): Sozialverbände protestieren gegen geplante Kürzungen",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/09/frankfurt-oder-protest-wohlfahrtsverbaende-kuerzungen.html",
-      "date": "Thu, 17 Sep 2026 17:47:05 +0200"
-    },
-    {
-      "title": "Nach Messerangriff in Potsdam: Tatverdächtiger in Berlin gefasst",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/potsdam-messer-angriff--tatverdaechtiger-in-berlin-gefasst.html",
-      "date": "Thu, 17 Sep 2026 17:45:41 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Nach versuchtem Totschlag – Mordkommission sucht weiter nach Zeuginnen und Zeugen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712872.php",
+      "date": "Fri, 18 Sep 2026 13:33:00 +0200"
+    },
+    {
+      "title": "Schussabgabe durch Polizeibeamten",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716068.php",
+      "date": "Fri, 18 Sep 2026 13:18:20 +0200"
+    },
+    {
+      "title": "64-Jähriger vermisst – Polizei bittet um Mithilfe",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716014.php",
+      "date": "Fri, 18 Sep 2026 12:07:52 +0200"
+    },
     {
       "title": "Körperverletzung und versuchter Raub – wer erkennt die Tatverdächtigen?",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1715729.php",
@@ -106,21 +121,6 @@
       "title": "Sachbeschädigungen an Wahlplakaten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1714788.php",
       "date": "Wed, 16 Sep 2026 14:47:15 +0200"
-    },
-    {
-      "title": "Feuer in einem Fast-Food-Restaurant",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1714769.php",
-      "date": "Wed, 16 Sep 2026 14:34:53 +0200"
-    },
-    {
-      "title": "Verkehrsunfall mit Kettenreaktion",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1714689.php",
-      "date": "Wed, 16 Sep 2026 13:36:14 +0200"
-    },
-    {
-      "title": "Verkehrsunfall mit Polizeifahrzeug",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1714521.php",
-      "date": "Wed, 16 Sep 2026 12:12:51 +0200"
     }
   ],
   "free_events": [],
@@ -128,19 +128,29 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "A10 und A9 am Dreieck Potsdam nach Lkw-Unfall gesperrt",
+      "title": "Roter Panda im Berliner Tierpark geboren",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/roter-panda-tierpark-berlin-weibchen-praechtig-friedrichsfelde.html",
+      "date": "Fri, 18 Sep 2026 14:10:04 +0200"
+    },
+    {
+      "title": "Lkw stürzt auf Autobahn am Dreieck Potsdam um - Fahrer stirbt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berliner-ring-nach-lkw-unfall-gesperrt.html",
-      "date": "Fri, 18 Sep 2026 09:40:18 +0200"
+      "date": "Fri, 18 Sep 2026 13:49:46 +0200"
     },
     {
-      "title": "Brand im U-Bahnhof Wittenbergplatz: U2 und U3 unterbrochen, U1 fährt gar nicht",
+      "title": "Amerikanische Faulbrut breitet sich in Dahme-Spreewald weiter aus",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/bienensterben-dahme-spreewald.html",
+      "date": "Fri, 18 Sep 2026 13:39:20 +0200"
+    },
+    {
+      "title": "Brand im U-Bahnhof Wittenbergplatz: U3 fährt wieder durchgehend, U-Bahn-Linie 1 bleibt außer Betrieb",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-ubahnhof-wittenbergplatz-brand-bvg-linien-unterbrochen.html",
-      "date": "Fri, 18 Sep 2026 07:30:09 +0200"
+      "date": "Fri, 18 Sep 2026 12:00:25 +0200"
     },
     {
-      "title": "Bauarbeiten Forst - Roggosen: A15 wird für Kampfmittel-Beseitigung voll gesperrt",
+      "title": "Forst - Roggosen: Autobahn 15 nach Sprengung von Granaten wieder freigegeben",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-forst-roggosen-autobahn-15-sperrung-sprengung-kampfmittel.html",
-      "date": "Fri, 18 Sep 2026 07:17:55 +0200"
+      "date": "Fri, 18 Sep 2026 10:23:00 +0200"
     },
     {
       "title": "Ermittlung wegen versuchten Totschlags: Passagier greift BER-Mitarbeiter an",
@@ -168,11 +178,6 @@
       "date": "Thu, 17 Sep 2026 15:39:00 +0200"
     },
     {
-      "title": "Amerikanische Faulbrut breitet sich in Dahme-Spreewald weiter aus",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/bienensterben-dahme-spreewald.html",
-      "date": "Thu, 17 Sep 2026 15:21:32 +0200"
-    },
-    {
       "title": "Verhülltes Baudenkmal \"Kathreiner\": Die Zeit der großen Visionen ist vorbei",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-schoeneberg-kathreiner-hochhaus-sanierung-justiz.html",
       "date": "Thu, 17 Sep 2026 13:53:53 +0200"
@@ -181,11 +186,6 @@
       "title": "Nach antisemitischem Angriff: Jüdische Organisationen rufen zum Tragen eines Davidsterns auf",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-antisemitischer-angriff-frau-davidstern-solidaritaet.html",
       "date": "Thu, 17 Sep 2026 07:14:20 +0200"
-    },
-    {
-      "title": "Nach Hackerangriff: Hunderte Berliner melden sich",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/hunderte-anfragen-nach-hackerangriff-berlin-anlaufstelle-senat.html",
-      "date": "Wed, 16 Sep 2026 19:52:50 +0200"
     }
   ]
 }
