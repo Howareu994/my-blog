@@ -1,14 +1,29 @@
 {
   "traffic": [
     {
-      "title": "Eine tote Person und mehrere Verletzte bei Brand in Pflegeeinrichtung in Berlin-Kreuzberg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-kreuzberg-brand-pflegeeinrichtung-verletzte.html",
-      "date": "Sat, 19 Sep 2026 11:47:27 +0200"
+      "title": "Adoptiert aus Südkorea - Auf der Suche nach den leiblichen Eltern",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/adoptiert-suedkorea-eltern-auslandsadoption-menschenrechtsverletzung.html",
+      "date": "Sat, 19 Sep 2026 15:40:22 +0200"
     },
     {
-      "title": "Acht Wohnmobile in Berlin-Marzahn ausgebrannt",
+      "title": "Mann stirbt bei Brand in Pflegeeinrichtung in Kreuzberg - mindestens 25 Verletzte",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-kreuzberg-brand-pflegeeinrichtung-verletzte.html",
+      "date": "Sat, 19 Sep 2026 15:05:32 +0200"
+    },
+    {
+      "title": "Tödlicher Unfall: Auto stürzt von Bösebrücke auf S-Bahn-Gleise",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/unfall-boesebruecke-bornholmer-strasse.html",
+      "date": "Sat, 19 Sep 2026 14:13:00 +0200"
+    },
+    {
+      "title": "21-Jähriger nach Brand von acht Wohnmobilen in Berlin-Marzahn festgenommen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/acht-wohnmobile-ausgebrannt-marzahn.html",
-      "date": "Sat, 19 Sep 2026 11:36:07 +0200"
+      "date": "Sat, 19 Sep 2026 12:51:16 +0200"
+    },
+    {
+      "title": "Durchsuchung bei Mitarbeiter von Berliner AfD-Spitzenkandidatin Brinker",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/09/brinker-mitarbeiter-durchsuchung-afd-berlin.html",
+      "date": "Sat, 19 Sep 2026 12:26:52 +0200"
     },
     {
       "title": "Ostprignitz-Ruppin: Zwei Menschen sterben nach Unfall in brennendem Auto",
@@ -19,11 +34,6 @@
       "title": "US-Sanktionen: Linksextreme Website \"Switch Off\" abgeschaltet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/usa-sanktionen-switchoff-linksextremismus-abgeschaltet.html",
       "date": "Sat, 19 Sep 2026 10:55:09 +0200"
-    },
-    {
-      "title": "Tödlicher Unfall: Auto stürzt von Bösebrücke auf S-Bahn-Gleise",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/unfall-boesebruecke-bornholmer-strasse.html",
-      "date": "Sat, 19 Sep 2026 10:40:00 +0200"
     },
     {
       "title": "Basketball: Alba Berlin gewinnt Saisonauftakt gegen Chemnitz",
@@ -46,17 +56,17 @@
       "date": "Sat, 19 Sep 2026 07:16:51 +0200"
     },
     {
-      "title": "Fußball-Bundesliga: Weiter siegloses Union geht bei Bayern unter",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/fussball-bundesliga-bayern-muenchen-union-berlin-liveticker-audiostream-netcast-sportschau-spielbericht.html",
-      "date": "Fri, 18 Sep 2026 22:48:00 +0200"
-    },
-    {
       "title": "CSD-Veranstaltungen am Samstag in Hennigsdorf, Jüterbog und Bad Belzig",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/csd-brandenburg-hennigsdorf-jueterbog-bad-belzig-demo.html",
       "date": "Fri, 18 Sep 2026 20:47:59 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Polizisten mit Waffe bedroht - Wohnungsdurchsuchung",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716310.php",
+      "date": "Sat, 19 Sep 2026 13:48:04 +0200"
+    },
     {
       "title": "Festnahme nach Brandstiftung an Wohnmobilen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716297.php",
@@ -111,11 +121,6 @@
       "title": "Polizist bei Verkehrskontrolle angefahren",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1715408.php",
       "date": "Thu, 17 Sep 2026 13:49:16 +0200"
-    },
-    {
-      "title": "Hotel überfallen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1715324.php",
-      "date": "Thu, 17 Sep 2026 13:06:31 +0200"
     }
   ],
   "free_events": [],
@@ -123,14 +128,24 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Eine tote Person und mehrere Verletzte bei Brand in Pflegeeinrichtung in Berlin-Kreuzberg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-kreuzberg-brand-pflegeeinrichtung-verletzte.html",
-      "date": "Sat, 19 Sep 2026 11:47:27 +0200"
+      "title": "Adoptiert aus Südkorea - Auf der Suche nach den leiblichen Eltern",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/adoptiert-suedkorea-eltern-auslandsadoption-menschenrechtsverletzung.html",
+      "date": "Sat, 19 Sep 2026 15:40:22 +0200"
     },
     {
-      "title": "Acht Wohnmobile in Berlin-Marzahn ausgebrannt",
+      "title": "Mann stirbt bei Brand in Pflegeeinrichtung in Kreuzberg - mindestens 25 Verletzte",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-kreuzberg-brand-pflegeeinrichtung-verletzte.html",
+      "date": "Sat, 19 Sep 2026 15:05:32 +0200"
+    },
+    {
+      "title": "Tödlicher Unfall: Auto stürzt von Bösebrücke auf S-Bahn-Gleise",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/unfall-boesebruecke-bornholmer-strasse.html",
+      "date": "Sat, 19 Sep 2026 14:13:00 +0200"
+    },
+    {
+      "title": "21-Jähriger nach Brand von acht Wohnmobilen in Berlin-Marzahn festgenommen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/acht-wohnmobile-ausgebrannt-marzahn.html",
-      "date": "Sat, 19 Sep 2026 11:36:07 +0200"
+      "date": "Sat, 19 Sep 2026 12:51:16 +0200"
     },
     {
       "title": "Ostprignitz-Ruppin: Zwei Menschen sterben nach Unfall in brennendem Auto",
@@ -141,11 +156,6 @@
       "title": "US-Sanktionen: Linksextreme Website \"Switch Off\" abgeschaltet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/usa-sanktionen-switchoff-linksextremismus-abgeschaltet.html",
       "date": "Sat, 19 Sep 2026 10:55:09 +0200"
-    },
-    {
-      "title": "Tödlicher Unfall: Auto stürzt von Bösebrücke auf S-Bahn-Gleise",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/unfall-boesebruecke-bornholmer-strasse.html",
-      "date": "Sat, 19 Sep 2026 10:40:00 +0200"
     },
     {
       "title": "CSD-Veranstaltungen am Samstag in Hennigsdorf, Jüterbog und Bad Belzig",
@@ -176,11 +186,6 @@
       "title": "Mutmaßlicher IS-Anhänger im Landkreis Barnim festgenommen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-islamischer-staat-anhaenger-barnim-festnahme-terrorismus.html",
       "date": "Fri, 18 Sep 2026 17:42:28 +0200"
-    },
-    {
-      "title": "Brand im U-Bahnhof Wittenbergplatz: U1 bleibt außer Betrieb - U3 fährt wieder",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-ubahnhof-wittenbergplatz-brand-bvg-linien-unterbrochen.html",
-      "date": "Fri, 18 Sep 2026 16:37:29 +0200"
     }
   ]
 }
