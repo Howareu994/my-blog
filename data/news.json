@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Umfrage: Unzufriedenheit mit dem Senat erreicht neuen Höchststand",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahl-abgeordnetenhaus-2026-unzufriedenheit-senat.html",
+      "date": "Sat, 19 Sep 2026 21:05:17 +0200"
+    },
+    {
+      "title": "Jetzt live hören und im Ticker: Siegt Hertha BSC auch in Dresden?",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/2-bundesliga-dynamo-dresden-hertha-bsc-audio-livestream-livetick.html",
+      "date": "Sat, 19 Sep 2026 20:37:37 +0200"
+    },
+    {
+      "title": "Doku \"Go West! – Die letzte Elf der DDR\": Regisseur Eder im Interview",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/fussball-ddr-nationalmannschaft-doku-go-west-regisseur-eder-interview.html",
+      "date": "Sat, 19 Sep 2026 18:50:29 +0200"
+    },
+    {
       "title": "US-Sanktionen: Linksextreme Website \"Switch Off\" abgeschaltet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/usa-sanktionen-switchoff-linksextremismus-abgeschaltet.html",
       "date": "Sat, 19 Sep 2026 17:47:22 +0200"
@@ -44,24 +59,70 @@
       "title": "Mann stirbt bei Brand in Pflegeeinrichtung in Kreuzberg - mindestens 25 Verletzte",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-kreuzberg-brand-pflegeeinrichtung-verletzte.html",
       "date": "Sat, 19 Sep 2026 15:05:32 +0200"
-    },
-    {
-      "title": "Tödlicher Unfall: Auto stürzt von Bösebrücke auf S-Bahn-Gleise",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/unfall-boesebruecke-bornholmer-strasse.html",
-      "date": "Sat, 19 Sep 2026 14:13:00 +0200"
-    },
-    {
-      "title": "21-Jähriger nach Brand von acht Wohnmobilen in Berlin-Marzahn festgenommen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/acht-wohnmobile-ausgebrannt-marzahn.html",
-      "date": "Sat, 19 Sep 2026 12:51:16 +0200"
-    },
-    {
-      "title": "Durchsuchung bei Mitarbeiter von Berliner AfD-Spitzenkandidatin Brinker",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/09/brinker-mitarbeiter-durchsuchung-afd-berlin.html",
-      "date": "Sat, 19 Sep 2026 12:26:52 +0200"
     }
   ],
-  "police": [],
+  "police": [
+    {
+      "title": "Polizisten mit Waffe bedroht - Wohnungsdurchsuchung",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716310.php",
+      "date": "Sat, 19 Sep 2026 13:48:04 +0200"
+    },
+    {
+      "title": "Festnahme nach Brandstiftung an Wohnmobilen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716297.php",
+      "date": "Sat, 19 Sep 2026 11:43:47 +0200"
+    },
+    {
+      "title": "Unbekannter schlägt Parteimitglied",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716295.php",
+      "date": "Sat, 19 Sep 2026 11:15:22 +0200"
+    },
+    {
+      "title": "Festnahmen nach Scheinankäufen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716233.php",
+      "date": "Fri, 18 Sep 2026 16:13:24 +0200"
+    },
+    {
+      "title": "Drogenerkennung im Straßenverkehr – Bilanz zu Schwerpunktkontrollen im Rahmen der 7. Berliner DiS-Tage",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716234.php",
+      "date": "Fri, 18 Sep 2026 16:01:00 +0200"
+    },
+    {
+      "title": "Aktionswoche zur Verkehrsunfallprävention von Seniorinnen und Senioren",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716209.php",
+      "date": "Fri, 18 Sep 2026 15:24:02 +0200"
+    },
+    {
+      "title": "Verkehrsunfall – Beifahrerin im Krankenhaus",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716194.php",
+      "date": "Fri, 18 Sep 2026 15:07:36 +0200"
+    },
+    {
+      "title": "Nach versuchtem Totschlag – Mordkommission sucht weiter nach Zeuginnen und Zeugen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712872.php",
+      "date": "Fri, 18 Sep 2026 13:33:00 +0200"
+    },
+    {
+      "title": "Schussabgabe durch Polizeibeamten",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716068.php",
+      "date": "Fri, 18 Sep 2026 13:18:20 +0200"
+    },
+    {
+      "title": "64-Jähriger vermisst – Polizei bittet um Mithilfe",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716014.php",
+      "date": "Fri, 18 Sep 2026 12:07:52 +0200"
+    },
+    {
+      "title": "Körperverletzung und versuchter Raub – wer erkennt die Tatverdächtigen?",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1715729.php",
+      "date": "Fri, 18 Sep 2026 09:20:39 +0200"
+    },
+    {
+      "title": "Polizist bei Verkehrskontrolle angefahren",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1715408.php",
+      "date": "Thu, 17 Sep 2026 13:49:16 +0200"
+    }
+  ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
@@ -104,7 +165,7 @@
     {
       "title": "Ostprignitz-Ruppin: Zwei Menschen sterben nach Unfall in brennendem Auto",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/unfall-tote-baum-neuruppin.html",
-      "date": "Sat, 19 Sep 2026 11:30:36 +0200"
+      "date": "Sat, 19 Sep 2026 11:30:00 +0200"
     },
     {
       "title": "Lösung für Westernstadt in Spandau gefunden",
