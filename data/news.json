@@ -1,9 +1,44 @@
 {
   "traffic": [
     {
+      "title": "US-Sanktionen: Linksextreme Website \"Switch Off\" abgeschaltet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/usa-sanktionen-switchoff-linksextremismus-abgeschaltet.html",
+      "date": "Sat, 19 Sep 2026 17:47:22 +0200"
+    },
+    {
+      "title": "Altglienicke und Hertha II siegen dank Ex-Bundesligaprofis",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/regionalliga-nordost-babelsberg-hertha-ii-bfc-preussen-tasmania-.html",
+      "date": "Sat, 19 Sep 2026 17:22:32 +0200"
+    },
+    {
+      "title": "Protest gegen Schwangerschaftsabbrüche unter umfangreichem Polizeischutz - Rund 2.000 Abtreibungsgegner",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/09/protest-schwangerschaftsabbrueche-berlin.html",
+      "date": "Sat, 19 Sep 2026 17:20:41 +0200"
+    },
+    {
+      "title": "Paula Fürstenberg über Nachwendezeit: \"Die politische Depression ist nicht vorbei\"",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/09/interview-paula-fuerstenberg-buch-baseballschlaegerjahre-neunziger-jahre-rechtsextremismus-ostdeutschland.html",
+      "date": "Sat, 19 Sep 2026 16:58:49 +0200"
+    },
+    {
+      "title": "Brandenburger SPD unterstützt Plan für Tankrabatt und Spritpreisdeckel",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/09/brandenburg-unterstuetzt-vorhaben-tankrabatt-spritpreisdeckel.html",
+      "date": "Sat, 19 Sep 2026 16:42:29 +0200"
+    },
+    {
+      "title": "Studie Mietmarkt für Studierende: Jedes zweite WG-Zimmer in Berlin kostet mehr als 650 Eur",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-wg-zimmer-studium-miete-wohnungsmarkt.html",
+      "date": "Sat, 19 Sep 2026 16:15:52 +0200"
+    },
+    {
+      "title": "CSD-Teilnehmer ziehen am Samstag durch Hennigsdorf, Jüterbog und Bad Belzig",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/csd-brandenburg-hennigsdorf-jueterbog-bad-belzig-demo.html",
+      "date": "Sat, 19 Sep 2026 16:00:21 +0200"
+    },
+    {
       "title": "Adoptiert aus Südkorea - Auf der Suche nach den leiblichen Eltern",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/adoptiert-suedkorea-eltern-auslandsadoption-menschenrechtsverletzung.html",
-      "date": "Sat, 19 Sep 2026 15:40:22 +0200"
+      "date": "Sat, 19 Sep 2026 15:40:00 +0200"
     },
     {
       "title": "Mann stirbt bei Brand in Pflegeeinrichtung in Kreuzberg - mindestens 25 Verletzte",
@@ -24,113 +59,32 @@
       "title": "Durchsuchung bei Mitarbeiter von Berliner AfD-Spitzenkandidatin Brinker",
       "link": "https://www.rbb24.de/politik/beitrag/2026/09/brinker-mitarbeiter-durchsuchung-afd-berlin.html",
       "date": "Sat, 19 Sep 2026 12:26:52 +0200"
-    },
-    {
-      "title": "Ostprignitz-Ruppin: Zwei Menschen sterben nach Unfall in brennendem Auto",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/unfall-tote-baum-neuruppin.html",
-      "date": "Sat, 19 Sep 2026 11:30:36 +0200"
-    },
-    {
-      "title": "US-Sanktionen: Linksextreme Website \"Switch Off\" abgeschaltet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/usa-sanktionen-switchoff-linksextremismus-abgeschaltet.html",
-      "date": "Sat, 19 Sep 2026 10:55:09 +0200"
-    },
-    {
-      "title": "Basketball: Alba Berlin gewinnt Saisonauftakt gegen Chemnitz",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/basketball-berlin-alba-bundesliga-chemnitz.html",
-      "date": "Sat, 19 Sep 2026 09:47:28 +0200"
-    },
-    {
-      "title": "Warum Union Berlins Probleme größer sind als ein 0:7 in München",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/fussball-bundesliga-bayern-muenchen-union-berlin-7-0-analyse.html",
-      "date": "Sat, 19 Sep 2026 07:37:23 +0200"
-    },
-    {
-      "title": "Nach der Berlin-Wahl: Diese Abgeordneten scheiden sicher aus",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/abgeordnete-verlassen-abgeordnetenhaus-parlament-ausscheiden.html",
-      "date": "Sat, 19 Sep 2026 07:18:26 +0200"
-    },
-    {
-      "title": "So lief der Wahlkampf in Berlin",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/so-lief-der-wahlkampf-in-berlin.html",
-      "date": "Sat, 19 Sep 2026 07:16:51 +0200"
-    },
-    {
-      "title": "CSD-Veranstaltungen am Samstag in Hennigsdorf, Jüterbog und Bad Belzig",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/csd-brandenburg-hennigsdorf-jueterbog-bad-belzig-demo.html",
-      "date": "Fri, 18 Sep 2026 20:47:59 +0200"
     }
   ],
-  "police": [
-    {
-      "title": "Polizisten mit Waffe bedroht - Wohnungsdurchsuchung",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716310.php",
-      "date": "Sat, 19 Sep 2026 13:48:04 +0200"
-    },
-    {
-      "title": "Festnahme nach Brandstiftung an Wohnmobilen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716297.php",
-      "date": "Sat, 19 Sep 2026 11:43:47 +0200"
-    },
-    {
-      "title": "Unbekannter schlägt Parteimitglied",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716295.php",
-      "date": "Sat, 19 Sep 2026 11:15:22 +0200"
-    },
-    {
-      "title": "Festnahmen nach Scheinankäufen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716233.php",
-      "date": "Fri, 18 Sep 2026 16:13:24 +0200"
-    },
-    {
-      "title": "Drogenerkennung im Straßenverkehr – Bilanz zu Schwerpunktkontrollen im Rahmen der 7. Berliner DiS-Tage",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716234.php",
-      "date": "Fri, 18 Sep 2026 16:01:00 +0200"
-    },
-    {
-      "title": "Aktionswoche zur Verkehrsunfallprävention von Seniorinnen und Senioren",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716209.php",
-      "date": "Fri, 18 Sep 2026 15:24:02 +0200"
-    },
-    {
-      "title": "Verkehrsunfall – Beifahrerin im Krankenhaus",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716194.php",
-      "date": "Fri, 18 Sep 2026 15:07:36 +0200"
-    },
-    {
-      "title": "Nach versuchtem Totschlag – Mordkommission sucht weiter nach Zeuginnen und Zeugen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712872.php",
-      "date": "Fri, 18 Sep 2026 13:33:00 +0200"
-    },
-    {
-      "title": "Schussabgabe durch Polizeibeamten",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716068.php",
-      "date": "Fri, 18 Sep 2026 13:18:20 +0200"
-    },
-    {
-      "title": "64-Jähriger vermisst – Polizei bittet um Mithilfe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716014.php",
-      "date": "Fri, 18 Sep 2026 12:07:52 +0200"
-    },
-    {
-      "title": "Körperverletzung und versuchter Raub – wer erkennt die Tatverdächtigen?",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1715729.php",
-      "date": "Fri, 18 Sep 2026 09:20:39 +0200"
-    },
-    {
-      "title": "Polizist bei Verkehrskontrolle angefahren",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1715408.php",
-      "date": "Thu, 17 Sep 2026 13:49:16 +0200"
-    }
-  ],
+  "police": [],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
     {
+      "title": "US-Sanktionen: Linksextreme Website \"Switch Off\" abgeschaltet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/usa-sanktionen-switchoff-linksextremismus-abgeschaltet.html",
+      "date": "Sat, 19 Sep 2026 17:47:22 +0200"
+    },
+    {
+      "title": "Studie Mietmarkt für Studierende: Jedes zweite WG-Zimmer in Berlin kostet mehr als 650 Eur",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-wg-zimmer-studium-miete-wohnungsmarkt.html",
+      "date": "Sat, 19 Sep 2026 16:15:52 +0200"
+    },
+    {
+      "title": "CSD-Teilnehmer ziehen am Samstag durch Hennigsdorf, Jüterbog und Bad Belzig",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/csd-brandenburg-hennigsdorf-jueterbog-bad-belzig-demo.html",
+      "date": "Sat, 19 Sep 2026 16:00:21 +0200"
+    },
+    {
       "title": "Adoptiert aus Südkorea - Auf der Suche nach den leiblichen Eltern",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/adoptiert-suedkorea-eltern-auslandsadoption-menschenrechtsverletzung.html",
-      "date": "Sat, 19 Sep 2026 15:40:22 +0200"
+      "date": "Sat, 19 Sep 2026 15:40:00 +0200"
     },
     {
       "title": "Mann stirbt bei Brand in Pflegeeinrichtung in Kreuzberg - mindestens 25 Verletzte",
@@ -153,16 +107,6 @@
       "date": "Sat, 19 Sep 2026 11:30:36 +0200"
     },
     {
-      "title": "US-Sanktionen: Linksextreme Website \"Switch Off\" abgeschaltet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/usa-sanktionen-switchoff-linksextremismus-abgeschaltet.html",
-      "date": "Sat, 19 Sep 2026 10:55:09 +0200"
-    },
-    {
-      "title": "CSD-Veranstaltungen am Samstag in Hennigsdorf, Jüterbog und Bad Belzig",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/csd-brandenburg-hennigsdorf-jueterbog-bad-belzig-demo.html",
-      "date": "Fri, 18 Sep 2026 20:47:59 +0200"
-    },
-    {
       "title": "Lösung für Westernstadt in Spandau gefunden",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-spandau-westernstadt-bleibt-bis-2032.html",
       "date": "Fri, 18 Sep 2026 19:43:58 +0200"
@@ -181,11 +125,6 @@
       "title": "Cottbus - Berlin: Ersatzverkehr auf RE2 und RE20",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/ersatzverkehr-cottbus-berlin-re2-re20.html",
       "date": "Fri, 18 Sep 2026 17:48:50 +0200"
-    },
-    {
-      "title": "Mutmaßlicher IS-Anhänger im Landkreis Barnim festgenommen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-islamischer-staat-anhaenger-barnim-festnahme-terrorismus.html",
-      "date": "Fri, 18 Sep 2026 17:42:28 +0200"
     }
   ]
 }
