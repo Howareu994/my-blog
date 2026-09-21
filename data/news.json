@@ -1,132 +1,81 @@
 {
   "traffic": [
     {
-      "title": "Sechs Erkenntnisse aus der Berlin-Wahl: Einstürzende Gewissheiten",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahl-auffaelligkeiten-briefwahl-arbeiter-junge-waehlende.html",
-      "date": "Mon, 21 Sep 2026 07:21:52 +0200"
-    },
-    {
-      "title": "Die Linke muss nach ihrem Wahlsieg zeigen, dass sie regieren kann",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahl-2026-kommentar-abgeordnetenhaus.html",
-      "date": "Mon, 21 Sep 2026 06:58:53 +0200"
-    },
-    {
-      "title": "Nach der Berlin-Wahl: Das sind die nächsten Schritte",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahl-agh-bvv-2026-neue-regierung-koalitionen-zeitplan.html",
-      "date": "Mon, 21 Sep 2026 06:20:03 +0200"
-    },
-    {
-      "title": "Vorläufiges Ergebnis: Linke gewinnt Berlin-Wahl klar vor CDU",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/abgeordnetenhaus-wahltag-prognose-hochrechnungen-ergebnis.html",
-      "date": "Mon, 21 Sep 2026 02:40:51 +0200"
-    },
-    {
-      "title": "Linke punktet bei Jüngeren und Erstwählern, CDU bei Älteren",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahl-abgeordnetenhaus-linke-junge-waehler-cdu.html",
-      "date": "Mon, 21 Sep 2026 00:42:46 +0200"
+      "title": "BVV-Wahlen 2026 in Berlin: Ergebnisse für alle Bezirke",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/bvv/ergebnisse/berlin-bezirksverordnetenversammlung-2026-ergebnisse-kandidierende.html",
+      "date": "Mon, 21 Sep 2026 13:27:39 +0200"
     },
     {
       "title": "Berlin-Wahl: CDU verliert an AfD, Linke gewinnt bei Nichtwählenden",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/agh-wahl-berlin-waehler-wanderung-linke-cdu-spd.html",
-      "date": "Mon, 21 Sep 2026 00:31:51 +0200"
+      "date": "Mon, 21 Sep 2026 12:36:41 +0200"
+    },
+    {
+      "title": "Wahlergebnis: Die Hochburgen und Jammertäler der Parteien",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/analyse-hochburgen-parteien-s-bahn-ring-linke-cdu-afd-gruene-spd-bsw.html",
+      "date": "Mon, 21 Sep 2026 12:22:26 +0200"
     },
     {
       "title": "Berlin-Wahl 2026: Giffey verpasst Einzug ins Abgeordnetenhaus",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/abgeordnetenhaus-wahlkreise-direktkandidaten-giffey-wegner-evers.html",
-      "date": "Sun, 20 Sep 2026 23:37:23 +0200"
+      "date": "Mon, 21 Sep 2026 12:21:49 +0200"
     },
     {
-      "title": "Berlin-Wahl 2026: Ergebnisse für alle Wahlkreise",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/wahlkreise/abgeordnetenhauswahl-ergebnisse-direkt-mandate-kandidaten-uebersicht.html",
-      "date": "Sun, 20 Sep 2026 22:46:18 +0200"
-    },
-    {
-      "title": "Berlin-Wahl: Alle Wahlergebnisse in Grafiken",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/wahlgrafiken-wahlkarte-hochrechnungen-ergebnisse-koalitionen.html",
-      "date": "Sun, 20 Sep 2026 22:23:00 +0200"
+      "title": "Sechs Bezirke gehen an die Linke, vier an die CDU und je einer an Grüne und AfD",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/bvv/bvv-wahl-20-september-ergebnisse-gesamt.html",
+      "date": "Mon, 21 Sep 2026 12:18:25 +0200"
     },
     {
       "title": "Berlin-Wahl 2026: Der Wahltag in Bildern",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/bildergalerie-wahl-abgeordnetenhaus-berlin.html",
-      "date": "Sun, 20 Sep 2026 21:54:07 +0200"
+      "date": "Mon, 21 Sep 2026 12:16:43 +0200"
     },
     {
-      "title": "Bürgermeisterwahl in Strausberg: Stichwahl muss entscheiden",
-      "link": "https://www.rbb24.de/politik/wahl/brandenburg-buergermeisterwahlen/2026/strausberg-maerkisch-oderland-buergermeister-stichwahl.html",
-      "date": "Sun, 20 Sep 2026 21:42:00 +0200"
+      "title": "Brand im U-Bahnhof Wittenbergplatz: U1 bleibt außer Betrieb - U3 fährt wieder",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-ubahnhof-wittenbergplatz-brand-bvg-linien-unterbrochen.html",
+      "date": "Mon, 21 Sep 2026 11:23:09 +0200"
     },
     {
-      "title": "Tausende Haushalte in Charlottenburg-Wilmersdorf kurzzeitig ohne Strom",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-charlottenburg-wilmersdorf-stromausfall-tausende-haushalte.html",
-      "date": "Sun, 20 Sep 2026 21:34:43 +0200"
+      "title": "Unions Fehlstart: Lustrinelli kämpft gegen Sehnsucht nach alten Zeiten",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/fussball-bundesliga-1-fc-union-fehlstart-lustrinelli-niederlagen.html",
+      "date": "Mon, 21 Sep 2026 10:42:53 +0200"
+    },
+    {
+      "title": "Sechs Erkenntnisse aus der Berlin-Wahl: Einstürzende Gewissheiten",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahl-auffaelligkeiten-briefwahl-arbeiter-junge-waehlende.html",
+      "date": "Mon, 21 Sep 2026 10:11:33 +0200"
+    },
+    {
+      "title": "Berlin-Wahl 2026: Mehrheit gegen Vergesellschaftung großer Immobilienkonzerne",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/vergesellschaftung-immobilienkonzerne-mehrheit-dagegen-umfrage.html",
+      "date": "Mon, 21 Sep 2026 09:04:45 +0200"
+    },
+    {
+      "title": "Karte: So hat Ihr Kiez bei der Berlin-Wahl gewählt",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahlkarte-wahlergebnisse-wahlbezirke-interaktive-karte.html",
+      "date": "Mon, 21 Sep 2026 08:50:00 +0200"
+    },
+    {
+      "title": "Die Linke muss nach ihrem Wahlsieg zeigen, dass sie regieren kann",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahl-2026-kommentar-abgeordnetenhaus.html",
+      "date": "Mon, 21 Sep 2026 08:38:03 +0200"
     }
   ],
-  "police": [
-    {
-      "title": "Unbekannter beschädigt Einsatzfahrzeug der Polizei",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716380.php",
-      "date": "Sun, 20 Sep 2026 12:13:21 +0200"
-    },
-    {
-      "title": "Jugendliche nach mehreren mutmaßlichen Raubtaten im Mauerpark festgenommen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716379.php",
-      "date": "Sun, 20 Sep 2026 12:04:47 +0200"
-    },
-    {
-      "title": "Mann nach schwerer Körperverletzung festgenommen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716378.php",
-      "date": "Sun, 20 Sep 2026 11:54:21 +0200"
-    },
-    {
-      "title": "Bedrohung mit Schusswaffe am U-Bahnhof Schönleinstraße",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716376.php",
-      "date": "Sun, 20 Sep 2026 11:38:07 +0200"
-    },
-    {
-      "title": "Bedrohung mit Machete - Tatverdächtiger festgenommen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716375.php",
-      "date": "Sun, 20 Sep 2026 11:29:30 +0200"
-    },
-    {
-      "title": "Polizeiliche Einsatzmaßnahmen an kriminalitätsbelasteten Orten",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716373.php",
-      "date": "Sun, 20 Sep 2026 11:05:55 +0200"
-    },
-    {
-      "title": "Polizisten mit Waffe bedroht - Wohnungsdurchsuchung",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716310.php",
-      "date": "Sat, 19 Sep 2026 13:48:04 +0200"
-    },
-    {
-      "title": "Festnahme nach Brandstiftung an Wohnmobilen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716297.php",
-      "date": "Sat, 19 Sep 2026 11:43:47 +0200"
-    },
-    {
-      "title": "Unbekannter schlägt Parteimitglied",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716295.php",
-      "date": "Sat, 19 Sep 2026 11:15:22 +0200"
-    },
-    {
-      "title": "Festnahmen nach Scheinankäufen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716233.php",
-      "date": "Fri, 18 Sep 2026 16:13:24 +0200"
-    },
-    {
-      "title": "Drogenerkennung im Straßenverkehr – Bilanz zu Schwerpunktkontrollen im Rahmen der 7. Berliner DiS-Tage",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716234.php",
-      "date": "Fri, 18 Sep 2026 16:01:00 +0200"
-    },
-    {
-      "title": "Aktionswoche zur Verkehrsunfallprävention von Seniorinnen und Senioren",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716209.php",
-      "date": "Fri, 18 Sep 2026 15:24:02 +0200"
-    }
-  ],
+  "police": [],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Ein Jahr Revierpolizei Oderberg - Nähe und Präsenz werden nachgefragt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/revierpolizei-oderberg-britz-eberswalde.html",
+      "date": "Mon, 21 Sep 2026 12:52:42 +0200"
+    },
+    {
+      "title": "Brand im U-Bahnhof Wittenbergplatz: U1 bleibt außer Betrieb - U3 fährt wieder",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-ubahnhof-wittenbergplatz-brand-bvg-linien-unterbrochen.html",
+      "date": "Mon, 21 Sep 2026 11:23:09 +0200"
+    },
     {
       "title": "Tausende Haushalte in Charlottenburg-Wilmersdorf kurzzeitig ohne Strom",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-charlottenburg-wilmersdorf-stromausfall-tausende-haushalte.html",
@@ -176,16 +125,6 @@
       "title": "Adoptiert aus Südkorea - Auf der Suche nach den leiblichen Eltern",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/adoptiert-suedkorea-eltern-auslandsadoption-menschenrechtsverletzung.html",
       "date": "Sat, 19 Sep 2026 15:40:00 +0200"
-    },
-    {
-      "title": "Mann stirbt bei Brand in Pflegeeinrichtung in Kreuzberg - mindestens 25 Verletzte",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-kreuzberg-brand-pflegeeinrichtung-verletzte.html",
-      "date": "Sat, 19 Sep 2026 15:05:32 +0200"
-    },
-    {
-      "title": "21-Jähriger nach Brand von acht Wohnmobilen in Berlin-Marzahn festgenommen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/acht-wohnmobile-ausgebrannt-marzahn.html",
-      "date": "Sat, 19 Sep 2026 12:51:16 +0200"
     }
   ]
 }
