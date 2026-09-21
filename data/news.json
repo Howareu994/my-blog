@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Vorläufiges Ergebnis: Linke gewinnt Berlin-Wahl klar vor CDU",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/abgeordnetenhaus-wahltag-prognose-hochrechnungen-ergebnis.html",
+      "date": "Mon, 21 Sep 2026 02:36:03 +0200"
+    },
+    {
+      "title": "Die Linke muss nach ihrem Wahlsieg zeigen, dass sie regieren kann",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahl-2026-kommentar-abgeordnetenhaus.html",
+      "date": "Mon, 21 Sep 2026 01:36:00 +0200"
+    },
+    {
       "title": "Linke punktet bei Jüngeren und Erstwählern, CDU bei Älteren",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahl-abgeordnetenhaus-linke-junge-waehler-cdu.html",
       "date": "Mon, 21 Sep 2026 00:42:46 +0200"
@@ -9,16 +19,6 @@
       "title": "Berlin-Wahl: CDU verliert an AfD, Linke gewinnt bei Nichtwählenden",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/agh-wahl-berlin-waehler-wanderung-linke-cdu-spd.html",
       "date": "Mon, 21 Sep 2026 00:31:51 +0200"
-    },
-    {
-      "title": "Berlin-Wahl im Liveticker: +++ Giffey nicht mehr im Abgeordnetenhaus +++",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahl-agh-bvv-stimmen-ergebnis-reaktionen-liveticker.html",
-      "date": "Sun, 20 Sep 2026 23:48:07 +0200"
-    },
-    {
-      "title": "Berlin-Wahl: Linke laut Hochrechnung klar stärkste Kraft vor CDU",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/abgeordnetenhaus-wahltag-prognose-hochrechnungen-ergebnis.html",
-      "date": "Sun, 20 Sep 2026 23:38:33 +0200"
     },
     {
       "title": "Berlin-Wahl 2026: Giffey verpasst Einzug ins Abgeordnetenhaus",
@@ -51,14 +51,14 @@
       "date": "Sun, 20 Sep 2026 21:34:43 +0200"
     },
     {
+      "title": "Koalitionsrechner zur Abgeordnetenhauswahl 2026 in Berlin",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/koalitionsrechner-abgeordnetenhaus-parteien.html",
+      "date": "Sun, 20 Sep 2026 20:51:41 +0200"
+    },
+    {
       "title": "Fußball: Union-Spielerinnen holen gegen Leipzig ersten Saisonsieg",
       "link": "https://www.rbb24.de/sport/beitrag/2026/09/fussball-bundesliga-frauen-union-berlin-rb-leipzig-spielbericht.html",
       "date": "Sun, 20 Sep 2026 20:50:41 +0200"
-    },
-    {
-      "title": "Berlin-Wahl 2026: Mehrheit gegen Vergesellschaftung großer Immobilienkonzerne",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/vergesellschaftung-immobilienkonzerne-mehrheit-dagegen-umfrage.html",
-      "date": "Sun, 20 Sep 2026 20:20:00 +0200"
     }
   ],
   "police": [
