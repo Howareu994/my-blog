@@ -1,71 +1,157 @@
 {
   "traffic": [
     {
+      "title": "Berlin-Wahl im Liveticker: ++ Sondierungen könnten nächste Woche beginnen ++",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahl-agh-bvv-ergebnis-liveticker.html",
+      "date": "Mon, 21 Sep 2026 19:27:53 +0200"
+    },
+    {
+      "title": "Center Parcs kündigt Bau Hunderter Ferienhäuser im Lausitzer Seenland an",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/09/lausitzer-seenland-investition-center-parcs.html",
+      "date": "Mon, 21 Sep 2026 19:02:15 +0200"
+    },
+    {
+      "title": "Wahlerfolg der Linken in Zahlen: Partei der Berliner Mitte",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/wahlerfolg-linke-berlin-mitte-waehlergruppen.html",
+      "date": "Mon, 21 Sep 2026 18:52:38 +0200"
+    },
+    {
       "title": "BVV-Wahlen 2026 in Berlin: Ergebnisse für alle Bezirke",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/bvv/ergebnisse/berlin-bezirksverordnetenversammlung-2026-ergebnisse-kandidierende.html",
-      "date": "Mon, 21 Sep 2026 13:27:39 +0200"
-    },
-    {
-      "title": "Berlin-Wahl: CDU verliert an AfD, Linke gewinnt bei Nichtwählenden",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/agh-wahl-berlin-waehler-wanderung-linke-cdu-spd.html",
-      "date": "Mon, 21 Sep 2026 12:36:41 +0200"
-    },
-    {
-      "title": "Wahlergebnis: Die Hochburgen und Jammertäler der Parteien",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/analyse-hochburgen-parteien-s-bahn-ring-linke-cdu-afd-gruene-spd-bsw.html",
-      "date": "Mon, 21 Sep 2026 12:22:26 +0200"
+      "date": "Mon, 21 Sep 2026 18:11:30 +0200"
     },
     {
       "title": "Berlin-Wahl 2026: Giffey verpasst Einzug ins Abgeordnetenhaus",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/abgeordnetenhaus-wahlkreise-direktkandidaten-giffey-wegner-evers.html",
-      "date": "Mon, 21 Sep 2026 12:21:49 +0200"
+      "date": "Mon, 21 Sep 2026 18:04:23 +0200"
     },
     {
-      "title": "Sechs Bezirke gehen an die Linke, vier an die CDU und je einer an Grüne und AfD",
+      "title": "BVV-Wahl in Berlin: Linke stärkste Kraft in sechs Bezirken",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/bvv/bvv-wahl-20-september-ergebnisse-gesamt.html",
-      "date": "Mon, 21 Sep 2026 12:18:25 +0200"
+      "date": "Mon, 21 Sep 2026 18:00:24 +0200"
     },
     {
-      "title": "Berlin-Wahl 2026: Der Wahltag in Bildern",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/bildergalerie-wahl-abgeordnetenhaus-berlin.html",
-      "date": "Mon, 21 Sep 2026 12:16:43 +0200"
+      "title": "Diese Menschen wurden in das Berliner Abgeordnetenhaus gewählt",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/agh-abgeordnete-berlin-direktmandate-liste.html",
+      "date": "Mon, 21 Sep 2026 17:34:15 +0200"
     },
     {
-      "title": "Brand im U-Bahnhof Wittenbergplatz: U1 bleibt außer Betrieb - U3 fährt wieder",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-ubahnhof-wittenbergplatz-brand-bvg-linien-unterbrochen.html",
-      "date": "Mon, 21 Sep 2026 11:23:09 +0200"
+      "title": "Schüler können nach Gestank an Herzberger Gymnasium zurückkehren",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/gestank-gymnasium-herzberg-start-unterricht-moeglich.html",
+      "date": "Mon, 21 Sep 2026 17:33:51 +0200"
     },
     {
-      "title": "Unions Fehlstart: Lustrinelli kämpft gegen Sehnsucht nach alten Zeiten",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/fussball-bundesliga-1-fc-union-fehlstart-lustrinelli-niederlagen.html",
-      "date": "Mon, 21 Sep 2026 10:42:53 +0200"
+      "title": "Bürgermeisterwahl in Strausberg: Stichwahl muss entscheiden",
+      "link": "https://www.rbb24.de/politik/wahl/brandenburg-buergermeisterwahlen/2026/strausberg-maerkisch-oderland-buergermeister-stichwahl.html",
+      "date": "Mon, 21 Sep 2026 17:30:07 +0200"
     },
     {
-      "title": "Sechs Erkenntnisse aus der Berlin-Wahl: Einstürzende Gewissheiten",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahl-auffaelligkeiten-briefwahl-arbeiter-junge-waehlende.html",
-      "date": "Mon, 21 Sep 2026 10:11:33 +0200"
+      "title": "Crumbach stellt in Storkow Programm für Landesstraßen-Sanierung vor",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-landstrassen-infrastruktur-storkow-crumbach-sanierung.html",
+      "date": "Mon, 21 Sep 2026 17:19:06 +0200"
     },
     {
-      "title": "Berlin-Wahl 2026: Mehrheit gegen Vergesellschaftung großer Immobilienkonzerne",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/vergesellschaftung-immobilienkonzerne-mehrheit-dagegen-umfrage.html",
-      "date": "Mon, 21 Sep 2026 09:04:45 +0200"
+      "title": "Bierpinsel in Steglitz: Fassadenteile herabgestürzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-bierpinsel-fassade-teile-abgestuerzt-feuerwehr-absperrungen.html",
+      "date": "Mon, 21 Sep 2026 17:18:39 +0200"
     },
     {
-      "title": "Karte: So hat Ihr Kiez bei der Berlin-Wahl gewählt",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahlkarte-wahlergebnisse-wahlbezirke-interaktive-karte.html",
-      "date": "Mon, 21 Sep 2026 08:50:00 +0200"
-    },
-    {
-      "title": "Die Linke muss nach ihrem Wahlsieg zeigen, dass sie regieren kann",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahl-2026-kommentar-abgeordnetenhaus.html",
-      "date": "Mon, 21 Sep 2026 08:38:03 +0200"
+      "title": "Livestream: ARD-Brennpunkt und rbb24 Spezial nach der Berlin-Wahl",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/sondersendungen-abgeordnetenhaus-rbb-livestream.html",
+      "date": "Mon, 21 Sep 2026 17:17:49 +0200"
     }
   ],
-  "police": [],
+  "police": [
+    {
+      "title": "Koordinierte internationale Kontrollmaßnahmen in indischen Restaurants wegen des Verdachts des Menschenhandels zum Zwecke der Arbeitsausbeutung",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716861.php",
+      "date": "Mon, 21 Sep 2026 15:17:08 +0200"
+    },
+    {
+      "title": "Verdacht des bandenmäßigen Drogenhandels mit Waffen – vier Festnahmen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716784.php",
+      "date": "Mon, 21 Sep 2026 13:58:00 +0200"
+    },
+    {
+      "title": "Mehrere Straftaten festgestellt – Polizeilicher Staatsschutz ermittelt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716770.php",
+      "date": "Mon, 21 Sep 2026 13:45:23 +0200"
+    },
+    {
+      "title": "Festnahme nach Handel mit Arzneimitteln",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716752.php",
+      "date": "Mon, 21 Sep 2026 13:33:12 +0200"
+    },
+    {
+      "title": "Beraubt und durch Stiche verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716653.php",
+      "date": "Mon, 21 Sep 2026 11:59:14 +0200"
+    },
+    {
+      "title": "Brand auf Schulgelände",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716567.php",
+      "date": "Mon, 21 Sep 2026 10:59:33 +0200"
+    },
+    {
+      "title": "Raubüberfall auf Lokal",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716503.php",
+      "date": "Mon, 21 Sep 2026 10:26:26 +0200"
+    },
+    {
+      "title": "Unbekannter beschädigt Einsatzfahrzeug der Polizei",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716380.php",
+      "date": "Sun, 20 Sep 2026 12:13:21 +0200"
+    },
+    {
+      "title": "Jugendliche nach mehreren mutmaßlichen Raubtaten im Mauerpark festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716379.php",
+      "date": "Sun, 20 Sep 2026 12:04:47 +0200"
+    },
+    {
+      "title": "Mann nach schwerer Körperverletzung festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716378.php",
+      "date": "Sun, 20 Sep 2026 11:54:21 +0200"
+    },
+    {
+      "title": "Bedrohung mit Schusswaffe am U-Bahnhof Schönleinstraße",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716376.php",
+      "date": "Sun, 20 Sep 2026 11:38:07 +0200"
+    },
+    {
+      "title": "Bedrohung mit Machete - Tatverdächtiger festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716375.php",
+      "date": "Sun, 20 Sep 2026 11:29:30 +0200"
+    }
+  ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Schüler können nach Gestank an Herzberger Gymnasium zurückkehren",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/gestank-gymnasium-herzberg-start-unterricht-moeglich.html",
+      "date": "Mon, 21 Sep 2026 17:33:51 +0200"
+    },
+    {
+      "title": "Crumbach stellt in Storkow Programm für Landesstraßen-Sanierung vor",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-landstrassen-infrastruktur-storkow-crumbach-sanierung.html",
+      "date": "Mon, 21 Sep 2026 17:19:06 +0200"
+    },
+    {
+      "title": "Bierpinsel in Steglitz: Fassadenteile herabgestürzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-bierpinsel-fassade-teile-abgestuerzt-feuerwehr-absperrungen.html",
+      "date": "Mon, 21 Sep 2026 17:18:39 +0200"
+    },
+    {
+      "title": "Auto fährt bei Verfolgungsjagd zwei Polizeiwagen an",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/polizei-hoenow-markisch-oderland-verfolgungsjagd-betaeubungsmittel.html",
+      "date": "Mon, 21 Sep 2026 15:17:11 +0200"
+    },
+    {
+      "title": "S-Bahn zeigt Zugauslastung auf mehr Berliner Bahnhöfen an",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/s-bahn-berlin-zugauslastung-anzeige-mehr-bahnhoefen.html",
+      "date": "Mon, 21 Sep 2026 13:59:26 +0200"
+    },
     {
       "title": "Ein Jahr Revierpolizei Oderberg - Nähe und Präsenz werden nachgefragt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/revierpolizei-oderberg-britz-eberswalde.html",
@@ -100,31 +186,6 @@
       "title": "Berlin-Kreuzberg: Fahrgast in Berliner U-Bahn mit Schusswaffe bedroht",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-kreuzberg-ubahn-schusswaffe.html",
       "date": "Sun, 20 Sep 2026 13:34:09 +0200"
-    },
-    {
-      "title": "Tödlicher Unfall: Auto stürzt von Bösebrücke auf S-Bahn-Gleise",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/unfall-boesebruecke-bornholmer-strasse.html",
-      "date": "Sun, 20 Sep 2026 11:02:06 +0200"
-    },
-    {
-      "title": "US-Sanktionen: Linksextreme Website \"Switch Off\" abgeschaltet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/usa-sanktionen-switchoff-linksextremismus-abgeschaltet.html",
-      "date": "Sat, 19 Sep 2026 17:47:22 +0200"
-    },
-    {
-      "title": "Studie Mietmarkt für Studierende: Jedes zweite WG-Zimmer in Berlin kostet mehr als 650 Eur",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-wg-zimmer-studium-miete-wohnungsmarkt.html",
-      "date": "Sat, 19 Sep 2026 16:15:52 +0200"
-    },
-    {
-      "title": "CSD-Teilnehmer ziehen am Samstag durch Hennigsdorf, Jüterbog und Bad Belzig",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/csd-brandenburg-hennigsdorf-jueterbog-bad-belzig-demo.html",
-      "date": "Sat, 19 Sep 2026 16:00:21 +0200"
-    },
-    {
-      "title": "Adoptiert aus Südkorea - Auf der Suche nach den leiblichen Eltern",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/adoptiert-suedkorea-eltern-auslandsadoption-menschenrechtsverletzung.html",
-      "date": "Sat, 19 Sep 2026 15:40:00 +0200"
     }
   ]
 }
