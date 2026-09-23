@@ -1,14 +1,34 @@
 {
   "traffic": [
     {
-      "title": "Berliner Gefängnis: Geflohener Windkraftbetrüger Hendrik Holt in Dubai gefasst",
+      "title": "Handball: VfL Potsdam schlägt Essen in 2. Runde des DHB-Pokals",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/handball-dhb-pokal-tusem-essen-vfl-potsdam-spielbericht-ergebnis.html",
+      "date": "Wed, 23 Sep 2026 22:44:04 +0200"
+    },
+    {
+      "title": "Bewährungsstrafe: Als Dragqueen bekannter Mann wegen Kinderpornografie verurteilt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/urteil-kinderpornografie-berlin-marco-o-jurassica-parka.html",
+      "date": "Wed, 23 Sep 2026 20:34:58 +0200"
+    },
+    {
+      "title": "Windkraftbetrüger Hendrik Holt in Dubai gefasst - in Berlin geflohen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/windkraft-betrueger-holt-flucht-dubai-festgenommen-berlin.html",
-      "date": "Wed, 23 Sep 2026 20:01:18 +0200"
+      "date": "Wed, 23 Sep 2026 20:29:38 +0200"
+    },
+    {
+      "title": "Illegaler Schusswaffen-Handel: Berliner Polizei nimmt sieben Verdächtige bei Razzia fest",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/durchsuchung-berlin-illegal-schusswaffen-handel-polizei-ferrum.html",
+      "date": "Wed, 23 Sep 2026 20:15:43 +0200"
+    },
+    {
+      "title": "Netzwerk \"Schule ohne Rassismus\" im Brandenburger Landtag",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/09/brandenburg-landtag-schulnetzwerk-gegen-rassismus.html",
+      "date": "Wed, 23 Sep 2026 20:13:52 +0200"
     },
     {
       "title": "Berlin will Olympia-Bewerbung zurückziehen",
       "link": "https://www.rbb24.de/sport/beitrag/2026/09/olympiabewerbung-berlin-zieht-zurueck-2036-niroomand-rathaus.html",
-      "date": "Wed, 23 Sep 2026 19:52:12 +0200"
+      "date": "Wed, 23 Sep 2026 19:52:00 +0200"
     },
     {
       "title": "41-jährige Gorilla-Weibchen im Berliner Zoo gestorben",
@@ -19,11 +39,6 @@
       "title": "2024 noch Regionalligist: Darum überrascht Cottbus die 2. Liga",
       "link": "https://www.rbb24.de/sport/beitrag/2026/09/fussball-listicle-energie-cottbus-bereicherung-fuer-2-bundesliga.html",
       "date": "Wed, 23 Sep 2026 18:55:06 +0200"
-    },
-    {
-      "title": "Bewährungsstrafe: Als Dragqueen bekannter Mann wegen Kinderpornografie verurteilt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/urteil-kinderpornografie-berlin-marco-o-jurassica-parka.html",
-      "date": "Wed, 23 Sep 2026 18:51:30 +0200"
     },
     {
       "title": "Vor möglichen Sondierungen: Linke und Grüne führen erste offizielle Gespräche",
@@ -44,21 +59,6 @@
       "title": "Frankfurt (Oder): Gedenktafel für Eichmann-Jäger Hermann Arndt eingeweiht",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/hermann-arndt-gedenktafel-frankfurtoder.html",
       "date": "Wed, 23 Sep 2026 17:32:31 +0200"
-    },
-    {
-      "title": "Illegaler Schusswaffen-Handel: Berliner Polizei nimmt sieben Verdächtige bei Razzia fest",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/durchsuchung-berlin-illegal-schusswaffen-handel-polizei-ferrum.html",
-      "date": "Wed, 23 Sep 2026 17:06:57 +0200"
-    },
-    {
-      "title": "Berlin: Weiterer Mann nach Brand in Kreuzberger Pflegeheim gestorben",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brand-pflegeheim-tot-gestorben-berlin-kreuzberg.html",
-      "date": "Wed, 23 Sep 2026 16:12:39 +0200"
-    },
-    {
-      "title": "Polizei nimmt zwei Tatverdächtige nach Rinderdiebstählen fest",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/rinder-diebstaehle-brandenburg-festnahmen.html",
-      "date": "Wed, 23 Sep 2026 15:56:33 +0200"
     }
   ],
   "police": [
@@ -128,19 +128,29 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Berliner Gefängnis: Geflohener Windkraftbetrüger Hendrik Holt in Dubai gefasst",
+      "title": "Starts und Landungen am BER wegen Drohnen-Alarm zweitweise ausgesetzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/drohnen-alarm-flughafen-ber-keine-starts-landungen-berlin-brandendurg.html",
+      "date": "Wed, 23 Sep 2026 21:53:15 +0200"
+    },
+    {
+      "title": "Bewährungsstrafe: Als Dragqueen bekannter Mann wegen Kinderpornografie verurteilt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/urteil-kinderpornografie-berlin-marco-o-jurassica-parka.html",
+      "date": "Wed, 23 Sep 2026 20:34:58 +0200"
+    },
+    {
+      "title": "Windkraftbetrüger Hendrik Holt in Dubai gefasst - in Berlin geflohen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/windkraft-betrueger-holt-flucht-dubai-festgenommen-berlin.html",
-      "date": "Wed, 23 Sep 2026 20:01:18 +0200"
+      "date": "Wed, 23 Sep 2026 20:29:38 +0200"
+    },
+    {
+      "title": "Illegaler Schusswaffen-Handel: Berliner Polizei nimmt sieben Verdächtige bei Razzia fest",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/durchsuchung-berlin-illegal-schusswaffen-handel-polizei-ferrum.html",
+      "date": "Wed, 23 Sep 2026 20:15:43 +0200"
     },
     {
       "title": "41-jährige Gorilla-Weibchen im Berliner Zoo gestorben",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/gorilla-dame-berliner-zoo-gestorben.html",
       "date": "Wed, 23 Sep 2026 19:08:27 +0200"
-    },
-    {
-      "title": "Bewährungsstrafe: Als Dragqueen bekannter Mann wegen Kinderpornografie verurteilt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/urteil-kinderpornografie-berlin-marco-o-jurassica-parka.html",
-      "date": "Wed, 23 Sep 2026 18:51:30 +0200"
     },
     {
       "title": "Aufgeschnittene Zäune: Wildschweine auf dem Stahnsdorfer Friedhof dürfen gejagt werden",
@@ -151,11 +161,6 @@
       "title": "Frankfurt (Oder): Gedenktafel für Eichmann-Jäger Hermann Arndt eingeweiht",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/hermann-arndt-gedenktafel-frankfurtoder.html",
       "date": "Wed, 23 Sep 2026 17:32:31 +0200"
-    },
-    {
-      "title": "Illegaler Schusswaffen-Handel: Berliner Polizei nimmt sieben Verdächtige bei Razzia fest",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/durchsuchung-berlin-illegal-schusswaffen-handel-polizei-ferrum.html",
-      "date": "Wed, 23 Sep 2026 17:06:57 +0200"
     },
     {
       "title": "Studie bei Energie Cottbus-Spielen legt zahlreiche Herzprobleme offen",
@@ -181,11 +186,6 @@
       "title": "Unfall in BVG-Bus: Seniorin lebensgefährlich verletzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-mitte-nikolaiviertel-verkehrsunfall-bvg-bus-kopfverletzung.html",
       "date": "Wed, 23 Sep 2026 14:47:00 +0200"
-    },
-    {
-      "title": "Potsdam: Abwahlantrag gegen Bau-Beigeordneten Bernd Rubelt zustande gekommen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/abwahlantrag-bau-beigeordneter-bernd-rubelt-potsdam.html",
-      "date": "Wed, 23 Sep 2026 13:02:54 +0200"
     }
   ]
 }
