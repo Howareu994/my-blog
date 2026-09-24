@@ -1,19 +1,54 @@
 {
   "traffic": [
     {
+      "title": "Basketball: Alba Berlin besiegt auch Frankfurt",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/alba-berlin-frankfurt-skyliners-bbl-.html",
+      "date": "Thu, 24 Sep 2026 21:28:25 +0200"
+    },
+    {
+      "title": "Gescheiterte Olympia-Bewerbung: Berlin ist eine, aber nicht die Sportstadt",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/berlin-olympia-aus-grossevents-sportstadt-.html",
+      "date": "Thu, 24 Sep 2026 21:26:38 +0200"
+    },
+    {
+      "title": "Krach und Çaglar sollen SPD-Fraktion führen - Sondierung mit Linken erwartet",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-spd-fraktionsvorsitz-krach-caglar-nominiert.html",
+      "date": "Thu, 24 Sep 2026 21:08:51 +0200"
+    },
+    {
+      "title": "CDU-Fraktion wählt Evers an die Spitze - offen Schwarz-Grün-Rot",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-stefan-evers-neuer-vorsitzender-cdu-fraktion.html",
+      "date": "Thu, 24 Sep 2026 20:26:35 +0200"
+    },
+    {
+      "title": "VBB erhöht Fahrpreise - AB-Ticket bleibt fast überall konstant",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/vbb-ticket-preise-erhoehung-berlin-brandenburg.html",
+      "date": "Thu, 24 Sep 2026 19:01:03 +0200"
+    },
+    {
+      "title": "Aufgeschnittene Zäune: Wildschweine auf dem Stahnsdorfer Friedhof dürfen gejagt werden",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/wildschweine-stahnsdorf-friedhof-jagd-zaun-aufgeschnitten.html",
+      "date": "Thu, 24 Sep 2026 17:54:19 +0200"
+    },
+    {
+      "title": "Elchbulle Bert ist tot - innere Verletzungen unklarer Herkunft",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/elchbulle-bert-brandenburg-gestorben-eberswalde.html",
+      "date": "Thu, 24 Sep 2026 17:38:47 +0200"
+    },
+    {
       "title": "Olympia-Aus: Reaktionen zwischen \"Freude wie Bolle\" und \"Schlag ins Gesicht\"",
       "link": "https://www.rbb24.de/sport/beitrag/2026/09/olympia-bewerbung-berlin-rueckzug-senat-reaktionen-dosb.html",
       "date": "Thu, 24 Sep 2026 17:31:20 +0200"
     },
     {
-      "title": "Abgeordnetenhaus: Wie radikal ist die neue Berliner AfD-Fraktion?",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/abgeordnetenhaus-wahl-berlin-afd-fraktion-aeusserungen-gesichert.html",
-      "date": "Thu, 24 Sep 2026 16:39:36 +0200"
+      "title": "Das Abgeordnetenhaus: So hat Berlin seit 1990 gewählt",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-abgeordnetenhaus-wahlergebnisse-seit-1990-statistik-wahlverhalten.html",
+      "date": "Thu, 24 Sep 2026 16:46:10 +0200"
     },
     {
-      "title": "Kameras werden am Kottbusser Tor installiert - Testbetrieb startet in vier Wochen",
+      "title": "Kameras am Kottbusser Tor werden eingerichtet - Testbetrieb in vier Wochen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/pilotprojekt-ki-videoueberwachung-berlin.html",
-      "date": "Thu, 24 Sep 2026 16:24:01 +0200"
+      "date": "Thu, 24 Sep 2026 16:24:00 +0200"
     },
     {
       "title": "\"Geisterhaus\" in Friedenau: Bezirk erstellt Gutachten auf eigene Faust",
@@ -24,41 +59,6 @@
       "title": "Barnimer Haushaltsdefizit um fast zehn Millionen Euro gestiegen",
       "link": "https://www.rbb24.de/politik/beitrag/2026/09/finanzen-landkreis-barnim-haushaltsdefizit-millionen-euro.html",
       "date": "Thu, 24 Sep 2026 16:09:34 +0200"
-    },
-    {
-      "title": "150 jüdische Berliner verteidigen Linke gegen Antisemitismus-Vorwürfe",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-offener-brief-juden-fuer-rot-gruen-rote-koalition.html",
-      "date": "Thu, 24 Sep 2026 15:44:50 +0200"
-    },
-    {
-      "title": "Schwedt: Drei Start-ups erhalten Hunderttausende Euro Fördergeld",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/09/schwedt-startup-challenge-unternehmen-foerderung.html",
-      "date": "Thu, 24 Sep 2026 15:10:00 +0200"
-    },
-    {
-      "title": "Demenz mit 58: Eine Betroffene berichtet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/interview-demenz-juengere-betroffene.html",
-      "date": "Thu, 24 Sep 2026 15:05:54 +0200"
-    },
-    {
-      "title": "Potsdam-Mittelmark: Protest gegen Kürzungen bei Familienzentren wird lauter",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/protest-familienzentren-potsdam-mittelmark-gegen-einsparungen.html",
-      "date": "Thu, 24 Sep 2026 14:59:51 +0200"
-    },
-    {
-      "title": "VBB erhöht Ticketpreise - Berliner AB-Ticket bleibt bei 4 Euro",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/vbb-ticket-preise-erhoehung-berlin-brandenburg.html",
-      "date": "Thu, 24 Sep 2026 14:53:00 +0200"
-    },
-    {
-      "title": "\"Unreleased\" im Astra Kulturhaus: Wie eine gemischte Tüte vom Kiosk",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/09/konzert-unreleased-astra-kulturhaus-berlin.html",
-      "date": "Thu, 24 Sep 2026 14:42:00 +0200"
-    },
-    {
-      "title": "Elchbulle Bert ist tot - innere Verletzungen unklarer Herkunft",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/elchbulle-bert-brandenburg-gestorben-eberswalde.html",
-      "date": "Thu, 24 Sep 2026 14:36:50 +0200"
     }
   ],
   "police": [
@@ -128,9 +128,24 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Kameras werden am Kottbusser Tor installiert - Testbetrieb startet in vier Wochen",
+      "title": "VBB erhöht Fahrpreise - AB-Ticket bleibt fast überall konstant",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/vbb-ticket-preise-erhoehung-berlin-brandenburg.html",
+      "date": "Thu, 24 Sep 2026 19:01:03 +0200"
+    },
+    {
+      "title": "Aufgeschnittene Zäune: Wildschweine auf dem Stahnsdorfer Friedhof dürfen gejagt werden",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/wildschweine-stahnsdorf-friedhof-jagd-zaun-aufgeschnitten.html",
+      "date": "Thu, 24 Sep 2026 17:54:19 +0200"
+    },
+    {
+      "title": "Elchbulle Bert ist tot - innere Verletzungen unklarer Herkunft",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/elchbulle-bert-brandenburg-gestorben-eberswalde.html",
+      "date": "Thu, 24 Sep 2026 17:38:47 +0200"
+    },
+    {
+      "title": "Kameras am Kottbusser Tor werden eingerichtet - Testbetrieb in vier Wochen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/pilotprojekt-ki-videoueberwachung-berlin.html",
-      "date": "Thu, 24 Sep 2026 16:24:01 +0200"
+      "date": "Thu, 24 Sep 2026 16:24:00 +0200"
     },
     {
       "title": "\"Geisterhaus\" in Friedenau: Bezirk erstellt Gutachten auf eigene Faust",
@@ -148,24 +163,9 @@
       "date": "Thu, 24 Sep 2026 14:59:51 +0200"
     },
     {
-      "title": "VBB erhöht Ticketpreise - Berliner AB-Ticket bleibt bei 4 Euro",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/vbb-ticket-preise-erhoehung-berlin-brandenburg.html",
-      "date": "Thu, 24 Sep 2026 14:53:00 +0200"
-    },
-    {
-      "title": "Elchbulle Bert ist tot - innere Verletzungen unklarer Herkunft",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/elchbulle-bert-brandenburg-gestorben-eberswalde.html",
-      "date": "Thu, 24 Sep 2026 14:36:50 +0200"
-    },
-    {
       "title": "Berlin-Pankow: Tödlicher Unfall am U-Bahnhof Schönhauser",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-prenzlauer-berg-bahnhof-schoenhauser-allee-toedlicher-unfall-u2.html",
       "date": "Thu, 24 Sep 2026 13:13:32 +0200"
-    },
-    {
-      "title": "Aufgeschnittene Zäune: Wildschweine auf dem Stahnsdorfer Friedhof dürfen gejagt werden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/wildschweine-stahnsdorf-friedhof-jagd-zaun-aufgeschnitten.html",
-      "date": "Thu, 24 Sep 2026 13:05:34 +0200"
     },
     {
       "title": "Starts und Landungen am BER wegen Drohnen-Alarm zweitweise ausgesetzt",
