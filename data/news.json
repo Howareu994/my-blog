@@ -1,67 +1,92 @@
 {
   "traffic": [
     {
-      "title": "\"Massiver Schaden\": Die Stimmen zum Berliner Olympia-Rückzug",
+      "title": "Olympia-Aus: Reaktionen zwischen \"Freude wie Bolle\" und \"Schlag ins Gesicht\"",
       "link": "https://www.rbb24.de/sport/beitrag/2026/09/olympia-bewerbung-berlin-rueckzug-senat-reaktionen-dosb.html",
-      "date": "Thu, 24 Sep 2026 12:22:39 +0200"
+      "date": "Thu, 24 Sep 2026 17:31:20 +0200"
     },
     {
-      "title": "Starts und Landungen am BER wegen Drohnen-Alarm zweitweise ausgesetzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/drohnen-alarm-flughafen-ber-keine-starts-landungen-berlin-brandendurg.html",
-      "date": "Thu, 24 Sep 2026 12:01:03 +0200"
-    },
-    {
-      "title": "Ostprignitz-Ruppin: Zwei Menschen sterben nach Unfall in brennendem Auto",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/unfall-tote-baum-neuruppin.html",
-      "date": "Thu, 24 Sep 2026 11:51:10 +0200"
-    },
-    {
-      "title": "Betrüger erbeuten 130.000 Euro mit Kreditkarten-Masche",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/betrueger-kreditkarten-abbuchung-masche-maerkisch-oderland.html",
-      "date": "Thu, 24 Sep 2026 11:33:34 +0200"
-    },
-    {
-      "title": "Easyjet weitet Flugangebot am BER im nächsten Sommer aus",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/09/fluggesellschaft-easyjet-angebot-ber-berlin-brandenburg.html",
-      "date": "Thu, 24 Sep 2026 11:06:50 +0200"
-    },
-    {
-      "title": "Luckauer Intensivstation wird deutlich verkleinert",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/intensiv-station-luckau-verkleinert-krankenhaus-reform.html",
-      "date": "Thu, 24 Sep 2026 10:38:16 +0200"
-    },
-    {
-      "title": "Potsdam: Verpackungssteuer auf Einweggeschirr kommt zum 1. Oktober",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/09/potsdam-verpackungssteuer-einweg-geschirr-einfuehrung-oktobe-svv.html",
-      "date": "Thu, 24 Sep 2026 10:21:34 +0200"
-    },
-    {
-      "title": "Wetter: Goldenes Herbstwochenende steht bevor",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/wetter-berlin-brandenburg-herbst-september-prognose.html",
-      "date": "Thu, 24 Sep 2026 09:19:34 +0200"
-    },
-    {
-      "title": "Angeschlagen auf der Bühne: Jazeek in der Uber Eats Music Hall",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/09/konzert-jazeek-uber-eats-music-hall.html",
-      "date": "Thu, 24 Sep 2026 08:20:00 +0200"
-    },
-    {
-      "title": "In Steglitz-Zehlendorf werden einige Stimmen neu ausgezählt",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/steglitz-zehlendorf-nachzaehlung-abgeordnetenhaus-zweitstimmen.html",
-      "date": "Thu, 24 Sep 2026 07:40:00 +0200"
-    },
-    {
-      "title": "Nach der Berlin-Wahl: Können Wohnungen vergesellschaftet werden?",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/09/berlin-wohnungen-vergesellschaftung-linke-debatte-konzerne-grundgesetz.html",
-      "date": "Thu, 24 Sep 2026 07:32:00 +0200"
-    },
-    {
-      "title": "Künftiges Abgeordnetenhaus: Wie radikal ist die neue Berliner AfD-Fraktion?",
+      "title": "Abgeordnetenhaus: Wie radikal ist die neue Berliner AfD-Fraktion?",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/abgeordnetenhaus-wahl-berlin-afd-fraktion-aeusserungen-gesichert.html",
-      "date": "Thu, 24 Sep 2026 06:15:00 +0200"
+      "date": "Thu, 24 Sep 2026 16:39:36 +0200"
+    },
+    {
+      "title": "Kameras werden am Kottbusser Tor installiert - Testbetrieb startet in vier Wochen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/pilotprojekt-ki-videoueberwachung-berlin.html",
+      "date": "Thu, 24 Sep 2026 16:24:01 +0200"
+    },
+    {
+      "title": "\"Geisterhaus\" in Friedenau: Bezirk erstellt Gutachten auf eigene Faust",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/flora-friedenau-berlin-haus-verfall-bezirk-treuhaender.html",
+      "date": "Thu, 24 Sep 2026 16:14:33 +0200"
+    },
+    {
+      "title": "Barnimer Haushaltsdefizit um fast zehn Millionen Euro gestiegen",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/09/finanzen-landkreis-barnim-haushaltsdefizit-millionen-euro.html",
+      "date": "Thu, 24 Sep 2026 16:09:34 +0200"
+    },
+    {
+      "title": "150 jüdische Berliner verteidigen Linke gegen Antisemitismus-Vorwürfe",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-offener-brief-juden-fuer-rot-gruen-rote-koalition.html",
+      "date": "Thu, 24 Sep 2026 15:44:50 +0200"
+    },
+    {
+      "title": "Schwedt: Drei Start-ups erhalten Hunderttausende Euro Fördergeld",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/09/schwedt-startup-challenge-unternehmen-foerderung.html",
+      "date": "Thu, 24 Sep 2026 15:10:00 +0200"
+    },
+    {
+      "title": "Demenz mit 58: Eine Betroffene berichtet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/interview-demenz-juengere-betroffene.html",
+      "date": "Thu, 24 Sep 2026 15:05:54 +0200"
+    },
+    {
+      "title": "Potsdam-Mittelmark: Protest gegen Kürzungen bei Familienzentren wird lauter",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/protest-familienzentren-potsdam-mittelmark-gegen-einsparungen.html",
+      "date": "Thu, 24 Sep 2026 14:59:51 +0200"
+    },
+    {
+      "title": "VBB erhöht Ticketpreise - Berliner AB-Ticket bleibt bei 4 Euro",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/vbb-ticket-preise-erhoehung-berlin-brandenburg.html",
+      "date": "Thu, 24 Sep 2026 14:53:00 +0200"
+    },
+    {
+      "title": "\"Unreleased\" im Astra Kulturhaus: Wie eine gemischte Tüte vom Kiosk",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/09/konzert-unreleased-astra-kulturhaus-berlin.html",
+      "date": "Thu, 24 Sep 2026 14:42:00 +0200"
+    },
+    {
+      "title": "Elchbulle Bert ist tot - innere Verletzungen unklarer Herkunft",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/elchbulle-bert-brandenburg-gestorben-eberswalde.html",
+      "date": "Thu, 24 Sep 2026 14:36:50 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Allgemeinverfügung zur Kampfmittelbeseitigung am 30. September 2026",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718070.php",
+      "date": "Thu, 24 Sep 2026 16:24:40 +0200"
+    },
+    {
+      "title": "Bauarbeiter bei Auseinandersetzungen verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718012.php",
+      "date": "Thu, 24 Sep 2026 14:49:28 +0200"
+    },
+    {
+      "title": "Berlin startet mit KI-gestütztem Videoschutz",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718008.php",
+      "date": "Thu, 24 Sep 2026 14:30:00 +0200"
+    },
+    {
+      "title": "Sachbeschädigung durch Feuer und Farbschmiererei",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717930.php",
+      "date": "Thu, 24 Sep 2026 13:29:41 +0200"
+    },
+    {
+      "title": "Versuchter Raub auf Motorrollerfahrerin – Tatverdächtige festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717917.php",
+      "date": "Thu, 24 Sep 2026 13:14:01 +0200"
+    },
     {
       "title": "Mann kündigte Amoktat an – mehrere Waffen beschlagnahmt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717897.php",
@@ -96,37 +121,52 @@
       "title": "14-jähriger E-Scooter-Fahrer flüchtet vor Verkehrskontrolle – Beamter setzt DEIG ein",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717584.php",
       "date": "Wed, 23 Sep 2026 14:05:08 +0200"
-    },
-    {
-      "title": "Nach Brand in Seniorenheim – Patient im Krankenhaus verstorben",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717486.php",
-      "date": "Wed, 23 Sep 2026 11:27:54 +0200"
-    },
-    {
-      "title": "Frau bei Sturz in Linienbus lebensgefährlich verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717481.php",
-      "date": "Wed, 23 Sep 2026 11:19:02 +0200"
-    },
-    {
-      "title": "Unter Alkoholeinfluss – E-Scooter-Fahrerin fährt gegen wartendes Auto",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717289.php",
-      "date": "Tue, 22 Sep 2026 16:41:15 +0200"
-    },
-    {
-      "title": "Tödlicher Verkehrsunfall – Zeuginnen und Zeugen gesucht",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717214.php",
-      "date": "Tue, 22 Sep 2026 14:08:28 +0200"
-    },
-    {
-      "title": "Ermittlungen nach Schussabgabe auf Wohnungsfenster",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717195.php",
-      "date": "Tue, 22 Sep 2026 13:36:15 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Kameras werden am Kottbusser Tor installiert - Testbetrieb startet in vier Wochen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/pilotprojekt-ki-videoueberwachung-berlin.html",
+      "date": "Thu, 24 Sep 2026 16:24:01 +0200"
+    },
+    {
+      "title": "\"Geisterhaus\" in Friedenau: Bezirk erstellt Gutachten auf eigene Faust",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/flora-friedenau-berlin-haus-verfall-bezirk-treuhaender.html",
+      "date": "Thu, 24 Sep 2026 16:14:33 +0200"
+    },
+    {
+      "title": "Demenz mit 58: Eine Betroffene berichtet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/interview-demenz-juengere-betroffene.html",
+      "date": "Thu, 24 Sep 2026 15:05:54 +0200"
+    },
+    {
+      "title": "Potsdam-Mittelmark: Protest gegen Kürzungen bei Familienzentren wird lauter",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/protest-familienzentren-potsdam-mittelmark-gegen-einsparungen.html",
+      "date": "Thu, 24 Sep 2026 14:59:51 +0200"
+    },
+    {
+      "title": "VBB erhöht Ticketpreise - Berliner AB-Ticket bleibt bei 4 Euro",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/vbb-ticket-preise-erhoehung-berlin-brandenburg.html",
+      "date": "Thu, 24 Sep 2026 14:53:00 +0200"
+    },
+    {
+      "title": "Elchbulle Bert ist tot - innere Verletzungen unklarer Herkunft",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/elchbulle-bert-brandenburg-gestorben-eberswalde.html",
+      "date": "Thu, 24 Sep 2026 14:36:50 +0200"
+    },
+    {
+      "title": "Berlin-Pankow: Tödlicher Unfall am U-Bahnhof Schönhauser",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-prenzlauer-berg-bahnhof-schoenhauser-allee-toedlicher-unfall-u2.html",
+      "date": "Thu, 24 Sep 2026 13:13:32 +0200"
+    },
+    {
+      "title": "Aufgeschnittene Zäune: Wildschweine auf dem Stahnsdorfer Friedhof dürfen gejagt werden",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/wildschweine-stahnsdorf-friedhof-jagd-zaun-aufgeschnitten.html",
+      "date": "Thu, 24 Sep 2026 13:05:34 +0200"
+    },
     {
       "title": "Starts und Landungen am BER wegen Drohnen-Alarm zweitweise ausgesetzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/drohnen-alarm-flughafen-ber-keine-starts-landungen-berlin-brandendurg.html",
@@ -146,46 +186,6 @@
       "title": "Luckauer Intensivstation wird deutlich verkleinert",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/intensiv-station-luckau-verkleinert-krankenhaus-reform.html",
       "date": "Thu, 24 Sep 2026 10:38:16 +0200"
-    },
-    {
-      "title": "Wetter: Goldenes Herbstwochenende steht bevor",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/wetter-berlin-brandenburg-herbst-september-prognose.html",
-      "date": "Thu, 24 Sep 2026 09:19:34 +0200"
-    },
-    {
-      "title": "Bewährungsstrafe: Als Dragqueen bekannter Mann wegen Kinderpornografie verurteilt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/urteil-kinderpornografie-berlin-marco-o-jurassica-parka.html",
-      "date": "Wed, 23 Sep 2026 20:34:58 +0200"
-    },
-    {
-      "title": "Windkraftbetrüger Hendrik Holt in Dubai gefasst - in Berlin geflohen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/windkraft-betrueger-holt-flucht-dubai-festgenommen-berlin.html",
-      "date": "Wed, 23 Sep 2026 20:29:00 +0200"
-    },
-    {
-      "title": "Illegaler Schusswaffen-Handel: Berliner Polizei nimmt sieben Verdächtige bei Razzia fest",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/durchsuchung-berlin-illegal-schusswaffen-handel-polizei-ferrum.html",
-      "date": "Wed, 23 Sep 2026 20:15:00 +0200"
-    },
-    {
-      "title": "41-jährige Gorilla-Weibchen im Berliner Zoo gestorben",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/gorilla-dame-berliner-zoo-gestorben.html",
-      "date": "Wed, 23 Sep 2026 19:08:27 +0200"
-    },
-    {
-      "title": "Aufgeschnittene Zäune: Wildschweine auf dem Stahnsdorfer Friedhof dürfen gejagt werden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/wildschweine-stahnsdorf-friedhof-jagd-zaun-aufgeschnitten.html",
-      "date": "Wed, 23 Sep 2026 18:02:00 +0200"
-    },
-    {
-      "title": "Frankfurt (Oder): Gedenktafel für Eichmann-Jäger Hermann Arndt eingeweiht",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/hermann-arndt-gedenktafel-frankfurtoder.html",
-      "date": "Wed, 23 Sep 2026 17:32:31 +0200"
-    },
-    {
-      "title": "Studie bei Energie Cottbus-Spielen legt zahlreiche Herzprobleme offen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/herz-studie-energie-cottbus-betroffene-gefunden.html",
-      "date": "Wed, 23 Sep 2026 16:37:40 +0200"
     }
   ]
 }
