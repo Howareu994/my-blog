@@ -1,67 +1,82 @@
 {
   "traffic": [
     {
-      "title": "Nach Wahl in Berlin: Können Wohnungen vergesellschaftet werden?",
+      "title": "\"Massiver Schaden\": Die Stimmen zum Berliner Olympia-Rückzug",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/olympia-bewerbung-berlin-rueckzug-senat-reaktionen-dosb.html",
+      "date": "Thu, 24 Sep 2026 12:22:39 +0200"
+    },
+    {
+      "title": "Starts und Landungen am BER wegen Drohnen-Alarm zweitweise ausgesetzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/drohnen-alarm-flughafen-ber-keine-starts-landungen-berlin-brandendurg.html",
+      "date": "Thu, 24 Sep 2026 12:01:03 +0200"
+    },
+    {
+      "title": "Ostprignitz-Ruppin: Zwei Menschen sterben nach Unfall in brennendem Auto",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/unfall-tote-baum-neuruppin.html",
+      "date": "Thu, 24 Sep 2026 11:51:10 +0200"
+    },
+    {
+      "title": "Betrüger erbeuten 130.000 Euro mit Kreditkarten-Masche",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/betrueger-kreditkarten-abbuchung-masche-maerkisch-oderland.html",
+      "date": "Thu, 24 Sep 2026 11:33:34 +0200"
+    },
+    {
+      "title": "Easyjet weitet Flugangebot am BER im nächsten Sommer aus",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/09/fluggesellschaft-easyjet-angebot-ber-berlin-brandenburg.html",
+      "date": "Thu, 24 Sep 2026 11:06:50 +0200"
+    },
+    {
+      "title": "Luckauer Intensivstation wird deutlich verkleinert",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/intensiv-station-luckau-verkleinert-krankenhaus-reform.html",
+      "date": "Thu, 24 Sep 2026 10:38:16 +0200"
+    },
+    {
+      "title": "Potsdam: Verpackungssteuer auf Einweggeschirr kommt zum 1. Oktober",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/09/potsdam-verpackungssteuer-einweg-geschirr-einfuehrung-oktobe-svv.html",
+      "date": "Thu, 24 Sep 2026 10:21:34 +0200"
+    },
+    {
+      "title": "Wetter: Goldenes Herbstwochenende steht bevor",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/wetter-berlin-brandenburg-herbst-september-prognose.html",
+      "date": "Thu, 24 Sep 2026 09:19:34 +0200"
+    },
+    {
+      "title": "Angeschlagen auf der Bühne: Jazeek in der Uber Eats Music Hall",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/09/konzert-jazeek-uber-eats-music-hall.html",
+      "date": "Thu, 24 Sep 2026 08:20:00 +0200"
+    },
+    {
+      "title": "In Steglitz-Zehlendorf werden einige Stimmen neu ausgezählt",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/steglitz-zehlendorf-nachzaehlung-abgeordnetenhaus-zweitstimmen.html",
+      "date": "Thu, 24 Sep 2026 07:40:00 +0200"
+    },
+    {
+      "title": "Nach der Berlin-Wahl: Können Wohnungen vergesellschaftet werden?",
       "link": "https://www.rbb24.de/politik/beitrag/2026/09/berlin-wohnungen-vergesellschaftung-linke-debatte-konzerne-grundgesetz.html",
-      "date": "Thu, 24 Sep 2026 07:32:07 +0200"
+      "date": "Thu, 24 Sep 2026 07:32:00 +0200"
     },
     {
       "title": "Künftiges Abgeordnetenhaus: Wie radikal ist die neue Berliner AfD-Fraktion?",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/abgeordnetenhaus-wahl-berlin-afd-fraktion-aeusserungen-gesichert.html",
       "date": "Thu, 24 Sep 2026 06:15:00 +0200"
-    },
-    {
-      "title": "Hase/Volodin tanken im \"Club der Besten\" Kraft für die neue Saison",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/eiskunstlauf-minerva-hase-nikita-volodin-club-der-besten-interview-saison.html",
-      "date": "Thu, 24 Sep 2026 06:12:08 +0200"
-    },
-    {
-      "title": "Handball: VfL Potsdam schlägt Essen in 2. Runde des DHB-Pokals",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/handball-dhb-pokal-tusem-essen-vfl-potsdam-spielbericht-ergebnis.html",
-      "date": "Wed, 23 Sep 2026 22:44:04 +0200"
-    },
-    {
-      "title": "Starts und Landungen am BER wegen Drohnen-Alarm zweitweise ausgesetzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/drohnen-alarm-flughafen-ber-keine-starts-landungen-berlin-brandendurg.html",
-      "date": "Wed, 23 Sep 2026 21:53:15 +0200"
-    },
-    {
-      "title": "Analyse zu den Grünen nach der Berlin-Wahl",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahl-gruene-hochburgen-verluste-direktmandate.html",
-      "date": "Wed, 23 Sep 2026 20:41:33 +0200"
-    },
-    {
-      "title": "Bewährungsstrafe: Als Dragqueen bekannter Mann wegen Kinderpornografie verurteilt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/urteil-kinderpornografie-berlin-marco-o-jurassica-parka.html",
-      "date": "Wed, 23 Sep 2026 20:34:58 +0200"
-    },
-    {
-      "title": "Windkraftbetrüger Hendrik Holt in Dubai gefasst - in Berlin geflohen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/windkraft-betrueger-holt-flucht-dubai-festgenommen-berlin.html",
-      "date": "Wed, 23 Sep 2026 20:29:00 +0200"
-    },
-    {
-      "title": "Illegaler Schusswaffen-Handel: Berliner Polizei nimmt sieben Verdächtige bei Razzia fest",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/durchsuchung-berlin-illegal-schusswaffen-handel-polizei-ferrum.html",
-      "date": "Wed, 23 Sep 2026 20:15:00 +0200"
-    },
-    {
-      "title": "Netzwerk \"Schule ohne Rassismus\" im Brandenburger Landtag",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/09/brandenburg-landtag-schulnetzwerk-gegen-rassismus.html",
-      "date": "Wed, 23 Sep 2026 20:13:52 +0200"
-    },
-    {
-      "title": "Berlin will Olympia-Bewerbung zurückziehen",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/olympiabewerbung-berlin-zieht-zurueck-2036-niroomand-rathaus.html",
-      "date": "Wed, 23 Sep 2026 19:52:00 +0200"
-    },
-    {
-      "title": "41-jährige Gorilla-Weibchen im Berliner Zoo gestorben",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/gorilla-dame-berliner-zoo-gestorben.html",
-      "date": "Wed, 23 Sep 2026 19:08:27 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Mann kündigte Amoktat an – mehrere Waffen beschlagnahmt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717897.php",
+      "date": "Thu, 24 Sep 2026 12:34:20 +0200"
+    },
+    {
+      "title": "Überfall auf Hotel",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717835.php",
+      "date": "Thu, 24 Sep 2026 11:17:32 +0200"
+    },
+    {
+      "title": "Seniorin fährt Kind an",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717825.php",
+      "date": "Thu, 24 Sep 2026 11:07:00 +0200"
+    },
     {
       "title": "BAO Ferrum und EG Telum: Stadtweite Durchsuchungsmaßnahmen zur Bekämpfung der Schusswaffenkriminalität",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717681.php",
@@ -106,21 +121,6 @@
       "title": "Ermittlungen nach Schussabgabe auf Wohnungsfenster",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717195.php",
       "date": "Tue, 22 Sep 2026 13:36:15 +0200"
-    },
-    {
-      "title": "Allgemeinverfügung zum 52. Berlin-Marathon erlassen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717143.php",
-      "date": "Tue, 22 Sep 2026 12:17:54 +0200"
-    },
-    {
-      "title": "Überfall auf Geldtransporter – Zeuginnen und Zeugen gesucht",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717101.php",
-      "date": "Tue, 22 Sep 2026 11:37:36 +0200"
-    },
-    {
-      "title": "Kind bei Unfall verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717074.php",
-      "date": "Tue, 22 Sep 2026 11:11:57 +0200"
     }
   ],
   "free_events": [],
@@ -130,7 +130,27 @@
     {
       "title": "Starts und Landungen am BER wegen Drohnen-Alarm zweitweise ausgesetzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/drohnen-alarm-flughafen-ber-keine-starts-landungen-berlin-brandendurg.html",
-      "date": "Wed, 23 Sep 2026 21:53:15 +0200"
+      "date": "Thu, 24 Sep 2026 12:01:03 +0200"
+    },
+    {
+      "title": "Ostprignitz-Ruppin: Zwei Menschen sterben nach Unfall in brennendem Auto",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/unfall-tote-baum-neuruppin.html",
+      "date": "Thu, 24 Sep 2026 11:51:10 +0200"
+    },
+    {
+      "title": "Betrüger erbeuten 130.000 Euro mit Kreditkarten-Masche",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/betrueger-kreditkarten-abbuchung-masche-maerkisch-oderland.html",
+      "date": "Thu, 24 Sep 2026 11:33:34 +0200"
+    },
+    {
+      "title": "Luckauer Intensivstation wird deutlich verkleinert",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/intensiv-station-luckau-verkleinert-krankenhaus-reform.html",
+      "date": "Thu, 24 Sep 2026 10:38:16 +0200"
+    },
+    {
+      "title": "Wetter: Goldenes Herbstwochenende steht bevor",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/wetter-berlin-brandenburg-herbst-september-prognose.html",
+      "date": "Thu, 24 Sep 2026 09:19:34 +0200"
     },
     {
       "title": "Bewährungsstrafe: Als Dragqueen bekannter Mann wegen Kinderpornografie verurteilt",
@@ -166,26 +186,6 @@
       "title": "Studie bei Energie Cottbus-Spielen legt zahlreiche Herzprobleme offen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/herz-studie-energie-cottbus-betroffene-gefunden.html",
       "date": "Wed, 23 Sep 2026 16:37:40 +0200"
-    },
-    {
-      "title": "Berlin: Weiterer Mann nach Brand in Kreuzberger Pflegeheim gestorben",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brand-pflegeheim-tot-gestorben-berlin-kreuzberg.html",
-      "date": "Wed, 23 Sep 2026 16:12:39 +0200"
-    },
-    {
-      "title": "Polizei nimmt zwei Tatverdächtige nach Rinderdiebstählen fest",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/rinder-diebstaehle-brandenburg-festnahmen.html",
-      "date": "Wed, 23 Sep 2026 15:56:33 +0200"
-    },
-    {
-      "title": "Stellwerk, Gleise, Lärmschutzwände: Bahn modernisiert Oranienburger Bahnhof umfassend",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/bahnhof-oranienburg-bauarbeiten-laermschutz-gleise-stellwerk.html",
-      "date": "Wed, 23 Sep 2026 14:53:41 +0200"
-    },
-    {
-      "title": "Unfall in BVG-Bus: Seniorin lebensgefährlich verletzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-mitte-nikolaiviertel-verkehrsunfall-bvg-bus-kopfverletzung.html",
-      "date": "Wed, 23 Sep 2026 14:47:00 +0200"
     }
   ]
 }
