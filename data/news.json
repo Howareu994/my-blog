@@ -1,9 +1,49 @@
 {
   "traffic": [
     {
+      "title": "Schüler demonstrieren in Berlin und Brandenburg gegen Wehrpflicht",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/09/schulstreik-gegen-wehrpflicht-berlin-brandenburg.html",
+      "date": "Fri, 25 Sep 2026 19:36:12 +0200"
+    },
+    {
+      "title": "Linke entscheidet über Sondierungen - Fehler in Antisemitismus-Debatte eingeräumt",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-linke-parteitag-entscheidung-sondierung-gruene-spd.html",
+      "date": "Fri, 25 Sep 2026 19:11:23 +0200"
+    },
+    {
+      "title": "Radstreifen in der Kantstraße wird ab 7. Oktober umgebaut",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-umbau-radweg-kantstrasse-start-oktober-duh.html",
+      "date": "Fri, 25 Sep 2026 19:08:11 +0200"
+    },
+    {
+      "title": "Lausitz: Größte Windrad der Welt bekommt seine Flügel",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-schipkau-groesste-windrad-der-welt-fertigstellung.html",
+      "date": "Fri, 25 Sep 2026 18:41:33 +0200"
+    },
+    {
+      "title": "Axel-Springer-Award für Peter Thiel: \"Der letzte Deutsche\"",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/09/berlin-tech-milliardaer-peter-thiel-axel-springer-award.html",
+      "date": "Fri, 25 Sep 2026 18:39:06 +0200"
+    },
+    {
+      "title": "Regenbogenbank am CSD-Gedenkort im Tiergarten wieder beschädigt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/csd-gedenkbank-erneut-beschaedigt-berlin-tiergarten-regenbogenbank.html",
+      "date": "Fri, 25 Sep 2026 16:48:22 +0200"
+    },
+    {
+      "title": "Jugendtrainer Koban: \"Beim BFC Dynamo leben wir Integration\"",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/fussball-bfc-dynamo-antidiskriminierung-beauftragter-salahdin-koban-interview.html",
+      "date": "Fri, 25 Sep 2026 15:40:56 +0200"
+    },
+    {
       "title": "Tankrabatt kostet Berlin voraussichtlich rund 60 Millionen Euro",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/09/berlin-tankrabatt-co2-abgabe-steuersenkung.html",
-      "date": "Fri, 25 Sep 2026 14:24:17 +0200"
+      "date": "Fri, 25 Sep 2026 15:23:23 +0200"
+    },
+    {
+      "title": "Berlin-Marathon: Assefa führt hochklassiges Frauenfeld an",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/berlin-marathon-elite-vorschau-maenner-frauen-skater-assefa.html",
+      "date": "Fri, 25 Sep 2026 15:08:52 +0200"
     },
     {
       "title": "Interview mit Empfänger eines Spenderorgans: \"Jeder kann Nein sagen\"",
@@ -11,54 +51,14 @@
       "date": "Fri, 25 Sep 2026 13:50:38 +0200"
     },
     {
-      "title": "Regenbogenbank am CSD-Gedenkort im Tiergarten wieder beschädigt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/csd-gedenkbank-erneut-beschaedigt-berlin-tiergarten-regenbogenbank.html",
-      "date": "Fri, 25 Sep 2026 13:46:48 +0200"
-    },
-    {
       "title": "Polizei nimmt 28-Jährigen nach Einbrüchen bei Feuerwehren in Brandenburg fest",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/feuerwehr-brandenburg-einbruch-diebstahl-polizei-festnahme-berlin.html",
       "date": "Fri, 25 Sep 2026 13:38:00 +0200"
     },
     {
-      "title": "Schüler demonstrieren in Berlin und Brandenburg gegen Wehrpflicht",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/09/schulstreik-gegen-wehrpflicht-berlin-brandenburg.html",
-      "date": "Fri, 25 Sep 2026 13:24:42 +0200"
-    },
-    {
       "title": "\"Geisterhaus\" in Friedenau: Bezirk erstellt Gutachten auf eigene Faust",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/flora-friedenau-berlin-haus-verfall-bezirk-treuhaender.html",
       "date": "Fri, 25 Sep 2026 12:50:27 +0200"
-    },
-    {
-      "title": "Angriffe auf Bauarbeiter: Berliner Polizei kontrolliert besetztes Haus",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-friedrichshain-polizei-einsatz-besetztes-haus-guertelstrasse.html",
-      "date": "Fri, 25 Sep 2026 12:36:26 +0200"
-    },
-    {
-      "title": "Berlin-Marathon: Diese Straßen sind gesperrt",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/berlin-marathon-strecke-strassen-sperrungen.html",
-      "date": "Fri, 25 Sep 2026 11:51:00 +0200"
-    },
-    {
-      "title": "17-Jähriger in Berlin-Steglitz angeschossen - Notoperation in der Nacht",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-schuesse-steglitz-lebensgefahr-operation-polizei.html",
-      "date": "Fri, 25 Sep 2026 10:39:17 +0200"
-    },
-    {
-      "title": "Linke entscheidet auf Parteitag über Sondierungen - Kiziltepe für Rot-Grün-Rot",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-linke-parteitag-entscheidung-sondierung-gruene-spd.html",
-      "date": "Fri, 25 Sep 2026 10:07:00 +0200"
-    },
-    {
-      "title": "Zurückgezogene Olympia-Bewerbung: Berlin ist eine, aber nicht die Sportstadt",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/berlin-olympia-aus-grossevents-sportstadt.html",
-      "date": "Fri, 25 Sep 2026 07:19:00 +0200"
-    },
-    {
-      "title": "Basketball: Alba Berlin besiegt auch Frankfurt",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/alba-berlin-frankfurt-skyliners-bbl-.html",
-      "date": "Thu, 24 Sep 2026 21:28:25 +0200"
     }
   ],
   "police": [
@@ -128,14 +128,34 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Interview mit Empfänger eines Spenderorgans: \"Jeder kann Nein sagen\"",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/interview-organspende-transplantation-bundestag.html",
-      "date": "Fri, 25 Sep 2026 13:50:38 +0200"
+      "title": "Radstreifen in der Kantstraße wird ab 7. Oktober umgebaut",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-umbau-radweg-kantstrasse-start-oktober-duh.html",
+      "date": "Fri, 25 Sep 2026 19:08:11 +0200"
+    },
+    {
+      "title": "Lausitz: Größte Windrad der Welt bekommt seine Flügel",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-schipkau-groesste-windrad-der-welt-fertigstellung.html",
+      "date": "Fri, 25 Sep 2026 18:41:33 +0200"
     },
     {
       "title": "Regenbogenbank am CSD-Gedenkort im Tiergarten wieder beschädigt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/csd-gedenkbank-erneut-beschaedigt-berlin-tiergarten-regenbogenbank.html",
-      "date": "Fri, 25 Sep 2026 13:46:48 +0200"
+      "date": "Fri, 25 Sep 2026 16:48:22 +0200"
+    },
+    {
+      "title": "\"Beat & Bark\": Hundefestival an F60 in Lichterfeld gestartet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-lichterfeld-f60-hundefestival-beat-bark.html",
+      "date": "Fri, 25 Sep 2026 15:46:56 +0200"
+    },
+    {
+      "title": "Nach Einbau neuer Bypass-Leitung: Weiterhin Trinkwasser-Abkochgebot im Raum Seelow",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/maerkisch-oderland-seelow-trinkwasser-abkochen-bakterien.html",
+      "date": "Fri, 25 Sep 2026 14:43:45 +0200"
+    },
+    {
+      "title": "Interview mit Empfänger eines Spenderorgans: \"Jeder kann Nein sagen\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/interview-organspende-transplantation-bundestag.html",
+      "date": "Fri, 25 Sep 2026 13:50:38 +0200"
     },
     {
       "title": "Polizei nimmt 28-Jährigen nach Einbrüchen bei Feuerwehren in Brandenburg fest",
@@ -166,26 +186,6 @@
       "title": "Aufgeschnittene Zäune: Wildschweine auf dem Stahnsdorfer Friedhof dürfen gejagt werden",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/wildschweine-stahnsdorf-friedhof-jagd-zaun-aufgeschnitten.html",
       "date": "Thu, 24 Sep 2026 17:54:19 +0200"
-    },
-    {
-      "title": "Elchbulle Bert ist tot - innere Verletzungen unklarer Herkunft",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/elchbulle-bert-brandenburg-gestorben-eberswalde.html",
-      "date": "Thu, 24 Sep 2026 17:38:47 +0200"
-    },
-    {
-      "title": "Kameras am Kottbusser Tor werden eingerichtet - Testbetrieb in vier Wochen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/pilotprojekt-ki-videoueberwachung-berlin.html",
-      "date": "Thu, 24 Sep 2026 16:24:00 +0200"
-    },
-    {
-      "title": "Demenz mit 58: Eine Betroffene berichtet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/interview-demenz-juengere-betroffene.html",
-      "date": "Thu, 24 Sep 2026 15:05:54 +0200"
-    },
-    {
-      "title": "Potsdam-Mittelmark: Protest gegen Kürzungen bei Familienzentren wird lauter",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/protest-familienzentren-potsdam-mittelmark-gegen-einsparungen.html",
-      "date": "Thu, 24 Sep 2026 14:59:51 +0200"
     }
   ]
 }
