@@ -1,9 +1,24 @@
 {
   "traffic": [
     {
-      "title": "Liveticker zum 52. Berlin-Marathon: +++ Fünf-Kilometer-Läufe beliebt +++",
+      "title": "Union Berlin siegt gegen Rijeka und verabschiedet Kreilach",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/fussball-test-union-berlin-abschiedsspiel-kreilach-rijeka-spielbericht.html",
+      "date": "Sat, 26 Sep 2026 22:22:25 +0200"
+    },
+    {
+      "title": "Berlin: SPD will mit Linken und Grünen sondieren",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/09/spd-linke-gruene-berlin-sondierung-regierung.html",
+      "date": "Sat, 26 Sep 2026 22:07:54 +0200"
+    },
+    {
+      "title": "Liveticker zum 52. Berlin-Marathon: +++ Bart Swings skatet zum 10. Sieg +++",
       "link": "https://www.rbb24.de/sport/beitrag/2026/09/berlin-marathon-liveticker-laufen-laufsport-sieger-weltrekord-sperrung.html",
-      "date": "Sat, 26 Sep 2026 19:23:06 +0200"
+      "date": "Sat, 26 Sep 2026 20:30:00 +0200"
+    },
+    {
+      "title": "Regionalliga: Preussen verspielen Führung, RSV zahlt Lehrgeld",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/fussball-regionalliga-nordost-bfc-preussen-halle-rsv-eintracht-chemnitzer-fc-spielbericht.html",
+      "date": "Sat, 26 Sep 2026 19:34:10 +0200"
     },
     {
       "title": "DFB-Pokal der Frauen: Turbine vergibt 2:0-Führung, Hertha auch raus",
@@ -44,16 +59,6 @@
       "title": "Berlin: 16 Festnahmen bei Demo gegen Wehrpflicht",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/festnahmen-demo-gegen-wehrpflicht-berlin.html",
       "date": "Sat, 26 Sep 2026 16:25:45 +0200"
-    },
-    {
-      "title": "München ist Deutschlands Olympia-Kandidat",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/olympia-dosb-deutscher-bewerber-entscheidung-muenchen-koeln-rhein-ruhr-berlin-rueckzug.html",
-      "date": "Sat, 26 Sep 2026 15:08:35 +0200"
-    },
-    {
-      "title": "Berlin-Marathon: Diese Straßen sind gesperrt",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/berlin-marathon-strecke-strassen-sperrungen.html",
-      "date": "Sat, 26 Sep 2026 14:37:57 +0200"
     }
   ],
   "police": [
