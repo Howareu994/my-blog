@@ -1,9 +1,44 @@
 {
   "traffic": [
     {
+      "title": "Liveticker zum 52. Berlin-Marathon: +++ Startschuss für die Skater +++",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/berlin-marathon-liveticker-laufen-laufsport-sieger-weltrekord-sperrung.html",
+      "date": "Sat, 26 Sep 2026 15:27:43 +0200"
+    },
+    {
+      "title": "München ist Deutschlands Olympia-Kandidat",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/olympia-dosb-deutscher-bewerber-entscheidung-muenchen-koeln-rhein-ruhr-berlin-rueckzug.html",
+      "date": "Sat, 26 Sep 2026 15:08:35 +0200"
+    },
+    {
+      "title": "Berlin-Marathon: Diese Straßen sind gesperrt",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/berlin-marathon-strecke-strassen-sperrungen.html",
+      "date": "Sat, 26 Sep 2026 14:37:57 +0200"
+    },
+    {
+      "title": "Berlin: Autofahrerin bei Unfall in Gatow lebensbedrohlich verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-verkehrsunfall-gatow-autofahrerin-lebensbedrohlichverletzt.html",
+      "date": "Sat, 26 Sep 2026 13:40:40 +0200"
+    },
+    {
+      "title": "Senatsgesundheitsverwaltung warnt nach Zwischenfällen vor THC-Gummibärchen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-behoerde-warnung-thc-gummibaerchen-zwischenfaelle.html",
+      "date": "Sat, 26 Sep 2026 12:11:55 +0200"
+    },
+    {
+      "title": "Oderberg: Tonnenschweres Stahlskelett soll bis Mittwoch einschweben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-oderberg-b158-bruecke-bauarbeiten.html",
+      "date": "Sat, 26 Sep 2026 12:04:21 +0200"
+    },
+    {
       "title": "Spree-Neiße: Mann stirbt bei Motorradunfall nahe Spremberg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-toedlicher-motorradunfall-spree-neisse.html",
-      "date": "Sat, 26 Sep 2026 07:49:18 +0200"
+      "date": "Sat, 26 Sep 2026 10:56:40 +0200"
+    },
+    {
+      "title": "Freiwilliger Wehrdienst: Reservistin erzählt von Stolz und Angst",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/interview-freiwilliger-wehrdienst-nuria-riedel-berlin-bundeswehr.html",
+      "date": "Sat, 26 Sep 2026 07:11:18 +0200"
     },
     {
       "title": "Eisbären Berlin gewinnen wildes Spitzenspiel in Köln",
@@ -16,52 +51,32 @@
       "date": "Fri, 25 Sep 2026 21:45:37 +0200"
     },
     {
-      "title": "Klub WM: Füchse Berlin feiern Kantersieg gegen Burgan FC",
+      "title": "Klub WM: Füchse Berlin feiern Kantersieg gegen Burgan SC",
       "link": "https://www.rbb24.de/sport/beitrag/2026/09/berlin-handball-fuechse-burgan-fc-klub-wm-spielbericht.html",
-      "date": "Fri, 25 Sep 2026 21:36:07 +0200"
+      "date": "Fri, 25 Sep 2026 21:36:00 +0200"
     },
     {
       "title": "Berliner Linke stimmt mehrheitlich für Sondierungen mit Grünen und SPD",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-linke-parteitag-entscheidung-sondierung-gruene-spd.html",
       "date": "Fri, 25 Sep 2026 21:08:33 +0200"
-    },
-    {
-      "title": "Axel-Springer-Award für Peter Thiel: \"Der letzte Deutsche\"",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/09/berlin-tech-milliardaer-peter-thiel-axel-springer-award.html",
-      "date": "Fri, 25 Sep 2026 20:29:00 +0200"
-    },
-    {
-      "title": "Schüler demonstrieren in Berlin und Brandenburg gegen Wehrpflicht",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/09/schulstreik-gegen-wehrpflicht-berlin-brandenburg.html",
-      "date": "Fri, 25 Sep 2026 19:36:12 +0200"
-    },
-    {
-      "title": "Radstreifen in der Kantstraße wird ab 7. Oktober umgebaut",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-umbau-radweg-kantstrasse-start-oktober-duh.html",
-      "date": "Fri, 25 Sep 2026 19:08:11 +0200"
-    },
-    {
-      "title": "Lausitz: Größte Windrad der Welt bekommt seine Flügel",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-schipkau-groesste-windrad-der-welt-fertigstellung.html",
-      "date": "Fri, 25 Sep 2026 18:41:33 +0200"
-    },
-    {
-      "title": "Regenbogenbank am CSD-Gedenkort im Tiergarten wieder beschädigt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/csd-gedenkbank-erneut-beschaedigt-berlin-tiergarten-regenbogenbank.html",
-      "date": "Fri, 25 Sep 2026 16:48:22 +0200"
-    },
-    {
-      "title": "Jugendtrainer Koban: \"Beim BFC Dynamo leben wir Integration\"",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/fussball-bfc-dynamo-antidiskriminierung-beauftragter-salahdin-koban-interview.html",
-      "date": "Fri, 25 Sep 2026 15:40:56 +0200"
-    },
-    {
-      "title": "Tankrabatt kostet Berlin voraussichtlich rund 60 Millionen Euro",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/09/berlin-tankrabatt-co2-abgabe-steuersenkung.html",
-      "date": "Fri, 25 Sep 2026 15:23:23 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Mann bei Raub mit Messer verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1718523.php",
+      "date": "Sat, 26 Sep 2026 14:03:22 +0200"
+    },
+    {
+      "title": "Bilanz zu einem Versammlungsgeschehen gegen die Wehrpflicht",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1718522.php",
+      "date": "Sat, 26 Sep 2026 13:57:08 +0200"
+    },
+    {
+      "title": "Autofahrerin bei Verkehrsunfall lebensbedrohlich verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1718519.php",
+      "date": "Sat, 26 Sep 2026 12:41:17 +0200"
+    },
     {
       "title": "Späti ausgeraubt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718351.php",
@@ -106,21 +121,6 @@
       "title": "Sachbeschädigung durch Feuer und Farbschmiererei",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717930.php",
       "date": "Thu, 24 Sep 2026 13:29:41 +0200"
-    },
-    {
-      "title": "Versuchter Raub auf Motorrollerfahrerin – Tatverdächtige festgenommen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717917.php",
-      "date": "Thu, 24 Sep 2026 13:14:01 +0200"
-    },
-    {
-      "title": "Mann kündigte Amoktat an – mehrere Waffen beschlagnahmt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717897.php",
-      "date": "Thu, 24 Sep 2026 12:34:20 +0200"
-    },
-    {
-      "title": "Überfall auf Hotel",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717835.php",
-      "date": "Thu, 24 Sep 2026 11:17:32 +0200"
     }
   ],
   "free_events": [],
@@ -128,9 +128,24 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Berlin: Autofahrerin bei Unfall in Gatow lebensbedrohlich verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-verkehrsunfall-gatow-autofahrerin-lebensbedrohlichverletzt.html",
+      "date": "Sat, 26 Sep 2026 13:40:40 +0200"
+    },
+    {
+      "title": "Senatsgesundheitsverwaltung warnt nach Zwischenfällen vor THC-Gummibärchen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-behoerde-warnung-thc-gummibaerchen-zwischenfaelle.html",
+      "date": "Sat, 26 Sep 2026 12:11:55 +0200"
+    },
+    {
+      "title": "Oderberg: Tonnenschweres Stahlskelett soll bis Mittwoch einschweben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-oderberg-b158-bruecke-bauarbeiten.html",
+      "date": "Sat, 26 Sep 2026 12:04:21 +0200"
+    },
+    {
       "title": "Spree-Neiße: Mann stirbt bei Motorradunfall nahe Spremberg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-toedlicher-motorradunfall-spree-neisse.html",
-      "date": "Sat, 26 Sep 2026 07:49:18 +0200"
+      "date": "Sat, 26 Sep 2026 10:56:40 +0200"
     },
     {
       "title": "Freiwilliger Wehrdienst: Reservistin erzählt von Stolz und Angst",
@@ -148,9 +163,9 @@
       "date": "Fri, 25 Sep 2026 19:08:11 +0200"
     },
     {
-      "title": "Lausitz: Größte Windrad der Welt bekommt seine Flügel",
+      "title": "Lausitz: Größtes Windrad der Welt bekommt seine Flügel",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-schipkau-groesste-windrad-der-welt-fertigstellung.html",
-      "date": "Fri, 25 Sep 2026 18:41:33 +0200"
+      "date": "Fri, 25 Sep 2026 18:41:00 +0200"
     },
     {
       "title": "Regenbogenbank am CSD-Gedenkort im Tiergarten wieder beschädigt",
@@ -171,21 +186,6 @@
       "title": "Interview mit Empfänger eines Spenderorgans: \"Jeder kann Nein sagen\"",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/interview-organspende-transplantation-bundestag.html",
       "date": "Fri, 25 Sep 2026 13:50:38 +0200"
-    },
-    {
-      "title": "Polizei nimmt 28-Jährigen nach Einbrüchen bei Feuerwehren in Brandenburg fest",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/feuerwehr-brandenburg-einbruch-diebstahl-polizei-festnahme-berlin.html",
-      "date": "Fri, 25 Sep 2026 13:38:00 +0200"
-    },
-    {
-      "title": "\"Geisterhaus\" in Friedenau: Bezirk erstellt Gutachten auf eigene Faust",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/flora-friedenau-berlin-haus-verfall-bezirk-treuhaender.html",
-      "date": "Fri, 25 Sep 2026 12:50:27 +0200"
-    },
-    {
-      "title": "Angriffe auf Bauarbeiter: Berliner Polizei kontrolliert besetztes Haus",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-friedrichshain-polizei-einsatz-besetztes-haus-guertelstrasse.html",
-      "date": "Fri, 25 Sep 2026 12:36:26 +0200"
     }
   ]
 }
