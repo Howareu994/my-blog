@@ -1,6 +1,31 @@
 {
   "traffic": [
     {
+      "title": "Handball: Füchse verlieren Klub-WM-Krimi gegen Veszprem",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/handball-klub-wm-fuechse-berlin-verlieren-knapp-gegen-veszprem.html",
+      "date": "Sun, 27 Sep 2026 19:04:59 +0200"
+    },
+    {
+      "title": "Regionalliga: Babelsberg siegt in Luckenwalde, Hertha mit Remis",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/fussball-regionalliga-nordost-fsv-luckenwalde-sv-babelsberg-03-hertha-bsc-u23-fsv-zwickau-spielbericht.html",
+      "date": "Sun, 27 Sep 2026 18:38:45 +0200"
+    },
+    {
+      "title": "DFB-Pokal: Viktoria nach großem Kampf raus, Union souverän",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/berlin-fussbal-dfb-pokal-frauen-hertha-bsc-fc-koeln-turbine-potsdam-stuttgart.html",
+      "date": "Sun, 27 Sep 2026 17:14:38 +0200"
+    },
+    {
+      "title": "DEL: Eisbären siegen dank starker Einzelaktionen gegen Iserlohn",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/eishockey-del-eisbaeren-berlin-iserlohn-roosters-spielbericht.html",
+      "date": "Sun, 27 Sep 2026 16:45:02 +0200"
+    },
+    {
+      "title": "Klaistow: 942 Kilogramm schwerer Kürbis gewinnt Wiegemeisterschaft",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/schwerster-kuerbis-deutschlands-klaistow-brandenburg.html",
+      "date": "Sun, 27 Sep 2026 16:35:00 +0200"
+    },
+    {
       "title": "Prenzlau: Mann durch explodierten Böller schwer verletzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-prenzlau-feuerwehr-boeller-mann-schwerverletzt.html",
       "date": "Sun, 27 Sep 2026 15:32:21 +0200"
@@ -34,31 +59,6 @@
       "title": "Brandenburger Verkehrsminister gegen Änderung von Nachtflugverbot am BER",
       "link": "https://www.rbb24.de/politik/beitrag/2026/09/brandenbug-berlin-ber-flughafen-keine-aenderung-nachtflugverbot-crumbach.html",
       "date": "Sun, 27 Sep 2026 08:25:38 +0200"
-    },
-    {
-      "title": "Danger Dan über sein neues Album \"Keine Angst\" und Kunstfreiheit",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/09/interview-danger-dan-keine-angst-berlin-pongratz.html",
-      "date": "Sun, 27 Sep 2026 07:08:19 +0200"
-    },
-    {
-      "title": "Union Berlin siegt gegen Rijeka und verabschiedet Kreilach",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/fussball-test-union-berlin-abschiedsspiel-kreilach-rijeka-spielbericht.html",
-      "date": "Sat, 26 Sep 2026 22:22:25 +0200"
-    },
-    {
-      "title": "Berlin: SPD will mit Linken und Grünen sondieren",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/09/spd-linke-gruene-berlin-sondierung-regierung.html",
-      "date": "Sat, 26 Sep 2026 22:07:54 +0200"
-    },
-    {
-      "title": "Regionalliga: Preussen verspielen Führung, RSV zahlt Lehrgeld",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/fussball-regionalliga-nordost-bfc-preussen-halle-rsv-eintracht-chemnitzer-fc-spielbericht.html",
-      "date": "Sat, 26 Sep 2026 19:34:10 +0200"
-    },
-    {
-      "title": "DFB-Pokal der Frauen: Turbine vergibt 2:0-Führung, Hertha auch raus",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/berlin-fussbal-dfb-pokal-frauen-hertha-bsc-fc-koeln-turbine-potsdam-stuttgart.html",
-      "date": "Sat, 26 Sep 2026 18:20:00 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Klaistow: 942 Kilogramm schwerer Kürbis gewinnt Wiegemeisterschaft",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/schwerster-kuerbis-deutschlands-klaistow-brandenburg.html",
+      "date": "Sun, 27 Sep 2026 16:35:00 +0200"
+    },
+    {
       "title": "Prenzlau: Mann durch explodierten Böller schwer verletzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-prenzlau-feuerwehr-boeller-mann-schwerverletzt.html",
       "date": "Sun, 27 Sep 2026 15:32:21 +0200"
@@ -181,11 +186,6 @@
       "title": "Spree-Neiße: Mann stirbt bei Motorradunfall nahe Spremberg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-toedlicher-motorradunfall-spree-neisse.html",
       "date": "Sat, 26 Sep 2026 10:56:40 +0200"
-    },
-    {
-      "title": "Freiwilliger Wehrdienst: Reservistin erzählt von Stolz und Angst",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/interview-freiwilliger-wehrdienst-nuria-riedel-berlin-bundeswehr.html",
-      "date": "Sat, 26 Sep 2026 07:11:18 +0200"
     }
   ]
 }
