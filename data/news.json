@@ -1,6 +1,26 @@
 {
   "traffic": [
     {
+      "title": "Prenzlau: Mann durch explodierten Böller schwer verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-prenzlau-feuerwehr-boeller-mann-schwerverletzt.html",
+      "date": "Sun, 27 Sep 2026 15:32:21 +0200"
+    },
+    {
+      "title": "Wasserball: Spandauerinnen gewinnen Supercup gegen Bochum",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/wasserball-supercup-frauen-spandau-04-siegt-gegen-bochum.html",
+      "date": "Sun, 27 Sep 2026 15:30:21 +0200"
+    },
+    {
+      "title": "Oberhavel: Zwei Verletzte bei Unfall auf A10 - Auto gerät in Brand",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-oberhavel-oberkraemer-unfall-a10-auto-brand.html",
+      "date": "Sun, 27 Sep 2026 14:28:25 +0200"
+    },
+    {
+      "title": "Weltrekord: 200 Chöre singen 125 Stunden lang in Berlin-Wedding",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/weltrekord-200-choehre-singen-125-stunden-berlin-wedding.html",
+      "date": "Sun, 27 Sep 2026 11:26:00 +0200"
+    },
+    {
       "title": "Nachfahren von sorbisch/wendischen Auswanderern feiern Wendish Fest in Texas",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/09/brandenburg-lausitz-wendish-fest-serbien-texas-usa.html",
       "date": "Sun, 27 Sep 2026 10:02:31 +0200"
@@ -39,29 +59,34 @@
       "title": "DFB-Pokal der Frauen: Turbine vergibt 2:0-Führung, Hertha auch raus",
       "link": "https://www.rbb24.de/sport/beitrag/2026/09/berlin-fussbal-dfb-pokal-frauen-hertha-bsc-fc-koeln-turbine-potsdam-stuttgart.html",
       "date": "Sat, 26 Sep 2026 18:20:00 +0200"
-    },
-    {
-      "title": "Barnim: Hunderte bei Christopher Street Day in Bernau",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/hunderte-christopher-street-day-bernau.html",
-      "date": "Sat, 26 Sep 2026 17:59:20 +0200"
-    },
-    {
-      "title": "Tausende Teilnehmer bei Demo in Berlin gegen Kürzungen im Sozialbereich",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/tausende-teilnehmer-dgb-demo-berlin-kuerzungen-sozialbereich.html",
-      "date": "Sat, 26 Sep 2026 17:54:42 +0200"
-    },
-    {
-      "title": "Berlin-Marathon: Skater Bart Swings gewinnt zum zehnten Mal",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/inline-skating-skater-berlin-marathon-sieger-bart-swings-keily-delgado.html",
-      "date": "Sat, 26 Sep 2026 17:38:04 +0200"
-    },
-    {
-      "title": "Berliner Linke stimmt mehrheitlich für Sondierungen mit Grünen und SPD",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-linke-parteitag-entscheidung-sondierung-gruene-spd.html",
-      "date": "Sat, 26 Sep 2026 17:01:47 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Flucht vor Polizeikontrolle endete mit Verkehrsunfall",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1718579.php",
+      "date": "Sun, 27 Sep 2026 13:57:44 +0200"
+    },
+    {
+      "title": "Auto vollständig ausgebrannt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1718578.php",
+      "date": "Sun, 27 Sep 2026 13:43:46 +0200"
+    },
+    {
+      "title": "Große Gruppe greift Trio an",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1718572.php",
+      "date": "Sun, 27 Sep 2026 12:48:59 +0200"
+    },
+    {
+      "title": "Heranwachsender mit Messer verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1718571.php",
+      "date": "Sun, 27 Sep 2026 12:43:23 +0200"
+    },
+    {
+      "title": "Homophober Angriff",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1718567.php",
+      "date": "Sun, 27 Sep 2026 12:25:10 +0200"
+    },
     {
       "title": "Mann bei Raub mit Messer verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1718523.php",
@@ -96,31 +121,6 @@
       "title": "Jugendlicher mit Schussverletzungen im Krankenhaus",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718201.php",
       "date": "Fri, 25 Sep 2026 09:59:41 +0200"
-    },
-    {
-      "title": "Regenbogenbank im Großen Tiergarten erneut beschädigt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718187.php",
-      "date": "Fri, 25 Sep 2026 09:35:53 +0200"
-    },
-    {
-      "title": "Allgemeinverfügung zur Kampfmittelbeseitigung am 30. September 2026",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718070.php",
-      "date": "Thu, 24 Sep 2026 16:24:40 +0200"
-    },
-    {
-      "title": "Bauarbeiter bei Auseinandersetzungen verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718012.php",
-      "date": "Thu, 24 Sep 2026 14:49:28 +0200"
-    },
-    {
-      "title": "Berlin startet mit KI-gestütztem Videoschutz",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718008.php",
-      "date": "Thu, 24 Sep 2026 14:30:00 +0200"
-    },
-    {
-      "title": "Sachbeschädigung durch Feuer und Farbschmiererei",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717930.php",
-      "date": "Thu, 24 Sep 2026 13:29:41 +0200"
     }
   ],
   "free_events": [],
@@ -128,9 +128,24 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Warum viele Kleingärten ökologische Wüsten sind",
+      "title": "Prenzlau: Mann durch explodierten Böller schwer verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-prenzlau-feuerwehr-boeller-mann-schwerverletzt.html",
+      "date": "Sun, 27 Sep 2026 15:32:21 +0200"
+    },
+    {
+      "title": "Oberhavel: Zwei Verletzte bei Unfall auf A10 - Auto gerät in Brand",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-oberhavel-oberkraemer-unfall-a10-auto-brand.html",
+      "date": "Sun, 27 Sep 2026 14:28:25 +0200"
+    },
+    {
+      "title": "Warum viele Kleingärten ökologische Wüsten sind - und was sich ändern müsste",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/interview-jennifer-schulz-uni-potsdam-kleingaerten-klima-heute.html",
-      "date": "Sun, 27 Sep 2026 07:11:03 +0200"
+      "date": "Sun, 27 Sep 2026 13:17:01 +0200"
+    },
+    {
+      "title": "Weltrekord: 200 Chöre singen 125 Stunden lang in Berlin-Wedding",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/weltrekord-200-choehre-singen-125-stunden-berlin-wedding.html",
+      "date": "Sun, 27 Sep 2026 11:26:00 +0200"
     },
     {
       "title": "Barnim: Hunderte bei Christopher Street Day in Bernau",
@@ -171,21 +186,6 @@
       "title": "Freiwilliger Wehrdienst: Reservistin erzählt von Stolz und Angst",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/interview-freiwilliger-wehrdienst-nuria-riedel-berlin-bundeswehr.html",
       "date": "Sat, 26 Sep 2026 07:11:18 +0200"
-    },
-    {
-      "title": "Was die Schließung der Geburtsklinik Bernau für eine Schwangere bedeutet",
-      "link": "https://www.rbb24.de/panorama/thema/wiegehtesuns/schwangere-panketal-schliessungen-bernau-gebaerende-frauengesundheit.html",
-      "date": "Fri, 25 Sep 2026 19:55:35 +0200"
-    },
-    {
-      "title": "Radstreifen in der Kantstraße wird ab 7. Oktober umgebaut",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-umbau-radweg-kantstrasse-start-oktober-duh.html",
-      "date": "Fri, 25 Sep 2026 19:08:11 +0200"
-    },
-    {
-      "title": "Lausitz: Größtes Windrad der Welt bekommt seine Flügel",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-schipkau-groesste-windrad-der-welt-fertigstellung.html",
-      "date": "Fri, 25 Sep 2026 18:41:00 +0200"
     }
   ]
 }
