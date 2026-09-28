@@ -1,9 +1,14 @@
 {
   "traffic": [
     {
-      "title": "Berlin: Linksjugend nennt Polizei \"kriminellen Clan\" - Spranger fordert Entschuldigung",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/09/linksjugend-berlin-polizei-aeusserung-clan-kritik.html",
-      "date": "Sun, 27 Sep 2026 21:12:50 +0200"
+      "title": "Mann in Berlin-Moabit aus fahrendem Auto angeschossen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-moabit-schuesse-auto-mann-verletzt-polizei.html",
+      "date": "Mon, 28 Sep 2026 07:21:42 +0200"
+    },
+    {
+      "title": "Loblied auf den Marathon: Ein Hoch auf die Verrückten",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/marathon-berlin-warum-der-tag-der-stadt-so-gut-tut.html",
+      "date": "Sun, 27 Sep 2026 20:25:15 +0200"
     },
     {
       "title": "Handball: Füchse verlieren Klub-WM-Krimi gegen Veszprem",
@@ -46,19 +51,14 @@
       "date": "Sun, 27 Sep 2026 14:28:25 +0200"
     },
     {
+      "title": "Warum viele Kleingärten ökologische Wüsten sind - und was sich ändern müsste",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/interview-jennifer-schulz-uni-potsdam-kleingaerten-klima-heute.html",
+      "date": "Sun, 27 Sep 2026 13:17:01 +0200"
+    },
+    {
       "title": "Weltrekord: 200 Chöre singen 125 Stunden lang in Berlin-Wedding",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/weltrekord-200-choehre-singen-125-stunden-berlin-wedding.html",
       "date": "Sun, 27 Sep 2026 11:26:00 +0200"
-    },
-    {
-      "title": "Nachfahren von sorbisch/wendischen Auswanderern feiern Wendish Fest in Texas",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/09/brandenburg-lausitz-wendish-fest-serbien-texas-usa.html",
-      "date": "Sun, 27 Sep 2026 10:02:31 +0200"
-    },
-    {
-      "title": "\"Deutscher Herbst\" am Deutschen Theater: Dürftige Erkenntnisse im Innenohr",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/09/deutsches-theater-berlin-premiere-deutscher-herbst-kritik.html",
-      "date": "Sun, 27 Sep 2026 09:06:07 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Mann in Berlin-Moabit aus fahrendem Auto angeschossen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-moabit-schuesse-auto-mann-verletzt-polizei.html",
+      "date": "Mon, 28 Sep 2026 07:21:42 +0200"
+    },
+    {
       "title": "Klaistow: 942 Kilogramm schwerer Kürbis gewinnt Wiegemeisterschaft",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/schwerster-kuerbis-deutschlands-klaistow-brandenburg.html",
       "date": "Sun, 27 Sep 2026 16:35:00 +0200"
@@ -181,11 +186,6 @@
       "title": "Oderberg: Tonnenschweres Stahlskelett soll bis Mittwoch einschweben",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-oderberg-b158-bruecke-bauarbeiten.html",
       "date": "Sat, 26 Sep 2026 12:04:21 +0200"
-    },
-    {
-      "title": "Spree-Neiße: Mann stirbt bei Motorradunfall nahe Spremberg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-toedlicher-motorradunfall-spree-neisse.html",
-      "date": "Sat, 26 Sep 2026 10:56:40 +0200"
     }
   ]
 }
