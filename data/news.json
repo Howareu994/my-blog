@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Wer schießt auf Berlins Straßen?",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-polizei-schusswaffen-schiessen.html",
+      "date": "Tue, 29 Sep 2026 07:29:04 +0200"
+    },
+    {
+      "title": "Berliner Tiergarten: CSD-Regenbogenbank erneut beschädigt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-tiergarten-regenbogen-bank-vandalismus-csd-gedenken.html",
+      "date": "Tue, 29 Sep 2026 07:23:47 +0200"
+    },
+    {
+      "title": "Warum Frauen öfter an öffentlichen Toilette Schlange stehen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/potty-parity-oeffetliche-toiletten-frauen-maenner.html",
+      "date": "Tue, 29 Sep 2026 06:10:57 +0200"
+    },
+    {
       "title": "Schipkau: Höchstes Windrad der Welt mit 365 Metern fertig",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/09/hoechstes-windrad-der-welt.html",
       "date": "Mon, 28 Sep 2026 21:30:45 +0200"
@@ -14,11 +29,6 @@
       "title": "Brandenburger Innenminister will Zugang zu Informationen über Polizei einschränken",
       "link": "https://www.rbb24.de/politik/beitrag/2026/09/brandenburg-informationsfreiheit-ifg-recht-einschraenkung.html",
       "date": "Mon, 28 Sep 2026 19:41:07 +0200"
-    },
-    {
-      "title": "Wer schießt auf Berlins Straßen?",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-polizei-schusswaffen-schiessen.html",
-      "date": "Mon, 28 Sep 2026 18:45:30 +0200"
     },
     {
       "title": "Mann in Berlin-Moabit aus fahrendem Auto angeschossen",
@@ -49,16 +59,6 @@
       "title": "80-jähriger Tatverdächtiger im Fall von Tötungen in Ortrand aus Haft entlassen",
       "link": "https://www.rbb24.de/panorama/beitrag/2025/09/brandenburg-ortrand-tatverdaechtiger-haft-entlassen.html",
       "date": "Mon, 28 Sep 2026 16:06:38 +0200"
-    },
-    {
-      "title": "Brücke bei Oderberg: Tonnenschweres Stahlskelett wird eingehängt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-oderberg-b158-bruecke-bauarbeiten.html",
-      "date": "Mon, 28 Sep 2026 15:32:31 +0200"
-    },
-    {
-      "title": "Berlin: 16 Festnahmen bei Demo gegen Wehrpflicht",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/festnahmen-demo-gegen-wehrpflicht-berlin.html",
-      "date": "Mon, 28 Sep 2026 15:20:45 +0200"
     }
   ],
   "police": [
@@ -128,14 +128,24 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Wer schießt auf Berlins Straßen?",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-polizei-schusswaffen-schiessen.html",
+      "date": "Tue, 29 Sep 2026 07:29:04 +0200"
+    },
+    {
+      "title": "Berliner Tiergarten: CSD-Regenbogenbank erneut beschädigt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-tiergarten-regenbogen-bank-vandalismus-csd-gedenken.html",
+      "date": "Tue, 29 Sep 2026 07:23:47 +0200"
+    },
+    {
+      "title": "Warum Frauen öfter an öffentlichen Toilette Schlange stehen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/potty-parity-oeffetliche-toiletten-frauen-maenner.html",
+      "date": "Tue, 29 Sep 2026 06:10:57 +0200"
+    },
+    {
       "title": "Volksbad Berlin: Bilanz nach zwei Monaten Umsonst-Baden",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/volksbad-volksbuehne-berlin-bilanz-schwimmbad.html",
       "date": "Mon, 28 Sep 2026 20:05:15 +0200"
-    },
-    {
-      "title": "Wer schießt auf Berlins Straßen?",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-polizei-schusswaffen-schiessen.html",
-      "date": "Mon, 28 Sep 2026 18:45:30 +0200"
     },
     {
       "title": "Kunden werden nach Hackerangriff auf Lieferdienst Flink erpresst",
@@ -176,16 +186,6 @@
       "title": "Getöteter Polizist: Mutmaßliche Autoschieberbande des Tatverdächtigen gefasst",
       "link": "https://www.rbb24.de/panorama/beitrag/2025/09/brandenburg-autoschieber-polizist-lauchhammer.html",
       "date": "Mon, 28 Sep 2026 14:00:51 +0200"
-    },
-    {
-      "title": "Neue Gesetze und Regeln: Das ändert sich im Oktober",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-brandenburg-oktober-neue-gesetze-regeln.html",
-      "date": "Mon, 28 Sep 2026 13:58:50 +0200"
-    },
-    {
-      "title": "Weltkriegsmunition wird am Mittwoch in Groß Glienicke gesprengt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/wald-potsdam-sprengung-gross-glienicke-bomben-granaten-sperrkreis.html",
-      "date": "Mon, 28 Sep 2026 11:34:28 +0200"
     }
   ]
 }
