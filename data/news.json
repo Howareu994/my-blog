@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Handball-Klub-WM: Füchse patzen und spielen nur um Platz 5",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/handball-klub-wm-fuechse-berlin-al-ahli.html",
+      "date": "Tue, 29 Sep 2026 21:22:27 +0200"
+    },
+    {
+      "title": "17-Jähriger glänzt bei Herthas Testspielsieg gegen Zehlendorf",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/fussball-testspiel-hertha-zehlendorf-hertha-bsc.html",
+      "date": "Tue, 29 Sep 2026 21:10:06 +0200"
+    },
+    {
       "title": "Rohrbruch in Berlin-Spandau flutet Straßen - Haus wird evakuiert",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/wasser-rohrbruch-berlin-spandau-siemensstadt.html",
       "date": "Tue, 29 Sep 2026 20:44:19 +0200"
@@ -49,16 +59,6 @@
       "title": "Brandenburg: CDU-Fraktionschef fordert Ende in Pflegereform-Streit",
       "link": "https://www.rbb24.de/politik/beitrag/2026/09/brandenburg-pflegereform-streit-landtag-fraktionen-cdu-spd-bretz-scheetz.html",
       "date": "Tue, 29 Sep 2026 16:32:16 +0200"
-    },
-    {
-      "title": "Leiche im Tegeler See entdeckt - Berliner Polizei geht von Tötung aus",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-leiche-tegeler-see-toetungsdelikt-mordkommission.html",
-      "date": "Tue, 29 Sep 2026 15:26:09 +0200"
-    },
-    {
-      "title": "Philharmonie Berlin: Sanierung könnte 800 Millionen Euro kosten",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/09/sanierung-philharmonie-berlin-kosten-machbarkeitsstudie.html",
-      "date": "Tue, 29 Sep 2026 15:23:59 +0200"
     }
   ],
   "police": [
