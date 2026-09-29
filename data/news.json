@@ -1,67 +1,82 @@
 {
   "traffic": [
     {
+      "title": "Leiche im Tegeler See entdeckt - Berliner Polizei geht von Tötung aus",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-leiche-tegeler-see-toetungsdelikt-mordkommission.html",
+      "date": "Tue, 29 Sep 2026 15:26:09 +0200"
+    },
+    {
+      "title": "Philharmonie Berlin: Sanierung könnte 800 Millionen Euro kosten",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/09/sanierung-philharmonie-berlin-kosten-machbarkeitsstudie.html",
+      "date": "Tue, 29 Sep 2026 15:23:59 +0200"
+    },
+    {
+      "title": "Mieten landeseigener Wohnungen in Berlin werden angehoben",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/09/mieten-berlin-landeseigene-wohnungen-angehoben.html",
+      "date": "Tue, 29 Sep 2026 15:10:19 +0200"
+    },
+    {
+      "title": "Wird Berlin-Brandenburg die neue Hochburg im Fußball der Frauen?",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/berlin-brandenburg-fussball-frauen-union-hertha-viktoria-turbine-potsdam-zukunft.html",
+      "date": "Tue, 29 Sep 2026 15:08:54 +0200"
+    },
+    {
+      "title": "Güterwagen-Reparateur schließt Standort in Brandenburg an der Havel",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/09/brandenburg-havel-gueterwagen-instandhaltung-industrie-inveho.html",
+      "date": "Tue, 29 Sep 2026 14:50:39 +0200"
+    },
+    {
+      "title": "Festgenommenen geschlagen: Polizist zu Geldstrafe verurteilt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-polizist-geldstrafe-festgenommenen-geschlagen.html",
+      "date": "Tue, 29 Sep 2026 14:45:56 +0200"
+    },
+    {
+      "title": "Rohrbruch in Berlin-Spandau: Kein Strom, vollgelaufene Keller",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/wasser-rohrbruch-berlin-spandau-siemensstadt.html",
+      "date": "Tue, 29 Sep 2026 14:35:33 +0200"
+    },
+    {
+      "title": "Immer mehr Müll wird im Nauener Stadtwald illegal entsorgt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/havelland-nauen-wald-umwelt-verschmutzung-muell-suche.html",
+      "date": "Tue, 29 Sep 2026 14:33:53 +0200"
+    },
+    {
+      "title": "Volksbad Berlin: Bilanz nach zwei Monaten Umsonst-Baden",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/volksbad-volksbuehne-berlin-bilanz-schwimmbad.html",
+      "date": "Tue, 29 Sep 2026 14:31:40 +0200"
+    },
+    {
+      "title": "Studio Babelsberg baut Möglichkeiten für hybride Filmproduktion aus",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/09/film-studio-babelsberg-hybride-produktion-freiheit-echtzeit.html",
+      "date": "Tue, 29 Sep 2026 14:22:11 +0200"
+    },
+    {
       "title": "Wer schießt auf Berlins Straßen?",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-polizei-schusswaffen-schiessen.html",
-      "date": "Tue, 29 Sep 2026 07:29:04 +0200"
+      "date": "Tue, 29 Sep 2026 13:47:33 +0200"
     },
     {
-      "title": "Berliner Tiergarten: CSD-Regenbogenbank erneut beschädigt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-tiergarten-regenbogen-bank-vandalismus-csd-gedenken.html",
-      "date": "Tue, 29 Sep 2026 07:23:47 +0200"
-    },
-    {
-      "title": "Warum Frauen öfter an öffentlichen Toilette Schlange stehen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/potty-parity-oeffetliche-toiletten-frauen-maenner.html",
-      "date": "Tue, 29 Sep 2026 06:10:57 +0200"
-    },
-    {
-      "title": "Schipkau: Höchstes Windrad der Welt mit 365 Metern fertig",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/09/hoechstes-windrad-der-welt.html",
-      "date": "Mon, 28 Sep 2026 21:30:45 +0200"
-    },
-    {
-      "title": "Ex-Herthaner Demme und Leistner spielen für Sechstligisten",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/fussball-toni-leistner-diego-demme-hertha-bsc-viktoria-potsdam.html",
-      "date": "Mon, 28 Sep 2026 20:50:00 +0200"
-    },
-    {
-      "title": "Brandenburger Innenminister will Zugang zu Informationen über Polizei einschränken",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/09/brandenburg-informationsfreiheit-ifg-recht-einschraenkung.html",
-      "date": "Mon, 28 Sep 2026 19:41:07 +0200"
-    },
-    {
-      "title": "Mann in Berlin-Moabit aus fahrendem Auto angeschossen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-moabit-schuesse-auto-mann-verletzt-polizei.html",
-      "date": "Mon, 28 Sep 2026 17:58:59 +0200"
-    },
-    {
-      "title": "Mehr als 750 Menschen fürchten vom Hack der Senatsverwaltungen betroffen zu sein",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/09/berlin-cyberangriff-attacke-verwaltung-senat-beschwerden.html",
-      "date": "Mon, 28 Sep 2026 17:46:37 +0200"
-    },
-    {
-      "title": "Bahnstrecke Berlin-Stettin an deutsch-polnischer Grenze verzögert sich um ein weiteres Jahr",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/09/bahn-berlin-stettin-verzoegerung-deutsche-bahn-brandenburg.html",
-      "date": "Mon, 28 Sep 2026 17:23:12 +0200"
-    },
-    {
-      "title": "Maren Schiller nach drei Marathons in 19 Stunden: \"Bin sehr, sehr müde\"",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/berlin-marathon-lau-influencerin-maren-schiller-imke-salander.html",
-      "date": "Mon, 28 Sep 2026 16:44:29 +0200"
-    },
-    {
-      "title": "Protestbrief: Havelland wehrt sich gegen lange Sperrung der RE4-Strecke",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/09/re4-havlland-protest-deutsche-bahn-sanierung-sperrung.html",
-      "date": "Mon, 28 Sep 2026 16:08:57 +0200"
-    },
-    {
-      "title": "80-jähriger Tatverdächtiger im Fall von Tötungen in Ortrand aus Haft entlassen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2025/09/brandenburg-ortrand-tatverdaechtiger-haft-entlassen.html",
-      "date": "Mon, 28 Sep 2026 16:06:38 +0200"
+      "title": "So bereitet sich die BTU auf ihre ersten Medizinstudenten vor",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-medizin-studium-btu-cottbus-erster-jahrgang.html",
+      "date": "Tue, 29 Sep 2026 12:10:00 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Leichnam aus Tegeler See geborgen – Mordkommission und Staatsanwaltschaft ermitteln",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1719543.php",
+      "date": "Tue, 29 Sep 2026 14:25:58 +0200"
+    },
+    {
+      "title": "Festnahme nach Einbruch in Bäckerei",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1719443.php",
+      "date": "Tue, 29 Sep 2026 12:43:30 +0200"
+    },
+    {
+      "title": "Regenbogenbank erneut beschädigt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1719347.php",
+      "date": "Tue, 29 Sep 2026 10:44:13 +0200"
+    },
     {
       "title": "Messerangriff verletzte Polizisten und Schussabgabe",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1719167.php",
@@ -106,21 +121,6 @@
       "title": "Große Gruppe greift Trio an",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1718572.php",
       "date": "Sun, 27 Sep 2026 12:48:59 +0200"
-    },
-    {
-      "title": "Heranwachsender mit Messer verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1718571.php",
-      "date": "Sun, 27 Sep 2026 12:43:23 +0200"
-    },
-    {
-      "title": "Homophober Angriff",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1718567.php",
-      "date": "Sun, 27 Sep 2026 12:25:10 +0200"
-    },
-    {
-      "title": "Mann bei Raub mit Messer verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1718523.php",
-      "date": "Sat, 26 Sep 2026 14:03:22 +0200"
     }
   ],
   "free_events": [],
@@ -128,64 +128,64 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Wer schießt auf Berlins Straßen?",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-polizei-schusswaffen-schiessen.html",
-      "date": "Tue, 29 Sep 2026 07:29:04 +0200"
+      "title": "Leiche im Tegeler See entdeckt - Berliner Polizei geht von Tötung aus",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-leiche-tegeler-see-toetungsdelikt-mordkommission.html",
+      "date": "Tue, 29 Sep 2026 15:26:09 +0200"
     },
     {
-      "title": "Berliner Tiergarten: CSD-Regenbogenbank erneut beschädigt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-tiergarten-regenbogen-bank-vandalismus-csd-gedenken.html",
-      "date": "Tue, 29 Sep 2026 07:23:47 +0200"
+      "title": "Festgenommenen geschlagen: Polizist zu Geldstrafe verurteilt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-polizist-geldstrafe-festgenommenen-geschlagen.html",
+      "date": "Tue, 29 Sep 2026 14:45:56 +0200"
     },
     {
-      "title": "Warum Frauen öfter an öffentlichen Toilette Schlange stehen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/potty-parity-oeffetliche-toiletten-frauen-maenner.html",
-      "date": "Tue, 29 Sep 2026 06:10:57 +0200"
+      "title": "Rohrbruch in Berlin-Spandau: Kein Strom, vollgelaufene Keller",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/wasser-rohrbruch-berlin-spandau-siemensstadt.html",
+      "date": "Tue, 29 Sep 2026 14:35:33 +0200"
+    },
+    {
+      "title": "Barrierefreiheit: Eichwalde sucht Plastikbausteine für Rampen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/eichwalde-geschaefte-barriere-freiheit-rampen-lego-steine-kinder.html",
+      "date": "Tue, 29 Sep 2026 14:34:58 +0200"
+    },
+    {
+      "title": "Immer mehr Müll wird im Nauener Stadtwald illegal entsorgt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/havelland-nauen-wald-umwelt-verschmutzung-muell-suche.html",
+      "date": "Tue, 29 Sep 2026 14:33:53 +0200"
     },
     {
       "title": "Volksbad Berlin: Bilanz nach zwei Monaten Umsonst-Baden",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/volksbad-volksbuehne-berlin-bilanz-schwimmbad.html",
-      "date": "Mon, 28 Sep 2026 20:05:15 +0200"
+      "date": "Tue, 29 Sep 2026 14:31:40 +0200"
     },
     {
-      "title": "Kunden werden nach Hackerangriff auf Lieferdienst Flink erpresst",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/lieferdienst-flink-hackerangriff.html",
-      "date": "Mon, 28 Sep 2026 18:09:47 +0200"
+      "title": "Millionen-Förderung: Seestrand in Senftenberg wird ausgebaut",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-lausitz-seenland-senftenberg-strand-erweiterung.html",
+      "date": "Tue, 29 Sep 2026 14:15:29 +0200"
     },
     {
-      "title": "Mann in Berlin-Moabit aus fahrendem Auto angeschossen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-moabit-schuesse-auto-mann-verletzt-polizei.html",
-      "date": "Mon, 28 Sep 2026 17:58:59 +0200"
-    },
-    {
-      "title": "80-jähriger Tatverdächtiger im Fall von Tötungen in Ortrand aus Haft entlassen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2025/09/brandenburg-ortrand-tatverdaechtiger-haft-entlassen.html",
-      "date": "Mon, 28 Sep 2026 16:06:38 +0200"
-    },
-    {
-      "title": "Brücke bei Oderberg: Tonnenschweres Stahlskelett wird eingehängt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-oderberg-b158-bruecke-bauarbeiten.html",
-      "date": "Mon, 28 Sep 2026 15:32:31 +0200"
-    },
-    {
-      "title": "Berlin: 16 Festnahmen bei Demo gegen Wehrpflicht",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/festnahmen-demo-gegen-wehrpflicht-berlin.html",
-      "date": "Mon, 28 Sep 2026 15:20:45 +0200"
-    },
-    {
-      "title": "IT-Probleme behoben: Online-Dienste der Stadt Potsdam wieder am Netz",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/potsdam-it-sicherheit-online-dienstleistungen-offline-vorsorge.html",
-      "date": "Mon, 28 Sep 2026 14:58:20 +0200"
+      "title": "Wer schießt auf Berlins Straßen?",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-polizei-schusswaffen-schiessen.html",
+      "date": "Tue, 29 Sep 2026 13:47:33 +0200"
     },
     {
       "title": "Drogenlabor in Nauen: Angeklagte schweigen zum Prozessauftakt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-nauen-drogenlabor-prozess-beginn.html",
-      "date": "Mon, 28 Sep 2026 14:29:49 +0200"
+      "date": "Tue, 29 Sep 2026 12:38:30 +0200"
     },
     {
-      "title": "Getöteter Polizist: Mutmaßliche Autoschieberbande des Tatverdächtigen gefasst",
-      "link": "https://www.rbb24.de/panorama/beitrag/2025/09/brandenburg-autoschieber-polizist-lauchhammer.html",
-      "date": "Mon, 28 Sep 2026 14:00:51 +0200"
+      "title": "So bereitet sich die BTU auf ihre ersten Medizinstudenten vor",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-medizin-studium-btu-cottbus-erster-jahrgang.html",
+      "date": "Tue, 29 Sep 2026 12:10:00 +0200"
+    },
+    {
+      "title": "Anklage gegen Ex-rbb-Intendantin Schlesinger zugelassen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-strafprozess-rbb-patricia-schlesinger-gericht.html",
+      "date": "Tue, 29 Sep 2026 12:01:00 +0200"
+    },
+    {
+      "title": "Bauarbeiten: Neue Verkehrsführung am Dreieck Funkturm ab 5. Oktober",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-neubau-ringbahnbruecke-autobahndreieck-funkturm-verkehrsfuehrung.html",
+      "date": "Tue, 29 Sep 2026 11:45:26 +0200"
     }
   ]
 }
