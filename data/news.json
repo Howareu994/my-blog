@@ -1,24 +1,54 @@
 {
   "traffic": [
     {
-      "title": "46-Jähriger tötet Freundin in Berliner Park und muss knapp sieben in Haft",
+      "title": "Linke-Politiker Ferat Kocak gibt Sitz im Bundestags-Innenausschuss auf",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/09/berlin-linke-ferhat-kocak-neukoelln-aufgabe-sitz-innenausschuss-bundestag.html",
+      "date": "Wed, 30 Sep 2026 20:59:10 +0200"
+    },
+    {
+      "title": "66,80 Euro: Deutschlandticket kostet ab Januar 3,80 Euro mehr",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/deutschlandticket-teurer-ab-januar.html",
+      "date": "Wed, 30 Sep 2026 20:51:26 +0200"
+    },
+    {
+      "title": "Ringbahn ab Mittwochabend zwischen Beusselstraße und Halensee gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-sbahn-sperrung-beusselstrasse-halensee-bauarbeiten-westendbruecke.html",
+      "date": "Wed, 30 Sep 2026 20:01:53 +0200"
+    },
+    {
+      "title": "Berliner Linke fordert Unterlassung von Brandenburgs Innenminister",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/09/berlin-linke-unterlassung-brandenburg-innenminister-jan-redmann-cdu.html",
+      "date": "Wed, 30 Sep 2026 18:12:40 +0200"
+    },
+    {
+      "title": "Krach und Caglar neue Vorsitzende der Berliner SPD-Fraktion",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-spd-fraktion-krach-und-caglar-neue-vorsitzende.html",
+      "date": "Wed, 30 Sep 2026 17:51:05 +0200"
+    },
+    {
+      "title": "Razzia gegen Geldwäsche-Netzwerk auch in Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/razzia-hells-angels-geldwaesche-bundesweite-ermittlungen.html",
+      "date": "Wed, 30 Sep 2026 17:36:01 +0200"
+    },
+    {
+      "title": "Gericht verbietet Schweinehaltung im vierten Stock",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-gericht-verbietet-schwein-haltung-wohnung-4-stock.html",
+      "date": "Wed, 30 Sep 2026 17:28:56 +0200"
+    },
+    {
+      "title": "Gutachten: Todesfall am Bergmann-Klinikum nicht wegen Stationsschließung",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-potsdam-klinikum-ernst-von-bergmann-gutachten-todesfall-gefaesschirurgie.html",
+      "date": "Wed, 30 Sep 2026 17:04:50 +0200"
+    },
+    {
+      "title": "Freundin in Berliner Park getötet: 46-Jähriger muss knapp sieben Jahre in Haft",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-lichtenberg-frau-getoetet-urteil-sieben-jahre-haft.html",
-      "date": "Wed, 30 Sep 2026 16:10:14 +0200"
+      "date": "Wed, 30 Sep 2026 16:51:19 +0200"
     },
     {
       "title": "Schüsse in Treptow-Köpenick: Zwei Männer schwer verletzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-treptow-koepenick-baumschulenweg-schuesse-verletzte-polizei.html",
       "date": "Wed, 30 Sep 2026 16:08:20 +0200"
-    },
-    {
-      "title": "Gericht verbietet Schweinehaltung im vierten Stock",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-gericht-verbietet-schwein-haltung-wohnung-4-stock.html",
-      "date": "Wed, 30 Sep 2026 16:00:00 +0200"
-    },
-    {
-      "title": "66,80 Euro: Deutschlandticket kostet ab Januar 3,80 Euro mehr",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/deutschlandticket-teurer-ab-januar.html",
-      "date": "Wed, 30 Sep 2026 15:59:15 +0200"
     },
     {
       "title": "Uckermark: Deutschlands erste \"Universal-Moorraupe\" soll nachhaltige Bodenpflege ermöglichen",
@@ -29,36 +59,6 @@
       "title": "Verbraucherpreise in Berlin und Brandenburg deutlich gestiegen",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/09/berlin-brandenburg-inflation-september-ueber-3-prozent-spritpreise.html",
       "date": "Wed, 30 Sep 2026 14:38:27 +0200"
-    },
-    {
-      "title": "U1 und U2 sollen nach Brand ab Montag wieder regulär fahren",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-bvg-u1-u2-nach-brand-wittenbergplatz-fahrplanmaessig.html",
-      "date": "Wed, 30 Sep 2026 14:26:49 +0200"
-    },
-    {
-      "title": "Potsdamer Para-Schwimmerin: Verena Schotts starkes Comeback",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/em-para-schwimmen-verena-schott-spitzensportlerin-studentin-mutter.html",
-      "date": "Wed, 30 Sep 2026 14:15:38 +0200"
-    },
-    {
-      "title": "Jugendamtsarbeit in Teltow-Fläming soll extern überprüft werden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/jugendamtsarbeit-teltow-flaeming-externe-ueberpruefung.html",
-      "date": "Wed, 30 Sep 2026 14:03:54 +0200"
-    },
-    {
-      "title": "Brandenburg: Energieerzeuger warnen vor EEG-Erneuerung",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/09/brandenburg-energieerzeuger-warnung-eeg-erneuerung.html",
-      "date": "Wed, 30 Sep 2026 14:01:23 +0200"
-    },
-    {
-      "title": "Oldtimer-U-Bahn am Tag der Deutschen Einheit in Berlin unterwegs",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin--oldtimer-ubahn-sonderfahrt-tag-der-einheit.html",
-      "date": "Wed, 30 Sep 2026 13:43:13 +0200"
-    },
-    {
-      "title": "Sperrkreis aufgehoben: Vier Tonnen Weltkriegsmunition in Groß Glienicke gesprengt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/wald-potsdam-sprengung-gross-glienicke-bomben-granaten-sperrkreis.html",
-      "date": "Wed, 30 Sep 2026 13:37:54 +0200"
     }
   ],
   "police": [
@@ -128,24 +128,44 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "46-Jähriger tötet Freundin in Berliner Park und muss knapp sieben in Haft",
+      "title": "66,80 Euro: Deutschlandticket kostet ab Januar 3,80 Euro mehr",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/deutschlandticket-teurer-ab-januar.html",
+      "date": "Wed, 30 Sep 2026 20:51:26 +0200"
+    },
+    {
+      "title": "Ringbahn ab Mittwochabend zwischen Beusselstraße und Halensee gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-sbahn-sperrung-beusselstrasse-halensee-bauarbeiten-westendbruecke.html",
+      "date": "Wed, 30 Sep 2026 20:01:53 +0200"
+    },
+    {
+      "title": "Razzia gegen Geldwäsche-Netzwerk auch in Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/razzia-hells-angels-geldwaesche-bundesweite-ermittlungen.html",
+      "date": "Wed, 30 Sep 2026 17:36:01 +0200"
+    },
+    {
+      "title": "Gericht verbietet Schweinehaltung im vierten Stock",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-gericht-verbietet-schwein-haltung-wohnung-4-stock.html",
+      "date": "Wed, 30 Sep 2026 17:28:56 +0200"
+    },
+    {
+      "title": "Gutachten: Todesfall am Bergmann-Klinikum nicht wegen Stationsschließung",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-potsdam-klinikum-ernst-von-bergmann-gutachten-todesfall-gefaesschirurgie.html",
+      "date": "Wed, 30 Sep 2026 17:04:50 +0200"
+    },
+    {
+      "title": "Freundin in Berliner Park getötet: 46-Jähriger muss knapp sieben Jahre in Haft",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-lichtenberg-frau-getoetet-urteil-sieben-jahre-haft.html",
-      "date": "Wed, 30 Sep 2026 16:10:14 +0200"
+      "date": "Wed, 30 Sep 2026 16:51:19 +0200"
+    },
+    {
+      "title": "Cottbuser Jugendsportvereine platzen aus allen Nähten",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-cottbus-jugendsport-am-limit.html",
+      "date": "Wed, 30 Sep 2026 16:32:40 +0200"
     },
     {
       "title": "Schüsse in Treptow-Köpenick: Zwei Männer schwer verletzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-treptow-koepenick-baumschulenweg-schuesse-verletzte-polizei.html",
       "date": "Wed, 30 Sep 2026 16:08:20 +0200"
-    },
-    {
-      "title": "Gericht verbietet Schweinehaltung im vierten Stock",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-gericht-verbietet-schwein-haltung-wohnung-4-stock.html",
-      "date": "Wed, 30 Sep 2026 16:00:00 +0200"
-    },
-    {
-      "title": "66,80 Euro: Deutschlandticket kostet ab Januar 3,80 Euro mehr",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/deutschlandticket-teurer-ab-januar.html",
-      "date": "Wed, 30 Sep 2026 15:59:15 +0200"
     },
     {
       "title": "Uckermark: Deutschlands erste \"Universal-Moorraupe\" soll nachhaltige Bodenpflege ermöglichen",
@@ -166,26 +186,6 @@
       "title": "Oldtimer-U-Bahn am Tag der Deutschen Einheit in Berlin unterwegs",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin--oldtimer-ubahn-sonderfahrt-tag-der-einheit.html",
       "date": "Wed, 30 Sep 2026 13:43:13 +0200"
-    },
-    {
-      "title": "Sperrkreis aufgehoben: Vier Tonnen Weltkriegsmunition in Groß Glienicke gesprengt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/wald-potsdam-sprengung-gross-glienicke-bomben-granaten-sperrkreis.html",
-      "date": "Wed, 30 Sep 2026 13:37:54 +0200"
-    },
-    {
-      "title": "Brücke bei Oderberg: Tonnenschweres Stahlskelett erfolgreich eingeschoben",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-oderberg-b158-bruecke-bauarbeiten.html",
-      "date": "Wed, 30 Sep 2026 12:25:31 +0200"
-    },
-    {
-      "title": "Sicherheit im Flugverkehr: Flughafen BER bekommt Drohnen-Detektor",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/flughafen-ber-drohnen-detektor-flugsicherheit.html",
-      "date": "Wed, 30 Sep 2026 11:47:00 +0200"
-    },
-    {
-      "title": "Sanierung der Strecke Berlin-Hannover ab Freitag",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/deutsche-bahn-zug-verkehr-bauarbeiten-db-hannover-berlin-grundsanierung.html",
-      "date": "Wed, 30 Sep 2026 10:48:38 +0200"
     }
   ]
 }
