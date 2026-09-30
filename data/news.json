@@ -1,6 +1,31 @@
 {
   "traffic": [
     {
+      "title": "Letzter Badetag im \"Volksbad\" vor der Berliner Volksbühne",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/09/letzter-tag-volksbad-volksbuehne-berlin-theater.html",
+      "date": "Wed, 30 Sep 2026 08:58:18 +0200"
+    },
+    {
+      "title": "Ehrenamt Telefonseelsorge: \"Ein großes Thema ist die Selbstfürsorge\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/telefonseelsorge-berlin-ehrenamt-krisensituation-interview.html",
+      "date": "Wed, 30 Sep 2026 08:15:56 +0200"
+    },
+    {
+      "title": "Groß Glienicke: Weltkriegsbombe wird gesprengt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/wald-potsdam-sprengung-gross-glienicke-bomben-granaten-sperrkreis.html",
+      "date": "Wed, 30 Sep 2026 07:50:14 +0200"
+    },
+    {
+      "title": "Schüsse in Treptow-Köpenick: Zwei Männer schwer verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-treptow-koepenick-baumschulenweg-schuesse-verletzte-polizei.html",
+      "date": "Wed, 30 Sep 2026 07:46:59 +0200"
+    },
+    {
+      "title": "Landespokal: Delay-Frühaufsteher und Leistner im Luftschiffhafen",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/09/fussball-landespokal-berlin-brandenburg-groundhopping-tipps.html",
+      "date": "Wed, 30 Sep 2026 06:10:06 +0200"
+    },
+    {
       "title": "Handball-Klub-WM: Füchse patzen und spielen nur um Platz 5",
       "link": "https://www.rbb24.de/sport/beitrag/2026/09/handball-klub-wm-fuechse-berlin-al-ahli.html",
       "date": "Tue, 29 Sep 2026 21:22:27 +0200"
@@ -34,47 +59,98 @@
       "title": "DDR-Aufarbeitung in Brandenburg: Teuteberg will neue Formate",
       "link": "https://www.rbb24.de/politik/beitrag/2026/09/brandenburg-landtag-ddr-aufarbeitung-beauftragte-linda-teuteberg-konzept.html",
       "date": "Tue, 29 Sep 2026 18:29:48 +0200"
-    },
-    {
-      "title": "Berliner Linke-Politikerin Eralp war Mitglied der \"Roten Hilfe\"",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/09/berlin-linke-elif-eralp-zeitweise-mitglied-rote-hilfe.html",
-      "date": "Tue, 29 Sep 2026 17:42:00 +0200"
-    },
-    {
-      "title": "Weltkriegsmunition wird am Mittwoch in Groß Glienicke gesprengt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/wald-potsdam-sprengung-gross-glienicke-bomben-granaten-sperrkreis.html",
-      "date": "Tue, 29 Sep 2026 17:38:40 +0200"
-    },
-    {
-      "title": "Langerwisch nach Marathon-Sensation: \"Brauche Zeit, um das zu realisieren\"",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/09/marathon-berlin-anna-langerwisch-beste-deutsche-erfolg-polizei-interview.html",
-      "date": "Tue, 29 Sep 2026 16:48:00 +0200"
-    },
-    {
-      "title": "Sanierung der Strecke Berlin-Hannover ab Freitag",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/deutsche-bahn-zug-verkehr-bauarbeiten-db-hannover-berlin-grundsanierung.html",
-      "date": "Tue, 29 Sep 2026 16:45:07 +0200"
-    },
-    {
-      "title": "Brandenburg: CDU-Fraktionschef fordert Ende in Pflegereform-Streit",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/09/brandenburg-pflegereform-streit-landtag-fraktionen-cdu-spd-bretz-scheetz.html",
-      "date": "Tue, 29 Sep 2026 16:32:16 +0200"
     }
   ],
-  "police": [],
+  "police": [
+    {
+      "title": "Leichnam aus Tegeler See geborgen – Mordkommission und Staatsanwaltschaft ermitteln",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1719543.php",
+      "date": "Tue, 29 Sep 2026 14:25:58 +0200"
+    },
+    {
+      "title": "Festnahme nach Einbruch in Bäckerei",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1719443.php",
+      "date": "Tue, 29 Sep 2026 12:43:30 +0200"
+    },
+    {
+      "title": "Regenbogenbank erneut beschädigt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1719347.php",
+      "date": "Tue, 29 Sep 2026 10:44:13 +0200"
+    },
+    {
+      "title": "Messerangriff verletzte Polizisten und Schussabgabe",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1719167.php",
+      "date": "Mon, 28 Sep 2026 16:35:38 +0200"
+    },
+    {
+      "title": "13-Jährige vermisst – Polizei bittet um Mithilfe",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1719143.php",
+      "date": "Mon, 28 Sep 2026 16:05:05 +0200"
+    },
+    {
+      "title": "64-Jähriger wieder da",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716014.php",
+      "date": "Mon, 28 Sep 2026 15:56:00 +0200"
+    },
+    {
+      "title": "Live-Einbruchversuch und Experten-Tipps: Polizei Berlin zeigt wirksame Sicherungstechnik am Tag des Einbruchschutzes am 25. Oktober 2026",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718998.php",
+      "date": "Mon, 28 Sep 2026 13:52:24 +0200"
+    },
+    {
+      "title": "Mann mutmaßlich durch Messerstich verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718916.php",
+      "date": "Mon, 28 Sep 2026 12:38:37 +0200"
+    },
+    {
+      "title": "Mann bei Auseinandersetzung verletzt - Zeugenaufruf",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718894.php",
+      "date": "Mon, 28 Sep 2026 12:22:39 +0200"
+    },
+    {
+      "title": "Flucht vor Polizeikontrolle endete mit Verkehrsunfall",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1718579.php",
+      "date": "Sun, 27 Sep 2026 13:57:44 +0200"
+    },
+    {
+      "title": "Auto vollständig ausgebrannt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1718578.php",
+      "date": "Sun, 27 Sep 2026 13:43:46 +0200"
+    },
+    {
+      "title": "Große Gruppe greift Trio an",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1718572.php",
+      "date": "Sun, 27 Sep 2026 12:48:59 +0200"
+    }
+  ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Ehrenamt Telefonseelsorge: \"Ein großes Thema ist die Selbstfürsorge\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/telefonseelsorge-berlin-ehrenamt-krisensituation-interview.html",
+      "date": "Wed, 30 Sep 2026 08:15:56 +0200"
+    },
+    {
+      "title": "Ringbahn ab Mittwochabend zwischen Beusselstraße und Halensee gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-sbahn-sperrung-beusselstrasse-halensee-bauarbeiten-westendbruecke.html",
+      "date": "Wed, 30 Sep 2026 07:59:43 +0200"
+    },
+    {
+      "title": "Groß Glienicke: Weltkriegsbombe wird gesprengt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/wald-potsdam-sprengung-gross-glienicke-bomben-granaten-sperrkreis.html",
+      "date": "Wed, 30 Sep 2026 07:50:14 +0200"
+    },
+    {
+      "title": "Schüsse in Treptow-Köpenick: Zwei Männer schwer verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-treptow-koepenick-baumschulenweg-schuesse-verletzte-polizei.html",
+      "date": "Wed, 30 Sep 2026 07:46:59 +0200"
+    },
+    {
       "title": "Rohrbruch in Berlin-Spandau flutet Straßen - Haus wird evakuiert",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/wasser-rohrbruch-berlin-spandau-siemensstadt.html",
       "date": "Tue, 29 Sep 2026 20:44:19 +0200"
-    },
-    {
-      "title": "Weltkriegsmunition wird am Mittwoch in Groß Glienicke gesprengt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/wald-potsdam-sprengung-gross-glienicke-bomben-granaten-sperrkreis.html",
-      "date": "Tue, 29 Sep 2026 17:38:40 +0200"
     },
     {
       "title": "Sanierung der Strecke Berlin-Hannover ab Freitag",
@@ -110,21 +186,6 @@
       "title": "Volksbad Berlin: Bilanz nach zwei Monaten Umsonst-Baden",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/volksbad-volksbuehne-berlin-bilanz-schwimmbad.html",
       "date": "Tue, 29 Sep 2026 14:31:40 +0200"
-    },
-    {
-      "title": "Millionen-Förderung: Seestrand in Senftenberg wird ausgebaut",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-lausitz-seenland-senftenberg-strand-erweiterung.html",
-      "date": "Tue, 29 Sep 2026 14:15:29 +0200"
-    },
-    {
-      "title": "Wer schießt auf Berlins Straßen?",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/berlin-polizei-schusswaffen-schiessen.html",
-      "date": "Tue, 29 Sep 2026 13:47:33 +0200"
-    },
-    {
-      "title": "Drogenlabor in Nauen: Angeklagte schweigen zum Prozessauftakt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-nauen-drogenlabor-prozess-beginn.html",
-      "date": "Tue, 29 Sep 2026 12:38:30 +0200"
     }
   ]
 }
