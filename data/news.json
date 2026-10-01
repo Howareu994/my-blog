@@ -1,9 +1,24 @@
 {
   "traffic": [
     {
+      "title": "Nations League: Klopp feiert ersten Sieg mit DFB-Team",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-laenderspiel-nations-league-deutschland-serbien-ergebnis-spielbericht.html",
+      "date": "Thu, 01 Oct 2026 22:56:54 +0200"
+    },
+    {
+      "title": "Berliner Linke fordert Unterlassung von Brandenburgs Innenminister",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/09/berlin-linke-unterlassung-brandenburg-innenminister-jan-redmann-cdu.html",
+      "date": "Thu, 01 Oct 2026 22:35:32 +0200"
+    },
+    {
+      "title": "So entsteht das neue Programm von Eiskunstlaufpaar Hocke/Kunkel",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/10/eiskunstlauf-paar-annika-hocke-robert-kunkel-choreographie-entstehung-stuetzpunkt-berlin.html",
+      "date": "Thu, 01 Oct 2026 21:09:55 +0200"
+    },
+    {
       "title": "Senat setzt neue Mehrweggeschirrvorgaben für Veranstaltungen in Kraft",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/10/mehrweg-veranstaltungen-senat-ausfuehrungsvorschrift-abfallgeset.html",
-      "date": "Thu, 01 Oct 2026 18:54:16 +0200"
+      "date": "Thu, 01 Oct 2026 19:42:30 +0200"
     },
     {
       "title": "Gericht: Görlitzer Park bleibt nachts weiter geöffnet",
@@ -44,21 +59,6 @@
       "title": "Bundeswehr-Standort Holzdorf jetzt neues Zentrum für Hubschraubergeschwader",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-holzdorf-hubschrauber-geschwader.html",
       "date": "Thu, 01 Oct 2026 14:58:57 +0200"
-    },
-    {
-      "title": "Brücke in Wust über Bahngleise wird für Autoverkehr freigegeben",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-havel-wust-potsdam-b1-re1-bruecke-posse-freigabe.html",
-      "date": "Thu, 01 Oct 2026 14:42:14 +0200"
-    },
-    {
-      "title": "Angst-Studie: Darum sorgen sich Berliner und Brandenburger",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/studie-aengste-deutschland-berlin-brandenburg-lebenshaltungskosten.html",
-      "date": "Thu, 01 Oct 2026 14:25:39 +0200"
-    },
-    {
-      "title": "Berlin ist das zweitjüngste Bundesland Deutschlands",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-junges-bundesland-brandenburg-alt-durchschnittsalter-amt-fuer-statistik.html",
-      "date": "Thu, 01 Oct 2026 14:16:00 +0200"
     }
   ],
   "police": [
