@@ -1,14 +1,39 @@
 {
   "traffic": [
     {
+      "title": "BSW will Flächen für Windkraftanlagen in Brandenburg stärker begrenzen",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/10/bsw-windkraft-gesetz.html",
+      "date": "Fri, 02 Oct 2026 09:42:28 +0200"
+    },
+    {
+      "title": "Brandenburgs Innenminister Redmann ordnet Dauerbeflaggung an",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/10/innenministerium-potsdam-redmann-flagge.html",
+      "date": "Fri, 02 Oct 2026 09:23:44 +0200"
+    },
+    {
+      "title": "Bahnfahrt Berlin-Hannover dauert 80 Minuten länger",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/bahn-berlin-hannover-80-minuten-mehr-fahrzeit.html",
+      "date": "Fri, 02 Oct 2026 08:43:39 +0200"
+    },
+    {
+      "title": "Nach Abgeordnetenhauswahl: Berliner Linke, Grüne und SPD beenden erstes Treffen ohne Ergebnisse",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahl-vorgespraeche-regierungsbildung-linke-gruene-spd.html",
+      "date": "Fri, 02 Oct 2026 08:24:26 +0200"
+    },
+    {
+      "title": "Straßenkinder in Berlin: Wohn- und Betreuungshaus \"Butze\" öffnet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/strassenkinder-haus-butze-berlin-lichtenberg-obdachlose-minderjaehrige.html",
+      "date": "Fri, 02 Oct 2026 08:06:00 +0200"
+    },
+    {
+      "title": "U2 in Berlin fährt wieder komplette Strecke - früher als geplant",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/u2-unterbrechung-beendet-brand-wittenbergplatz-berlin.html",
+      "date": "Fri, 02 Oct 2026 07:51:57 +0200"
+    },
+    {
       "title": "Nations League: Klopp feiert ersten Sieg mit DFB-Team",
       "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-laenderspiel-nations-league-deutschland-serbien-ergebnis-spielbericht.html",
       "date": "Thu, 01 Oct 2026 22:56:54 +0200"
-    },
-    {
-      "title": "Berliner Linke fordert Unterlassung von Brandenburgs Innenminister",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/09/berlin-linke-unterlassung-brandenburg-innenminister-jan-redmann-cdu.html",
-      "date": "Thu, 01 Oct 2026 22:35:32 +0200"
     },
     {
       "title": "So entsteht das neue Programm von Eiskunstlaufpaar Hocke/Kunkel",
@@ -34,31 +59,6 @@
       "title": "Füchse Berlin beenden Klub-WM auf enttäuschendem fünften Platz",
       "link": "https://www.rbb24.de/sport/beitrag/2026/10/handball-klub-wm-fuechse-berlin-pinheiros-spiel-platz-5-ergebnis-spielbericht.html",
       "date": "Thu, 01 Oct 2026 17:41:24 +0200"
-    },
-    {
-      "title": "Nach Abgeordnetenhauswahl: Berliner Linke, Grüne und SPD beenden erstes Treffen ohne Ergebnisse",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahl-vorgespraeche-regierungsbildung-linke-gruene-spd.html",
-      "date": "Thu, 01 Oct 2026 17:25:40 +0200"
-    },
-    {
-      "title": "Bremsen rechtsextreme Vorfälle den Lausitzer Strukturwandel aus?",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-cottbus-strukturwandel-rechtsextremismus.html",
-      "date": "Thu, 01 Oct 2026 17:05:55 +0200"
-    },
-    {
-      "title": "Trotz Minus': Wieso die Alba-Frauen auf die Karte Europa setzen",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/berlin-basketball-alba-frauen-saisonstart.html",
-      "date": "Thu, 01 Oct 2026 15:55:04 +0200"
-    },
-    {
-      "title": "Naturschutzprojekt bringt natürlichen Charakter der Havel zurück",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/renaturierung-natur-naturschutz-flusslandschaft-untere-havel-projekt.html",
-      "date": "Thu, 01 Oct 2026 15:46:44 +0200"
-    },
-    {
-      "title": "Bundeswehr-Standort Holzdorf jetzt neues Zentrum für Hubschraubergeschwader",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/brandenburg-holzdorf-hubschrauber-geschwader.html",
-      "date": "Thu, 01 Oct 2026 14:58:57 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,21 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Bahnfahrt Berlin-Hannover dauert 80 Minuten länger",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/bahn-berlin-hannover-80-minuten-mehr-fahrzeit.html",
+      "date": "Fri, 02 Oct 2026 08:43:39 +0200"
+    },
+    {
+      "title": "Straßenkinder in Berlin: Wohn- und Betreuungshaus \"Butze\" öffnet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/strassenkinder-haus-butze-berlin-lichtenberg-obdachlose-minderjaehrige.html",
+      "date": "Fri, 02 Oct 2026 08:06:00 +0200"
+    },
+    {
+      "title": "U2 in Berlin fährt wieder komplette Strecke - früher als geplant",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/u2-unterbrechung-beendet-brand-wittenbergplatz-berlin.html",
+      "date": "Fri, 02 Oct 2026 07:51:57 +0200"
+    },
+    {
       "title": "Gericht: Görlitzer Park bleibt nachts weiter geöffnet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-oberverwaltungsgericht-beschluss-goerlitzer-park-nachts-weiter-offen.html",
       "date": "Thu, 01 Oct 2026 18:40:36 +0200"
@@ -171,21 +186,6 @@
       "title": "Berlin ist das zweitjüngste Bundesland Deutschlands",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-junges-bundesland-brandenburg-alt-durchschnittsalter-amt-fuer-statistik.html",
       "date": "Thu, 01 Oct 2026 14:16:00 +0200"
-    },
-    {
-      "title": "Wittenberge: Wenn Lord Voldemort die Haltestellen ansagt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/wittenberge-bus-ansage-prignitz-lord-voldemort-haltstellen-udo-schenk.html",
-      "date": "Thu, 01 Oct 2026 14:13:00 +0200"
-    },
-    {
-      "title": "Radfahrer stirbt nach Sturz in Berlin-Nikolassee",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-radfahrer-stirbt-im-krankenhaus-sturz-nikolassee.html",
-      "date": "Thu, 01 Oct 2026 14:10:09 +0200"
-    },
-    {
-      "title": "Fluggäste können Klagen in Königs Wusterhausen jetzt digital einreichen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/flugastrechte-vereinfacht-digital-amtsgericht-koenigs-wusterhausen.html",
-      "date": "Thu, 01 Oct 2026 13:56:58 +0200"
     }
   ]
 }
