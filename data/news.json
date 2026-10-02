@@ -1,14 +1,24 @@
 {
   "traffic": [
     {
-      "title": "Deutsche Bahn: Oberleitungsschaden bei Ludwigsfelde für zu Störungen im Fernverkehr",
+      "title": "Deutsche Bahn: Oberleitungsschaden bei Ludwigsfelde führt zu Störungen im Fernverkehr",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-brandenburg-bahn-oberleitungsschaden-ludwigsfelde-birkengrund.html",
-      "date": "Fri, 02 Oct 2026 21:27:30 +0200"
+      "date": "Fri, 02 Oct 2026 23:37:00 +0200"
+    },
+    {
+      "title": "Eishockey: Konzentrierte Eisbären gewinnen auch in Frankfurt",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/10/eishockey-del-loewen-frankfurt-eisbaeren-berlin.html",
+      "date": "Fri, 02 Oct 2026 22:26:51 +0200"
+    },
+    {
+      "title": "Zwei Tage Protest: Mehrere tausend Menschen bei Kundgebung und Konzert gegen Wehrpflicht",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/10/kundgebung-konzert-wehrpflicht-brandenburger-tor-freitag.html",
+      "date": "Fri, 02 Oct 2026 22:00:00 +0200"
     },
     {
       "title": "Fußball: Warum Hertha immer weiter siegt (vielleicht)",
       "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-zweite-bundesliga-warum-herthas-siegesserie-weitergeht-aufstieg-gruende.html",
-      "date": "Fri, 02 Oct 2026 21:07:28 +0200"
+      "date": "Fri, 02 Oct 2026 21:50:42 +0200"
     },
     {
       "title": "Wahl-Panne in Spandau: Berliner Abgeordnetenhaus wird kleiner",
@@ -31,11 +41,6 @@
       "date": "Fri, 02 Oct 2026 19:08:00 +0200"
     },
     {
-      "title": "Zwei Tage Protest: Hunderte Menschen bei Kundgebung und Konzert gegen Wehrpflicht",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/10/kundgebung-konzert-wehrpflicht-brandenburger-tor-freitag.html",
-      "date": "Fri, 02 Oct 2026 18:41:05 +0200"
-    },
-    {
       "title": "Land sagt Landkreisen Gelder für Fehlfahrten von Rettungsdiensten zu",
       "link": "https://www.rbb24.de/politik/beitrag/2026/10/brandenburg-landkreise-einigung-streit-fehlfahrten-rettungsdienst.html",
       "date": "Fri, 02 Oct 2026 18:15:00 +0200"
@@ -54,11 +59,6 @@
       "title": "Sportwetten bei Pferderennen: Harmloser Spaß oder gefährliches Spiel?",
       "link": "https://www.rbb24.de/sport/beitrag/2026/10/sportwetten-pferderennen-hoppegarten-renntag-der-deutschen-einheit.html",
       "date": "Fri, 02 Oct 2026 16:36:00 +0200"
-    },
-    {
-      "title": "Senat setzt neue Mehrweggeschirrvorgaben für Veranstaltungen in Kraft",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/10/mehrweg-veranstaltungen-senat-ausfuehrungsvorschrift-abfallgeset.html",
-      "date": "Fri, 02 Oct 2026 16:22:52 +0200"
     }
   ],
   "police": [
@@ -128,9 +128,9 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Deutsche Bahn: Oberleitungsschaden bei Ludwigsfelde für zu Störungen im Fernverkehr",
+      "title": "Deutsche Bahn: Oberleitungsschaden bei Ludwigsfelde führt zu Störungen im Fernverkehr",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-brandenburg-bahn-oberleitungsschaden-ludwigsfelde-birkengrund.html",
-      "date": "Fri, 02 Oct 2026 21:27:30 +0200"
+      "date": "Fri, 02 Oct 2026 23:37:00 +0200"
     },
     {
       "title": "Oberhavel: Einschränkungen im Regionalbahnverkehr in Oranienburg ab Freitagabend",
