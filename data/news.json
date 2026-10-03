@@ -1,19 +1,39 @@
 {
   "traffic": [
     {
-      "title": "Testspiel: Energie Cottbus holt beim polnischen Meister ein Remis",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-zweite-bundesliga-testspiel-lech-posen-energie-cottbus-spielbericht.html",
-      "date": "Sat, 03 Oct 2026 16:14:06 +0200"
+      "title": "AfD-Anhänger kommen am Tag der Einheit unter Protest in Fürstenwalde zusammen",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/10/brandenburg-afd-fuerstenwalde-protest-kundgebung.html",
+      "date": "Sat, 03 Oct 2026 20:25:39 +0200"
     },
     {
-      "title": "Demonstranten protestieren am Brandenburger Tor gegen Krieg",
+      "title": "Viktoria Potsdam eliminiert Titelverteidiger Krieschow - auch Stahl scheidet aus",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-landespokal-brandenburg-achtelfinale-optik-rathenow-fuerstenwalde-potsdam-krieschow-babelsberg.html",
+      "date": "Sat, 03 Oct 2026 18:33:00 +0200"
+    },
+    {
+      "title": "Nach Werkschließung: Zerbst neuer Produktionsstandort für \"Eberswalder\"",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/10/zerbst-neuer-produktionsstandort-eberswalder.html",
+      "date": "Sat, 03 Oct 2026 18:04:10 +0200"
+    },
+    {
+      "title": "Berliner Kältehilfe fordert geringere Hürden für Obdachlosen-Schlafplätze",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berliner-kaeltehilfe-wenig-neue-immobilien.html",
+      "date": "Sat, 03 Oct 2026 17:55:47 +0200"
+    },
+    {
+      "title": "Tausende protestieren am Brandenburger Tor gegen Krieg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/demonstration-tag-der-deutschen-einheit.html",
-      "date": "Sat, 03 Oct 2026 15:32:45 +0200"
+      "date": "Sat, 03 Oct 2026 17:13:52 +0200"
     },
     {
       "title": "Regierungsbildung in Berlin: Linke, Grüne und SPD sehen \"gemeinsamen Weg\"",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/linke-gruene-spd-regierungsbildung-berlin.html",
-      "date": "Sat, 03 Oct 2026 15:21:01 +0200"
+      "date": "Sat, 03 Oct 2026 16:59:00 +0200"
+    },
+    {
+      "title": "Testspiel: Energie Cottbus holt beim polnischen Meister ein Remis",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-zweite-bundesliga-testspiel-lech-posen-energie-cottbus-spielbericht.html",
+      "date": "Sat, 03 Oct 2026 16:54:23 +0200"
     },
     {
       "title": "Unbekannter verletzt 15-Jährigen schwer mit Messer",
@@ -39,26 +59,6 @@
       "title": "Drei Stimmen zum Tag der Deutschen Einheit",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/tag-der-deutschen-einheit-gespraeche-ost-west-wiedervereinigung.html",
       "date": "Sat, 03 Oct 2026 07:21:25 +0200"
-    },
-    {
-      "title": "Deutsche Bahn: Oberleitungsschaden bei Ludwigsfelde führt zu Störungen im Fernverkehr",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-brandenburg-bahn-oberleitungsschaden-ludwigsfelde-birkengrund.html",
-      "date": "Fri, 02 Oct 2026 23:37:00 +0200"
-    },
-    {
-      "title": "Eishockey: Konzentrierte Eisbären gewinnen auch in Frankfurt",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/eishockey-del-loewen-frankfurt-eisbaeren-berlin.html",
-      "date": "Fri, 02 Oct 2026 22:26:51 +0200"
-    },
-    {
-      "title": "Zwei Tage Protest: Mehrere tausend Menschen bei Kundgebung und Konzert gegen Wehrpflicht",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/10/kundgebung-konzert-wehrpflicht-brandenburger-tor-freitag.html",
-      "date": "Fri, 02 Oct 2026 22:00:00 +0200"
-    },
-    {
-      "title": "Wahl-Panne in Spandau: Berliner Abgeordnetenhaus wird kleiner",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/neuauszaehlung-wahlpanne-berlin-spandau-abgeordnetenhaus-tabor.html",
-      "date": "Fri, 02 Oct 2026 20:37:50 +0200"
     }
   ],
   "police": [
@@ -128,9 +128,14 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Demonstranten protestieren am Brandenburger Tor gegen Krieg",
+      "title": "Berliner Kältehilfe fordert geringere Hürden für Obdachlosen-Schlafplätze",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berliner-kaeltehilfe-wenig-neue-immobilien.html",
+      "date": "Sat, 03 Oct 2026 17:55:47 +0200"
+    },
+    {
+      "title": "Tausende protestieren am Brandenburger Tor gegen Krieg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/demonstration-tag-der-deutschen-einheit.html",
-      "date": "Sat, 03 Oct 2026 15:32:45 +0200"
+      "date": "Sat, 03 Oct 2026 17:13:52 +0200"
     },
     {
       "title": "Unbekannter verletzt 15-Jährigen schwer mit Messer",
@@ -181,11 +186,6 @@
       "title": "A10 bei Ludwigsfelde: Versteckter Kriegsopfer-Friedhof im Wald soll Gedenkort werden",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/kriegsopfer-friedhof-im-wald-bei-ludwigsfelde-soll-gedenkort-wer.html",
       "date": "Fri, 02 Oct 2026 15:33:19 +0200"
-    },
-    {
-      "title": "Polizei durchsucht Gebäude in Berlin und Schwarzheide wegen Terrorermittlung",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-schwarzheide-durchsuchung-terrorverdacht.html",
-      "date": "Fri, 02 Oct 2026 15:31:02 +0200"
     }
   ]
 }
