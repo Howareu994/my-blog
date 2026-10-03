@@ -1,6 +1,31 @@
 {
   "traffic": [
     {
+      "title": "Testspiel: Energie Cottbus holt beim polnischen Meister ein Remis",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-zweite-bundesliga-testspiel-lech-posen-energie-cottbus-spielbericht.html",
+      "date": "Sat, 03 Oct 2026 16:14:06 +0200"
+    },
+    {
+      "title": "Demonstranten protestieren am Brandenburger Tor gegen Krieg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/demonstration-tag-der-deutschen-einheit.html",
+      "date": "Sat, 03 Oct 2026 15:32:45 +0200"
+    },
+    {
+      "title": "Regierungsbildung in Berlin: Linke, Grüne und SPD sehen \"gemeinsamen Weg\"",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/linke-gruene-spd-regierungsbildung-berlin.html",
+      "date": "Sat, 03 Oct 2026 15:21:01 +0200"
+    },
+    {
+      "title": "Unbekannter verletzt 15-Jährigen schwer mit Messer",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/messer-angriff-verletzung-gesundbrunnen.html",
+      "date": "Sat, 03 Oct 2026 12:38:24 +0200"
+    },
+    {
+      "title": "Besucher saßen wegen defekten Aufzugs auf Berliner Funkturm fest",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/funkturm-aufzug-defekt-berlin.html",
+      "date": "Sat, 03 Oct 2026 12:21:37 +0200"
+    },
+    {
       "title": "Fußball: Warum Hertha immer weiter siegt (vielleicht)",
       "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-zweite-bundesliga-warum-herthas-siegesserie-weitergeht-aufstieg-gruende.html",
       "date": "Sat, 03 Oct 2026 10:41:29 +0200"
@@ -34,38 +59,89 @@
       "title": "Wahl-Panne in Spandau: Berliner Abgeordnetenhaus wird kleiner",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/neuauszaehlung-wahlpanne-berlin-spandau-abgeordnetenhaus-tabor.html",
       "date": "Fri, 02 Oct 2026 20:37:50 +0200"
-    },
-    {
-      "title": "Was die Rote Hilfe ist und wieso sie vom Verfassungsschutz beobachtet wird",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/10/rote-hilfe-hintergrund-rechtshilfe-linksextremismus-verfassungss.html",
-      "date": "Fri, 02 Oct 2026 20:12:26 +0200"
-    },
-    {
-      "title": "Handball: Füchse zwischen Gidsel-Schock, Übergang und Optimismus",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/handball-bundesliga-klub-wm-fuechse-berlin-mathias-gidsel-bob-hanning-verletzungen-ausblick.html",
-      "date": "Fri, 02 Oct 2026 19:54:01 +0200"
-    },
-    {
-      "title": "Oberhavel: Einschränkungen im Regionalbahnverkehr in Oranienburg ab Freitagabend",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-bahn-bauarbeiten-oranienburg-streckensperrung.html",
-      "date": "Fri, 02 Oct 2026 19:08:00 +0200"
-    },
-    {
-      "title": "U2 in Berlin fährt wieder komplette Strecke - U1 auf Teilstrecke",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/u2-unterbrechung-beendet-brand-wittenbergplatz-berlin.html",
-      "date": "Fri, 02 Oct 2026 17:36:04 +0200"
-    },
-    {
-      "title": "Linke Berlin: Kocak räumt Fehler bei Umgang mit Remmos ein",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/10/berlin-linke-kocak-fehler-eingeraeumt-umgang-remmo-clan.html",
-      "date": "Fri, 02 Oct 2026 17:19:41 +0200"
     }
   ],
-  "police": [],
+  "police": [
+    {
+      "title": "Einbruch in Einfamilienhaus – Ein Tatverdächtiger festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721183.php",
+      "date": "Sat, 03 Oct 2026 14:14:34 +0200"
+    },
+    {
+      "title": "Zwei fremdenfeindliche Angriffe",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721181.php",
+      "date": "Sat, 03 Oct 2026 14:08:46 +0200"
+    },
+    {
+      "title": "Auseinandersetzung zwischen zwei Personengruppen – drei Männer mit Schnitt- und Stichverletzungen im Krankenhaus",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721178.php",
+      "date": "Sat, 03 Oct 2026 12:57:00 +0200"
+    },
+    {
+      "title": "DEIG-Einsatz – Festnahme nach Hausfriedensbruch, Sachbeschädigung und Widerstand gegen Vollstreckungsbeamte",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721177.php",
+      "date": "Sat, 03 Oct 2026 12:43:50 +0200"
+    },
+    {
+      "title": "Gedenksteine mit Farbe besprüht – Tatverdächtiger festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721172.php",
+      "date": "Sat, 03 Oct 2026 10:32:47 +0200"
+    },
+    {
+      "title": "Messerangriff auf Jugendlichen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721169.php",
+      "date": "Sat, 03 Oct 2026 09:50:55 +0200"
+    },
+    {
+      "title": "Regenbogenbank im Großen Tiergarten beschmiert",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721089.php",
+      "date": "Fri, 02 Oct 2026 15:16:32 +0200"
+    },
+    {
+      "title": "Duo nach Diebstahl festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720997.php",
+      "date": "Fri, 02 Oct 2026 12:55:09 +0200"
+    },
+    {
+      "title": "Keine Straftat – Geplante Nachbeschriftungsarbeiten",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720062.php",
+      "date": "Fri, 02 Oct 2026 12:06:00 +0200"
+    },
+    {
+      "title": "Verkehrsunfall mit lebensbedrohlich verletztem E-Scooter-Fahrer",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720912.php",
+      "date": "Fri, 02 Oct 2026 11:48:40 +0200"
+    },
+    {
+      "title": "Unbekannte Person flüchtet nach Unfall mit vierjährigem Kind",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720907.php",
+      "date": "Fri, 02 Oct 2026 11:43:53 +0200"
+    },
+    {
+      "title": "20-Jährige bei E-Scooter-Unfall verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720894.php",
+      "date": "Fri, 02 Oct 2026 11:26:35 +0200"
+    }
+  ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Demonstranten protestieren am Brandenburger Tor gegen Krieg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/demonstration-tag-der-deutschen-einheit.html",
+      "date": "Sat, 03 Oct 2026 15:32:45 +0200"
+    },
+    {
+      "title": "Unbekannter verletzt 15-Jährigen schwer mit Messer",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/messer-angriff-verletzung-gesundbrunnen.html",
+      "date": "Sat, 03 Oct 2026 12:38:24 +0200"
+    },
+    {
+      "title": "Besucher saßen wegen defekten Aufzugs auf Berliner Funkturm fest",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/funkturm-aufzug-defekt-berlin.html",
+      "date": "Sat, 03 Oct 2026 12:21:37 +0200"
+    },
     {
       "title": "Drei Stimmen zum Tag der Deutschen Einheit",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/tag-der-deutschen-einheit-gespraeche-ost-west-wiedervereinigung.html",
@@ -110,21 +186,6 @@
       "title": "Polizei durchsucht Gebäude in Berlin und Schwarzheide wegen Terrorermittlung",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-schwarzheide-durchsuchung-terrorverdacht.html",
       "date": "Fri, 02 Oct 2026 15:31:02 +0200"
-    },
-    {
-      "title": "Brauhausberg-Areal an Hasso-Plattner-Foundation verkauft",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/potsdam-uni-campus-brauhausberg-hasso-plattner-finanzen-kauf.html",
-      "date": "Fri, 02 Oct 2026 14:33:12 +0200"
-    },
-    {
-      "title": "Vorsorgliches Aufenthaltsverbot gegen Protestler nicht zulässig",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/aufenthaltsverbot-aktivist-verwaltungsgericht.html",
-      "date": "Fri, 02 Oct 2026 13:59:03 +0200"
-    },
-    {
-      "title": "Erntebilanz 2026: Genügend Spreewaldgurken geerntet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-spreewald-gurken-ernte-bilanz-2026.html",
-      "date": "Fri, 02 Oct 2026 13:27:14 +0200"
     }
   ]
 }
