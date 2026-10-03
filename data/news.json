@@ -1,6 +1,31 @@
 {
   "traffic": [
     {
+      "title": "Landespokal: BFC Preussen zieht ins Achtelfinale ein",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-berliner-landespokal-spielbericht.html",
+      "date": "Sat, 03 Oct 2026 22:26:13 +0200"
+    },
+    {
+      "title": "HBL: Füchse Berlin feiern Zittersieg in Bietigheim",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/10/handball-bundesliga-bbl-bietigheim-fuechse-berlin-spielbericht.html",
+      "date": "Sat, 03 Oct 2026 22:21:40 +0200"
+    },
+    {
+      "title": "GFL Bowl: Potsdam Royals von Dresden Monarchs entthront",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/10/american-football-gfl-bowl-dresden-monarchs-potsdam-royals-spielbericht.html",
+      "date": "Sat, 03 Oct 2026 21:59:00 +0200"
+    },
+    {
+      "title": "Hoppegarten: Snow Player gewinnt 36. Preis der Deutschen Einheit",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/10/pferdesport-galopprennbahn-hoppegarten-preis-der-deutschen-einheit-derbysieger.html",
+      "date": "Sat, 03 Oct 2026 21:50:38 +0200"
+    },
+    {
+      "title": "BBL: Alba Berlin verliert auch gegen Bamberg",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/10/basketball-bundesliga-bbl-alba-berlin-bamberg-spielbericht.html",
+      "date": "Sat, 03 Oct 2026 21:23:46 +0200"
+    },
+    {
       "title": "AfD-Anhänger kommen am Tag der Einheit unter Protest in Fürstenwalde zusammen",
       "link": "https://www.rbb24.de/politik/beitrag/2026/10/brandenburg-afd-fuerstenwalde-protest-kundgebung.html",
       "date": "Sat, 03 Oct 2026 20:25:39 +0200"
@@ -34,31 +59,6 @@
       "title": "Testspiel: Energie Cottbus holt beim polnischen Meister ein Remis",
       "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-zweite-bundesliga-testspiel-lech-posen-energie-cottbus-spielbericht.html",
       "date": "Sat, 03 Oct 2026 16:54:23 +0200"
-    },
-    {
-      "title": "Unbekannter verletzt 15-Jährigen schwer mit Messer",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/messer-angriff-verletzung-gesundbrunnen.html",
-      "date": "Sat, 03 Oct 2026 12:38:24 +0200"
-    },
-    {
-      "title": "Besucher saßen wegen defekten Aufzugs auf Berliner Funkturm fest",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/funkturm-aufzug-defekt-berlin.html",
-      "date": "Sat, 03 Oct 2026 12:21:37 +0200"
-    },
-    {
-      "title": "Fußball: Warum Hertha immer weiter siegt (vielleicht)",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-zweite-bundesliga-warum-herthas-siegesserie-weitergeht-aufstieg-gruende.html",
-      "date": "Sat, 03 Oct 2026 10:41:29 +0200"
-    },
-    {
-      "title": "Ost-Identität im Fußball: \"Möglichkeit, sich Stabilität zu verschaffen\"",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-osten-ddr-identitaet-rostock-dresden-leipzig-cottbus-wiedervereinigung-interview-czoch.html",
-      "date": "Sat, 03 Oct 2026 07:27:08 +0200"
-    },
-    {
-      "title": "Drei Stimmen zum Tag der Deutschen Einheit",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/tag-der-deutschen-einheit-gespraeche-ost-west-wiedervereinigung.html",
-      "date": "Sat, 03 Oct 2026 07:21:25 +0200"
     }
   ],
   "police": [
@@ -150,7 +150,7 @@
     {
       "title": "Drei Stimmen zum Tag der Deutschen Einheit",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/tag-der-deutschen-einheit-gespraeche-ost-west-wiedervereinigung.html",
-      "date": "Sat, 03 Oct 2026 07:21:25 +0200"
+      "date": "Sat, 03 Oct 2026 07:21:00 +0200"
     },
     {
       "title": "Deutsche Bahn: Oberleitungsschaden bei Ludwigsfelde führt zu Störungen im Fernverkehr",
