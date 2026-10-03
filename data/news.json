@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Fußball: Warum Hertha immer weiter siegt (vielleicht)",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-zweite-bundesliga-warum-herthas-siegesserie-weitergeht-aufstieg-gruende.html",
+      "date": "Sat, 03 Oct 2026 10:41:29 +0200"
+    },
+    {
+      "title": "Ost-Identität im Fußball: \"Möglichkeit, sich Stabilität zu verschaffen\"",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-osten-ddr-identitaet-rostock-dresden-leipzig-cottbus-wiedervereinigung-interview-czoch.html",
+      "date": "Sat, 03 Oct 2026 07:27:08 +0200"
+    },
+    {
+      "title": "Drei Stimmen zum Tag der Deutschen Einheit",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/tag-der-deutschen-einheit-gespraeche-ost-west-wiedervereinigung.html",
+      "date": "Sat, 03 Oct 2026 07:21:25 +0200"
+    },
+    {
       "title": "Deutsche Bahn: Oberleitungsschaden bei Ludwigsfelde führt zu Störungen im Fernverkehr",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-brandenburg-bahn-oberleitungsschaden-ludwigsfelde-birkengrund.html",
       "date": "Fri, 02 Oct 2026 23:37:00 +0200"
@@ -14,11 +29,6 @@
       "title": "Zwei Tage Protest: Mehrere tausend Menschen bei Kundgebung und Konzert gegen Wehrpflicht",
       "link": "https://www.rbb24.de/politik/beitrag/2026/10/kundgebung-konzert-wehrpflicht-brandenburger-tor-freitag.html",
       "date": "Fri, 02 Oct 2026 22:00:00 +0200"
-    },
-    {
-      "title": "Fußball: Warum Hertha immer weiter siegt (vielleicht)",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-zweite-bundesliga-warum-herthas-siegesserie-weitergeht-aufstieg-gruende.html",
-      "date": "Fri, 02 Oct 2026 21:50:42 +0200"
     },
     {
       "title": "Wahl-Panne in Spandau: Berliner Abgeordnetenhaus wird kleiner",
@@ -41,11 +51,6 @@
       "date": "Fri, 02 Oct 2026 19:08:00 +0200"
     },
     {
-      "title": "Land sagt Landkreisen Gelder für Fehlfahrten von Rettungsdiensten zu",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/10/brandenburg-landkreise-einigung-streit-fehlfahrten-rettungsdienst.html",
-      "date": "Fri, 02 Oct 2026 18:15:00 +0200"
-    },
-    {
       "title": "U2 in Berlin fährt wieder komplette Strecke - U1 auf Teilstrecke",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/u2-unterbrechung-beendet-brand-wittenbergplatz-berlin.html",
       "date": "Fri, 02 Oct 2026 17:36:04 +0200"
@@ -54,79 +59,18 @@
       "title": "Linke Berlin: Kocak räumt Fehler bei Umgang mit Remmos ein",
       "link": "https://www.rbb24.de/politik/beitrag/2026/10/berlin-linke-kocak-fehler-eingeraeumt-umgang-remmo-clan.html",
       "date": "Fri, 02 Oct 2026 17:19:41 +0200"
-    },
-    {
-      "title": "Sportwetten bei Pferderennen: Harmloser Spaß oder gefährliches Spiel?",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/sportwetten-pferderennen-hoppegarten-renntag-der-deutschen-einheit.html",
-      "date": "Fri, 02 Oct 2026 16:36:00 +0200"
     }
   ],
-  "police": [
-    {
-      "title": "Regenbogenbank im Großen Tiergarten beschmiert",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721089.php",
-      "date": "Fri, 02 Oct 2026 15:16:32 +0200"
-    },
-    {
-      "title": "Duo nach Diebstahl festgenommen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720997.php",
-      "date": "Fri, 02 Oct 2026 12:55:09 +0200"
-    },
-    {
-      "title": "Keine Straftat – Geplante Nachbeschriftungsarbeiten",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720062.php",
-      "date": "Fri, 02 Oct 2026 12:06:00 +0200"
-    },
-    {
-      "title": "Verkehrsunfall mit lebensbedrohlich verletztem E-Scooter-Fahrer",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720912.php",
-      "date": "Fri, 02 Oct 2026 11:48:40 +0200"
-    },
-    {
-      "title": "Unbekannte Person flüchtet nach Unfall mit vierjährigem Kind",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720907.php",
-      "date": "Fri, 02 Oct 2026 11:43:53 +0200"
-    },
-    {
-      "title": "20-Jährige bei E-Scooter-Unfall verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720894.php",
-      "date": "Fri, 02 Oct 2026 11:26:35 +0200"
-    },
-    {
-      "title": "Rassistische Beleidigung und Körperverletzung – Zeuginnen und Zeugen gesucht",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720637.php",
-      "date": "Thu, 01 Oct 2026 15:55:01 +0200"
-    },
-    {
-      "title": "Glasflasche auf den Kopf geschlagen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720450.php",
-      "date": "Thu, 01 Oct 2026 12:56:23 +0200"
-    },
-    {
-      "title": "Nach Diebstahl aus Pkw mit mutmaßlicher Schusswaffe bedroht",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720399.php",
-      "date": "Thu, 01 Oct 2026 11:58:38 +0200"
-    },
-    {
-      "title": "Storno in Handfesseln – Räuberisch erpresste Fahrt endet mit vier Festnahmen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720392.php",
-      "date": "Thu, 01 Oct 2026 11:49:16 +0200"
-    },
-    {
-      "title": "Rettungskräfte angegriffen und bespuckt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720334.php",
-      "date": "Thu, 01 Oct 2026 11:15:59 +0200"
-    },
-    {
-      "title": "Senior nach Verkehrsunfall im Krankenhaus verstorben – Zeuginnen und Zeugen gesucht",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720324.php",
-      "date": "Thu, 01 Oct 2026 11:00:18 +0200"
-    }
-  ],
+  "police": [],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Drei Stimmen zum Tag der Deutschen Einheit",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/tag-der-deutschen-einheit-gespraeche-ost-west-wiedervereinigung.html",
+      "date": "Sat, 03 Oct 2026 07:21:25 +0200"
+    },
     {
       "title": "Deutsche Bahn: Oberleitungsschaden bei Ludwigsfelde führt zu Störungen im Fernverkehr",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-brandenburg-bahn-oberleitungsschaden-ludwigsfelde-birkengrund.html",
@@ -181,11 +125,6 @@
       "title": "Erntebilanz 2026: Genügend Spreewaldgurken geerntet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-spreewald-gurken-ernte-bilanz-2026.html",
       "date": "Fri, 02 Oct 2026 13:27:14 +0200"
-    },
-    {
-      "title": "Linum erwartet weniger Kraniche wegen Trockenheit",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/kranich-linum-trockenheit.html",
-      "date": "Fri, 02 Oct 2026 12:23:02 +0200"
     }
   ]
 }
