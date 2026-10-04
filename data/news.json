@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Nations League: Deutschland spielt in Griechenland nur Remis",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-dfb-nationalelf-nations-league-griechenland-laenderspiel-scherhant-mittelstaedt-spielbericht.html",
+      "date": "Sun, 04 Oct 2026 23:40:22 +0200"
+    },
+    {
       "title": "Mensch stürzt am Potsdamer Platz 15 Meter tief in Aufzugschacht",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/sturz-aufzugsschacht-potsdamer-platz-berlin-feuerwehr.html",
       "date": "Sun, 04 Oct 2026 21:58:00 +0200"
@@ -54,11 +59,6 @@
       "title": "Landespokal: Altglienicke und TeBe ziehen ins Achtelfinale ein",
       "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-berliner-landespokal-spielbericht.html",
       "date": "Sun, 04 Oct 2026 17:31:11 +0200"
-    },
-    {
-      "title": "Landespokal Brandenburg: Viktoria Potsdam und Babelsberg weiter",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-landespokal-brandenburg-achtelfinale-optik-rathenow-fuerstenwalde-potsdam-krieschow-babelsberg.html",
-      "date": "Sun, 04 Oct 2026 17:03:09 +0200"
     }
   ],
   "police": [
