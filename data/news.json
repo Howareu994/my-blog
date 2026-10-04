@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Als Mädchen obdachlos: \"Auf der Straße fühlt man sich wie Dreck\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/interview-ehemalige-obdachlose-minderjaehrige-enni-berlin.html",
+      "date": "Sun, 04 Oct 2026 07:10:33 +0200"
+    },
+    {
+      "title": "Polnische Unternehmen expandieren nach Brandenburg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/polnische-unternehmen-expandieren-nach-berlin-brandenburg.html",
+      "date": "Sun, 04 Oct 2026 07:03:37 +0200"
+    },
+    {
       "title": "Landespokal: BFC Preussen zieht ins Achtelfinale ein",
       "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-berliner-landespokal-spielbericht.html",
       "date": "Sat, 03 Oct 2026 22:26:13 +0200"
@@ -46,19 +56,9 @@
       "date": "Sat, 03 Oct 2026 17:55:47 +0200"
     },
     {
-      "title": "Tausende protestieren am Brandenburger Tor gegen Krieg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/demonstration-tag-der-deutschen-einheit.html",
-      "date": "Sat, 03 Oct 2026 17:13:52 +0200"
-    },
-    {
       "title": "Regierungsbildung in Berlin: Linke, Grüne und SPD sehen \"gemeinsamen Weg\"",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/linke-gruene-spd-regierungsbildung-berlin.html",
       "date": "Sat, 03 Oct 2026 16:59:00 +0200"
-    },
-    {
-      "title": "Testspiel: Energie Cottbus holt beim polnischen Meister ein Remis",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-zweite-bundesliga-testspiel-lech-posen-energie-cottbus-spielbericht.html",
-      "date": "Sat, 03 Oct 2026 16:54:23 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,16 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Als Mädchen obdachlos: \"Auf der Straße fühlt man sich wie Dreck\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/interview-ehemalige-obdachlose-minderjaehrige-enni-berlin.html",
+      "date": "Sun, 04 Oct 2026 07:10:33 +0200"
+    },
+    {
+      "title": "Polnische Unternehmen expandieren nach Brandenburg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/polnische-unternehmen-expandieren-nach-berlin-brandenburg.html",
+      "date": "Sun, 04 Oct 2026 07:03:37 +0200"
+    },
+    {
       "title": "Berliner Kältehilfe fordert geringere Hürden für Obdachlosen-Schlafplätze",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berliner-kaeltehilfe-wenig-neue-immobilien.html",
       "date": "Sat, 03 Oct 2026 17:55:47 +0200"
@@ -176,16 +186,6 @@
       "title": "Arzt soll lebensbedrohliche Erkrankungen erfunden und unnötig operiert haben",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/arzt-verhaftet-nicht-notwendige-operationen-berlin.html",
       "date": "Fri, 02 Oct 2026 15:45:26 +0200"
-    },
-    {
-      "title": "Nach Tod von Bert: Elche im Naturpark Nuthe-Nieplitz gesichtet und fotografiert",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/neuer-elch-gesichtet-brandenburg-bert-berti-potsdam-mittelmark-teltow-flaeming.html",
-      "date": "Fri, 02 Oct 2026 15:34:53 +0200"
-    },
-    {
-      "title": "A10 bei Ludwigsfelde: Versteckter Kriegsopfer-Friedhof im Wald soll Gedenkort werden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/kriegsopfer-friedhof-im-wald-bei-ludwigsfelde-soll-gedenkort-wer.html",
-      "date": "Fri, 02 Oct 2026 15:33:19 +0200"
     }
   ]
 }
