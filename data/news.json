@@ -1,6 +1,41 @@
 {
   "traffic": [
     {
+      "title": "Bilder von \"Cat in the Hat\"-Figur in Wittenberge offenbar KI-generiert",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/wittenberge-cat-in-the-hat-ki-bilder.html",
+      "date": "Tue, 06 Oct 2026 10:01:30 +0200"
+    },
+    {
+      "title": "Brandenburger Studienanfänger verlassen besonders häufig ihr Bundesland",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/statistikamt-mehrheit-studienanfaenger-bleibt-im-bundesland.html",
+      "date": "Tue, 06 Oct 2026 09:57:33 +0200"
+    },
+    {
+      "title": "Tanken ist derzeit in Polen deutlich billiger als in Deutschland",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/10/benzin-diesel-sprit-polen-billiger-tanken-tankstelle.html",
+      "date": "Tue, 06 Oct 2026 09:01:15 +0200"
+    },
+    {
+      "title": "Autobahn 13: Anschlussstelle Duben für mehrere Stunden gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/a13-anschlussstelle-duben-dienstag-voll-gesperrt.html",
+      "date": "Tue, 06 Oct 2026 08:11:53 +0200"
+    },
+    {
+      "title": "Nobelpreisträger aus Berlin: \"Ich war natürlich überwältigt\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/interview-nobelpreis-medizin-peter-hegemann-berlin.html",
+      "date": "Tue, 06 Oct 2026 08:11:40 +0200"
+    },
+    {
+      "title": "A100-Brückensanierungen: Ringbahn- und Westendbrücke sollen Sommer 2027 in Betrieb gehen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-a100-brueckensanierung-zeitplan.html",
+      "date": "Tue, 06 Oct 2026 07:57:50 +0200"
+    },
+    {
+      "title": "Checkpoint Charlie in Berlin: Viel Verkehr, wenig Grün",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/checkpoint-charlie-berlin-kritik-verkehr-baeume-umgestaltung.html",
+      "date": "Tue, 06 Oct 2026 06:16:00 +0200"
+    },
+    {
       "title": "Deutscher Buchpreis geht an Shida Bazyar",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/10/deutscher-buchpreis-schriftstellerin-shida-bazyar-berlin.html",
       "date": "Mon, 05 Oct 2026 21:43:40 +0200"
@@ -8,7 +43,7 @@
     {
       "title": "Medizin-Nobelpreis geht auch an Forscher der Humboldt-Universität Berlin",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/medizin-nobelpreis-hu-berlin-peter-hegemann.html",
-      "date": "Mon, 05 Oct 2026 21:03:50 +0200"
+      "date": "Mon, 05 Oct 2026 21:03:00 +0200"
     },
     {
       "title": "Berliner Linke klagt gegen Insta-Video von Brandenburgs Innenminister Redmann",
@@ -24,39 +59,14 @@
       "title": "Football: Warum Nationalspielerinnen sogar Geld bezahlen müssen",
       "link": "https://www.rbb24.de/sport/beitrag/2026/10/football-berlin-kobra-ladies-interview-lara-schifferdecker.html",
       "date": "Mon, 05 Oct 2026 19:59:52 +0200"
-    },
-    {
-      "title": "Mehrere Personen bei Reizgas-Angriff in Kreuzberger Schule verletzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-kreuzberg-schule-reizgas-angriff-verletzte.html",
-      "date": "Mon, 05 Oct 2026 19:42:44 +0200"
-    },
-    {
-      "title": "Tiergartentunnel wegen Personalmangel in der Nacht geschlossen - künftig öfter",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/personalmangel-tiergartentunnel-gesperrt-nachts-oktober-verkehr.html",
-      "date": "Mon, 05 Oct 2026 18:09:05 +0200"
-    },
-    {
-      "title": "SV Babelsberg: Kiosk für \"radikale Niedrigschwelligkeit\"",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-regionalliga-babelsberg-03-mentale-gesundheit-mental-health-karli-kiosk-seidemann.html",
-      "date": "Mon, 05 Oct 2026 17:50:12 +0200"
-    },
-    {
-      "title": "Bilder von \"Cat in the Hat\"-Figur in Wittenberge offenbar KI-generiert",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/wittenberge-cat-in-the-hat-ki-bilder-.html",
-      "date": "Mon, 05 Oct 2026 17:44:36 +0200"
-    },
-    {
-      "title": "Nobelpreisträger aus Berlin: \"Ich war natürlich überwältigt\"",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/interview-nobelpreis-medizin-peter-hegemann-berlin.html",
-      "date": "Mon, 05 Oct 2026 17:39:01 +0200"
-    },
-    {
-      "title": "Berlin: Staatsschutz ermittelt nach Feuer an Stromkabeln in Marzahn",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-kabelbrand-marzahn-hellersdorf-ermittlungen-polizei-stromkabel.html",
-      "date": "Mon, 05 Oct 2026 16:38:28 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Senior vermisst – Polizei bittet um Mithilfe",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721751.php",
+      "date": "Tue, 06 Oct 2026 09:29:33 +0200"
+    },
     {
       "title": "Zwei Personen bei Auseinandersetzung zwischen Jugendgruppen verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721644.php",
@@ -111,11 +121,6 @@
       "title": "Reizstoff gesprüht – zwei Verletzte",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721247.php",
       "date": "Sun, 04 Oct 2026 13:08:48 +0200"
-    },
-    {
-      "title": "Auseinandersetzung im Hotel",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721243.php",
-      "date": "Sun, 04 Oct 2026 11:44:04 +0200"
     }
   ],
   "free_events": [],
@@ -123,9 +128,44 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Bilder von \"Cat in the Hat\"-Figur in Wittenberge offenbar KI-generiert",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/wittenberge-cat-in-the-hat-ki-bilder.html",
+      "date": "Tue, 06 Oct 2026 10:01:30 +0200"
+    },
+    {
+      "title": "Brandenburger Studienanfänger verlassen besonders häufig ihr Bundesland",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/statistikamt-mehrheit-studienanfaenger-bleibt-im-bundesland.html",
+      "date": "Tue, 06 Oct 2026 09:57:33 +0200"
+    },
+    {
+      "title": "Zwei leicht Verletzte durch mutmaßlichen Gefahrenstoff in Raddusch",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/lausitz-raddusch-gewerbegebiet-stoffaustritt.html",
+      "date": "Tue, 06 Oct 2026 09:31:51 +0200"
+    },
+    {
+      "title": "Autobahn 13: Anschlussstelle Duben für mehrere Stunden gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/a13-anschlussstelle-duben-dienstag-voll-gesperrt.html",
+      "date": "Tue, 06 Oct 2026 08:11:53 +0200"
+    },
+    {
+      "title": "Nobelpreisträger aus Berlin: \"Ich war natürlich überwältigt\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/interview-nobelpreis-medizin-peter-hegemann-berlin.html",
+      "date": "Tue, 06 Oct 2026 08:11:40 +0200"
+    },
+    {
+      "title": "A100-Brückensanierungen: Ringbahn- und Westendbrücke sollen Sommer 2027 in Betrieb gehen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-a100-brueckensanierung-zeitplan.html",
+      "date": "Tue, 06 Oct 2026 07:57:50 +0200"
+    },
+    {
+      "title": "Checkpoint Charlie in Berlin: Viel Verkehr, wenig Grün",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/checkpoint-charlie-berlin-kritik-verkehr-baeume-umgestaltung.html",
+      "date": "Tue, 06 Oct 2026 06:16:00 +0200"
+    },
+    {
       "title": "Medizin-Nobelpreis geht auch an Forscher der Humboldt-Universität Berlin",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/medizin-nobelpreis-hu-berlin-peter-hegemann.html",
-      "date": "Mon, 05 Oct 2026 21:03:50 +0200"
+      "date": "Mon, 05 Oct 2026 21:03:00 +0200"
     },
     {
       "title": "65-Jähriger nach Wohnungsbrand in Berlin-Neukölln gestorben",
@@ -143,44 +183,9 @@
       "date": "Mon, 05 Oct 2026 18:09:05 +0200"
     },
     {
-      "title": "Bilder von \"Cat in the Hat\"-Figur in Wittenberge offenbar KI-generiert",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/wittenberge-cat-in-the-hat-ki-bilder-.html",
-      "date": "Mon, 05 Oct 2026 17:44:36 +0200"
-    },
-    {
-      "title": "Nobelpreisträger aus Berlin: \"Ich war natürlich überwältigt\"",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/interview-nobelpreis-medizin-peter-hegemann-berlin.html",
-      "date": "Mon, 05 Oct 2026 17:39:01 +0200"
-    },
-    {
       "title": "Berlin: Staatsschutz ermittelt nach Feuer an Stromkabeln in Marzahn",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-kabelbrand-marzahn-hellersdorf-ermittlungen-polizei-stromkabel.html",
       "date": "Mon, 05 Oct 2026 16:38:28 +0200"
-    },
-    {
-      "title": "Polizei beschlagnahmt Schreckschusswaffe im Zug",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-falkenberg-schreckschuss-waffe.html",
-      "date": "Mon, 05 Oct 2026 16:35:27 +0200"
-    },
-    {
-      "title": "Erster Schweinepest-Fall seit drei Jahren im Barnim festgestellt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/afrikanischeschweinepest-asp-barnim-ausbruch-fund-tierseuche-brandenburg-wildschwein-uckermark.html",
-      "date": "Mon, 05 Oct 2026 16:26:18 +0200"
-    },
-    {
-      "title": "Tag der Epilepsie: \"Alle Menschen können theoretisch Epilepsie bekommen\"",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/epilepsie-zentrum-epileptischer-anfall-interview-eva-breuer--.html",
-      "date": "Mon, 05 Oct 2026 16:16:45 +0200"
-    },
-    {
-      "title": "Angeklagte nach Bauschaum-Attacken auf Autos verurteilt: Geldstrafen und Arbeitsstunden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/prozess-bauschaum-auspuffe-autos-startet-in-ulm.html",
-      "date": "Mon, 05 Oct 2026 15:03:37 +0200"
-    },
-    {
-      "title": "Fünf Jahre Haft für Mittäter an Millionendiebstahl aus Schließfächern",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/millionendiebstahl-schliessfaecher-berlin-urteil.html",
-      "date": "Mon, 05 Oct 2026 14:08:00 +0200"
     }
   ]
 }
