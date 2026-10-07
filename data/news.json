@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Berlin: Robbie Williams kommt 2027 zum Lollapalooza-Festival",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-robbie-williams-lollapalooza-festival-2027-the-neighbourhood-sombre.html",
+      "date": "Wed, 07 Oct 2026 08:39:42 +0200"
+    },
+    {
+      "title": "Berlin und Brandenburg: auf die Sonne folgen Regenwolken",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/wetter-berlin-brandenburg-herbst-sonne-regen.html",
+      "date": "Wed, 07 Oct 2026 08:08:54 +0200"
+    },
+    {
+      "title": "Straßensperrungen in Berlin beim \"Great10k\"-Lauf am Sonntag",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/10/berlin-laufsport-great-10-k-lauf-strecke-strassen-sperrungen-teilnehmer-schloss-charlottenburg.html",
+      "date": "Wed, 07 Oct 2026 06:00:00 +0200"
+    },
+    {
       "title": "Brandenburg soll unterirdische CO2-Speicherung prüfen",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/10/brandenburg-kohlendioxid-co2-speicherung-gesetzentwurf.html",
       "date": "Tue, 06 Oct 2026 21:39:35 +0200"
@@ -44,21 +59,6 @@
       "title": "Monarch-Hochhaus: Neuer Investor steigt bei Projekt in Berlin ein",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/10/berlin-monarch-alexander-tower-hochhaus-alexanderplatz-investor.html",
       "date": "Tue, 06 Oct 2026 17:48:00 +0200"
-    },
-    {
-      "title": "Studie: Berlin wächst - Brandenburg ist zukunftsfähig",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/bevoelkerung-schrumpft-potsdam-dahme-spreewald-wachsen.html",
-      "date": "Tue, 06 Oct 2026 17:46:00 +0200"
-    },
-    {
-      "title": "Union-Verteidiger Querfeld: Kein \"Neustart\" nach Horror-Auftakt",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/union-berlin-leopold-querfeld-vor-elversberg.html",
-      "date": "Tue, 06 Oct 2026 17:03:33 +0200"
-    },
-    {
-      "title": "7. Oktober in Berlin: Mehr Polizei, Gedenkfeiern und Anti-Israel-Demos",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-jahrestag-hamas-ueberfall-israel-vorbereitungen.html",
-      "date": "Tue, 06 Oct 2026 17:03:06 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,21 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Berlin: Robbie Williams kommt 2027 zum Lollapalooza-Festival",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-robbie-williams-lollapalooza-festival-2027-the-neighbourhood-sombre.html",
+      "date": "Wed, 07 Oct 2026 08:39:42 +0200"
+    },
+    {
+      "title": "Berlin und Brandenburg: auf die Sonne folgen Regenwolken",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/wetter-berlin-brandenburg-herbst-sonne-regen.html",
+      "date": "Wed, 07 Oct 2026 08:08:54 +0200"
+    },
+    {
+      "title": "Berliner Schul-AG entfernt rechtsextreme Sticker auf dem Schulweg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/schul-ag-rechtsextreme-sticker-entfernen-berlin-hellersdorf.html",
+      "date": "Wed, 07 Oct 2026 06:11:27 +0200"
+    },
+    {
       "title": "Radfahrerin in Uebigau-Wahrenbrück von Lkw überrollt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/elbe-elster-radfahrerin-von-lkw-ueberrollt-tot.html",
       "date": "Tue, 06 Oct 2026 21:31:33 +0200"
@@ -145,7 +160,7 @@
     {
       "title": "7. Oktober in Berlin: Mehr Polizei, Gedenkfeiern und Anti-Israel-Demos",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-jahrestag-hamas-ueberfall-israel-vorbereitungen.html",
-      "date": "Tue, 06 Oct 2026 17:03:06 +0200"
+      "date": "Tue, 06 Oct 2026 17:03:00 +0200"
     },
     {
       "title": "Geldautomat in Biesdorf-Center gesprengt - Gebäude wieder offen",
@@ -171,21 +186,6 @@
       "title": "Leißnitz (Oder-Spree): Selbstgebaute Tische und Bänke sollen Dorfgeschmeinschaft stärken",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/leissnitz-gasthof-baenke-dorfgemeinschaft.html",
       "date": "Tue, 06 Oct 2026 12:09:09 +0200"
-    },
-    {
-      "title": "40-Jähriger in Neuköllner Lokal angeschossen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-neukoelln-schuss-in-lokal-mann-bein-verletzt.html",
-      "date": "Tue, 06 Oct 2026 11:58:03 +0200"
-    },
-    {
-      "title": "A100-Brückensanierungen: Ringbahn- und Westendbrücke sollen Sommer 2027 in Betrieb gehen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-a100-brueckensanierung-zeitplan.html",
-      "date": "Tue, 06 Oct 2026 11:07:04 +0200"
-    },
-    {
-      "title": "Bilder von \"Cat in the Hat\"-Figur in Wittenberge offenbar KI-generiert",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/wittenberge-cat-in-the-hat-ki-bilder.html",
-      "date": "Tue, 06 Oct 2026 10:36:21 +0200"
     }
   ]
 }
