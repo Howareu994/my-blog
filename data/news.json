@@ -1,67 +1,92 @@
 {
   "traffic": [
     {
-      "title": "Barnim: Pkw-Fahrer stößt frontal mit Mopeds zusammen - vier Tote",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/schwerer-verkehrsunfall-brandenburg-landkreis-barnim-vier-mopedf.html",
-      "date": "Thu, 08 Oct 2026 08:43:11 +0200"
+      "title": "Jugendgewalt in Potsdam: Polizei nimmt mutmaßliche Hauptakteure fest",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/gewalt-jugend-jugendgruppe-potsdam-polizei-krankenhaus-festnahme.html",
+      "date": "Thu, 08 Oct 2026 16:06:50 +0200"
     },
     {
-      "title": "Berlin: Linke, Grüne und SPD vor Einigung auf Sondierungen",
+      "title": "Polizei verhindert Blocksturm: Festnahmen nach TeBe gegen BFC",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-landespokal-2026-tennis-borussia-bfc-dynamo-blocksturm-festnahmen.html",
+      "date": "Thu, 08 Oct 2026 15:49:01 +0200"
+    },
+    {
+      "title": "Trinkwasserversorgung in vielen Zossener Ortsteilen wieder hergestellt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/zossen-trinkwasser-versorgung-rohrbruch-wasserwagen-teltow-flaeming.html",
+      "date": "Thu, 08 Oct 2026 15:44:04 +0200"
+    },
+    {
+      "title": "Vom Aussterben bedrohte Sprache: Erstmals starten Lehramtsstudenten für Niedersorbisch an BTU Cottbus-Senftenberg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-btu-cottbus-senftenberg-start-studium-sorbisch-wendisch-lehrer.html",
+      "date": "Thu, 08 Oct 2026 15:26:50 +0200"
+    },
+    {
+      "title": "Barnim: Vier Jugendliche sterben bei Kollision von Pkw mit Mopeds",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-barnim-biesenthal-verkehr-zusammenstoss-mopeds-tote.html",
+      "date": "Thu, 08 Oct 2026 15:24:33 +0200"
+    },
+    {
+      "title": "Bahnverkehr: Neue Fahrpläne für Berlin und Brandenburg – das kommt auf Fahrgäste zu",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-brandenburg-bahn-fahrplanwechsel-zuege-bahnverkehr.html",
+      "date": "Thu, 08 Oct 2026 15:16:35 +0200"
+    },
+    {
+      "title": "Linke, Grüne und SPD einigen sich auf Sondierungsgespräche",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/linke-gruene-spd-vorsondierung-sondierung-einigung-regierungsbildung.html",
-      "date": "Thu, 08 Oct 2026 08:34:31 +0200"
+      "date": "Thu, 08 Oct 2026 14:53:09 +0200"
     },
     {
-      "title": "Auto gerät bei Unfall in Gleisbett und brennt aus - zwei Verletzte",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/verkehrsunfall-berlin-weissensee-brand-tram-unterbrochen.html",
-      "date": "Thu, 08 Oct 2026 08:11:47 +0200"
+      "title": "Millionen-Coup in Strausberg: Schließfach-Besitzer klagen gegen Sparkasse",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/strausberg-maerkisch-oderland-sparkassen-einbruch-zivilprozess.html",
+      "date": "Thu, 08 Oct 2026 14:01:25 +0200"
     },
     {
-      "title": "Neue Straßenbahn-Linie M20 in Berlin: Wo und wann sie fahren soll",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/neue-strassenbahn-linie-m20-tram-berlin.html",
-      "date": "Thu, 08 Oct 2026 07:40:21 +0200"
+      "title": "Bahn klagt erfolgreich gegen Beschluss beim Wettbewerb im Fernverkehr",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/10/bahn-bundesnetzagentur-fernverkehr-beschluss-rechtswidrig-konkurrenz.html",
+      "date": "Thu, 08 Oct 2026 13:42:56 +0200"
     },
     {
-      "title": "Literaturnobelpreis entscheidet, wen wir sofort lesen wollen",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/10/nobelpreis-literatur-buchhandel-berlin-mitte-effekt-uebersetzung-buecher-verfuegbarkeit.html",
-      "date": "Thu, 08 Oct 2026 06:34:00 +0200"
+      "title": "Mehrfamilienhaus in Lauchhammer wegen Rissen geräumt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-lauchhammer-risse-haus-evakuierung-polizei-feuerwehr.html",
+      "date": "Thu, 08 Oct 2026 13:41:36 +0200"
     },
     {
-      "title": "Kleinflugzeug bei Finowfurt abgestürzt - Pilot tot",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/finowfurt-flugzeug-kleinflugzeug-absturz-pilot-tot.html",
-      "date": "Thu, 08 Oct 2026 00:21:57 +0200"
+      "title": "Kröten, Frösche, Molche: Fast alle Amphibienarten in Berlin sind laut Bericht stark gefährdet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-amphibien-naturschutz-senatsverwaltung-studie-biotope.html",
+      "date": "Thu, 08 Oct 2026 13:33:49 +0200"
     },
     {
-      "title": "Sieg bei Salzburg: Eisbären ziehen ins CHL-Achtelfinale ein",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/eishockey-champions-hockey-league-salzburg-eisbaeren-berlin.html",
-      "date": "Wed, 07 Oct 2026 23:44:33 +0200"
-    },
-    {
-      "title": "Berlin: Äußere Fahrstreifen der A100 auf Rudolf-Wissell-Brücke gesperrt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/a100-berlin-charlottenburg-rudolf-wissell-bruecke-fahrstreifen-gesperrt.html",
-      "date": "Wed, 07 Oct 2026 22:28:46 +0200"
-    },
-    {
-      "title": "Hamas-Anschlag auf Israel: Gedenken in Berlin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-gedenken-terroranschlag-7-oktober-israel-hamas.html",
-      "date": "Wed, 07 Oct 2026 21:24:39 +0200"
-    },
-    {
-      "title": "Mann nach tödlichem Angriff in Nauener Psychiatrie zu vier Jahren Haft verurteilt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/haft-nauen-havelland-psychiatrie-angriff-toedlich-opfer-klage.html",
-      "date": "Wed, 07 Oct 2026 20:53:25 +0200"
-    },
-    {
-      "title": "Alba Berlin schlägt Slavia Prag zum CL-Auftakt deutlich",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/basketball-champions-league-alba-berlin-besiegt-slavia-prag.html",
-      "date": "Wed, 07 Oct 2026 20:45:44 +0200"
-    },
-    {
-      "title": "Berlin: Robbie Williams kommt 2027 zum Lollapalooza-Festival",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/10/berlin-robbie-williams-lollapalooza-festival-2027-the-neighbourhood-sombre.html",
-      "date": "Wed, 07 Oct 2026 18:24:34 +0200"
+      "title": "Bringt der Bezirksverband Neukölln die Berliner Linke ins Stolpern?",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/10/linke-berlin-bezirksverband-neukoelln-kocak-einfluss.html",
+      "date": "Thu, 08 Oct 2026 13:18:00 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Bilanz zur Versammlungslage mit Bezug zum Nahostkonflikt vom 7. Oktober 2026",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723246.php",
+      "date": "Thu, 08 Oct 2026 16:01:37 +0200"
+    },
+    {
+      "title": "Drei Fahrzeuge auf Parkplatz in Brand geraten",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723186.php",
+      "date": "Thu, 08 Oct 2026 15:34:18 +0200"
+    },
+    {
+      "title": "Radfahrer von Lkw-Fahrer angefahren",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723117.php",
+      "date": "Thu, 08 Oct 2026 14:53:46 +0200"
+    },
+    {
+      "title": "Versuchte schwere Brandstiftung",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723003.php",
+      "date": "Thu, 08 Oct 2026 13:19:48 +0200"
+    },
+    {
+      "title": "Einsatzkräfte mit Steinen und Pyrotechnik angegriffen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1722985.php",
+      "date": "Thu, 08 Oct 2026 13:01:57 +0200"
+    },
     {
       "title": "Fußgänger verstorben",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713418.php",
@@ -96,31 +121,6 @@
       "title": "Durchsuchungen nach Messerangriff am Ottoplatz",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721178.php",
       "date": "Tue, 06 Oct 2026 12:48:00 +0200"
-    },
-    {
-      "title": "Geldausgabeautomat gesprengt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721903.php",
-      "date": "Tue, 06 Oct 2026 12:16:48 +0200"
-    },
-    {
-      "title": "Mann durch Schuss ins Bein verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721860.php",
-      "date": "Tue, 06 Oct 2026 11:34:26 +0200"
-    },
-    {
-      "title": "Senior vermisst – Polizei bittet um Mithilfe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721751.php",
-      "date": "Tue, 06 Oct 2026 09:29:33 +0200"
-    },
-    {
-      "title": "Zwei Personen bei Auseinandersetzung zwischen Jugendgruppen verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721644.php",
-      "date": "Mon, 05 Oct 2026 15:38:19 +0200"
-    },
-    {
-      "title": "Auseinandersetzungen nach Fußballspiel",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721615.php",
-      "date": "Mon, 05 Oct 2026 14:53:16 +0200"
     }
   ],
   "free_events": [],
@@ -128,64 +128,64 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Barnim: Pkw-Fahrer stößt frontal mit Mopeds zusammen - vier Tote",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/schwerer-verkehrsunfall-brandenburg-landkreis-barnim-vier-mopedf.html",
-      "date": "Thu, 08 Oct 2026 08:43:11 +0200"
+      "title": "Jugendgewalt in Potsdam: Polizei nimmt mutmaßliche Hauptakteure fest",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/gewalt-jugend-jugendgruppe-potsdam-polizei-krankenhaus-festnahme.html",
+      "date": "Thu, 08 Oct 2026 16:06:50 +0200"
     },
     {
-      "title": "Auto gerät bei Unfall in Gleisbett und brennt aus - zwei Verletzte",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/verkehrsunfall-berlin-weissensee-brand-tram-unterbrochen.html",
-      "date": "Thu, 08 Oct 2026 08:11:47 +0200"
+      "title": "Trinkwasserversorgung in vielen Zossener Ortsteilen wieder hergestellt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/zossen-trinkwasser-versorgung-rohrbruch-wasserwagen-teltow-flaeming.html",
+      "date": "Thu, 08 Oct 2026 15:44:04 +0200"
     },
     {
-      "title": "Neue Straßenbahn-Linie M20 in Berlin: Wo und wann sie fahren soll",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/neue-strassenbahn-linie-m20-tram-berlin.html",
-      "date": "Thu, 08 Oct 2026 07:40:21 +0200"
+      "title": "Vom Aussterben bedrohte Sprache: Erstmals starten Lehramtsstudenten für Niedersorbisch an BTU Cottbus-Senftenberg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-btu-cottbus-senftenberg-start-studium-sorbisch-wendisch-lehrer.html",
+      "date": "Thu, 08 Oct 2026 15:26:50 +0200"
     },
     {
-      "title": "Kleinflugzeug bei Finowfurt abgestürzt - Pilot tot",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/finowfurt-flugzeug-kleinflugzeug-absturz-pilot-tot.html",
-      "date": "Thu, 08 Oct 2026 00:21:57 +0200"
+      "title": "Barnim: Vier Jugendliche sterben bei Kollision von Pkw mit Mopeds",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-barnim-biesenthal-verkehr-zusammenstoss-mopeds-tote.html",
+      "date": "Thu, 08 Oct 2026 15:24:33 +0200"
     },
     {
-      "title": "Berlin: Äußere Fahrstreifen der A100 auf Rudolf-Wissell-Brücke gesperrt",
+      "title": "Bahnverkehr: Neue Fahrpläne für Berlin und Brandenburg – das kommt auf Fahrgäste zu",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-brandenburg-bahn-fahrplanwechsel-zuege-bahnverkehr.html",
+      "date": "Thu, 08 Oct 2026 15:16:35 +0200"
+    },
+    {
+      "title": "Millionen-Coup in Strausberg: Schließfach-Besitzer klagen gegen Sparkasse",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/strausberg-maerkisch-oderland-sparkassen-einbruch-zivilprozess.html",
+      "date": "Thu, 08 Oct 2026 14:01:25 +0200"
+    },
+    {
+      "title": "Mehrfamilienhaus in Lauchhammer wegen Rissen geräumt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-lauchhammer-risse-haus-evakuierung-polizei-feuerwehr.html",
+      "date": "Thu, 08 Oct 2026 13:41:36 +0200"
+    },
+    {
+      "title": "Kröten, Frösche, Molche: Fast alle Amphibienarten in Berlin sind laut Bericht stark gefährdet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-amphibien-naturschutz-senatsverwaltung-studie-biotope.html",
+      "date": "Thu, 08 Oct 2026 13:33:49 +0200"
+    },
+    {
+      "title": "Rennbahn-Friedhof Hoppegarten erhält europäische Auszeichnung",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/hoppegarten-rennbahn-friedhof-siegel-maerkisch-oderland-europa-kultur.html",
+      "date": "Thu, 08 Oct 2026 12:41:26 +0200"
+    },
+    {
+      "title": "94 Jahre alte Frau stirbt bei Brand in Hohen Neuendorf",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brand-feuer-hohen-neuendorf-oberhavel-tot-feuerwehr.html",
+      "date": "Thu, 08 Oct 2026 12:08:57 +0200"
+    },
+    {
+      "title": "Verdacht auf Brandstiftung: Drittes Feuer in Kyritz in einer Woche",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brand-kyritz-keller-brandstiftung-polizei.html",
+      "date": "Thu, 08 Oct 2026 12:07:54 +0200"
+    },
+    {
+      "title": "A100: Rudolf-Wissell-Brücke muss nicht komplett gesperrt werden",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/a100-berlin-charlottenburg-rudolf-wissell-bruecke-fahrstreifen-gesperrt.html",
-      "date": "Wed, 07 Oct 2026 22:28:46 +0200"
-    },
-    {
-      "title": "Hamas-Anschlag auf Israel: Gedenken in Berlin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-gedenken-terroranschlag-7-oktober-israel-hamas.html",
-      "date": "Wed, 07 Oct 2026 21:24:39 +0200"
-    },
-    {
-      "title": "Mann nach tödlichem Angriff in Nauener Psychiatrie zu vier Jahren Haft verurteilt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/haft-nauen-havelland-psychiatrie-angriff-toedlich-opfer-klage.html",
-      "date": "Wed, 07 Oct 2026 20:53:25 +0200"
-    },
-    {
-      "title": "Hausdurchsuchung bei Tatverdächtigem nach Fund von Kameras auf Frauentoilette",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-lichtenberg-kameras-frauentoilette-hochschule-hwr.html",
-      "date": "Wed, 07 Oct 2026 18:11:30 +0200"
-    },
-    {
-      "title": "Polizeitaucher entdecken Leiche im Senftenberger See",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-taucher-senftenberger-see-leiche-boot.html",
-      "date": "Wed, 07 Oct 2026 17:52:46 +0200"
-    },
-    {
-      "title": "Langes Haus in Neuhardenberg erhält Nachbarschaftspreis 2026",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/nachbarschaftspreis-neuhardenberg-langes-haus.html",
-      "date": "Wed, 07 Oct 2026 17:47:02 +0200"
-    },
-    {
-      "title": "Kloster Chorin: Landesstiftung soll Betrieb ab 2028 langfristig sichern",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/barnim-kloster-chorin-sicherung-landesstiftung.html",
-      "date": "Wed, 07 Oct 2026 17:06:12 +0200"
-    },
-    {
-      "title": "Tiergartentunnel wegen Personalmangels nur vormittags geöffnet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/personalmangel-tiergartentunnel-gesperrt-nachts-oktober-verkehr.html",
-      "date": "Wed, 07 Oct 2026 16:40:12 +0200"
+      "date": "Thu, 08 Oct 2026 09:04:00 +0200"
     }
   ]
 }
