@@ -1,14 +1,29 @@
 {
   "traffic": [
     {
-      "title": "Hamas-Anschlag auf Israel: Gedenken in Berlin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-gedenken-terroranschlag-7-oktober-israel-hamas.html",
-      "date": "Wed, 07 Oct 2026 21:24:39 +0200"
+      "title": "Kleinflugzeug bei Finowfurt abgestürzt - Pilot tot",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/finowfurt-flugzeug-kleinflugzeug-absturz-pilot-tot.html",
+      "date": "Thu, 08 Oct 2026 00:21:57 +0200"
+    },
+    {
+      "title": "Sieg bei Salzburg: Eisbären ziehen ins CHL-Achtelfinale ein",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/10/eishockey-champions-hockey-league-salzburg-eisbaeren-berlin.html",
+      "date": "Wed, 07 Oct 2026 23:44:33 +0200"
+    },
+    {
+      "title": "Vier Mopedfahrer sterben bei Verkehrsunfall bei Biesenthal",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/schwerer-verkehrsunfall-brandenburg-landkreis-barnim-vier-mopedf.html",
+      "date": "Wed, 07 Oct 2026 23:04:00 +0200"
     },
     {
       "title": "Berlin: Äußere Fahrstreifen der A100 auf Rudolf-Wissell-Brücke gesperrt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/a100-berlin-charlottenburg-rudolf-wissell-bruecke-fahrstreifen-gesperrt.html",
-      "date": "Wed, 07 Oct 2026 21:03:19 +0200"
+      "date": "Wed, 07 Oct 2026 22:28:46 +0200"
+    },
+    {
+      "title": "Hamas-Anschlag auf Israel: Gedenken in Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-gedenken-terroranschlag-7-oktober-israel-hamas.html",
+      "date": "Wed, 07 Oct 2026 21:24:39 +0200"
     },
     {
       "title": "Mann nach tödlichem Angriff in Nauener Psychiatrie zu vier Jahren Haft verurteilt",
@@ -19,11 +34,6 @@
       "title": "Brennendes Auto im Gleisbett - Trams unterbrochen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/verkehrsunfall-berlin-weissensee-brand-tram-unterbrochen.html",
       "date": "Wed, 07 Oct 2026 20:51:20 +0200"
-    },
-    {
-      "title": "Kleinflugzeug bei Finowfurt abgestürzt - Pilot tot",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/finowfurt-flugzeug-kleinflugzeug-absturz-pilot-tot.html",
-      "date": "Wed, 07 Oct 2026 20:50:00 +0200"
     },
     {
       "title": "Alba Berlin schlägt Slavia Prag zum CL-Auftakt deutlich",
@@ -49,16 +59,6 @@
       "title": "Polizeitaucher entdecken Leiche im Senftenberger See",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-taucher-senftenberger-see-leiche-boot.html",
       "date": "Wed, 07 Oct 2026 17:52:46 +0200"
-    },
-    {
-      "title": "Berliner Boxtalent Arminius Rolle: Scheinwerferlicht und Abi-Stress",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/schach-boxen-berlin-arminius-rolle-deutsche-meisterschaft-ses-kampfabend-aschersleben.html",
-      "date": "Wed, 07 Oct 2026 17:12:25 +0200"
-    },
-    {
-      "title": "Kloster Chorin: Landesstiftung soll Betrieb ab 2028 langfristig sichern",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/barnim-kloster-chorin-sicherung-landesstiftung.html",
-      "date": "Wed, 07 Oct 2026 17:06:12 +0200"
     }
   ],
   "police": [
@@ -128,14 +128,24 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Hamas-Anschlag auf Israel: Gedenken in Berlin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-gedenken-terroranschlag-7-oktober-israel-hamas.html",
-      "date": "Wed, 07 Oct 2026 21:24:39 +0200"
+      "title": "Kleinflugzeug bei Finowfurt abgestürzt - Pilot tot",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/finowfurt-flugzeug-kleinflugzeug-absturz-pilot-tot.html",
+      "date": "Thu, 08 Oct 2026 00:21:57 +0200"
+    },
+    {
+      "title": "Vier Mopedfahrer sterben bei Verkehrsunfall bei Biesenthal",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/schwerer-verkehrsunfall-brandenburg-landkreis-barnim-vier-mopedf.html",
+      "date": "Wed, 07 Oct 2026 23:04:00 +0200"
     },
     {
       "title": "Berlin: Äußere Fahrstreifen der A100 auf Rudolf-Wissell-Brücke gesperrt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/a100-berlin-charlottenburg-rudolf-wissell-bruecke-fahrstreifen-gesperrt.html",
-      "date": "Wed, 07 Oct 2026 21:03:19 +0200"
+      "date": "Wed, 07 Oct 2026 22:28:46 +0200"
+    },
+    {
+      "title": "Hamas-Anschlag auf Israel: Gedenken in Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-gedenken-terroranschlag-7-oktober-israel-hamas.html",
+      "date": "Wed, 07 Oct 2026 21:24:39 +0200"
     },
     {
       "title": "Mann nach tödlichem Angriff in Nauener Psychiatrie zu vier Jahren Haft verurteilt",
@@ -146,11 +156,6 @@
       "title": "Brennendes Auto im Gleisbett - Trams unterbrochen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/verkehrsunfall-berlin-weissensee-brand-tram-unterbrochen.html",
       "date": "Wed, 07 Oct 2026 20:51:20 +0200"
-    },
-    {
-      "title": "Kleinflugzeug bei Finowfurt abgestürzt - Pilot tot",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/finowfurt-flugzeug-kleinflugzeug-absturz-pilot-tot.html",
-      "date": "Wed, 07 Oct 2026 20:50:00 +0200"
     },
     {
       "title": "Hausdurchsuchung bei Tatverdächtigem nach Fund von Kameras auf Frauentoilette",
@@ -181,11 +186,6 @@
       "title": "Abkochgebot für Trinkwasser rund um Seelow vollständig aufgehoben",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-seelow-trinkwasser-abkochgebot-aufgehoben.html",
       "date": "Wed, 07 Oct 2026 16:22:30 +0200"
-    },
-    {
-      "title": "Cottbus/Saspow: Erhöhte Werte von Arsen und Nickel im Grundwasser",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/cottbus-arsen-nickel-grundwasser-warnung.html",
-      "date": "Wed, 07 Oct 2026 15:51:00 +0200"
     }
   ]
 }
