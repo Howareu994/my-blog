@@ -1,6 +1,31 @@
 {
   "traffic": [
     {
+      "title": "Barnim: Pkw-Fahrer stößt frontal mit Mopeds zusammen - vier Tote",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/schwerer-verkehrsunfall-brandenburg-landkreis-barnim-vier-mopedf.html",
+      "date": "Thu, 08 Oct 2026 08:43:11 +0200"
+    },
+    {
+      "title": "Berlin: Linke, Grüne und SPD vor Einigung auf Sondierungen",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/linke-gruene-spd-vorsondierung-sondierung-einigung-regierungsbildung.html",
+      "date": "Thu, 08 Oct 2026 08:34:31 +0200"
+    },
+    {
+      "title": "Auto gerät bei Unfall in Gleisbett und brennt aus - zwei Verletzte",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/verkehrsunfall-berlin-weissensee-brand-tram-unterbrochen.html",
+      "date": "Thu, 08 Oct 2026 08:11:47 +0200"
+    },
+    {
+      "title": "Neue Straßenbahn-Linie M20 in Berlin: Wo und wann sie fahren soll",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/neue-strassenbahn-linie-m20-tram-berlin.html",
+      "date": "Thu, 08 Oct 2026 07:40:21 +0200"
+    },
+    {
+      "title": "Literaturnobelpreis entscheidet, wen wir sofort lesen wollen",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/10/nobelpreis-literatur-buchhandel-berlin-mitte-effekt-uebersetzung-buecher-verfuegbarkeit.html",
+      "date": "Thu, 08 Oct 2026 06:34:00 +0200"
+    },
+    {
       "title": "Kleinflugzeug bei Finowfurt abgestürzt - Pilot tot",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/finowfurt-flugzeug-kleinflugzeug-absturz-pilot-tot.html",
       "date": "Thu, 08 Oct 2026 00:21:57 +0200"
@@ -9,11 +34,6 @@
       "title": "Sieg bei Salzburg: Eisbären ziehen ins CHL-Achtelfinale ein",
       "link": "https://www.rbb24.de/sport/beitrag/2026/10/eishockey-champions-hockey-league-salzburg-eisbaeren-berlin.html",
       "date": "Wed, 07 Oct 2026 23:44:33 +0200"
-    },
-    {
-      "title": "Vier Mopedfahrer sterben bei Verkehrsunfall bei Biesenthal",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/schwerer-verkehrsunfall-brandenburg-landkreis-barnim-vier-mopedf.html",
-      "date": "Wed, 07 Oct 2026 23:04:00 +0200"
     },
     {
       "title": "Berlin: Äußere Fahrstreifen der A100 auf Rudolf-Wissell-Brücke gesperrt",
@@ -31,34 +51,14 @@
       "date": "Wed, 07 Oct 2026 20:53:25 +0200"
     },
     {
-      "title": "Brennendes Auto im Gleisbett - Trams unterbrochen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/verkehrsunfall-berlin-weissensee-brand-tram-unterbrochen.html",
-      "date": "Wed, 07 Oct 2026 20:51:20 +0200"
-    },
-    {
       "title": "Alba Berlin schlägt Slavia Prag zum CL-Auftakt deutlich",
       "link": "https://www.rbb24.de/sport/beitrag/2026/10/basketball-champions-league-alba-berlin-besiegt-slavia-prag.html",
       "date": "Wed, 07 Oct 2026 20:45:44 +0200"
     },
     {
-      "title": "Linke, Grüne und SPD beenden Vorgespräche zu Sondierungen ohne Ergebnis",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/linke-gruene-spd-vorgespraech-sondierung-antisemitismus.html",
-      "date": "Wed, 07 Oct 2026 19:07:45 +0200"
-    },
-    {
       "title": "Berlin: Robbie Williams kommt 2027 zum Lollapalooza-Festival",
       "link": "https://www.rbb24.de/kultur/beitrag/2026/10/berlin-robbie-williams-lollapalooza-festival-2027-the-neighbourhood-sombre.html",
       "date": "Wed, 07 Oct 2026 18:24:34 +0200"
-    },
-    {
-      "title": "Hausdurchsuchung bei Tatverdächtigem nach Fund von Kameras auf Frauentoilette",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-lichtenberg-kameras-frauentoilette-hochschule-hwr.html",
-      "date": "Wed, 07 Oct 2026 18:11:30 +0200"
-    },
-    {
-      "title": "Polizeitaucher entdecken Leiche im Senftenberger See",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-taucher-senftenberger-see-leiche-boot.html",
-      "date": "Wed, 07 Oct 2026 17:52:46 +0200"
     }
   ],
   "police": [
@@ -128,14 +128,24 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Barnim: Pkw-Fahrer stößt frontal mit Mopeds zusammen - vier Tote",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/schwerer-verkehrsunfall-brandenburg-landkreis-barnim-vier-mopedf.html",
+      "date": "Thu, 08 Oct 2026 08:43:11 +0200"
+    },
+    {
+      "title": "Auto gerät bei Unfall in Gleisbett und brennt aus - zwei Verletzte",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/verkehrsunfall-berlin-weissensee-brand-tram-unterbrochen.html",
+      "date": "Thu, 08 Oct 2026 08:11:47 +0200"
+    },
+    {
+      "title": "Neue Straßenbahn-Linie M20 in Berlin: Wo und wann sie fahren soll",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/neue-strassenbahn-linie-m20-tram-berlin.html",
+      "date": "Thu, 08 Oct 2026 07:40:21 +0200"
+    },
+    {
       "title": "Kleinflugzeug bei Finowfurt abgestürzt - Pilot tot",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/finowfurt-flugzeug-kleinflugzeug-absturz-pilot-tot.html",
       "date": "Thu, 08 Oct 2026 00:21:57 +0200"
-    },
-    {
-      "title": "Vier Mopedfahrer sterben bei Verkehrsunfall bei Biesenthal",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/schwerer-verkehrsunfall-brandenburg-landkreis-barnim-vier-mopedf.html",
-      "date": "Wed, 07 Oct 2026 23:04:00 +0200"
     },
     {
       "title": "Berlin: Äußere Fahrstreifen der A100 auf Rudolf-Wissell-Brücke gesperrt",
@@ -151,11 +161,6 @@
       "title": "Mann nach tödlichem Angriff in Nauener Psychiatrie zu vier Jahren Haft verurteilt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/haft-nauen-havelland-psychiatrie-angriff-toedlich-opfer-klage.html",
       "date": "Wed, 07 Oct 2026 20:53:25 +0200"
-    },
-    {
-      "title": "Brennendes Auto im Gleisbett - Trams unterbrochen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/verkehrsunfall-berlin-weissensee-brand-tram-unterbrochen.html",
-      "date": "Wed, 07 Oct 2026 20:51:20 +0200"
     },
     {
       "title": "Hausdurchsuchung bei Tatverdächtigem nach Fund von Kameras auf Frauentoilette",
@@ -181,11 +186,6 @@
       "title": "Tiergartentunnel wegen Personalmangels nur vormittags geöffnet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/personalmangel-tiergartentunnel-gesperrt-nachts-oktober-verkehr.html",
       "date": "Wed, 07 Oct 2026 16:40:12 +0200"
-    },
-    {
-      "title": "Abkochgebot für Trinkwasser rund um Seelow vollständig aufgehoben",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-seelow-trinkwasser-abkochgebot-aufgehoben.html",
-      "date": "Wed, 07 Oct 2026 16:22:30 +0200"
     }
   ]
 }
