@@ -1,14 +1,24 @@
 {
   "traffic": [
     {
+      "title": "Großeinsatz der Polizei in Velten - Mann festgenommen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/polizei-grosseinsatz-velten-gefahrenlage.html",
+      "date": "Fri, 09 Oct 2026 01:32:55 +0200"
+    },
+    {
+      "title": "Influencer im Olympiastadion: Auch Hertha verbietet Stadionvlogs",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-2-bundesliga-vlogs-vlogger-hertha-bsc-olympiastadion.html",
+      "date": "Thu, 08 Oct 2026 22:36:34 +0200"
+    },
+    {
+      "title": "Champions League: Füchse-Star Gidsel feiert Torrekord gegen Porto",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/10/handball-champions-league-hinrunde-fuechse-berlin-fc-porto.html",
+      "date": "Thu, 08 Oct 2026 22:28:34 +0200"
+    },
+    {
       "title": "Barnim: Vier Jugendliche sterben bei Kollision von Pkw mit Mopeds",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-barnim-biesenthal-verkehr-zusammenstoss-mopeds-tote.html",
       "date": "Thu, 08 Oct 2026 21:27:12 +0200"
-    },
-    {
-      "title": "Handball Champions League: Füchse-Star Gidsel überragt gegen Porto",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/handball-champions-league-hinrunde-fuechse-berlin-fc-porto.html",
-      "date": "Thu, 08 Oct 2026 21:23:36 +0200"
     },
     {
       "title": "Sondierungsgespräche: Die rot-grün-rote Theorie steht, jetzt kommt der Praxis-Test",
@@ -49,11 +59,6 @@
       "title": "Berlin: Unbekannte werfen Pyrotechnik in Neuköllner Wohnung",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-neukoelln-polizei-pyrotechnik-wurf-wohnung.html",
       "date": "Thu, 08 Oct 2026 16:25:23 +0200"
-    },
-    {
-      "title": "Fußball: Unionerinnen siegen gegen Turbine Potsdam",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-testspiel-union-berlin-turbine-potsdam.html",
-      "date": "Thu, 08 Oct 2026 16:23:16 +0200"
     }
   ],
   "police": [
@@ -123,6 +128,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Großeinsatz der Polizei in Velten - Mann festgenommen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/polizei-grosseinsatz-velten-gefahrenlage.html",
+      "date": "Fri, 09 Oct 2026 01:32:55 +0200"
+    },
+    {
       "title": "Barnim: Vier Jugendliche sterben bei Kollision von Pkw mit Mopeds",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-barnim-biesenthal-verkehr-zusammenstoss-mopeds-tote.html",
       "date": "Thu, 08 Oct 2026 21:27:12 +0200"
@@ -176,11 +186,6 @@
       "title": "Bahnverkehr: Neue Fahrpläne für Berlin und Brandenburg – das kommt auf Fahrgäste zu",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-brandenburg-bahn-fahrplanwechsel-zuege-bahnverkehr.html",
       "date": "Thu, 08 Oct 2026 15:16:35 +0200"
-    },
-    {
-      "title": "Millionen-Coup in Strausberg: Schließfach-Besitzer klagen gegen Sparkasse",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/strausberg-maerkisch-oderland-sparkassen-einbruch-zivilprozess.html",
-      "date": "Thu, 08 Oct 2026 14:01:25 +0200"
     }
   ]
 }
