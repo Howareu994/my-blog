@@ -1,14 +1,29 @@
 {
   "traffic": [
     {
+      "title": "Sommerbad Spandau Süd: Sanierung startet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/sanierung-kombibad-spandau-sued-berliner-baederbetriebe.html",
+      "date": "Fri, 09 Oct 2026 08:52:10 +0200"
+    },
+    {
+      "title": "Jugendliche im Barnim gestorben: Polizei ermittelt gegen Autofahrer",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/jugendliche-tot-unfall-biesenthal-ermittlungen-polizei.html",
+      "date": "Fri, 09 Oct 2026 08:39:18 +0200"
+    },
+    {
+      "title": "Festival of Lights startet in Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/festival-of-lights-berlin-licht-installation-sehenswuerdigkeiten.html",
+      "date": "Fri, 09 Oct 2026 08:09:16 +0200"
+    },
+    {
+      "title": "Regenbogenbank im Berliner Tiergarten: Symbol eines \"Kulturkampfes\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-tiergarten-csd-anschlag-regenbogenbank-baum-gedenkort-beschaedigung.html",
+      "date": "Fri, 09 Oct 2026 07:42:56 +0200"
+    },
+    {
       "title": "Großeinsatz der Polizei in Velten - Mann festgenommen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/polizei-grosseinsatz-velten-gefahrenlage.html",
       "date": "Fri, 09 Oct 2026 01:32:55 +0200"
-    },
-    {
-      "title": "Influencer im Olympiastadion: Auch Hertha verbietet Stadionvlogs",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-2-bundesliga-vlogs-vlogger-hertha-bsc-olympiastadion.html",
-      "date": "Thu, 08 Oct 2026 22:36:34 +0200"
     },
     {
       "title": "Champions League: Füchse-Star Gidsel feiert Torrekord gegen Porto",
@@ -31,11 +46,6 @@
       "date": "Thu, 08 Oct 2026 19:43:16 +0200"
     },
     {
-      "title": "Re-Start der 2. Bundesliga: Cottbus reist zu Schlusslicht Darmstadt",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-zweite-bundesliga-darmstadt-energie-cottbus-vorbericht.html",
-      "date": "Thu, 08 Oct 2026 19:38:38 +0200"
-    },
-    {
       "title": "Linke, Grüne und SPD einigen sich auf Sondierungsgespräche",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/linke-gruene-spd-vorsondierung-sondierung-einigung-regierungsbildung.html",
       "date": "Thu, 08 Oct 2026 18:31:54 +0200"
@@ -46,22 +56,17 @@
       "date": "Thu, 08 Oct 2026 18:20:38 +0200"
     },
     {
-      "title": "Wachsfigurenkabinett: Madame Tussauds stellt Döner aus Wachs vor",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-madame-tussauds-wachs-doener-ausstellung.html",
-      "date": "Thu, 08 Oct 2026 16:43:12 +0200"
-    },
-    {
-      "title": "Cyberangriff legt Webseiten der Brandenburger Gedenkstätten lahm",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-stiftung-brandenburgische-gedenkstaetten-cyberattacke.html",
-      "date": "Thu, 08 Oct 2026 16:28:20 +0200"
-    },
-    {
-      "title": "Berlin: Unbekannte werfen Pyrotechnik in Neuköllner Wohnung",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-neukoelln-polizei-pyrotechnik-wurf-wohnung.html",
-      "date": "Thu, 08 Oct 2026 16:25:23 +0200"
+      "title": "Jugendgewalt in Potsdam: Polizei nimmt mutmaßliche Hauptakteure fest",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/gewalt-jugend-jugendgruppe-potsdam-polizei-krankenhaus-festnahme.html",
+      "date": "Thu, 08 Oct 2026 17:01:23 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Seniorin betrogen – Wer erkennt den Tatverdächtigen?",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723337.php",
+      "date": "Fri, 09 Oct 2026 07:45:09 +0200"
+    },
     {
       "title": "Autofahrer verursacht mehrere Verkehrsunfälle mit hohem Sachschaden",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723273.php",
@@ -116,17 +121,32 @@
       "title": "18-Jähriger soll Reizgas in Schule versprüht haben",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721976.php",
       "date": "Tue, 06 Oct 2026 13:23:41 +0200"
-    },
-    {
-      "title": "Mögliches Tötungsdelikt - Festnahme",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721932.php",
-      "date": "Tue, 06 Oct 2026 12:53:09 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Sommerbad Spandau Süd: Sanierung startet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/sanierung-kombibad-spandau-sued-berliner-baederbetriebe.html",
+      "date": "Fri, 09 Oct 2026 08:52:10 +0200"
+    },
+    {
+      "title": "Jugendliche im Barnim gestorben: Polizei ermittelt gegen Autofahrer",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/jugendliche-tot-unfall-biesenthal-ermittlungen-polizei.html",
+      "date": "Fri, 09 Oct 2026 08:39:18 +0200"
+    },
+    {
+      "title": "Festival of Lights startet in Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/festival-of-lights-berlin-licht-installation-sehenswuerdigkeiten.html",
+      "date": "Fri, 09 Oct 2026 08:09:16 +0200"
+    },
+    {
+      "title": "Regenbogenbank im Berliner Tiergarten: Symbol eines \"Kulturkampfes\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-tiergarten-csd-anschlag-regenbogenbank-baum-gedenkort-beschaedigung.html",
+      "date": "Fri, 09 Oct 2026 07:42:56 +0200"
+    },
     {
       "title": "Großeinsatz der Polizei in Velten - Mann festgenommen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/polizei-grosseinsatz-velten-gefahrenlage.html",
@@ -166,26 +186,6 @@
       "title": "Cyberangriff legt Webseiten der Brandenburger Gedenkstätten lahm",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-stiftung-brandenburgische-gedenkstaetten-cyberattacke.html",
       "date": "Thu, 08 Oct 2026 16:28:20 +0200"
-    },
-    {
-      "title": "Berlin: Unbekannte werfen Pyrotechnik in Neuköllner Wohnung",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-neukoelln-polizei-pyrotechnik-wurf-wohnung.html",
-      "date": "Thu, 08 Oct 2026 16:25:23 +0200"
-    },
-    {
-      "title": "Trinkwasserversorgung in vielen Zossener Ortsteilen wieder hergestellt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/zossen-trinkwasser-versorgung-rohrbruch-wasserwagen-teltow-flaeming.html",
-      "date": "Thu, 08 Oct 2026 15:44:04 +0200"
-    },
-    {
-      "title": "Vom Aussterben bedrohte Sprache: Erstmals starten Lehramtsstudenten für Niedersorbisch an BTU Cottbus-Senftenberg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-btu-cottbus-senftenberg-start-studium-sorbisch-wendisch-lehrer.html",
-      "date": "Thu, 08 Oct 2026 15:26:50 +0200"
-    },
-    {
-      "title": "Bahnverkehr: Neue Fahrpläne für Berlin und Brandenburg – das kommt auf Fahrgäste zu",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-brandenburg-bahn-fahrplanwechsel-zuege-bahnverkehr.html",
-      "date": "Thu, 08 Oct 2026 15:16:35 +0200"
     }
   ]
 }
