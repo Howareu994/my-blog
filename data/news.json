@@ -1,19 +1,29 @@
 {
   "traffic": [
     {
-      "title": "Erster Saisonsieg:  Burcu erlöst Union spät gegen Elversberg",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-bundesliga-union-berlin-sv-elversberg-audio-livestream-liveticker-spielbericht.html",
-      "date": "Sat, 10 Oct 2026 17:52:54 +0200"
+      "title": "Basketball-Bundesliga: Alba Berlin verliert in Trier",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/10/basketball-bbl-bundesliga-gladiators-trier-alba-berlin-spielbericht-ergebnis.html",
+      "date": "Sat, 10 Oct 2026 22:13:09 +0200"
+    },
+    {
+      "title": "Basketball-Bundesliga: Alba-Frauen gewinnen klar in Herne",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/10/basketball-dbbl-bundesliga-herner-tc-alba-berlin-2-spieltag-ergebnis.html",
+      "date": "Sat, 10 Oct 2026 20:36:30 +0200"
+    },
+    {
+      "title": "Tausende ziehen bei Palästina-Demo durch Berliner Regierungsviertel",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-demo-pro-palaestina-gaza-israel.html",
+      "date": "Sat, 10 Oct 2026 19:39:27 +0200"
+    },
+    {
+      "title": "Hunderte Menschen protestieren in Potsdam gegen zu hohe Mieten",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/potsdam-protest-demo-hohe-mieten-wohnungsmarkt-aubel.html",
+      "date": "Sat, 10 Oct 2026 19:01:17 +0200"
     },
     {
       "title": "Tausende Menschen demonstrieren als \"M1llion\" gegen Regierungspolitik",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-projekt-m1llion-demo-bundespolitik-regierung-frieden-krieg.html",
       "date": "Sat, 10 Oct 2026 17:51:22 +0200"
-    },
-    {
-      "title": "Hunderte Menschen protestieren in Potsdam gegen zu hohe Mieten",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/potsdam-protest-demo-hohe-mieten-wohnungsmarkt-aubel.html",
-      "date": "Sat, 10 Oct 2026 17:19:13 +0200"
     },
     {
       "title": "Regionalliga Nordost: Ndi-Treffer reicht Hertha II nicht zum Sieg",
@@ -49,16 +59,6 @@
       "title": "Mehrere tausend Menschen demonstrieren gegen Energie-Reform",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/10/berlin-demo-gegen-energie-reform-erneuerbar-unverzichtbar.html",
       "date": "Sat, 10 Oct 2026 11:05:25 +0200"
-    },
-    {
-      "title": "Berliner S-Bahn: Westliche Ringbahn an diesem Wochenende gesperrt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-sperrung-ringbahn-s-bahn-bauarbeiten.html",
-      "date": "Sat, 10 Oct 2026 10:56:12 +0200"
-    },
-    {
-      "title": "Warum ein Paar in Potsdam trotz festem Einkommen keine passende Wohnung findet",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/10/miete-wohnen-potsdam-demonstration.html",
-      "date": "Sat, 10 Oct 2026 07:19:00 +0200"
     }
   ],
   "police": [
@@ -128,14 +128,19 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Tausende Menschen demonstrieren als \"M1llion\" gegen Regierungspolitik",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-projekt-m1llion-demo-bundespolitik-regierung-frieden-krieg.html",
-      "date": "Sat, 10 Oct 2026 17:51:22 +0200"
+      "title": "Tausende ziehen bei Palästina-Demo durch Berliner Regierungsviertel",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-demo-pro-palaestina-gaza-israel.html",
+      "date": "Sat, 10 Oct 2026 19:39:27 +0200"
     },
     {
       "title": "Hunderte Menschen protestieren in Potsdam gegen zu hohe Mieten",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/potsdam-protest-demo-hohe-mieten-wohnungsmarkt-aubel.html",
-      "date": "Sat, 10 Oct 2026 17:19:13 +0200"
+      "date": "Sat, 10 Oct 2026 19:01:17 +0200"
+    },
+    {
+      "title": "Tausende Menschen demonstrieren als \"M1llion\" gegen Regierungspolitik",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-projekt-m1llion-demo-bundespolitik-regierung-frieden-krieg.html",
+      "date": "Sat, 10 Oct 2026 17:51:22 +0200"
     },
     {
       "title": "Mutmaßlich antisemitisch motivierte Angriffe auf Ladenbesitzer in Kreuzberg",
@@ -160,7 +165,7 @@
     {
       "title": "Kausche: Wenn ein ganzes Dorf verschwindet und neu aufgebaut wird",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-kausche-30-jahre-umsiedlung-tagebau-kohle.html",
-      "date": "Sat, 10 Oct 2026 07:10:39 +0200"
+      "date": "Sat, 10 Oct 2026 07:10:00 +0200"
     },
     {
       "title": "Brand in leerstehendem Schweinestall in Lübben unter Kontrolle",
@@ -181,11 +186,6 @@
       "title": "Mutmaßlicher Reizgas-Vorfall in Grundschule in Frankfurt (Oder)",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/frankfurt-oder-grundschule-reizgas-verletzte-evakuierung.html",
       "date": "Fri, 09 Oct 2026 15:19:07 +0200"
-    },
-    {
-      "title": "Mehrere Schüsse auf Einfamilienhaus in Berlin-Rudow abgegeben",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-rudow-schuesse-einfamilienhaus.html",
-      "date": "Fri, 09 Oct 2026 14:12:48 +0200"
     }
   ]
 }
