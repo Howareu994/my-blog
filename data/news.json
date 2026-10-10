@@ -1,6 +1,51 @@
 {
   "traffic": [
     {
+      "title": "Rot-schwarze Regierung gegen \"Bürokratiemonster\" Verpackungssteuer",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/10/brandenburg-verpackungssteuer-landtag-potsdam-keine-ausweitung.html",
+      "date": "Sat, 10 Oct 2026 11:50:32 +0200"
+    },
+    {
+      "title": "Sondierung in Berlin: Brandenburger Parteien zwischen Ablehnung und Zuversicht",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/brandenburg-parteien-reaktion-kritik-sondierungen-gespraeche-berlin.html",
+      "date": "Sat, 10 Oct 2026 11:37:32 +0200"
+    },
+    {
+      "title": "Frau wird in Berlin von Lkw angefahren und stirbt – Fahrer flüchtet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-wedding-frau-stirbt-nach-unfall-polizei-vermutet-fahrerflucht.html",
+      "date": "Sat, 10 Oct 2026 11:24:25 +0200"
+    },
+    {
+      "title": "Mehrere tausend Menschen demonstrieren gegen Energie-Reform",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/10/berlin-demo-gegen-energie-reform-erneuerbar-unverzichtbar.html",
+      "date": "Sat, 10 Oct 2026 11:05:25 +0200"
+    },
+    {
+      "title": "Berliner S-Bahn: Westliche Ringbahn an diesem Wochenende gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-sperrung-ringbahn-s-bahn-bauarbeiten.html",
+      "date": "Sat, 10 Oct 2026 10:56:12 +0200"
+    },
+    {
+      "title": "Mehrere Menschen bei Auseinandersetzung in Berlin-Tiergarten verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-tiergarten-mehrere-verletzte-personen-streit.html",
+      "date": "Sat, 10 Oct 2026 08:10:26 +0200"
+    },
+    {
+      "title": "Warum ein Paar in Potsdam trotz festem Einkommen keine passende Wohnung findet",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/10/miete-wohnen-potsdam-demonstration.html",
+      "date": "Sat, 10 Oct 2026 07:19:00 +0200"
+    },
+    {
+      "title": "Bilderserie: 30 Jahre nach Abbaggerung von Kausche",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/bildergalerie-abbaggerung-brandenburg-spree-neisse-kausche-30-jahre.html",
+      "date": "Sat, 10 Oct 2026 07:12:00 +0200"
+    },
+    {
+      "title": "Kausche: Wenn ein ganzes Dorf verschwindet und neu aufgebaut wird",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-kausche-30-jahre-umsiedlung-tagebau-kohle.html",
+      "date": "Sat, 10 Oct 2026 07:10:39 +0200"
+    },
+    {
       "title": "5:0 gegen Wolfsburg: Eisbären Berlin neuer DEL-Spitzenreiter",
       "link": "https://www.rbb24.de/sport/beitrag/2026/10/eishockey-del-eisbaeren-berlin-wolfsburg.html",
       "date": "Fri, 09 Oct 2026 22:14:24 +0200"
@@ -14,54 +59,19 @@
       "title": "Brand in leerstehendem Schweinestall in Lübben unter Kontrolle",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/gross-brand-schweinestall-luebben.html",
       "date": "Fri, 09 Oct 2026 21:16:47 +0200"
-    },
-    {
-      "title": "“Bürokratiemonster”: Rot-Schwarz stemmt sich gegen Verpackungssteuer",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/10/brandenburg-verpackungssteuer-landtag-potsdam-keine-ausweitung.html",
-      "date": "Fri, 09 Oct 2026 20:33:06 +0200"
-    },
-    {
-      "title": "Schüsse in Schöneberg – zwei Personen verletzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-schoeneberg-schuesse-polizeieinsatz.html",
-      "date": "Fri, 09 Oct 2026 20:31:32 +0200"
-    },
-    {
-      "title": "Zwei Jahre seit Inkrafttreten: Wie Brandenburg das Mobilitätsgesetz (nicht) umsetzt",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/10/brandenburg-mobilitaetsgesetz-umsetzung-klimaneutraler-verkehr-bus-probleme.html",
-      "date": "Fri, 09 Oct 2026 20:04:14 +0200"
-    },
-    {
-      "title": "Sondierungen zur Regierungsbildung: Widerstand gegen rot-grün-rote Antisemitismus-Vereinbarung",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/10/berlin-antisemitismus-vereinbarung-rot-gruen-rot-widerstand.html",
-      "date": "Fri, 09 Oct 2026 19:18:04 +0200"
-    },
-    {
-      "title": "Hertha vor Fürth: Wiesn-Sieger und ein offenes Rennen im Sturm",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-zweite-bundesliga-vorbericht-hertha-bsc-greuther-fuerth-leitl-sieges-serie-laenderspielpause-spitzenreiter.html",
-      "date": "Fri, 09 Oct 2026 19:08:13 +0200"
-    },
-    {
-      "title": "Gericht: \"Europacity\"-Eigentümer muss Sozialwohnungen anbieten",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/10/berlin-europacity-sozialwohnungen-verwaltungsgericht.html",
-      "date": "Fri, 09 Oct 2026 18:58:10 +0200"
-    },
-    {
-      "title": "Union gegen Elversberg unter Druck: \"Großer Wille\" nach \"guter Pause\"",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-bundesliga-vorbericht-union-berlin-sv-elversberg-lustrinelli-druck-krise.html",
-      "date": "Fri, 09 Oct 2026 18:45:09 +0200"
-    },
-    {
-      "title": "Jugendliche im Barnim gestorben: Polizei ermittelt gegen Autofahrer",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/jugendliche-tot-unfall-biesenthal-ermittlungen-polizei.html",
-      "date": "Fri, 09 Oct 2026 17:47:25 +0200"
-    },
-    {
-      "title": "AfD-Fest in Fürstenwalde: Staatsschutz und Polizei ermitteln",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/10/ermittlungen-afd-fest-fuerstenwalde-polizei-staatsschutz.html",
-      "date": "Fri, 09 Oct 2026 16:51:04 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Frau wird von Sattelzug angefahren und tödlich verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723869.php",
+      "date": "Sat, 10 Oct 2026 11:11:46 +0200"
+    },
+    {
+      "title": "Aus mutmaßlich antisemitischen Gründen wiederholt beleidigt und angegriffen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723867.php",
+      "date": "Sat, 10 Oct 2026 10:39:40 +0200"
+    },
     {
       "title": "Schüsse auf Einfamilienhaus",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1723617.php",
@@ -111,22 +121,32 @@
       "title": "Nach Fund von Kameras in Damentoiletten – Durchsuchung bei Tatverdächtigem",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1722613.php",
       "date": "Wed, 07 Oct 2026 14:37:00 +0200"
-    },
-    {
-      "title": "Kind fällt aus dem Fenster – Mann fängt es auf",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1722584.php",
-      "date": "Wed, 07 Oct 2026 14:15:23 +0200"
-    },
-    {
-      "title": "Seniorin angefahren und geflüchtet",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1722571.php",
-      "date": "Wed, 07 Oct 2026 14:05:26 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Frau wird in Berlin von Lkw angefahren und stirbt – Fahrer flüchtet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-wedding-frau-stirbt-nach-unfall-polizei-vermutet-fahrerflucht.html",
+      "date": "Sat, 10 Oct 2026 11:24:25 +0200"
+    },
+    {
+      "title": "Berliner S-Bahn: Westliche Ringbahn an diesem Wochenende gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-sperrung-ringbahn-s-bahn-bauarbeiten.html",
+      "date": "Sat, 10 Oct 2026 10:56:12 +0200"
+    },
+    {
+      "title": "Mehrere Menschen bei Auseinandersetzung in Berlin-Tiergarten verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-tiergarten-mehrere-verletzte-personen-streit.html",
+      "date": "Sat, 10 Oct 2026 08:10:26 +0200"
+    },
+    {
+      "title": "Kausche: Wenn ein ganzes Dorf verschwindet und neu aufgebaut wird",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-kausche-30-jahre-umsiedlung-tagebau-kohle.html",
+      "date": "Sat, 10 Oct 2026 07:10:39 +0200"
+    },
     {
       "title": "Brand in leerstehendem Schweinestall in Lübben unter Kontrolle",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/gross-brand-schweinestall-luebben.html",
@@ -158,11 +178,6 @@
       "date": "Fri, 09 Oct 2026 13:46:58 +0200"
     },
     {
-      "title": "Frau stirbt nach Unfall in Berlin-Wedding - Polizei vermutet Fahrerflucht",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-wedding-frau-stirbt-nach-unfall-polizei-vermutet-fahrerflucht.html",
-      "date": "Fri, 09 Oct 2026 13:44:25 +0200"
-    },
-    {
       "title": "Festival of Lights startet in Berlin",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/festival-of-lights-berlin-licht-installation-sehenswuerdigkeiten.html",
       "date": "Fri, 09 Oct 2026 12:30:17 +0200"
@@ -171,21 +186,6 @@
       "title": "Sommerbad Spandau Süd: Sanierung startet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/sanierung-kombibad-spandau-sued-berliner-baederbetriebe.html",
       "date": "Fri, 09 Oct 2026 10:51:47 +0200"
-    },
-    {
-      "title": "Trinkwasserversorgung in Zossen wiederhergestellt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/zossen-trinkwasser-versorgung-rohrbruch-wasserwagen-teltow-flaeming.html",
-      "date": "Fri, 09 Oct 2026 10:38:47 +0200"
-    },
-    {
-      "title": "Großeinsatz der Polizei in Velten - Mann festgenommen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/polizei-grosseinsatz-velten-gefahrenlage.html",
-      "date": "Fri, 09 Oct 2026 10:22:15 +0200"
-    },
-    {
-      "title": "CSD-Anschlag: Regenbogenbank im Tiergarten immer wieder beschädigt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-tiergarten-csd-anschlag-regenbogenbank-baum-gedenkort-beschaedigung.html",
-      "date": "Fri, 09 Oct 2026 07:42:00 +0200"
     }
   ]
 }
