@@ -1,6 +1,36 @@
 {
   "traffic": [
     {
+      "title": "Erster Saisonsieg:  Burcu erlöst Union spät gegen Elversberg",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-bundesliga-union-berlin-sv-elversberg-audio-livestream-liveticker-spielbericht.html",
+      "date": "Sat, 10 Oct 2026 17:52:54 +0200"
+    },
+    {
+      "title": "Tausende Menschen demonstrieren als \"M1llion\" gegen Regierungspolitik",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-projekt-m1llion-demo-bundespolitik-regierung-frieden-krieg.html",
+      "date": "Sat, 10 Oct 2026 17:51:22 +0200"
+    },
+    {
+      "title": "Hunderte Menschen protestieren in Potsdam gegen zu hohe Mieten",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/potsdam-protest-demo-hohe-mieten-wohnungsmarkt-aubel.html",
+      "date": "Sat, 10 Oct 2026 17:19:13 +0200"
+    },
+    {
+      "title": "Regionalliga Nordost: Ndi-Treffer reicht Hertha II nicht zum Sieg",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-regionalliga-nordost-bfc-preussen-hertha-bsc-amateure-spielbericht.html",
+      "date": "Sat, 10 Oct 2026 17:11:12 +0200"
+    },
+    {
+      "title": "Mutmaßlich antisemitisch motivierte Angriffe auf Ladenbesitzer in Kreuzberg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-kreuzberg-angriffe-jugendliche-geschaeft-inhaber-rollstuhl.html",
+      "date": "Sat, 10 Oct 2026 16:24:42 +0200"
+    },
+    {
+      "title": "Gruppe schlägt vor Club auf Bewusstlosen ein – fünf Festnahmen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-tiergarten-mehrere-verletzte-personen-streit.html",
+      "date": "Sat, 10 Oct 2026 15:43:06 +0200"
+    },
+    {
       "title": "Rot-schwarze Regierung gegen \"Bürokratiemonster\" Verpackungssteuer",
       "link": "https://www.rbb24.de/politik/beitrag/2026/10/brandenburg-verpackungssteuer-landtag-potsdam-keine-ausweitung.html",
       "date": "Sat, 10 Oct 2026 11:50:32 +0200"
@@ -26,42 +56,37 @@
       "date": "Sat, 10 Oct 2026 10:56:12 +0200"
     },
     {
-      "title": "Mehrere Menschen bei Auseinandersetzung in Berlin-Tiergarten verletzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-tiergarten-mehrere-verletzte-personen-streit.html",
-      "date": "Sat, 10 Oct 2026 08:10:26 +0200"
-    },
-    {
       "title": "Warum ein Paar in Potsdam trotz festem Einkommen keine passende Wohnung findet",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/10/miete-wohnen-potsdam-demonstration.html",
       "date": "Sat, 10 Oct 2026 07:19:00 +0200"
-    },
-    {
-      "title": "Bilderserie: 30 Jahre nach Abbaggerung von Kausche",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/bildergalerie-abbaggerung-brandenburg-spree-neisse-kausche-30-jahre.html",
-      "date": "Sat, 10 Oct 2026 07:12:00 +0200"
-    },
-    {
-      "title": "Kausche: Wenn ein ganzes Dorf verschwindet und neu aufgebaut wird",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-kausche-30-jahre-umsiedlung-tagebau-kohle.html",
-      "date": "Sat, 10 Oct 2026 07:10:39 +0200"
-    },
-    {
-      "title": "5:0 gegen Wolfsburg: Eisbären Berlin neuer DEL-Spitzenreiter",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/eishockey-del-eisbaeren-berlin-wolfsburg.html",
-      "date": "Fri, 09 Oct 2026 22:14:24 +0200"
-    },
-    {
-      "title": "Regionalliga Nordost: Altglienicke verliert gegen den BFC",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-regionalliga-nordost-altglienicke-bfc-dynamo-zwickau-tasmania-chemie-leipzig-luckenwalde.html",
-      "date": "Fri, 09 Oct 2026 21:38:44 +0200"
-    },
-    {
-      "title": "Brand in leerstehendem Schweinestall in Lübben unter Kontrolle",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/gross-brand-schweinestall-luebben.html",
-      "date": "Fri, 09 Oct 2026 21:16:47 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Auseinandersetzung zwischen zwei Männergruppen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723882.php",
+      "date": "Sat, 10 Oct 2026 14:56:29 +0200"
+    },
+    {
+      "title": "Fahrradfahrerin bei Verkehrsunfall verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723880.php",
+      "date": "Sat, 10 Oct 2026 14:53:08 +0200"
+    },
+    {
+      "title": "Jugendlicher fährt gegen wartendes Auto und verletzt sich am Kopf",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723879.php",
+      "date": "Sat, 10 Oct 2026 14:44:43 +0200"
+    },
+    {
+      "title": "Mann durch Messerstiche verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723875.php",
+      "date": "Sat, 10 Oct 2026 12:59:00 +0200"
+    },
+    {
+      "title": "Einsatzwagen der Polizei geriet ins Schlingern",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723873.php",
+      "date": "Sat, 10 Oct 2026 12:44:50 +0200"
+    },
     {
       "title": "Frau wird von Sattelzug angefahren und tödlich verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723869.php",
@@ -96,37 +121,32 @@
       "title": "Drei Fahrzeuge auf Parkplatz in Brand geraten",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723186.php",
       "date": "Thu, 08 Oct 2026 15:34:18 +0200"
-    },
-    {
-      "title": "Radfahrer von Lkw-Fahrer angefahren",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723117.php",
-      "date": "Thu, 08 Oct 2026 14:53:46 +0200"
-    },
-    {
-      "title": "Versuchte schwere Brandstiftung",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723003.php",
-      "date": "Thu, 08 Oct 2026 13:19:48 +0200"
-    },
-    {
-      "title": "Einsatzkräfte mit Steinen und Pyrotechnik angegriffen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1722985.php",
-      "date": "Thu, 08 Oct 2026 13:01:57 +0200"
-    },
-    {
-      "title": "Fußgänger verstorben",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713418.php",
-      "date": "Wed, 07 Oct 2026 14:40:00 +0200"
-    },
-    {
-      "title": "Nach Fund von Kameras in Damentoiletten – Durchsuchung bei Tatverdächtigem",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1722613.php",
-      "date": "Wed, 07 Oct 2026 14:37:00 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Tausende Menschen demonstrieren als \"M1llion\" gegen Regierungspolitik",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-projekt-m1llion-demo-bundespolitik-regierung-frieden-krieg.html",
+      "date": "Sat, 10 Oct 2026 17:51:22 +0200"
+    },
+    {
+      "title": "Hunderte Menschen protestieren in Potsdam gegen zu hohe Mieten",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/potsdam-protest-demo-hohe-mieten-wohnungsmarkt-aubel.html",
+      "date": "Sat, 10 Oct 2026 17:19:13 +0200"
+    },
+    {
+      "title": "Mutmaßlich antisemitisch motivierte Angriffe auf Ladenbesitzer in Kreuzberg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-kreuzberg-angriffe-jugendliche-geschaeft-inhaber-rollstuhl.html",
+      "date": "Sat, 10 Oct 2026 16:24:42 +0200"
+    },
+    {
+      "title": "Gruppe schlägt vor Club auf Bewusstlosen ein – fünf Festnahmen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-tiergarten-mehrere-verletzte-personen-streit.html",
+      "date": "Sat, 10 Oct 2026 15:43:06 +0200"
+    },
     {
       "title": "Frau wird in Berlin von Lkw angefahren und stirbt – Fahrer flüchtet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-wedding-frau-stirbt-nach-unfall-polizei-vermutet-fahrerflucht.html",
@@ -136,11 +156,6 @@
       "title": "Berliner S-Bahn: Westliche Ringbahn an diesem Wochenende gesperrt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-sperrung-ringbahn-s-bahn-bauarbeiten.html",
       "date": "Sat, 10 Oct 2026 10:56:12 +0200"
-    },
-    {
-      "title": "Mehrere Menschen bei Auseinandersetzung in Berlin-Tiergarten verletzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-tiergarten-mehrere-verletzte-personen-streit.html",
-      "date": "Sat, 10 Oct 2026 08:10:26 +0200"
     },
     {
       "title": "Kausche: Wenn ein ganzes Dorf verschwindet und neu aufgebaut wird",
@@ -171,21 +186,6 @@
       "title": "Mehrere Schüsse auf Einfamilienhaus in Berlin-Rudow abgegeben",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-rudow-schuesse-einfamilienhaus.html",
       "date": "Fri, 09 Oct 2026 14:12:48 +0200"
-    },
-    {
-      "title": "Checkpoint Charlie: Überreste der DDR-Grenzübergangsstelle entdeckt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/archaeologische-grabung-checkpoint-charlie-ddr.html",
-      "date": "Fri, 09 Oct 2026 13:46:58 +0200"
-    },
-    {
-      "title": "Festival of Lights startet in Berlin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/festival-of-lights-berlin-licht-installation-sehenswuerdigkeiten.html",
-      "date": "Fri, 09 Oct 2026 12:30:17 +0200"
-    },
-    {
-      "title": "Sommerbad Spandau Süd: Sanierung startet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/sanierung-kombibad-spandau-sued-berliner-baederbetriebe.html",
-      "date": "Fri, 09 Oct 2026 10:51:47 +0200"
     }
   ]
 }
