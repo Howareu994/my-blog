@@ -1,6 +1,31 @@
 {
   "traffic": [
     {
+      "title": "Strausberg entscheidet am Sonntag über Bürgermeisteramt",
+      "link": "https://www.rbb24.de/politik/wahl/brandenburg-buergermeisterwahlen/2026/strausberg-maerkisch-oderland-stichwahl-binder-krause.html",
+      "date": "Sun, 11 Oct 2026 18:39:00 +0200"
+    },
+    {
+      "title": "Sieg gegen Fürth: Hertha kritisiert sich selbst wie ein Spitzenteam",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/10/berlin-fussball-hertha-bsc-sieg-fuerth-leitl-pedersen-seguin-nilsson-analyse.html",
+      "date": "Sun, 11 Oct 2026 18:22:48 +0200"
+    },
+    {
+      "title": "Heimerfolg gegen Fürth: Hertha dreht nach der Pause auf",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-2-bundesliga-hertha-bsc-greuther-fuerth-livestream-liveticker-spielbericht.html",
+      "date": "Sun, 11 Oct 2026 15:52:45 +0200"
+    },
+    {
+      "title": "Laberenz über Schlingensief: \"Für ihn war Kunst ein Spiegel der Gesellschaft\"",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/10/ausstellung-christoph-schlingensief-martin-gropius-bau-aino-laberenz-interview.html",
+      "date": "Sun, 11 Oct 2026 15:12:00 +0200"
+    },
+    {
+      "title": "Zwei Männer bei Auseinandersetzungen in Berlin lebensgefährlich verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-neu-hohenschoenhausen-koepenick-maenner-verletzt.html",
+      "date": "Sun, 11 Oct 2026 14:45:42 +0200"
+    },
+    {
       "title": "Transporter prallt gegen Baum – Fahrer lebensgefährlich verletzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/oder-spree-spreenhagen-unfall-fahrer-verletzt-lebensgefahr.html",
       "date": "Sun, 11 Oct 2026 12:49:15 +0200"
@@ -34,34 +59,19 @@
       "title": "Straßensperrungen in Berlin beim Great10k-Lauf am Sonntag",
       "link": "https://www.rbb24.de/sport/beitrag/2026/10/berlin-laufsport-great-10-k-lauf-strecke-strassen-sperrungen-teilnehmer-schloss-charlottenburg.html",
       "date": "Sun, 11 Oct 2026 09:01:00 +0200"
-    },
-    {
-      "title": "Strausberg entscheidet am Sonntag über Bürgermeisteramt",
-      "link": "https://www.rbb24.de/politik/wahl/brandenburg-buergermeisterwahlen/2026/strausberg-maerkisch-oderland-stichwahl-binder-krause.html",
-      "date": "Sun, 11 Oct 2026 08:50:00 +0200"
-    },
-    {
-      "title": "Neuköllner Feuerwehr im Einsatz: ausrücken, warten, umkehren",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/rbb24-explorer-feuerwehr-einsaetze-berlin-neukoelln.html",
-      "date": "Sun, 11 Oct 2026 07:19:00 +0200"
-    },
-    {
-      "title": "Stichwahl in Schönwalde-Glien zwischen Hartley und Kraatz",
-      "link": "https://www.rbb24.de/politik/wahl/brandenburg-buergermeisterwahlen/2026/schoenwalde-glien-stichwahl-hartley-kraatz-havelland.html",
-      "date": "Sun, 11 Oct 2026 07:04:40 +0200"
-    },
-    {
-      "title": "Neuer Bürgermeister von Schwielowsee wird am Sonntag gewählt",
-      "link": "https://www.rbb24.de/politik/wahl/brandenburg-buergermeisterwahlen/2026/schwielowsee-caputh-ferch-geltow-buergermeister-wahl-stephan-schmieder-mutz-huenerson.html",
-      "date": "Sun, 11 Oct 2026 07:03:47 +0200"
-    },
-    {
-      "title": "Basketball-Bundesliga: Alba Berlin verliert in Trier",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/basketball-bbl-bundesliga-gladiators-trier-alba-berlin-spielbericht-ergebnis.html",
-      "date": "Sat, 10 Oct 2026 22:13:00 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Zwei gegen Einen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723947.php",
+      "date": "Sun, 11 Oct 2026 13:32:19 +0200"
+    },
+    {
+      "title": "Fahrer eines Leichtkraftrades bei Verkehrsunfall verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723946.php",
+      "date": "Sun, 11 Oct 2026 13:29:51 +0200"
+    },
     {
       "title": "Stichverletzung im Oberkörper – lebensgefährlich verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723944.php",
@@ -111,22 +121,22 @@
       "title": "Frau wird von Sattelzug angefahren und tödlich verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723869.php",
       "date": "Sat, 10 Oct 2026 11:11:46 +0200"
-    },
-    {
-      "title": "Aus mutmaßlich antisemitischen Gründen wiederholt beleidigt und angegriffen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723867.php",
-      "date": "Sat, 10 Oct 2026 10:39:40 +0200"
-    },
-    {
-      "title": "Schüsse auf Einfamilienhaus",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1723617.php",
-      "date": "Fri, 09 Oct 2026 12:24:03 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Zwei Männer bei Auseinandersetzungen in Berlin lebensgefährlich verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-neu-hohenschoenhausen-koepenick-maenner-verletzt.html",
+      "date": "Sun, 11 Oct 2026 14:45:42 +0200"
+    },
+    {
+      "title": "Polarlichter über Brandenburg: Wenn Sonneneruptionen den Nachthimmel einfärben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/polarlichter-brandenburg-aurora-borealis-nachthimmel.html",
+      "date": "Sun, 11 Oct 2026 14:10:00 +0200"
+    },
     {
       "title": "Transporter prallt gegen Baum – Fahrer lebensgefährlich verletzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/oder-spree-spreenhagen-unfall-fahrer-verletzt-lebensgefahr.html",
@@ -176,16 +186,6 @@
       "title": "Frau wird in Berlin von Lkw angefahren und stirbt – Fahrer flüchtet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-wedding-frau-stirbt-nach-unfall-polizei-vermutet-fahrerflucht.html",
       "date": "Sat, 10 Oct 2026 11:24:25 +0200"
-    },
-    {
-      "title": "Berliner S-Bahn: Westliche Ringbahn an diesem Wochenende gesperrt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-sperrung-ringbahn-s-bahn-bauarbeiten.html",
-      "date": "Sat, 10 Oct 2026 10:56:12 +0200"
-    },
-    {
-      "title": "Kausche: Wenn ein ganzes Dorf verschwindet und neu aufgebaut wird",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-kausche-30-jahre-umsiedlung-tagebau-kohle.html",
-      "date": "Sat, 10 Oct 2026 07:10:00 +0200"
     }
   ]
 }
