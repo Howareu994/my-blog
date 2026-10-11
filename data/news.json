@@ -1,67 +1,87 @@
 {
   "traffic": [
     {
+      "title": "Transporter prallt gegen Baum – Fahrer lebensgefährlich verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/oder-spree-spreenhagen-unfall-fahrer-verletzt-lebensgefahr.html",
+      "date": "Sun, 11 Oct 2026 12:49:15 +0200"
+    },
+    {
+      "title": "Herbstwetter in Berlin und Brandenburg: Weniger stürmisch und zu trocken",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-brandenburg-herbst-wetter-regen-bodenfrost-kuehl.html",
+      "date": "Sun, 11 Oct 2026 12:16:09 +0200"
+    },
+    {
+      "title": "40. Auflage des Rundfunkfestivals Prix Europa beginnt",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/10/festival-prix-europa-rundfunk-preis-berlin-rbb.html",
+      "date": "Sun, 11 Oct 2026 12:02:19 +0200"
+    },
+    {
+      "title": "Mit 16 Jahren: Berliner Boxer Arminius Rolle holt Titel",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/10/boxen-arminius-rolle-sepic-sieg-juengster-profiboxer-superleichtgewicht.html",
+      "date": "Sun, 11 Oct 2026 11:17:46 +0200"
+    },
+    {
+      "title": "Buddha und Barber Cape: Warum sich Fußballer auf Youtube filmen",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-bundesliga-profis-robert-andrich-reus-haaland-selke-social-media-youtube.html",
+      "date": "Sun, 11 Oct 2026 10:43:00 +0200"
+    },
+    {
+      "title": "Putzmittel-Unfall: Feuerwehreinsatz in Neuruppin nach Schwefelsäure-Reaktion in Pkw",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/ostprignitz-ruppin-neuruppin-feuerwehr-schwefelsaeure-autowaesche.html",
+      "date": "Sun, 11 Oct 2026 09:12:49 +0200"
+    },
+    {
+      "title": "Straßensperrungen in Berlin beim Great10k-Lauf am Sonntag",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/10/berlin-laufsport-great-10-k-lauf-strecke-strassen-sperrungen-teilnehmer-schloss-charlottenburg.html",
+      "date": "Sun, 11 Oct 2026 09:01:00 +0200"
+    },
+    {
+      "title": "Strausberg entscheidet am Sonntag über Bürgermeisteramt",
+      "link": "https://www.rbb24.de/politik/wahl/brandenburg-buergermeisterwahlen/2026/strausberg-maerkisch-oderland-stichwahl-binder-krause.html",
+      "date": "Sun, 11 Oct 2026 08:50:00 +0200"
+    },
+    {
+      "title": "Neuköllner Feuerwehr im Einsatz: ausrücken, warten, umkehren",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/rbb24-explorer-feuerwehr-einsaetze-berlin-neukoelln.html",
+      "date": "Sun, 11 Oct 2026 07:19:00 +0200"
+    },
+    {
+      "title": "Stichwahl in Schönwalde-Glien zwischen Hartley und Kraatz",
+      "link": "https://www.rbb24.de/politik/wahl/brandenburg-buergermeisterwahlen/2026/schoenwalde-glien-stichwahl-hartley-kraatz-havelland.html",
+      "date": "Sun, 11 Oct 2026 07:04:40 +0200"
+    },
+    {
+      "title": "Neuer Bürgermeister von Schwielowsee wird am Sonntag gewählt",
+      "link": "https://www.rbb24.de/politik/wahl/brandenburg-buergermeisterwahlen/2026/schwielowsee-caputh-ferch-geltow-buergermeister-wahl-stephan-schmieder-mutz-huenerson.html",
+      "date": "Sun, 11 Oct 2026 07:03:47 +0200"
+    },
+    {
       "title": "Basketball-Bundesliga: Alba Berlin verliert in Trier",
       "link": "https://www.rbb24.de/sport/beitrag/2026/10/basketball-bbl-bundesliga-gladiators-trier-alba-berlin-spielbericht-ergebnis.html",
       "date": "Sat, 10 Oct 2026 22:13:00 +0200"
-    },
-    {
-      "title": "Basketball-Bundesliga: Alba-Frauen gewinnen klar in Herne",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/basketball-dbbl-bundesliga-herner-tc-alba-berlin-2-spieltag-ergebnis.html",
-      "date": "Sat, 10 Oct 2026 20:36:30 +0200"
-    },
-    {
-      "title": "Tausende ziehen bei Palästina-Demo durch Berliner Regierungsviertel",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-demo-pro-palaestina-gaza-israel.html",
-      "date": "Sat, 10 Oct 2026 19:39:27 +0200"
-    },
-    {
-      "title": "Hunderte Menschen protestieren in Potsdam gegen zu hohe Mieten",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/potsdam-protest-demo-hohe-mieten-wohnungsmarkt-aubel.html",
-      "date": "Sat, 10 Oct 2026 19:01:17 +0200"
-    },
-    {
-      "title": "Tausende Menschen demonstrieren als \"M1llion\" gegen Regierungspolitik",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-projekt-m1llion-demo-bundespolitik-regierung-frieden-krieg.html",
-      "date": "Sat, 10 Oct 2026 17:51:22 +0200"
-    },
-    {
-      "title": "Regionalliga Nordost: Ndi-Treffer reicht Hertha II nicht zum Sieg",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-regionalliga-nordost-bfc-preussen-hertha-bsc-amateure-spielbericht.html",
-      "date": "Sat, 10 Oct 2026 17:11:12 +0200"
-    },
-    {
-      "title": "Mutmaßlich antisemitisch motivierte Angriffe auf Ladenbesitzer in Kreuzberg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-kreuzberg-angriffe-jugendliche-geschaeft-inhaber-rollstuhl.html",
-      "date": "Sat, 10 Oct 2026 16:24:42 +0200"
-    },
-    {
-      "title": "Gruppe schlägt vor Club auf Bewusstlosen ein – fünf Festnahmen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-tiergarten-mehrere-verletzte-personen-streit.html",
-      "date": "Sat, 10 Oct 2026 15:43:06 +0200"
-    },
-    {
-      "title": "Rot-schwarze Regierung gegen \"Bürokratiemonster\" Verpackungssteuer",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/10/brandenburg-verpackungssteuer-landtag-potsdam-keine-ausweitung.html",
-      "date": "Sat, 10 Oct 2026 11:50:32 +0200"
-    },
-    {
-      "title": "Sondierung in Berlin: Brandenburger Parteien zwischen Ablehnung und Zuversicht",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/brandenburg-parteien-reaktion-kritik-sondierungen-gespraeche-berlin.html",
-      "date": "Sat, 10 Oct 2026 11:37:32 +0200"
-    },
-    {
-      "title": "Frau wird in Berlin von Lkw angefahren und stirbt – Fahrer flüchtet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-wedding-frau-stirbt-nach-unfall-polizei-vermutet-fahrerflucht.html",
-      "date": "Sat, 10 Oct 2026 11:24:25 +0200"
-    },
-    {
-      "title": "Mehrere tausend Menschen demonstrieren gegen Energie-Reform",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/10/berlin-demo-gegen-energie-reform-erneuerbar-unverzichtbar.html",
-      "date": "Sat, 10 Oct 2026 11:05:25 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Stichverletzung im Oberkörper – lebensgefährlich verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723944.php",
+      "date": "Sun, 11 Oct 2026 12:56:24 +0200"
+    },
+    {
+      "title": "Alkoholisierter Mann schlägt Nachbarn, greift Polizeibeamte an und leistet Widerstand bei Festnahme – DEIG-Einsatz",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723943.php",
+      "date": "Sun, 11 Oct 2026 12:54:19 +0200"
+    },
+    {
+      "title": "Mann niedergeschlagen – lebensgefährlich verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723939.php",
+      "date": "Sun, 11 Oct 2026 12:00:06 +0200"
+    },
+    {
+      "title": "Kind wird von Jugendgruppe bedroht und beraubt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723938.php",
+      "date": "Sun, 11 Oct 2026 11:58:24 +0200"
+    },
     {
       "title": "Auseinandersetzung zwischen zwei Männergruppen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723882.php",
@@ -101,32 +121,32 @@
       "title": "Schüsse auf Einfamilienhaus",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1723617.php",
       "date": "Fri, 09 Oct 2026 12:24:03 +0200"
-    },
-    {
-      "title": "Seniorin betrogen – Wer erkennt den Tatverdächtigen?",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723337.php",
-      "date": "Fri, 09 Oct 2026 07:45:09 +0200"
-    },
-    {
-      "title": "Autofahrer verursacht mehrere Verkehrsunfälle mit hohem Sachschaden",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723273.php",
-      "date": "Thu, 08 Oct 2026 16:42:40 +0200"
-    },
-    {
-      "title": "Bilanz zur Versammlungslage mit Bezug zum Nahostkonflikt vom 7. Oktober 2026",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723246.php",
-      "date": "Thu, 08 Oct 2026 16:01:37 +0200"
-    },
-    {
-      "title": "Drei Fahrzeuge auf Parkplatz in Brand geraten",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723186.php",
-      "date": "Thu, 08 Oct 2026 15:34:18 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Transporter prallt gegen Baum – Fahrer lebensgefährlich verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/oder-spree-spreenhagen-unfall-fahrer-verletzt-lebensgefahr.html",
+      "date": "Sun, 11 Oct 2026 12:49:15 +0200"
+    },
+    {
+      "title": "Herbstwetter in Berlin und Brandenburg: Weniger stürmisch und zu trocken",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-brandenburg-herbst-wetter-regen-bodenfrost-kuehl.html",
+      "date": "Sun, 11 Oct 2026 12:16:09 +0200"
+    },
+    {
+      "title": "Putzmittel-Unfall: Feuerwehreinsatz in Neuruppin nach Schwefelsäure-Reaktion in Pkw",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/ostprignitz-ruppin-neuruppin-feuerwehr-schwefelsaeure-autowaesche.html",
+      "date": "Sun, 11 Oct 2026 09:12:49 +0200"
+    },
+    {
+      "title": "Neuköllner Feuerwehr im Einsatz: ausrücken, warten, umkehren",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/rbb24-explorer-feuerwehr-einsaetze-berlin-neukoelln.html",
+      "date": "Sun, 11 Oct 2026 07:19:00 +0200"
+    },
     {
       "title": "Tausende ziehen bei Palästina-Demo durch Berliner Regierungsviertel",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-demo-pro-palaestina-gaza-israel.html",
@@ -166,26 +186,6 @@
       "title": "Kausche: Wenn ein ganzes Dorf verschwindet und neu aufgebaut wird",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-kausche-30-jahre-umsiedlung-tagebau-kohle.html",
       "date": "Sat, 10 Oct 2026 07:10:00 +0200"
-    },
-    {
-      "title": "Brand in leerstehendem Schweinestall in Lübben unter Kontrolle",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/gross-brand-schweinestall-luebben.html",
-      "date": "Fri, 09 Oct 2026 21:16:47 +0200"
-    },
-    {
-      "title": "Schüsse in Schöneberg – zwei Personen verletzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-schoeneberg-schuesse-polizeieinsatz.html",
-      "date": "Fri, 09 Oct 2026 20:31:32 +0200"
-    },
-    {
-      "title": "Jugendliche im Barnim gestorben: Polizei ermittelt gegen Autofahrer",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/jugendliche-tot-unfall-biesenthal-ermittlungen-polizei.html",
-      "date": "Fri, 09 Oct 2026 17:47:25 +0200"
-    },
-    {
-      "title": "Mutmaßlicher Reizgas-Vorfall in Grundschule in Frankfurt (Oder)",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/frankfurt-oder-grundschule-reizgas-verletzte-evakuierung.html",
-      "date": "Fri, 09 Oct 2026 15:19:07 +0200"
     }
   ]
 }
