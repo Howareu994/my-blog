@@ -1,6 +1,26 @@
 {
   "traffic": [
     {
+      "title": "Ringbahn wegen defekten Zugs in Gesundbrunnen gestört",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-sbahn-stoerung-defekter-zug-ringbahn-ausfaelle-verspaetungen.html",
+      "date": "Mon, 12 Oct 2026 08:43:53 +0200"
+    },
+    {
+      "title": "Berlin-Wahl: Endgültiges Ergebnis wird am Montag festgestellt",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/endgueltiges-ergebnis-amtlich-bekanntgabe-wahlausschuss-broechler.html",
+      "date": "Mon, 12 Oct 2026 08:17:15 +0200"
+    },
+    {
+      "title": "Mücken am Bahnhof Potsdamer Platz: Interview mit Charité-Forscherin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/muecken-potsdamer-platz-bahnhof-u-bahn-forscherin-interview.html",
+      "date": "Mon, 12 Oct 2026 07:33:00 +0200"
+    },
+    {
+      "title": "Berliner Linke: Wütende Basis treibt Partei vor sich her",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/sondierungen-linke-agh-berlin-linkspartei-innerparteiliche-kampagne.html",
+      "date": "Mon, 12 Oct 2026 06:46:00 +0200"
+    },
+    {
       "title": "Diskriminierungsvorwürfe: Härtel legt U19-Amt bei Union nieder",
       "link": "https://www.rbb24.de/sport/beitrag/2026/10/fusball-bundesliga-union-berlin-u19-jens-haertel-dfb-diskriminierung-vorwuerfe-ruecktritt.html",
       "date": "Sun, 11 Oct 2026 21:30:34 +0200"
@@ -18,7 +38,7 @@
     {
       "title": "DEL: Eisbären holen in Bremerhaven sechsten Sieg in Folge",
       "link": "https://www.rbb24.de/sport/beitrag/2026/10/eishockey-del-fischtown-pinguins-bremerhaven-eisbaeren-berlin-spielbericht.html",
-      "date": "Sun, 11 Oct 2026 19:36:13 +0200"
+      "date": "Sun, 11 Oct 2026 19:33:00 +0200"
     },
     {
       "title": "Regionalliga Nordost: RSV verliert in Halle, Babelsberg mit Remis",
@@ -39,26 +59,6 @@
       "title": "Sieg gegen Fürth: Hertha kritisiert sich selbst wie ein Spitzenteam",
       "link": "https://www.rbb24.de/sport/beitrag/2026/10/berlin-fussball-hertha-bsc-sieg-fuerth-leitl-pedersen-seguin-nilsson-analyse.html",
       "date": "Sun, 11 Oct 2026 18:22:00 +0200"
-    },
-    {
-      "title": "Heimerfolg gegen Fürth: Hertha dreht nach der Pause auf",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-2-bundesliga-hertha-bsc-greuther-fuerth-livestream-liveticker-spielbericht.html",
-      "date": "Sun, 11 Oct 2026 15:52:45 +0200"
-    },
-    {
-      "title": "Laberenz über Schlingensief: \"Für ihn war Kunst ein Spiegel der Gesellschaft\"",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/10/ausstellung-christoph-schlingensief-martin-gropius-bau-aino-laberenz-interview.html",
-      "date": "Sun, 11 Oct 2026 15:12:00 +0200"
-    },
-    {
-      "title": "Zwei Männer bei Auseinandersetzungen in Berlin lebensgefährlich verletzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-neu-hohenschoenhausen-koepenick-maenner-verletzt.html",
-      "date": "Sun, 11 Oct 2026 14:45:42 +0200"
-    },
-    {
-      "title": "Transporter prallt gegen Baum – Fahrer lebensgefährlich verletzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/oder-spree-spreenhagen-unfall-fahrer-verletzt-lebensgefahr.html",
-      "date": "Sun, 11 Oct 2026 12:49:15 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,16 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Ringbahn wegen defekten Zugs in Gesundbrunnen gestört",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-sbahn-stoerung-defekter-zug-ringbahn-ausfaelle-verspaetungen.html",
+      "date": "Mon, 12 Oct 2026 08:43:53 +0200"
+    },
+    {
+      "title": "Mücken am Bahnhof Potsdamer Platz: Interview mit Charité-Forscherin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/muecken-potsdamer-platz-bahnhof-u-bahn-forscherin-interview.html",
+      "date": "Mon, 12 Oct 2026 07:33:00 +0200"
+    },
+    {
       "title": "Zwei Männer bei Auseinandersetzungen in Berlin lebensgefährlich verletzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-neu-hohenschoenhausen-koepenick-maenner-verletzt.html",
       "date": "Sun, 11 Oct 2026 14:45:42 +0200"
@@ -176,16 +186,6 @@
       "title": "Mutmaßlich antisemitisch motivierte Angriffe auf Ladenbesitzer in Kreuzberg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-kreuzberg-angriffe-jugendliche-geschaeft-inhaber-rollstuhl.html",
       "date": "Sat, 10 Oct 2026 16:24:42 +0200"
-    },
-    {
-      "title": "Gruppe schlägt vor Club auf Bewusstlosen ein – fünf Festnahmen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-tiergarten-mehrere-verletzte-personen-streit.html",
-      "date": "Sat, 10 Oct 2026 15:43:06 +0200"
-    },
-    {
-      "title": "Frau wird in Berlin von Lkw angefahren und stirbt – Fahrer flüchtet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-wedding-frau-stirbt-nach-unfall-polizei-vermutet-fahrerflucht.html",
-      "date": "Sat, 10 Oct 2026 11:24:25 +0200"
     }
   ]
 }
