@@ -1,6 +1,31 @@
 {
   "traffic": [
     {
+      "title": "Judoschule Falkensee gewinnt \"Großen Stern des Sports\" in Silber",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/10/breitensport-sterne-des-sports-judoschule-falkensee-kidstrainer.html",
+      "date": "Mon, 12 Oct 2026 21:59:10 +0200"
+    },
+    {
+      "title": "Nach Herthas Traumstart: Die längsten Siegesserien im Fußball",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-zweite-bundesliga-hertha-bsc-siegesserie-laengste-bayern-budapest-barcelona-rekorde.html",
+      "date": "Mon, 12 Oct 2026 21:18:41 +0200"
+    },
+    {
+      "title": "Berliner Landespokal: TeBe trifft erneut auf Regionalligisten",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-berlin-landespokal-achtelfinale-auslosung-delay-sports-altglienicke-tennis-borussia-bfc-preussen.html",
+      "date": "Mon, 12 Oct 2026 20:15:43 +0200"
+    },
+    {
+      "title": "Diskriminierungsvorwürfe: DFB bestraft Union-Trainer Jens Härtel",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-bundesliga-union-berlin-dfb-bestraft-jugendtrainer-jens-haertel-diskriminierung.html",
+      "date": "Mon, 12 Oct 2026 19:51:22 +0200"
+    },
+    {
+      "title": "Wie Berlin seine Grundschüler zu sicheren Schwimmern machen will",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/10/schwimmen-kinder-grundschule-training-lernen-berlin-nichtschwimmer-quote-seepferdchen.html",
+      "date": "Mon, 12 Oct 2026 19:10:11 +0200"
+    },
+    {
       "title": "Mögliche Kamerahalterungen auf Damentoiletten der HWR Berlin entdeckt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-hochschule-wirtschaft-recht-kamerahalterungen-damentoiletten.html",
       "date": "Mon, 12 Oct 2026 17:46:23 +0200"
@@ -11,9 +36,9 @@
       "date": "Mon, 12 Oct 2026 17:31:02 +0200"
     },
     {
-      "title": "Modellprojekt für Opfer häusliche Gewalt: Brandenburg testet Prozesshelfer an Familiengerichten",
+      "title": "Modellprojekt für Opfer häuslicher Gewalt: Brandenburg testet Prozesshelfer an Familiengerichten",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-modellprojekt-prozesshelfer-opfer-haeusliche-gewalt.html",
-      "date": "Mon, 12 Oct 2026 17:27:29 +0200"
+      "date": "Mon, 12 Oct 2026 17:27:00 +0200"
     },
     {
       "title": "Schneller nach Berlin: Bahnstrecke Cottbus - Lübbenau wird zweigleisig ausgebaut",
@@ -26,11 +51,6 @@
       "date": "Mon, 12 Oct 2026 16:54:31 +0200"
     },
     {
-      "title": "Wie Berlin seine Grundschüler zu sicheren Schwimmern machen will",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/schwimmen-kinder-grundschule-training-lernen-berlin-nichtschwimmer-quote-seepferdchen.html",
-      "date": "Mon, 12 Oct 2026 16:34:24 +0200"
-    },
-    {
       "title": "Alba Berlins Basketballer: Gefangen in der Center-Warteschleife",
       "link": "https://www.rbb24.de/sport/beitrag/2026/10/basketball-bundesliga-bbl-alba-berlin-igokea-champions-league-agbakoko.html",
       "date": "Mon, 12 Oct 2026 16:03:39 +0200"
@@ -39,26 +59,6 @@
       "title": "Barnim: Nachtfahrverbot für Mähroboter soll Igel schützen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/barnim-maehroboter-verbot-nachts-igel-schutz-brandenburg.html",
       "date": "Mon, 12 Oct 2026 15:53:08 +0200"
-    },
-    {
-      "title": "\"Kiefholz 19\": Dutzende Mieter von Berliner Atelierhaus erhalten Kündigung",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/10/berliner-immobilienmanagement-bim-mietkuendigung-kiefholz-19-atelierhaus.html",
-      "date": "Mon, 12 Oct 2026 15:52:58 +0200"
-    },
-    {
-      "title": "Mutmaßlicher Motorraddieb schlafend auf gestohlener Maschine entdeckt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-neukoelln-motorrad-dieb-schlaeft-auf-maschine.html",
-      "date": "Mon, 12 Oct 2026 15:26:18 +0200"
-    },
-    {
-      "title": "Smoking von Harald Juhnke wird für guten Zweck versteigert",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-harald-juhnke-smoking-versteigerung-caritas.html",
-      "date": "Mon, 12 Oct 2026 14:54:10 +0200"
-    },
-    {
-      "title": "Fünf Zwergotter im Tierpark Berlin geboren - Geschlecht noch unklar",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-tierpark-otter-nachwuchs-zwergotter-kurzkrallenotter.html",
-      "date": "Mon, 12 Oct 2026 14:52:16 +0200"
     }
   ],
   "police": [
@@ -138,9 +138,9 @@
       "date": "Mon, 12 Oct 2026 17:31:02 +0200"
     },
     {
-      "title": "Modellprojekt für Opfer häusliche Gewalt: Brandenburg testet Prozesshelfer an Familiengerichten",
+      "title": "Modellprojekt für Opfer häuslicher Gewalt: Brandenburg testet Prozesshelfer an Familiengerichten",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-modellprojekt-prozesshelfer-opfer-haeusliche-gewalt.html",
-      "date": "Mon, 12 Oct 2026 17:27:29 +0200"
+      "date": "Mon, 12 Oct 2026 17:27:00 +0200"
     },
     {
       "title": "22-Jährige soll in Cottbus mehr als 20 Fahrzeuge in Brand gesetzt haben",
