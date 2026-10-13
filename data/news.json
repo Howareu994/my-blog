@@ -1,9 +1,14 @@
 {
   "traffic": [
     {
-      "title": "Arbeiter auf Baustelle von Stahlträger erschlagen",
+      "title": "Basketball-CL: Alba Berlin gewinnt nach Schlussspurt gegen Igokea",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/10/basketball-champions-league-cl-alba-berlin-igokea-spielbericht.html",
+      "date": "Tue, 13 Oct 2026 22:52:04 +0200"
+    },
+    {
+      "title": "Tödlicher Baustellen-Unfall in Berlin-Tempelhof: Arbeiter von Stahlträger erschlagen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-tempelhof-baustelle-unfall-stahltraeger-bauarbeiter-tot.html",
-      "date": "Tue, 13 Oct 2026 21:19:35 +0200"
+      "date": "Tue, 13 Oct 2026 21:19:00 +0200"
     },
     {
       "title": "Ex-Eisbären-Spieler Weiß: \"Ich habe Berlin alles zu verdanken\"",
@@ -54,22 +59,78 @@
       "title": "Lausitzrunde: Bund will Wasserhaushalt der Spree koordinieren",
       "link": "https://www.rbb24.de/politik/beitrag/2026/10/brandenburg-berlin-spree-wasser-haushalt-koordinierung-bund.html",
       "date": "Tue, 13 Oct 2026 14:02:00 +0200"
-    },
-    {
-      "title": "BER erwartet nach Teil-Rückzug von Ryan Air deutlich weniger Passagiere",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/10/ber-flughafen-hohe-kosten-chefin-ryanair-rueckzug-schoenefeld.html",
-      "date": "Tue, 13 Oct 2026 13:56:04 +0200"
     }
   ],
-  "police": [],
+  "police": [
+    {
+      "title": "Verdacht der Beihilfe zum Computerbetrug – Durchsuchungsbeschlüsse und Haftbefehle vollstreckt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1724968.php",
+      "date": "Tue, 13 Oct 2026 14:12:05 +0200"
+    },
+    {
+      "title": "Schüsse auf Café",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1724948.php",
+      "date": "Tue, 13 Oct 2026 13:44:28 +0200"
+    },
+    {
+      "title": "Mutmaßlicher Einbrecher festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1724840.php",
+      "date": "Tue, 13 Oct 2026 11:50:42 +0200"
+    },
+    {
+      "title": "Ermittlungen der BAO Ferrum nach mutmaßlicher Sprengstoffexplosion",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1724608.php",
+      "date": "Mon, 12 Oct 2026 17:19:53 +0200"
+    },
+    {
+      "title": "Vorrichtungen zum Anbringen von versteckten Kameras entdeckt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1724583.php",
+      "date": "Mon, 12 Oct 2026 16:13:10 +0200"
+    },
+    {
+      "title": "Festnahmen und Haftbefehle wegen mutmaßlichen schweren Bandendiebstahls",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1724506.php",
+      "date": "Mon, 12 Oct 2026 15:00:18 +0200"
+    },
+    {
+      "title": "Auf gestohlenem Motorrad eingeschlafen - Festnahme",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1724391.php",
+      "date": "Mon, 12 Oct 2026 13:38:36 +0200"
+    },
+    {
+      "title": "3. Seniorensicherheitstag 2026 der Polizei Berlin",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1724349.php",
+      "date": "Mon, 12 Oct 2026 12:55:18 +0200"
+    },
+    {
+      "title": "Schussabgaben auf Einfamilienhaus",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1724332.php",
+      "date": "Mon, 12 Oct 2026 12:40:54 +0200"
+    },
+    {
+      "title": "Vermisste Frau wieder da",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1724165.php",
+      "date": "Mon, 12 Oct 2026 12:19:00 +0200"
+    },
+    {
+      "title": "Zeugenaufruf zu versuchtem Tötungsdelikt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721932.php",
+      "date": "Mon, 12 Oct 2026 12:04:00 +0200"
+    },
+    {
+      "title": "19-Jähriger von Unbekannten angegriffen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1724307.php",
+      "date": "Mon, 12 Oct 2026 11:58:53 +0200"
+    }
+  ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Arbeiter auf Baustelle von Stahlträger erschlagen",
+      "title": "Tödlicher Baustellen-Unfall in Berlin-Tempelhof: Arbeiter von Stahlträger erschlagen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-tempelhof-baustelle-unfall-stahltraeger-bauarbeiter-tot.html",
-      "date": "Tue, 13 Oct 2026 21:19:35 +0200"
+      "date": "Tue, 13 Oct 2026 21:19:00 +0200"
     },
     {
       "title": "\"Global Coalition of Ukrainian Studies\": Europa-Universität Viadrina verpflichtet sich zum Ausbau der Ukrainestudien",
