@@ -1,12 +1,42 @@
 {
   "traffic": [
     {
-      "title": "Sondierungsgespräche in Berlin werden fortgesetzt",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-gruene-linke-spd-sondierung-vanessa-emde-antisemitismus.html",
-      "date": "Wed, 14 Oct 2026 20:53:37 +0200"
+      "title": "Eurocup-Auftakt: Alba verliert nach starker Leistung in Athen",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/10/eurocup-frauen-basketball-gruppenphase-athen-alba-berlin.html",
+      "date": "Wed, 14 Oct 2026 23:10:52 +0200"
     },
     {
-      "title": "Livestream \"Wir wollen reden: Mehr Waffen für mehr Frieden?\"",
+      "title": "Sondierungsgespräche in Berlin werden fortgesetzt",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-gruene-linke-spd-sondierung-vanessa-emde-antisemitismus.html",
+      "date": "Wed, 14 Oct 2026 22:33:16 +0200"
+    },
+    {
+      "title": "Brandenburger AfD-Fraktion kündigt Strafanzeige gegen Kurt Krömer an",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/10/brandenburg-afd-fraktion-strafanzeige-kurt-kroemer-tickets-volksverhetzung.html",
+      "date": "Wed, 14 Oct 2026 22:30:28 +0200"
+    },
+    {
+      "title": "Alkoholverbot gilt ab Donnerstag auf 5.400 Bahnhöfen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/bahn-alkohol-alkoholverbot-bahnhof-berlin-brandenburg.html",
+      "date": "Wed, 14 Oct 2026 22:28:38 +0200"
+    },
+    {
+      "title": "CHL: Eisbären schließen Hauptrunde mit Sieg gegen Klagenfurt ab",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/10/champions-hockey-league-chl-eisbaeren-berlin-klagenfurt-2-1.html",
+      "date": "Wed, 14 Oct 2026 22:24:02 +0200"
+    },
+    {
+      "title": "Streit über Antisemitismus-Papiere: Was steht in beiden drin, was nicht?",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/sondierung-linke-fraktion-antisemitismus-vereinbarungen-gruene-spd-erklaerung.html",
+      "date": "Wed, 14 Oct 2026 21:45:49 +0200"
+    },
+    {
+      "title": "Stadionerweiterung: Zuversicht für die Finanzierung des Union-Stadions",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/10/stadionerweiterung-union-berlin-alte-foersterei-unterschrift-geld.html",
+      "date": "Wed, 14 Oct 2026 20:47:00 +0200"
+    },
+    {
+      "title": "Bürgertalk \"Wir wollen reden\": Mehr Waffen für mehr Frieden?",
       "link": "https://www.rbb24.de/politik/beitrag/2026/10/livestream-rbb-wir-wollen-reden-waffen-aufruestung.html",
       "date": "Wed, 14 Oct 2026 20:45:00 +0200"
     },
@@ -29,36 +59,6 @@
       "title": "Brandenburger Landtag stimmt für höhere Beamtenbesoldung",
       "link": "https://www.rbb24.de/politik/beitrag/2026/10/brandenburg-landtag-hoehere-besoldung-beamte.html",
       "date": "Wed, 14 Oct 2026 19:42:07 +0200"
-    },
-    {
-      "title": "Brandanschlag auf Kabelbrücke in Marzahn: Bekennerschreiben echt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-marzahn-brand-kabel-bruecke-stromausfall-bekenner-schreiben.html",
-      "date": "Wed, 14 Oct 2026 19:29:22 +0200"
-    },
-    {
-      "title": "Streit über Antisemitismus-Papiere: Was steht in beiden drin, was nicht?",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/sondierung-linke-fraktion-antisemitismus-vereinbarungen-gruene-spd-erklaerung.html",
-      "date": "Wed, 14 Oct 2026 18:19:21 +0200"
-    },
-    {
-      "title": "Vor Topspiel gegen Nürnberg: Energie Cottbus bangt um den Kapitän",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/energie-cottbus-borgmann-kapitaen-ausfall-fc-nuernberg-miro-klos.html",
-      "date": "Wed, 14 Oct 2026 17:42:54 +0200"
-    },
-    {
-      "title": "Internetwache der Berliner Polizei: Update führte zu Einschränkung",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-polizei-it-update-problem-internetwache.html",
-      "date": "Wed, 14 Oct 2026 17:36:54 +0200"
-    },
-    {
-      "title": "Hertha zu Gast in Kiel: Protagonist beim Schicksalspiel von Walter",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-berlin-hertha-bsc-2-bundesliga-holstein-kiel.html",
-      "date": "Wed, 14 Oct 2026 17:33:08 +0200"
-    },
-    {
-      "title": "BSW scheitert mit Antrag zu Windkraft-Bremse in Brandenburg",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/10/brandenburg-landtag-bsw-antrag-windkraft-scheitert.html",
-      "date": "Wed, 14 Oct 2026 16:56:09 +0200"
     }
   ],
   "police": [
@@ -128,6 +128,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Alkoholverbot gilt ab Donnerstag auf 5.400 Bahnhöfen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/bahn-alkohol-alkoholverbot-bahnhof-berlin-brandenburg.html",
+      "date": "Wed, 14 Oct 2026 22:28:38 +0200"
+    },
+    {
       "title": "Brandanschlag auf Kabelbrücke in Marzahn: Bekennerschreiben echt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-marzahn-brand-kabel-bruecke-stromausfall-bekenner-schreiben.html",
       "date": "Wed, 14 Oct 2026 19:29:22 +0200"
@@ -166,11 +171,6 @@
       "title": "Berlin-Mitte: Polizist schießt bei Kontrolle auf Autofahrer",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/polizei-berlin-alexanderplatz-schuss-autofahrer-kontrolle.html",
       "date": "Wed, 14 Oct 2026 12:46:51 +0200"
-    },
-    {
-      "title": "Alkoholverbot gilt ab Donnerstag auf 5.400 Bahnhöfen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/bahn-alkohol-alkoholverbot-bahnhof-berlin-brandenburg.html",
-      "date": "Wed, 14 Oct 2026 11:45:59 +0200"
     },
     {
       "title": "Suche nach Heilmittel: Charité eröffnet neues HIV-Forschungszentrum",
