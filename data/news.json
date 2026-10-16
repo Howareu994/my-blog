@@ -1,9 +1,34 @@
 {
   "traffic": [
     {
-      "title": "Champions League: Füchse nach Sieg in Porto eine Runde weiter",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/handball-champions-league-fuechse-berlin-fc-porto.html",
-      "date": "Thu, 15 Oct 2026 22:52:00 +0200"
+      "title": "Warum die Aussichten auf ein Adoptivkind 2025 in Brandenburg sehr gering waren",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/adoptionen-bewerber-kinder-zahlen-brandenburg.html",
+      "date": "Fri, 16 Oct 2026 09:39:25 +0200"
+    },
+    {
+      "title": "Schulsozialarbeit: \"Potsdam hat ein Problem mit gewalttätigen Jugendlichen\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/potsdam-gewalt-jugendkriminalitaet-sozialarbeit.html",
+      "date": "Fri, 16 Oct 2026 08:49:45 +0200"
+    },
+    {
+      "title": "Herbstferien beginnen in Berlin und Brandenburg mit Reisewelle",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/herbstferien-berlin-brandenburg-reisewelle-verkehr.html",
+      "date": "Fri, 16 Oct 2026 07:53:13 +0200"
+    },
+    {
+      "title": "Berliner Feuerwehr rettet Schwerverletzten aus brennender Wohnung",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-feuerwehr-schwerverletzte-aus-wohnung-rettung.html",
+      "date": "Fri, 16 Oct 2026 07:46:02 +0200"
+    },
+    {
+      "title": "Blücherplatz in Berlin-Kreuzberg wird in Eva-Mamlok-Platz umbenannt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/umbenennung-bluecherplatz-eva-mamlok-platz-berlin-kreuzberg.html",
+      "date": "Fri, 16 Oct 2026 07:23:42 +0200"
+    },
+    {
+      "title": "Social Media im Spitzensport: Athleten oder Influencer?",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/10/laufen-marathon-leistungssport-spitzensport-social-media-pfeiffer-tortell-sporthilfe.html",
+      "date": "Fri, 16 Oct 2026 06:50:11 +0200"
     },
     {
       "title": "Berliner Grüne wollen Montag über Koalitionsgespräche entscheiden",
@@ -34,31 +59,6 @@
       "title": "Berliner Senatskanzlei sieht akute Gefahr nach Hackerangriff gebannt",
       "link": "https://www.rbb24.de/politik/beitrag/2026/10/berlin-senatskanzlei-akute-gefahr-nach-hackerangriff-beendet.html",
       "date": "Thu, 15 Oct 2026 19:15:09 +0200"
-    },
-    {
-      "title": "Bundesverfassungsgericht: Reiche muss Post über Linke vorerst löschen",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/10/linke-eilantrag-erfolgreich-wirtschaftsministerin-reiche.html",
-      "date": "Thu, 15 Oct 2026 19:01:24 +0200"
-    },
-    {
-      "title": "Kontaktlos bezahlen: BVG will ab 2029 rund 3.600 neue Fahrkartenautomaten aufstellen",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/10/bvg-austausch-ticketautomaten-schrittweise-ab-2029-geplant-busse-tram-u-bahnhoefe-berlin.html",
-      "date": "Thu, 15 Oct 2026 18:38:55 +0200"
-    },
-    {
-      "title": "Bauvorhaben im Biosphärenreservat könnten einfacher werden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/schorfheide-chorin-biosphaerenreservat-schutzstatus-verordnung.html",
-      "date": "Thu, 15 Oct 2026 17:36:55 +0200"
-    },
-    {
-      "title": "Berliner Schule darf demonstratives Gebet verbieten",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-gericht-schule-darf-demonstratives-gebet-verbieten.html",
-      "date": "Thu, 15 Oct 2026 17:20:21 +0200"
-    },
-    {
-      "title": "Bundesliga: Was Union gegen Dortmund Mut machen kann",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-berlin-fc-union-bundesliga-borussia-dortmund.html",
-      "date": "Thu, 15 Oct 2026 15:48:28 +0200"
     }
   ],
   "police": [
@@ -119,14 +119,44 @@
     },
     {
       "title": "Schüsse auf Café",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1724948.php",
-      "date": "Tue, 13 Oct 2026 13:44:28 +0200"
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1726531.php",
+      "date": "Tue, 13 Oct 2026 12:00:00 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Warum die Aussichten auf ein Adoptivkind 2025 in Brandenburg sehr gering waren",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/adoptionen-bewerber-kinder-zahlen-brandenburg.html",
+      "date": "Fri, 16 Oct 2026 09:39:25 +0200"
+    },
+    {
+      "title": "Schulsozialarbeit: \"Potsdam hat ein Problem mit gewalttätigen Jugendlichen\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/potsdam-gewalt-jugendkriminalitaet-sozialarbeit.html",
+      "date": "Fri, 16 Oct 2026 08:49:45 +0200"
+    },
+    {
+      "title": "Herbstferien beginnen in Berlin und Brandenburg mit Reisewelle",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/herbstferien-berlin-brandenburg-reisewelle-verkehr.html",
+      "date": "Fri, 16 Oct 2026 07:53:13 +0200"
+    },
+    {
+      "title": "Berliner Feuerwehr rettet Schwerverletzten aus brennender Wohnung",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-feuerwehr-schwerverletzte-aus-wohnung-rettung.html",
+      "date": "Fri, 16 Oct 2026 07:46:02 +0200"
+    },
+    {
+      "title": "Blücherplatz in Berlin-Kreuzberg wird in Eva-Mamlok-Platz umbenannt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/umbenennung-bluecherplatz-eva-mamlok-platz-berlin-kreuzberg.html",
+      "date": "Fri, 16 Oct 2026 07:23:42 +0200"
+    },
+    {
+      "title": "Eva Mamlok: Die junge Kreuzberger Jüdin, die sich Hitler widersetzte",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/eva-mamlok-widerstandskaempferin-juedisch-berlin-kreuzberg-bluecherplatz.html",
+      "date": "Fri, 16 Oct 2026 06:58:15 +0200"
+    },
     {
       "title": "Safran-Anbau: Teuerstes Gewürz der Welt wird in Lipsa geerntet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-hermsdorf-safran-ernte-teuerste-gewuerz-der-welt.html",
@@ -156,36 +186,6 @@
       "title": "Elefantenbulle im Berliner Tierpark wegen gebrochenen Stoßzahns behandelt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-tierpark-elefantenbulle-stosszahn-op-zahnarzt.html",
       "date": "Thu, 15 Oct 2026 15:42:57 +0200"
-    },
-    {
-      "title": "Alkoholverbot gilt ab sofort auf 5.400 Bahnhöfen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/bahn-alkohol-alkoholverbot-bahnhof-berlin-brandenburg.html",
-      "date": "Thu, 15 Oct 2026 15:32:56 +0200"
-    },
-    {
-      "title": "Moderatorin Sarah Kuttner macht Brustkrebsdiagnose öffentlich",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-sarah-kuttner-brustkrebs-absage-lesungen.html",
-      "date": "Thu, 15 Oct 2026 15:26:10 +0200"
-    },
-    {
-      "title": "Schulsozialarbeiterin: \"Potsdam hat ein Problem mit gewalttätigen Jugendlichen\"",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/potsdam-gewalt-jugendkriminalitaet-sozialarbeit.html",
-      "date": "Thu, 15 Oct 2026 14:37:08 +0200"
-    },
-    {
-      "title": "Bezieher von Grundsicherung zahlen in Berlin besonders viel für Wohnkosten selbst",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-grundsicherung-beziehende-zahlen-mehr-selbst.html",
-      "date": "Thu, 15 Oct 2026 13:35:13 +0200"
-    },
-    {
-      "title": "Feuerwehr löscht in Premnitz 20 Tonnen brennende Batterien",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-premnitz-havelland-feuer-lagerhalle-batterien-recycling.html",
-      "date": "Thu, 15 Oct 2026 13:14:25 +0200"
-    },
-    {
-      "title": "Potsdam gründet Notfallverbund",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/potsdam-feuerwehr-notfallverbund-museen-bibliotheken.html",
-      "date": "Thu, 15 Oct 2026 11:52:20 +0200"
     }
   ]
 }
