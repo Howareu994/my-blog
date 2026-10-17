@@ -1,14 +1,54 @@
 {
   "traffic": [
     {
+      "title": "Bahnrad-WM: Pauline Grabosch gewinnt Gold-Medaille im 1.000-Meter-Zeitfahren",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/10/bahnrad-wm-shanghai-pauline-grabosch-cottbus-gold-medaille-1000-meter-zeitfahren.html",
+      "date": "Sat, 17 Oct 2026 13:08:03 +0200"
+    },
+    {
+      "title": "BVV Reinickendorf: Wie geht’s nach der Berlin-Wahl weiter?",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/bvv/reinickendorf-parteien-verhandlungen-cdu-afd-linke.html",
+      "date": "Sat, 17 Oct 2026 13:04:27 +0200"
+    },
+    {
+      "title": "Mann bei Auseinandersetzung in Berlin lebensgefährlich verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-kreuzberg-28-jaehriger-mann-lebensgefaehrlich-verletzt.html",
+      "date": "Sat, 17 Oct 2026 12:50:08 +0200"
+    },
+    {
+      "title": "Berlin-Spandau: 82-Jähriger stirbt nach Autounfall im Krankenhaus",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/autounfall-berlin-spandau-82-jaehriger-gestorben.html",
+      "date": "Sat, 17 Oct 2026 12:21:21 +0200"
+    },
+    {
+      "title": "Fußball: Deutsche Ü80-Nationalmannschaft gewinnt WM",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-ue80-wm-australien-deutschland-hertha-michael-raetsch-weltmeister.html",
+      "date": "Sat, 17 Oct 2026 11:56:00 +0200"
+    },
+    {
+      "title": "Frankfurt (Oder): Jugendliche schlagen Schüler zusammen – Polizei ermittelt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/schlaegerei-oberschule-frankfurt-oder-polizei.html",
+      "date": "Sat, 17 Oct 2026 10:49:00 +0200"
+    },
+    {
+      "title": "Schmerzmittel im Amateursport: Warum Ibuprofen gefährlich werden kann",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/10/schmerzmittel-amateursport-ibuprofen-nebenwirkungen-studienumfrage-uni-rostock.html",
+      "date": "Sat, 17 Oct 2026 10:11:22 +0200"
+    },
+    {
+      "title": "Cottbus nach dem Nürnberg-Spiel: Wieder was gelernt",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-zweite-bundesliga-energie-cottbus-nuernberg-analyse-pele-wollitz-miro-klose.html",
+      "date": "Sat, 17 Oct 2026 10:11:08 +0200"
+    },
+    {
       "title": "Tarifeinigung: Mehr Geld für Fachkräfte im Brandenburger Gastgewerbe",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/10/tarifvertrag-gastgewerbe-brandenburg-einigung-fachkraefte.html",
       "date": "Sat, 17 Oct 2026 09:01:41 +0200"
     },
     {
-      "title": "Mann bei Auseinandersetzung in Berlin lebensgefährlich verletzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-kreuzberg-40-jaehriger-mann-lebensgefaehrlich-verletzt.html",
-      "date": "Sat, 17 Oct 2026 07:51:00 +0200"
+      "title": "Schmerzmittel im Sport und die Folgen unkontrollierter Einnahme",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/10/schmerzmittel-breitensport-interview-jan-peter-jansen-schmerzmedizin-berlin-ibuprofen.html",
+      "date": "Sat, 17 Oct 2026 07:24:21 +0200"
     },
     {
       "title": "Eishockey: Eisbären-Serie reißt im Topspiel gegen München",
@@ -16,52 +56,42 @@
       "date": "Fri, 16 Oct 2026 22:22:26 +0200"
     },
     {
-      "title": "Regionalliga Nordost: Tasmania mit Befreiungsschlag gegen Babelsberg",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-regionalliga-nordost-hertha-bsc-u23-rsv-eintracht-stahnsdorf-tasmania-berlin-babelsberg-03-spielbericht.html",
-      "date": "Fri, 16 Oct 2026 21:51:00 +0200"
-    },
-    {
-      "title": "EM-Gold: Tischtennis-Mixed um Mittelham gewinnt Fünfsatzkrimi",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/deutschland-tischtennis-em-finale-mixed-gold-mittelham-duda-ttc-eastside.html",
-      "date": "Fri, 16 Oct 2026 21:48:51 +0200"
-    },
-    {
-      "title": "15- und 17-Jähriger nach Angriff in Berlin-Wannsee festgenommen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/haftbefehl-jugendliche-gewalt-potsdam.html",
-      "date": "Fri, 16 Oct 2026 21:33:17 +0200"
-    },
-    {
-      "title": "Hertha verpasst Startrekord und lässt in Kiel Punkte liegen",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-zweite-bundesliga-holstein-kiel-hertha-bsc-liveticker-audio-stream-spielbericht.html",
-      "date": "Fri, 16 Oct 2026 21:13:40 +0200"
-    },
-    {
-      "title": "Zugverkehr zwischen Berlin und Cottbus teilweise unterbrochen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-berlin-cottbus-zug-ausfaelle-ersatzverkehr-re2-re7-re20.html",
-      "date": "Fri, 16 Oct 2026 21:02:43 +0200"
-    },
-    {
-      "title": "Fußball: Cottbus gibt Sieg gegen Nürnberg spät aus der Hand",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-zweite-bundesliga-energie-cottbus-nuernberg-liveticker-audiostream-spielbericht.html",
-      "date": "Fri, 16 Oct 2026 20:52:25 +0200"
-    },
-    {
-      "title": "Frankfurt (Oder): Polizei ermittelt nach Schlägerei vor Schule",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/schlaegerei-oberschule-frankfurt-oder-polizei.html",
-      "date": "Fri, 16 Oct 2026 20:39:00 +0200"
-    },
-    {
-      "title": "BR Volleys ziehen gegen Netzhoppers ins Ligacup-Halbfinale ein",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/volleyball-ligacup-br-volleys-netzhoppers-kw-spielbericht.html",
-      "date": "Fri, 16 Oct 2026 20:37:54 +0200"
-    },
-    {
-      "title": "Berliner Linksfraktionsvorstand sieht keine Grundlage mehr für Zusammenarbeit mit Emde",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/linke-fraktion-sondersitzung-emde-sondierung.html",
-      "date": "Fri, 16 Oct 2026 20:34:40 +0200"
+      "title": "Hertha ist gegen Kiel dem eigenen Ideal nicht nahe genug gekommen",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/10/berlin-fussball-hertha-bsc-holstein-kiel-walter-leitl-goerlich-analyse.html",
+      "date": "Fri, 16 Oct 2026 22:13:00 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Fußgängerin nach Zusammenstoß mit Auto verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1727163.php",
+      "date": "Sat, 17 Oct 2026 13:24:00 +0200"
+    },
+    {
+      "title": "Scheibe mit Stein eingeworfen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1727162.php",
+      "date": "Sat, 17 Oct 2026 13:12:41 +0200"
+    },
+    {
+      "title": "Fußgängerin mit Gesichtsverletzungen in Krankenhaus gebracht",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1727145.php",
+      "date": "Sat, 17 Oct 2026 12:22:02 +0200"
+    },
+    {
+      "title": "Kind nach Unfall im Krankenhaus",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1727143.php",
+      "date": "Sat, 17 Oct 2026 11:49:47 +0200"
+    },
+    {
+      "title": "82-Jähriger nach Verkehrsunfall im Krankenhaus verstorben",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1727138.php",
+      "date": "Sat, 17 Oct 2026 11:20:00 +0200"
+    },
+    {
+      "title": "Versuchtes Tötungsdelikt – Mordkommission ermittelt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1727134.php",
+      "date": "Sat, 17 Oct 2026 11:15:00 +0200"
+    },
     {
       "title": "Polizeibeamter bei Verkehrskontrolle angegriffen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1726853.php",
@@ -91,36 +121,6 @@
       "title": "Fußgänger bei Verkehrsunfall verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1726395.php",
       "date": "Thu, 15 Oct 2026 15:42:28 +0200"
-    },
-    {
-      "title": "Kleinkrafträder gestohlen - Festnahmen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1726361.php",
-      "date": "Thu, 15 Oct 2026 14:56:50 +0200"
-    },
-    {
-      "title": "Schlag gegen mutmaßliche kriminelle Vereinigung – Durchsuchungsbeschlüsse und Haftbefehle vollstreckt sowie Vermögenswerte in Millionenhöhe gesichert",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1726313.php",
-      "date": "Thu, 15 Oct 2026 13:52:28 +0200"
-    },
-    {
-      "title": "Sachbeschädigungen an Parteibüros – eine Festnahme",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1726211.php",
-      "date": "Thu, 15 Oct 2026 12:06:17 +0200"
-    },
-    {
-      "title": "Verkehrsunfall – beim Fahrstreifenwechsel Motorradfahrer übersehen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1726170.php",
-      "date": "Thu, 15 Oct 2026 11:31:28 +0200"
-    },
-    {
-      "title": "Mann bedroht Ehefrau und Kinder – Festnahme",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1726132.php",
-      "date": "Thu, 15 Oct 2026 10:51:18 +0200"
-    },
-    {
-      "title": "Verkehrsunfall mit Fahrerflucht – Polizei bittet um Mithilfe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1725812.php",
-      "date": "Wed, 14 Oct 2026 16:39:24 +0200"
     }
   ],
   "free_events": [],
@@ -129,8 +129,18 @@
   "ethics": [
     {
       "title": "Mann bei Auseinandersetzung in Berlin lebensgefährlich verletzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-kreuzberg-40-jaehriger-mann-lebensgefaehrlich-verletzt.html",
-      "date": "Sat, 17 Oct 2026 07:51:00 +0200"
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-kreuzberg-28-jaehriger-mann-lebensgefaehrlich-verletzt.html",
+      "date": "Sat, 17 Oct 2026 12:50:08 +0200"
+    },
+    {
+      "title": "Berlin-Spandau: 82-Jähriger stirbt nach Autounfall im Krankenhaus",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/autounfall-berlin-spandau-82-jaehriger-gestorben.html",
+      "date": "Sat, 17 Oct 2026 12:21:21 +0200"
+    },
+    {
+      "title": "Frankfurt (Oder): Jugendliche schlagen Schüler zusammen – Polizei ermittelt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/schlaegerei-oberschule-frankfurt-oder-polizei.html",
+      "date": "Sat, 17 Oct 2026 10:49:00 +0200"
     },
     {
       "title": "Forschung über Eva Mamlok: Historikerin über Widerstandskämpferin",
@@ -151,11 +161,6 @@
       "title": "Hennigsdorf-Nord: Wie Stadt und Land einen sozialen Brennpunkt aufwerten wollen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-hennigsdorf-nord-investitionen-brennpunkt.html",
       "date": "Fri, 16 Oct 2026 20:40:34 +0200"
-    },
-    {
-      "title": "Frankfurt (Oder): Polizei ermittelt nach Schlägerei vor Schule",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/schlaegerei-oberschule-frankfurt-oder-polizei.html",
-      "date": "Fri, 16 Oct 2026 20:39:00 +0200"
     },
     {
       "title": "Sido ersteigert Smoking von Harald Juhnke für guten Zweck",
@@ -181,11 +186,6 @@
       "title": "Neuruppin streicht zehn Prozent der Stellen in Stadtverwaltung",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/neuruppin-stadtverwaltung-personal-stellen-sparen.html",
       "date": "Fri, 16 Oct 2026 13:40:41 +0200"
-    },
-    {
-      "title": "Herbstferien beginnen in Berlin und Brandenburg mit Reisewelle",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/herbstferien-berlin-brandenburg-reisewelle-verkehr.html",
-      "date": "Fri, 16 Oct 2026 13:23:00 +0200"
     }
   ]
 }
