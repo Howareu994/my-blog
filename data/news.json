@@ -1,14 +1,44 @@
 {
   "traffic": [
     {
-      "title": "Linke, Grüne und SPD erzielen Einigung bei Sondierungen in Berlin",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-sondierungen-linke-gruene-spd-abgeschlossen.html",
-      "date": "Sat, 17 Oct 2026 15:50:42 +0200"
+      "title": "Berliner Kleistpark: Schüler protestieren für bessere Bildung",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-schueler-protest-bessere-bildung-schoeneberg-kleistpark.html",
+      "date": "Sat, 17 Oct 2026 18:57:05 +0200"
     },
     {
-      "title": "Jetzt live hören und im Ticker: Kann Union den BVB ärgern?",
+      "title": "Gaskunden müssen mit höheren Netzentgelten rechnen",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/10/haushalte-gas-netzentgelte-gebuehren-netzgebuehren-berlin-brandenburgde.html",
+      "date": "Sat, 17 Oct 2026 18:24:16 +0200"
+    },
+    {
+      "title": "Capital Bra soll 250.000 Euro wegen Werbung für illegales Glücksspiel zahlen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/capital-bra-250000-euro-zwangsgeld-gluecksspiel-verwaltungsgeriich-berlin.html",
+      "date": "Sat, 17 Oct 2026 18:22:41 +0200"
+    },
+    {
+      "title": "Bericht einer 67-jährige Reinigungskraft aus Potsdam",
+      "link": "https://www.rbb24.de/panorama/thema/wiegehtesuns/rente-arbeit-reinigungskraft-67-jahre-potsdam.html",
+      "date": "Sat, 17 Oct 2026 18:21:04 +0200"
+    },
+    {
+      "title": "BR Volleys erreichen Finale des Volleyball-Ligacups",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/10/volleyball-bundesliga-liga-cup-hildesheim-br-volleys-friedrichshafen-netzhoppers-freiburg.html",
+      "date": "Sat, 17 Oct 2026 18:10:30 +0200"
+    },
+    {
+      "title": "Bundesliga: Union verdient sich gegen Dortmund einen Punkt",
       "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-bundesliga-union-berlin-borussia-dortmund-bvb-liveticker-audio-stream-sportschau-spielbericht.html",
-      "date": "Sat, 17 Oct 2026 15:27:01 +0200"
+      "date": "Sat, 17 Oct 2026 18:05:46 +0200"
+    },
+    {
+      "title": "Linke, Grüne und SPD wollen Koalitionsverhandlungen aufnehmen",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-sondierungen-linke-gruene-spd-abgeschlossen.html",
+      "date": "Sat, 17 Oct 2026 17:58:24 +0200"
+    },
+    {
+      "title": "Rot-Grün-Rot plant Vergesellschaftung großer Wohnungsbestände in Berlin",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/linke-gruene-spd-vergesellschaftung-wohnungskonzerne-sondierungen.html",
+      "date": "Sat, 17 Oct 2026 17:45:00 +0200"
     },
     {
       "title": "Attacke in Frankfurt (Oder): Polizei geht zu Verdächtigen nach Hause",
@@ -29,31 +59,6 @@
       "title": "Mann bei Auseinandersetzung in Berlin lebensgefährlich verletzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-kreuzberg-28-jaehriger-mann-lebensgefaehrlich-verletzt.html",
       "date": "Sat, 17 Oct 2026 12:50:08 +0200"
-    },
-    {
-      "title": "Berlin-Spandau: 82-Jähriger stirbt nach Autounfall im Krankenhaus",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/autounfall-berlin-spandau-82-jaehriger-gestorben.html",
-      "date": "Sat, 17 Oct 2026 12:21:21 +0200"
-    },
-    {
-      "title": "Fußball: Deutsche Ü80-Nationalmannschaft gewinnt WM",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-ue80-wm-australien-deutschland-hertha-michael-raetsch-weltmeister.html",
-      "date": "Sat, 17 Oct 2026 11:56:00 +0200"
-    },
-    {
-      "title": "Frankfurt (Oder): Jugendliche schlagen Schüler zusammen – Polizei ermittelt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/schlaegerei-oberschule-frankfurt-oder-polizei.html",
-      "date": "Sat, 17 Oct 2026 10:49:00 +0200"
-    },
-    {
-      "title": "Schmerzmittel im Amateursport: Warum Ibuprofen gefährlich werden kann",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/schmerzmittel-amateursport-ibuprofen-nebenwirkungen-studienumfrage-uni-rostock.html",
-      "date": "Sat, 17 Oct 2026 10:11:22 +0200"
-    },
-    {
-      "title": "Cottbus nach dem Nürnberg-Spiel: Wieder was gelernt",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-zweite-bundesliga-energie-cottbus-nuernberg-analyse-pele-wollitz-miro-klose.html",
-      "date": "Sat, 17 Oct 2026 10:11:08 +0200"
     }
   ],
   "police": [
@@ -123,6 +128,21 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Berliner Kleistpark: Schüler protestieren für bessere Bildung",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-schueler-protest-bessere-bildung-schoeneberg-kleistpark.html",
+      "date": "Sat, 17 Oct 2026 18:57:05 +0200"
+    },
+    {
+      "title": "Capital Bra soll 250.000 Euro wegen Werbung für illegales Glücksspiel zahlen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/capital-bra-250000-euro-zwangsgeld-gluecksspiel-verwaltungsgeriich-berlin.html",
+      "date": "Sat, 17 Oct 2026 18:22:41 +0200"
+    },
+    {
+      "title": "Bericht einer 67-jährige Reinigungskraft aus Potsdam",
+      "link": "https://www.rbb24.de/panorama/thema/wiegehtesuns/rente-arbeit-reinigungskraft-67-jahre-potsdam.html",
+      "date": "Sat, 17 Oct 2026 18:21:04 +0200"
+    },
+    {
       "title": "Attacke in Frankfurt (Oder): Polizei geht zu Verdächtigen nach Hause",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/gewalt-vor-oberschule-frankfurt-oder-polizei-redmann.html",
       "date": "Sat, 17 Oct 2026 15:11:06 +0200"
@@ -166,21 +186,6 @@
       "title": "Sido ersteigert Smoking von Harald Juhnke für guten Zweck",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/sido-juhnke-smoking-versteigerung.html",
       "date": "Fri, 16 Oct 2026 17:49:35 +0200"
-    },
-    {
-      "title": "Schüler blockieren Zugang zu Gymnasium in Berlin-Friedrichshain",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/gymnasium-berlin-friedrichshain-schueler-blockade-protest.html",
-      "date": "Fri, 16 Oct 2026 15:52:40 +0200"
-    },
-    {
-      "title": "Blücherplatz in Berlin-Kreuzberg in Eva-Mamlok-Platz umbenannt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/umbenennung-bluecherplatz-eva-mamlok-platz-berlin-kreuzberg.html",
-      "date": "Fri, 16 Oct 2026 14:46:14 +0200"
-    },
-    {
-      "title": "Erneut im Visier: Neuköllner Café zum zweiten Mal beschossen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-neukoelln-schuesse-erneuter-angriff-auf-cafe.html",
-      "date": "Fri, 16 Oct 2026 14:29:46 +0200"
     }
   ]
 }
