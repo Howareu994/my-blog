@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Linke, Grüne und SPD erzielen Einigung bei Sondierungen in Berlin",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-sondierungen-linke-gruene-spd-abgeschlossen.html",
+      "date": "Sat, 17 Oct 2026 15:50:42 +0200"
+    },
+    {
+      "title": "Jetzt live hören und im Ticker: Kann Union den BVB ärgern?",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-bundesliga-union-berlin-borussia-dortmund-bvb-liveticker-audio-stream-sportschau-spielbericht.html",
+      "date": "Sat, 17 Oct 2026 15:27:01 +0200"
+    },
+    {
+      "title": "Attacke in Frankfurt (Oder): Polizei geht zu Verdächtigen nach Hause",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/gewalt-vor-oberschule-frankfurt-oder-polizei-redmann.html",
+      "date": "Sat, 17 Oct 2026 15:11:06 +0200"
+    },
+    {
       "title": "Bahnrad-WM: Pauline Grabosch gewinnt Gold-Medaille im 1.000-Meter-Zeitfahren",
       "link": "https://www.rbb24.de/sport/beitrag/2026/10/bahnrad-wm-shanghai-pauline-grabosch-cottbus-gold-medaille-1000-meter-zeitfahren.html",
       "date": "Sat, 17 Oct 2026 13:08:03 +0200"
@@ -8,7 +23,7 @@
     {
       "title": "BVV Reinickendorf: Wie geht’s nach der Berlin-Wahl weiter?",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/bvv/reinickendorf-parteien-verhandlungen-cdu-afd-linke.html",
-      "date": "Sat, 17 Oct 2026 13:04:27 +0200"
+      "date": "Sat, 17 Oct 2026 13:04:00 +0200"
     },
     {
       "title": "Mann bei Auseinandersetzung in Berlin lebensgefährlich verletzt",
@@ -39,26 +54,6 @@
       "title": "Cottbus nach dem Nürnberg-Spiel: Wieder was gelernt",
       "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-zweite-bundesliga-energie-cottbus-nuernberg-analyse-pele-wollitz-miro-klose.html",
       "date": "Sat, 17 Oct 2026 10:11:08 +0200"
-    },
-    {
-      "title": "Tarifeinigung: Mehr Geld für Fachkräfte im Brandenburger Gastgewerbe",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/10/tarifvertrag-gastgewerbe-brandenburg-einigung-fachkraefte.html",
-      "date": "Sat, 17 Oct 2026 09:01:41 +0200"
-    },
-    {
-      "title": "Schmerzmittel im Sport und die Folgen unkontrollierter Einnahme",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/schmerzmittel-breitensport-interview-jan-peter-jansen-schmerzmedizin-berlin-ibuprofen.html",
-      "date": "Sat, 17 Oct 2026 07:24:21 +0200"
-    },
-    {
-      "title": "Eishockey: Eisbären-Serie reißt im Topspiel gegen München",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/eishockey-del-eisbaeren-berlin-muenchen.html",
-      "date": "Fri, 16 Oct 2026 22:22:26 +0200"
-    },
-    {
-      "title": "Hertha ist gegen Kiel dem eigenen Ideal nicht nahe genug gekommen",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/berlin-fussball-hertha-bsc-holstein-kiel-walter-leitl-goerlich-analyse.html",
-      "date": "Fri, 16 Oct 2026 22:13:00 +0200"
     }
   ],
   "police": [
@@ -128,6 +123,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Attacke in Frankfurt (Oder): Polizei geht zu Verdächtigen nach Hause",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/gewalt-vor-oberschule-frankfurt-oder-polizei-redmann.html",
+      "date": "Sat, 17 Oct 2026 15:11:06 +0200"
+    },
+    {
       "title": "Mann bei Auseinandersetzung in Berlin lebensgefährlich verletzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-kreuzberg-28-jaehriger-mann-lebensgefaehrlich-verletzt.html",
       "date": "Sat, 17 Oct 2026 12:50:08 +0200"
@@ -181,11 +181,6 @@
       "title": "Erneut im Visier: Neuköllner Café zum zweiten Mal beschossen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-neukoelln-schuesse-erneuter-angriff-auf-cafe.html",
       "date": "Fri, 16 Oct 2026 14:29:46 +0200"
-    },
-    {
-      "title": "Neuruppin streicht zehn Prozent der Stellen in Stadtverwaltung",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/neuruppin-stadtverwaltung-personal-stellen-sparen.html",
-      "date": "Fri, 16 Oct 2026 13:40:41 +0200"
     }
   ]
 }
