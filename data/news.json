@@ -1,6 +1,16 @@
 {
   "traffic": [
     {
+      "title": "Hertha BSC: Von diesen Vereinen kommen die meisten Top-Talente",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-zweite-bundesliga-hertha-bsc-talente-berliner-vereine-hertha-03-tebe-fuechse-staaken-union.html",
+      "date": "Mon, 19 Oct 2026 06:52:44 +0200"
+    },
+    {
+      "title": "Vor 20 Jahren scheiterte Berlins Haushalt in Karlsruhe",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/10/berlin-20-jahre-karlsruhe-bundesverfassungsgericht-haushalt-notlage-schulden.html",
+      "date": "Mon, 19 Oct 2026 06:49:18 +0200"
+    },
+    {
       "title": "Volleyball: BR Volleys zittern sich zum Titel beim Ligacup",
       "link": "https://www.rbb24.de/sport/beitrag/2026/10/volleyball-vbl-ligacup-br-volleys-giesen-finale-netzhoppers-dueren.html",
       "date": "Sun, 18 Oct 2026 22:41:00 +0200"
@@ -36,11 +46,6 @@
       "date": "Sun, 18 Oct 2026 17:07:28 +0200"
     },
     {
-      "title": "Bundesliga: Union-Frauen bauen Serie mit Sieg gegen Nürnberg aus",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-frauen-bundesliga-union-berlin-nuernberg-spielbericht.html",
-      "date": "Sun, 18 Oct 2026 16:34:25 +0200"
-    },
-    {
       "title": "Bahnrad-WM: Friedrich gewinnt Keirin-Silber, Kluge holt Bronze im Madison",
       "link": "https://www.rbb24.de/sport/beitrag/2026/10/bahnrad-weltmeisterschaft-shanghai-lea-sophie-friedrich-keirin-roger-kluge-madison.html",
       "date": "Sun, 18 Oct 2026 16:17:10 +0200"
@@ -54,11 +59,6 @@
       "title": "Gleis 17 im Grunewald: Berlin erinnert an Deportation von Juden vor 85 Jahren",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/gedenken-deportation-85-jahre-ns-regime-juden-berlin.html",
       "date": "Sun, 18 Oct 2026 15:09:13 +0200"
-    },
-    {
-      "title": "36-Jähriger Autofahrer fährt betrunken über Rot - mehrere Verletzte in Berlin-Lichtenberg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/polizei-berlin-betrunken-rot-verletzte-fennpfuhl-lichtenberg.html",
-      "date": "Sun, 18 Oct 2026 14:53:43 +0200"
     }
   ],
   "police": [
