@@ -1,6 +1,56 @@
 {
   "traffic": [
     {
+      "title": "Razzia in Zentrum für queere Menschen in Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/razzia-berlin-trans-zentrum.html",
+      "date": "Mon, 19 Oct 2026 13:08:17 +0200"
+    },
+    {
+      "title": "Eishockey: Wie die Eisbären dem Trainer-Orakel bisher trotzen",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/10/eishockey-berlin-eisbaeren-saisonstart-jonas-neffin-eric-dubois.html",
+      "date": "Mon, 19 Oct 2026 12:33:00 +0200"
+    },
+    {
+      "title": "Nach Störung: Berliner S-Bahnen fahren wieder im Regelbetrieb",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-s-bahn-ringbahn-ausfaelle-verspaetungen.html",
+      "date": "Mon, 19 Oct 2026 12:28:03 +0200"
+    },
+    {
+      "title": "Ex-Linken-Politiker Dehm soll wegen SA-Parole Geldstrafe zahlen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/ex-linken-politiker-diether-dehm-sa-parole-strafbefehl.html",
+      "date": "Mon, 19 Oct 2026 12:17:49 +0200"
+    },
+    {
+      "title": "Berlin-Spandau: 82-Jähriger stirbt nach Autounfall im Krankenhaus",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/autounfall-berlin-spandau-82-jaehriger-gestorben.html",
+      "date": "Mon, 19 Oct 2026 12:13:46 +0200"
+    },
+    {
+      "title": "B167 zwischen A24 und Ortseingang Neuruppin voll gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-neuruppin-b167-vollsperrung.html",
+      "date": "Mon, 19 Oct 2026 11:06:43 +0200"
+    },
+    {
+      "title": "Uckermark: Wolf stirbt bei Autounfall in Brandenburg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/wolf-tot-autounfall-b2-gartz-uckermark-brandenburg.html",
+      "date": "Mon, 19 Oct 2026 11:05:32 +0200"
+    },
+    {
+      "title": "Elch verursacht auf A13 Beinah-Unfall",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/elch-autobahn-brandenburg-a13.html",
+      "date": "Mon, 19 Oct 2026 10:38:00 +0200"
+    },
+    {
+      "title": "Koalitionsgespräche in Berlin: SPD und Grüne wollen Montag entscheiden",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/spd-landesvorstand-gruene-parteitag-koalitionsgespraeche.html",
+      "date": "Mon, 19 Oct 2026 09:59:19 +0200"
+    },
+    {
+      "title": "Konzertkritik: The Hu in der Columbiahalle",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/10/konzert-kritik-the-hu-heavy-rock-columbiahalle-berlin.html",
+      "date": "Mon, 19 Oct 2026 09:42:00 +0200"
+    },
+    {
       "title": "Hertha BSC: Von diesen Vereinen kommen die meisten Top-Talente",
       "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-zweite-bundesliga-hertha-bsc-talente-berliner-vereine-hertha-03-tebe-fuechse-staaken-union.html",
       "date": "Mon, 19 Oct 2026 06:52:44 +0200"
@@ -9,59 +59,29 @@
       "title": "Vor 20 Jahren scheiterte Berlins Haushalt in Karlsruhe",
       "link": "https://www.rbb24.de/politik/beitrag/2026/10/berlin-20-jahre-karlsruhe-bundesverfassungsgericht-haushalt-notlage-schulden.html",
       "date": "Mon, 19 Oct 2026 06:49:18 +0200"
-    },
-    {
-      "title": "Volleyball: BR Volleys zittern sich zum Titel beim Ligacup",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/volleyball-vbl-ligacup-br-volleys-giesen-finale-netzhoppers-dueren.html",
-      "date": "Sun, 18 Oct 2026 22:41:00 +0200"
-    },
-    {
-      "title": "2. Liga: Viktoria siegt zum siebten Mal in Serie",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-zweite-liga-frauen-hertha-sand-viktoria-ingolstadt-bochum-turbine.html",
-      "date": "Sun, 18 Oct 2026 20:39:24 +0200"
-    },
-    {
-      "title": "Eishockey: Effiziente Eisbären siegen souverän in Krefeld",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/eishockey-del-krefeld-pinguine-eisbaeren-berlin-spielbericht.html",
-      "date": "Sun, 18 Oct 2026 18:45:58 +0200"
-    },
-    {
-      "title": "Koalitionsgespräche in Berlin: SPD und Grüne wollen Montag entscheiden",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/spd-landesvorstand-gruene-parteitag-koalitionsgespraeche.html",
-      "date": "Sun, 18 Oct 2026 17:35:17 +0200"
-    },
-    {
-      "title": "Handball: Füchse verlieren in Flensburg mit letzter Aktion",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/handball-bundesliga-flensburg-handewitt-fuechse-berlin-spielbericht.html",
-      "date": "Sun, 18 Oct 2026 17:25:25 +0200"
-    },
-    {
-      "title": "Brandenburger Schlachtefest lockt 14.000 ins Havelland",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburger-schlachtefest-havelland-paaren-im-glien.html",
-      "date": "Sun, 18 Oct 2026 17:24:55 +0200"
-    },
-    {
-      "title": "Regionalliga Nordost: BFC Dynamo punktet gegen Chemnitz",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-regionalliga-nordost-bfc-dynamo-chemnitzer-fc-spielbericht.html",
-      "date": "Sun, 18 Oct 2026 17:07:28 +0200"
-    },
-    {
-      "title": "Bahnrad-WM: Friedrich gewinnt Keirin-Silber, Kluge holt Bronze im Madison",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/bahnrad-weltmeisterschaft-shanghai-lea-sophie-friedrich-keirin-roger-kluge-madison.html",
-      "date": "Sun, 18 Oct 2026 16:17:10 +0200"
-    },
-    {
-      "title": "Kolumne \"Was war das denn?\": Bringt Comic Sans zurück!",
-      "link": "https://www.rbb24.de/panorama/thema/was-war-das-denn/werbung-stadtbild-kuenstliche-intelligenz-ki-slops.html",
-      "date": "Sun, 18 Oct 2026 15:24:56 +0200"
-    },
-    {
-      "title": "Gleis 17 im Grunewald: Berlin erinnert an Deportation von Juden vor 85 Jahren",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/gedenken-deportation-85-jahre-ns-regime-juden-berlin.html",
-      "date": "Sun, 18 Oct 2026 15:09:13 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Mutmaßlicher Wohnungseinbrecher festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1727447.php",
+      "date": "Mon, 19 Oct 2026 13:04:00 +0200"
+    },
+    {
+      "title": "Polizeiliche Maßnahmen wegen des Verdachts der Arzneimittelkriminalität",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1727423.php",
+      "date": "Mon, 19 Oct 2026 13:02:00 +0200"
+    },
+    {
+      "title": "Beifahrerin ebenfalls im Krankenhaus verstorben",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1727383.php",
+      "date": "Mon, 19 Oct 2026 12:42:00 +0200"
+    },
+    {
+      "title": "Öffentlichkeitsfahndung nach gefährlicher Körperverletzung erfolgreich",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1726589.php",
+      "date": "Mon, 19 Oct 2026 09:35:00 +0200"
+    },
     {
       "title": "Verkehrsunfall mit drei Beteiligten",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1727212.php",
@@ -101,26 +121,6 @@
       "title": "82-Jähriger nach Verkehrsunfall im Krankenhaus verstorben",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1727138.php",
       "date": "Sat, 17 Oct 2026 11:20:00 +0200"
-    },
-    {
-      "title": "Versuchtes Tötungsdelikt – Mordkommission ermittelt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1727134.php",
-      "date": "Sat, 17 Oct 2026 11:15:00 +0200"
-    },
-    {
-      "title": "Polizeibeamter bei Verkehrskontrolle angegriffen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1726853.php",
-      "date": "Fri, 16 Oct 2026 13:33:11 +0200"
-    },
-    {
-      "title": "Erneut Schüsse auf Café",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1726838.php",
-      "date": "Fri, 16 Oct 2026 13:24:44 +0200"
-    },
-    {
-      "title": "Festnahmen nach Angriff auf Heranwachsende",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1726797.php",
-      "date": "Fri, 16 Oct 2026 13:09:58 +0200"
     }
   ],
   "free_events": [],
@@ -128,64 +128,64 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Razzia in Zentrum für queere Menschen in Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/razzia-berlin-trans-zentrum.html",
+      "date": "Mon, 19 Oct 2026 13:08:17 +0200"
+    },
+    {
+      "title": "Nach Störung: Berliner S-Bahnen fahren wieder im Regelbetrieb",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-s-bahn-ringbahn-ausfaelle-verspaetungen.html",
+      "date": "Mon, 19 Oct 2026 12:28:03 +0200"
+    },
+    {
+      "title": "Aktionswoche der Polizei soll gegen Einbrüche sensibilisieren",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-prignitz-einbruch-polizei-aktionswoche.html",
+      "date": "Mon, 19 Oct 2026 12:18:13 +0200"
+    },
+    {
+      "title": "Ex-Linken-Politiker Dehm soll wegen SA-Parole Geldstrafe zahlen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/ex-linken-politiker-diether-dehm-sa-parole-strafbefehl.html",
+      "date": "Mon, 19 Oct 2026 12:17:49 +0200"
+    },
+    {
+      "title": "Berlin-Spandau: 82-Jähriger stirbt nach Autounfall im Krankenhaus",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/autounfall-berlin-spandau-82-jaehriger-gestorben.html",
+      "date": "Mon, 19 Oct 2026 12:13:46 +0200"
+    },
+    {
+      "title": "Wieder RE1-Ausfälle zwischen Berlin und Fürstenwalde bis Freitag",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/re1-berlin-frankfurt-fuerstenwalde-zugausfaelle-bauarbeiten-busersatzverkehr-brandenburg.html",
+      "date": "Mon, 19 Oct 2026 12:10:31 +0200"
+    },
+    {
+      "title": "B167 zwischen A24 und Ortseingang Neuruppin voll gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-neuruppin-b167-vollsperrung.html",
+      "date": "Mon, 19 Oct 2026 11:06:43 +0200"
+    },
+    {
+      "title": "Uckermark: Wolf stirbt bei Autounfall in Brandenburg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/wolf-tot-autounfall-b2-gartz-uckermark-brandenburg.html",
+      "date": "Mon, 19 Oct 2026 11:05:32 +0200"
+    },
+    {
+      "title": "Elch verursacht auf A13 Beinah-Unfall",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/elch-autobahn-brandenburg-a13.html",
+      "date": "Mon, 19 Oct 2026 10:38:00 +0200"
+    },
+    {
+      "title": "Sieben Personen nach Unfall auf A13 im Krankenhaus",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-a13-unfall-kleintransporter-lkw-duben-freiwalde.html",
+      "date": "Mon, 19 Oct 2026 09:07:21 +0200"
+    },
+    {
       "title": "Brandenburger Schlachtefest lockt 14.000 ins Havelland",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburger-schlachtefest-havelland-paaren-im-glien.html",
-      "date": "Sun, 18 Oct 2026 17:24:55 +0200"
+      "date": "Sun, 18 Oct 2026 17:24:00 +0200"
     },
     {
       "title": "Kolumne \"Was war das denn?\": Bringt Comic Sans zurück!",
       "link": "https://www.rbb24.de/panorama/thema/was-war-das-denn/werbung-stadtbild-kuenstliche-intelligenz-ki-slops.html",
       "date": "Sun, 18 Oct 2026 15:24:56 +0200"
-    },
-    {
-      "title": "Gleis 17 im Grunewald: Berlin erinnert an Deportation von Juden vor 85 Jahren",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/gedenken-deportation-85-jahre-ns-regime-juden-berlin.html",
-      "date": "Sun, 18 Oct 2026 15:09:13 +0200"
-    },
-    {
-      "title": "36-Jähriger Autofahrer fährt betrunken über Rot - mehrere Verletzte in Berlin-Lichtenberg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/polizei-berlin-betrunken-rot-verletzte-fennpfuhl-lichtenberg.html",
-      "date": "Sun, 18 Oct 2026 14:53:43 +0200"
-    },
-    {
-      "title": "Hennigsdorf-Nord: Wie Stadt und Land einen sozialen Brennpunkt aufwerten wollen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-hennigsdorf-nord-investitionen-brennpunkt.html",
-      "date": "Sun, 18 Oct 2026 14:39:19 +0200"
-    },
-    {
-      "title": "Polnische Tramfahrerin liebt den Berliner Nahverkehr",
-      "link": "https://www.rbb24.de/panorama/thema/wiegehtesuns/berlin-polen-stettin-tram-fahrerin-nikola-gawronska.html",
-      "date": "Sun, 18 Oct 2026 14:11:39 +0200"
-    },
-    {
-      "title": "Betrunkene AfD-Mitarbeiter sollen sich im Bundestag geprügelt haben",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-betrunkene-afd-mitarbeiter-pruegelei-bundestag.html",
-      "date": "Sun, 18 Oct 2026 10:36:50 +0200"
-    },
-    {
-      "title": "Weinlese in Berlin: Berlins Geschichte vom Wein",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/weinanbau-weinberg-berlin-prenzlauer-berg-weingarten.html",
-      "date": "Sun, 18 Oct 2026 07:11:00 +0200"
-    },
-    {
-      "title": "Berliner Kleistpark: Schüler protestieren für bessere Bildung",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-schueler-protest-bessere-bildung-schoeneberg-kleistpark.html",
-      "date": "Sat, 17 Oct 2026 21:39:25 +0200"
-    },
-    {
-      "title": "Capital Bra soll 250.000 Euro wegen Werbung für illegales Glücksspiel zahlen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/capital-bra-250000-euro-zwangsgeld-gluecksspiel-verwaltungsgeriich-berlin.html",
-      "date": "Sat, 17 Oct 2026 18:22:41 +0200"
-    },
-    {
-      "title": "Bericht einer 67-jährige Reinigungskraft aus Potsdam",
-      "link": "https://www.rbb24.de/panorama/thema/wiegehtesuns/rente-arbeit-reinigungskraft-67-jahre-potsdam.html",
-      "date": "Sat, 17 Oct 2026 18:21:04 +0200"
-    },
-    {
-      "title": "Attacke in Frankfurt (Oder): Polizei geht zu Verdächtigen nach Hause",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/gewalt-vor-oberschule-frankfurt-oder-polizei-redmann.html",
-      "date": "Sat, 17 Oct 2026 15:11:06 +0200"
     }
   ]
 }
