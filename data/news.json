@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Europe mit \"The Final Countdown\" im Admiralspalast",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/10/berlin-konzert-europe-admiralspalast.html",
+      "date": "Tue, 20 Oct 2026 08:00:50 +0200"
+    },
+    {
+      "title": "A115: Brennender Pkw löst Stau auf Berliner Avus aus",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/anschlussstelle-huettenweg-avus-sperrung-stau.html",
+      "date": "Tue, 20 Oct 2026 07:49:46 +0200"
+    },
+    {
+      "title": "Positionen zu Israel: Berliner Linke berät über umstrittene Abgeordnete Emde",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-linke-israel-kritik-vanessa-emde-abgeordnete.html",
+      "date": "Tue, 20 Oct 2026 07:22:23 +0200"
+    },
+    {
       "title": "BBL-Pokal: Alba ringt Titelverteidiger Bamberg nieder",
       "link": "https://www.rbb24.de/sport/beitrag/2026/10/basketball-bbl-pokal-achtelfinale-alba-berlin-bamberg-spielbericht.html",
       "date": "Mon, 19 Oct 2026 22:40:02 +0200"
@@ -16,29 +31,14 @@
       "date": "Mon, 19 Oct 2026 21:13:21 +0200"
     },
     {
-      "title": "BR Volleys: Viel neues Personal und alte Ziele",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/volleyball-bundesliga-br-volleys-saisonstart-anastasi-neuer-trainer.html",
-      "date": "Mon, 19 Oct 2026 19:43:35 +0200"
-    },
-    {
       "title": "Nach Angriff auf 14-Jährigen: Fachleute betonen Bedeutung von Prävention",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/schlaegerei-oberschule-frankfurt-oder-sozialarbeit-anstieg-gewalt.html",
       "date": "Mon, 19 Oct 2026 19:06:16 +0200"
     },
     {
-      "title": "Videoüberwachung: Brandenburg plant Ausweitung an öffentlichen Orten",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/10/brandenburg-innenministerium-gesetzentwurf-videoueberwachung-kommunen.html",
-      "date": "Mon, 19 Oct 2026 17:11:53 +0200"
-    },
-    {
       "title": "Potsdam: Leiche in der Havel entdeckt  – Identität bisher unklar",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-potsdam-polizei-havel-leiche.html",
       "date": "Mon, 19 Oct 2026 16:22:37 +0200"
-    },
-    {
-      "title": "BEW bohrt in Marzahn zwei Kilometer tief für Erdwärme",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-geothermie-2-kilometer-bohrung-marzahn.html",
-      "date": "Mon, 19 Oct 2026 15:21:13 +0200"
     },
     {
       "title": "Wieder RE1-Ausfälle zwischen Berlin und Fürstenwalde bis Freitag",
@@ -128,6 +128,16 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "A115: Brennender Pkw löst Stau auf Berliner Avus aus",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/anschlussstelle-huettenweg-avus-sperrung-stau.html",
+      "date": "Tue, 20 Oct 2026 07:49:46 +0200"
+    },
+    {
+      "title": "Behinderte Kinder im Schulsystem: \"Es muss eine Schule für alle geben\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/inklusion-schulen-schueler-berlin-brandenburg-interview-arnade.html",
+      "date": "Tue, 20 Oct 2026 06:28:52 +0200"
+    },
+    {
       "title": "Attacke im Kreuzberg: Nach Gewaltangriff schwebt 28-Jähriger weiter in Lebensgefahr",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/gewalt-spaeti-28-jaehriger-lebensgefahr-verletzungen-mordkommission-kreuzberg.html",
       "date": "Mon, 19 Oct 2026 21:13:21 +0200"
@@ -176,16 +186,6 @@
       "title": "Aktionswoche der Polizei soll gegen Einbrüche sensibilisieren",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-prignitz-einbruch-polizei-aktionswoche.html",
       "date": "Mon, 19 Oct 2026 12:18:13 +0200"
-    },
-    {
-      "title": "Ex-Linken-Politiker Dehm soll wegen SA-Parole Geldstrafe zahlen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/ex-linken-politiker-diether-dehm-sa-parole-strafbefehl.html",
-      "date": "Mon, 19 Oct 2026 12:17:49 +0200"
-    },
-    {
-      "title": "B167 zwischen A24 und Ortseingang Neuruppin voll gesperrt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-neuruppin-b167-vollsperrung.html",
-      "date": "Mon, 19 Oct 2026 11:06:43 +0200"
     }
   ]
 }
