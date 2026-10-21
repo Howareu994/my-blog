@@ -1,67 +1,77 @@
 {
   "traffic": [
     {
+      "title": "Drei Wildschweine auf Friedhof Ruhleben erschossen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/wildschweinjagd.html",
+      "date": "Wed, 21 Oct 2026 12:44:38 +0200"
+    },
+    {
+      "title": "Lose Fassadenteile: Bezirksamt sperrt Bierpinsel weiträumig ab",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/10/berlin-steglitz-zehlendorf-bierpinsel-absperrung-lose-fassadente.html",
+      "date": "Wed, 21 Oct 2026 12:36:23 +0200"
+    },
+    {
+      "title": "Jede fünfte Wohnung in Spree-Neiße steht leer",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/10/leerstand-wohnungen-brandenburg-spree-neisse.html",
+      "date": "Wed, 21 Oct 2026 12:10:51 +0200"
+    },
+    {
+      "title": "Erstmals über einen Euro pro Brief: Post erhöht Porto deutlich",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/deutsche-post-porto-preise-aenderungen-2027.html",
+      "date": "Wed, 21 Oct 2026 11:44:37 +0200"
+    },
+    {
+      "title": "Jugendgewalt: \"Viele verspüren einen sehr tiefen Hass\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/jugendgewalt-brandenburg-berlin-junge-maenner-beweggruende.html",
+      "date": "Wed, 21 Oct 2026 11:26:10 +0200"
+    },
+    {
+      "title": "IT-Vorfall legt Kreisverwaltung Oberspreewald-Lausitz lahm",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/10/it-vorfall-oberspreewald-lausitz-verwaltung.html",
+      "date": "Wed, 21 Oct 2026 10:50:02 +0200"
+    },
+    {
+      "title": "Demonstration gegen Jugendgewalt: Polizei prüft mehrere Vorfälle",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/polizei-prueft-rassismus-vorfaelle-demo-afd-frankfurt-brandenburg-jugend-gewalt.html",
+      "date": "Wed, 21 Oct 2026 10:48:21 +0200"
+    },
+    {
+      "title": "Auerhühner fühlen sich in der Lausitz zunehmend wohler",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/projekt-wieder-ansiedlung-auerhuehner-niederlausitz.html",
+      "date": "Wed, 21 Oct 2026 10:39:58 +0200"
+    },
+    {
+      "title": "\"360-Grad-Sicherheitszentrum\": Neuer Arbeitskreis zur Gefahrenabwehr tagt",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/10/brandenburg-360-grad-sichterheitszentrum-angriffe-infrastruktur.html",
+      "date": "Wed, 21 Oct 2026 09:13:43 +0200"
+    },
+    {
+      "title": "Wetter in Berlin und Brandenburg: Ausgedehnte Regengebiete ziehen über die Region",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/wetter-wetteraussichten-berlin-brandenburg-regenschauer.html",
+      "date": "Wed, 21 Oct 2026 07:47:54 +0200"
+    },
+    {
       "title": "Hackerangriff: Ausweiskopie von Berliner Senatorin Bonde im Darknet",
       "link": "https://www.rbb24.de/politik/beitrag/2026/10/berlin-hackerangriff-verwaltung-darknet-rhysida-daten-senatorin-bonde.html",
-      "date": "Wed, 21 Oct 2026 06:05:27 +0200"
+      "date": "Wed, 21 Oct 2026 07:44:27 +0200"
     },
     {
-      "title": "Wie der Lauf in einem Gefängnis zur Resozialisierung beitragen soll",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/berlin-sport-lauf-gefaengnis-inhaftierte-resozialisierung-jva.html",
-      "date": "Tue, 20 Oct 2026 22:17:41 +0200"
-    },
-    {
-      "title": "Jugendgewalt: Hunderte protestieren nach AfD-Aufruf in Frankfurt (Oder)",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/10/gewalt-jugendliche-protest-aufruf-frankfurt-brandenburg.html",
-      "date": "Tue, 20 Oct 2026 20:47:21 +0200"
-    },
-    {
-      "title": "Berliner Frauenbasketball nach der WM: \"Gibt auf jeden Fall einen Hype\"",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/interview-frauen-basketball-wm-berlin-vereine-bbv-alba.html",
-      "date": "Tue, 20 Oct 2026 19:32:04 +0200"
-    },
-    {
-      "title": "Schülerprotest am 31. Oktober: Polizei warnt vor Unterwanderung",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-polizei-vorbereitung-protest-schueler-31-oktober-halloween.html",
-      "date": "Tue, 20 Oct 2026 19:04:41 +0200"
-    },
-    {
-      "title": "Rad-Profi Kluge nach WM-Bronze: \"Warum sollte ich da aufhören?\"",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/brandenburg-radsport-interview-roger-kluge-frankfurt-oder-wm-bronze-shanghai.html",
-      "date": "Tue, 20 Oct 2026 18:59:58 +0200"
-    },
-    {
-      "title": "Finnland und Irak: Flughafen BER stellt Flugziele im Winter vor",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/10/winterflugplan-flughafen-ber-fluege-berlin-brandenburg-ryanair-schoenefeld.html",
-      "date": "Tue, 20 Oct 2026 18:30:00 +0200"
-    },
-    {
-      "title": "Anschlag auf Berliner Stromnetz: Atommüll-Lager in Wannsee betroffen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-ausfall-strom-radioaktive-abfaelle-wannsee-notstrom.html",
-      "date": "Tue, 20 Oct 2026 18:27:00 +0200"
-    },
-    {
-      "title": "Teilautonomer Tesla-Shuttle soll Lehrer durch Grünheide fahren",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/10/tesla-plant-teilautonome-shuttles-in-gruenheide-lehrer.html",
-      "date": "Tue, 20 Oct 2026 18:14:32 +0200"
-    },
-    {
-      "title": "Berlins Sperrmüllproblem: Warum die kostenlose Abholung allein nicht reicht",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/sperrmuell-berlin-illegal-bussgelder-abholung-bsr.html",
-      "date": "Tue, 20 Oct 2026 18:02:00 +0200"
-    },
-    {
-      "title": "Neue Fahrkartenautomaten: Fahrgastverband kritisiert BVG-Pläne für digitale Tickets",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/10/berlin-bvg-fahrgastverband-kritik-digitale-tickets-fahrkarten-automaten.html",
-      "date": "Tue, 20 Oct 2026 16:10:35 +0200"
-    },
-    {
-      "title": "Potsdams einzige Müllwerkerin: Als Frau bei der Müllabfuhr",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/10/potsdamer-stadtentsorgung-muellwerkerin-muellabfuhr.html",
-      "date": "Tue, 20 Oct 2026 15:22:01 +0200"
+      "title": "\"Ein Glücksfall\": 80 Jahre Stadttheater in Senftenberg",
+      "link": "https://www.inforadio.de/rubriken/kultur/beitraege/2026/10/neue-buehne-senftenberg-theater-80-jahre-jubilaeum.html",
+      "date": "Wed, 21 Oct 2026 06:55:00 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Gefährliche Körperverletzung im Straßenverkehr",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1728645.php",
+      "date": "Wed, 21 Oct 2026 10:36:21 +0200"
+    },
+    {
+      "title": "Fußgänger bei Unfall verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1728638.php",
+      "date": "Wed, 21 Oct 2026 10:26:43 +0200"
+    },
     {
       "title": "Unbekannte Personen stehlen Fahrräder und flüchten vor der Polizei",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1728396.php",
@@ -111,22 +121,47 @@
       "title": "Polizeiliche Maßnahmen wegen des Verdachts der Arzneimittelkriminalität",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1727423.php",
       "date": "Mon, 19 Oct 2026 13:02:00 +0200"
-    },
-    {
-      "title": "Beifahrerin ebenfalls im Krankenhaus verstorben",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1727383.php",
-      "date": "Mon, 19 Oct 2026 12:42:00 +0200"
-    },
-    {
-      "title": "Öffentlichkeitsfahndung nach gefährlicher Körperverletzung erfolgreich",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1726589.php",
-      "date": "Mon, 19 Oct 2026 09:35:00 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Drei Wildschweine auf Friedhof Ruhleben erschossen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/wildschweinjagd.html",
+      "date": "Wed, 21 Oct 2026 12:44:38 +0200"
+    },
+    {
+      "title": "Erstmals über einen Euro pro Brief: Post erhöht Porto deutlich",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/deutsche-post-porto-preise-aenderungen-2027.html",
+      "date": "Wed, 21 Oct 2026 11:44:37 +0200"
+    },
+    {
+      "title": "Jugendgewalt: \"Viele verspüren einen sehr tiefen Hass\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/jugendgewalt-brandenburg-berlin-junge-maenner-beweggruende.html",
+      "date": "Wed, 21 Oct 2026 11:26:10 +0200"
+    },
+    {
+      "title": "Demonstration gegen Jugendgewalt: Polizei prüft mehrere Vorfälle",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/polizei-prueft-rassismus-vorfaelle-demo-afd-frankfurt-brandenburg-jugend-gewalt.html",
+      "date": "Wed, 21 Oct 2026 10:48:21 +0200"
+    },
+    {
+      "title": "Auerhühner fühlen sich in der Lausitz zunehmend wohler",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/projekt-wieder-ansiedlung-auerhuehner-niederlausitz.html",
+      "date": "Wed, 21 Oct 2026 10:39:58 +0200"
+    },
+    {
+      "title": "Prävention durch Sport: Wie Jugendliche Gewalt vermeiden lernen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/interview-sozialarbeit-jugendliche-jugendgewalt-sport-bewegung.html",
+      "date": "Wed, 21 Oct 2026 08:53:44 +0200"
+    },
+    {
+      "title": "Wetter in Berlin und Brandenburg: Ausgedehnte Regengebiete ziehen über die Region",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/wetter-wetteraussichten-berlin-brandenburg-regenschauer.html",
+      "date": "Wed, 21 Oct 2026 07:47:54 +0200"
+    },
     {
       "title": "Schülerprotest am 31. Oktober: Polizei warnt vor Unterwanderung",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-polizei-vorbereitung-protest-schueler-31-oktober-halloween.html",
@@ -151,41 +186,6 @@
       "title": "Berlin: Menschen kleben sich vor Rheinmetall-Firmengelände fest",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/demonstranten-kleben-rheinmetall-firmengelaende.html",
       "date": "Tue, 20 Oct 2026 13:14:21 +0200"
-    },
-    {
-      "title": "ARD-Programm \"Deine Meinung zählt!\" geht in zweite Runde",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/ard-beteiligungsprogramm-deine-meinung-zaehlt-demokratie.html",
-      "date": "Tue, 20 Oct 2026 12:38:16 +0200"
-    },
-    {
-      "title": "Nach mehr als 20 Jahren: Baustart für neue Ortsumgehung bei Frankfurt (Oder)",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/ortsumgehung-b112-baustart-frankfurt-oder-boossen-seelow.html",
-      "date": "Tue, 20 Oct 2026 12:01:53 +0200"
-    },
-    {
-      "title": "Eichenprozessionsspinner: Deutlich größerer Befall als im Vorjahr",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/groesserer-befall-mit-eichenprozessionsspinnern.html",
-      "date": "Tue, 20 Oct 2026 11:53:00 +0200"
-    },
-    {
-      "title": "Neuruppin streicht zehn Prozent der Stellen in Stadtverwaltung",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/neuruppin-stadtverwaltung-personal-stellen-sparen.html",
-      "date": "Tue, 20 Oct 2026 10:58:00 +0200"
-    },
-    {
-      "title": "Berlin: Wildschweine werden am Dienstag auf Friedhof bejagt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-charlottenburg-wilmersdorf-wildschwein-jagd-friedhof-ruhleben.html",
-      "date": "Tue, 20 Oct 2026 09:53:52 +0200"
-    },
-    {
-      "title": "A115: Brennender Pkw löst Stau auf Berliner Avus aus",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/09/anschlussstelle-huettenweg-avus-sperrung-stau.html",
-      "date": "Tue, 20 Oct 2026 07:49:46 +0200"
-    },
-    {
-      "title": "Behinderte Kinder im Schulsystem: \"Es muss eine Schule für alle geben\"",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/inklusion-schulen-schueler-berlin-brandenburg-interview-arnade.html",
-      "date": "Tue, 20 Oct 2026 06:28:52 +0200"
     }
   ]
 }
