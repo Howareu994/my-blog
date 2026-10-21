@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Hackerangriff: Ausweiskopie von Berliner Senatorin Bonde im Darknet",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/10/berlin-hackerangriff-verwaltung-darknet-rhysida-daten-senatorin-bonde.html",
+      "date": "Wed, 21 Oct 2026 06:05:27 +0200"
+    },
+    {
       "title": "Wie der Lauf in einem Gefängnis zur Resozialisierung beitragen soll",
       "link": "https://www.rbb24.de/sport/beitrag/2026/10/berlin-sport-lauf-gefaengnis-inhaftierte-resozialisierung-jva.html",
       "date": "Tue, 20 Oct 2026 22:17:41 +0200"
@@ -54,11 +59,6 @@
       "title": "Potsdams einzige Müllwerkerin: Als Frau bei der Müllabfuhr",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/10/potsdamer-stadtentsorgung-muellwerkerin-muellabfuhr.html",
       "date": "Tue, 20 Oct 2026 15:22:01 +0200"
-    },
-    {
-      "title": "Dschingis-Khan-Ausstellung in Berlin: Interview mit Museumsdirektor",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/10/ausstellung-james-simon-galerie-dschingis-khan-berlin.html",
-      "date": "Tue, 20 Oct 2026 15:10:30 +0200"
     }
   ],
   "police": [
