@@ -1,19 +1,49 @@
 {
   "traffic": [
     {
-      "title": "Stadt- und Ringbahn: Ausfälle und Verspätungen bei der S-Bahn",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-ringbahn-sperrung-s-bahn-bauarbeiten.html",
-      "date": "Thu, 22 Oct 2026 08:13:20 +0200"
+      "title": "Mutmaßlicher Russland-Spion in Brandenburg festgenommen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-festnahme-mutmasslicher-spion-russland.html",
+      "date": "Thu, 22 Oct 2026 14:16:00 +0200"
+    },
+    {
+      "title": "Zahlreiche Wege im Branitzer Park wieder freigegeben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/wege-park-branitz-freigabe-cottbus.html",
+      "date": "Thu, 22 Oct 2026 14:00:00 +0200"
+    },
+    {
+      "title": "Deutsche Bahn will Direktverbindung von Berlin nach Paris wieder einführen",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/10/deutsche-bahn-direktverbindung-berlin-paris-fahrplanwechsel-winterfahrplan.html",
+      "date": "Thu, 22 Oct 2026 13:09:48 +0200"
+    },
+    {
+      "title": "Wohnblock in Lauchhammer noch immer nicht vollständig geräumt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/risse-wohnblock-lauchhammer-evakuierung-wie-weiter.html",
+      "date": "Thu, 22 Oct 2026 11:54:43 +0200"
+    },
+    {
+      "title": "Fußgängerin von Autos erfasst und tödlich verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-maerkisch-oderland-hoppegarten-toedlicher-unfall.html",
+      "date": "Thu, 22 Oct 2026 11:43:57 +0200"
     },
     {
       "title": "IT-Sicherheitslücke: Websites von Ämtern und Behörden offline",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/it-sicherheitsluecke-seiten-offline-bsi-warnung-php-berlin-brandenburg.html",
-      "date": "Thu, 22 Oct 2026 07:59:29 +0200"
+      "date": "Thu, 22 Oct 2026 11:02:37 +0200"
+    },
+    {
+      "title": "Razzia bei \"Casa Kuà\" in Berlin: Debatte über Versorgung von trans Personen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/casa-kua-durchsuchung-razzia-hormonbehandlung-trans-personen-medizinische-versorgung.html",
+      "date": "Thu, 22 Oct 2026 10:23:34 +0200"
     },
     {
       "title": "A100 nach Auffahrunfall mit Lkw stundenlang gesperrt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-neukoelln-a100-unfall-tempelhofer-damm.html",
-      "date": "Thu, 22 Oct 2026 07:50:28 +0200"
+      "date": "Thu, 22 Oct 2026 10:13:40 +0200"
+    },
+    {
+      "title": "Stadt- und Ringbahn: Ausfälle und Verspätungen bei der S-Bahn",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-ringbahn-sperrung-s-bahn-bauarbeiten.html",
+      "date": "Thu, 22 Oct 2026 08:13:20 +0200"
     },
     {
       "title": "Interview zu El Niño: \"Wir alle sind gekoppelt an die Auswirkungen\"",
@@ -29,39 +59,44 @@
       "title": "Empörung nach \"Judenfrage\"-Post der Potsdamer Wirtschaftsunion - Linke fordert Entschuldigung",
       "link": "https://www.rbb24.de/politik/beitrag/2026/10/mittelstands-wirtschaftsunion-potsdam-instagram-post-empoerung-redmann-brandenburg.html",
       "date": "Wed, 21 Oct 2026 21:57:06 +0200"
-    },
-    {
-      "title": "3:0 gegen Freiburg: BR Volleys starten dominant in neue Saison",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/berlin-volleyball-br-volleys-ligastart-freiburg-Anastasi-netzhoppers-vco-spielbericht.html",
-      "date": "Wed, 21 Oct 2026 21:40:11 +0200"
-    },
-    {
-      "title": "Gruppensieg verspielt: Dezimierte Füchse verlieren bei Veszprem",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/berlin-handball-fuechse-Veszprem-champions-league-spielbericht.html",
-      "date": "Wed, 21 Oct 2026 21:18:21 +0200"
-    },
-    {
-      "title": "Sperrungen auf der Rudolf-Wissell-Brücke dauern an",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/a100-rudolf-wissell-bruecke-berlin-charlottenburg-fahrstreifen-gesperrt.html",
-      "date": "Wed, 21 Oct 2026 21:07:27 +0200"
-    },
-    {
-      "title": "IT-Schwachstelle: Viele Behörden und Unternehmen schalten Webseiten ab",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/it-sicherheitsbehoerde-bsi-kritische-schwachstelle-webanwendunge.html",
-      "date": "Wed, 21 Oct 2026 20:58:08 +0200"
-    },
-    {
-      "title": "\"Recht willkürlich\": Eiskunstläufer Hocke/Kunkel kritisieren Preisrichter",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/berlin-eiskunstlauf-interview-annika-hocke-robert-kunkel-verletzung-saisonstart-kuer-choreo-grand-prix.html",
-      "date": "Wed, 21 Oct 2026 18:07:24 +0200"
-    },
-    {
-      "title": "Erstmals über einen Euro pro Brief: Post erhöht Porto deutlich",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/deutsche-post-porto-preise-aenderungen-2027.html",
-      "date": "Wed, 21 Oct 2026 17:55:40 +0200"
     }
   ],
   "police": [
+    {
+      "title": "Radfahrer nach Sturz lebensgefährlich verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1729733.php",
+      "date": "Thu, 22 Oct 2026 13:38:24 +0200"
+    },
+    {
+      "title": "Auffahrunfall auf der Stadtautobahn – elf Verletzte",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1729725.php",
+      "date": "Thu, 22 Oct 2026 13:27:38 +0200"
+    },
+    {
+      "title": "Prävention im Fokus: Polizei Berlin lädt zur Sonderberatung am Tag des Einbruchschutzes am 25. Oktober 2026 ein",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1729667.php",
+      "date": "Thu, 22 Oct 2026 12:24:27 +0200"
+    },
+    {
+      "title": "Nachbarschaftsstreit in Mehrfamilienhaus",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1729665.php",
+      "date": "Thu, 22 Oct 2026 12:21:38 +0200"
+    },
+    {
+      "title": "Verkehrsunfall – Rollerfahrer verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1729649.php",
+      "date": "Thu, 22 Oct 2026 11:59:49 +0200"
+    },
+    {
+      "title": "Mann durch Stich ins Gesäß verletzt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1729638.php",
+      "date": "Thu, 22 Oct 2026 11:51:34 +0200"
+    },
+    {
+      "title": "Messerangriff in Hellersdorf",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1729494.php",
+      "date": "Thu, 22 Oct 2026 09:28:16 +0200"
+    },
     {
       "title": "Gefährliche Körperverletzung im Straßenverkehr",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1728645.php",
@@ -86,41 +121,6 @@
       "title": "An Bushaltestelle angefahren",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1728164.php",
       "date": "Tue, 20 Oct 2026 12:12:44 +0200"
-    },
-    {
-      "title": "In Wohnung gewürgt – Täter flüchtet",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1728157.php",
-      "date": "Tue, 20 Oct 2026 12:03:41 +0200"
-    },
-    {
-      "title": "Verkehrsunfall mit Flucht – Motorrad überschlägt sich",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1728134.php",
-      "date": "Tue, 20 Oct 2026 11:47:49 +0200"
-    },
-    {
-      "title": "Fahrzeuge durch Brand beschädigt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1728117.php",
-      "date": "Tue, 20 Oct 2026 11:26:44 +0200"
-    },
-    {
-      "title": "Versuchtes Tötungsdelikt – Zeuginnen und Zeugen gesucht",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1727134.php",
-      "date": "Mon, 19 Oct 2026 14:30:00 +0200"
-    },
-    {
-      "title": "Mutmaßlicher Drogenkäufer leistet Widerstand und verletzt Polizeikräfte",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1727590.php",
-      "date": "Mon, 19 Oct 2026 14:09:32 +0200"
-    },
-    {
-      "title": "Mutmaßlicher Wohnungseinbrecher festgenommen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1727447.php",
-      "date": "Mon, 19 Oct 2026 13:04:00 +0200"
-    },
-    {
-      "title": "Polizeiliche Maßnahmen wegen des Verdachts der Arzneimittelkriminalität",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1727423.php",
-      "date": "Mon, 19 Oct 2026 13:02:00 +0200"
     }
   ],
   "free_events": [],
@@ -128,19 +128,44 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Stadt- und Ringbahn: Ausfälle und Verspätungen bei der S-Bahn",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-ringbahn-sperrung-s-bahn-bauarbeiten.html",
-      "date": "Thu, 22 Oct 2026 08:13:20 +0200"
+      "title": "Mutmaßlicher Russland-Spion in Brandenburg festgenommen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-festnahme-mutmasslicher-spion-russland.html",
+      "date": "Thu, 22 Oct 2026 14:16:00 +0200"
+    },
+    {
+      "title": "Zahlreiche Wege im Branitzer Park wieder freigegeben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/wege-park-branitz-freigabe-cottbus.html",
+      "date": "Thu, 22 Oct 2026 14:00:00 +0200"
+    },
+    {
+      "title": "Wohnblock in Lauchhammer noch immer nicht vollständig geräumt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/risse-wohnblock-lauchhammer-evakuierung-wie-weiter.html",
+      "date": "Thu, 22 Oct 2026 11:54:43 +0200"
+    },
+    {
+      "title": "Fußgängerin von Autos erfasst und tödlich verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-maerkisch-oderland-hoppegarten-toedlicher-unfall.html",
+      "date": "Thu, 22 Oct 2026 11:43:57 +0200"
     },
     {
       "title": "IT-Sicherheitslücke: Websites von Ämtern und Behörden offline",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/it-sicherheitsluecke-seiten-offline-bsi-warnung-php-berlin-brandenburg.html",
-      "date": "Thu, 22 Oct 2026 07:59:29 +0200"
+      "date": "Thu, 22 Oct 2026 11:02:37 +0200"
+    },
+    {
+      "title": "Razzia bei \"Casa Kuà\" in Berlin: Debatte über Versorgung von trans Personen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/casa-kua-durchsuchung-razzia-hormonbehandlung-trans-personen-medizinische-versorgung.html",
+      "date": "Thu, 22 Oct 2026 10:23:34 +0200"
     },
     {
       "title": "A100 nach Auffahrunfall mit Lkw stundenlang gesperrt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-neukoelln-a100-unfall-tempelhofer-damm.html",
-      "date": "Thu, 22 Oct 2026 07:50:28 +0200"
+      "date": "Thu, 22 Oct 2026 10:13:40 +0200"
+    },
+    {
+      "title": "Stadt- und Ringbahn: Ausfälle und Verspätungen bei der S-Bahn",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-ringbahn-sperrung-s-bahn-bauarbeiten.html",
+      "date": "Thu, 22 Oct 2026 08:13:20 +0200"
     },
     {
       "title": "Interview zu El Niño: \"Wir alle sind gekoppelt an die Auswirkungen\"",
@@ -161,31 +186,6 @@
       "title": "Erstmals über einen Euro pro Brief: Post erhöht Porto deutlich",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/deutsche-post-porto-preise-aenderungen-2027.html",
       "date": "Wed, 21 Oct 2026 17:55:40 +0200"
-    },
-    {
-      "title": "Mann schlägt Fahrradfahrer in Berlin-Mitte mit Metallstange",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-mann-schlaegt-radfahrer-mit-metallstange.html",
-      "date": "Wed, 21 Oct 2026 17:17:14 +0200"
-    },
-    {
-      "title": "Niedrigwasser: Polnische Binnenschiffe sitzen seit Monaten auf der Oder fest",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/schiffe-sitzen-auf-oder-fest-niedrigwasser-polen-deutschland-grenze.html",
-      "date": "Wed, 21 Oct 2026 17:12:58 +0200"
-    },
-    {
-      "title": "Prozess um ertrunkenes Mädchen im Werbellinsee am Landgericht Frankfurt (Oder) beendet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/Prozess-landgericht-frankfurt-oder-maedchen-ertrunken-beendet.html",
-      "date": "Wed, 21 Oct 2026 15:23:43 +0200"
-    },
-    {
-      "title": "Polizei prüft Zusammenhang zwischen drei brennenden Bücherboxen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-blankenfelde-mahlow-buecherbox-brand.html",
-      "date": "Wed, 21 Oct 2026 15:10:01 +0200"
-    },
-    {
-      "title": "Pflanzenwelt im Cottbuser Ostsee entwickelt sich besser als erwartet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/ostsee-cottbus-wasser-pflanzen-entwicklung.html",
-      "date": "Wed, 21 Oct 2026 15:01:16 +0200"
     }
   ]
 }
