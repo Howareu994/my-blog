@@ -1,6 +1,41 @@
 {
   "traffic": [
     {
+      "title": "Jugendgewalt in Frankfurt und Potsdam: Fünf junge Tatverdächtige in U-Haft",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-potsdam-cottbus-jugend-gewalt-untersuchungshaft.html",
+      "date": "Thu, 22 Oct 2026 21:50:56 +0200"
+    },
+    {
+      "title": "Gegen Castors Braine: Alba-Frauen holen ersten Sieg im EuroCup",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/10/berlin-basketball-frauen-eurocup-alba-castors-braine-spielbericht.html",
+      "date": "Thu, 22 Oct 2026 21:46:47 +0200"
+    },
+    {
+      "title": "Polizei ruft 15 Jahre nach Babyfund in Potsdam zu DNA-Test auf",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/potsdam-polizei-dna-test-15-jahre-totes-baby.html",
+      "date": "Thu, 22 Oct 2026 21:39:14 +0200"
+    },
+    {
+      "title": "Erneuter Vandalismus am Regenbogenkombinat Cottbus",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-cottbus-regenbogenkombinat-queer-vandalismus.html",
+      "date": "Thu, 22 Oct 2026 20:27:27 +0200"
+    },
+    {
+      "title": "Emirates fliegt vorerst doch nicht zwischen Berlin und Dubai",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/10/flughafen-ber-keine-langstreckenverbindung-berlin-dubai.html",
+      "date": "Thu, 22 Oct 2026 20:23:33 +0200"
+    },
+    {
+      "title": "Gemeinde und Landesanglerverband wollen Wandlitzsee kaufen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/anglerverband-gemeinde-wandlitzsee-kaufen-barnim.html",
+      "date": "Thu, 22 Oct 2026 20:13:59 +0200"
+    },
+    {
+      "title": "Wie bestimmte Hertha-Fanartikel für eine Kurven-Diskussion sorgen",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-zweite-bundesliga-hertha-bsc-kritik-merch-fanartikel-kurvenecho-ultras-ostkurve-fanszene-ucoh-kurvenstoff.html",
+      "date": "Thu, 22 Oct 2026 20:04:16 +0200"
+    },
+    {
       "title": "Berlin-Weißensee: Radfahrer verstirbt nach Sturz vom Rad",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-weissensee-radfahrer-sturz-verletzung-gestorben.html",
       "date": "Thu, 22 Oct 2026 19:34:57 +0200"
@@ -21,39 +56,9 @@
       "date": "Thu, 22 Oct 2026 18:31:48 +0200"
     },
     {
-      "title": "Wie bestimmte Hertha-Fanartikel für eine Kurven-Diskussion sorgen",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-zweite-bundesliga-hertha-bsc-kritik-merch-fanartikel-kurvenecho-ultras-ostkurve-fanszene-ucoh-kurvenstoff.html",
-      "date": "Thu, 22 Oct 2026 18:08:02 +0200"
-    },
-    {
       "title": "Konferenz in Potsdam wirbt mit Israel-Karte inklusive palästinensischer Gebiete",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/nevatim-conference-potsdam-israel-karte-palaestinensische-gebiete.html",
       "date": "Thu, 22 Oct 2026 17:09:28 +0200"
-    },
-    {
-      "title": "IT-Sicherheitslücke: Websites von Ämtern und Behörden teils wieder online",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/it-sicherheitsluecke-seiten-offline-bsi-warnung-php-berlin-brandenburg.html",
-      "date": "Thu, 22 Oct 2026 16:35:05 +0200"
-    },
-    {
-      "title": "Mühlenfließbrücke kann ab Freitag wieder mehr Verkehr aufnehmen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/muehlenfliessbruecke-a10-brandenburg-mehr-fahrspuren.html",
-      "date": "Thu, 22 Oct 2026 15:39:08 +0200"
-    },
-    {
-      "title": "KI befeuert Cyberangriffe: Höchststand bei Datenpannen in Berlin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-datenschutzbehoerde-datenpannen-2026-it-sicherheit.html",
-      "date": "Thu, 22 Oct 2026 15:35:34 +0200"
-    },
-    {
-      "title": "A100 nach Unfall mit Lkw stundenlang gesperrt - elf Verletzte",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-neukoelln-a100-unfall-tempelhofer-damm.html",
-      "date": "Thu, 22 Oct 2026 14:56:18 +0200"
-    },
-    {
-      "title": "Mutmaßlicher Russland-Spion in Brandenburg festgenommen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-festnahme-mutmasslicher-spion-russland.html",
-      "date": "Thu, 22 Oct 2026 14:16:00 +0200"
     }
   ],
   "police": [
@@ -123,6 +128,26 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Jugendgewalt in Frankfurt und Potsdam: Fünf junge Tatverdächtige in U-Haft",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-potsdam-cottbus-jugend-gewalt-untersuchungshaft.html",
+      "date": "Thu, 22 Oct 2026 21:50:56 +0200"
+    },
+    {
+      "title": "Polizei ruft 15 Jahre nach Babyfund in Potsdam zu DNA-Test auf",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/potsdam-polizei-dna-test-15-jahre-totes-baby.html",
+      "date": "Thu, 22 Oct 2026 21:39:14 +0200"
+    },
+    {
+      "title": "Erneuter Vandalismus am Regenbogenkombinat Cottbus",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-cottbus-regenbogenkombinat-queer-vandalismus.html",
+      "date": "Thu, 22 Oct 2026 20:27:27 +0200"
+    },
+    {
+      "title": "Gemeinde und Landesanglerverband wollen Wandlitzsee kaufen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/anglerverband-gemeinde-wandlitzsee-kaufen-barnim.html",
+      "date": "Thu, 22 Oct 2026 20:13:59 +0200"
+    },
+    {
       "title": "Berlin-Weißensee: Radfahrer verstirbt nach Sturz vom Rad",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-weissensee-radfahrer-sturz-verletzung-gestorben.html",
       "date": "Thu, 22 Oct 2026 19:34:57 +0200"
@@ -161,26 +186,6 @@
       "title": "Mutmaßlicher Russland-Spion in Brandenburg festgenommen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-festnahme-mutmasslicher-spion-russland.html",
       "date": "Thu, 22 Oct 2026 14:16:00 +0200"
-    },
-    {
-      "title": "Zahlreiche Wege im Branitzer Park wieder freigegeben",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/wege-park-branitz-freigabe-cottbus.html",
-      "date": "Thu, 22 Oct 2026 14:00:00 +0200"
-    },
-    {
-      "title": "Wohnblock in Lauchhammer noch immer nicht vollständig geräumt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/risse-wohnblock-lauchhammer-evakuierung-wie-weiter.html",
-      "date": "Thu, 22 Oct 2026 11:54:43 +0200"
-    },
-    {
-      "title": "Fußgängerin von Autos erfasst und tödlich verletzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-maerkisch-oderland-hoppegarten-toedlicher-unfall.html",
-      "date": "Thu, 22 Oct 2026 11:43:57 +0200"
-    },
-    {
-      "title": "Razzia bei \"Casa Kuà\" in Berlin: Debatte über Versorgung von trans Personen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/casa-kua-durchsuchung-razzia-hormonbehandlung-trans-personen-medizinische-versorgung.html",
-      "date": "Thu, 22 Oct 2026 10:23:34 +0200"
     }
   ]
 }
