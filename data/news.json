@@ -1,6 +1,41 @@
 {
   "traffic": [
     {
+      "title": "Kühlschrank löst Wohnungsbrand in Berlin aus",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-charlottenburg-wilmersdorf-brand-wohnung-kuehlschrank-verletzte.html",
+      "date": "Fri, 23 Oct 2026 09:43:23 +0200"
+    },
+    {
+      "title": "Marina Sena im Astra Kulturhaus: Samba, Schweiß und Stichwahl",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/10/berlin-astra-kulturhaus-marina-sena-brasilien-pop.html",
+      "date": "Fri, 23 Oct 2026 08:13:26 +0200"
+    },
+    {
+      "title": "Emirates fliegt vorerst doch nicht zwischen Berlin und Dubai",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/10/flughafen-ber-keine-langstreckenverbindung-berlin-dubai.html",
+      "date": "Fri, 23 Oct 2026 08:07:13 +0200"
+    },
+    {
+      "title": "Bundeskanzler Merz besucht Chip-Forscher in Frankfurt (Oder)",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/10/frankfurt-oder-bundeskanzler-merz-besuch-chip-forschung.html",
+      "date": "Fri, 23 Oct 2026 08:06:34 +0200"
+    },
+    {
+      "title": "Polizei ruft 15 Jahre nach Babyfund in Potsdam zu DNA-Test auf",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/potsdam-polizei-dna-test-15-jahre-totes-baby.html",
+      "date": "Fri, 23 Oct 2026 07:50:00 +0200"
+    },
+    {
+      "title": "RE5 erneut unterbrochen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-oberhavel-bahn-re5-sev.html",
+      "date": "Fri, 23 Oct 2026 06:15:31 +0200"
+    },
+    {
+      "title": "Raser in Berlin: Wie die Polizei Kontrollen durchführt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-raser-zivilstreife-verkehrspolizisten-geschwindigkeitskontrolle.html",
+      "date": "Fri, 23 Oct 2026 06:11:00 +0200"
+    },
+    {
       "title": "Jugendgewalt in Frankfurt und Potsdam: Fünf junge Tatverdächtige in U-Haft",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-potsdam-cottbus-jugend-gewalt-untersuchungshaft.html",
       "date": "Thu, 22 Oct 2026 21:50:56 +0200"
@@ -11,19 +46,9 @@
       "date": "Thu, 22 Oct 2026 21:46:47 +0200"
     },
     {
-      "title": "Polizei ruft 15 Jahre nach Babyfund in Potsdam zu DNA-Test auf",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/potsdam-polizei-dna-test-15-jahre-totes-baby.html",
-      "date": "Thu, 22 Oct 2026 21:39:14 +0200"
-    },
-    {
       "title": "Erneuter Vandalismus am Regenbogenkombinat Cottbus",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-cottbus-regenbogenkombinat-queer-vandalismus.html",
       "date": "Thu, 22 Oct 2026 20:27:27 +0200"
-    },
-    {
-      "title": "Emirates fliegt vorerst doch nicht zwischen Berlin und Dubai",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/10/flughafen-ber-keine-langstreckenverbindung-berlin-dubai.html",
-      "date": "Thu, 22 Oct 2026 20:23:33 +0200"
     },
     {
       "title": "Gemeinde und Landesanglerverband wollen Wandlitzsee kaufen",
@@ -34,31 +59,6 @@
       "title": "Wie bestimmte Hertha-Fanartikel für eine Kurven-Diskussion sorgen",
       "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-zweite-bundesliga-hertha-bsc-kritik-merch-fanartikel-kurvenecho-ultras-ostkurve-fanszene-ucoh-kurvenstoff.html",
       "date": "Thu, 22 Oct 2026 20:04:16 +0200"
-    },
-    {
-      "title": "Berlin-Weißensee: Radfahrer verstirbt nach Sturz vom Rad",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-weissensee-radfahrer-sturz-verletzung-gestorben.html",
-      "date": "Thu, 22 Oct 2026 19:34:57 +0200"
-    },
-    {
-      "title": "Berlin von Sicherheitsinfos abschneiden – geht das überhaupt?",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/10/berlin-nach-der-wahl-rot-gruen-rot-sicherheitsinformation-bka-verfassungsschutz.html",
-      "date": "Thu, 22 Oct 2026 19:28:24 +0200"
-    },
-    {
-      "title": "PHP: Fragen und Antworten zur Sicherheitslücke",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/it-sicherheitsluecke-php-faq-fragen-antworten-berlin-brandenburg.html",
-      "date": "Thu, 22 Oct 2026 19:16:23 +0200"
-    },
-    {
-      "title": "\"Manifest\" zu Farben und Logo: Hertha gibt sich Trikot-Regeln",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/berlin-fussball-hertha-bsc-trikot-regeln-wappen-farbe.html",
-      "date": "Thu, 22 Oct 2026 18:31:48 +0200"
-    },
-    {
-      "title": "Konferenz in Potsdam wirbt mit Israel-Karte inklusive palästinensischer Gebiete",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/nevatim-conference-potsdam-israel-karte-palaestinensische-gebiete.html",
-      "date": "Thu, 22 Oct 2026 17:09:28 +0200"
     }
   ],
   "police": [
@@ -128,14 +128,29 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Jugendgewalt in Frankfurt und Potsdam: Fünf junge Tatverdächtige in U-Haft",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-potsdam-cottbus-jugend-gewalt-untersuchungshaft.html",
-      "date": "Thu, 22 Oct 2026 21:50:56 +0200"
+      "title": "Kühlschrank löst Wohnungsbrand in Berlin aus",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-charlottenburg-wilmersdorf-brand-wohnung-kuehlschrank-verletzte.html",
+      "date": "Fri, 23 Oct 2026 09:43:23 +0200"
     },
     {
       "title": "Polizei ruft 15 Jahre nach Babyfund in Potsdam zu DNA-Test auf",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/potsdam-polizei-dna-test-15-jahre-totes-baby.html",
-      "date": "Thu, 22 Oct 2026 21:39:14 +0200"
+      "date": "Fri, 23 Oct 2026 07:50:00 +0200"
+    },
+    {
+      "title": "RE5 erneut unterbrochen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-oberhavel-bahn-re5-sev.html",
+      "date": "Fri, 23 Oct 2026 06:15:31 +0200"
+    },
+    {
+      "title": "Raser in Berlin: Wie die Polizei Kontrollen durchführt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-raser-zivilstreife-verkehrspolizisten-geschwindigkeitskontrolle.html",
+      "date": "Fri, 23 Oct 2026 06:11:00 +0200"
+    },
+    {
+      "title": "Jugendgewalt in Frankfurt und Potsdam: Fünf junge Tatverdächtige in U-Haft",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-potsdam-cottbus-jugend-gewalt-untersuchungshaft.html",
+      "date": "Thu, 22 Oct 2026 21:50:56 +0200"
     },
     {
       "title": "Erneuter Vandalismus am Regenbogenkombinat Cottbus",
@@ -148,9 +163,9 @@
       "date": "Thu, 22 Oct 2026 20:13:59 +0200"
     },
     {
-      "title": "Berlin-Weißensee: Radfahrer verstirbt nach Sturz vom Rad",
+      "title": "Berlin-Weißensee: Radfahrer stirbt nach Sturz vom Rad",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-weissensee-radfahrer-sturz-verletzung-gestorben.html",
-      "date": "Thu, 22 Oct 2026 19:34:57 +0200"
+      "date": "Thu, 22 Oct 2026 19:34:00 +0200"
     },
     {
       "title": "PHP: Fragen und Antworten zur Sicherheitslücke",
@@ -171,21 +186,6 @@
       "title": "Mühlenfließbrücke kann ab Freitag wieder mehr Verkehr aufnehmen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/muehlenfliessbruecke-a10-brandenburg-mehr-fahrspuren.html",
       "date": "Thu, 22 Oct 2026 15:39:08 +0200"
-    },
-    {
-      "title": "KI befeuert Cyberangriffe: Höchststand bei Datenpannen in Berlin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-datenschutzbehoerde-datenpannen-2026-it-sicherheit.html",
-      "date": "Thu, 22 Oct 2026 15:35:34 +0200"
-    },
-    {
-      "title": "A100 nach Unfall mit Lkw stundenlang gesperrt - elf Verletzte",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-neukoelln-a100-unfall-tempelhofer-damm.html",
-      "date": "Thu, 22 Oct 2026 14:56:18 +0200"
-    },
-    {
-      "title": "Mutmaßlicher Russland-Spion in Brandenburg festgenommen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-festnahme-mutmasslicher-spion-russland.html",
-      "date": "Thu, 22 Oct 2026 14:16:00 +0200"
     }
   ]
 }
