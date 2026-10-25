@@ -1,14 +1,9 @@
 {
   "traffic": [
     {
-      "title": "Basketball: Starkes Alba stoppt gegen Ulm die Negativserie",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/basketball-bundesliga-bbl-alba-berlin-ulm.html",
-      "date": "Sun, 25 Oct 2026 20:57:15 +0100"
-    },
-    {
-      "title": "Fußball: Torspektakel zwischen Union und HSV",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-bundesliga-frauen-hamburger-sv-union-berlin-spielbericht.html",
-      "date": "Sun, 25 Oct 2026 19:30:32 +0100"
+      "title": "Darts: Schindler verliert Finale, schreibt aber Darts-Geschichte",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/10/darts-europameisterschaft-martin-schindler-finale.html",
+      "date": "Sun, 25 Oct 2026 23:03:45 +0100"
     },
     {
       "title": "Bei Wiede-Comeback: Füchse mit souveränem Sieg über Wetzlar",
@@ -59,6 +54,11 @@
       "title": "Energie und das erkämpfte Glück: Unentschieden in Heidenheim",
       "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-fc-energie-cottbus-heidenheim-2-bundesliga-lausitz-wollitz.html",
       "date": "Sun, 25 Oct 2026 13:17:00 +0100"
+    },
+    {
+      "title": "Märkisch-Oderland: Vier LKW in Herzfelde ausgebrannt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/lkw-brand-herzfelde-ruedersdorf-brandenburg.html",
+      "date": "Sun, 25 Oct 2026 12:43:47 +0100"
     }
   ],
   "police": [
