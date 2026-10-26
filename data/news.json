@@ -1,9 +1,29 @@
 {
   "traffic": [
     {
+      "title": "Theodor Seidel mit 95 Jahren gestorben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/richter-theodor-seidel-mielke-prozess-.html",
+      "date": "Mon, 26 Oct 2026 22:13:46 +0100"
+    },
+    {
+      "title": "Hertha vor Pokalspiel: Ein seliger Trainer und eine Pommes-Warnung",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-dfb-pokal-vorbericht-jeddeloh-ii-hertha-bsc.html",
+      "date": "Mon, 26 Oct 2026 19:59:00 +0100"
+    },
+    {
+      "title": "Proteste am 31. Oktober: Redmann warnt vor \"französischen Verhältnissen\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/redmann-halloween-masken-kriminialitaet.html",
+      "date": "Mon, 26 Oct 2026 19:49:03 +0100"
+    },
+    {
+      "title": "Neue Cottbuser Medizin-Uni will eng mit TU Dresden zusammenarbeiten",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/cottbus-uni-medizin-tu-dresden-kooperation.html",
+      "date": "Mon, 26 Oct 2026 19:41:31 +0100"
+    },
+    {
       "title": "Union Berlin vor Pokalspiel: Zwischen Köln und Kontinuität",
       "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-dfb-pokal-union-berlin-1-fc-koeln-lustrinelli.html",
-      "date": "Mon, 26 Oct 2026 17:33:56 +0100"
+      "date": "Mon, 26 Oct 2026 19:40:09 +0100"
     },
     {
       "title": "Lebenslange Haft für 66-Jährigen nach Mord auf Segeltörn nun rechtskräftig",
@@ -39,26 +59,6 @@
       "title": "SPD will Basis über rot-grün-rote Koalition abstimmen lassen",
       "link": "https://www.rbb24.de/politik/beitrag/2026/10/spd-koalition-berlin-abstimmung-basis.html",
       "date": "Mon, 26 Oct 2026 15:25:50 +0100"
-    },
-    {
-      "title": "Journalismusnachwuchs im rbb: Programm \"young reporters\" gestartet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/interview-rbb-programm-nachwuchs-journalismus-young-reporters.html",
-      "date": "Mon, 26 Oct 2026 14:51:36 +0100"
-    },
-    {
-      "title": "Wilke hält an Plänen für deutsch-polnisches Gesundheitszentrum fest",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-guben-aerzte-mangel-gubin-gesundheitskooperation.html",
-      "date": "Mon, 26 Oct 2026 14:49:39 +0100"
-    },
-    {
-      "title": "Ex-Cottbus-Trainer Heiko Weber nach schwerer Krankheit gestorben",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-energie-cottbus-ex-trainer-heiko-weber-gestorben.html",
-      "date": "Mon, 26 Oct 2026 14:03:12 +0100"
-    },
-    {
-      "title": "Wie der Berliner Linton Maina den 1. FC Union doppelt ärgern könnte",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-dfb-pokal-union-berlin-1-fc-koeln-linton-maina-berlin-portraet.html",
-      "date": "Mon, 26 Oct 2026 12:35:22 +0100"
     }
   ],
   "police": [
@@ -128,6 +128,21 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Theodor Seidel mit 95 Jahren gestorben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/richter-theodor-seidel-mielke-prozess-.html",
+      "date": "Mon, 26 Oct 2026 22:13:46 +0100"
+    },
+    {
+      "title": "Proteste am 31. Oktober: Redmann warnt vor \"französischen Verhältnissen\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/redmann-halloween-masken-kriminialitaet.html",
+      "date": "Mon, 26 Oct 2026 19:49:03 +0100"
+    },
+    {
+      "title": "Neue Cottbuser Medizin-Uni will eng mit TU Dresden zusammenarbeiten",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/cottbus-uni-medizin-tu-dresden-kooperation.html",
+      "date": "Mon, 26 Oct 2026 19:41:31 +0100"
+    },
+    {
       "title": "Bahn kündigt umfassenden Ersatzverkehr auf Strecke Cottbus-Lübbenau an",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/regionalverkehr-bahn-cottbus-berlin-ersatzverkehr-2027.html",
       "date": "Mon, 26 Oct 2026 17:41:41 +0100"
@@ -171,21 +186,6 @@
       "title": "Ostflügel der Humboldt-Uni öffnet nach zehn Jahren Sanierung",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/humboldt-universitaet-ostfluegel-sanierung-eroeffnung.html",
       "date": "Mon, 26 Oct 2026 10:46:12 +0100"
-    },
-    {
-      "title": "Freie Universität verurteilt queerfeindliche Vorfälle an Institutsgebäude",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/freie-universitaet-asta-mutmasslich-rechtsextreme-angriffe-queerfeindlich-pride-fahne.html",
-      "date": "Mon, 26 Oct 2026 10:35:22 +0100"
-    },
-    {
-      "title": "Berlin: Drei Männer bei Stichattacken schwer verletzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/drei-maenner-berlin-stichattacken-schwer-verletzt.html",
-      "date": "Mon, 26 Oct 2026 09:11:47 +0100"
-    },
-    {
-      "title": "KI im Studium: Copy, Paste, bestanden?",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/ki-studium-hausarbeit-pruefung-uni-hochschule-berlin-brandenburg.html",
-      "date": "Mon, 26 Oct 2026 08:58:03 +0100"
     }
   ]
 }
