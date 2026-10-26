@@ -1,67 +1,87 @@
 {
   "traffic": [
     {
-      "title": "Darts: Schindler verliert Finale, schreibt aber Darts-Geschichte",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/darts-europameisterschaft-martin-schindler-finale.html",
-      "date": "Sun, 25 Oct 2026 23:03:45 +0100"
-    },
-    {
-      "title": "Bei Wiede-Comeback: Füchse mit souveränem Sieg über Wetzlar",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/handball-bundesliga-fuechse-berlin-wetzlar.html",
-      "date": "Sun, 25 Oct 2026 18:37:10 +0100"
-    },
-    {
-      "title": "DEL: Starke Eisbären in Schwenningen mit drittem Sieg in Folge",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/eishockey-del-eisbaeren-berlin-schwenningen.html",
-      "date": "Sun, 25 Oct 2026 18:20:30 +0100"
-    },
-    {
-      "title": "Deutlicher Sieg in Freiburg: Alba-Frauen gewinnen weiter",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/basketball-frauen-bundesliga-alba-berlin-freiburg.html",
-      "date": "Sun, 25 Oct 2026 18:06:21 +0100"
-    },
-    {
-      "title": "2. Liga: Viktoria baut Serie aus, Turbine holt Punkt gegen Meppen",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-frauen-zweite-liga-hertha-bsc-viktoria-berlin-turbine-potsdam.html",
-      "date": "Sun, 25 Oct 2026 16:53:41 +0100"
-    },
-    {
-      "title": "Fußball: Hertha II nach Niederlage in Leipzig weiter im Keller",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-regionalliga-nordost-chemie-leipzig-hertha-bsc-zwei.html",
-      "date": "Sun, 25 Oct 2026 16:27:31 +0100"
-    },
-    {
-      "title": "Mutmaßlich antisemitische Attacke in Schöneberg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-schoeneberg-antisemitismus-attacke.html",
-      "date": "Sun, 25 Oct 2026 15:32:35 +0100"
-    },
-    {
-      "title": "Lehrkräfte aus dem Spreewald mit Preis für Zivilcourage ausgezeichnet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/preis-mut-gegen-rechts-brandenburger-lehrer-burg-spreewald.html",
-      "date": "Sun, 25 Oct 2026 15:21:59 +0100"
-    },
-    {
-      "title": "Marathon: Berlinerin knackt bei sensationellem Debüt fast Rekord",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/marathon-blanka-doerfel-berlin-frankfurt-deutscher-rekord-verpasst.html",
-      "date": "Sun, 25 Oct 2026 14:37:23 +0100"
-    },
-    {
-      "title": "Dritter Platz im Eiskunstlauf-Grand Prix für Hocke und Kunkel",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/wintersport-eiskunstlauf-grand-prix-angers-entscheidung-hocke-kunkel.html",
-      "date": "Sun, 25 Oct 2026 13:39:15 +0100"
-    },
-    {
-      "title": "Energie und das erkämpfte Glück: Unentschieden in Heidenheim",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-fc-energie-cottbus-heidenheim-2-bundesliga-lausitz-wollitz.html",
-      "date": "Sun, 25 Oct 2026 13:17:00 +0100"
+      "title": "Wie der Berliner Linton Maina den 1. FC Union doppelt ärgern könnte",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-dfb-pokal-union-berlin-1-fc-koeln-linton-maina-berlin-portraet.html",
+      "date": "Mon, 26 Oct 2026 12:35:22 +0100"
     },
     {
       "title": "Märkisch-Oderland: Vier LKW in Herzfelde ausgebrannt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/lkw-brand-herzfelde-ruedersdorf-brandenburg.html",
-      "date": "Sun, 25 Oct 2026 12:43:47 +0100"
+      "date": "Mon, 26 Oct 2026 12:29:28 +0100"
+    },
+    {
+      "title": "Internetwache der Brandenburger Polizei weiterhin offline",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/polizei-brandenburg-sicherheitsluecke-internetwache-offline.html",
+      "date": "Mon, 26 Oct 2026 12:22:22 +0100"
+    },
+    {
+      "title": "\"Warten auf'n Bus\" am Berliner Ensemble: Eine Nummer zu grob",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/10/theater-warten-auf-n-bus-berlin-berliner-ensemble-be.html",
+      "date": "Mon, 26 Oct 2026 11:20:32 +0100"
+    },
+    {
+      "title": "Mit 70 Jahren: Ehemaliger Alba-Kapitän gestorben",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/10/basketball-matthias-strauss-tot-alba-berlin-mtv-giessen-dbb-kapi.html",
+      "date": "Mon, 26 Oct 2026 11:19:16 +0100"
+    },
+    {
+      "title": "Ostflügel der Humboldt-Uni öffnet nach zehn Jahren Sanierung",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/humboldt-universitaet-ostfluegel-sanierung-eroeffnung.html",
+      "date": "Mon, 26 Oct 2026 10:46:12 +0100"
+    },
+    {
+      "title": "Freie Universität verurteilt queerfeindliche Vorfälle an Institutsgebäude",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/freie-universitaet-asta-mutmasslich-rechtsextreme-angriffe-queerfeindlich-pride-fahne.html",
+      "date": "Mon, 26 Oct 2026 10:35:22 +0100"
+    },
+    {
+      "title": "Berlin: Drei Männer bei Stichattacken schwer verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/drei-maenner-berlin-stichattacken-schwer-verletzt.html",
+      "date": "Mon, 26 Oct 2026 09:11:47 +0100"
+    },
+    {
+      "title": "KI im Studium: Copy, Paste, bestanden?",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/ki-studium-hausarbeit-pruefung-uni-hochschule-berlin-brandenburg.html",
+      "date": "Mon, 26 Oct 2026 08:58:03 +0100"
+    },
+    {
+      "title": "Der Präsident des Zentralrats der Juden zweifelt an Glaubwürdigkeit der Linken",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/schuster-antisemitismus-zentralrat-juden-linke.html",
+      "date": "Mon, 26 Oct 2026 08:56:02 +0100"
+    },
+    {
+      "title": "Berlin-Buckow: Acht Verletzte nach Kellerbrand in Hochhaus",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/verletzte-kellerbrand-berlin-wohnhochhaus.html",
+      "date": "Mon, 26 Oct 2026 08:26:41 +0100"
+    },
+    {
+      "title": "KI im Studium: \"Der Faktor Mensch rückt ins Zentrum\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/ki-studium-hochschulen-interview-barbara-wagner.html",
+      "date": "Mon, 26 Oct 2026 06:41:45 +0100"
     }
   ],
   "police": [
+    {
+      "title": "Geldautomat auf U-Bahnsteig gesprengt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1731013.php",
+      "date": "Mon, 26 Oct 2026 12:33:23 +0100"
+    },
+    {
+      "title": "Stichverletzung nach körperlicher Auseinandersetzung",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1731009.php",
+      "date": "Mon, 26 Oct 2026 12:26:01 +0100"
+    },
+    {
+      "title": "Ermittlungen nach mutmaßlichem Schuss auf Wohnungstür",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1730989.php",
+      "date": "Mon, 26 Oct 2026 11:56:14 +0100"
+    },
+    {
+      "title": "Mann mit Messer verletzt – Festnahme",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1730978.php",
+      "date": "Mon, 26 Oct 2026 11:43:29 +0100"
+    },
     {
       "title": "Mit gestohlenem Roller vor Polizei geflüchtet - Festnahmen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1730811.php",
@@ -101,32 +121,52 @@
       "title": "Informationstafel zerkratzt – Sachbeschädigung mit antisemitischem Hintergrund",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1730685.php",
       "date": "Fri, 23 Oct 2026 16:47:28 +0200"
-    },
-    {
-      "title": "Zwei Festnahmen nach Graffiti-Schmiererei",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1730451.php",
-      "date": "Fri, 23 Oct 2026 12:56:04 +0200"
-    },
-    {
-      "title": "Scharfe Schusswaffe nach Flucht vor der Polizei beschlagnahmt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1730436.php",
-      "date": "Fri, 23 Oct 2026 12:43:34 +0200"
-    },
-    {
-      "title": "Radfahrer verstorben",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1729733.php",
-      "date": "Thu, 22 Oct 2026 15:32:00 +0200"
-    },
-    {
-      "title": "Mann bei Auseinandersetzung im Straßenverkehr verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1729802.php",
-      "date": "Thu, 22 Oct 2026 14:57:19 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Märkisch-Oderland: Vier LKW in Herzfelde ausgebrannt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/lkw-brand-herzfelde-ruedersdorf-brandenburg.html",
+      "date": "Mon, 26 Oct 2026 12:29:28 +0100"
+    },
+    {
+      "title": "Internetwache der Brandenburger Polizei weiterhin offline",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/polizei-brandenburg-sicherheitsluecke-internetwache-offline.html",
+      "date": "Mon, 26 Oct 2026 12:22:22 +0100"
+    },
+    {
+      "title": "Ostflügel der Humboldt-Uni öffnet nach zehn Jahren Sanierung",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/humboldt-universitaet-ostfluegel-sanierung-eroeffnung.html",
+      "date": "Mon, 26 Oct 2026 10:46:12 +0100"
+    },
+    {
+      "title": "Freie Universität verurteilt queerfeindliche Vorfälle an Institutsgebäude",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/freie-universitaet-asta-mutmasslich-rechtsextreme-angriffe-queerfeindlich-pride-fahne.html",
+      "date": "Mon, 26 Oct 2026 10:35:22 +0100"
+    },
+    {
+      "title": "Berlin: Drei Männer bei Stichattacken schwer verletzt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/drei-maenner-berlin-stichattacken-schwer-verletzt.html",
+      "date": "Mon, 26 Oct 2026 09:11:47 +0100"
+    },
+    {
+      "title": "KI im Studium: Copy, Paste, bestanden?",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/ki-studium-hausarbeit-pruefung-uni-hochschule-berlin-brandenburg.html",
+      "date": "Mon, 26 Oct 2026 08:58:03 +0100"
+    },
+    {
+      "title": "Berlin-Buckow: Acht Verletzte nach Kellerbrand in Hochhaus",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/verletzte-kellerbrand-berlin-wohnhochhaus.html",
+      "date": "Mon, 26 Oct 2026 08:26:41 +0100"
+    },
+    {
+      "title": "KI im Studium: \"Der Faktor Mensch rückt ins Zentrum\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/ki-studium-hochschulen-interview-barbara-wagner.html",
+      "date": "Mon, 26 Oct 2026 06:41:45 +0100"
+    },
     {
       "title": "Mutmaßlich antisemitische Attacke in Schöneberg",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-schoeneberg-antisemitismus-attacke.html",
@@ -138,11 +178,6 @@
       "date": "Sun, 25 Oct 2026 15:21:59 +0100"
     },
     {
-      "title": "Märkisch-Oderland: Vier LKW in Herzfelde ausgebrannt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/lkw-brand-herzfelde-ruedersdorf-brandenburg.html",
-      "date": "Sun, 25 Oct 2026 12:43:47 +0100"
-    },
-    {
       "title": "Stillliegendes Frachtschiff auf Spree in Brand",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/frachtschiff-feuer-brand-berlin-spree.html",
       "date": "Sun, 25 Oct 2026 12:27:06 +0100"
@@ -151,41 +186,6 @@
       "title": "Reinickendorf: Leiche bei Brand in Berliner Kellerwohnung gefunden",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-reinickendorf-brand-kellerwohnung-leichenfund.html",
       "date": "Sun, 25 Oct 2026 11:26:12 +0100"
-    },
-    {
-      "title": "Regen und teils stürmische Böen am Wochenende",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/wetter-berlin-brandenburg-regen-wind-wochenende.html",
-      "date": "Sun, 25 Oct 2026 10:31:13 +0100"
-    },
-    {
-      "title": "Deutsch-türkisches Anwerbeabkommen: Aufbruch in die neue Heimat",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/anwerbeabkommen-tuerkei-deutschland-65-jahre-berlin-historie.html",
-      "date": "Sun, 25 Oct 2026 08:50:00 +0100"
-    },
-    {
-      "title": "Umstellung auf Winterzeit: Der 25. Oktober hat in diesem Jahr 25 Stunden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/zeitumstellung-winterzeit-eine-stunde-zurueck-biorhythmus.html",
-      "date": "Sun, 25 Oct 2026 07:26:04 +0100"
-    },
-    {
-      "title": "Deutschtürken: Made in Almanya",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/deutschtuerken-gesellschaft-berlin-meinung-eltern-tuerkei.html",
-      "date": "Sun, 25 Oct 2026 07:23:06 +0100"
-    },
-    {
-      "title": "Bundesweite Aktion: Rund 200 Menschen bei Demonstration gegen Abschiebungen am BER",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-brandenburg-flughafen-ber-demonstration-gegen-abschiebungen.html",
-      "date": "Sat, 24 Oct 2026 16:55:55 +0200"
-    },
-    {
-      "title": "Bar in Berlin-Wilmersdorf beschossen - BAO \"Ferrum\" ermittelt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/bar-berlin-wilmersdorf-schuesse-ferrum.html",
-      "date": "Sat, 24 Oct 2026 14:45:27 +0200"
-    },
-    {
-      "title": "Zwei Verletzte bei Messerangriff vor queerfreundlicher Bar",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-neukoelln-messer-angriff-pannierstrasse-bussi-bar.html",
-      "date": "Sat, 24 Oct 2026 13:38:38 +0200"
     }
   ]
 }
