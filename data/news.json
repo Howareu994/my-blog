@@ -1,67 +1,87 @@
 {
   "traffic": [
     {
-      "title": "Berliner Linksfraktion berät erneut zu umstrittener Vanessa Emde",
+      "title": "BER: Taxiinnung schlägt Geozone für Abholungen am BER vor",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/10/taxiinnung-schlaegt-geozone-abholungen-ber.html",
+      "date": "Tue, 27 Oct 2026 14:13:47 +0100"
+    },
+    {
+      "title": "Füchse-Profi Lichtlein fällt verletzt aus und bangt um Heim-WM",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/10/handball-fuechse-berlin-nils-lichtlein-verletzung-ausfall-wm.html",
+      "date": "Tue, 27 Oct 2026 13:54:23 +0100"
+    },
+    {
+      "title": "Suche nach Atommüll-Endlager: Berlin und Lausitz sind raus",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/endlager-atommuell-berlin-lausitz-suche-nicht-mehr.html",
+      "date": "Tue, 27 Oct 2026 13:49:23 +0100"
+    },
+    {
+      "title": "Berliner Linksfraktion berät erneut zu umstrittener Abgeordneter Emde",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/linke-fraktion-beratung-vanessa-emde.html",
-      "date": "Tue, 27 Oct 2026 07:44:37 +0100"
+      "date": "Tue, 27 Oct 2026 13:41:46 +0100"
     },
     {
-      "title": "Herthas Pokal-Gegner Jeddeloh II: Ein Stadion als gutes Omen",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-dfb-pokal-hertha-bsc-das-ist-gegner-jeddeloh-ii-burak-bahar.html",
-      "date": "Tue, 27 Oct 2026 06:39:07 +0100"
+      "title": "Weitere Festnahme nach Schüssen in Berlin-Schöneberg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/schuesse-berlin-schoeneberg-festnahme.html",
+      "date": "Tue, 27 Oct 2026 13:36:45 +0100"
     },
     {
-      "title": "Tierärzte auf dem Land: Vielen Studierenden fehlt der Bezug",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/tierarzt-brandenburg-landwirtschaft-veterinaermedizin-studierend.html",
-      "date": "Tue, 27 Oct 2026 06:37:41 +0100"
+      "title": "KI in Babelsberg: Hightech-Studios eröffnen neue Möglichkeiten",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/potsdam-babelsberg-filmstudio-ki-hightech.html",
+      "date": "Tue, 27 Oct 2026 12:18:15 +0100"
     },
     {
-      "title": "Theodor Seidel mit 95 Jahren gestorben",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/richter-theodor-seidel-mielke-prozess-.html",
-      "date": "Mon, 26 Oct 2026 22:13:46 +0100"
+      "title": "Bahnstrecke Berlin - Hamburg nach Munitionsfund wieder frei",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/bahnstrecke-berlin-hamburg-unterbrochen-bombe-entschaerfung.html",
+      "date": "Tue, 27 Oct 2026 12:18:12 +0100"
     },
     {
-      "title": "Hertha vor Pokalspiel: Ein seliger Trainer und eine Pommes-Warnung",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-dfb-pokal-vorbericht-jeddeloh-ii-hertha-bsc.html",
-      "date": "Mon, 26 Oct 2026 19:59:00 +0100"
+      "title": "Potsdams ehemaliger Oberbürgermeister Horst Gramlich ist tot",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/potsdam-oberbuergermeister-gramlich-gestorben.html",
+      "date": "Tue, 27 Oct 2026 10:56:39 +0100"
     },
     {
-      "title": "Proteste am 31. Oktober: Redmann warnt vor \"französischen Verhältnissen\"",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/redmann-halloween-masken-kriminialitaet.html",
-      "date": "Mon, 26 Oct 2026 19:49:03 +0100"
+      "title": "Beelitz: A9 nach Brand weiter gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/a9-nach-brand-weiter-gesperrt.html",
+      "date": "Tue, 27 Oct 2026 10:45:06 +0100"
     },
     {
-      "title": "Neue Cottbuser Medizin-Uni will eng mit TU Dresden zusammenarbeiten",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/cottbus-uni-medizin-tu-dresden-kooperation.html",
-      "date": "Mon, 26 Oct 2026 19:41:31 +0100"
+      "title": "Oberspreewald-Lausitz: 25-Jähriger stirbt bei Wohnungsbrand in Calau",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/toter-bei-wohnungsbrand-calau-oberspreewald-lausitz.html",
+      "date": "Tue, 27 Oct 2026 09:13:23 +0100"
     },
     {
-      "title": "Union Berlin vor Pokalspiel: Zwischen Köln und Kontinuität",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-dfb-pokal-union-berlin-1-fc-koeln-lustrinelli.html",
-      "date": "Mon, 26 Oct 2026 19:40:09 +0100"
+      "title": "Kitty, Daisy & Lewis im Huxleys Neue Welt",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/10/konzert-kitty--daisy-und-lewis-im-huxleys-berlin.html",
+      "date": "Tue, 27 Oct 2026 08:59:35 +0100"
     },
     {
-      "title": "Lebenslange Haft für 66-Jährigen nach Mord auf Segeltörn nun rechtskräftig",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/segeln-freund-mord-schweden.html",
-      "date": "Mon, 26 Oct 2026 17:28:17 +0100"
-    },
-    {
-      "title": "Ziegenschädel auf Friedhof in Königs Wusterhausen gefunden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/koenigs-wusterhausen-friedhof-knochenfunde-schaedel.html",
-      "date": "Mon, 26 Oct 2026 17:28:01 +0100"
-    },
-    {
-      "title": "Hitlergruß auf Wahlplakat: Urteil gegen AfD-Politiker Möller rechtskräftig",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/10/hitlergruss-afd-politiker-urteil.html",
-      "date": "Mon, 26 Oct 2026 16:58:33 +0100"
-    },
-    {
-      "title": "Vier Lkw in Herzfelde ausgebrannt - Ermittlungen wegen Brandstiftung",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/lkw-brand-herzfelde-ruedersdorf-brandenburg.html",
-      "date": "Mon, 26 Oct 2026 16:55:01 +0100"
+      "title": "Olli Schulz im Berliner Admiralspalast",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/10/konzert-olli-schulz-admiralspalast-berlin.html",
+      "date": "Tue, 27 Oct 2026 08:10:05 +0100"
     }
   ],
   "police": [
+    {
+      "title": "Festnahme nach Handel mit Pyrotechnik",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1731633.php",
+      "date": "Tue, 27 Oct 2026 14:33:19 +0100"
+    },
+    {
+      "title": "Fahndung erfolgreich: Vierter Tatverdächtiger nach Schüssen festgenommen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1655065.php",
+      "date": "Tue, 27 Oct 2026 11:11:00 +0100"
+    },
+    {
+      "title": "Lkw-Fahrerin fährt Fußgängerin um",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1731396.php",
+      "date": "Tue, 27 Oct 2026 10:46:01 +0100"
+    },
+    {
+      "title": "Schuss durch Wohnungstür",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1731291.php",
+      "date": "Tue, 27 Oct 2026 09:43:59 +0100"
+    },
     {
       "title": "Geldautomat auf U-Bahnsteig gesprengt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1731013.php",
@@ -101,32 +121,52 @@
       "title": "Einsatz nach Bedrohung endet mit Angriff auf Polizeibeamten",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1730750.php",
       "date": "Sat, 24 Oct 2026 14:00:11 +0200"
-    },
-    {
-      "title": "Schussabgabe auf Bar",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1730744.php",
-      "date": "Sat, 24 Oct 2026 12:17:51 +0200"
-    },
-    {
-      "title": "Zwei Männer mit Messer verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1730742.php",
-      "date": "Sat, 24 Oct 2026 12:09:45 +0200"
-    },
-    {
-      "title": "Fahrzeuge durch Brand beschädigt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1730689.php",
-      "date": "Fri, 23 Oct 2026 16:54:29 +0200"
-    },
-    {
-      "title": "Informationstafel zerkratzt – Sachbeschädigung mit antisemitischem Hintergrund",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1730685.php",
-      "date": "Fri, 23 Oct 2026 16:47:28 +0200"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Suche nach Atommüll-Endlager: Berlin und Lausitz sind raus",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/endlager-atommuell-berlin-lausitz-suche-nicht-mehr.html",
+      "date": "Tue, 27 Oct 2026 13:49:23 +0100"
+    },
+    {
+      "title": "Borgsdorf: Lange Wartezeiten an Bahnschranke führen zu Ärger",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-oberhavel-borgsdorf-bahnschranke.html",
+      "date": "Tue, 27 Oct 2026 13:37:44 +0100"
+    },
+    {
+      "title": "Weitere Festnahme nach Schüssen in Berlin-Schöneberg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/schuesse-berlin-schoeneberg-festnahme.html",
+      "date": "Tue, 27 Oct 2026 13:36:45 +0100"
+    },
+    {
+      "title": "KI in Babelsberg: Hightech-Studios eröffnen neue Möglichkeiten",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/potsdam-babelsberg-filmstudio-ki-hightech.html",
+      "date": "Tue, 27 Oct 2026 12:18:15 +0100"
+    },
+    {
+      "title": "Bahnstrecke Berlin - Hamburg nach Munitionsfund wieder frei",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/bahnstrecke-berlin-hamburg-unterbrochen-bombe-entschaerfung.html",
+      "date": "Tue, 27 Oct 2026 12:18:12 +0100"
+    },
+    {
+      "title": "Potsdams ehemaliger Oberbürgermeister Horst Gramlich ist tot",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/potsdam-oberbuergermeister-gramlich-gestorben.html",
+      "date": "Tue, 27 Oct 2026 10:56:39 +0100"
+    },
+    {
+      "title": "Beelitz: A9 nach Brand weiter gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/a9-nach-brand-weiter-gesperrt.html",
+      "date": "Tue, 27 Oct 2026 10:45:06 +0100"
+    },
+    {
+      "title": "Oberspreewald-Lausitz: 25-Jähriger stirbt bei Wohnungsbrand in Calau",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/toter-bei-wohnungsbrand-calau-oberspreewald-lausitz.html",
+      "date": "Tue, 27 Oct 2026 09:13:23 +0100"
+    },
     {
       "title": "Tierärzte auf dem Land: Vielen Studierenden fehlt der Bezug",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/tierarzt-brandenburg-landwirtschaft-veterinaermedizin-studierend.html",
@@ -146,46 +186,6 @@
       "title": "Neue Cottbuser Medizin-Uni will eng mit TU Dresden zusammenarbeiten",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/cottbus-uni-medizin-tu-dresden-kooperation.html",
       "date": "Mon, 26 Oct 2026 19:41:31 +0100"
-    },
-    {
-      "title": "Bahn kündigt umfassenden Ersatzverkehr auf Strecke Cottbus-Lübbenau an",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/regionalverkehr-bahn-cottbus-berlin-ersatzverkehr-2027.html",
-      "date": "Mon, 26 Oct 2026 17:41:41 +0100"
-    },
-    {
-      "title": "Lebenslange Haft für 66-Jährigen nach Mord auf Segeltörn nun rechtskräftig",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/segeln-freund-mord-schweden.html",
-      "date": "Mon, 26 Oct 2026 17:28:17 +0100"
-    },
-    {
-      "title": "Ziegenschädel auf Friedhof in Königs Wusterhausen gefunden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/koenigs-wusterhausen-friedhof-knochenfunde-schaedel.html",
-      "date": "Mon, 26 Oct 2026 17:28:01 +0100"
-    },
-    {
-      "title": "Vier Lkw in Herzfelde ausgebrannt - Ermittlungen wegen Brandstiftung",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/lkw-brand-herzfelde-ruedersdorf-brandenburg.html",
-      "date": "Mon, 26 Oct 2026 16:55:01 +0100"
-    },
-    {
-      "title": "Geldautomat im U-Bahnhof Gneisenaustraße gesprengt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-ubahn-gneisenaustrasse-geldautomat-gesprengt.html",
-      "date": "Mon, 26 Oct 2026 15:40:50 +0100"
-    },
-    {
-      "title": "Journalismusnachwuchs im rbb: Programm \"young reporters\" gestartet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/interview-rbb-programm-nachwuchs-journalismus-young-reporters.html",
-      "date": "Mon, 26 Oct 2026 14:51:36 +0100"
-    },
-    {
-      "title": "Wilke hält an Plänen für deutsch-polnisches Gesundheitszentrum fest",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-guben-aerzte-mangel-gubin-gesundheitskooperation.html",
-      "date": "Mon, 26 Oct 2026 14:49:39 +0100"
-    },
-    {
-      "title": "Internetwache der Brandenburger Polizei weiterhin offline",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/polizei-brandenburg-sicherheitsluecke-internetwache-offline.html",
-      "date": "Mon, 26 Oct 2026 12:22:22 +0100"
     }
   ]
 }
