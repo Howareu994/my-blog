@@ -1,14 +1,29 @@
 {
   "traffic": [
     {
-      "title": "Berliner Linksfraktion vertagt Entscheidung über Abgeordnete Emde",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/linke-fraktion-beratung-vanessa-emde.html",
-      "date": "Tue, 27 Oct 2026 19:48:55 +0100"
+      "title": "0:5-Debakel: El Mala und seine Kölner zerstören Unions Pokaltraum",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-dfb-pokal-zweite-runde-1-fc-koeln-union-berlin-audio-stream-liveticker-spielbericht.html",
+      "date": "Wed, 28 Oct 2026 00:16:40 +0100"
     },
     {
       "title": "Füchse-Spieler Wiede nach Comeback: \"Habe noch das Feuer in mir\"",
       "link": "https://www.rbb24.de/sport/beitrag/2026/10/handball-bundesliga-hbl-fuechse-berlin-fabian-wiede-verletzung-comeback-interview.html",
-      "date": "Tue, 27 Oct 2026 18:45:56 +0100"
+      "date": "Tue, 27 Oct 2026 21:53:53 +0100"
+    },
+    {
+      "title": "Pläne für Potsdamer Campus am Brauhausberg kommen voran",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/potsdamer-campus-am-brauhausberg.html",
+      "date": "Tue, 27 Oct 2026 21:36:01 +0100"
+    },
+    {
+      "title": "Berliner Linksfraktion vertagt Entscheidung über Abgeordnete Emde",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/linke-fraktion-beratung-vanessa-emde.html",
+      "date": "Tue, 27 Oct 2026 21:00:01 +0100"
+    },
+    {
+      "title": "Was mehr Videoüberwachung den Brandenburger Kommunen bringen soll",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/10/videoueberwachung-brandenburg-kommunen-ordnungsbehoerdengesetz.html",
+      "date": "Tue, 27 Oct 2026 20:07:48 +0100"
     },
     {
       "title": "Berlinale zeigt unveröffentlichtes Konzertmaterial von Bowie",
@@ -44,21 +59,6 @@
       "title": "Suche nach Atommüll-Endlager: Berlin und Lausitz sind raus",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/endlager-atommuell-berlin-lausitz-suche-nicht-mehr.html",
       "date": "Tue, 27 Oct 2026 15:46:26 +0100"
-    },
-    {
-      "title": "Berliner Ensemble stellt Regenbogenbank auf, weitere sollen folgen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berliner-ensemble-regenbogenbank-kulturinstitutionen-queerfeindlichkeit.html",
-      "date": "Tue, 27 Oct 2026 14:59:35 +0100"
-    },
-    {
-      "title": "BER: Taxi-Innung schlägt Geozone für Abholungen am BER vor",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/10/taxiinnung-schlaegt-geozone-abholungen-ber.html",
-      "date": "Tue, 27 Oct 2026 14:13:00 +0100"
-    },
-    {
-      "title": "Füchse-Profi Lichtlein fällt verletzt aus und bangt um Heim-WM",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/handball-fuechse-berlin-nils-lichtlein-verletzung-ausfall-wm.html",
-      "date": "Tue, 27 Oct 2026 13:54:23 +0100"
     }
   ],
   "police": [
@@ -128,6 +128,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Pläne für Potsdamer Campus am Brauhausberg kommen voran",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/potsdamer-campus-am-brauhausberg.html",
+      "date": "Tue, 27 Oct 2026 21:36:01 +0100"
+    },
+    {
       "title": "Uckermark: Zwei Radfahrer bei Kollisionen mit Pkw schwer verletzt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/unfall-fahrrad-radfahrer-uckermark-brandenburg-prenzlau-schwedt-polizei-verletzt-zusammenstoss-angefahren.html",
       "date": "Tue, 27 Oct 2026 17:47:33 +0100"
@@ -181,11 +186,6 @@
       "title": "Potsdams ehemaliger Oberbürgermeister Horst Gramlich ist tot",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/potsdam-oberbuergermeister-gramlich-gestorben.html",
       "date": "Tue, 27 Oct 2026 10:56:39 +0100"
-    },
-    {
-      "title": "Oberspreewald-Lausitz: 25-Jähriger stirbt bei Wohnungsbrand in Calau",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/toter-bei-wohnungsbrand-calau-oberspreewald-lausitz.html",
-      "date": "Tue, 27 Oct 2026 09:13:23 +0100"
     }
   ]
 }
