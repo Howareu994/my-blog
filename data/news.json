@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Polizei: Keine gezielten Gewaltaufrufe für den Protesttag",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/10/polizei-berlin-protesttag-gen-z-regelt-keine-gewaltaufrufe.html",
+      "date": "Thu, 29 Oct 2026 21:01:03 +0100"
+    },
+    {
       "title": "Füchse Berlin schlagen zum Gruppenabschluss Partizan Belgrad",
       "link": "https://www.rbb24.de/sport/beitrag/2026/10/berlin-handball-fuechse-partizan-champions-league-spielbericht.html",
       "date": "Thu, 29 Oct 2026 20:34:56 +0100"
@@ -54,11 +59,6 @@
       "title": "Ermittler: Fahrer in Biesenthal hatte keinen Alkohol im Blut",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/unfall-biesenthal-vier-todesopfer-staatsanwaltschaft-ermittlungen.html",
       "date": "Thu, 29 Oct 2026 13:52:18 +0100"
-    },
-    {
-      "title": "Deutschland Cup: Rankel nominiert drei Debütanten um Jonas Neffin",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/deutschland-cup-deb-nationalmannschaft-nominierung-jonas-neffin.html",
-      "date": "Thu, 29 Oct 2026 12:33:40 +0100"
     }
   ],
   "police": [
