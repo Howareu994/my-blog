@@ -1,6 +1,26 @@
 {
   "traffic": [
     {
+      "title": "Explosion auf Balkon in Berlin-Mariendorf",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-mariendorf-feuerwerkskoerper-explosion-balkon.html",
+      "date": "Thu, 29 Oct 2026 08:23:17 +0100"
+    },
+    {
+      "title": "Taxifahrer stirbt bei Unfall in Berlin-Mitte",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-taxi-unfall-torstrasse.html",
+      "date": "Thu, 29 Oct 2026 08:12:11 +0100"
+    },
+    {
+      "title": "Peter Plate und Ulf Leo Sommer beenden Arbeit am Theater des Westens",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/10/peter-plate-rosenstolz-theater-des-westens-ulf-leo-sommer-keiner-verlaengerung.html",
+      "date": "Thu, 29 Oct 2026 07:46:44 +0100"
+    },
+    {
+      "title": "RE5 erneut unterbrochen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-oberhavel-bahn-re5-sev.html",
+      "date": "Thu, 29 Oct 2026 06:44:45 +0100"
+    },
+    {
       "title": "Leiche in Wald bei Neuendorf (Dahme-Spreewald) gefunden",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-leichenfund-neuendorf.html",
       "date": "Wed, 28 Oct 2026 23:48:07 +0100"
@@ -14,11 +34,6 @@
       "title": "54:72-Niederlage: Alba-Frauen verlieren in Mailand",
       "link": "https://www.rbb24.de/sport/beitrag/2026/10/berlin-basketball-alba-geas-basket-eurocup-spielbericht.html",
       "date": "Wed, 28 Oct 2026 21:46:42 +0100"
-    },
-    {
-      "title": "Mega-Support: Brekalo führt Hertha ins Pokal-Achtelfinale",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-hertha-bsc-jeddeloh-ll-dfb-pokal-audiostream-liveticker-spielbericht.html",
-      "date": "Wed, 28 Oct 2026 21:45:39 +0100"
     },
     {
       "title": "Berlin Volleys schlagen Volley Goats Mitteldeutschland",
@@ -44,21 +59,6 @@
       "title": "Fraktion der Linken im Berliner Abgeordnetenhaus kleiner als gedacht",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-linke-fraktion-abgeordnetenhaus-kleiner.html",
       "date": "Wed, 28 Oct 2026 17:15:10 +0100"
-    },
-    {
-      "title": "81-jähriger Tatverdächtiger aus Ortrand nach Haftverschonung wieder in U-Haft",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/ortrand-tatverdaechtiger-zwei-tote-untersuchungshaft-brandenburg.html",
-      "date": "Wed, 28 Oct 2026 17:11:55 +0100"
-    },
-    {
-      "title": "Oder-Spree: Schleuse in Kummersdorf für Inspektion trockengelegt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/schleuse-kummersdorf-inspektion-trocken.html",
-      "date": "Wed, 28 Oct 2026 16:53:40 +0100"
-    },
-    {
-      "title": "Berliner Polizei stellt sich für den 31. Oktober auf Großeinsatz ein",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/polizei-berlin-31-oktober-vorbereitungen-grosseinsatz.html",
-      "date": "Wed, 28 Oct 2026 16:24:34 +0100"
     }
   ],
   "police": [
@@ -128,6 +128,21 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Explosion auf Balkon in Berlin-Mariendorf",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-mariendorf-feuerwerkskoerper-explosion-balkon.html",
+      "date": "Thu, 29 Oct 2026 08:23:17 +0100"
+    },
+    {
+      "title": "Taxifahrer stirbt bei Unfall in Berlin-Mitte",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-taxi-unfall-torstrasse.html",
+      "date": "Thu, 29 Oct 2026 08:12:11 +0100"
+    },
+    {
+      "title": "RE5 erneut unterbrochen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-oberhavel-bahn-re5-sev.html",
+      "date": "Thu, 29 Oct 2026 06:44:45 +0100"
+    },
+    {
       "title": "Leiche in Wald bei Neuendorf (Dahme-Spreewald) gefunden",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-leichenfund-neuendorf.html",
       "date": "Wed, 28 Oct 2026 23:48:07 +0100"
@@ -171,21 +186,6 @@
       "title": "Berlin: 31-Jähriger in Lichtenrade angeschossen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-lichtenrade-mann-angeschossen-verletzt.html",
       "date": "Wed, 28 Oct 2026 14:56:20 +0100"
-    },
-    {
-      "title": "Reparatur des zerstörten HU-Hörsaal teurer als angenommen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/besetzung-humboldt-universitaet-schaden-kosten.html",
-      "date": "Wed, 28 Oct 2026 14:06:11 +0100"
-    },
-    {
-      "title": "Berlin: KI-Videoüberwachung am Kotti startet Anfang November",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/ki-videoueberwachung-kotti-startet-november.html",
-      "date": "Wed, 28 Oct 2026 13:42:23 +0100"
-    },
-    {
-      "title": "Berlin: Kältehilfe-Schlafplätze schon im Oktober fast voll belegt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/kaeltehilfe-schlafplaetze-oktober-belegt-kapazitaeten.html",
-      "date": "Wed, 28 Oct 2026 09:15:46 +0100"
     }
   ]
 }
