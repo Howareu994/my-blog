@@ -1,9 +1,29 @@
 {
   "traffic": [
     {
-      "title": "Demo \"GenZ hat genug!\": Angespannte Stimmung bei Protesten am Rosenthaler Platz",
+      "title": "Demo \"GenZ hat genug!\": Steinwürfe und Pyrotechnik - Polizei stoppt Demo in Berlin",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/demo-gen-z-hat-genug-rosenthaler-platz-polizei.html",
-      "date": "Sat, 31 Oct 2026 19:46:34 +0100"
+      "date": "Sat, 31 Oct 2026 21:36:00 +0100"
+    },
+    {
+      "title": "Neubau in Oberhavel: Hennigsdorfer Havelbrücke auf halbem Weg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-bruecke-havel-hennigsdorf-halb-fertig.html",
+      "date": "Sat, 31 Oct 2026 20:54:46 +0100"
+    },
+    {
+      "title": "Auch die Linke macht den Weg frei für Koalitionsverhandlungen",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/10/linke-parteitag-elif-eralp-koalitionsverhandlungen.html",
+      "date": "Sat, 31 Oct 2026 20:39:40 +0100"
+    },
+    {
+      "title": "Volleyball-Bundesliga: B-Team der BR Volleys siegt gegen VC Olympia",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/10/volleyball-bundesliga-br-volleys-vc-olympia-berlin.html",
+      "date": "Sat, 31 Oct 2026 20:02:08 +0100"
+    },
+    {
+      "title": "Berlin und Brandenburg: Ein zu warmer Oktober ist das neue Normal",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/wetter-klima-oktober-dwd-langzeitvergleich-temperaturen-niederschlag.html",
+      "date": "Sat, 31 Oct 2026 19:54:20 +0100"
     },
     {
       "title": "Union-Frauen nach Spektakel beim HSV erstmals im Pokal-Viertelfinale",
@@ -19,11 +39,6 @@
       "title": "\"Gen Z regelt\": Tausende demonstrieren bei Jugendprotesten am Brandenburger Tor",
       "link": "https://www.rbb24.de/politik/beitrag/2026/10/berlin-gen-z-regelt-demo-jugend-protest-polizei.html",
       "date": "Sat, 31 Oct 2026 17:43:36 +0100"
-    },
-    {
-      "title": "Eralp geht von Zustimmung für Koalitionsgespräche aus",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/10/linke-parteitag-elif-eralp-koalitionsverhandlungen.html",
-      "date": "Sat, 31 Oct 2026 17:07:00 +0100"
     },
     {
       "title": "Berliner Leichtathletin unter den Opfern des Zugunfalls in Spanien",
@@ -44,21 +59,6 @@
       "title": "Hertha BSC macht eine Million Plus - die Schulden bleiben",
       "link": "https://www.rbb24.de/sport/beitrag/2026/10/hertha-bsc-finanzzahlen-bilanz-saison-2025-2026.html",
       "date": "Sat, 31 Oct 2026 14:51:00 +0100"
-    },
-    {
-      "title": "Berlins Ruf als Jazz-Hauptstadt wackelt",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/10/berlin-jazz-hauptstadt-musik-jazzfest.html",
-      "date": "Sat, 31 Oct 2026 12:50:24 +0100"
-    },
-    {
-      "title": "Brandenburger CDU-Verbände beklagen Zunahme von Parteiaustritten",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/10/brandenburg-cdu-kreisveraende-parteiaustritte-friedrich-merz.html",
-      "date": "Sat, 31 Oct 2026 11:49:32 +0100"
-    },
-    {
-      "title": "Die Hirtenhunde waren die Krise, das Laufen die Antwort",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/liebeserklaerung-ans-laufen-boom-langlauf-selbstbestimmung.html",
-      "date": "Sat, 31 Oct 2026 10:42:00 +0100"
     }
   ],
   "police": [
@@ -128,14 +128,19 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Demo \"GenZ hat genug!\": Steinwürfe und Pyrotechnik - Polizei stoppt Demo in Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/demo-gen-z-hat-genug-rosenthaler-platz-polizei.html",
+      "date": "Sat, 31 Oct 2026 21:36:00 +0100"
+    },
+    {
+      "title": "Neubau in Oberhavel: Hennigsdorfer Havelbrücke auf halbem Weg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-bruecke-havel-hennigsdorf-halb-fertig.html",
+      "date": "Sat, 31 Oct 2026 20:54:46 +0100"
+    },
+    {
       "title": "Berlin und Brandenburg: Ein zu warmer Oktober ist das neue Normal",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/wetter-klima-oktober-dwd-langzeitvergleich-temperaturen-niederschlag.html",
       "date": "Sat, 31 Oct 2026 19:54:20 +0100"
-    },
-    {
-      "title": "Demo \"GenZ hat genug!\": Angespannte Stimmung bei Protesten am Rosenthaler Platz",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/demo-gen-z-hat-genug-rosenthaler-platz-polizei.html",
-      "date": "Sat, 31 Oct 2026 19:46:34 +0100"
     },
     {
       "title": "Reformationstag und Halloween: Zwischen Himmel und Hölle",
@@ -181,11 +186,6 @@
       "title": "Hackerangriff auf Charité - Daten von Patienten und Mitarbeitenden erbeutet",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/charite-hackerangriff-berlin-kontaktdaten-patienten-mitarbeiter.html",
       "date": "Fri, 30 Oct 2026 13:42:00 +0100"
-    },
-    {
-      "title": "Ab 13. Dezember: Uniklinik in Brandenburg/Havel künftig mit dem Bus erreichbar",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-havel-buslinie-klinik-beschaeftigte-fahrplanwechsel.html",
-      "date": "Fri, 30 Oct 2026 12:42:13 +0100"
     }
   ]
 }
