@@ -1,9 +1,49 @@
 {
   "traffic": [
     {
-      "title": "Reformationstag und Helloween: Zwischen Himmel und Hölle",
+      "title": "Start-Rekord geknackt: Hertha gewinnt Spitzenspiel in Kaiserslautern",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-zweite-bundesliga-kaiserslautern-hertha-bsc-sportschau-audio-stream-liveticker-spielbericht.html",
+      "date": "Sat, 31 Oct 2026 14:57:56 +0100"
+    },
+    {
+      "title": "Hunderte Teilnehmer bei Jugendprotesten am Brandenburger Tor",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/10/berlin-gen-z-regelt-demo-jugend-protest-polizei.html",
+      "date": "Sat, 31 Oct 2026 14:57:47 +0100"
+    },
+    {
+      "title": "Hertha BSC macht eine Million Plus - die Schulden bleiben",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/10/hertha-bsc-finanzzahlen-bilanz-saison-2025-2026.html",
+      "date": "Sat, 31 Oct 2026 14:51:52 +0100"
+    },
+    {
+      "title": "Eralp geht von Zustimmung für Koalitionsgespräche aus",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/10/linke-parteitag-elif-eralp-koalitionsverhandlungen.html",
+      "date": "Sat, 31 Oct 2026 14:45:21 +0100"
+    },
+    {
+      "title": "Berlins Ruf als Jazz-Hauptstadt wackelt",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/10/berlin-jazz-hauptstadt-musik-jazzfest.html",
+      "date": "Sat, 31 Oct 2026 12:50:24 +0100"
+    },
+    {
+      "title": "Brandenburger CDU-Verbände beklagen Zunahme von Parteiaustritten",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/10/brandenburg-cdu-kreisveraende-parteiaustritte-friedrich-merz.html",
+      "date": "Sat, 31 Oct 2026 11:49:32 +0100"
+    },
+    {
+      "title": "Babelsberg-Trainer: \"Wollen nicht ständig um Platz elf spielen\"",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/10/brandenburg-potsdam-fussball-babelsberg-03-interview-michael-braune-luckenwalde-trainer-karli.html",
+      "date": "Sat, 31 Oct 2026 10:56:30 +0100"
+    },
+    {
+      "title": "Die Hirtenhunde waren die Krise, das Laufen die Antwort",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/10/liebeserklaerung-ans-laufen-boom-langlauf-selbstbestimmung.html",
+      "date": "Sat, 31 Oct 2026 10:42:00 +0100"
+    },
+    {
+      "title": "Reformationstag und Halloween: Zwischen Himmel und Hölle",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/reformationstag-halloween-feiertag-brandenburg-berlin-nicht.html",
-      "date": "Sat, 31 Oct 2026 07:48:16 +0100"
+      "date": "Sat, 31 Oct 2026 08:55:44 +0100"
     },
     {
       "title": "Schrottfahrräder in Berlin - Fährt das noch oder kann das weg?",
@@ -19,49 +59,44 @@
       "title": "Regionalliga Nordost: BFC rückt an Tabellenspitze heran",
       "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-regionalliga-nordost-lok-leipzig-vsg-altglienicke-bfc-dynamo-rsv-eintracht-luckenwalde-hertha-ii.html",
       "date": "Fri, 30 Oct 2026 22:25:59 +0100"
-    },
-    {
-      "title": "Nächste Führung verspielt: Cottbus verliert spät gegen Bochum",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-2-bundesliga-energie-cottbus-vfl-bochum-liveticker-audiostream.html",
-      "date": "Fri, 30 Oct 2026 22:17:40 +0100"
-    },
-    {
-      "title": "Eralp-Debatte überschattet Berlins Regierungsbildung",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/10/elif-eralp-debatte-linke-gruene-spd-regierungsbildung-berlin.html",
-      "date": "Fri, 30 Oct 2026 20:41:46 +0100"
-    },
-    {
-      "title": "Elke Sommer im Alter von 85 Jahren gestorben",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/10/elke-sommer-gestorben.html",
-      "date": "Fri, 30 Oct 2026 19:00:39 +0100"
-    },
-    {
-      "title": "Märkisch-Oderland: Brand in Lagerhalle – mögliche Asbest-Freisetzung",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brand-getreide-halle-maerkisch-oderland.html",
-      "date": "Fri, 30 Oct 2026 18:25:18 +0100"
-    },
-    {
-      "title": "Friedhöfe, Fledermäuse, Bunker: Gruseltouren durch Berlin und Brandenburg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-brandenburg-gruselige-orte-halloween-ausflug.html",
-      "date": "Fri, 30 Oct 2026 17:48:21 +0100"
-    },
-    {
-      "title": "Einzelne Geschäfte verbarrikadieren sich vor \"Gen Z\"-Protesten - Polizei beruhigt",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/10/polizei-berlin-protesttag-gen-z-regelt-keine-gewaltaufrufe.html",
-      "date": "Fri, 30 Oct 2026 17:42:56 +0100"
-    },
-    {
-      "title": "Union vor Bundesligaspiel gegen Köln: Dieses Mal mit Bock?",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/union-berlin-koeln-bundesliga-.html",
-      "date": "Fri, 30 Oct 2026 17:08:46 +0100"
-    },
-    {
-      "title": "\"Fremde Menschen haben in Wolfsgehegen nichts zu suchen\"",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-wolf-angriff-kind-schutz-wildgehege-eckhard-wiesenthal.html",
-      "date": "Fri, 30 Oct 2026 16:27:42 +0100"
     }
   ],
   "police": [
+    {
+      "title": "Queerfeindliche Straftaten – Streit im Fitnessstudio und Vorfall an einem Bahnhof",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1733425.php",
+      "date": "Sat, 31 Oct 2026 14:06:47 +0100"
+    },
+    {
+      "title": "Senior fährt gegen Baum",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1733423.php",
+      "date": "Sat, 31 Oct 2026 13:55:57 +0100"
+    },
+    {
+      "title": "Verkehrsunfall nach mutmaßlicher Trunkenheitsfahrt – zwei Frauen im Krankenhaus",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1733420.php",
+      "date": "Sat, 31 Oct 2026 12:38:33 +0100"
+    },
+    {
+      "title": "Motorradfahrer nach Verkehrsunfall im Krankenhaus",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1733419.php",
+      "date": "Sat, 31 Oct 2026 12:33:10 +0100"
+    },
+    {
+      "title": "Verhaltensauffällige Frau sticht einem Polizisten bei Widerstandshandlungen in den Arm",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1733416.php",
+      "date": "Sat, 31 Oct 2026 11:28:47 +0100"
+    },
+    {
+      "title": "DEIG-Einsatz gegen Randalierer",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1733414.php",
+      "date": "Sat, 31 Oct 2026 11:20:08 +0100"
+    },
+    {
+      "title": "Schwerer Raub auf Tankstelle",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1733413.php",
+      "date": "Sat, 31 Oct 2026 11:16:17 +0100"
+    },
     {
       "title": "Unfall zwischen Fahrrad und E-Scooter – Polizei bittet um Mithilfe",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1733252.php",
@@ -86,41 +121,6 @@
       "title": "Einschusslöcher an Pkw festgestellt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1732680.php",
       "date": "Thu, 29 Oct 2026 13:30:23 +0100"
-    },
-    {
-      "title": "Polizist bei Verkehrsunfall von Regelungstonne geschleudert",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1732674.php",
-      "date": "Thu, 29 Oct 2026 13:22:38 +0100"
-    },
-    {
-      "title": "Explosion auf Balkon eines Mehrfamilienhauses",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1732557.php",
-      "date": "Thu, 29 Oct 2026 11:09:21 +0100"
-    },
-    {
-      "title": "Mann durch Schüsse lebensgefährlich verletzt – Mordkommission ermittelt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1732112.php",
-      "date": "Wed, 28 Oct 2026 14:34:05 +0100"
-    },
-    {
-      "title": "Festnahme nach Schüssen auf ein Auto",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1731975.php",
-      "date": "Wed, 28 Oct 2026 12:25:05 +0100"
-    },
-    {
-      "title": "Fußgänger von Pkw angefahren und schwer verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1731974.php",
-      "date": "Wed, 28 Oct 2026 12:18:47 +0100"
-    },
-    {
-      "title": "Autofahrer flüchtet vor Verkehrskontrolle – Polizeibeamter verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1731959.php",
-      "date": "Wed, 28 Oct 2026 11:42:27 +0100"
-    },
-    {
-      "title": "Autofahrer prallt gegen Baum und Lichtmast",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1731927.php",
-      "date": "Wed, 28 Oct 2026 10:47:36 +0100"
     }
   ],
   "free_events": [],
@@ -128,9 +128,9 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Reformationstag und Helloween: Zwischen Himmel und Hölle",
+      "title": "Reformationstag und Halloween: Zwischen Himmel und Hölle",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/reformationstag-halloween-feiertag-brandenburg-berlin-nicht.html",
-      "date": "Sat, 31 Oct 2026 07:48:16 +0100"
+      "date": "Sat, 31 Oct 2026 08:55:44 +0100"
     },
     {
       "title": "Schrottfahrräder in Berlin - Fährt das noch oder kann das weg?",
