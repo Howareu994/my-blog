@@ -3,17 +3,22 @@
     {
       "title": "Basketball: Alba verliert nach starkem Start in Bonn",
       "link": "https://www.rbb24.de/sport/beitrag/2026/11/basketball-bundesliga-bonn-alba-berlin.html",
-      "date": "Sun, 01 Nov 2026 20:36:25 +0100"
+      "date": "Sun, 01 Nov 2026 22:21:04 +0100"
+    },
+    {
+      "title": "Fußball: Union Berlin fehlt die Qualität für mehr",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/11/fussball-bundesliga-union-berlin-koeln-analyse.html",
+      "date": "Sun, 01 Nov 2026 21:33:51 +0100"
+    },
+    {
+      "title": "Zehn Festnahmen: Pyrotechnik und Feuer im Märkischen Viertel",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-maerkisches-viertel-feuer-pyrotechnik-polizei.html",
+      "date": "Sun, 01 Nov 2026 21:26:44 +0100"
     },
     {
       "title": "Schönhauser Allee: Vorbereitung für Brücken-Neubau beginnen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-prenzlauer-berg-bruecke-schoenhauser-allee-neubau.html",
       "date": "Sun, 01 Nov 2026 20:25:47 +0100"
-    },
-    {
-      "title": "Verkehr unterbrochen: Pyrotechnik und Feuer im Märkischen Viertel",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-maerkisches-viertel-feuer-pyrotechnik-polizei.html",
-      "date": "Sun, 01 Nov 2026 19:54:19 +0100"
     },
     {
       "title": "Handball: Füchse siegen in Eisenach trotz schwachem Beginn",
@@ -34,11 +39,6 @@
       "title": "Basketball: Albas Spielerinnen siegen souverän gegen Halle",
       "link": "https://www.rbb24.de/sport/beitrag/2026/11/basketball-dbbl-alba-berlin-halle-lions.html",
       "date": "Sun, 01 Nov 2026 18:43:52 +0100"
-    },
-    {
-      "title": "Später Joker-Schock: Union verpasst Sieg gegen Köln",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/11/fussball-bundesliga-1-fc-union-1-fc-koeln-live-ticker-audio-stream.html",
-      "date": "Sun, 01 Nov 2026 18:04:40 +0100"
     },
     {
       "title": "Kolumne Was war das denn?: Zwei Wattestäbchen für einen Arzttermin",
@@ -128,14 +128,14 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Zehn Festnahmen: Pyrotechnik und Feuer im Märkischen Viertel",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-maerkisches-viertel-feuer-pyrotechnik-polizei.html",
+      "date": "Sun, 01 Nov 2026 21:26:44 +0100"
+    },
+    {
       "title": "Schönhauser Allee: Vorbereitung für Brücken-Neubau beginnen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-prenzlauer-berg-bruecke-schoenhauser-allee-neubau.html",
       "date": "Sun, 01 Nov 2026 20:25:47 +0100"
-    },
-    {
-      "title": "Verkehr unterbrochen: Pyrotechnik und Feuer im Märkischen Viertel",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-maerkisches-viertel-feuer-pyrotechnik-polizei.html",
-      "date": "Sun, 01 Nov 2026 19:54:19 +0100"
     },
     {
       "title": "Oder-Spree: Mann schmeißt ein Kilogramm Cannabis in Hausmüll",
