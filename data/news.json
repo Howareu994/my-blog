@@ -1,6 +1,21 @@
 {
   "traffic": [
     {
+      "title": "Pyrotechnik und kaum Delikte in der Halloween-Nacht in Berlin und Brandenburg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/halloween-nacht-berlin-brandenburg-bilanz.html",
+      "date": "Sun, 01 Nov 2026 07:56:00 +0100"
+    },
+    {
+      "title": "Seniorenheim in Wittenberge: Sterben in Würde will vorbereitet sein",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/sterben-seniorenheim-wittenberge-brandenburg-sterbebegleitung.html",
+      "date": "Sun, 01 Nov 2026 07:15:00 +0100"
+    },
+    {
+      "title": "Interview: Erstes Frauenhaus Deutschlands 1976 in Berlin eröffnet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-frauenhaus-50-jahre-frauen-gewalt.html",
+      "date": "Sun, 01 Nov 2026 07:15:00 +0100"
+    },
+    {
       "title": "Demo \"GenZ hat genug!\": Steinwürfe und Pyrotechnik - Polizei stoppt Demo in Berlin",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/demo-gen-z-hat-genug-rosenthaler-platz-polizei.html",
       "date": "Sat, 31 Oct 2026 21:36:00 +0100"
@@ -19,11 +34,6 @@
       "title": "Volleyball-Bundesliga: B-Team der BR Volleys siegt gegen VC Olympia",
       "link": "https://www.rbb24.de/sport/beitrag/2026/10/volleyball-bundesliga-br-volleys-vc-olympia-berlin.html",
       "date": "Sat, 31 Oct 2026 20:02:08 +0100"
-    },
-    {
-      "title": "Berlin und Brandenburg: Ein zu warmer Oktober ist das neue Normal",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/wetter-klima-oktober-dwd-langzeitvergleich-temperaturen-niederschlag.html",
-      "date": "Sat, 31 Oct 2026 19:54:20 +0100"
     },
     {
       "title": "Union-Frauen nach Spektakel beim HSV erstmals im Pokal-Viertelfinale",
@@ -49,16 +59,6 @@
       "title": "Regionalliga Nordost: BFC Preussen besiegt Zwickau",
       "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-regionalliga-nordost-bfc-preussen-fsv-zwickau-spielbericht.html",
       "date": "Sat, 31 Oct 2026 16:42:46 +0100"
-    },
-    {
-      "title": "Start-Rekord geknackt: Hertha gewinnt Spitzenspiel in Kaiserslautern",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-zweite-bundesliga-kaiserslautern-hertha-bsc-sportschau-audio-stream-liveticker-spielbericht.html",
-      "date": "Sat, 31 Oct 2026 15:21:52 +0100"
-    },
-    {
-      "title": "Hertha BSC macht eine Million Plus - die Schulden bleiben",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/10/hertha-bsc-finanzzahlen-bilanz-saison-2025-2026.html",
-      "date": "Sat, 31 Oct 2026 14:51:00 +0100"
     }
   ],
   "police": [
@@ -128,6 +128,21 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Pyrotechnik und kaum Delikte in der Halloween-Nacht in Berlin und Brandenburg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/halloween-nacht-berlin-brandenburg-bilanz.html",
+      "date": "Sun, 01 Nov 2026 07:56:00 +0100"
+    },
+    {
+      "title": "Interview: Erstes Frauenhaus Deutschlands 1976 in Berlin eröffnet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-frauenhaus-50-jahre-frauen-gewalt.html",
+      "date": "Sun, 01 Nov 2026 07:15:00 +0100"
+    },
+    {
+      "title": "Seniorenheim in Wittenberge: Sterben in Würde will vorbereitet sein",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/sterben-seniorenheim-wittenberge-brandenburg-sterbebegleitung.html",
+      "date": "Sun, 01 Nov 2026 07:15:00 +0100"
+    },
+    {
       "title": "Demo \"GenZ hat genug!\": Steinwürfe und Pyrotechnik - Polizei stoppt Demo in Berlin",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/demo-gen-z-hat-genug-rosenthaler-platz-polizei.html",
       "date": "Sat, 31 Oct 2026 21:36:00 +0100"
@@ -171,21 +186,6 @@
       "title": "\"Fremde Menschen haben in Wolfsgehegen nichts zu suchen\"",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-wolf-angriff-kind-schutz-wildgehege-eckhard-wiesenthal.html",
       "date": "Fri, 30 Oct 2026 16:27:42 +0100"
-    },
-    {
-      "title": "Polizei nimmt Kabeldiebe in Berlin-Reinickendorf fest",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/kabeldiebe-festnahme-berlin-reinickendorf-bahngelaende.html",
-      "date": "Fri, 30 Oct 2026 15:38:41 +0100"
-    },
-    {
-      "title": "Neuruppin: Cafés dürfen Alkohol während des Martinimarkts verkaufen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/martinimarkt-alkohol-ausschank-volksfest.html",
-      "date": "Fri, 30 Oct 2026 15:20:08 +0100"
-    },
-    {
-      "title": "Hackerangriff auf Charité - Daten von Patienten und Mitarbeitenden erbeutet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/charite-hackerangriff-berlin-kontaktdaten-patienten-mitarbeiter.html",
-      "date": "Fri, 30 Oct 2026 13:42:00 +0100"
     }
   ]
 }
