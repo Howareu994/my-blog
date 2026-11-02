@@ -1,9 +1,54 @@
 {
   "traffic": [
     {
+      "title": "Warnstreiks in der Elektro- und Metallindustrie in Berlin und Brandenburg",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/11/warnstreiks-berlin-brandenburg-ig-metall-tarifstreit.html",
+      "date": "Mon, 02 Nov 2026 11:58:41 +0100"
+    },
+    {
+      "title": "Berliner Linke, Grüne und SPD starten Koalitionsgespräche",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/11/berlin-koalitionsverhandlungen-linke-gruene-spd-beginn.html",
+      "date": "Mon, 02 Nov 2026 11:47:00 +0100"
+    },
+    {
+      "title": "Nach Angriff auf Schüler: Polizei verstärkt nach Ferien Präsenz vor Frankfurter Schulen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/frankfurtoder-gewalt-schule-polizei-sicherheit-schulweg-praesenz-ordnungsamt-brandenburg-oberbuergemeister-koerperverletzung.html",
+      "date": "Mon, 02 Nov 2026 11:31:39 +0100"
+    },
+    {
+      "title": "In Potsdam startet Kälte-Nothilfe für obdachlose Menschen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/potsdam-winter-kaelte-nothilfe-obdachlose-unterkunft-start.html",
+      "date": "Mon, 02 Nov 2026 11:11:20 +0100"
+    },
+    {
+      "title": "Lettland und Montenegro im Fokus: Filmfestival Cottbus beginnt",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/11/cottbus-filmfestival-osteuropa-lettland-montenegro-ukraine.html",
+      "date": "Mon, 02 Nov 2026 10:41:00 +0100"
+    },
+    {
+      "title": "Prozess um Missbrauchsvorwürfe gegen Kinderarzt startet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/kinderarzt-havelland-sexuell-missbrauch-prozess-potsdam-brandenburg.html",
+      "date": "Mon, 02 Nov 2026 10:27:36 +0100"
+    },
+    {
+      "title": "Abschied von Regina Ziegler: Die Grande Dame des deutschen Films",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/11/regina-ziegler-filmproduzentin-berlinale-gestorben.html",
+      "date": "Mon, 02 Nov 2026 09:47:42 +0100"
+    },
+    {
+      "title": "Vier Festnahmen: Pyrotechnik und Feuer im Märkischen Viertel",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-maerkisches-viertel-feuer-pyrotechnik-polizei.html",
+      "date": "Mon, 02 Nov 2026 09:18:14 +0100"
+    },
+    {
+      "title": "Viele Züge von Berlin nach Hannover sind zusätzlich verspätet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/bahnsperrung-berlin-hannover-datenauswertung.html",
+      "date": "Mon, 02 Nov 2026 06:21:00 +0100"
+    },
+    {
       "title": "Basketball: Alba verliert nach starkem Start in Bonn",
       "link": "https://www.rbb24.de/sport/beitrag/2026/11/basketball-bundesliga-bonn-alba-berlin.html",
-      "date": "Sun, 01 Nov 2026 22:21:04 +0100"
+      "date": "Sun, 01 Nov 2026 21:45:00 +0100"
     },
     {
       "title": "Fußball: Union Berlin fehlt die Qualität für mehr",
@@ -11,57 +56,27 @@
       "date": "Sun, 01 Nov 2026 21:33:51 +0100"
     },
     {
-      "title": "Zehn Festnahmen: Pyrotechnik und Feuer im Märkischen Viertel",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-maerkisches-viertel-feuer-pyrotechnik-polizei.html",
-      "date": "Sun, 01 Nov 2026 21:26:44 +0100"
-    },
-    {
       "title": "Schönhauser Allee: Vorbereitung für Brücken-Neubau beginnen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-prenzlauer-berg-bruecke-schoenhauser-allee-neubau.html",
       "date": "Sun, 01 Nov 2026 20:25:47 +0100"
-    },
-    {
-      "title": "Handball: Füchse siegen in Eisenach trotz schwachem Beginn",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/11/handball-bundesliga-eisenach-fuechse-berlin.html",
-      "date": "Sun, 01 Nov 2026 19:38:47 +0100"
-    },
-    {
-      "title": "DFB-Pokal: Hertha muss im Achtelfinale zum FC Bayern München",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/11/fussball-dfb-pokal-achtelfinale-auslosung-hertha-bsc.html",
-      "date": "Sun, 01 Nov 2026 19:33:03 +0100"
-    },
-    {
-      "title": "Oder-Spree: Mann schmeißt ein Kilogramm Cannabis in Hausmüll",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/cannabis-gras-thc-1-kg-im-hausmuell.html",
-      "date": "Sun, 01 Nov 2026 18:50:43 +0100"
-    },
-    {
-      "title": "Basketball: Albas Spielerinnen siegen souverän gegen Halle",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/11/basketball-dbbl-alba-berlin-halle-lions.html",
-      "date": "Sun, 01 Nov 2026 18:43:52 +0100"
-    },
-    {
-      "title": "Kolumne Was war das denn?: Zwei Wattestäbchen für einen Arzttermin",
-      "link": "https://www.rbb24.de/panorama/thema/was-war-das-denn/arztsuche-berlin-hausarzt-facharzt-doctolib.html",
-      "date": "Sun, 01 Nov 2026 18:04:06 +0100"
-    },
-    {
-      "title": "Regionalliga: Babelsberg unterliegt Tabellenführer Erfurt",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/11/fussball-regionalliga-nordost-tasmania-chemnitz-erfurt-babelsberg.html",
-      "date": "Sun, 01 Nov 2026 17:59:01 +0100"
-    },
-    {
-      "title": "Oberhavel: Radfahrer bei Zusammenprall mit Auto gestorben",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/brandenburg-oberhavel-oranienburg-fahrradfahrer-b273-unfall.html",
-      "date": "Sun, 01 Nov 2026 17:42:30 +0100"
-    },
-    {
-      "title": "Abschied von Regina Ziegler: Die Grande Dame des deutschen Films",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/11/regina-ziegler-filmproduzentin-berlinale-gestorben.html",
-      "date": "Sun, 01 Nov 2026 17:11:00 +0100"
     }
   ],
   "police": [
+    {
+      "title": "Schussabgabe auf Gewerbegelände",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1733711.php",
+      "date": "Mon, 02 Nov 2026 12:23:26 +0100"
+    },
+    {
+      "title": "Polizeieinsatz nach Entfernung eines Patienten aus Rettungsstelle",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1733703.php",
+      "date": "Mon, 02 Nov 2026 12:14:36 +0100"
+    },
+    {
+      "title": "Unbekannte werfen Steine auf Straßenbahnen",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1733615.php",
+      "date": "Mon, 02 Nov 2026 10:27:00 +0100"
+    },
     {
       "title": "Bilanzmeldung zum stadtweiten Einsatzgeschehen \"Halloween\"",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1733484.php",
@@ -106,21 +121,6 @@
       "title": "Motorradfahrer nach Verkehrsunfall im Krankenhaus",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1733419.php",
       "date": "Sat, 31 Oct 2026 12:33:10 +0100"
-    },
-    {
-      "title": "Verhaltensauffällige Frau sticht einem Polizisten bei Widerstandshandlungen in den Arm",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1733416.php",
-      "date": "Sat, 31 Oct 2026 11:28:47 +0100"
-    },
-    {
-      "title": "DEIG-Einsatz gegen Randalierer",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1733414.php",
-      "date": "Sat, 31 Oct 2026 11:20:08 +0100"
-    },
-    {
-      "title": "Schwerer Raub auf Tankstelle",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1733413.php",
-      "date": "Sat, 31 Oct 2026 11:16:17 +0100"
     }
   ],
   "free_events": [],
@@ -128,9 +128,29 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Zehn Festnahmen: Pyrotechnik und Feuer im Märkischen Viertel",
+      "title": "Nach Angriff auf Schüler: Polizei verstärkt nach Ferien Präsenz vor Frankfurter Schulen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/frankfurtoder-gewalt-schule-polizei-sicherheit-schulweg-praesenz-ordnungsamt-brandenburg-oberbuergemeister-koerperverletzung.html",
+      "date": "Mon, 02 Nov 2026 11:31:39 +0100"
+    },
+    {
+      "title": "In Potsdam startet Kälte-Nothilfe für obdachlose Menschen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/potsdam-winter-kaelte-nothilfe-obdachlose-unterkunft-start.html",
+      "date": "Mon, 02 Nov 2026 11:11:20 +0100"
+    },
+    {
+      "title": "Prozess um Missbrauchsvorwürfe gegen Kinderarzt startet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/kinderarzt-havelland-sexuell-missbrauch-prozess-potsdam-brandenburg.html",
+      "date": "Mon, 02 Nov 2026 10:27:36 +0100"
+    },
+    {
+      "title": "Vier Festnahmen: Pyrotechnik und Feuer im Märkischen Viertel",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-maerkisches-viertel-feuer-pyrotechnik-polizei.html",
-      "date": "Sun, 01 Nov 2026 21:26:44 +0100"
+      "date": "Mon, 02 Nov 2026 09:18:14 +0100"
+    },
+    {
+      "title": "Viele Züge von Berlin nach Hannover sind zusätzlich verspätet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/bahnsperrung-berlin-hannover-datenauswertung.html",
+      "date": "Mon, 02 Nov 2026 06:21:00 +0100"
     },
     {
       "title": "Schönhauser Allee: Vorbereitung für Brücken-Neubau beginnen",
@@ -145,7 +165,7 @@
     {
       "title": "Kolumne Was war das denn?: Zwei Wattestäbchen für einen Arzttermin",
       "link": "https://www.rbb24.de/panorama/thema/was-war-das-denn/arztsuche-berlin-hausarzt-facharzt-doctolib.html",
-      "date": "Sun, 01 Nov 2026 18:04:06 +0100"
+      "date": "Sun, 01 Nov 2026 18:04:00 +0100"
     },
     {
       "title": "Oberhavel: Radfahrer bei Zusammenprall mit Auto gestorben",
@@ -165,27 +185,7 @@
     {
       "title": "Böller und brennende Mülltonnen - mehrere Polizeieinsätze an Halloween",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/11/halloween-nacht-berlin-brandenburg-bilanz.html",
-      "date": "Sun, 01 Nov 2026 15:19:55 +0100"
-    },
-    {
-      "title": "Erneut Schüsse in Berlin - auf Mehrfamilienhaus und vor Restaurant",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/schuesse-mehrfamilienhaus-lankwitz.html",
-      "date": "Sun, 01 Nov 2026 13:45:31 +0100"
-    },
-    {
-      "title": "Kältehilfe und Wärmebusse in den Winternächten ab jetzt unterwegs",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/busse-beduerftige-kaeltehilfe-obdachlose-berlin.html",
-      "date": "Sun, 01 Nov 2026 12:17:15 +0100"
-    },
-    {
-      "title": "Steinwürfe und Pyrotechnik - Polizei stoppt Demo in Berlin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/demo-gen-z-hat-genug-rosenthaler-platz-polizei.html",
-      "date": "Sun, 01 Nov 2026 11:42:43 +0100"
-    },
-    {
-      "title": "#Wiegehtesuns: \"Eine Tonne Kleidung pro Woche, die wir nicht gebrauchen können\"",
-      "link": "https://www.rbb24.de/panorama/thema/wiegehtesuns/berlin-caritas-altkleider-winter-sammelstelle.html",
-      "date": "Sun, 01 Nov 2026 10:29:58 +0100"
+      "date": "Sun, 01 Nov 2026 15:19:00 +0100"
     }
   ]
 }
