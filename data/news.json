@@ -1,14 +1,29 @@
 {
   "traffic": [
     {
-      "title": "Maskierter überfällt in Berlin vier Geschäfte innerhalb einer halben Stunde",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-charlottenburg-vier-geschaefte-ueberfallen.html",
-      "date": "Tue, 03 Nov 2026 19:17:36 +0100"
+      "title": "Podcaster Ryl: \"Über den Ost-Fußball kann man viel über Geschichte lernen\"",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/11/fussball-interview-gregor-ryl-osten-ddr-geschichte-fans-stadien-lok-leipzig-maradona-energie-cottbus-hertha-bsc.html",
+      "date": "Tue, 03 Nov 2026 21:55:13 +0100"
+    },
+    {
+      "title": "Selenskyj-Besuch und Sicherheitskonferenz in Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-sicherheitskonferenz-staatsgaeste-absperrungen-verkehr.html",
+      "date": "Tue, 03 Nov 2026 21:39:15 +0100"
     },
     {
       "title": "Berliner Linke vertagt erneut Entscheidung über Abgeordnete Emde",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-linke-abgeordnete-emde-beratung-keine-entscheidung.html",
-      "date": "Tue, 03 Nov 2026 18:15:25 +0100"
+      "date": "Tue, 03 Nov 2026 21:13:51 +0100"
+    },
+    {
+      "title": "Grüne und SPD in Berlin lehnen Sondierungsanfrage der CDU ab",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-treffen-cdu-gruene-spd-koalition-sondierungsgespraeche.html",
+      "date": "Tue, 03 Nov 2026 20:59:33 +0100"
+    },
+    {
+      "title": "Maskierter überfällt in Berlin vier Geschäfte innerhalb einer halben Stunde",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-charlottenburg-vier-geschaefte-ueberfallen.html",
+      "date": "Tue, 03 Nov 2026 19:17:36 +0100"
     },
     {
       "title": "Ein Jahr \"Baumgesetz\": Wo Berlin bei der Klimaanpassung steht",
@@ -31,11 +46,6 @@
       "date": "Tue, 03 Nov 2026 17:47:30 +0100"
     },
     {
-      "title": "Selenskyj-Besuch und Sicherheitskonferenz in Berlin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-sicherheitskonferenz-staatsgaeste-absperrungen-verkehr.html",
-      "date": "Tue, 03 Nov 2026 17:38:52 +0100"
-    },
-    {
       "title": "Rodungen für Erweiterung des Red-Bull-Werks in Baruth/Mark haben begonnen",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/11/red-bull-werk-baruth-mark-erweiterung-rodung-wald-gestartet.html",
       "date": "Tue, 03 Nov 2026 17:32:20 +0100"
@@ -49,16 +59,6 @@
       "title": "Vier Kraftwerke in Jänschwalde werden auf Gas umgerüstet",
       "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/11/brandenburg-lausitz-leag-kraftwerke-zuschlag-bundesnetzagentur.html",
       "date": "Tue, 03 Nov 2026 16:28:39 +0100"
-    },
-    {
-      "title": "Rund 300 Neuruppiner Schüler bei Azubi-Speeddating auf Riesenrad",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/11/auszubildende-speed-dating-riesenrad-neuruppin-personal-suche.html",
-      "date": "Tue, 03 Nov 2026 16:16:19 +0100"
-    },
-    {
-      "title": "Erneuerbare Energien: Keine Windräder am Teufelsberg und in der Jungfernheide",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/11/berlin-winderenergie-nutzung-flaechen-senat-plaene-.html",
-      "date": "Tue, 03 Nov 2026 15:52:00 +0100"
     }
   ],
   "police": [
@@ -128,6 +128,11 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Selenskyj-Besuch und Sicherheitskonferenz in Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-sicherheitskonferenz-staatsgaeste-absperrungen-verkehr.html",
+      "date": "Tue, 03 Nov 2026 21:39:15 +0100"
+    },
+    {
       "title": "Maskierter überfällt in Berlin vier Geschäfte innerhalb einer halben Stunde",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-charlottenburg-vier-geschaefte-ueberfallen.html",
       "date": "Tue, 03 Nov 2026 19:17:36 +0100"
@@ -141,11 +146,6 @@
       "title": "Rückbau des Berliner Lindentunnels beginnt am Mittwoch",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-tunnel-unter-den-linden-rueckbau-.html",
       "date": "Tue, 03 Nov 2026 17:47:30 +0100"
-    },
-    {
-      "title": "Selenskyj-Besuch und Sicherheitskonferenz in Berlin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-sicherheitskonferenz-staatsgaeste-absperrungen-verkehr.html",
-      "date": "Tue, 03 Nov 2026 17:38:52 +0100"
     },
     {
       "title": "Steglitzer \"Bierpinsel\": Erst mal ein Netz gegen die Lebensgefahr",
