@@ -1,6 +1,11 @@
 {
   "traffic": [
     {
+      "title": "Tarifabschlüsse im Einzelhandel für Berlin und Brandenburg erzielt",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/11/einzelhandel-verdi-tarifabschluesse-berlin-brandenburg.html",
+      "date": "Mon, 02 Nov 2026 22:10:12 +0100"
+    },
+    {
       "title": "Bundesweit unterschreiben fast 1.200 SPD-Mitglieder gegen Koalition mit Linkspartei",
       "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-spd-unterschriften-gegen-koalition-mit-linke.html",
       "date": "Mon, 02 Nov 2026 21:55:25 +0100"
@@ -54,11 +59,6 @@
       "title": "Halloween-Süßigkeit in Sallgast offenbar mit Nadel präpariert",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/11/halloween-suessigkeiten-nadel-warnung-polizei.html",
       "date": "Mon, 02 Nov 2026 16:23:07 +0100"
-    },
-    {
-      "title": "Bahn baut zwischen Cottbus und Lübbenau: Ersatzverkehr mit Bussen und Zügen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/ersatz-verkehr-cottbus-luebbenau-zweites-gleis.html",
-      "date": "Mon, 02 Nov 2026 15:50:22 +0100"
     }
   ],
   "police": [
