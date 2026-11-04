@@ -1,67 +1,82 @@
 {
   "traffic": [
     {
+      "title": "Erzieherinnen vergessen dreijähriges Mädchen in Kita - Polizei ermittelt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/kita-polizei-hennigsdorf-oberhavel-fuersorgepflicht-bauarbeiter-anzeige.html",
+      "date": "Wed, 04 Nov 2026 13:39:09 +0100"
+    },
+    {
+      "title": "Berlin und Brandenburg üben für extreme Hitze und Dürre",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-grossuebung-duerre-hitzewelle-luekex-26.html",
+      "date": "Wed, 04 Nov 2026 13:24:24 +0100"
+    },
+    {
+      "title": "Berghain-DJ Efdemin und Klangkünstlerin Vowinckel werden Gastprofessoren",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/11/berlin-universitaet-der-kuenste-phillip-sollmann-berghain-efdemin-antje-vowinckel.html",
+      "date": "Wed, 04 Nov 2026 13:11:03 +0100"
+    },
+    {
+      "title": "Potsdam punktet beim Zufußgehen - Autoverkehr sorgt für Unzufriedenheit",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/adac-ranking-potsdam-verkehr-zufriedenheit-mobilitaet-infrastruktur.html",
+      "date": "Wed, 04 Nov 2026 11:51:58 +0100"
+    },
+    {
+      "title": "Lebenserwartung von Brandenburger Frauen sinkt leicht",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/lebenserwartung-brandenburg-berlin-maenner-frauen.html",
+      "date": "Wed, 04 Nov 2026 10:53:00 +0100"
+    },
+    {
+      "title": "Leichter Frost ist in der Nacht zu Donnerstag erwartet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/wetter-berlin-brandenburg-frost-nacht.html",
+      "date": "Wed, 04 Nov 2026 10:03:43 +0100"
+    },
+    {
+      "title": "Landkreis Barnim: 84-Jähriger stirbt nach Unfall in Basdorf",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/brandenburg-barnim-basdorf-senior-unfall-toedlich.html",
+      "date": "Wed, 04 Nov 2026 09:49:49 +0100"
+    },
+    {
+      "title": "Straßensperrungen und Bahn-Ausfälle am Mittwoch wegen Sicherheitskonferenz",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-sicherheitskonferenz-staatsgaeste-absperrungen-verkehr.html",
+      "date": "Wed, 04 Nov 2026 08:30:23 +0100"
+    },
+    {
+      "title": "A100 und A113: Unfall auf Stadtring – Sperrungen und Stau Richtung Wedding",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-unfall-a100-a113-stau-unfall.html",
+      "date": "Wed, 04 Nov 2026 08:20:51 +0100"
+    },
+    {
+      "title": "GKV-Reform: HIV-Schwerpunktpraxen bangen um Finanzierung der Prep-Beratung",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/11/gkv-reform-gesetzliche-krankenkassen-hiv-prep-beratung-berlin.html",
+      "date": "Wed, 04 Nov 2026 06:09:38 +0100"
+    },
+    {
+      "title": "Debatte um Waffenrecht: Jäger und Sportschützen fürchten Einschränkungen",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/11/waffenrecht-reform-jaeger-sportschuetzen-waffenbesitz-brandenbur.html",
+      "date": "Wed, 04 Nov 2026 06:06:55 +0100"
+    },
+    {
       "title": "Podcaster Ryl: \"Über den Ost-Fußball kann man viel über Geschichte lernen\"",
       "link": "https://www.rbb24.de/sport/beitrag/2026/11/fussball-interview-gregor-ryl-osten-ddr-geschichte-fans-stadien-lok-leipzig-maradona-energie-cottbus-hertha-bsc.html",
       "date": "Tue, 03 Nov 2026 21:55:13 +0100"
-    },
-    {
-      "title": "Selenskyj-Besuch und Sicherheitskonferenz in Berlin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-sicherheitskonferenz-staatsgaeste-absperrungen-verkehr.html",
-      "date": "Tue, 03 Nov 2026 21:39:15 +0100"
-    },
-    {
-      "title": "Berliner Linke vertagt erneut Entscheidung über Abgeordnete Emde",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-linke-abgeordnete-emde-beratung-keine-entscheidung.html",
-      "date": "Tue, 03 Nov 2026 21:13:51 +0100"
-    },
-    {
-      "title": "Grüne und SPD in Berlin lehnen Sondierungsanfrage der CDU ab",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-treffen-cdu-gruene-spd-koalition-sondierungsgespraeche.html",
-      "date": "Tue, 03 Nov 2026 20:59:33 +0100"
-    },
-    {
-      "title": "Maskierter überfällt in Berlin vier Geschäfte innerhalb einer halben Stunde",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-charlottenburg-vier-geschaefte-ueberfallen.html",
-      "date": "Tue, 03 Nov 2026 19:17:36 +0100"
-    },
-    {
-      "title": "Ein Jahr \"Baumgesetz\": Wo Berlin bei der Klimaanpassung steht",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/11/berlin-klimaanpassung-gesetz-strassenbaeume-pflanzen-initative-kritik-zeitplan.html",
-      "date": "Tue, 03 Nov 2026 18:12:08 +0100"
-    },
-    {
-      "title": "Auch in Falkensee und Rauen Metallteile in Halloween-Süßigkeiten entdeckt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/polizei-halloween-nadel-schokolade-riegel-ermittlungen.html",
-      "date": "Tue, 03 Nov 2026 18:08:50 +0100"
-    },
-    {
-      "title": "Nach Juli-Zeh-Rücktritt: Richterwahl laut CDU erst nächstes Jahr",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/11/brandenburg-juli-zeh-verfassungsrichterin-nachfolge-naechstes-jahr.html",
-      "date": "Tue, 03 Nov 2026 18:02:37 +0100"
-    },
-    {
-      "title": "Rückbau des Berliner Lindentunnels beginnt am Mittwoch",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-tunnel-unter-den-linden-rueckbau-.html",
-      "date": "Tue, 03 Nov 2026 17:47:30 +0100"
-    },
-    {
-      "title": "Rodungen für Erweiterung des Red-Bull-Werks in Baruth/Mark haben begonnen",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/11/red-bull-werk-baruth-mark-erweiterung-rodung-wald-gestartet.html",
-      "date": "Tue, 03 Nov 2026 17:32:20 +0100"
-    },
-    {
-      "title": "Steglitzer \"Bierpinsel\": Erst mal ein Netz gegen die Lebensgefahr",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/bierpinsel-berlin-steglitz-verkehr-einschraenkungen-sanierung.html",
-      "date": "Tue, 03 Nov 2026 17:21:00 +0100"
-    },
-    {
-      "title": "Vier Kraftwerke in Jänschwalde werden auf Gas umgerüstet",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/11/brandenburg-lausitz-leag-kraftwerke-zuschlag-bundesnetzagentur.html",
-      "date": "Tue, 03 Nov 2026 16:28:39 +0100"
     }
   ],
   "police": [
+    {
+      "title": "Schuss auf Reifen eines flüchtenden Fahrzeugs",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1734755.php",
+      "date": "Wed, 04 Nov 2026 11:55:50 +0100"
+    },
+    {
+      "title": "Tierskulpturen im Großen Tiergarten beschmiert",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1734749.php",
+      "date": "Wed, 04 Nov 2026 11:50:54 +0100"
+    },
+    {
+      "title": "Fanschal geraubt – Polizei bittet um Mithilfe",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1734641.php",
+      "date": "Wed, 04 Nov 2026 09:40:06 +0100"
+    },
     {
       "title": "13-Jährige vermisst – Polizei bittet um Mithilfe",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1734546.php",
@@ -106,21 +121,6 @@
       "title": "Polizeieinsatz nach Entfernung eines Patienten aus Rettungsstelle",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1733703.php",
       "date": "Mon, 02 Nov 2026 12:14:36 +0100"
-    },
-    {
-      "title": "Unbekannte werfen Steine auf Straßenbahnen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1733615.php",
-      "date": "Mon, 02 Nov 2026 10:27:00 +0100"
-    },
-    {
-      "title": "Bilanzmeldung zum stadtweiten Einsatzgeschehen \"Halloween\"",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1733484.php",
-      "date": "Sun, 01 Nov 2026 13:37:55 +0100"
-    },
-    {
-      "title": "Böller und Brandsatz in Kneipe geworfen",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1733482.php",
-      "date": "Sun, 01 Nov 2026 13:12:47 +0100"
     }
   ],
   "free_events": [],
@@ -128,9 +128,49 @@
   "job_fairs": [],
   "ethics": [
     {
-      "title": "Selenskyj-Besuch und Sicherheitskonferenz in Berlin",
+      "title": "Erzieherinnen vergessen dreijähriges Mädchen in Kita - Polizei ermittelt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/kita-polizei-hennigsdorf-oberhavel-fuersorgepflicht-bauarbeiter-anzeige.html",
+      "date": "Wed, 04 Nov 2026 13:39:09 +0100"
+    },
+    {
+      "title": "Berlin und Brandenburg üben für extreme Hitze und Dürre",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-grossuebung-duerre-hitzewelle-luekex-26.html",
+      "date": "Wed, 04 Nov 2026 13:24:24 +0100"
+    },
+    {
+      "title": "Potsdam punktet beim Zufußgehen - Autoverkehr sorgt für Unzufriedenheit",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/adac-ranking-potsdam-verkehr-zufriedenheit-mobilitaet-infrastruktur.html",
+      "date": "Wed, 04 Nov 2026 11:51:58 +0100"
+    },
+    {
+      "title": "Kinderbuchautor Janosch gestorben",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/janosch-autor-gestorben.html",
+      "date": "Wed, 04 Nov 2026 11:12:47 +0100"
+    },
+    {
+      "title": "Lebenserwartung von Brandenburger Frauen sinkt leicht",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/lebenserwartung-brandenburg-berlin-maenner-frauen.html",
+      "date": "Wed, 04 Nov 2026 10:53:00 +0100"
+    },
+    {
+      "title": "Leichter Frost ist in der Nacht zu Donnerstag erwartet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/wetter-berlin-brandenburg-frost-nacht.html",
+      "date": "Wed, 04 Nov 2026 10:03:43 +0100"
+    },
+    {
+      "title": "Landkreis Barnim: 84-Jähriger stirbt nach Unfall in Basdorf",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/brandenburg-barnim-basdorf-senior-unfall-toedlich.html",
+      "date": "Wed, 04 Nov 2026 09:49:49 +0100"
+    },
+    {
+      "title": "Straßensperrungen und Bahn-Ausfälle am Mittwoch wegen Sicherheitskonferenz",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-sicherheitskonferenz-staatsgaeste-absperrungen-verkehr.html",
-      "date": "Tue, 03 Nov 2026 21:39:15 +0100"
+      "date": "Wed, 04 Nov 2026 08:30:23 +0100"
+    },
+    {
+      "title": "A100 und A113: Unfall auf Stadtring – Sperrungen und Stau Richtung Wedding",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-unfall-a100-a113-stau-unfall.html",
+      "date": "Wed, 04 Nov 2026 08:20:51 +0100"
     },
     {
       "title": "Maskierter überfällt in Berlin vier Geschäfte innerhalb einer halben Stunde",
@@ -146,46 +186,6 @@
       "title": "Rückbau des Berliner Lindentunnels beginnt am Mittwoch",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-tunnel-unter-den-linden-rueckbau-.html",
       "date": "Tue, 03 Nov 2026 17:47:30 +0100"
-    },
-    {
-      "title": "Steglitzer \"Bierpinsel\": Erst mal ein Netz gegen die Lebensgefahr",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/bierpinsel-berlin-steglitz-verkehr-einschraenkungen-sanierung.html",
-      "date": "Tue, 03 Nov 2026 17:21:00 +0100"
-    },
-    {
-      "title": "Bahn baut zwischen Cottbus und Lübbenau: Ersatzverkehr mit Bussen und Zügen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/ersatz-verkehr-cottbus-luebbenau-zweites-gleis.html",
-      "date": "Tue, 03 Nov 2026 16:26:20 +0100"
-    },
-    {
-      "title": "Landgericht Cottbus verurteilt Mann nach Vergewaltigung im Tropical Islands",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/brandenburg-landgericht-cottbus-vergewaltiger-haftstrafe-frau-freizeitpark.html",
-      "date": "Tue, 03 Nov 2026 14:52:04 +0100"
-    },
-    {
-      "title": "Amtsgericht Cottbus: Bewährungsstrafe für schlagenden Lehrer",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/brandenburg-amtsgericht-cottbus-anklage-musiklehrer-uebergriffe-schueler.html",
-      "date": "Tue, 03 Nov 2026 14:45:23 +0100"
-    },
-    {
-      "title": "Zaun des Stahnsdorfer Südwestkirchhofs wird weiter von Unbekannten aufgeschnitten",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/vandalismus-friedhof-stahnsdorf-suedwestkirchhof-wildschweine-bejagung.html",
-      "date": "Tue, 03 Nov 2026 14:13:08 +0100"
-    },
-    {
-      "title": "Polizeistatistik: Höchststand bei Todesopfern häuslicher Gewalt in Berlin",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/haeusliche-gewalt-frauen-berlin-brandenburg-polizei.html",
-      "date": "Tue, 03 Nov 2026 11:03:39 +0100"
-    },
-    {
-      "title": "Kellerbrand in Hochhaus in Berlin-Marienfelde – 60 Kräfte im Einsatz",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-marienfelde-kellerbrand-feuerwehr-rauch.html",
-      "date": "Tue, 03 Nov 2026 07:51:59 +0100"
-    },
-    {
-      "title": "Auto stößt beim Überholen frontal mit Radfahrer zusammen - 35-Jähriger stirbt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/brandenburg-oberhavel-oranienburg-fahrradfahrer-b273-unfall.html",
-      "date": "Mon, 02 Nov 2026 20:23:53 +0100"
     }
   ]
 }
