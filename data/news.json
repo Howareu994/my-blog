@@ -1,9 +1,44 @@
 {
   "traffic": [
     {
-      "title": "Bayerischer Vize-Ministerpräsident Aiwanger in Berlin tot aufgefunden",
+      "title": "Erzieherinnen vergessen dreijähriges Mädchen in Kita - Polizei ermittelt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/kita-polizei-hennigsdorf-oberhavel-fuersorgepflicht-bauarbeiter-anzeige.html",
+      "date": "Thu, 05 Nov 2026 09:43:53 +0100"
+    },
+    {
+      "title": "Bayerns Wirtschaftsminister Hubert Aiwanger in Berlin tot aufgefunden",
       "link": "https://www.rbb24.de/politik/beitrag/2026/11/hubert-aiwanger-freie-waehler-bayern-berlin-hotel-tot.html",
-      "date": "Thu, 05 Nov 2026 00:26:51 +0100"
+      "date": "Thu, 05 Nov 2026 09:29:43 +0100"
+    },
+    {
+      "title": "Tödlicher Unfall bei Müllrose: Radfahrer von Linienbus erfasst",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/unfall-muellrose-radfahrer-linienbus-tot.html",
+      "date": "Thu, 05 Nov 2026 09:22:21 +0100"
+    },
+    {
+      "title": "Eisbaden in Berlin: Was man beim Schwimmen im Winter beachten muss",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/11/sport-eisbaden-berlin-seehunde-tipps-gesundheit-badestellen.html",
+      "date": "Thu, 05 Nov 2026 08:40:40 +0100"
+    },
+    {
+      "title": "Hintergründe unklar: Mann in Berlin-Wedding angeschossen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-wedding-schuesse-polizei.html",
+      "date": "Thu, 05 Nov 2026 08:11:24 +0100"
+    },
+    {
+      "title": "Zahl der Pflegegrad-Anträge deutlich gestiegen",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/11/antraege-pflegegrad-hoeherstufung-steigerung-zunahme-berlin-brandenburg.html",
+      "date": "Thu, 05 Nov 2026 08:09:10 +0100"
+    },
+    {
+      "title": "Auschwitz-Film \"Block 10\": Axel Prahl und Christian Berkel im Interview",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/11/block-10-film-interview-prahl-berkel-kz-auschwitz-juden.html",
+      "date": "Thu, 05 Nov 2026 07:36:37 +0100"
+    },
+    {
+      "title": "In diesem Berliner Hotel sind alle Gäste willkommen - außer Berliner",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/11/hotel-berlin-wohnadresse-keine-uebernachtung-policy.html",
+      "date": "Thu, 05 Nov 2026 07:25:00 +0100"
     },
     {
       "title": "Eurocup: Alba-Frauen verlieren erneut gegen Panathinaikos",
@@ -24,41 +59,6 @@
       "title": "BR Volleys dominieren Spitzenspiel gegen Friedrichshafen",
       "link": "https://www.rbb24.de/sport/beitrag/2026/11/volleyball-bundesliga-vbl-br-volleys-vfb-friedrichshafen-spielbericht.html",
       "date": "Wed, 04 Nov 2026 21:05:18 +0100"
-    },
-    {
-      "title": "Youth Olympic Games: Beachvolleyballer um Berliner Wüst holen Silber",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/11/youth-olympic-games-senegal-dakar-beachvolleyball-finale-filo-wuest-lasse-hueper.html",
-      "date": "Wed, 04 Nov 2026 20:32:37 +0100"
-    },
-    {
-      "title": "Lindentunnel in Berlin-Mitte wird rückgebaut",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-tunnel-unter-den-linden-rueckbau-.html",
-      "date": "Wed, 04 Nov 2026 19:46:01 +0100"
-    },
-    {
-      "title": "Energie Cottbus vor Braunschweig: Wollitz zieht die Zügel an",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/11/fussball-zweite-bundesliga-eintracht-braunschweig-fc-energie-cottbus-vorbericht.html",
-      "date": "Wed, 04 Nov 2026 18:36:00 +0100"
-    },
-    {
-      "title": "Tesla eröffnet Forschungszentrum in Berlin-Köpenick",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/11/tesla-eroeffnet-entwicklungszentrum-berlin-koepenick-eauto.html",
-      "date": "Wed, 04 Nov 2026 18:05:35 +0100"
-    },
-    {
-      "title": "Bewährungsstrafe fürs Anzünden des Autos vom Bruder: 90.000-Euro-Schaden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/auto-luft-gesprengt-bewaehrungsstrafe-23-jaehriger-schoeneberg-amtsgericht-tiergarten.html",
-      "date": "Wed, 04 Nov 2026 18:00:36 +0100"
-    },
-    {
-      "title": "Tour de France 2029 in Berlin: Kosten, Probleme und Chancen",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/11/tour-de-france-start-berlin-kosten-wertschoepfung-image-schwierigkeiten.html",
-      "date": "Wed, 04 Nov 2026 17:55:27 +0100"
-    },
-    {
-      "title": "Democrats Abroad zu US-Wahlen: \"Haben jetzt ein Gegengewicht zu Trump\"",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/11/interview-usa-midterms-wahlen-demokraten-republikaner-trump.html",
-      "date": "Wed, 04 Nov 2026 17:14:05 +0100"
     }
   ],
   "police": [
@@ -66,6 +66,11 @@
       "title": "Politiker tot im Hotelzimmer aufgefunden – Todesermittlungsverfahren eingeleitet",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1735014.php",
       "date": "Wed, 04 Nov 2026 22:30:00 +0100"
+    },
+    {
+      "title": "Randalierende Frau verletzt Security-Mitarbeiter und zwei Polizeikräfte",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1735139.php",
+      "date": "Wed, 04 Nov 2026 16:35:00 +0100"
     },
     {
       "title": "Schaufenster eingeschlagen und Schmuck entwendet",
@@ -116,17 +121,27 @@
       "title": "Farbschmierereien mit politischem Hintergrund",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1734263.php",
       "date": "Tue, 03 Nov 2026 11:33:11 +0100"
-    },
-    {
-      "title": "Feuer in einem Café – Personen durch Rauchgase verletzt",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1734020.php",
-      "date": "Mon, 02 Nov 2026 17:16:41 +0100"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Erzieherinnen vergessen dreijähriges Mädchen in Kita - Polizei ermittelt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/kita-polizei-hennigsdorf-oberhavel-fuersorgepflicht-bauarbeiter-anzeige.html",
+      "date": "Thu, 05 Nov 2026 09:43:53 +0100"
+    },
+    {
+      "title": "Tödlicher Unfall bei Müllrose: Radfahrer von Linienbus erfasst",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/unfall-muellrose-radfahrer-linienbus-tot.html",
+      "date": "Thu, 05 Nov 2026 09:22:21 +0100"
+    },
+    {
+      "title": "Hintergründe unklar: Mann in Berlin-Wedding angeschossen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-wedding-schuesse-polizei.html",
+      "date": "Thu, 05 Nov 2026 08:11:24 +0100"
+    },
     {
       "title": "Landkreis Barnim: 84-Jähriger stirbt nach Unfall in Basdorf",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/11/brandenburg-barnim-basdorf-senior-unfall-toedlich.html",
@@ -171,21 +186,6 @@
       "title": "Erste Studierende in Cottbus lernen von Anfang an am Krankenbett",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/11/medizin-studierende-starten-mit-praxis-cottbus.html",
       "date": "Wed, 04 Nov 2026 16:16:46 +0100"
-    },
-    {
-      "title": "Prozess gegen Kinderarzt wohl weitgehend unter Ausschluss der Öffentlichkeit",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/kinderarzt-havelland-prozess-landgericht-sexuell-missbrauch.html",
-      "date": "Wed, 04 Nov 2026 15:56:25 +0100"
-    },
-    {
-      "title": "Autokorso in Eberswalde gegen geplante Pflegereform",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/autokorso-demonstration-pflegereform-bundesregierung-drk-awo-krankenpflege-eberswalde-barnim-brandenburg.html",
-      "date": "Wed, 04 Nov 2026 15:51:58 +0100"
-    },
-    {
-      "title": "Esche ist \"Baum des Jahres 2027\"",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-brandenburg-baum-des-jahres-2027-esche.html",
-      "date": "Wed, 04 Nov 2026 15:30:56 +0100"
     }
   ]
 }
