@@ -1,6 +1,56 @@
 {
   "traffic": [
     {
+      "title": "Landgericht verurteilt Mann zu lebenslanger Haft nach Misshandlung von Schwiegervater",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/schwiegervater-getoetet-michendorf-potsdam-mittelmark-lebenslange-haft.html",
+      "date": "Thu, 05 Nov 2026 22:55:00 +0100"
+    },
+    {
+      "title": "André Rankel gewinnt erstes Länderspiel als Eishockey-Bundestrainer",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/11/eishockey-deutschland-cup-nationalmannschaft-deutschland-oesterreich.html",
+      "date": "Thu, 05 Nov 2026 22:42:18 +0100"
+    },
+    {
+      "title": "EM-Qualifikation in Berlin: Handball-Nationalmannschaft schlägt Belgien",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/11/handball-nationalmannschaft-em-qualifikation-deutschland-belgien.html",
+      "date": "Thu, 05 Nov 2026 22:16:47 +0100"
+    },
+    {
+      "title": "Reese-Rückkehr mit Wolfsburg: Spitzenspiel für Hertha BSC",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/11/fussball-zweite-liga-vorschau-hertha-wolfsburg.html",
+      "date": "Thu, 05 Nov 2026 20:23:29 +0100"
+    },
+    {
+      "title": "Bierpinsel in Berlin-Steglitz wohl noch wochenlang gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/bierpinsel-berlin-steglitz-sperrung-lose-fassadenteile.html",
+      "date": "Thu, 05 Nov 2026 20:05:53 +0100"
+    },
+    {
+      "title": "Abschussprämie oder Verhütung? Neue Lösungsansätze im Kampf gegen Waschbären",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/waschbaer-population-invasive-art-plage-schwanzpraemie-jagen-potsdam-mittelmark.html",
+      "date": "Thu, 05 Nov 2026 19:53:33 +0100"
+    },
+    {
+      "title": "Ermittler finden bei Duchsuchungen in Berlin und Brandenburg kiloweise Drogen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-brandenburg-drogenbande-durchsuchungen-festnahmen.html",
+      "date": "Thu, 05 Nov 2026 19:25:00 +0100"
+    },
+    {
+      "title": "Grenzüberschreitende Buslinie Frankfurt-Slubice eingestellt",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/11/grenzueberschreitend-buslinie-ffo-eingestellt-983-slubice.html",
+      "date": "Thu, 05 Nov 2026 18:22:07 +0100"
+    },
+    {
+      "title": "Berlin kommt bei digitaler Parkraumbewirtschaftung nicht voran",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-senat-verzoegerungen-digitale-parkraumbewirtschaftung.html",
+      "date": "Thu, 05 Nov 2026 18:14:33 +0100"
+    },
+    {
+      "title": "Berliner Unternehmen offenbar verwickelt in Steuerbetrug mit Luxusautos",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/steuerbetrug-berlin-durchsuchungen-beschlagnahmungen-.html",
+      "date": "Thu, 05 Nov 2026 18:06:46 +0100"
+    },
+    {
       "title": "22-Jähriger in Berlin-Wedding durch mehrere Schüsse verletzt - Hintergründe unklar",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-wedding-schuesse-polizei.html",
       "date": "Thu, 05 Nov 2026 16:50:22 +0100"
@@ -9,56 +59,6 @@
       "title": "Nach Tod in Berliner Hotel: Aiwanger-Obduktion ohne Hinweis auf Verbrechen",
       "link": "https://www.rbb24.de/politik/beitrag/2026/11/hubert-aiwanger-freie-waehler-bayern-berlin-hotel-tot.html",
       "date": "Thu, 05 Nov 2026 16:43:54 +0100"
-    },
-    {
-      "title": "69-Jähriger geht gegen Verurteilung wegen Serie von Vergewaltigungen vor",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-serie-vergewaltigungen-69-jaehriger-legt-revision-ein.html",
-      "date": "Thu, 05 Nov 2026 16:35:56 +0100"
-    },
-    {
-      "title": "Cottbuser muss wegen Schutzgeld-Erpressung vier einhalb Jahre ins Gefängnis",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/urteil-schutzgeld-prozess-cottbus-dritter-angeklagter.html",
-      "date": "Thu, 05 Nov 2026 16:34:12 +0100"
-    },
-    {
-      "title": "Meerrettich-Ernte im Spreewald hat begonnen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/meerettich-ernte-spreewald-geschuetztes-produkt.html",
-      "date": "Thu, 05 Nov 2026 15:40:06 +0100"
-    },
-    {
-      "title": "Abschussprämie oder Verhütung? Neue Lösungsansätze im Kampf gegen Waschbären",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/waschbaer-population-invasive-art-plage-schwanzpraemie-jagen-potsdam-mittelmark.html",
-      "date": "Thu, 05 Nov 2026 15:38:03 +0100"
-    },
-    {
-      "title": "Tarifabschluss: Charité-Ärzte bekommen mehr Geld",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/11/tarifabschluss-charite-aerzte-geld.html",
-      "date": "Thu, 05 Nov 2026 15:32:58 +0100"
-    },
-    {
-      "title": "Metallteile in Halloween-Süßigkeiten in mehreren Brandenburger Orten entdeckt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/polizei-halloween-nadel-schokolade-riegel-ermittlungen.html",
-      "date": "Thu, 05 Nov 2026 14:06:37 +0100"
-    },
-    {
-      "title": "Bundespräsidentin: Woidke und Evers sprechen sich für Aigner aus",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/11/aigner-bundespraesidentin-berlin-brandenburg-woidke-evers.html",
-      "date": "Thu, 05 Nov 2026 14:02:57 +0100"
-    },
-    {
-      "title": "Weihnachtsbaum für Gendarmenmarkt auf Rastplatz gestrandet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-weihnachtsbaum-probleme-transport-gendarmenmarkt.html",
-      "date": "Thu, 05 Nov 2026 13:52:03 +0100"
-    },
-    {
-      "title": "Baumfällungen in Berlin: Klimabeirat fordert Stopp - Bonde lehnt ab",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/11/berlin-baumfaellungen-senat-bonde-klima.html",
-      "date": "Thu, 05 Nov 2026 13:44:09 +0100"
-    },
-    {
-      "title": "Fußball: Scherhant und Mittelstädt erneut im DFB-Aufgebot",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/11/fussball-nationalmannschaft-nominierung-nations-league-derry-scherhant-maximilian-mittelstaedt.html",
-      "date": "Thu, 05 Nov 2026 12:55:49 +0100"
     }
   ],
   "police": [
@@ -128,6 +128,36 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Landgericht verurteilt Mann zu lebenslanger Haft nach Misshandlung von Schwiegervater",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/schwiegervater-getoetet-michendorf-potsdam-mittelmark-lebenslange-haft.html",
+      "date": "Thu, 05 Nov 2026 22:55:00 +0100"
+    },
+    {
+      "title": "Bierpinsel in Berlin-Steglitz wohl noch wochenlang gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/bierpinsel-berlin-steglitz-sperrung-lose-fassadenteile.html",
+      "date": "Thu, 05 Nov 2026 20:05:53 +0100"
+    },
+    {
+      "title": "Abschussprämie oder Verhütung? Neue Lösungsansätze im Kampf gegen Waschbären",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/waschbaer-population-invasive-art-plage-schwanzpraemie-jagen-potsdam-mittelmark.html",
+      "date": "Thu, 05 Nov 2026 19:53:33 +0100"
+    },
+    {
+      "title": "Ermittler finden bei Duchsuchungen in Berlin und Brandenburg kiloweise Drogen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-brandenburg-drogenbande-durchsuchungen-festnahmen.html",
+      "date": "Thu, 05 Nov 2026 19:25:00 +0100"
+    },
+    {
+      "title": "Berlin kommt bei digitaler Parkraumbewirtschaftung nicht voran",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-senat-verzoegerungen-digitale-parkraumbewirtschaftung.html",
+      "date": "Thu, 05 Nov 2026 18:14:33 +0100"
+    },
+    {
+      "title": "Berliner Unternehmen offenbar verwickelt in Steuerbetrug mit Luxusautos",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/steuerbetrug-berlin-durchsuchungen-beschlagnahmungen-.html",
+      "date": "Thu, 05 Nov 2026 18:06:46 +0100"
+    },
+    {
       "title": "Berlin und Brandenburg spielen Fall extremer Dürre durch",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-grossuebung-duerre-hitzewelle-luekex-26.html",
       "date": "Thu, 05 Nov 2026 17:23:02 +0100"
@@ -153,39 +183,9 @@
       "date": "Thu, 05 Nov 2026 15:40:06 +0100"
     },
     {
-      "title": "Abschussprämie oder Verhütung? Neue Lösungsansätze im Kampf gegen Waschbären",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/waschbaer-population-invasive-art-plage-schwanzpraemie-jagen-potsdam-mittelmark.html",
-      "date": "Thu, 05 Nov 2026 15:38:03 +0100"
-    },
-    {
       "title": "Metallteile in Halloween-Süßigkeiten in mehreren Brandenburger Orten entdeckt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/11/polizei-halloween-nadel-schokolade-riegel-ermittlungen.html",
       "date": "Thu, 05 Nov 2026 14:06:37 +0100"
-    },
-    {
-      "title": "Weihnachtsbaum für Gendarmenmarkt auf Rastplatz gestrandet",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-weihnachtsbaum-probleme-transport-gendarmenmarkt.html",
-      "date": "Thu, 05 Nov 2026 13:52:03 +0100"
-    },
-    {
-      "title": "Leistungszentrum Lausitz feiert Richtfest",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/richtfest-leistungszentrum-lausitz-schwarzheide.html",
-      "date": "Thu, 05 Nov 2026 12:29:08 +0100"
-    },
-    {
-      "title": "Prenzlau: Mann zückt Waffe im Linienbus - Polizei rückt aus",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/mann-waffe-bus-prenzlau-handy-foto-uckermark-polizei.html",
-      "date": "Thu, 05 Nov 2026 10:45:48 +0100"
-    },
-    {
-      "title": "Erzieherinnen vergessen dreijähriges Mädchen in Kita - Polizei ermittelt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/kita-polizei-hennigsdorf-oberhavel-fuersorgepflicht-bauarbeiter-anzeige.html",
-      "date": "Thu, 05 Nov 2026 09:43:53 +0100"
-    },
-    {
-      "title": "Tödlicher Unfall bei Müllrose: Radfahrer von Linienbus erfasst",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/unfall-muellrose-radfahrer-linienbus-tot.html",
-      "date": "Thu, 05 Nov 2026 09:22:21 +0100"
     }
   ]
 }
