@@ -1,6 +1,26 @@
 {
   "traffic": [
     {
+      "title": "Bayerischer Vize-Ministerpräsident Aiwanger in Berlin tot aufgefunden",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/11/hubert-aiwanger-freie-waehler-bayern-berlin-hotel-tot.html",
+      "date": "Thu, 05 Nov 2026 00:26:51 +0100"
+    },
+    {
+      "title": "Eurocup: Alba-Frauen verlieren erneut gegen Panathinaikos",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/11/basketball-eurocup-alba-berlin-frauen-panathinaikos-athen-spielbericht.html",
+      "date": "Wed, 04 Nov 2026 21:45:00 +0100"
+    },
+    {
+      "title": "Landkreis Barnim: 84-Jähriger stirbt nach Unfall in Basdorf",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/brandenburg-barnim-basdorf-senior-unfall-toedlich.html",
+      "date": "Wed, 04 Nov 2026 21:21:02 +0100"
+    },
+    {
+      "title": "Tierpark: Elefantenbulle Kibo aus Erfurt ist neu in Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-tierpark-neuer-afrikanischer-elefantenbulle-kibo.html",
+      "date": "Wed, 04 Nov 2026 21:15:58 +0100"
+    },
+    {
       "title": "BR Volleys dominieren Spitzenspiel gegen Friedrichshafen",
       "link": "https://www.rbb24.de/sport/beitrag/2026/11/volleyball-bundesliga-vbl-br-volleys-vfb-friedrichshafen-spielbericht.html",
       "date": "Wed, 04 Nov 2026 21:05:18 +0100"
@@ -18,7 +38,7 @@
     {
       "title": "Energie Cottbus vor Braunschweig: Wollitz zieht die Zügel an",
       "link": "https://www.rbb24.de/sport/beitrag/2026/11/fussball-zweite-bundesliga-eintracht-braunschweig-fc-energie-cottbus-vorbericht.html",
-      "date": "Wed, 04 Nov 2026 18:36:18 +0100"
+      "date": "Wed, 04 Nov 2026 18:36:00 +0100"
     },
     {
       "title": "Tesla eröffnet Forschungszentrum in Berlin-Köpenick",
@@ -39,29 +59,14 @@
       "title": "Democrats Abroad zu US-Wahlen: \"Haben jetzt ein Gegengewicht zu Trump\"",
       "link": "https://www.rbb24.de/politik/beitrag/2026/11/interview-usa-midterms-wahlen-demokraten-republikaner-trump.html",
       "date": "Wed, 04 Nov 2026 17:14:05 +0100"
-    },
-    {
-      "title": "Berlin und Brandenburg spielen Fall extremer Dürre durch",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-grossuebung-duerre-hitzewelle-luekex-26.html",
-      "date": "Wed, 04 Nov 2026 16:55:27 +0100"
-    },
-    {
-      "title": "Totes Baby in Obdachlosenunterkunft in Calau gefunden",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/totes-kind-in-obdachlosenunterkunft-calau.html",
-      "date": "Wed, 04 Nov 2026 16:41:30 +0100"
-    },
-    {
-      "title": "Linke, Grüne und SPD wollen Koalitionsvertrag im Januar vorlegen",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/11/berlin-rot-gruen-rote-koalitionsverhandlungen-bis-januar.html",
-      "date": "Wed, 04 Nov 2026 16:37:58 +0100"
-    },
-    {
-      "title": "\"Net Zero Valley\": Lausitzer Wirtschaft fordert konkretere Planungen",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/11/lausitz-forum-strukturwandel-schwarzheide-unternehmen.html",
-      "date": "Wed, 04 Nov 2026 16:32:25 +0100"
     }
   ],
   "police": [
+    {
+      "title": "Politiker tot im Hotelzimmer aufgefunden – Todesermittlungsverfahren eingeleitet",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1735014.php",
+      "date": "Wed, 04 Nov 2026 22:30:00 +0100"
+    },
     {
       "title": "Schaufenster eingeschlagen und Schmuck entwendet",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1734952.php",
@@ -116,17 +121,22 @@
       "title": "Feuer in einem Café – Personen durch Rauchgase verletzt",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1734020.php",
       "date": "Mon, 02 Nov 2026 17:16:41 +0100"
-    },
-    {
-      "title": "Raub auf Tankstelle",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1733749.php",
-      "date": "Mon, 02 Nov 2026 13:09:32 +0100"
     }
   ],
   "free_events": [],
   "music_nightlife": [],
   "job_fairs": [],
   "ethics": [
+    {
+      "title": "Landkreis Barnim: 84-Jähriger stirbt nach Unfall in Basdorf",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/brandenburg-barnim-basdorf-senior-unfall-toedlich.html",
+      "date": "Wed, 04 Nov 2026 21:21:02 +0100"
+    },
+    {
+      "title": "Tierpark: Elefantenbulle Kibo aus Erfurt ist neu in Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-tierpark-neuer-afrikanischer-elefantenbulle-kibo.html",
+      "date": "Wed, 04 Nov 2026 21:15:58 +0100"
+    },
     {
       "title": "Auch in Falkensee und Rauen Metallteile in Halloween-Süßigkeiten entdeckt",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/11/polizei-halloween-nadel-schokolade-riegel-ermittlungen.html",
@@ -176,16 +186,6 @@
       "title": "Esche ist \"Baum des Jahres 2027\"",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-brandenburg-baum-des-jahres-2027-esche.html",
       "date": "Wed, 04 Nov 2026 15:30:56 +0100"
-    },
-    {
-      "title": "Kinderbuchautor Janosch gestorben",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/janosch-autor-gestorben.html",
-      "date": "Wed, 04 Nov 2026 15:00:38 +0100"
-    },
-    {
-      "title": "Antisemitische Schmierereien auf Skulpturen im Berliner Tiergarten",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/antisemitische-schmierereien-skulpturen-berlin-tiergarten.html",
-      "date": "Wed, 04 Nov 2026 14:59:40 +0100"
     }
   ]
 }
