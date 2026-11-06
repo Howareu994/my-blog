@@ -1,67 +1,87 @@
 {
   "traffic": [
     {
+      "title": "2. Liga live: Energie Cottbus startet in Braunschweig ohne Cigerci",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/11/fussball-zweite-bundesliga-eintracht-braunschweig-energie-cottbus-audiostream-liveticker-spielbericht.html",
+      "date": "Fri, 06 Nov 2026 18:28:42 +0100"
+    },
+    {
+      "title": "Hoffen auf Ilic und die Länderspielpause",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/11/fussball-bundesliga-union-berlin-sc-freiburg-ilic.html",
+      "date": "Fri, 06 Nov 2026 18:25:59 +0100"
+    },
+    {
+      "title": "Was Potsdams Oberbürgermeisterin in ihrem ersten Jahr bewegen konnte",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/11/potsdam-noosha-aubel-ein-jahr-amt-bilanz-wohnungsnot-jugendgewalt-verkehr.html",
+      "date": "Fri, 06 Nov 2026 18:03:00 +0100"
+    },
+    {
+      "title": "Feuerwehr rückt zu zweitem Brand in einer Woche zum Heizkraftwerk Moabit aus",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-foerderband-heizkraftwerl-moabit-brand-holzreste.html",
+      "date": "Fri, 06 Nov 2026 17:49:41 +0100"
+    },
+    {
+      "title": "Teltow-Fläming: Wildpark Johannismühle kann teilweise wieder öffnen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/wildpark-johannismuehle-teilweise-oeffnung.html",
+      "date": "Fri, 06 Nov 2026 17:38:09 +0100"
+    },
+    {
+      "title": "Haben Kinder in Brandenburg Halloween-Süßgkeiten mit Nadeln präpariert?",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/halloween-suessigkeiten-schokoriegel-kinder.html",
+      "date": "Fri, 06 Nov 2026 17:33:00 +0100"
+    },
+    {
+      "title": "Tierseuche: Geflügelpest in Brandenburg bei Wildgans nachgewiesen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/gefluegelpest-vogelgrippe-brandenburg-oder-spree-gans.html",
+      "date": "Fri, 06 Nov 2026 17:19:14 +0100"
+    },
+    {
+      "title": "Berlin: Aufforderung zu Mandatsverzicht von Emde nicht sicher",
+      "link": "https://www.rbb24.de/politik/wahl/abgeordnetenhaus/agh-2026/beitraege/berlin-linke-beschluss-mandat-abgeordnete-emde.html",
+      "date": "Fri, 06 Nov 2026 16:32:48 +0100"
+    },
+    {
+      "title": "Kleinflugzeug stürzt auf der A2 bei Magdeburg ab - zwei Tote",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/flugzeugabsturz-magdeburg-kleinflugzeug-tote.html",
+      "date": "Fri, 06 Nov 2026 16:32:00 +0100"
+    },
+    {
+      "title": "Große Suchaktion: 13-jähriges Mädchen aus Marzahn vermisst",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-marzahn-13-jahre-maedchen-vermisst-polizei-suche.html",
+      "date": "Fri, 06 Nov 2026 15:56:25 +0100"
+    },
+    {
+      "title": "Uckermark: Sowjetisches Ehrenmal in Angermünde beschädigt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/angermuende-sowjetisches-ehrenmal-sowjetstern-beschaedigt.html",
+      "date": "Fri, 06 Nov 2026 15:53:25 +0100"
+    },
+    {
       "title": "Weihnachtsbaum mit Verspätung am Gendarmenmarkt angekommen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-weihnachtsbaum-probleme-transport-gendarmenmarkt.html",
-      "date": "Fri, 06 Nov 2026 11:11:42 +0100"
-    },
-    {
-      "title": "Premiere am Berliner Ensemble: Hamlet im Berghain",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/11/hamlet-berliner-ensemble-kritik-ersan-mondtag.html",
-      "date": "Fri, 06 Nov 2026 11:01:48 +0100"
-    },
-    {
-      "title": "Rot-Grün-Rot in Berlin: Das A bis Z der Koalitionsverhandlungen",
-      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/a-bis-z-berlin-koalitionsverhandlungen-linke-gruene-spd-koalitionsvertrag-berlin.html",
-      "date": "Fri, 06 Nov 2026 10:51:16 +0100"
-    },
-    {
-      "title": "Angriff auf Ex-Partnerin: 39-Jähriger zu Haft und Sicherungsverwahrung verurteilt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-landgericht-vergewaltiger-angriff-ex-partnerin-verurteilt.html",
-      "date": "Fri, 06 Nov 2026 10:24:20 +0100"
-    },
-    {
-      "title": "Abschussprämie oder Verhütung? Neue Lösungsansätze im Kampf gegen Waschbären",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/waschbaer-population-invasive-art-plage-schwanzpraemie-jagen-potsdam-mittelmark.html",
-      "date": "Fri, 06 Nov 2026 10:18:38 +0100"
-    },
-    {
-      "title": "Heizkraftwerk Moabit: Zweiter Brand in einer Woche",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-foerderband-heizkraftwerl-moabit-brand-holzreste.html",
-      "date": "Fri, 06 Nov 2026 09:47:38 +0100"
-    },
-    {
-      "title": "Zehn Jahre Museum Barberini: Markenkern Impressionismus",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/11/brandenburg-zehn-jahre-museum-barberini-ausstellung-impressionisten.html",
-      "date": "Fri, 06 Nov 2026 08:54:00 +0100"
-    },
-    {
-      "title": "Grenzüberschreitende Buslinie Frankfurt-Slubice eingestellt",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/11/grenzueberschreitend-buslinie-ffo-eingestellt-983-slubice.html",
-      "date": "Fri, 06 Nov 2026 08:19:55 +0100"
-    },
-    {
-      "title": "Neue Pflege-Berufe: Auf Hausbesuch mit der Pflegefachkraft-Plus",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/brandenburg-pflegekraefte-weiterbildung-mehr-kompetenzen.html",
-      "date": "Fri, 06 Nov 2026 08:14:07 +0100"
-    },
-    {
-      "title": "Mann am Berliner Sterndamm angeschossen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-johannisthal-mann-streit-angeschossen.html",
-      "date": "Fri, 06 Nov 2026 08:08:10 +0100"
-    },
-    {
-      "title": "Herbstdeichschau in der Prignitz: Risse, Biber - und trotzdem eine gute Bilanz",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/deiche-risse-biber-sicherheit-prignitz-brandenburg.html",
-      "date": "Fri, 06 Nov 2026 06:06:08 +0100"
-    },
-    {
-      "title": "Landgericht Potsdam: Lebenslange Haft nach Tod des Schwiegervaters",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/schwiegervater-getoetet-michendorf-potsdam-mittelmark-lebenslange-haft.html",
-      "date": "Thu, 05 Nov 2026 22:55:00 +0100"
+      "date": "Fri, 06 Nov 2026 15:39:02 +0100"
     }
   ],
   "police": [
+    {
+      "title": "Überfall in Wohnung – Täterinnen flüchten mit Beute",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1736121.php",
+      "date": "Fri, 06 Nov 2026 17:02:11 +0100"
+    },
+    {
+      "title": "Bildungs- und Kunstprojekt beschädigt",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1736046.php",
+      "date": "Fri, 06 Nov 2026 15:25:58 +0100"
+    },
+    {
+      "title": "Verkehrsunfallflucht – Mann im Krankenhaus",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1736039.php",
+      "date": "Fri, 06 Nov 2026 15:14:12 +0100"
+    },
+    {
+      "title": "13-Jährige vermisst – Polizei bittet um Mithilfe",
+      "link": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1734546.php",
+      "date": "Fri, 06 Nov 2026 13:46:00 +0100"
+    },
     {
       "title": "Durchsuchungsbeschlüsse wegen des Verdachts des bandenmäßigen Drogenhandels vollstreckt – vierzehn Festnahmen",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1735791.php",
@@ -101,26 +121,6 @@
       "title": "Randalierende Frau verletzt Security-Mitarbeiter und zwei Polizeikräfte",
       "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1735139.php",
       "date": "Wed, 04 Nov 2026 16:35:00 +0100"
-    },
-    {
-      "title": "Schaufenster eingeschlagen und Schmuck entwendet",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1734952.php",
-      "date": "Wed, 04 Nov 2026 16:04:11 +0100"
-    },
-    {
-      "title": "Schuss auf Reifen eines flüchtenden Fahrzeugs",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1734755.php",
-      "date": "Wed, 04 Nov 2026 11:55:50 +0100"
-    },
-    {
-      "title": "Tierskulpturen im Großen Tiergarten beschmiert",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1734749.php",
-      "date": "Wed, 04 Nov 2026 11:50:54 +0100"
-    },
-    {
-      "title": "Fanschal geraubt – Polizei bittet um Mithilfe",
-      "link": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1734641.php",
-      "date": "Wed, 04 Nov 2026 09:40:06 +0100"
     }
   ],
   "free_events": [],
@@ -128,64 +128,64 @@
   "job_fairs": [],
   "ethics": [
     {
+      "title": "Bürgermeister Wandlitz zu Bogenseeareal: \"Ich sehe die Chancen, die das Objekt mit sich bringt\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/interview-wandlitz-buergermeister-borchert-bogensee.html",
+      "date": "Fri, 06 Nov 2026 18:21:25 +0100"
+    },
+    {
+      "title": "Feuerwehr rückt zu zweitem Brand in einer Woche zum Heizkraftwerk Moabit aus",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-foerderband-heizkraftwerl-moabit-brand-holzreste.html",
+      "date": "Fri, 06 Nov 2026 17:49:41 +0100"
+    },
+    {
+      "title": "Teltow-Fläming: Wildpark Johannismühle kann teilweise wieder öffnen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/wildpark-johannismuehle-teilweise-oeffnung.html",
+      "date": "Fri, 06 Nov 2026 17:38:09 +0100"
+    },
+    {
+      "title": "Haben Kinder in Brandenburg Halloween-Süßgkeiten mit Nadeln präpariert?",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/halloween-suessigkeiten-schokoriegel-kinder.html",
+      "date": "Fri, 06 Nov 2026 17:33:00 +0100"
+    },
+    {
+      "title": "Tierseuche: Geflügelpest in Brandenburg bei Wildgans nachgewiesen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/gefluegelpest-vogelgrippe-brandenburg-oder-spree-gans.html",
+      "date": "Fri, 06 Nov 2026 17:19:14 +0100"
+    },
+    {
+      "title": "Kleinflugzeug stürzt auf der A2 bei Magdeburg ab - zwei Tote",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/flugzeugabsturz-magdeburg-kleinflugzeug-tote.html",
+      "date": "Fri, 06 Nov 2026 16:32:00 +0100"
+    },
+    {
+      "title": "Große Suchaktion: 13-jähriges Mädchen aus Marzahn vermisst",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-marzahn-13-jahre-maedchen-vermisst-polizei-suche.html",
+      "date": "Fri, 06 Nov 2026 15:56:25 +0100"
+    },
+    {
+      "title": "Uckermark: Sowjetisches Ehrenmal in Angermünde beschädigt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/angermuende-sowjetisches-ehrenmal-sowjetstern-beschaedigt.html",
+      "date": "Fri, 06 Nov 2026 15:53:25 +0100"
+    },
+    {
       "title": "Weihnachtsbaum mit Verspätung am Gendarmenmarkt angekommen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-weihnachtsbaum-probleme-transport-gendarmenmarkt.html",
-      "date": "Fri, 06 Nov 2026 11:11:42 +0100"
+      "date": "Fri, 06 Nov 2026 15:39:02 +0100"
     },
     {
-      "title": "Angriff auf Ex-Partnerin: 39-Jähriger zu Haft und Sicherungsverwahrung verurteilt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-landgericht-vergewaltiger-angriff-ex-partnerin-verurteilt.html",
-      "date": "Fri, 06 Nov 2026 10:24:20 +0100"
+      "title": "Mitgliedschaft in terroristischer Vereinigung: IS-Anhängerin in Berlin verurteilt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-is-anhaengerin-haft-verurteilt-islamischer-staat.html",
+      "date": "Fri, 06 Nov 2026 13:49:00 +0100"
     },
     {
-      "title": "Abschussprämie oder Verhütung? Neue Lösungsansätze im Kampf gegen Waschbären",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/waschbaer-population-invasive-art-plage-schwanzpraemie-jagen-potsdam-mittelmark.html",
-      "date": "Fri, 06 Nov 2026 10:18:38 +0100"
+      "title": "Jugendliche wegen Erpressung bei Dates mit Männern vor Gericht",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/prozess-frankfurt-oder-online-dating-erpressung.html",
+      "date": "Fri, 06 Nov 2026 13:43:20 +0100"
     },
     {
-      "title": "Heizkraftwerk Moabit: Zweiter Brand in einer Woche",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-foerderband-heizkraftwerl-moabit-brand-holzreste.html",
-      "date": "Fri, 06 Nov 2026 09:47:38 +0100"
-    },
-    {
-      "title": "Neue Pflege-Berufe: Auf Hausbesuch mit der Pflegefachkraft-Plus",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/brandenburg-pflegekraefte-weiterbildung-mehr-kompetenzen.html",
-      "date": "Fri, 06 Nov 2026 08:14:07 +0100"
-    },
-    {
-      "title": "Mann am Berliner Sterndamm angeschossen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-johannisthal-mann-streit-angeschossen.html",
-      "date": "Fri, 06 Nov 2026 08:08:10 +0100"
-    },
-    {
-      "title": "Herbstdeichschau in der Prignitz: Risse, Biber - und trotzdem eine gute Bilanz",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/deiche-risse-biber-sicherheit-prignitz-brandenburg.html",
-      "date": "Fri, 06 Nov 2026 06:06:08 +0100"
-    },
-    {
-      "title": "Landgericht Potsdam: Lebenslange Haft nach Tod des Schwiegervaters",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/schwiegervater-getoetet-michendorf-potsdam-mittelmark-lebenslange-haft.html",
-      "date": "Thu, 05 Nov 2026 22:55:00 +0100"
-    },
-    {
-      "title": "Bierpinsel in Berlin-Steglitz wohl noch wochenlang gesperrt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/bierpinsel-berlin-steglitz-sperrung-lose-fassadenteile.html",
-      "date": "Thu, 05 Nov 2026 20:05:53 +0100"
-    },
-    {
-      "title": "Ermittler finden bei Duchsuchungen in Berlin und Brandenburg kiloweise Drogen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-brandenburg-drogenbande-durchsuchungen-festnahmen.html",
-      "date": "Thu, 05 Nov 2026 19:25:00 +0100"
-    },
-    {
-      "title": "Berlin kommt bei digitaler Parkraumbewirtschaftung nicht voran",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-senat-verzoegerungen-digitale-parkraumbewirtschaftung.html",
-      "date": "Thu, 05 Nov 2026 18:14:33 +0100"
-    },
-    {
-      "title": "Berliner Unternehmen offenbar verwickelt in Steuerbetrug mit Luxusautos",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/steuerbetrug-berlin-durchsuchungen-beschlagnahmungen-.html",
-      "date": "Thu, 05 Nov 2026 18:06:46 +0100"
+      "title": "Jahreswechsel: Berlin soll wieder zwei zentrale Silvester-Partys bekommen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-zwei-silvesterpartys-brandenburger-tor-demo.html",
+      "date": "Fri, 06 Nov 2026 13:25:08 +0100"
     }
   ]
 }
