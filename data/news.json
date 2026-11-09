@@ -1,14 +1,44 @@
 {
   "traffic": [
     {
-      "title": "Nach Unions Niederlage in Freiburg: Rönnow und die Einsamkeit des Torhüters",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/11/fussball-bundesliga-sc-freiburg-1-fc-union-berlin-analyse-statistiken.html",
-      "date": "Sun, 08 Nov 2026 21:49:02 +0100"
+      "title": "Warnstreik bei Mercedes und Gestamp in Ludwigsfelde",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/11/marcedes-gestamp-warnstreik-ludwigsfelde-ig-metall.html",
+      "date": "Mon, 09 Nov 2026 08:27:08 +0100"
+    },
+    {
+      "title": "Jeff Mills in Potsdam: Glockenklänge für die Unterwelt",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/11/jeff-mills-metropolis-nikolaisaal-potsdam.html",
+      "date": "Mon, 09 Nov 2026 08:08:34 +0100"
     },
     {
       "title": "Vermisste 13-Jährige aus Marzahn tot in Brandenburg gefunden - Mutmaßlicher Täter in Klinik",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-marzahn-vermisstes-maedchen-tot-brandenburg-bad-freienwalde.html",
-      "date": "Sun, 08 Nov 2026 20:26:29 +0100"
+      "date": "Mon, 09 Nov 2026 07:50:18 +0100"
+    },
+    {
+      "title": "ARD-Umfrage zu Demokratie: Der Bürgermeister von der Kuchentheke",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/11/umfrage-ard-deine-meinung-zaehlt-demokratie-buergermeister-brandenburg-schoenwald.html",
+      "date": "Mon, 09 Nov 2026 06:17:56 +0100"
+    },
+    {
+      "title": "Veranstaltungen zum 9. November in Berlin und Brandenburg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-brandenburg-veranstaltungen-gedenken-neunter-november-mauerfall-reichspogrome.html",
+      "date": "Mon, 09 Nov 2026 06:04:08 +0100"
+    },
+    {
+      "title": "Fluchtgeschichte Teil 2: Holgers Reise von der DDR in die BRD und zurück",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-mauerfall-9-november-ddr-brd-flucht-geschichte-zweiter-teil.html",
+      "date": "Mon, 09 Nov 2026 06:04:01 +0100"
+    },
+    {
+      "title": "ARD-Umfrage: Demokratie steht nicht in Frage, aber die Form der Umsetzung",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/11/umfrage-ard-deine-meinung-zaehlt-demokratie-berlin-brandenburg.html",
+      "date": "Mon, 09 Nov 2026 06:02:08 +0100"
+    },
+    {
+      "title": "Nach Unions Niederlage in Freiburg: Rönnow und die Einsamkeit des Torhüters",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/11/fussball-bundesliga-sc-freiburg-1-fc-union-berlin-analyse-statistiken.html",
+      "date": "Sun, 08 Nov 2026 21:49:00 +0100"
     },
     {
       "title": "0:2-Niederlage: Union Berlin chancenlos in Freiburg",
@@ -29,36 +59,6 @@
       "title": "Eishockey-WM: Deutsches Frauen-Team chancenlos gegen USA",
       "link": "https://www.rbb24.de/sport/beitrag/2026/11/eishockey-wm-frauen-deutschland-usa-chancenlos-spielbericht.html",
       "date": "Sun, 08 Nov 2026 19:06:53 +0100"
-    },
-    {
-      "title": "Rosenberg bleibt Bürgermeister von Premnitz - deutliches Ergebnis bei Bürgerentscheid",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/11/premnitz-buergerentscheid-abwahl-antrag-buergermeister-rosenberg.html",
-      "date": "Sun, 08 Nov 2026 19:01:41 +0100"
-    },
-    {
-      "title": "Viktoria Berlin feiert Torspektakel im Derby gegen Hertha BSC",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/11/fussball-2-frauen-bundesliga-viktoria-berlin-hertha-bsc-derby-andernach-turbine-potsdam-spielbericht.html",
-      "date": "Sun, 08 Nov 2026 18:56:13 +0100"
-    },
-    {
-      "title": "Früher Rückstand, tolle Moral: Union holt Remis gegen Hoffenheim",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/11/fussball-frauen-bundesliga-union-berlin-tsg-hoffenheim-spielbericht.html",
-      "date": "Sun, 08 Nov 2026 18:17:36 +0100"
-    },
-    {
-      "title": "Regionalliga: Hertha II punktet in wildem Spiel gegen Magdeburg II",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/11/fussball-regionalliga-nordost-rlno-rsv-eintracht-aue-hertha-bsc-ii-magdeburg-ii.html",
-      "date": "Sun, 08 Nov 2026 18:16:11 +0100"
-    },
-    {
-      "title": "Furiose Aufholjagd: DEB-Team wird Zweiter im Deutschland-Cup bei Rankel-Debüt",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/11/eishockey-deutschland-cup-deb-team-slowakei-debuet-rankel-platz-zwei.html",
-      "date": "Sun, 08 Nov 2026 18:08:52 +0100"
-    },
-    {
-      "title": "Neuer Bürgermeister von Kyritz wird am Sonntag gewählt",
-      "link": "https://www.rbb24.de/politik/wahl/brandenburg-buergermeisterwahlen/2026/kyritz-ostprignitz-ruppin-meyer-gaszczak-wilke-brandenburg.html",
-      "date": "Sun, 08 Nov 2026 18:00:30 +0100"
     }
   ],
   "police": [
@@ -130,7 +130,17 @@
     {
       "title": "Vermisste 13-Jährige aus Marzahn tot in Brandenburg gefunden - Mutmaßlicher Täter in Klinik",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-marzahn-vermisstes-maedchen-tot-brandenburg-bad-freienwalde.html",
-      "date": "Sun, 08 Nov 2026 20:26:29 +0100"
+      "date": "Mon, 09 Nov 2026 07:50:18 +0100"
+    },
+    {
+      "title": "Veranstaltungen zum 9. November in Berlin und Brandenburg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-brandenburg-veranstaltungen-gedenken-neunter-november-mauerfall-reichspogrome.html",
+      "date": "Mon, 09 Nov 2026 06:04:08 +0100"
+    },
+    {
+      "title": "Fluchtgeschichte Teil 2: Holgers Reise von der DDR in die BRD und zurück",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-mauerfall-9-november-ddr-brd-flucht-geschichte-zweiter-teil.html",
+      "date": "Mon, 09 Nov 2026 06:04:01 +0100"
     },
     {
       "title": "13 Jahre altes Mädchen aus Marzahn vermisst – Polizei setzt Suche fort",
@@ -176,16 +186,6 @@
       "title": "Berliner Geschäfte dürfen an zwei Sonntagen im Advent öffnen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-verkaufsoffene-sonntage-advent-oeffnung-geschaefte.html",
       "date": "Sun, 08 Nov 2026 12:34:03 +0100"
-    },
-    {
-      "title": "Veranstaltungen zum 9. November in Berlin und Brandenburg",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-brandenburg-veranstaltungen-gedenken-neunter-november-mauerfall-reichspogrome.html",
-      "date": "Sun, 08 Nov 2026 08:05:05 +0100"
-    },
-    {
-      "title": "Potsdam: \"Blaulichtgottesdienst\" erinnert an gestorbene Einsatzkräfte",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/potsdam-blaulicht-gottesdienst-verstorbene-einsatzkraefte.html",
-      "date": "Sat, 07 Nov 2026 19:02:11 +0100"
     }
   ]
 }
