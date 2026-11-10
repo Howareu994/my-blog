@@ -1,9 +1,39 @@
 {
   "traffic": [
     {
-      "title": "Durchsuchungen wegen Schusswaffenkriminalität in Berlin",
+      "title": "Polizei durchsucht neun Wohnungen und Vereinsheim der \"Hells Angels\"",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/11/einsatzkraefte-polizei-berlin-hells-angels-spezialeinsatzkommando-bundespolizei.html",
-      "date": "Mon, 09 Nov 2026 21:50:00 +0100"
+      "date": "Tue, 10 Nov 2026 08:55:28 +0100"
+    },
+    {
+      "title": "Schießereien: \"Wenn diese Personen gefasst werden, kümmert sich keiner mehr\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-schusswaffen-gewalt-schiessen-staatsanwalt.html",
+      "date": "Tue, 10 Nov 2026 08:44:47 +0100"
+    },
+    {
+      "title": "Havelland: Tabakspürhündin findet 48.000 geschmuggelte Zigaretten im Wald",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/zigaretten-schmuggel-fund-rathenow-.html",
+      "date": "Tue, 10 Nov 2026 08:41:52 +0100"
+    },
+    {
+      "title": "Ana Roxanne in Berlin: Eine Hommage an alle Langschläfer",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/11/konzert-ana-roxanne-ambient-silent-green-berlin.html",
+      "date": "Tue, 10 Nov 2026 08:13:44 +0100"
+    },
+    {
+      "title": "Jahrestag NS-Pogrome: Woidke ruft zum Kampf gegen Extremismus auf",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/11/jahrestag-ns-novemberpogrome-woidke-kampf-gegen-extremismus.html",
+      "date": "Tue, 10 Nov 2026 07:48:45 +0100"
+    },
+    {
+      "title": "Strafprozess gegen ehemalige rbb-Intendantin Schlesinger beginnt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/ex-rbb-intendantin-patricia-schlesinger-landgericht-berlin-untreue.html",
+      "date": "Tue, 10 Nov 2026 06:03:45 +0100"
+    },
+    {
+      "title": "Rot-Grün-Rot plant 220 Millionen Mehrausgaben für wichtigste Projekte",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/rot-gruen-rot-regierungsbildung-berlin-facharbeitsgruppen-vorgaben-bedienungsanleitung.html",
+      "date": "Tue, 10 Nov 2026 06:02:38 +0100"
     },
     {
       "title": "17-Jährige in Berlin mit Schusswaffe bewusstlos geschlagen",
@@ -29,36 +59,6 @@
       "title": "So sucht die Polizei nach vermissten Menschen",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/11/vermisste-suche-berlin-polizei-vermisstenstelle.html",
       "date": "Mon, 09 Nov 2026 18:09:10 +0100"
-    },
-    {
-      "title": "Frau mit Stichverletzungen im Krankenhaus - Verdächtiger in U-Haft",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/luebben-spreewald-frau-mit-stichverletzungen.html",
-      "date": "Mon, 09 Nov 2026 17:29:36 +0100"
-    },
-    {
-      "title": "Brandenburg übernimmt Finanzierung längerer Betreuungszeiten in den Kitas",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/11/kita-pakt-2030-land-uebernimmt-finanzierung-laengerer-kita-zeiten-brandenburg.html",
-      "date": "Mon, 09 Nov 2026 17:20:30 +0100"
-    },
-    {
-      "title": "9. November: Berlin und Brandenburg erinnern an den Mauerfall vor 37 Jahren",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/11/berlin-erinnerung-mauerfall-37-jahre-danach.html",
-      "date": "Mon, 09 Nov 2026 17:16:33 +0100"
-    },
-    {
-      "title": "Union-Boss in der Kritik: Horst Heldt kämpft um das Vertrauen",
-      "link": "https://www.rbb24.de/sport/beitrag/2026/11/fussball-bundesliga-union-berlin-manager-horst-heldt-lustrinelli.html",
-      "date": "Mon, 09 Nov 2026 17:09:00 +0100"
-    },
-    {
-      "title": "Mögliche Bundespräsidentin Aigner: Reaktionen aus Brandenburg",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/11/brandenburg-woidke-redmann-wuerdigung-aigner-nominierung-moegliche-bundespraesidentin.html",
-      "date": "Mon, 09 Nov 2026 17:00:14 +0100"
-    },
-    {
-      "title": "Lausitzer Energieversorger: Leag will erneut bei Gaskraftwerken mitbieten",
-      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/11/brandenburg-jaenschwalde-leag-gaskraftwerke-mitbieten.html",
-      "date": "Mon, 09 Nov 2026 16:39:52 +0100"
     }
   ],
   "police": [
@@ -130,7 +130,27 @@
     {
       "title": "Durchsuchungen wegen Schusswaffenkriminalität in Berlin",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/11/einsatzkraefte-polizei-berlin-hells-angels-spezialeinsatzkommando-bundespolizei.html",
-      "date": "Mon, 09 Nov 2026 21:50:00 +0100"
+      "date": "Tue, 10 Nov 2026 08:55:28 +0100"
+    },
+    {
+      "title": "Schießereien: \"Wenn diese Personen gefasst werden, kümmert sich keiner mehr\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-schusswaffen-gewalt-schiessen-staatsanwalt.html",
+      "date": "Tue, 10 Nov 2026 08:44:47 +0100"
+    },
+    {
+      "title": "Havelland: Tabakspürhündin findet 48.000 geschmuggelte Zigaretten im Wald",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/zigaretten-schmuggel-fund-rathenow-.html",
+      "date": "Tue, 10 Nov 2026 08:41:52 +0100"
+    },
+    {
+      "title": "In eigener Sache: Wie der rbb über den Schlesinger-Prozess berichtet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/in-eigener-sache-rbb-berichterstattung-strafprozess-patricia-schlesinger.html",
+      "date": "Tue, 10 Nov 2026 06:04:13 +0100"
+    },
+    {
+      "title": "Strafprozess gegen ehemalige rbb-Intendantin Schlesinger beginnt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/ex-rbb-intendantin-patricia-schlesinger-landgericht-berlin-untreue.html",
+      "date": "Tue, 10 Nov 2026 06:03:45 +0100"
     },
     {
       "title": "17-Jährige in Berlin mit Schusswaffe bewusstlos geschlagen",
@@ -166,26 +186,6 @@
       "title": "Frau mit Stichverletzungen im Krankenhaus - Verdächtiger in U-Haft",
       "link": "https://www.rbb24.de/panorama/beitrag/2026/11/luebben-spreewald-frau-mit-stichverletzungen.html",
       "date": "Mon, 09 Nov 2026 17:29:36 +0100"
-    },
-    {
-      "title": "Anklage gegen mutmaßliche Rezeptfälscher: in Potsdam festgenommen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/rezeptfaelscher-bande-anklage-potsdamer-wohnung.html",
-      "date": "Mon, 09 Nov 2026 15:36:53 +0100"
-    },
-    {
-      "title": "Prignitz: Ehepaar bei Kollision mit Regionalbahn schwer verletzt",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/ehepaar_bei_kollision_auf_bahnuebergang_verletzt.html",
-      "date": "Mon, 09 Nov 2026 15:16:15 +0100"
-    },
-    {
-      "title": "RE1 zwischen Fürstenwalde und Erkner drei Wochen unterbrochen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/re-1-zug-ausfaelle-fuerstenwalde-erkner-brandenburg-november-dezember.html",
-      "date": "Mon, 09 Nov 2026 15:10:22 +0100"
-    },
-    {
-      "title": "Bundeswehr: Truppenübungen in zwei Brandenburger Landkreisen",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/bundeswehr-truppenuebung-drohnen-oder-spree-maerkisch-oderland-brandenburg.html",
-      "date": "Mon, 09 Nov 2026 13:51:09 +0100"
     }
   ]
 }
